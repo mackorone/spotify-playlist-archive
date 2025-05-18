@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-939 songs - 1 day 22 hr 16 min
+940 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2022-06-08 | 2022-08-25 |
 | [Life of the Party](https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Life of the Party](https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR) | 3:12 | 2024-05-10 | 2024-05-17 |
 | [Light Up](https://open.spotify.com/track/0F98hOl7tUOTXphPzFfFX3) | [Lovince Mckenzie](https://open.spotify.com/artist/4dTlGjltanfIiMqXrPD8eZ), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Light Up](https://open.spotify.com/album/4xtF86l14dbbZvCBB8OppD) | 2:17 | 2024-09-27 | 2024-11-08 |
+| [Like Dat](https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Like Dat](https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc) | 2:31 | 2025-05-16 |  |
 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 | 2023-07-14 | 2024-04-27 |
 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 | 2023-11-24 | 2024-02-09 |
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 | 2023-05-12 |
@@ -880,7 +881,7 @@
 | [Uptown Disco](https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:59 | 2024-06-28 | 2025-02-25 |
 | [Uptown Girl](https://open.spotify.com/track/6Dcg4JEZgSS4YOeSpu4S76) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Uptown Girl](https://open.spotify.com/album/6Z7llQEJK2H6PRxK5gOIYs) | 2:34 | 2022-09-30 | 2022-10-31 |
 | [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 | 2022-11-25 | 2022-12-09 |
-| [Velvet](https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Onorato](https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle) | 2:43 | 2025-02-21 |  |
+| [Velvet](https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Onorato](https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle) | 2:43 | 2025-02-21 | 2025-05-18 |
 | [Venus](https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB) | [Faceless](https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Venus](https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n) | 2:19 | 2024-12-21 |  |
 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 | 2025-02-21 |  |
 | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB) | 3:05 | 2024-11-08 |  |

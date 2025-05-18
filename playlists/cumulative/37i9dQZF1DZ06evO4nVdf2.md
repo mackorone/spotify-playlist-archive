@@ -4,7 +4,7 @@
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 14 min
+88 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Mañana No Es Hoy \- Versión de Ximena](https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amarte Duele \(Versiones de Ximena\)](https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0) | 3:13 | 2025-03-15 |  |
 | [Mediocre](https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:16 | 2023-12-26 |  |
 | [Mis Sentimientos](https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl) | 3:36 | 2023-12-26 |  |
-| [Monitor](https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:23 | 2023-12-26 |  |
+| [Monitor](https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:23 | 2023-12-26 | 2025-05-18 |
 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 | 2023-12-26 | 2025-03-30 |
 | [N.I.T.](https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr) | 3:29 | 2025-03-02 |  |
 | [Nada en el Mundo](https://open.spotify.com/track/5RDh1l1UpE76JMSZfllGdJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada en el Mundo](https://open.spotify.com/album/58HK6YSgDmdE7WZ4GIDe3G) | 2:36 | 2025-01-08 | 2025-01-31 |
@@ -67,6 +67,7 @@
 | [Ojos Diamante](https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ojos Diamante](https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51) | 2:43 | 2024-08-25 | 2025-03-25 |
 | [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 | 2023-12-26 | 2024-02-22 |
 | [Pasito Tun Tun \(with Ximena Sariñana\) \- En Vivo](https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Homenaje a la Música Tropical \(En Vivo\)](https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx) | 3:51 | 2023-12-26 |  |
+| [Película \- Intervenida por Ximena Sariñana](https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Película \(Intervenida por Ximena Sariñana\)](https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS) | 4:03 | 2025-05-18 |  |
 | [Piel Canela](https://open.spotify.com/track/7v6clWErpKKYdwp2oLVXAA) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Radiolatina](https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1) | 3:59 | 2024-06-02 | 2024-12-01 |
 | [Poquito A Poquito](https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:42 | 2023-12-26 |  |
 | [Pueblo Abandonado \(feat\. Francisca Valenzuela\)](https://open.spotify.com/track/5gUV6Hkty3stHGXy0KrZmb) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:35 | 2024-05-20 | 2024-07-09 |

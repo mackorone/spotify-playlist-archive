@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 106729,
+  "num_followers": 106741,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADnCMVLrNb5d+VU19OmIeE5",
+  "snapshot_id": "aCaAAAAAAAA70fNo3WvToQIntZFM2TyD",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ballad of John Henry",
+        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 400333,
+      "name": "Happier Times",
+      "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortune Teller Blues",
         "url": "https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 382072,
       "name": "Fortune Teller Blues",
       "url": "https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ballad of John Henry",
-        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 400333,
-      "name": "Happier Times",
-      "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
-      },
-      "artists": [
-        {
-          "name": "The Imaginaries",
-          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -499,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "The Imaginaries",
+          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 349573,
-      "name": "Summertime (Live)",
-      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+      "duration_ms": 227453,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
       "added_at": null,
@@ -539,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
       "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+      "duration_ms": 349573,
+      "name": "Summertime (Live)",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
     },
     {
       "added_at": null,
@@ -575,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
       "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 246306,
-      "name": "When Will I Let Her Go",
-      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -607,6 +587,26 @@
       "duration_ms": 333333,
       "name": "What I've Known For A Very Long Time",
       "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "When Will I Let Her Go",
+      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 400240,
       "name": "Just 'Cos You Can Don't Mean You Should",
       "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
     },
     {
       "added_at": null,

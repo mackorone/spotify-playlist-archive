@@ -3185,6 +3185,32 @@
     },
     {
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/3Mdo6S8ebG5YYkyHmrnTPU"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "Francis Skyes",
+          "url": "https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198475,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/4dgNanbtzhZasNoHZlGaXs"
+    },
+    {
+      "album": {
         "name": "Casualty (feat. maybealice)",
         "url": "https://open.spotify.com/album/4mk0z9SPh1YnvJEuo37JJU"
       },

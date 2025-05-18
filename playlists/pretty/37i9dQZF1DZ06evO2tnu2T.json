@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 53,
+  "num_followers": 55,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABaNDrGpbAlZdL3V1J9hW3k",
+  "snapshot_id": "aCaAAAAAAACu3BF8JgW9qCxY2ShXIAEU",
   "tracks": [
     {
       "added_at": null,
@@ -196,6 +196,22 @@
       "added_at": null,
       "album": {
         "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 185638,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
       },
       "artists": [
@@ -223,22 +239,6 @@
       "duration_ms": 161524,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 185638,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb"
     }
   ],
   "unique_name": "This Is Absolutely",

@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175665,
+      "name": "Background",
+      "url": "https://open.spotify.com/track/1qmcc6IRvBdhmqhLhSaJoo"
+    },
+    {
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -1938,6 +1956,24 @@
       "duration_ms": 191689,
       "name": "By my side",
       "url": "https://open.spotify.com/track/6pITZXwdr65RCKU9t9KNZP"
+    },
+    {
+      "album": {
+        "name": "By my side",
+        "url": "https://open.spotify.com/album/0aQ0oJLfRunDCTGgUd1ZXI"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "By my side 2",
+      "url": "https://open.spotify.com/track/0dwxXxQzXxwNNTcBLXfnTz"
     },
     {
       "album": {
@@ -3228,6 +3264,24 @@
       "duration_ms": 174006,
       "name": "don't wanna break up again",
       "url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
       "album": {
@@ -5230,7 +5284,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 184698,
       "name": "Handlebars (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
@@ -5248,7 +5302,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -5266,7 +5320,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
@@ -5694,7 +5748,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/5doooVlMVRZztQbySqARMI"
@@ -6676,7 +6730,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -7708,6 +7762,28 @@
       "duration_ms": 253755,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5MGYY2USzSzFFrJe2Nul7Q"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        },
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155638,
+      "name": "Loser (feat. YENA)",
+      "url": "https://open.spotify.com/track/4WrkJNGb4zUwARc0FD3iNf"
     },
     {
       "album": {
@@ -9283,6 +9359,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176126,
+      "name": "Nothing Without Your Love",
+      "url": "https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK"
       },
@@ -10414,6 +10508,24 @@
       "duration_ms": 197693,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165809,
+      "name": "Rope It",
+      "url": "https://open.spotify.com/track/5566hAPt0WmMPr9Xn749L7"
     },
     {
       "album": {
@@ -13169,6 +13281,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181575,
+      "name": "To Me, Today",
+      "url": "https://open.spotify.com/track/3f7rVNaBNocDLtPmnds9eE"
+    },
+    {
+      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -14160,7 +14290,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -14196,7 +14326,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -14388,6 +14518,24 @@
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188897,
+      "name": "With the Clouds",
+      "url": "https://open.spotify.com/track/5RdKO1lsHG9jhbG03LL7cv"
     },
     {
       "album": {
@@ -14796,7 +14944,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 258292,
       "name": "\u20601994",
       "url": "https://open.spotify.com/track/4tLmgS4JGvc3OZJOya96cj"
@@ -15290,7 +15438,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -16160,7 +16308,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 259375,
       "name": "\u5230\u5e95\u767c\u751f\u904e\u4ec0\u9ebc\u4e8b",
       "url": "https://open.spotify.com/track/1t5D0Y5VMTEISUpAZXoFpN"
@@ -16560,7 +16708,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 270200,
       "name": "\u54ea\u88e1\u53ea\u5f97\u6211\u5171\u4f60",
       "url": "https://open.spotify.com/track/6oHNXUrt4s5JJIM1WoOwsZ"
@@ -19750,7 +19898,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 243017,
       "name": "\u73a9\u5076\u5947\u9047\u8a18",
       "url": "https://open.spotify.com/track/1hf26XBrWNvfKiOeXU2Vtk"

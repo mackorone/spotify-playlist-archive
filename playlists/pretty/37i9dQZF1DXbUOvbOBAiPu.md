@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Zwangere Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,485 likes - 105 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,486 likes - 105 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 12 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 13 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 |
 | 14 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |
-| 15 | [Arpegia \(Without You\) \- Edit](https://open.spotify.com/track/1C6a4U5RlF9TuccFEJTaki) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz), [The Mackenzie](https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP), [Jessy](https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj) | [Arpegia \(Without You\)](https://open.spotify.com/album/0KuqAxl5g1bXP81nvX3Ly6) | 3:48 |
+| 15 | [Arpegia \(Without You\)](https://open.spotify.com/track/1C6a4U5RlF9TuccFEJTaki) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz), [The Mackenzie](https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP), [Jessy](https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj) | [Arpegia \(Without You\)](https://open.spotify.com/album/0KuqAxl5g1bXP81nvX3Ly6) | 3:48 |
 | 16 | [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 |
 | 17 | [Dodo](https://open.spotify.com/track/4dGdIVjdIsJCGZ6hOSe7Ql) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Dodo](https://open.spotify.com/album/3wMJ89637YFpcqgALNtwPZ) | 2:42 |
 | 18 | [Forgiveness](https://open.spotify.com/track/37itFci9FvClfeIWw57HZm) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Forgiveness](https://open.spotify.com/album/4GVwUApbNBwTeGmXS5Erbn) | 4:02 |

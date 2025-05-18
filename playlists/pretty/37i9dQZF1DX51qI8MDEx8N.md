@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 
 > Soft piano music to accompany your reading
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,176 likes - 116 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,187 likes - 116 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

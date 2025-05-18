@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,351,404 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,351,965 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Qatal](https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:51 |
 | 2 | [Fell For You](https://open.spotify.com/track/1JZPyJbEZRuU7Zl1iAiS5a) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:33 |
-| 3 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 3 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 4 | [Tension](https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:48 |
 | 5 | [Police](https://open.spotify.com/track/4DrDsY7ExVwT371fdjcjgA) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:21 |
 | 6 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |

@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-251 songs - 15 hr 13 min
+252 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Lara](https://open.spotify.com/track/75MFRM8K2wYwMx9lrD8sel) | [Biltre](https://open.spotify.com/artist/2mQmDB0JpRnx5MsU6RBeev), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Lara](https://open.spotify.com/album/5SAP0iDZFQJiSUaCkvgFqq) | 3:20 | 2022-02-04 | 2022-07-20 |
 | [Leoa](https://open.spotify.com/track/348EM8JgXx7Nc42JePgAQV) | [Renata Lopes](https://open.spotify.com/artist/1oWxrZS6SYLs5RSTp49o1J), [Rudigo Calixto](https://open.spotify.com/artist/4Uy7H1f0Tf0nRV5qLB8NMk), [Ziquito Corrone](https://open.spotify.com/artist/4XCiuXO299cYfGA3ygI5gV), [Pedro Coelho](https://open.spotify.com/artist/3KxcjkurSvfG9lDZasIqcC) | [Leoa](https://open.spotify.com/album/1NubcJ7GQOBF7rNmS6rfLP) | 3:47 | 2022-02-04 | 2022-07-28 |
 | [Licença](https://open.spotify.com/track/1tqQAb0THexWHLrv7tSlOE) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [Corpo Possível](https://open.spotify.com/album/4ub2PRMxXBNzpIEHIzWDgL) | 3:58 | 2022-03-22 | 2022-04-15 |
+| [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 | 2025-05-16 |  |
 | [Luxo Pesado](https://open.spotify.com/track/6fGoyJo3yXeZH8AEJr1zF5) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0h3aRXoa5cKYAgKpVYDBfm) | 4:28 | 2022-02-04 | 2022-07-19 |
 | [Lá Vem os Homens](https://open.spotify.com/track/6h1C2xxnuSkmlERRD0AyYC) | [Rabo de Galo](https://open.spotify.com/artist/24ZoZillGXp904OBleohIj), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Ainda Atrás do Pôr do Sol](https://open.spotify.com/album/6LrYdWiPIT35E4wk11pPKd) | 3:56 | 2022-03-14 | 2022-07-20 |
 | [Maceió](https://open.spotify.com/track/30sg1pdAXLKpKvrrQOaF9z) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD) | [Maceió](https://open.spotify.com/album/7ePrwAIxXvhV9Id9Wia836) | 3:03 | 2022-02-04 | 2022-09-15 |
@@ -167,7 +168,7 @@
 | [Negão Negra](https://open.spotify.com/track/21C2FVAKx5JqWT6ta3rEIF) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f) | [Negão Negra](https://open.spotify.com/album/7zAaQDWDo7ygq9vqoojQQc) | 3:06 | 2022-02-04 | 2022-07-19 |
 | [Nem um Pio](https://open.spotify.com/track/16F0NsbQaN13csQqlRuv8A) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Joander Cruz](https://open.spotify.com/artist/2SR3AdtfMykYGLzSlRmhKg) | [Nem Um Pio](https://open.spotify.com/album/0ZkaQjyRSEEtIFYoWRSOPE) | 3:27 | 2022-03-22 | 2022-06-21 |
 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 | 2022-02-04 |  |
-| [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 | 2022-07-04 |  |
+| [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 | 2022-07-04 | 2025-05-18 |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
 | [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 | 2022-02-04 | 2025-02-22 |
 | [Nóis Dois Coladin \(feat\. Bom Gosto\)](https://open.spotify.com/track/07PlqC9FOWlcU3hRH71mcN) | [Brother Charlie](https://open.spotify.com/artist/0MWuoNor5gFicQlufcYvae), [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd) | [Nóis Dois Coladin \(feat\. Bom Gosto\)](https://open.spotify.com/album/0OzhhZBHBNCkjnjh2lkIqC) | 3:08 | 2022-02-04 | 2022-07-25 |

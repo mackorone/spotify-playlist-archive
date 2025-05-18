@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 226447,
+  "num_followers": 226452,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADsUxrRbrA67WUnLQbdsNaR",
+  "snapshot_id": "aCaAAAAAAAAw1l0CScGKqeXsNBYcA0Lw",
   "tracks": [
     {
       "added_at": null,
@@ -643,30 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 192779,
-      "name": "Startender (feat. Offset and Tyga)",
-      "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like It Is",
         "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 192779,
+      "name": "Startender (feat. Offset and Tyga)",
+      "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Splash (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 173161,
-      "name": "Splash (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 208620,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Splash (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 173161,
+      "name": "Splash (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
     },
     {
       "added_at": null,

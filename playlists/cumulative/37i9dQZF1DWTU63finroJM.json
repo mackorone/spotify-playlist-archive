@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "23/17",
+        "url": "https://open.spotify.com/album/0XDi5fRCWYTNZg9H2g1AUD"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        },
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "23/17",
+      "url": "https://open.spotify.com/track/6WE1SUfXxG41NqW9jPHfti"
+    },
+    {
+      "album": {
         "name": "24 Hours in Paris",
         "url": "https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha"
       },
@@ -8020,7 +8042,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 135272,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY"
@@ -10956,7 +10978,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 160603,
       "name": "Funny",
       "url": "https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA"
@@ -19312,6 +19334,24 @@
       "duration_ms": 281654,
       "name": "memento molly.",
       "url": "https://open.spotify.com/track/5u2n42tooFuGEzGldqKDWx"
+    },
+    {
+      "album": {
+        "name": "LUAP",
+        "url": "https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "Memori Kita",
+      "url": "https://open.spotify.com/track/793eFZPmSzKDl0sQ0hWr0r"
     },
     {
       "album": {
@@ -31454,7 +31494,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 164851,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
@@ -33198,6 +33238,24 @@
       "duration_ms": 189243,
       "name": "Wrong Ones",
       "url": "https://open.spotify.com/track/3Rx0g3VVxBnOm2lYtkBsJ3"
+    },
+    {
+      "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "album": {

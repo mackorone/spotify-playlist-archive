@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 165783,
+  "num_followers": 165798,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -79,26 +79,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "The Virgin Suicides (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "Gordon Tracks",
-          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Playground Love",
-      "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 162794,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "The Virgin Suicides (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Gordon Tracks",
+          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Playground Love",
+      "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 204400,
       "name": "Sorry - Original Demo",
       "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
+        "name": "Basement Grooves",
+        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 220346,
       "name": "Firebabe",
       "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
-        "name": "Basement Grooves",
-        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 183761,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Baby Cakes",
         "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 228705,
       "name": "Baby Cakes",
       "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
-      },
-      "artists": [
-        {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "oze",
-          "url": "https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Trying Not To Cry (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
@@ -1339,6 +1319,26 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "oze",
+          "url": "https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 253927,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 179523,
-      "name": "Cinema",
-      "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 179523,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
         "name": "Everything I Didn\u2019t Say",
         "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "every scent",
-        "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
-      },
-      "artists": [
-        {
-          "name": "Yokin",
-          "url": "https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE"
-        }
-      ],
-      "duration_ms": 251727,
-      "name": "every scent",
-      "url": "https://open.spotify.com/track/3CFqwu9NINgqvtc0W5AiKl"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Take A Sip",
         "url": "https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
+        "name": "every scent",
+        "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
+      },
+      "artists": [
+        {
+          "name": "Yokin",
+          "url": "https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE"
+        }
+      ],
+      "duration_ms": 251727,
+      "name": "every scent",
+      "url": "https://open.spotify.com/track/3CFqwu9NINgqvtc0W5AiKl"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
         "name": "Wasting Away",
         "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 168956,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
+      },
+      "artists": [
+        {
+          "name": "Beauty's Confusion",
+          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
+        }
+      ],
+      "duration_ms": 294186,
+      "name": "Moments Like These",
+      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
-      },
-      "artists": [
-        {
-          "name": "Beauty's Confusion",
-          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
-        }
-      ],
-      "duration_ms": 294186,
-      "name": "Moments Like These",
-      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "I WILL BE THE CAUSE OF OUR DEATH",
         "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Hello, I said",
-        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
       "artists": [
         {
-          "name": "Diana Wang",
-          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 156729,
-      "name": "Hello, I said",
-      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1651,6 +1635,22 @@
       "duration_ms": 182115,
       "name": "leave before u do",
       "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "Hello, I said",
+        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
+      },
+      "artists": [
+        {
+          "name": "Diana Wang",
+          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
+        }
+      ],
+      "duration_ms": 156729,
+      "name": "Hello, I said",
+      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Mirror, Mirror on the Wall",
         "url": "https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip"
       },
@@ -1723,18 +1707,34 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Minds & Colors",
-        "url": "https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36"
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
       "artists": [
         {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
         }
       ],
-      "duration_ms": 198280,
-      "name": "All Right",
-      "url": "https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o"
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

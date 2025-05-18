@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 4 | [Resin](https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Resin](https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX) | 3:23 |
 | 5 | [Brother](https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Into The Flame](https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H) | 4:14 |
 | 6 | [Hoops](https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1) | 2:38 |
-| 7 | [Chateau](https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg) | 4:33 |
-| 8 | [Sunbleached Girl](https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD) | [Shag Rock](https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm) | [Barefoot](https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8) | 2:57 |
+| 7 | [Sunbleached Girl](https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD) | [Shag Rock](https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm) | [Barefoot](https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8) | 2:57 |
+| 8 | [Chateau](https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg) | 4:33 |
 | 9 | [Waking Up Easy](https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Waking Up Easy](https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx) | 3:56 |
 | 10 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 11 | [So Caught Up](https://open.spotify.com/track/6tV62HWWPFkSqf7lh5pPwi) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:48 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 49 | [Betterman](https://open.spotify.com/track/1SwwSZY0ZLvNf14BADfpQT) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Three](https://open.spotify.com/album/3xwZOyRWoTxdx2w3nKs7a2) | 8:19 |
 | 50 | [Hold Me](https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:07 |
 | 51 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
-| 52 | [Edge Of Town](https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:45 |
-| 53 | [Roll Up Your Sleeves](https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb) | 3:04 |
-| 54 | [Maybe You Know](https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [My Own Pool of Light](https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf) | 3:57 |
+| 52 | [Maybe You Know](https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [My Own Pool of Light](https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf) | 3:57 |
+| 53 | [Edge Of Town](https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:45 |
+| 54 | [Roll Up Your Sleeves](https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb) | 3:04 |
 | 55 | [Lighthouse](https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:21 |
-| 56 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
+| 56 | [Golden](https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [After Hours, Close To Dawn](https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG) | 3:22 |
 | 57 | [Carry You](https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 4:32 |
-| 58 | [Golden](https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [After Hours, Close To Dawn](https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG) | 3:22 |
+| 58 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
 | 59 | [Mended](https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 5:05 |
 | 60 | [Leaps And Bounds](https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq), [The Messengers](https://open.spotify.com/artist/3cSNDsEV7pFDmsEAQrmO1M) | [Gossip](https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr) | 3:23 |
 | 61 | [Opportunity](https://open.spotify.com/track/64c45et47VnSv04LvzLt4C) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:37 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 76 | [Better Days](https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:43 |
 | 77 | [God Forgot](https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:32 |
 | 78 | [Middle Of The Hill](https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Memories & Dust](https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE) | 2:27 |
-| 79 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
-| 80 | [Elevator](https://open.spotify.com/track/3NHyJsVdN5YYyERIGQE1aC) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 3:47 |
+| 79 | [Elevator](https://open.spotify.com/track/3NHyJsVdN5YYyERIGQE1aC) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 3:47 |
+| 80 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
 | 81 | [Inappropriate Behaviour](https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Inappropriate Behaviour](https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY) | 4:13 |
-| 82 | [Green Limousine](https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR) | [The Badloves](https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc) | [Get On Board](https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq) | 3:45 |
-| 83 | [That Place](https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [That Place](https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi) | 4:38 |
+| 82 | [That Place](https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [That Place](https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi) | 4:38 |
+| 83 | [Green Limousine](https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR) | [The Badloves](https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc) | [Get On Board](https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq) | 3:45 |
 | 84 | [California](https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [California](https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB) | 3:48 |
 | 85 | [Bail Me Out](https://open.spotify.com/track/7uOjc2bpeWSKhnqQKnPras) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Feeler](https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch) | 4:03 |
 

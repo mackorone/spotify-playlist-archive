@@ -4,7 +4,7 @@
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-75 songs - 5 hr 25 min
+76 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Tracing A Dream](https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:01 | 2022-11-17 |  |
 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 | 2024-06-30 |  |
 | [UNDEAD \- English Version](https://open.spotify.com/track/6OjOhAEAIToQ4VrJxrNvLS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD \(English Version\)](https://open.spotify.com/album/1Sr8cnhI92bL74ycNIkFO8) | 3:02 | 2025-02-27 |  |
+| [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 | 2025-05-17 |  |
 | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/episode/0sPNGPetAt5PP9IXKD6Bko) | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn) | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn) | 1:06:00 | 2022-11-17 | 2023-01-20 |
 | [あの夢をなぞって](https://open.spotify.com/track/4BE1OloRc9xwjyqA4wFFuN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [あの夢をなぞって](https://open.spotify.com/album/6VtHuuDn351LBXwpxmvZqt) | 4:02 | 2022-11-17 |  |
 | [たぶん](https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [たぶん](https://open.spotify.com/album/2882DYZkYy3UOYyWOvbnnl) | 4:18 | 2022-11-17 |  |

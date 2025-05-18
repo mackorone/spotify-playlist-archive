@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2ZMfoURN2ZwapN17Yb5d1k.md) - [plain]
 
 > 
 
-[franke!](https://open.spotify.com/user/franke!) - 11 likes - 937 songs - 2 day 13 hr 58 min
+[franke!](https://open.spotify.com/user/franke!) - 12 likes - 937 songs - 2 day 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -946,4 +946,4 @@ pretty - [cumulative](/playlists/cumulative/2ZMfoURN2ZwapN17Yb5d1k.md) - [plain]
 | 936 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
 | 937 | [The Arrival](https://open.spotify.com/track/2x3fzz9XBboZo7TZZO2o6x) | [WZRD](https://open.spotify.com/artist/415rtLOb1FDKZAxo1IJ1hW) | [WZRD](https://open.spotify.com/album/77zg6PEuYSw8wZrvKhNTty) | 2:51 |
 
-Snapshot ID: `AAAAa0N1wo9vovmxKASIhO0bW/6pNyQJ`
+Snapshot ID: `AAAAbduzJPbyBZ/e04oVodQTC9mdVqY4`

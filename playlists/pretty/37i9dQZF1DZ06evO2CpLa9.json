@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 564065,
+  "num_followers": 564074,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABwG9Hg5WXGiXX2Wkag/6w1",
+  "snapshot_id": "aCaAAAAAAAD9iciS8LDojU8Fe2iW/9XH",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "De Viernes a Viernes",
+      "url": "https://open.spotify.com/track/6Coy2E6vUlhlvvHOA2eCOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Llegar\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/1CG4wdJZhVv51VsRujmDnV"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 255712,
       "name": "No Llegar\u00e9 (Remix)",
       "url": "https://open.spotify.com/track/5Fhf4Iwal5MMHXH4TiOiEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "De Viernes a Viernes",
-      "url": "https://open.spotify.com/track/6Coy2E6vUlhlvvHOA2eCOp"
     },
     {
       "added_at": null,
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vicio y la Fama",
-        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 229610,
-      "name": "El Catr\u00edn (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
+      "duration_ms": 160006,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bandera",
-        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 160006,
-      "name": "La Bandera",
-      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
+      "duration_ms": 229610,
+      "name": "El Catr\u00edn (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planta Medicinal",
+        "url": "https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Bubaseta",
+          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
+        }
+      ],
+      "duration_ms": 227735,
+      "name": "Planta Medicinal",
+      "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 268124,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planta Medicinal",
-        "url": "https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Bubaseta",
-          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
-        }
-      ],
-      "duration_ms": 227735,
-      "name": "Planta Medicinal",
-      "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
     },
     {
       "added_at": null,

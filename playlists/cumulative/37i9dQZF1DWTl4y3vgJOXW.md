@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and Jaylen Brownja
+> Fourth quarter, two minutes left .\. get locked in\. Cover: The New York Knicks
 
 808 songs - 1 day 17 hr 34 min
 

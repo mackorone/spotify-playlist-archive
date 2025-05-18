@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Parcels
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,458 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,436 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 |
 | 75 | [your touch](https://open.spotify.com/track/7cPZshG4jWR6pTvhZVL6JG) | [cornelius](https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6) | [your touch](https://open.spotify.com/album/2Kzha1mmYtrsmCUcFqbFA4) | 1:41 |
 
-Snapshot ID: `aB0pggAAAABwaVP7lJrJ9eP9gbZVxH1A`
+Snapshot ID: `aB0pggAAAADinaOeuZVtKb/2mcEPX5T8`

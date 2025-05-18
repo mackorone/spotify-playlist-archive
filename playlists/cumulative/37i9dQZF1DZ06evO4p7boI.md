@@ -4,7 +4,7 @@
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 56 min
+81 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,11 @@
 | [Foreign \(feat\. Nav\)](https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 | 2023-12-13 |  |
 | [Freshman List](https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:06 | 2023-12-13 | 2025-03-30 |
 | [Friends & Family](https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:25 | 2023-12-13 |  |
+| [GET U BACK](https://open.spotify.com/track/6eaGD9b1BT5yiAU3nUrPhG) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 3:07 | 2025-05-18 |  |
 | [GLOBE](https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 1:29 | 2025-05-07 |  |
 | [Glow Up](https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 2:40 | 2023-12-13 | 2025-03-30 |
 | [Good For It](https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:39 | 2023-12-13 | 2025-04-18 |
-| [Habits](https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:24 | 2023-12-13 |  |
+| [Habits](https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:24 | 2023-12-13 | 2025-05-18 |
 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 | 2023-12-13 |  |
 | [Hit](https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 2:49 | 2023-12-13 |  |
 | [Interstellar \(with Lil Uzi Vert\)](https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 2:44 | 2023-12-13 | 2025-03-30 |

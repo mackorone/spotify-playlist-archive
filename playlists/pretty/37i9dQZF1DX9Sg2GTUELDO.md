@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Winka 陳泳伽
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,917 likes - 488 songs - 1 day 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,926 likes - 488 songs - 1 day 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

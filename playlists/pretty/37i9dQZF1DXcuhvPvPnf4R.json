@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 10643,
+  "num_followers": 10647,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Mary Jane (All Night Long)",
-      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Mary Jane (All Night Long)",
+      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Jimmy Cozier",
-        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
-      },
-      "artists": [
-        {
-          "name": "J. Cozier",
-          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "She's All I Got - Radio Edit",
-      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 190967,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Jimmy Cozier",
+        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
+      },
+      "artists": [
+        {
+          "name": "J. Cozier",
+          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "She's All I Got - Radio Edit",
+      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
     },
     {
       "added_at": "2022-10-01 16:43:03",

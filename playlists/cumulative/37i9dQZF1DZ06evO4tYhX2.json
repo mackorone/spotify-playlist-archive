@@ -1885,6 +1885,32 @@
     },
     {
       "album": {
+        "name": "Sobre \u00c9l",
+        "url": "https://open.spotify.com/album/5bKolPG90cw4JGPmo7liOD"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267934,
+      "name": "Sobre \u00c9l",
+      "url": "https://open.spotify.com/track/5HMsgTS6hsik8l2PGucWkK"
+    },
+    {
+      "album": {
         "name": "Pentecost\u00e9s (En Vivo)",
         "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
       },
@@ -2262,7 +2288,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 323365,
       "name": "Yeshua el Sonido de Libertad",
       "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"

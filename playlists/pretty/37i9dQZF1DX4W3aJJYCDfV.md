@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Wolf Alice, Lola Young, Rihanna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,103 likes - 120 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,185 likes - 120 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 64 | [Candy](https://open.spotify.com/track/0msaU8EK13ajrXaF3SqoKy) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head \(Deluxe\)](https://open.spotify.com/album/4bcWoSYbchMcE9vz8SWAFU) | 2:43 |
 | 65 | [Last Time](https://open.spotify.com/track/0VxHQF5EEyNNd8L8eeXXZ7) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [Last Time](https://open.spotify.com/album/0qACq27O5n5KsVIjUgrIdP) | 2:47 |
 | 66 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
-| 67 | [Us](https://open.spotify.com/track/3yG45WqilUjnG51kE35npx) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [SHINE](https://open.spotify.com/album/4qumGNh9nIs0jhR0jFoEMu) | 2:50 |
+| 67 | [Us](https://open.spotify.com/track/3yG45WqilUjnG51kE35npx) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [SHINE](https://open.spotify.com/album/4qumGNh9nIs0jhR0jFoEMu) | 2:50 |
 | 68 | [Feels So Good](https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:11 |
 | 69 | [Silence Isn't Helping Us](https://open.spotify.com/track/34LT97EvA73UvXBycsYA3o) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Will You Haunt Me, With That Same Patience](https://open.spotify.com/album/1OESBdYYfEHfTbhsNKLpXD) | 3:46 |
 | 70 | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/track/7fGAhyEwT2RPPJeRHNeiC1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/album/03HMvLm0qOaRM6xOygXM30) | 2:39 |

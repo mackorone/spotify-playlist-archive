@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,576 likes - 50 songs - 3 hr 24 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,543 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

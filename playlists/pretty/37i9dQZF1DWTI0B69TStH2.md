@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:2SlZJko0OpkOSKoZzoMkta">Klaudia Marzec</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,084 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,083 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72110,
+  "num_followers": 72111,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACPgv5WbKKB9KYdXMo/GhZb",
+  "snapshot_id": "aCaAAAAAAAAMHfituQYkbkDdzCjCs/a3",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
       },
@@ -543,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
+        "name": "Toolroom Radio EP787: ESSEL",
+        "url": "https://open.spotify.com/album/3q86wdosFMVf1eCuKwfMjE"
       },
       "artists": [
         {
@@ -552,13 +572,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "John Christian",
+          "url": "https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h"
+        },
+        {
+          "name": "Nilson",
+          "url": "https://open.spotify.com/artist/2EfkVcWLwt2bESRjdBhr9K"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Legacy - Radio Edit",
-      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
+      "duration_ms": 181416,
+      "name": "Still The Same Man - TR787",
+      "url": "https://open.spotify.com/track/4TEbCp2gZvSHpdJldwE38j"
     },
     {
       "added_at": null,
@@ -655,30 +679,6 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toolroom Radio EP787: ESSEL",
-        "url": "https://open.spotify.com/album/3q86wdosFMVf1eCuKwfMjE"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "John Christian",
-          "url": "https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h"
-        },
-        {
-          "name": "Nilson",
-          "url": "https://open.spotify.com/artist/2EfkVcWLwt2bESRjdBhr9K"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Still The Same Man - TR787",
-      "url": "https://open.spotify.com/track/4TEbCp2gZvSHpdJldwE38j"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Summer Nights",
-        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 158671,
-      "name": "Hot Summer Nights",
-      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Hero - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Let Go",
         "url": "https://open.spotify.com/album/0nEX0kWY8RlL74Fxm9UK3q"
       },
@@ -1087,6 +1063,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hero (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Hero - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here We Go (Hey Boy, Hey Girl)",
         "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
       },
@@ -1127,8 +1127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
       },
       "artists": [
         {
@@ -1136,17 +1136,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Jared Lee",
-          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
         }
       ],
-      "duration_ms": 221428,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
+      "duration_ms": 191520,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
     }
   ],
   "unique_name": "This Is Nicky Romero",

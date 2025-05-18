@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5bTy34vq5jUt0WR38Vppnt.md) - [plain]
 
 > WEHMUT! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 3,970 likes - 11 songs - 47 min 30 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 3,971 likes - 11 songs - 47 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Hanumankind
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,806 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,889 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 33 | [Downers At Dusk](https://open.spotify.com/track/5qolX8ncpZ8R6TfKbvTzbA) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:16 |
 | 34 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 |
 | 35 | [WASTED](https://open.spotify.com/track/2KtIu2BonbDSi3tZKDxePU) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [WASTED](https://open.spotify.com/album/2cLii93QG7J7w3DHMiwcyG) | 4:05 |
-| 36 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 36 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 37 | [Maharani](https://open.spotify.com/track/7unLxuzKpxbjASww1qi4br) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW) | [Maharani](https://open.spotify.com/album/6da96K6wuRyf61We22UBPe) | 6:29 |
 | 38 | [love lost](https://open.spotify.com/track/6yaF2WzaQpY00JnKPtOEB0) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ghosts, and goodbyes](https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo) | 3:00 |
 | 39 | [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 |

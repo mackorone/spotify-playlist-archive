@@ -13310,6 +13310,10 @@
         {
           "name": "Akilla",
           "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+        },
+        {
+          "name": "Chris Helv",
+          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
         }
       ],
       "date_added": "2025-05-16",
@@ -279287,6 +279291,48 @@
     },
     {
       "album": {
+        "name": "Tem Culpa Eu",
+        "url": "https://open.spotify.com/album/1P4vo7MOaLHAOBCNFDFHxn"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "Leonne",
+          "url": "https://open.spotify.com/artist/03ujY7OuCPFQS2bsm4ei8W"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Tem Culpa Eu",
+      "url": "https://open.spotify.com/track/09RqWFL3S6RBk46sMHjZ27"
+    },
+    {
+      "album": {
         "name": "Tem Culpa Eu?",
         "url": "https://open.spotify.com/album/5uV4v0rJBADfO4huLnXFIW"
       },
@@ -279322,7 +279368,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 219428,
       "name": "Tem Culpa Eu?",
       "url": "https://open.spotify.com/track/3tXrgoSr65c9apeSTg542V"

@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 100376,
+  "num_followers": 100409,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -361,26 +361,6 @@
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
-      "added_at": "2025-03-04 17:20:09",
-      "album": {
-        "name": "Vestido Rojo",
-        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 153868,
-      "name": "Vestido Rojo",
-      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
-    },
-    {
       "added_at": "2024-12-20 02:07:29",
       "album": {
         "name": "32 Ca\u00f1onazos",
@@ -399,6 +379,26 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2025-03-04 17:20:09",
+      "album": {
+        "name": "Vestido Rojo",
+        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 153868,
+      "name": "Vestido Rojo",
+      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
-        "name": "C\u00e1sate Conmigo",
-        "url": "https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "C\u00e1sate Conmigo",
-      "url": "https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -511,6 +491,22 @@
       "duration_ms": 285546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -535,18 +531,22 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
+        "name": "C\u00e1sate Conmigo",
+        "url": "https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 286173,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
+      "duration_ms": 209032,
+      "name": "C\u00e1sate Conmigo",
+      "url": "https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
-        "name": "T\u00fa o Yo",
-        "url": "https://open.spotify.com/album/3Uu0DhWrr2GiqDf9wPE8I2"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 163188,
-      "name": "T\u00fa o Yo",
-      "url": "https://open.spotify.com/track/6kALmpYx3aGYLQhcsXlKaz"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
         "name": "Tequila Con Cerveza",
         "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
       },
@@ -679,6 +659,22 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/2aDFka2ORQkraeJXkYkGxl"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -695,22 +691,6 @@
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/2aDFka2ORQkraeJXkYkGxl"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -735,6 +715,26 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
+        "name": "T\u00fa o Yo",
+        "url": "https://open.spotify.com/album/3Uu0DhWrr2GiqDf9wPE8I2"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 163188,
+      "name": "T\u00fa o Yo",
+      "url": "https://open.spotify.com/track/6kALmpYx3aGYLQhcsXlKaz"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -747,30 +747,6 @@
       "duration_ms": 252706,
       "name": "Parranda en el Cafetal",
       "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
-        "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
-        "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Robinson Dami\u00e1n",
-          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
-      "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -839,6 +815,30 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
+        "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
+        "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Robinson Dami\u00e1n",
+          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
+      "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
         "name": "La Vamo a Tumb\u00e1",
         "url": "https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV"
       },
@@ -851,42 +851,6 @@
       "duration_ms": 260432,
       "name": "La Vamo a Tumb\u00e1",
       "url": "https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
-        "name": "Ya No Me Duele M\u00e1s",
-        "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 226731,
-      "name": "Ya No Me Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
-        "name": "De Amor",
-        "url": "https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w"
-      },
-      "artists": [
-        {
-          "name": "Karen Lizarazo",
-          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
-        },
-        {
-          "name": "LuisRa",
-          "url": "https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY"
-        }
-      ],
-      "duration_ms": 180566,
-      "name": "Dime Que Ves",
-      "url": "https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -911,6 +875,26 @@
       "duration_ms": 233980,
       "name": "Eso es mondar",
       "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
+        "name": "De Amor",
+        "url": "https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w"
+      },
+      "artists": [
+        {
+          "name": "Karen Lizarazo",
+          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
+        },
+        {
+          "name": "LuisRa",
+          "url": "https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY"
+        }
+      ],
+      "duration_ms": 180566,
+      "name": "Dime Que Ves",
+      "url": "https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -951,6 +935,26 @@
       "duration_ms": 168533,
       "name": "Alguien Me Gusta",
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "Las Cale\u00f1as Son Como las Flores",
+      "url": "https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98"
     }
   ],
   "unique_name": "Rumba Colombiana",

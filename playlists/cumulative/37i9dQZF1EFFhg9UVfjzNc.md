@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 11 hr 49 min
+119 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Ti](https://open.spotify.com/track/4xHBqxLXbwemwOnHKfIFjU) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:33 | 2023-12-13 |  |
 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 | 2023-12-13 |  |
+| [Adoração Espontânea \- Ao Vivo](https://open.spotify.com/track/4VgtOEtlLJlpa6okshTlUu) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 21:53 | 2025-05-17 |  |
 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/240V4ZoqPSfsMAxrRLIId2) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Ao Vivo nos EUA](https://open.spotify.com/album/4jJG66nWLXbgJvakco7uFO) | 8:22 | 2025-04-14 |  |
 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 | 2024-06-03 | 2025-04-15 |
 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 | 2022-06-04 |  |
@@ -122,6 +123,7 @@
 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/2YXga0CJMlsp4edq1Iyf7j) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [Vem Me Consumir \(Acústico\)](https://open.spotify.com/album/5dBGkhxeuUFRkBA1aejjfr) | 4:38 | 2024-04-18 | 2024-09-09 |
 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/6DSgDbw6imY1A1g0RnQ4wg) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 4:38 | 2024-09-08 |  |
 | [Volta ao Lar \- Ao Vivo](https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Volta ao Lar \(Ao Vivo\)](https://open.spotify.com/album/4xCCYIWBZnk9Ci5a4K95WF) | 6:11 | 2022-06-04 |  |
+| [Yahweh](https://open.spotify.com/track/7pJSnyBN35grxZ6A0YhWVt) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Yahweh](https://open.spotify.com/album/1XV8OZeIyY9bhPDTr8uzrW) | 6:28 | 2025-05-17 |  |
 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/02HlnHZ1sYv5W52Tyc5OI2) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/6TL5BxQ3bttcye1lmPtTjc) | 6:09 | 2025-02-23 |  |
 | [És Bem\-Vindo \- Ao Vivo](https://open.spotify.com/track/4zIOxt1byvZsFFPKJP9z7R) | [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A), [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Amauri Knevitz Jr](https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd) | [Exaltado \(Ao Vivo\)](https://open.spotify.com/album/1jsXrSsrVd690Wa42Y9wZy) | 7:46 | 2022-09-22 |  |
 | [És Fiel \- Ao Vivo](https://open.spotify.com/track/4m0Nt1EV6rAKTkWCylIzO9) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 7:58 | 2024-04-18 |  |

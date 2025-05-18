@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ebru Yaşar x Burak Bulut
 
-262 songs - 13 hr 6 min
+263 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Defoluyorum](https://open.spotify.com/track/7EDxgVcaD1RaIygbWlW6or) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Defoluyorum](https://open.spotify.com/album/5dRa7IoW7J5AOlF91Jd1ob) | 2:43 | 2024-08-22 | 2024-09-17 |
 | [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 | 2024-11-01 |
 | [Deli Gibi Seviyorum](https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Deli Gibi Seviyorum](https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r) | 2:12 | 2024-10-24 | 2024-12-22 |
-| [Deli Yangınım](https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Deli Yangınım](https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm) | 3:45 | 2024-12-19 |  |
+| [Deli Yangınım](https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Deli Yangınım](https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm) | 3:45 | 2024-12-19 | 2025-05-18 |
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Denizler Derya](https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Denizler Derya](https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX) | 4:10 | 2024-08-08 | 2024-08-23 |
 | [Derbeder](https://open.spotify.com/track/6OATjzm4jOcPr2JaTELCUQ) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Derbeder](https://open.spotify.com/album/2ZDnY4BVepv4dT3AuZmDBk) | 2:23 | 2024-09-05 | 2024-09-13 |
@@ -159,6 +159,7 @@
 | [Kopmuyorum Senden](https://open.spotify.com/track/2y6Lti0dDLXPtaQCnGnsFK) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Synth City](https://open.spotify.com/album/60jlFQE1KtA3e3WU09ustD) | 2:20 | 2024-12-05 | 2024-12-21 |
 | [Koy](https://open.spotify.com/track/0HZi4wE9hQM6TAL33xzXcx) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m) | [Koy](https://open.spotify.com/album/1Wuw1HlYJQakuvryQEev38) | 2:37 | 2025-05-08 |  |
 | [Koş Gel](https://open.spotify.com/track/6TozRw4u9gjM8yHG8M3prS) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Koş Gel](https://open.spotify.com/album/5BeWlkm20Z43wtQz6wIIqb) | 2:39 | 2025-04-03 |  |
+| [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 | 2025-05-15 |  |
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 | 2024-09-15 |
 | [Kül Kedisi](https://open.spotify.com/track/7pL0k2S0xtCeIK8frnpogr) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Kül Kedisi](https://open.spotify.com/album/4K9UrtRb8BGdTHrXDZAxgk) | 3:03 | 2024-11-07 | 2025-02-21 |
 | [Küçük Şeyler](https://open.spotify.com/track/1YYCphYLs0EJVTKF2gWHGI) | [Hakan Kılınç](https://open.spotify.com/artist/5iq9EHglioaz4pVoNTZBey) | [Küçük Şeyler](https://open.spotify.com/album/5W3J11XI0SPnsc4ir0Zpuj) | 2:47 | 2024-09-05 | 2024-09-13 |

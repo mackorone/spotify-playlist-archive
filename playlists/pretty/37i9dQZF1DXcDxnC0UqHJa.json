@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 464556,
+  "num_followers": 464497,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Hey Me, Hey Mama",
         "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 210604,
       "name": "Hey Me, Hey Mama",
       "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+        "name": "I Will Follow You Into The Dark",
+        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 260040,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
+      "duration_ms": 224692,
+      "name": "I Will Follow You Into The Dark",
+      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 260040,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "The Bridge School Concerts 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "I Will Follow You Into The Dark",
-        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 224692,
-      "name": "I Will Follow You Into The Dark",
-      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "The Covers",
-        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Tyler Cain",
-          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
-        },
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 196537,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "The Covers",
+        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Tyler Cain",
+          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 196537,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Woodstock / Green Altar",
-        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 273489,
-      "name": "Woodstock",
-      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Woodstock / Green Altar",
+        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 273489,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "true love will find you in the end (Adam's Version)",
         "url": "https://open.spotify.com/album/75NVfTQZUCSxN5388wvYK6"
       },
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Alynda Segarra",
+          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Talk to Me of Mendocino",
         "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
       },
@@ -1711,6 +1731,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "i'm not okay",
+        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "i'm not okay",
+      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1727,22 +1763,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "i'm not okay",
-        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "i'm not okay",
-      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1779,26 +1799,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "To Ramona",
         "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
@@ -1811,42 +1811,6 @@
       "duration_ms": 217586,
       "name": "To Ramona",
       "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Bill",
-          "url": "https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 282715,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1871,6 +1835,26 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Bill",
+          "url": "https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 282715,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 183453,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2025-05-02 17:28:32",

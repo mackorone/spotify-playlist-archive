@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2035189,
+  "num_followers": 2035485,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADaLzSBELLTxGE7s4dKanv6",
+  "snapshot_id": "aCaAAAAAAABf2QOQQ1jg5tm7rwA2cS7H",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 256573,
+      "name": "Of Wolf and Man - Remastered 2021",
+      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 256573,
-      "name": "Of Wolf and Man - Remastered 2021",
-      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
+      "duration_ms": 244533,
+      "name": "Through the Never - Remastered 2021",
+      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 396106,
       "name": "The Thing That Should Not Be",
       "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "Through the Never - Remastered 2021",
-      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
     }
   ],
   "unique_name": "This Is Metallica",

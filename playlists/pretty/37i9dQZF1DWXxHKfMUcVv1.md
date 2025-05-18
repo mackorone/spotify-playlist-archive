@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,460 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,481 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 20 | [Ruge Uge](https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Christian Puga y los Ladrones Sueltos](https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E) | 3:43 |
 | 21 | [Hamaca Paraguaya](https://open.spotify.com/track/0oHEwoLk8e2dCwaFxtQ1qq) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hamaca Paraguaya](https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp) | 2:38 |
 | 22 | [Lo Intentamos](https://open.spotify.com/track/53oLP8HW9lSk0ZYvTsDoIa) | [Kchorros de la Línea 3](https://open.spotify.com/artist/6LBGFAO4Ue5OstjwocFIP2) | [Báilalo Báilalo](https://open.spotify.com/album/20zOZgfdwPf5wiJYF033E9) | 2:48 |
-| 23 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
-| 24 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 23 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 24 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 | 25 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
 | 26 | [Mis Noches Sin Ti](https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Mis Noches Sin Ti](https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU) | 3:25 |
 | 27 | [Tus Ojos No Me Ven \- feat\. Joewell y Randy](https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Tus Ojos No Me Ven \(feat\. Jowell y Randy and El Gorila\)](https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn) | 4:39 |
 | 28 | [Si Tú Supieras](https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [Emergencia de Amor](https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK) | 3:47 |
 | 29 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
-| 30 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
+| 30 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
 | 31 | [Quiero!](https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Agua Para El Mar](https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ) | 3:05 |
-| 32 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
+| 32 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 33 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
 | 34 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
 | 35 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 47 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 48 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
 | 49 | [Isla del Pacífico](https://open.spotify.com/track/5oOpcWXnLzrPzPCk1upLUw) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Lo Mágico y Lo Místico](https://open.spotify.com/album/4Geye3gQ4G8rz5LTkWCHcL) | 2:51 |
-| 50 | [En La Luna Y En Marte](https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ) | [Rumberos](https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn) | [Rumbo a Tu Corazon](https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ) | 3:39 |
+| 50 | [Me Haces Falta](https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG) | [Wildo Samuel](https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Basti](https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb) | [Me Haces Falta](https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW) | 3:24 |
 
 Snapshot ID: `Z9SVrwAAAADJeAOd5eOk6bugDDOj1xrK`

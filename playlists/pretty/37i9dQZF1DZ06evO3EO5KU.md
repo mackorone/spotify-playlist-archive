@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,697 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,710 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 23 | [Un Mentado Ariel](https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW) | 3:16 |
 | 24 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 |
 | 25 | [Dado A La Vida](https://open.spotify.com/track/5QE3mR3e3gegloFbtMThz8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Dado A La Vida](https://open.spotify.com/album/5jAh6Odpy5DmzUHjgVXZ8W) | 2:47 |
-| 26 | [Soltaron Al Diablo](https://open.spotify.com/track/6RkNnXYuEUI0pBdNJOi0gF) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Soltaron Al Diablo](https://open.spotify.com/album/5XC8F978hjLimag6EtQlIY) | 2:18 |
-| 27 | [Me Llamas \- En Vivo](https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s) | 4:42 |
+| 26 | [Me Llamas \- En Vivo](https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s) | 4:42 |
+| 27 | [Soltaron Al Diablo](https://open.spotify.com/track/6RkNnXYuEUI0pBdNJOi0gF) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Soltaron Al Diablo](https://open.spotify.com/album/5XC8F978hjLimag6EtQlIY) | 2:18 |
 | 28 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
 | 29 | [Recuerden Mi Estilo](https://open.spotify.com/track/1zjjsp6k9zjdHxZT3i6cfb) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:45 |
 | 30 | [Tres Botellas](https://open.spotify.com/track/03mFB2ot7uqND6aBYhwZBM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 47 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
 | 48 | [Amor Pasajero](https://open.spotify.com/track/4G4SU5CjZZuzneQlkpb8zJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/2u7lP3WGZ7QusWcvPaqzXo) | 3:30 |
 | 49 | [Enseñame A Olvidar \- En Vivo](https://open.spotify.com/track/2ESkunF1uu2uCuH8FDVnuh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol\. 2](https://open.spotify.com/album/2okCaaMVgh8LmwDD7a85oa) | 3:07 |
-| 50 | [Díganle A Mi Ex](https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn) | 3:00 |
+| 50 | [Los Versos De Muel](https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2) | [Darey de la Sierra](https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Los Versos De Muel](https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a) | 3:25 |
 
-Snapshot ID: `aCUugAAAAABEnIeNgg/Q9FmTrRx2ii11`
+Snapshot ID: `aCaAAAAAAABektvkLkZX3ikXUtF8oXy6`

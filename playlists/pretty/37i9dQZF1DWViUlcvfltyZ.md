@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 Ricche Le Mura in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,403 likes - 111 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,404 likes - 111 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 110 | [Brucia](https://open.spotify.com/track/43HCIcHLLc6VnoAlrb0P12) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:40 |
 | 111 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
 
-Snapshot ID: `aCZkKQAAAABqHiMhDE+WS7euW7UWtrEn`
+Snapshot ID: `aCZkKQAAAABobxRVN5hGz1uYFOCdIJ0q`

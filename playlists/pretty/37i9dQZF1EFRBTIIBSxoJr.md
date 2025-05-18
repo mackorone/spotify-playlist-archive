@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 129 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 723 likes - 129 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 21 | [San Francisco](https://open.spotify.com/track/5iSkdzgBBtAAkaqULGPZUd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:12 |
 | 22 | [Misbehavin'](https://open.spotify.com/track/6GtFfnl204TH4ztReNW7Hn) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 3:42 |
 | 23 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
-| 24 | [Over It](https://open.spotify.com/track/6RB4Z9DwTWaVgyNg3dR9p9) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Katharine McPhee](https://open.spotify.com/album/5zdIu2gSDAnEH9Gx2tWqXr) | 3:35 |
-| 25 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
+| 24 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
+| 25 | [Over It](https://open.spotify.com/track/6RB4Z9DwTWaVgyNg3dR9p9) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Katharine McPhee](https://open.spotify.com/album/5zdIu2gSDAnEH9Gx2tWqXr) | 3:35 |
 | 26 | [Grows Old](https://open.spotify.com/track/148qBp6yeeA2oq28xTZZ7e) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:56 |
 | 27 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 |
 | 28 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 53 | [Give Me Something](https://open.spotify.com/track/2gfUIB27jMLK2w0xMRdemZ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:12 |
 | 54 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
 | 55 | [Crown \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/75nhw5YxdMeEE9cj9AjyHR) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:11 |
-| 56 | [Almost Home](https://open.spotify.com/track/7h38rvuinAanaR7vaYLDVQ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
-| 57 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
+| 56 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
+| 57 | [Almost Home](https://open.spotify.com/track/7h38rvuinAanaR7vaYLDVQ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 58 | [Gatekeeper](https://open.spotify.com/track/02T6r1FheCaKwnJUwNJ04I) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gatekeeper](https://open.spotify.com/album/7qEf07O8bfCTYzxrUmhkgq) | 2:30 |
 | 59 | [Mimosa \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/1suT5CMehGisHTWyOYc0KS) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 3:27 |
 | 60 | [Hit The Ceiling](https://open.spotify.com/track/4qK2OPcn4ABsV4n71ICer0) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 4:19 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 128 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 129 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AbxmQAAAAACMPtI1UgU4y6VX9MeSzwI1`
+Snapshot ID: `AbxsHAAAAAA5tM+YC2XmWsTBBsXGbgt+`

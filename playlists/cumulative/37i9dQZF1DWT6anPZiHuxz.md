@@ -4,7 +4,7 @@
 
 > Chasing that runner's high
 
-291 songs - 15 hr 49 min
+292 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Free](https://open.spotify.com/track/1tOTq5hXlLeKbqOVn8ddMF) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [TOGETHER](https://open.spotify.com/album/00a5EKAAd7gfrblq8gY3WZ) | 3:48 | 2024-01-19 | 2024-02-17 |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-08-01 |  |
 | [Free Your Mind](https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Free Your Mind](https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J) | 2:35 | 2024-12-13 | 2025-02-11 |
+| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 |  |
 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 | 2024-04-15 | 2024-06-08 |
 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 | 2024-09-06 | 2024-11-16 |
 | [Geronimo \- Benny Benassi Remix](https://open.spotify.com/track/6UzRLAMyYXtLIcl5xC21B0) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV), [Marco Benassi](https://open.spotify.com/artist/0VCeLSthzNWXPDjUWL1fQr), [Alessandro Benassi](https://open.spotify.com/artist/67xLNiooFLOvJZybLylxNT) | [Geronimo \(Remixes\)](https://open.spotify.com/album/1otjvVY7h9t3u2KOGBU3mk) | 4:30 | 2022-08-12 | 2022-10-06 |
@@ -297,7 +298,7 @@
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2024-01-26 | 2024-08-02 |
 | [yes, and? \- Felix Jaehn Remix](https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 3:55 | 2024-03-01 | 2024-04-21 |
 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 | 2024-12-24 |  |
-| [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 | 2024-11-01 |  |
+| [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 | 2024-11-01 | 2025-05-18 |
 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 | 2022-08-12 | 2024-01-20 |
 
 \*This playlist was first scraped on 2022-09-23. Prior content cannot be recovered.

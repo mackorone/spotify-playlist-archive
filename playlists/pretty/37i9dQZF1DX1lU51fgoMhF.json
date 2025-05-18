@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: KISS OF LIFE)",
-  "num_followers": 243826,
+  "num_followers": 243885,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,18 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Felix",
-          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 196160,
-      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
-      "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -707,18 +703,22 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
         }
       ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+      "duration_ms": 196160,
+      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "Sour & Sweet",
-      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "KARD 1st Mini Album 'Hola Hola'",
-        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 202962,
-      "name": "Hola Hola",
-      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
+        "name": "KARD 1st Mini Album 'Hola Hola'",
+        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "Hola Hola",
+      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
         "name": "As You Wish",
         "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "Sour & Sweet",
+      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "Season Songs",
         "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 242062,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "The Road : Keep on Going - The 11th Album Vol.1",
-        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/6CV6j2xz54thzlrWML3kAW"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "The Road : Keep on Going - The 11th Album Vol.1",
+        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
     },
     {
       "added_at": "2025-02-19 04:54:12",

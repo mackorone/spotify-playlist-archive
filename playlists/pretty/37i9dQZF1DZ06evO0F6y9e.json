@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1039942,
+  "num_followers": 1040176,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAD3vxnrMIiwe042FjLbAtoz",
+  "snapshot_id": "aCaAAAAAAADD4PnvVXiQUFYJGpwxngei",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hubi\u00e9ramos",
-        "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Hubi\u00e9ramos",
-      "url": "https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 189696,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hubi\u00e9ramos",
+        "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Hubi\u00e9ramos",
+      "url": "https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb"
     },
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Anaheim, CA",
         "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Todav\u00eda Te Amo",
+      "url": "https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 235221,
       "name": "Gracias (En Vivo)",
       "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Todav\u00eda Te Amo",
-      "url": "https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt"
     },
     {
       "added_at": null,
@@ -907,22 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
-        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Secuestro De Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC"
+      "duration_ms": 151500,
+      "name": "Seg\u00fan Mi Reloj",
+      "url": "https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV"
     },
     {
       "added_at": null,
@@ -947,18 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
+        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Seg\u00fan Mi Reloj",
-      "url": "https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV"
+      "duration_ms": 222653,
+      "name": "Secuestro De Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC"
     },
     {
       "added_at": null,
@@ -983,22 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
-        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 172898,
-      "name": "Tus Verdades (En Vivo)",
-      "url": "https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM"
+      "duration_ms": 163500,
+      "name": "Quiere Llorar Y No Puede",
+      "url": "https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI"
     }
   ],
   "unique_name": "This Is Grupo Firme",

@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15339,
+  "num_followers": 15338,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAK86Hs35bvH03ftftdctou",
+  "snapshot_id": "aCaAAAAAAABF+dL5QJVdNupKsWjPUkpZ",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mergulhar",
-        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 276173,
-      "name": "Mergulhar",
-      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceano de L\u00e1grimas (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 269360,
       "name": "Sobrevivi (Ao Vivo)",
       "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mergulhar",
+        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 276173,
+      "name": "Mergulhar",
+      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ora Um Pouco Mais",
-        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 278517,
-      "name": "Ora Um Pouco Mais",
-      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elaine Martins (Ao Vivo)",
         "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 313946,
       "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ora Um Pouco Mais",
+        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 278517,
+      "name": "Ora Um Pouco Mais",
+      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Raridade - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
       },
@@ -747,6 +763,22 @@
       "duration_ms": 271534,
       "name": "Buscar Tua Face \u00e9 Preciso",
       "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elyon",
+        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 240976,
+      "name": "El Elyon",
+      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
     },
     {
       "added_at": null,
@@ -787,38 +819,6 @@
       "duration_ms": 258670,
       "name": "O Reino (Ao Vivo)",
       "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Elyon",
-        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 240976,
-      "name": "El Elyon",
-      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
-        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Raridade - Live MK 10 MI",
-      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
     },
     {
       "added_at": null,

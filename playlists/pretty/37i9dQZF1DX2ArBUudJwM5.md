@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Six Sex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,448 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,447 likes - 30 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 20 | [El Beso](https://open.spotify.com/track/4VnTn9sIxQ705y1akD7ndm) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:13 |
 | 21 | [namorada brasileira](https://open.spotify.com/track/2LbocN89t2oWloRNFeipMJ) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [namorada brasileira](https://open.spotify.com/album/29I1x4sSkFhv9pDIB5SjT7) | 2:00 |
 | 22 | [Puta](https://open.spotify.com/track/1Ckm84P3YA0OHp4fgOrGDQ) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Puta](https://open.spotify.com/album/3OgATgCeOhZICDDVyX1cLK) | 2:03 |
-| 23 | [ASTUTA](https://open.spotify.com/track/2YCfWkYeVd52O4hMQ0lHMR) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 2:50 |
+| 23 | [Distraída](https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Distraída](https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ) | 2:42 |
 | 24 | [Papi](https://open.spotify.com/track/7xq8QM5WqLHEaVA3JKSYhm) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Chita](https://open.spotify.com/artist/0ZDZn77Dhb58H7QAuc0NUL) | [Papi](https://open.spotify.com/album/4yTkZSHc8RTwoREgGKzB5L) | 2:13 |
-| 25 | [Distraída](https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Distraída](https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ) | 2:42 |
+| 25 | [ASTUTA](https://open.spotify.com/track/2YCfWkYeVd52O4hMQ0lHMR) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 2:50 |
 | 26 | [ya fue](https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [ya fue](https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR) | 3:22 |
 | 27 | [Condena](https://open.spotify.com/track/02NtOIiNaOxvZEMsv0bm3g) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Http](https://open.spotify.com/artist/5RYwJweQOBFMR2sQZmN4WW) | [Condena](https://open.spotify.com/album/32wxeMJVIzkuOJ8aOW3HIo) | 2:34 |
 | 28 | [Te Gusta lo Mío](https://open.spotify.com/track/63xOm2OcMeu1l0CyWJc1Nu) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [Te Gusta lo Mío](https://open.spotify.com/album/6QFFWWqcEsgplGK2aEu1Xm) | 2:43 |

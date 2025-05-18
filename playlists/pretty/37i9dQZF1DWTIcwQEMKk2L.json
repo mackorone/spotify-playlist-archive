@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71076,
+  "num_followers": 71086,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
         "name": "5th Avenue",
         "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 146006,
       "name": "5th Avenue",
       "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
+      },
+      "artists": [
+        {
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
+        }
+      ],
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
         "name": "Am I the Only One?",
         "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 177071,
       "name": "Break My Heart, Love",
       "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -939,18 +939,18 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "This Is The Time",
-        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
       "artists": [
         {
-          "name": "Aimee Fleur",
-          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
         }
       ],
-      "duration_ms": 159599,
-      "name": "This Is The Time",
-      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+      "duration_ms": 211000,
+      "name": "Out of place",
+      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+        "name": "This Is The Time",
+        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
       },
       "artists": [
         {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+          "name": "Aimee Fleur",
+          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Out of place",
-      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
+      "duration_ms": 159599,
+      "name": "This Is The Time",
+      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "Reggimi",
-        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
-      },
-      "artists": [
-        {
-          "name": "Natalino Serafin",
-          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Reggimi",
-      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 238277,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
+        "name": "Reggimi",
+        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
+      },
+      "artists": [
+        {
+          "name": "Natalino Serafin",
+          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Reggimi",
+      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
         "name": "Qu\u00e9rete a ti mesmo",
         "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 165511,
       "name": "Qu\u00e9rete a ti mesmo",
       "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+      },
+      "artists": [
+        {
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -1475,38 +1491,6 @@
       "duration_ms": 58386,
       "name": "A Game of Badminton (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
-        "name": "Star Eyes",
-        "url": "https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I"
-      },
-      "artists": [
-        {
-          "name": "Angel Gregoire",
-          "url": "https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF"
-        }
-      ],
-      "duration_ms": 220964,
-      "name": "Star Eyes",
-      "url": "https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -1559,34 +1543,18 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
-        "name": "A Gift To Share",
-        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+        "name": "Star Eyes",
+        "url": "https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I"
       },
       "artists": [
         {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+          "name": "Angel Gregoire",
+          "url": "https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF"
         }
       ],
-      "duration_ms": 139500,
-      "name": "A Gift To Share",
-      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
-    },
-    {
-      "added_at": "2025-05-12 03:41:03",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
-      },
-      "artists": [
-        {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
-        }
-      ],
-      "duration_ms": 172522,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+      "duration_ms": 220964,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z"
     },
     {
       "added_at": "2025-05-12 03:41:03",
@@ -1607,6 +1575,22 @@
     {
       "added_at": "2025-05-12 03:41:03",
       "album": {
+        "name": "A Gift To Share",
+        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Gift To Share",
+      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
         "name": "\u00c8 ora di dormire",
         "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 179000,
       "name": "\u00c8 ora di dormire",
       "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
+    },
+    {
+      "added_at": "2025-05-12 03:41:03",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+      },
+      "artists": [
+        {
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+        }
+      ],
+      "duration_ms": 172522,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

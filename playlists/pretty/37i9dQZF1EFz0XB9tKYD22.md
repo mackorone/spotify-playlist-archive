@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 327 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 482 likes - 327 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 54 | [People Are Different](https://open.spotify.com/track/3dIvnXEqvm8drsoCtnWWFw) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:34 |
 | 55 | [Trip Around the Sun](https://open.spotify.com/track/3RcFrGu08HvRPCh00iB2kJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 2:53 |
 | 56 | [I AIN'T IN THE COUNTRY NO MORE](https://open.spotify.com/track/3DUPN5FJrI6l44gv18gVnz) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 4:14 |
-| 57 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 |
-| 58 | [I'm Not so Tough](https://open.spotify.com/track/0QlDzeI31sMoBzGAyB0Olm) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [World Of Hurt](https://open.spotify.com/album/4cfMqW4uICDNhkn58pPH4r) | 4:27 |
+| 57 | [I'm Not so Tough](https://open.spotify.com/track/0QlDzeI31sMoBzGAyB0Olm) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [World Of Hurt](https://open.spotify.com/album/4cfMqW4uICDNhkn58pPH4r) | 4:27 |
+| 58 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 |
 | 59 | [Medicine \(feat\. Blake Shelton\)](https://open.spotify.com/track/7vvqns9A9v9CuC8MlUDPnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:18 |
 | 60 | [Easy To Miss](https://open.spotify.com/track/0wmHqFVoBT0vjDSilB6R2M) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:49 |
 | 61 | [Withdrawals](https://open.spotify.com/track/1gRh1UnU44zyiOvZgMD4qR) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:44 |
@@ -208,8 +208,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 198 | [Outrun Me](https://open.spotify.com/track/5I5rqEeq4vBj7gbJOgYDUR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:47 |
 | 199 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
 | 200 | [I'm Not Sad Anymore](https://open.spotify.com/track/0Jb6tCbyYQl3WF4wBcfafj) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
-| 201 | [Three Mississippi](https://open.spotify.com/track/4TgXc5k4jAEgtvczElBqqv) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Pain To Kill](https://open.spotify.com/album/49axBJyEks5UCGHHTwDwp3) | 3:59 |
-| 202 | [She Gets To Drinking](https://open.spotify.com/track/6zLAkT80MxW8ek36okIyQE) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 4:15 |
+| 201 | [She Gets To Drinking](https://open.spotify.com/track/6zLAkT80MxW8ek36okIyQE) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 4:15 |
+| 202 | [Three Mississippi](https://open.spotify.com/track/4TgXc5k4jAEgtvczElBqqv) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Pain To Kill](https://open.spotify.com/album/49axBJyEks5UCGHHTwDwp3) | 3:59 |
 | 203 | [Dein Blick](https://open.spotify.com/track/5UuXVnVkHtezDwP8UZRwaV) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:17 |
 | 204 | [Baby Don't](https://open.spotify.com/track/6KoQOHQDZrpYUb0l8yMTP6) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Rope the Wind](https://open.spotify.com/album/7p7wXeb04T2GreanVqeoQo) | 3:03 |
 | 205 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 |
@@ -280,13 +280,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 270 | [From the Ashes](https://open.spotify.com/track/74IRe7wSFvj9O5KW8SQwiZ) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Emotion](https://open.spotify.com/album/3xzMoO0KxOzozFufFFrqo7) | 4:38 |
 | 271 | [Drive On Back](https://open.spotify.com/track/61231CJVuizcjjkpsPPPKK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 3:11 |
 | 272 | [Mama](https://open.spotify.com/track/4pEa9RNzmkmHxKIuJrKydq) | [Makossa](https://open.spotify.com/artist/0GWOdbhF4DpyEDsbU9JoCl), [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [3gga](https://open.spotify.com/artist/6G2wophy0LfYGYpHgCfgKB) | [Vienna Scientists V \- The 10th Anniversary](https://open.spotify.com/album/3YsgYxNCFhNujmOfUZapSd) | 4:52 |
-| 273 | [Windows On A Train](https://open.spotify.com/track/3loWAO3URr4R21bXuSgOfp) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Now](https://open.spotify.com/album/7DRYIaKhFc7sHNNIS0Erme) | 3:57 |
-| 274 | [Waitin' On The Wonderful](https://open.spotify.com/track/31tTt7GoX1hWsOVYX7NM57) | [Aaron Lines](https://open.spotify.com/artist/3YmywXnB2RxQ9IvUzZqvo9) | [Waitin' On The Wonderful](https://open.spotify.com/album/31lcEVd32pyEvjdxKVwO1w) | 3:57 |
+| 273 | [Waitin' On The Wonderful](https://open.spotify.com/track/31tTt7GoX1hWsOVYX7NM57) | [Aaron Lines](https://open.spotify.com/artist/3YmywXnB2RxQ9IvUzZqvo9) | [Waitin' On The Wonderful](https://open.spotify.com/album/31lcEVd32pyEvjdxKVwO1w) | 3:57 |
+| 274 | [Windows On A Train](https://open.spotify.com/track/3loWAO3URr4R21bXuSgOfp) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Now](https://open.spotify.com/album/7DRYIaKhFc7sHNNIS0Erme) | 3:57 |
 | 275 | [Eraser](https://open.spotify.com/track/3RCGz3c6nnYlMaw5INhWmh) | [The Knux](https://open.spotify.com/artist/52gwRVa1eX4gTCplPd2tlq) | [Eraser](https://open.spotify.com/album/5k8Ej3pUvCsEfcVWaSUsyu) | 3:53 |
 | 276 | [Take It](https://open.spotify.com/track/7sdOpO6Fsbr7cMQjHopIO4) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Me](https://open.spotify.com/album/626hPGxEDKulkYO41YUxca) | 3:26 |
 | 277 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 |
-| 278 | [Grow Young With You](https://open.spotify.com/track/4wqBtWPwfJX1E9VktFasnp) | [Coley McCabe](https://open.spotify.com/artist/1hK0g9hPhdHxWbrG2488XO), [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [Coley McCabe](https://open.spotify.com/album/7LZ3ayqh2RLEckP2RK8p1u) | 3:54 |
-| 279 | [Stunt Double](https://open.spotify.com/track/77viHqec8VbdpOfGYrmosJ) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Stunt Double](https://open.spotify.com/album/1EeKcdv0BY0ecKb5FyKtw9) | 2:46 |
+| 278 | [Stunt Double](https://open.spotify.com/track/77viHqec8VbdpOfGYrmosJ) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Stunt Double](https://open.spotify.com/album/1EeKcdv0BY0ecKb5FyKtw9) | 2:46 |
+| 279 | [Grow Young With You](https://open.spotify.com/track/4wqBtWPwfJX1E9VktFasnp) | [Coley McCabe](https://open.spotify.com/artist/1hK0g9hPhdHxWbrG2488XO), [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [Coley McCabe](https://open.spotify.com/album/7LZ3ayqh2RLEckP2RK8p1u) | 3:54 |
 | 280 | [Rewrite History](https://open.spotify.com/track/109fKS4oNqEWgVXp1KtuV7) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Heartfirst](https://open.spotify.com/album/2YpTMq0ClNeAKMy0zCPhlF) | 3:52 |
 | 281 | [Don't Even Go There](https://open.spotify.com/track/03rfZYPDfZsHtClobeKpLc) | [Kaylens Rain](https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO) | [Found](https://open.spotify.com/album/00E7KsqlLiwM6PLCUUwzMq) | 3:27 |
 | 282 | [Over Here](https://open.spotify.com/track/4wuhlskcKp05Bvyo4ZBXjJ) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Planes Don't Wait](https://open.spotify.com/album/0uIwUWUsDPDJoNDBnfzs3o) | 3:34 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 326 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 327 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbxmSgAAAAB/rWvRBwsGB2lZ1Sa7ambu`
+Snapshot ID: `Abxr6gAAAADUV9Eo3Qb45/xlWIQWHmKZ`

@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-476 songs - 1 day 1 hr 20 min
+477 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Keep On](https://open.spotify.com/track/4p9fcHEWYI8INaMQdwPI1K) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [Keep On](https://open.spotify.com/album/7rO5v41AEeJgYOlPjkP5qp) | 3:16 | 2024-07-05 | 2025-05-09 |
 | [Keep Pushing](https://open.spotify.com/track/2obQ3ll76uZthJa91RAKv4) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Keep Pushing](https://open.spotify.com/album/51Efce1Hjf6TxbU7hAKwik) | 3:36 | 2021-07-09 | 2022-07-29 |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-06-14 |  |
+| [Kiss Me](https://open.spotify.com/track/5leHWyGGcGHxoSQix9qNwV) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BBYx](https://open.spotify.com/artist/2QiXPWnegDIZucLvDpYRS7) | [Kiss Me](https://open.spotify.com/album/4cYM4uABrN5HUIsAHr7wth) | 2:11 | 2025-05-08 |  |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-06-14 | 2025-05-09 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7) | 2:18 | 2025-05-08 |  |
 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 | 2024-07-05 | 2025-05-09 |
@@ -263,7 +264,7 @@
 | [Mad At Me](https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Mad At Me](https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr) | 3:58 | 2022-05-10 | 2024-06-14 |
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2022-05-10 | 2024-06-14 |
 | [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 | 2022-06-20 | 2024-06-23 |
-| [Make Up](https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Up](https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R) | 2:31 | 2024-07-26 |  |
+| [Make Up](https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Up](https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R) | 2:31 | 2024-07-26 | 2025-05-18 |
 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 | 2024-09-19 | 2025-05-09 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-07-09 | 2024-08-03 |
 | [Me & U](https://open.spotify.com/track/06nCnkVALuvvNcBwVRNTUS) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Me & U](https://open.spotify.com/album/2M6deeLX5B02deMpHoOu1G) | 3:33 | 2021-07-09 | 2022-05-11 |

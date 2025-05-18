@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289533,
+      "name": "Never Dawn",
+      "url": "https://open.spotify.com/track/1GVFgRmh2yOam7YsezAQBj"
+    },
+    {
+      "album": {
         "name": "Broken Crown Halo",
         "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 288453,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/7n2Owf2gUqmA56z0EtSj1E"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,878 likes - 369 songs - 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,917 likes - 369 songs - 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 21 | [Best Day Of My Life](https://open.spotify.com/track/7E28uk9DF10c9nm579oUsw) | [Martin Zandt](https://open.spotify.com/artist/3HVIhaXyOOKizvzcO9C1Mk) | [Best Day Of My Life](https://open.spotify.com/album/6mPxOEfcAXDCB03drIoNgx) | 2:09 |
 | 22 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 |
 | 23 | [Cake by the Ocean](https://open.spotify.com/track/4bEnIyA8aI9QknGdCTriKz) | [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8) | [Cake by the Ocean](https://open.spotify.com/album/1utsAmDR8vntqWvhcNn7D8) | 3:25 |
-| 24 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [PREZIOSO](https://open.spotify.com/artist/73VMT96VrGukUa5FtLPeSe), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 |
+| 24 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 |
 | 25 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 |
 | 26 | [Kylie](https://open.spotify.com/track/4Tp5xH1a5sGHGvryrQ7ZIa) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/3cCW4JoslwfcrlaAWpWHFq) | 2:51 |
 | 27 | [How You Samba](https://open.spotify.com/track/5gl0Sw1FaHzio6Sw0s7sQi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/0KzolDLEkoWLCA9ls8Tato) | 2:31 |

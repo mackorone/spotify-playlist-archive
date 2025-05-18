@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3011170,
+  "num_followers": 3011163,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Lifestyles of the Rich & Famous",
+      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Lifestyles of the Rich & Famous",
-      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
     },
     {
       "added_at": "2023-01-25 14:57:38",

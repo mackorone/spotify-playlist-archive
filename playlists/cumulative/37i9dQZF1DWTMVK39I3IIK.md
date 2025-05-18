@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   Dahlin
 
-209 songs - 10 hr 58 min
+211 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bænkevarmer](https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:25 | 2024-06-27 | 2024-09-07 |
 | [Caroline](https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Caroline](https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx) | 3:10 | 2024-08-29 | 2024-11-05 |
 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 | 2025-03-07 |  |
+| [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 |  |
 | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE) | 2:08 | 2024-09-05 | 2025-01-20 |
 | [Crying In The Bathroom](https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Crying In The Bathroom](https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ) | 2:46 | 2024-11-21 | 2025-01-10 |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 | 2024-11-27 |
@@ -40,7 +41,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/01h8wJRVYOiBEXOhqXwZ2C) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [Dancing In The Dark](https://open.spotify.com/album/5L8OFIdsOyFBxlf9FPRks6) | 3:34 | 2025-05-01 |  |
 | [Dans I Morgen \(feat\. Wads\)](https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Wads](https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu) | [Dans I Morgen](https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7) | 3:12 | 2024-06-27 |  |
 | [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2024-06-27 | 2025-01-24 |
-| [Dele Af Mig](https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Dele Af Mig](https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga) | 2:47 | 2025-02-20 |  |
+| [Dele Af Mig](https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Dele Af Mig](https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga) | 2:47 | 2025-02-20 | 2025-05-18 |
 | [Dem, Vi Plejede At Være](https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 5:38 | 2024-06-27 | 2025-02-07 |
 | [Den Udødelige Historie](https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Den Udødelige Historie](https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I) | 2:32 | 2024-08-29 | 2024-10-05 |
 | [Det er din kærlighed](https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Det er din kærlighed](https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0) | 3:47 | 2024-06-27 | 2025-02-07 |
@@ -161,7 +162,7 @@
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2025-03-28 |
 | [Regn På Min Kind](https://open.spotify.com/track/5mcIyGl60e8Y1pk4hx8l6S) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Regn På Min Kind](https://open.spotify.com/album/6xscW4MSCl4g87YaQyd8BH) | 2:49 | 2025-03-27 |  |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2025-01-23 |  |
-| [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 |  |
+| [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 | 2025-05-18 |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 | 2024-11-02 |
 | [Scare Me](https://open.spotify.com/track/46A26fgcPCP6gVAn3Q9uDQ) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Scare Me](https://open.spotify.com/album/13SewIUseHQmyBg6RHTIkK) | 2:30 | 2025-04-17 | 2025-04-25 |
 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 | 2025-04-12 |
@@ -207,6 +208,7 @@
 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 | 2024-06-27 |  |
 | [Undskyld](https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Undskyld](https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ) | 2:34 | 2024-10-18 | 2024-11-29 |
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2025-01-24 |
+| [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 |  |
 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 |  |
 | [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 | 2025-03-07 | 2025-03-22 |
 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |

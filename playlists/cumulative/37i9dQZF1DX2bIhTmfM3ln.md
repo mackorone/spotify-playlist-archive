@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-759 songs - 1 day 12 hr 59 min
+760 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,7 +503,7 @@
 | [Not Today](https://open.spotify.com/track/7bOGIPpwqj0USnIgOiasil) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb), [Emmyzain](https://open.spotify.com/artist/4guSmoI7enA2IiJzxgxKWa), [Reinna](https://open.spotify.com/artist/3DQvr4jxZCbGY8yjT3JsiL) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:50 | 2024-03-15 | 2024-05-03 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-21 | 2023-02-26 |
 | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T) | 4:03 | 2025-04-04 |  |
-| [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2024-12-06 |  |
+| [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2024-12-06 | 2025-05-18 |
 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 | 2024-02-13 | 2024-02-16 |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-02-11 | 2022-08-26 |
 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 | 2024-02-02 | 2024-03-09 |
@@ -751,6 +751,7 @@
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 | 2023-08-04 |
 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 | 2024-05-24 | 2025-03-08 |
 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 | 2022-09-01 | 2022-10-22 |
+| [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 | 2025-05-16 |  |
 | [WWGD \[What We Gon Do\]](https://open.spotify.com/track/5GmKF1H37UiJ3sBBibxZKw) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [BIPOLAR](https://open.spotify.com/album/4rjnYqHrPb6zd6kARIMQat) | 2:52 | 2025-04-11 |  |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2022-10-13 | 2024-02-09 |
 | [XtraOrdinary](https://open.spotify.com/track/3HDeY4a6ZA8GFIFJPXXsKc) | [Benerl](https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L) | [XtraOrdinary](https://open.spotify.com/album/7zOhgZlEQ5oTkcNdvmp3dy) | 2:28 | 2024-09-30 | 2024-10-26 |

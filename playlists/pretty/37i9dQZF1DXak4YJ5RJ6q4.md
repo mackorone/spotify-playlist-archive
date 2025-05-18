@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXak4YJ5RJ6q4.md) - [plain]
 
 > A story about a first love that lingers forever\. Listen to the music from Forever, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,355 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,304 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

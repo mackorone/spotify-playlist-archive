@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 361428,
+  "num_followers": 361484,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Beatmaker",
         "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
-      },
-      "artists": [
-        {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
-        }
-      ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
-      },
-      "artists": [
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
-        }
-      ],
-      "duration_ms": 470520,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 420493,
       "name": "Life In Paradise",
       "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+      },
+      "artists": [
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "duration_ms": 470520,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1253,42 +1253,6 @@
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
     },
     {
-      "added_at": "2025-03-21 04:00:36",
-      "album": {
-        "name": "Silver Rings",
-        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
-      },
-      "artists": [
-        {
-          "name": "New Street Adventure",
-          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
-        },
-        {
-          "name": "Nick Corbin",
-          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Silver Rings",
-      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
-    },
-    {
-      "added_at": "2022-07-18 17:17:22",
-      "album": {
-        "name": "C'\u00e9tait un rendez-vous",
-        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
-      },
-      "artists": [
-        {
-          "name": "Arms and Sleepers",
-          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
-        }
-      ],
-      "duration_ms": 320737,
-      "name": "C'\u00e9tait un rendez-vous",
-      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "The Best of Acid Jazz Vol. 2",
@@ -1307,6 +1271,22 @@
     {
       "added_at": "2022-07-18 17:17:22",
       "album": {
+        "name": "C'\u00e9tait un rendez-vous",
+        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
+      },
+      "artists": [
+        {
+          "name": "Arms and Sleepers",
+          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+        }
+      ],
+      "duration_ms": 320737,
+      "name": "C'\u00e9tait un rendez-vous",
+      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
+    },
+    {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
         "name": "Playing my piano",
         "url": "https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 381594,
       "name": "Playing my piano",
       "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
+    },
+    {
+      "added_at": "2025-03-21 04:00:36",
+      "album": {
+        "name": "Silver Rings",
+        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
+      },
+      "artists": [
+        {
+          "name": "New Street Adventure",
+          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
+        },
+        {
+          "name": "Nick Corbin",
+          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
+        }
+      ],
+      "duration_ms": 178264,
+      "name": "Silver Rings",
+      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
     },
     {
       "added_at": "2022-07-14 19:24:43",

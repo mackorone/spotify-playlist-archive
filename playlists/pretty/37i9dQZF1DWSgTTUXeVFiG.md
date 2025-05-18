@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,309 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,355 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 37 | [He Tratado \- Live at MSG Version](https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Live At Madison Square Garden](https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ) | 7:06 |
 | 38 | [Llorarás \- En Vivo Desde Nueva York/2000](https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [The Greatest Salsa Ever](https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9) | 3:38 |
 | 39 | [Boranda](https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [45 Aniversario](https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR) | 13:32 |
-| 40 | [Lluvia \- En Vivo](https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Eddie Santiago \(En Vivo\)](https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6) | 6:13 |
-| 41 | [Desesperado / Tú No Le Amas Le Temes Medley \- Live Version](https://open.spotify.com/track/2YOS0XgUx4FcbL4wh2SvCR) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Sergio George Presents Salsa Giants Plus EP \(Live\)](https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44) | 5:13 |
+| 40 | [Desesperado / Tú No Le Amas Le Temes Medley \- Live Version](https://open.spotify.com/track/2YOS0XgUx4FcbL4wh2SvCR) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Sergio George Presents Salsa Giants Plus EP \(Live\)](https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44) | 5:13 |
+| 41 | [Lluvia \- En Vivo](https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Eddie Santiago \(En Vivo\)](https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6) | 6:13 |
 | 42 | [Sabor Sabor \- Live](https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 5:20 |
 | 43 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
 | 44 | [Discúlpeme Señora \- Live Version](https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS) | [El Canario](https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:49 |

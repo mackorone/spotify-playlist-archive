@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 
 > The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,789 likes - 31 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,941 likes - 31 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

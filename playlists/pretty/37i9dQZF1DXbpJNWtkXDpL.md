@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,386 likes - 58 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,396 likes - 58 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 17 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 |
 | 18 | [Ay Mamasita](https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [Yell0w Yei](https://open.spotify.com/artist/4wYnHfMMu5an171J9sBE8i) | [Ay Mamasita](https://open.spotify.com/album/25bzzlibaTyLJT7ZlA6Jbm) | 2:39 |
 | 19 | [Tu Consentido](https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Tu Consentido](https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J) | 3:10 |
-| 20 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
-| 21 | [Veterinario](https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Veterinario](https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU) | 2:44 |
+| 20 | [Veterinario](https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Veterinario](https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU) | 2:44 |
+| 21 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
 | 22 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
 | 23 | [PANAMIUR](https://open.spotify.com/track/5NRoPUQy0epRhNWGFEPyfv) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [SEX\-TEX](https://open.spotify.com/album/75J4zinpVSTBEi74HiUxeS) | 2:51 |
 | 24 | [Que pretendes](https://open.spotify.com/track/0FAqZhz6FO4SoNN5wSXgn1) | [MXXLVN](https://open.spotify.com/artist/0MENdaOp9F4KpC6IcqRouS), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [suae](https://open.spotify.com/artist/4dCClSl31GDaKpIVIDvpCw), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [Bellako Loner Club](https://open.spotify.com/album/4cM9FzKuYIyD8kXakMLsbw) | 3:00 |

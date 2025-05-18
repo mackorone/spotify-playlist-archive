@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,360 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,386 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 2 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 |
 | 3 | [Stay](https://open.spotify.com/track/0s9e0j3kCt5Ofmm5LmJEl9) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Stay](https://open.spotify.com/album/41xT4BqzV4UUH2V9T8dAT5) | 3:46 |
 | 4 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 |
-| 5 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
+| 5 | [Issues \- Acoustic Version](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
 | 6 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
 | 7 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 |
 | 8 | [Diamonds](https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Diamonds](https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF) | 3:26 |

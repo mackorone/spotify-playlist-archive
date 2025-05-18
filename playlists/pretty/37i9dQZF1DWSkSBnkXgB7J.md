@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Kawtar
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,086 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,098 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 35 | [سامعك](https://open.spotify.com/track/5ODdBs7S8J42JNz35SfUQJ) | [Teefo](https://open.spotify.com/artist/3RTq9uscohYNRvooYGSHfb) | [سامعك](https://open.spotify.com/album/7eZjOkfhzvK7sPFPJzYSWf) | 2:32 |
 | 36 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
 | 37 | [Barki Byesmaani](https://open.spotify.com/track/0pdY5q4BOh6GflEQrC3PJy) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Barki Byesmaani](https://open.spotify.com/album/08QoXsgdXFkqowiniOio2x) | 1:54 |
-| 38 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 |
+| 38 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui et tawsen](https://open.spotify.com/artist/4TfUcDtoh5zA70LEAtn9p3) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 |
 | 39 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 |
 | 40 | [DeAd!](https://open.spotify.com/track/2KZlYhnbbKAKEcl5ihHnzH) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SAV!OR](https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ) | 2:28 |
 | 41 | [So7ba](https://open.spotify.com/track/1DtIhU3SdE5pRqP8fpEC7T) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Mâle\-Chanceux](https://open.spotify.com/album/2W3tkAvXR3UVVYrzkHh9t9) | 2:53 |

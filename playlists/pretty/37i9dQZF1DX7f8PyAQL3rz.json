@@ -1,6 +1,6 @@
 {
   "description": "thiago tomou pr\u00e9 treino, gravou a track E BOA \ud83d\udc4b\ud83c\udffd",
-  "num_followers": 1405739,
+  "num_followers": 1405763,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2025-05-16 03:01:15",
       "album": {
+        "name": "QUASE QUE FALEI TE AMO",
+        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 166058,
+      "name": "QUASE QUE FALEI TE AMO",
+      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
+    },
+    {
+      "added_at": "2025-05-16 03:01:15",
+      "album": {
         "name": "Malvadinho",
         "url": "https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 120115,
       "name": "Malvadinho",
       "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
-    },
-    {
-      "added_at": "2025-05-16 03:01:15",
-      "album": {
-        "name": "QUASE QUE FALEI TE AMO",
-        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 166058,
-      "name": "QUASE QUE FALEI TE AMO",
-      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
     },
     {
       "added_at": "2025-05-16 03:01:15",
@@ -403,42 +403,6 @@
     {
       "added_at": "2025-05-16 03:01:15",
       "album": {
-        "name": "S\u00f3 Rock 3",
-        "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Young Ganni",
-          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 312240,
-      "name": "S\u00f3 Rock 3",
-      "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
-    },
-    {
-      "added_at": "2025-05-16 03:01:15",
-      "album": {
         "name": "Mist\u00e9rios",
         "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
       },
@@ -479,6 +443,42 @@
       "duration_ms": 196000,
       "name": "Vida de Artista",
       "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"
+    },
+    {
+      "added_at": "2025-05-16 03:01:15",
+      "album": {
+        "name": "S\u00f3 Rock 3",
+        "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 312240,
+      "name": "S\u00f3 Rock 3",
+      "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
     },
     {
       "added_at": "2025-05-16 03:01:15",
@@ -1187,6 +1187,38 @@
     {
       "added_at": "2025-05-16 03:01:15",
       "album": {
+        "name": "Me Apaixonei Por Uma Mina do Job",
+        "url": "https://open.spotify.com/album/352CJMZAQ3hwWibgNHuA5s"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mukab",
+          "url": "https://open.spotify.com/artist/1rUoRdzeWCqoAn2EoSAj0X"
+        }
+      ],
+      "duration_ms": 232403,
+      "name": "Me Apaixonei Por Uma Mina do Job",
+      "url": "https://open.spotify.com/track/4J0wQZhCck0Z2CozwD1fJt"
+    },
+    {
+      "added_at": "2025-05-16 03:01:15",
+      "album": {
         "name": "Sigo Frio",
         "url": "https://open.spotify.com/album/2UnskzWZDBBdi01HzIqJjW"
       },
@@ -1227,38 +1259,6 @@
       "duration_ms": 269508,
       "name": "Sigo Frio",
       "url": "https://open.spotify.com/track/6HLY75qUVX62UxxmQcZPul"
-    },
-    {
-      "added_at": "2025-05-16 03:01:15",
-      "album": {
-        "name": "Me Apaixonei Por Uma Mina do Job",
-        "url": "https://open.spotify.com/album/352CJMZAQ3hwWibgNHuA5s"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mukab",
-          "url": "https://open.spotify.com/artist/1rUoRdzeWCqoAn2EoSAj0X"
-        }
-      ],
-      "duration_ms": 232403,
-      "name": "Me Apaixonei Por Uma Mina do Job",
-      "url": "https://open.spotify.com/track/4J0wQZhCck0Z2CozwD1fJt"
     },
     {
       "added_at": "2025-05-16 03:01:15",
@@ -1383,6 +1383,34 @@
     {
       "added_at": "2025-05-16 03:01:15",
       "album": {
+        "name": "Do Corre",
+        "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "DJ LN",
+          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Do Corre",
+      "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
+    },
+    {
+      "added_at": "2025-05-16 03:01:15",
+      "album": {
         "name": "BOLA + 1 BECK",
         "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
       },
@@ -1407,6 +1435,30 @@
       "duration_ms": 140979,
       "name": "C.A.P",
       "url": "https://open.spotify.com/track/6848Jh2cFXvILaNmoaezOG"
+    },
+    {
+      "added_at": "2025-05-16 03:01:15",
+      "album": {
+        "name": "LEALL On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/2BBWkxsTEBQFTNYesaDQeG"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        }
+      ],
+      "duration_ms": 178195,
+      "name": "LEALL On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/5DRm1n1Fe5pzIdjEmXDdoC"
     },
     {
       "added_at": "2025-05-16 03:01:15",
@@ -1451,34 +1503,6 @@
       "duration_ms": 84000,
       "name": "Dif\u00edcil Amar, Sou Frio",
       "url": "https://open.spotify.com/track/55UB3E2Oaxu6bkt2BqxAZW"
-    },
-    {
-      "added_at": "2025-05-16 03:01:15",
-      "album": {
-        "name": "Do Corre",
-        "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "DJ LN",
-          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Do Corre",
-      "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
     },
     {
       "added_at": "2025-05-16 03:01:15",
@@ -1579,30 +1603,6 @@
       "duration_ms": 171428,
       "name": "RITMOU",
       "url": "https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK"
-    },
-    {
-      "added_at": "2025-05-16 03:01:15",
-      "album": {
-        "name": "LEALL On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/2BBWkxsTEBQFTNYesaDQeG"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        }
-      ],
-      "duration_ms": 178195,
-      "name": "LEALL On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/5DRm1n1Fe5pzIdjEmXDdoC"
     },
     {
       "added_at": "2025-05-16 03:01:15",

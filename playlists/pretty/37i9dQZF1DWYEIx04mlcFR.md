@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Marco Mares en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,605 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,608 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Tiempo a Solas](https://open.spotify.com/track/615NGUeMoA8TqPtmoMnlqj) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Tiempo a Solas](https://open.spotify.com/album/6Flh9g2hp6wO6Wjg9FhAd8) | 2:31 |
 | 50 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
 
-Snapshot ID: `AAAAABMrjNg+heJM2S//8iJbnA8sL838`
+Snapshot ID: `aCbUcQAAAABp9x7mOY4T4PrUK8wgP1K5`

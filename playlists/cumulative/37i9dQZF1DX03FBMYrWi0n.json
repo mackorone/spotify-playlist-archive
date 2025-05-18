@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Soleil '96",
+        "url": "https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "Carte du ciel",
+      "url": "https://open.spotify.com/track/57nLBQ5B7m20grJpimsQyv"
+    },
+    {
+      "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
@@ -734,7 +752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 219765,
       "name": "Incendie au paradis",
       "url": "https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU"
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 219200,
       "name": "Journal d'un loup-garou",
       "url": "https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN"

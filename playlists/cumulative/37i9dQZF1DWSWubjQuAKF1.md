@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: AZ\-YL
 
-459 songs - 22 hr 14 min
+461 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Berlin](https://open.spotify.com/track/5mLaWguaVU2VrtVsqd2hQi) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [spędzam dni sam](https://open.spotify.com/album/25JZmZuK6jEsRG5df0Zgsd) | 2:28 | 2024-06-28 | 2024-07-19 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2024-10-12 |
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 | 2025-05-16 |
-| [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 |  |
+| [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-05-18 |
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
 | [Bez urazy](https://open.spotify.com/track/3wdIdpCKVTV28KlMUr8ujE) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bez urazy](https://open.spotify.com/album/4VdAaDojISpUrmCVhIYO4Z) | 2:30 | 2024-08-01 | 2024-08-23 |
@@ -75,6 +75,7 @@
 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 | 2024-06-28 | 2024-08-31 |
 | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/album/5ywUP1yvmqZLjsopZWQxQt) | 2:41 | 2024-07-04 | 2024-10-05 |
 | [chcę z Tobą iść do łóżka](https://open.spotify.com/track/36opgeBulRtAvvEx2YwDJI) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [chcę z Tobą iść do łóżka](https://open.spotify.com/album/2V06R1qzoXoWW5iOPi3NZ0) | 2:48 | 2025-02-13 | 2025-03-28 |
+| [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 | 2025-05-15 |  |
 | [chiaroscuro](https://open.spotify.com/track/0it9ytMrLUNz7UcHz9glAa) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [chiaroscuro](https://open.spotify.com/album/2botQzHLmHyVKwnKdmumIp) | 3:01 | 2024-06-28 | 2024-08-02 |
 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 | 2024-06-28 | 2024-07-12 |
 | [chłodniejsze noce](https://open.spotify.com/track/2MI9NuIHwCn6aLf90erAtQ) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [chłodniejsze noce](https://open.spotify.com/album/1WJlceX1m1d2Qp4MigRlZZ) | 2:10 | 2024-07-25 | 2024-08-31 |
@@ -284,7 +285,7 @@
 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 | 2025-03-13 |  |
 | [obyś to była Ty](https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [obyś to była Ty](https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl) | 2:14 | 2024-11-21 | 2025-01-24 |
 | [Obłęd](https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV) | [Obłęd](https://open.spotify.com/album/6oGm7MbUXDljtyXO8MLuKL) | 3:30 | 2025-01-23 | 2025-03-07 |
-| [oddaj mnie](https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [Helucze](https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr) | [oddaj mnie](https://open.spotify.com/album/75qFi0fN0V3cucVz3qAMwY) | 2:31 | 2025-04-03 |  |
+| [oddaj mnie](https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [Helucze](https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr) | [oddaj mnie](https://open.spotify.com/album/75qFi0fN0V3cucVz3qAMwY) | 2:31 | 2025-04-03 | 2025-05-18 |
 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 | 2025-05-01 |  |
 | [okay cool](https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [okay cool](https://open.spotify.com/album/5z27JiuMszAKGSUkfRVsNg) | 2:32 | 2025-02-20 | 2025-02-28 |
 | [Okej](https://open.spotify.com/track/7G6hL64mboXjkMRjbkIAAT) | [Martyna Gąsak](https://open.spotify.com/artist/5Ne3HqzciPsPhYX4jl1obI) | [Okej](https://open.spotify.com/album/6jvK9EgxNSzVb7ekqXDfZS) | 2:43 | 2024-06-28 | 2024-08-23 |
@@ -399,6 +400,7 @@
 | [teleranek](https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Teleranek](https://open.spotify.com/album/61C2QQjGxZioq1gyenC2GM) | 3:07 | 2024-06-28 | 2024-07-27 |
 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 | 2025-03-06 | 2025-05-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-01-23 | 2025-04-25 |
+| [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-15 |  |
 | [THINK OF ME](https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [THINK OF ME](https://open.spotify.com/album/4aJWqEswzebwxDSCkVzTEt) | 2:29 | 2025-03-13 | 2025-03-21 |
 | [tired](https://open.spotify.com/track/4n7R8CV8VpASepuuA0WUxY) | [Bartek Koziorowski](https://open.spotify.com/artist/6a28yBCAdWnh1n1qc6zNBT) | [tired](https://open.spotify.com/album/5nspfDd338PUt3VNW2MrLI) | 2:06 | 2025-01-23 | 2025-02-21 |
 | [to jara Cię też!](https://open.spotify.com/track/50y9rvzaMoCiDKxUCSpekj) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [to jara Cię też!](https://open.spotify.com/album/1suvRDCiw7fUUUNie070BV) | 2:56 | 2024-06-28 | 2024-09-14 |

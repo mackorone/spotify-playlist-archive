@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 797340,
+  "num_followers": 797393,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -75,8 +75,8 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+      "duration_ms": 271176,
+      "name": "Chemtrails Over The Country Club",
+      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -207,8 +207,8 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 271176,
-      "name": "Chemtrails Over The Country Club",
-      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Road Trippin'",
-      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
+        "name": "I Saw the Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "I Saw the Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
         "name": "The Pirate's Gospel (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
       },
@@ -707,6 +723,22 @@
       "duration_ms": 175453,
       "name": "The Pirate's Gospel",
       "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Inland Ocean",
+        "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "Inland Ocean",
+      "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -775,22 +807,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Inland Ocean",
-        "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "Inland Ocean",
-      "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Mama's Boy",
-        "url": "https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -891,6 +891,38 @@
       "duration_ms": 254822,
       "name": "Heartbreakdown",
       "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Hers",
+        "url": "https://open.spotify.com/album/0XPxK2qGH4BelboUUiVRvE"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Mama's Boy",
+        "url": "https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -991,6 +1023,22 @@
       "duration_ms": 229000,
       "name": "Amiss",
       "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1259,22 +1307,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "If You Get Lonely",
-        "url": "https://open.spotify.com/album/2TlHeCUJmhJZ9PvX3WR0MC"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 270905,
-      "name": "If You Get Lonely",
-      "url": "https://open.spotify.com/track/00EAC89klz4poRs9g4l2HD"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -1307,6 +1339,22 @@
       "duration_ms": 264880,
       "name": "Il neige",
       "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "If You Get Lonely",
+        "url": "https://open.spotify.com/album/2TlHeCUJmhJZ9PvX3WR0MC"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 270905,
+      "name": "If You Get Lonely",
+      "url": "https://open.spotify.com/track/00EAC89klz4poRs9g4l2HD"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1359,6 +1407,26 @@
       "duration_ms": 209120,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "I Found",
+        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 274725,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1591,70 +1659,6 @@
       "duration_ms": 204013,
       "name": "\u00c0 quoi pensait-elle",
       "url": "https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 245776,
-      "name": "Dusty",
-      "url": "https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Future Ghosts",
-        "url": "https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 208010,
-      "name": "Future Ghosts",
-      "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Things I've Seen",
-        "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
-      },
-      "artists": [
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
     }
   ],
   "unique_name": "Au calme",

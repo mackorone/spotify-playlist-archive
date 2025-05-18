@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 409963,
+  "num_followers": 409942,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Something's Gonna Kill Me",
-        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+        "name": "It Won't Be Long",
+        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
         }
       ],
-      "duration_ms": 183680,
-      "name": "Something's Gonna Kill Me",
-      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+      "duration_ms": 197794,
+      "name": "It Won't Be Long",
+      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "It Won't Be Long",
-        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
       },
       "artists": [
         {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 197794,
-      "name": "It Won't Be Long",
-      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "Work Boots and More from Leather",
+        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "Work Boots",
+      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Another Man",
         "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
       },
@@ -731,26 +747,6 @@
       "duration_ms": 208573,
       "name": "Start at the End",
       "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -887,18 +883,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Work Boots and More from Leather",
-        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 169013,
-      "name": "Work Boots",
-      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "The Droptines",
         "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 182406,
       "name": "Over",
       "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Horseback",
-        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Horseback",
-      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "God Blessed Texas",
         "url": "https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Till You",
         "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Life Behind Bars",
-        "url": "https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT"
-      },
-      "artists": [
-        {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Life Behind Bars",
-      "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 309510,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Life Behind Bars",
+        "url": "https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT"
+      },
+      "artists": [
+        {
+          "name": "Vandoliers",
+          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Life Behind Bars",
+      "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Country Round Here Tonight (feat. Justin Moore)",
         "url": "https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 223679,
       "name": "Country Round Here Tonight (feat. Justin Moore)",
       "url": "https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "jackson",
+      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
     },
     {
       "added_at": "2025-04-18 04:06:12",

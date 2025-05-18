@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Silampukau
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,795 likes - 94 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,809 likes - 94 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 4 | [Just Say Yes](https://open.spotify.com/track/5gWJbPFDoCmFyw8MVOiAO6) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Life in Bloom](https://open.spotify.com/album/7qYAWD0OVYi5JLlr88Tf9Y) | 3:44 |
 | 5 | [Sebentar](https://open.spotify.com/track/2DKTENKbAJWWhyymMTJgKp) | [Rrag](https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV) | [Sebentar](https://open.spotify.com/album/0yN9p4tirnp9mIbCPQ4YWv) | 4:01 |
 | 6 | [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 |
-| 7 | [The Hereafter](https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF) | [SMSR](https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj) | [The Hereafter](https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb) | 2:23 |
+| 7 | [The Hereafter \(feat\. Shotgundre\)](https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF) | [SMSR](https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj), [Shotgundre](https://open.spotify.com/artist/2kaOq4K0wgkd7a2gcrGMpq) | [The Hereafter \(feat\. Shotgundre\)](https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb) | 2:23 |
 | 8 | [Satu per Satu](https://open.spotify.com/track/7hnWGKq424gn5t6qba2eKu) | [Olski](https://open.spotify.com/artist/4R0IfHszLiWGOgtqlyuY71), [Hifdzikhoir](https://open.spotify.com/artist/58C6H14yuEB7fMu5lninwB) | [Satu per Satu](https://open.spotify.com/album/5qCGnSC8Pwdj4LzTCpMAWg) | 3:32 |
 | 9 | [Some Things Change](https://open.spotify.com/track/1Bf4teWLvVPtZpknMHeaOF) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Awkward Pop Music](https://open.spotify.com/album/70Br2gTCCJoO7hYQfH6Mvt) | 2:18 |
 | 10 | [What A Fool I've Been](https://open.spotify.com/track/2esuQKEEVkOxXiusLBP7kb) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [What A Fool I've Been](https://open.spotify.com/album/5wqmR0ixQol3OrXwsrjMy0) | 4:00 |

@@ -1,6 +1,6 @@
 {
   "description": "sweet and fresh emerging indie pop, featuring Jessica Winter \ud83c\udf51",
-  "num_followers": 30005,
+  "num_followers": 30008,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-05-15 23:00:10",
       "album": {
-        "name": "Relationships",
-        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
-    },
-    {
-      "added_at": "2025-05-15 23:00:10",
-      "album": {
         "name": "moody",
         "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 175833,
       "name": "moody",
       "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
+    },
+    {
+      "added_at": "2025-05-15 23:00:10",
+      "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
     },
     {
       "added_at": "2025-05-15 23:00:10",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-05-15 23:00:10",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd"
-      },
-      "artists": [
-        {
-          "name": "brand new legs",
-          "url": "https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa"
-        }
-      ],
-      "duration_ms": 159297,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH"
-    },
-    {
-      "added_at": "2025-05-15 23:00:10",
-      "album": {
         "name": "Dolly Pardon",
         "url": "https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-05-15 23:00:10",
       "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd"
+      },
+      "artists": [
+        {
+          "name": "brand new legs",
+          "url": "https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa"
+        }
+      ],
+      "duration_ms": 159297,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH"
+    },
+    {
+      "added_at": "2025-05-15 23:00:10",
+      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/5GshgWDxIaD1GhL23EPIxz"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2025-05-15 23:00:10",
       "album": {
-        "name": "Bonnie & Clyde",
-        "url": "https://open.spotify.com/album/7E5ORNlK5vQSY6lpUe1OiD"
+        "name": "Bigger Person",
+        "url": "https://open.spotify.com/album/1tuk25ivCCkoGhF4T6yhjp"
       },
       "artists": [
         {
-          "name": "CVC",
-          "url": "https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD"
+          "name": "Francesca Everly",
+          "url": "https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n"
         }
       ],
-      "duration_ms": 217058,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj"
+      "duration_ms": 159705,
+      "name": "Bigger Person",
+      "url": "https://open.spotify.com/track/0KoMv3zKj8HhnZvTWaGrRg"
     }
   ],
   "unique_name": "peach",

@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 67th GRAMMY Awards.",
-  "num_followers": 152567,
+  "num_followers": 152546,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "Rayo",
         "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1383,6 +1383,30 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "Holy Forever (Live)",
+        "url": "https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 642837,
+      "name": "Holy Forever (Live)",
+      "url": "https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
         "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
       },
@@ -1407,30 +1431,6 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
-        "name": "Holy Forever (Live)",
-        "url": "https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 642837,
-      "name": "Holy Forever (Live)",
-      "url": "https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Funk Generation",
-        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 147201,
-      "name": "Funk Rave",
-      "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 147201,
+      "name": "Funk Rave",
+      "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
         "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
       },
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Ohio Players",
-        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "Beautiful People (Stay High)",
-      "url": "https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
       },
@@ -1763,6 +1763,26 @@
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 127380,
+      "name": "Lucky (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/6DtU5J0xK0Law03cXT6ar5"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Lucky (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/6DtU5J0xK0Law03cXT6ar5"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "guidance",
         "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
       },
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Cellar Door",
-        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 283957,
-      "name": "Cellar Door",
-      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Cellar Door",
+        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 283957,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
     },
     {
       "added_at": "2025-02-03 18:19:52",

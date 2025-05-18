@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87328,
+  "num_followers": 87334,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAABDqOZ5PKJGjtbRZu8iUh2",
+  "snapshot_id": "aCaAAAAAAAAozyYDS+Xxc+XXJdH8OuJM",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonas Blue: Electronic Nature - The Mix 2017",
-        "url": "https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Mark Villa",
-          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
-        }
-      ],
-      "duration_ms": 163356,
-      "name": "In Your Arms Tonight",
-      "url": "https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I See Love (From Hotel Transylvania 3)",
         "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 173220,
       "name": "I See Love - From Hotel Transylvania 3",
       "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jonas Blue: Electronic Nature - The Mix 2017",
+        "url": "https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Mark Villa",
+          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
+        }
+      ],
+      "duration_ms": 163356,
+      "name": "In Your Arms Tonight",
+      "url": "https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7"
     },
     {
       "added_at": null,

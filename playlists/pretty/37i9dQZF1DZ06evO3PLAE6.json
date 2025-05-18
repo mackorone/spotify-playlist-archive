@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11341,
+  "num_followers": 11347,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABWNm5rKvNQ5MUO6Sgqb0+P",
+  "snapshot_id": "aCaAAAAAAACyT0MWZTZdvK41tJ7P+gv0",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Barricades And Brickwalls",
+      "url": "https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 226446,
       "name": "Walk a Country Mile",
       "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "Barricades And Brickwalls",
-      "url": "https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 224386,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 157880,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Storybook",
-        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 171893,
-      "name": "On A Bad Day",
-      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 212653,
       "name": "Backbone (The Desert Child)",
       "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 171893,
+      "name": "On A Bad Day",
+      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "A Little Bit Lonesome",
-      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 177013,
       "name": "Sweetest Waste Of Time",
       "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        }
-      ],
-      "duration_ms": 271960,
-      "name": "I Still Pray",
-      "url": "https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -511,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "duration_ms": 271960,
+      "name": "I Still Pray",
+      "url": "https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },
@@ -527,22 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
       },
       "artists": [
         {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
         },
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 220258,
-      "name": "If We Had a Child (with Keith Urban)",
-      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
+      "duration_ms": 175832,
+      "name": "Whispering Voice",
+      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
     },
     {
       "added_at": null,
@@ -567,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
       },
       "artists": [
         {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 175832,
-      "name": "Whispering Voice",
-      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
+      "duration_ms": 220258,
+      "name": "If We Had a Child (with Keith Urban)",
+      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Last Hard Bible",
-      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 175053,
       "name": "Sleeping Cold",
       "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Last Hard Bible",
+      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa KAJ.
 
-718 songs - 1 day 11 hr 50 min
+719 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [I'm On The Run](https://open.spotify.com/track/75VpUSiFlYJodUsFHdojcM) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [I'm On The Run](https://open.spotify.com/album/67c77Mnn5OCSnJZ3Xlp9eK) | 2:52 | 2025-05-01 |  |
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-07-02 | 2024-08-30 |
 | [IBZ \(feat\. T Swoop & Nelli Orell\)](https://open.spotify.com/track/2DjLdWKFTuG6qqE6yTlKuj) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Nelli Orell](https://open.spotify.com/artist/1Buj43f2VREVfcmEsNBjVd) | [IBZ \(feat\. T Swoop & Nelli Orell\)](https://open.spotify.com/album/0Z6bOiJgEL0JaLlzOgezgd) | 2:30 | 2024-07-04 | 2024-09-06 |
-| [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 | 2025-01-16 | 2025-04-18 |
+| [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 | 2025-01-16 |  |
 | [If U Want Me](https://open.spotify.com/track/3IHmHyrPhfrzhcPmpvXmai) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [If U Want Me](https://open.spotify.com/album/4u6d52P49fIgGPBEljxhkG) | 2:52 | 2024-07-02 | 2024-07-27 |
 | [Iha miten vaa](https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Iha miten vaa](https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm) | 3:16 | 2024-10-24 | 2024-12-13 |
 | [Ihan vaan ihminen](https://open.spotify.com/track/4q043Fo5avTZt1s8T0Y5qK) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Ihan vaan ihminen](https://open.spotify.com/album/6U0nK3F7Qk7n7nyq6ACMLb) | 3:10 | 2025-03-28 | 2025-04-25 |
@@ -693,6 +693,7 @@
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-07-02 | 2024-08-23 |
 | [Walk With Me \- Edit](https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Walk With Me](https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI) | 2:32 | 2024-11-28 | 2025-01-10 |
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-10 | 2024-11-15 |
+| [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-17 |  |
 | [WE PRAY](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-22 | 2024-10-04 |
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-03-27 | 2025-04-25 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-07-02 | 2024-07-05 |

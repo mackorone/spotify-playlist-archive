@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,482 likes - 100 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,663 likes - 100 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

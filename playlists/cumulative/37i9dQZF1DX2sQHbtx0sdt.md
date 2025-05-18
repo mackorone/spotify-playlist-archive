@@ -2,7 +2,7 @@
 
 ### [Global Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
-> New and trending hip\-hop from around the world\. Cover: Hamza 🇧🇪
+> New and trending hip\-hop from around the world\. Cover: Werenoi 🇫🇷🕊️
 
 790 songs - 1 day 14 hr 38 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,445 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,483 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 56 | [The Chant \(feat\. Dee Koala & Gemini Major\)](https://open.spotify.com/track/5OWCVOQ37ipOrHIAcPQyYJ) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [The Chant \(feat\. Dee Koala & Gemini Major\)](https://open.spotify.com/album/72WJTN1RzentaRuhB3aTRq) | 3:07 |
 | 57 | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw) | 3:42 |
 | 58 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 |
-| 59 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
-| 60 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
+| 59 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
+| 60 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
 | 61 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
 | 62 | [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \(Remix\)](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 |
 | 63 | [Bluff](https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:05 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 67 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 |
 | 68 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |
 | 69 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
-| 70 | [Minciza](https://open.spotify.com/track/6gpBEVqKI55d3JAtDDde24) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Jepedoh](https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ) | [Minciza](https://open.spotify.com/album/2nbTVh5PpRHYAAlb40TgKG) | 3:36 |
+| 70 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |
 
 Snapshot ID: `aB1F2wAAAADPVMGd3HrjgxBzV5D3mdTY`

@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26405,
+  "num_followers": 26404,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Broken & Beautiful",
-        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 218948,
-      "name": "Broken & Beautiful",
-      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Broken & Beautiful",
+        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 218948,
+      "name": "Broken & Beautiful",
+      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -923,30 +923,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Polaroid",
-        "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -1011,22 +987,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Love To Go",
         "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
       },
@@ -1047,6 +1007,46 @@
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Can We Pretend (feat. Cash Cash)",
-        "url": "https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Can We Pretend (feat. Cash Cash)",
-      "url": "https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Just Got Paid",
         "url": "https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 218250,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Can We Pretend (feat. Cash Cash)",
+        "url": "https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Can We Pretend (feat. Cash Cash)",
+      "url": "https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "ASYLUM",
-        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 171898,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Don't Worry Bout Me",
         "url": "https://open.spotify.com/album/45NYaXdS8H4pSXRDLnp7p5"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 208811,
       "name": "Don't Worry Bout Me",
       "url": "https://open.spotify.com/track/507tQXutCPYNFkpOq8tmKF"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 171898,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
     },
     {
       "added_at": "2024-07-03 14:32:39",

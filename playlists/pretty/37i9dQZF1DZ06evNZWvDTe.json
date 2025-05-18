@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12547,
+  "num_followers": 12550,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADclaFF1KMUFtNa99SGAYV9",
+  "snapshot_id": "aCaAAAAAAADDUsGNgZBqkjrGHrnKm6Mu",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
-      },
-      "artists": [
-        {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 288130,
       "name": "Adonai (Remix) [feat. Castro]",
       "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
@@ -455,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M3gye Wo Girl (feat. Shatta Wale)",
-        "url": "https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
         {
@@ -464,13 +444,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
         }
       ],
-      "duration_ms": 211320,
-      "name": "M3gye Wo Girl (feat. Shatta Wale)",
-      "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M3gye Wo Girl (feat. Shatta Wale)",
+        "url": "https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "M3gye Wo Girl (feat. Shatta Wale)",
+      "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 225307,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -699,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonga",
-        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Tonga",
-      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
+      "duration_ms": 225307,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
       "duration_ms": 214013,
       "name": "Chingam (feat. Bisa Kdei)",
       "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonga",
+        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Tonga",
+      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
       "added_at": null,

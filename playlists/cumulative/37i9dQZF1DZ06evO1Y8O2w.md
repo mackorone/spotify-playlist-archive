@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-100 songs - 7 hr 54 min
+101 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Refuse to Be Lonely](https://open.spotify.com/track/7ExBN9mMlaGDymm6SIZDPz) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 3:58 | 2022-05-25 |  |
 | [I'm Calling You](https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:59 | 2022-06-18 |  |
 | [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 | 2022-06-01 |  |
+| [If You Ever Change Your Mind](https://open.spotify.com/track/51OqJq0FbJ6qLvsrpHBlV4) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 2:58 | 2025-05-18 |  |
 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 | 2022-05-25 | 2024-10-09 |
 | [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 | 2022-05-25 |  |
 | [In Between the Heartaches](https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:45 | 2022-06-03 | 2024-05-14 |
@@ -79,7 +80,7 @@
 | [Sleep On It](https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:20 | 2022-05-27 |  |
 | [Slow Dancin'](https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:33 | 2022-06-02 |  |
 | [So Strange \- 12" Version](https://open.spotify.com/track/7cjiv0EP4j3wbNkehZbb74) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded Edition\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 9:01 | 2022-08-15 | 2022-10-12 |
-| [Some Way](https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 5:10 | 2022-05-28 |  |
+| [Some Way](https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 5:10 | 2022-05-28 | 2025-05-18 |
 | [Somewhere In My Lifetime](https://open.spotify.com/track/2MXUONwP4lnGiRLtqlKP9Z) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:27 | 2022-05-25 |  |
 | [Soon Come Again](https://open.spotify.com/track/2sl9F5mEvpIXpQMZ0Hk5N9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:33 | 2025-02-05 | 2025-02-15 |
 | [Souvenirs](https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:26 | 2022-05-25 | 2023-01-16 |

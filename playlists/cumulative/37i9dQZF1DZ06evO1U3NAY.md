@@ -4,7 +4,7 @@
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 47 min
+51 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [See Who I Am](https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:51 | 2025-03-08 |  |
 | [Shed My Skin](https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:30 | 2025-03-08 |  |
 | [Shot in the Dark](https://open.spotify.com/track/5JpbpsjhJeNwixBzbobklV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:02 | 2025-03-08 |  |
+| [Sing Like A Siren](https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Sing Like A Siren](https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD) | 3:12 | 2025-05-18 |  |
 | [Sinéad](https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 | 2025-03-08 |  |
 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 | 2025-03-08 |  |
 | [Stand My Ground](https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:27 | 2025-03-08 |  |

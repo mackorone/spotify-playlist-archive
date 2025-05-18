@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Luchè, Rkomi, Medy, Promessa, Rosa Chemical e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,067 likes - 123 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,091 likes - 123 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 5 | [0.25X](https://open.spotify.com/track/0zfQF2wXm6lfHg9vje0Mkw) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [OKAY OKAY 2](https://open.spotify.com/album/31DqbARkPE7psMQeosE1mY) | 1:47 |
 | 6 | [SHOTTA 3 \(feat\. Glocky\)](https://open.spotify.com/track/6ytJqXWey864xeI6a8w32l) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [PAIN 2](https://open.spotify.com/album/5zNDP1gLZR98uK3HL64pmY) | 2:12 |
 | 7 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 |
-| 8 | [FASTCAR](https://open.spotify.com/track/1aDIExdoWvXicMpHENbkqQ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Ryon](https://open.spotify.com/artist/0H28HfEzSDROUwMFiNhZzv) | [DRIVE BY](https://open.spotify.com/album/07lDZybkJfXL68WrZjEkQJ) | 2:20 |
+| 8 | [FASTCAR](https://open.spotify.com/track/1aDIExdoWvXicMpHENbkqQ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Ryon](https://open.spotify.com/artist/6lnFa7RsEvCRidfobkNRGf) | [DRIVE BY](https://open.spotify.com/album/07lDZybkJfXL68WrZjEkQJ) | 2:20 |
 | 9 | [senza soldi e parola \#176](https://open.spotify.com/track/3S8y1IciDVT7Bg44v7Cb6o) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [senza soldi e parola \#176](https://open.spotify.com/album/64iw0EDUJOB8s1ZIQHEVFK) | 2:57 |
 | 10 | [La mia vittoria \(feat\. Giorgia, Marracash\)](https://open.spotify.com/track/3KNZJB6GW71aBtfeeknoVq) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 4:16 |
 | 11 | [Occhio \(feat\. Lorenzza\)](https://open.spotify.com/track/0QavymYq6sE1PZ6uyyjtN1) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [Occhio \(feat\. Lorenzza\)](https://open.spotify.com/album/7qQWydprWvUVW54R1wTu0x) | 2:21 |

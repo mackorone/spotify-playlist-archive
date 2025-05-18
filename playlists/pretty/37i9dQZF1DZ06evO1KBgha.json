@@ -1,13 +1,37 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 362849,
+  "num_followers": 362900,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAD2RYFXR7LAAmX5+dm8lZRn",
+  "snapshot_id": "aCaAAAAAAAC8WrQNt2DXGj9Vx88XNe2v",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bate",
+        "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 138143,
+      "name": "Bate",
+      "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
+    },
     {
       "added_at": null,
       "album": {
@@ -887,30 +911,6 @@
       "duration_ms": 144000,
       "name": "Escr\u00edbeme",
       "url": "https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella (Remix De Ellas)",
-        "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
-      },
-      "artists": [
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Ella - Remix De Ellas",
-      "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
     }
   ],
   "unique_name": "This Is Kenia Os",

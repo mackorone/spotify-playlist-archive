@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Historia de Amor",
+        "url": "https://open.spotify.com/album/7JU7T5fvQ1Bi1FBAFrg10i"
+      },
+      "artists": [
+        {
+          "name": "Franno",
+          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253702,
+      "name": "Historia de Amor",
+      "url": "https://open.spotify.com/track/7JbXcqksdCJq12cbj1lPce"
+    },
+    {
+      "album": {
         "name": "Hombre Roto",
         "url": "https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x"
       },
@@ -3942,7 +3960,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"

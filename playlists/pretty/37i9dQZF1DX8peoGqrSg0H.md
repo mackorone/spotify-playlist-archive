@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,698 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,768 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 18 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 |
 | 19 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 |
 | 20 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
-| 21 | [เหนือฟ้า \(ABOVE\) \- Ost.ข้ามฟ้าเคียงเธอ The Next Prince Series](https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [เหนือฟ้า \(ABOVE\) \[Ost.ข้ามฟ้าเคียงเธอ The Next Prince Series\]](https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU) | 3:50 |
+| 21 | [เหนือฟ้า \(ABOVE\) \- Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series](https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [เหนือฟ้า \(ABOVE\) \[Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series\]](https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU) | 3:50 |
 | 22 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
 | 23 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 |
 | 24 | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/6PpU1mdpIla4ZCafxgcQad) | 3:22 |

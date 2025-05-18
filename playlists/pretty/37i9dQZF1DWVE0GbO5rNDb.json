@@ -1,6 +1,6 @@
 {
   "description": "Hit dance per l'estate 2024 \ud83c\udf49",
-  "num_followers": 506,
+  "num_followers": 512,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Free (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 212345,
-      "name": "Free (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Free (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 212345,
+      "name": "Free (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Way It Is",
+        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        }
+      ],
+      "duration_ms": 192905,
+      "name": "Way It Is",
+      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Way It Is",
-        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        }
-      ],
-      "duration_ms": 192905,
-      "name": "Way It Is",
-      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Hot Honey",
-        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Hot Honey",
-      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "World Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/0F05CIPVb8qpUAz202ECcc"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6t180YbVeK9MWrj2zjMr5Z"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Hot Honey",
+        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Hot Honey",
+      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Shut Up And Dance",
+        "url": "https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 177268,
+      "name": "Shut Up And Dance",
+      "url": "https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 187040,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Shut Up And Dance",
-        "url": "https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 177268,
-      "name": "Shut Up And Dance",
-      "url": "https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "I Wish (feat. Mabel)",
-        "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 181728,
-      "name": "I Wish (feat. Mabel)",
-      "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "I Wish (feat. Mabel)",
+        "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 181728,
+      "name": "I Wish (feat. Mabel)",
+      "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
     },
     {
       "added_at": "2024-09-05 22:01:00",

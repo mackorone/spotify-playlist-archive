@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 173331,
       "name": "01",
       "url": "https://open.spotify.com/track/2U4fr16sIR5k6ep9iv3vZG"
@@ -352,6 +352,28 @@
       "duration_ms": 147625,
       "name": "BAD OMENS",
       "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
+    },
+    {
+      "album": {
+        "name": "badboysound",
+        "url": "https://open.spotify.com/album/2Yfz4UEkDcgrsvUFkHHUVS"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Sanjin",
+          "url": "https://open.spotify.com/artist/4eubQnUM4b5sGZoi3fSRV3"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169163,
+      "name": "badboysound",
+      "url": "https://open.spotify.com/track/3m1bWZZblIpYjQzrOSl0Oe"
     },
     {
       "album": {

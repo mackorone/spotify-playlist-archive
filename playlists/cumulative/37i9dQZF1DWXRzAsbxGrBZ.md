@@ -4,7 +4,7 @@
 
 > Get revived with some of the best Deep House South Africa has to offer.
 
-282 songs - 1 day 8 hr 32 min
+283 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Only You Know \(feat\. Jaidene Veda\)](https://open.spotify.com/track/7fdystua9Prp0XWWfpzBhv) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:26 | 2025-03-07 | 2025-04-11 |
 | [OSCILLATIONS](https://open.spotify.com/track/1SiCfb0VwAZPawZALNOCES) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr), [Deep Essentials](https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO) | [THE XO EFFECT 2](https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt) | 7:04 | 2025-01-30 |  |
 | [Out Out](https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj) | [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg), [Yves Eaux](https://open.spotify.com/artist/3wTpIwiVkuSC7toZZpqv4F), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Out Out](https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2) | 7:08 | 2022-09-19 | 2023-02-28 |
-| [Over Loved.](https://open.spotify.com/track/35cuBaT4Lyb89KSeMeM4Z9) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Over Loved](https://open.spotify.com/album/2oHEj8GTLy3onemgwEWekf) | 6:27 | 2025-03-07 |  |
+| [Outside](https://open.spotify.com/track/1PiLGoIdjH3qKNXphnxuVc) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Tesfa Williams](https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6), [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20) | [Outside](https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV) | 4:02 | 2025-05-15 |  |
+| [Over Loved.](https://open.spotify.com/track/35cuBaT4Lyb89KSeMeM4Z9) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Over Loved](https://open.spotify.com/album/2oHEj8GTLy3onemgwEWekf) | 6:27 | 2025-03-07 | 2025-05-18 |
 | [Over You \- MacZito Remix](https://open.spotify.com/track/79GC7GWBcBku8cfbOzB99O) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC) | [Over You \(Remixes\)](https://open.spotify.com/album/5vgJUOQeQmmZt6IJkQL999) | 6:41 | 2025-02-27 |  |
 | [Papino's Revenge \- Frank Ru Remix](https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G) | [KVRVBO](https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB), [Frank Ru](https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ) | [Papino's Revenge Remixes](https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf) | 6:38 | 2024-05-16 | 2025-01-31 |
 | [Phola Nhliziyo](https://open.spotify.com/track/0ziisLze9KEolVdFZTdMfM) | [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Phola Nhliziyo](https://open.spotify.com/album/3CbBmHCZy9BJPPWVl7ZkSS) | 6:16 | 2024-06-06 |  |

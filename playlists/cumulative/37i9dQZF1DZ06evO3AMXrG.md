@@ -4,7 +4,7 @@
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-72 songs - 6 hr 9 min
+73 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Donde No Alcanza Mi Verso](https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:43 | 2022-05-25 |  |
 | [Días Intensos \- En Vivo](https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:51 | 2022-05-25 |  |
 | [Efecto Dominó](https://open.spotify.com/track/2QQzm3FX7CVoF3x65YdbFL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 3:17 | 2022-08-15 | 2022-10-07 |
-| [Enyoyando](https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 1:11 | 2023-04-29 |  |
+| [Enyoyando](https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 1:11 | 2023-04-29 | 2025-05-18 |
 | [Enyoyando / Can Truenos Hay Que Hablar / Despertar \- En Vivo](https://open.spotify.com/track/57xci6chV37mY1GS1BcHPO) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Cultura en Vivo](https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8) | 17:26 | 2022-05-25 | 2022-10-21 |
 | [Fruto de la Tierra](https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 4:23 | 2022-05-25 |  |
 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 | 2022-05-25 |  |
@@ -28,7 +28,8 @@
 | [Herida Mortal](https://open.spotify.com/track/0xrZ27yKrvpPeCeQwVlGNO) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:43 | 2022-05-25 | 2024-06-06 |
 | [Herida Mortal](https://open.spotify.com/track/2WIwsUshsqeBrAt7jHaHOg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L) | 5:43 | 2024-06-06 |  |
 | [Ideas Nuevas](https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:11 | 2022-05-25 |  |
-| [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2022-05-25 |  |
+| [Ilegal](https://open.spotify.com/track/4G957N5nUzj1RBIvbWxbyy) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 5:06 | 2025-05-18 |  |
+| [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2022-05-25 | 2025-05-18 |
 | [Inspiración](https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:47 | 2022-05-25 |  |
 | [La Complicidad](https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 6:04 | 2022-05-25 |  |
 | [La Espera](https://open.spotify.com/track/0vl8naLAWvkm7EiE4DQdl5) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:25 | 2022-05-25 | 2023-07-09 |

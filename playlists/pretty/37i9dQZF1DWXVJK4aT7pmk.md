@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,734 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,180 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 14 | [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 |
 | 15 | [Police](https://open.spotify.com/track/4DrDsY7ExVwT371fdjcjgA) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:21 |
 | 16 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 |
-| 17 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 17 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 18 | [Mera Mann](https://open.spotify.com/track/7DKWcqsUjsjBD56kbYvx50) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Mera Mann](https://open.spotify.com/album/2zBFZJ0VhUSflzQ7rcuu0J) | 2:43 |
 | 19 | [Gears](https://open.spotify.com/track/1cj4y0FUFStkfdEUPyDxfx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [THE REVOLUTION](https://open.spotify.com/album/1QkGi708j70paXVgKdef65) | 2:30 |
 | 20 | [O Shera \- Teer Te Taj \(Film Version\) \- From "Kesari Chapter 2"](https://open.spotify.com/track/0bEGXuQwXNF61JDXP47h9i) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sangtar](https://open.spotify.com/artist/0DhoozKChWygwuEQKGagwl), [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5), [Kamal Heer](https://open.spotify.com/artist/2S3lVn4PcnGcbKKu7nsDL6), [Sukhwinder Amrit](https://open.spotify.com/artist/6Ok2Tk9CyqWrWOZFcnMG72) | [O Shera \- Teer Te Taj \(Film Version\) \[From "Kesari Chapter 2"\]](https://open.spotify.com/album/26sc7lMVSZk8jHnLDqdLjH) | 2:32 |

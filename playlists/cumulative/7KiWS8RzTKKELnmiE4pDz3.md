@@ -4,7 +4,7 @@
 
 > 
 
-1,000 songs - 2 day 1 hr 35 min
+1,001 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [Sexual Healing](https://open.spotify.com/track/4PxqfF3aezYRkheYir1T5g) | [Grailed](https://open.spotify.com/artist/5wgXWK6qGrFD6uAFENCLXo) | [Sexual Healing](https://open.spotify.com/album/1Uo1cBKWEQdHUXoe7WYW82) | 2:33 | 2022-12-15 | 2024-11-06 |
 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 | 2025-04-25 |  |
 | [Sh\*t Sad](https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 3:14 | 2024-10-23 |  |
+| [sh00t](https://open.spotify.com/track/2SVX42W1UnJ52oNYgjLsLK) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:07 | 2025-05-17 |  |
 | [Shade](https://open.spotify.com/track/3vpocwyn0RvKzeXo1tzSrW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:02 | 2024-02-21 | 2024-04-24 |
 | [Shaka](https://open.spotify.com/track/737vdNsatvMD6td0pvDKV4) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 3:32 | 2025-04-29 |  |
 | [Shame On The Devil](https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Shame On The Devil](https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T) | 3:25 | 2024-05-21 | 2024-11-06 |

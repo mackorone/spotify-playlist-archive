@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 75347,
+  "num_followers": 75363,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAC7c7mRy5522cPwwtCBso+4",
+  "snapshot_id": "aCaAAAAAAAA8KxUG/9mI4WFtm0Qy/z4g",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 182369,
-      "name": "Pa' Que Lo Bailes",
-      "url": "https://open.spotify.com/track/3mOJJ4cpkQNr9oAhARg9T6"
+      "duration_ms": 201607,
+      "name": "La Negrita",
+      "url": "https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 201607,
-      "name": "La Negrita",
-      "url": "https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP"
+      "duration_ms": 182369,
+      "name": "Pa' Que Lo Bailes",
+      "url": "https://open.spotify.com/track/3mOJJ4cpkQNr9oAhARg9T6"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Ya Lleg\u00f3...",
-        "url": "https://open.spotify.com/album/5siCpB7OjPch0HLIuFQb0j"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 210407,
-      "name": "Ya Lleg\u00f3",
-      "url": "https://open.spotify.com/track/3I5Fh4w3nUInZN6lT7xTPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Su Majestad con Ustedes",
         "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Ya Lleg\u00f3...",
+        "url": "https://open.spotify.com/album/5siCpB7OjPch0HLIuFQb0j"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 210407,
+      "name": "Ya Lleg\u00f3",
+      "url": "https://open.spotify.com/track/3I5Fh4w3nUInZN6lT7xTPJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa'que Lo Bailes",
         "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Banda el Mexicano",
-        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 188940,
-      "name": "Lupe",
-      "url": "https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100% Mexicano",
         "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 225354,
       "name": "Que Ricos Cocos",
       "url": "https://open.spotify.com/track/6C2qUXLnmMgLc6wcVV3gVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 188940,
+      "name": "Lupe",
+      "url": "https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j"
     },
     {
       "added_at": null,

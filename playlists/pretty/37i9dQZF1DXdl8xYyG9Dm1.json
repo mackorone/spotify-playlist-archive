@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Nasty C",
-  "num_followers": 171445,
+  "num_followers": 171483,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-05-09 00:01:31",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "added_at": "2025-05-09 00:01:31",
+      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
-    },
-    {
-      "added_at": "2025-05-09 00:01:31",
-      "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
     },
     {
       "added_at": "2025-05-09 00:01:31",
@@ -1383,42 +1383,18 @@
     {
       "added_at": "2025-05-09 00:01:31",
       "album": {
-        "name": "Minciza",
-        "url": "https://open.spotify.com/album/2nbTVh5PpRHYAAlb40TgKG"
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
       "artists": [
         {
-          "name": "Qwellers",
-          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Blue Pappi",
-          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
-        },
-        {
-          "name": "Lowfeye",
-          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
-        },
-        {
-          "name": "LaCabra",
-          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
-        },
-        {
-          "name": "Sastii",
-          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
-        },
-        {
-          "name": "Jepedoh",
-          "url": "https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Minciza",
-      "url": "https://open.spotify.com/track/6gpBEVqKI55d3JAtDDde24"
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     }
   ],
   "unique_name": "Afro Bars ",

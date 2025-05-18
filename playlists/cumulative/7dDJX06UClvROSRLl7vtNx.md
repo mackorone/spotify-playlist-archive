@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-867 songs - 1 day 13 hr 37 min
+868 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Can't Help Falling In Love With You](https://open.spotify.com/track/7kGiOCt0ykF3HNGlRcNdkW) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Forever Kids.](https://open.spotify.com/artist/5ta0hTlqtDBzMgeV5frOJT) | [Can't Help Falling In Love With You](https://open.spotify.com/album/04kFaB0aKstGtw6TrDqXC5) | 2:43 | 2024-07-21 | 2024-08-08 |
 | [Careless Whisper](https://open.spotify.com/track/2hESLhxdaKlLA5Xt9kZdsz) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Sealife](https://open.spotify.com/artist/0hqL32qd5sIFvWQXVtccIa), [Beachlife](https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF) | [Careless Whisper](https://open.spotify.com/album/38ZVhH1K3qD6X9On0NqmqL) | 2:55 | 2024-05-11 |  |
 | [Carry On](https://open.spotify.com/track/0ZQiqf9oqFDNgnDVYktm5n) | [Ben Mack](https://open.spotify.com/artist/6r4xjDHhzlv0iVoHauTfTm) | [Carry On](https://open.spotify.com/album/5lyz9rew3cKgJwP4OAx8Fi) | 2:37 | 2025-03-07 | 2025-04-07 |
+| [Carry On](https://open.spotify.com/track/4dgNanbtzhZasNoHZlGaXs) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Carry On](https://open.spotify.com/album/3Mdo6S8ebG5YYkyHmrnTPU) | 3:18 | 2025-05-17 |  |
 | [Casanova](https://open.spotify.com/track/1jF6RZDYvmO30U7mwSbK5A) | [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E) | [Casanova](https://open.spotify.com/album/3ZjnxEhu3ZElToVMrN43WG) | 2:54 | 2025-03-30 | 2025-04-28 |
 | [Catch & Release](https://open.spotify.com/track/1akulsmCT8i9lmAFlFNjRO) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV), [Aria De vie](https://open.spotify.com/artist/7DpmVYmJRgZIp64St4jfbO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Catch & Release](https://open.spotify.com/album/2CYVNYXLL1sqq8hAzOa1eA) | 3:13 | 2023-09-22 | 2023-12-31 |
 | [Change](https://open.spotify.com/track/7vm8UVv9dT15G3TyBkZ7xQ) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Change](https://open.spotify.com/album/5rTRFmFz01vhLtttLgyQ9O) | 2:18 | 2024-03-01 | 2024-05-13 |
@@ -635,7 +636,7 @@
 | [Rushing From Me](https://open.spotify.com/track/1E7R3c2lHdlftcXcK4HnJL) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR) | [Rushing From Me](https://open.spotify.com/album/4w1iRgykyDw8c433JRIgFs) | 2:48 | 2024-01-27 | 2024-06-01 |
 | [Safe & Sound](https://open.spotify.com/track/09W35ykeoYUXdlCkEFkqLq) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Janet Tung](https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB) | [Safe & Sound](https://open.spotify.com/album/7EO8uLByqZseYCWOZ0pZ0G) | 2:13 | 2023-09-22 | 2024-01-15 |
 | [Safe & Sound](https://open.spotify.com/track/3LCNPUM4TlQ7mNUjuwKyjd) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [ELIJAH](https://open.spotify.com/artist/3BKfCtHSgkQpLqX2n2191z) | [Safe & Sound](https://open.spotify.com/album/06bGpE5F7hsAHngJKIptAj) | 2:29 | 2024-06-09 | 2024-11-11 |
-| [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 | 2025-01-17 |  |
+| [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 | 2025-01-17 | 2025-05-18 |
 | [Sandals](https://open.spotify.com/track/47jqBB5W0v7UwskQDwBQZk) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Fijy](https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV) | [Sandals](https://open.spotify.com/album/7jOcQJip9Htowh5Jb0oGmy) | 2:41 | 2025-05-09 |  |
 | [Saturday Night](https://open.spotify.com/track/5vvyZn01OanyjFXLuhrz5p) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Saturday Night](https://open.spotify.com/album/0jh1gOwsVek6YoijDpG4gf) | 2:40 | 2024-09-12 |  |
 | [Save Me](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2) | [Dūne](https://open.spotify.com/artist/5TtvkENnGTgiOTO8gTbTmo) | [Save Me](https://open.spotify.com/album/5F6XZV6i7gTz4RuPNKGJ2N) | 2:14 | 2023-10-30 | 2024-05-13 |

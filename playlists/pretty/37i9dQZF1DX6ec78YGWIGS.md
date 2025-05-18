@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Yami Safdie & Rusherking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,299 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,303 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Cupido](https://open.spotify.com/track/6xtwjW4Z7JwnbGVRh36U4I) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Cupido](https://open.spotify.com/album/3HQfwwGTq9j9jVr5Yn5jQg) | 3:16 |
 | 100 | [Gracias](https://open.spotify.com/track/7KMFDij7TKaTE6pCTX1eLh) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Gracias](https://open.spotify.com/album/4WUz7rVm3f0aJ1LU51SBSp) | 3:16 |
 
-Snapshot ID: `aCdm/AAAAADdkUn1xliFV11lwTecvqgp`
+Snapshot ID: `aCdm/AAAAABT3sfOx1sl3JkSQZxeY5B2`

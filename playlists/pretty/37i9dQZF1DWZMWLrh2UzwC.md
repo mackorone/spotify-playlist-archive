@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from XG, Lola Young, Laufey, Hazama, Bunga, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,350 likes - 111 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,361 likes - 111 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 80 | [I Saw the Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw the Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 81 | [MAPPU](https://open.spotify.com/track/6WCNGFUbzx8oSNSZZBSU0S) | [LINGGES](https://open.spotify.com/artist/7wPsR5gJq1N0GSVcBidY76), [Vetha Shahana](https://open.spotify.com/artist/2Bkya49Y15WCHqNRhRz8yA) | [MAPPU](https://open.spotify.com/album/7DWe5hTZv2d69Lm9qGtiQE) | 3:08 |
 | 82 | [Calm TF Down](https://open.spotify.com/track/3rUiIJTMmPBNesziaqW7o8) | [kiingkess](https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr), [Sax?](https://open.spotify.com/artist/6NoqiIJ7YfJYVLLM9Qnou8) | [Calm TF Down](https://open.spotify.com/album/6eOOr30o2lK9ZrcYzSQnLG) | 2:23 |
-| 83 | [耳语](https://open.spotify.com/track/5pCieSw4d0UFuYCwBsBjlB) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB) | [APOLLO: AGAINST THE WORLD](https://open.spotify.com/album/74MhnOkKbhuN8oZI0viuFJ) | 3:52 |
+| 83 | [耳语](https://open.spotify.com/track/5pCieSw4d0UFuYCwBsBjlB) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB), [YYOUV](https://open.spotify.com/artist/1iaxswHX2v1tsGPBHO4bSg) | [APOLLO: AGAINST THE WORLD](https://open.spotify.com/album/74MhnOkKbhuN8oZI0viuFJ) | 3:52 |
 | 84 | [Tourist](https://open.spotify.com/track/5u73RPH18dAY7HejcAZSOy) | [Eevone](https://open.spotify.com/artist/5NJJStMLtyc5gj5ZvyBIAN) | [Tourist](https://open.spotify.com/album/6hyJpWzscoPlVBmQFrFSk0) | 4:04 |
 | 85 | [Know Me](https://open.spotify.com/track/2eBnV9niY1YzcHsYEPMzAt) | [RZN](https://open.spotify.com/artist/4wA9xhO1yGjwVc98eQakkz) | [Know Me](https://open.spotify.com/album/74v6xeNyokMc2pU6UwbgFf) | 2:23 |
 | 86 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 |

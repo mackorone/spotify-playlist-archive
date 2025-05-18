@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: RUBII 🇬🇧  & AMARIA BB  🇯🇲 🇬🇾
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,389 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,417 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 19 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 20 | [Puni Police](https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Puni Police](https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09) | 2:44 |
 | 21 | [Woza](https://open.spotify.com/track/58GA6ogxMNO5aEGnW9fbly) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Woza](https://open.spotify.com/album/5884PHr4CsiPlJlNhkaXDa) | 2:32 |
-| 22 | [Bod Fuck](https://open.spotify.com/track/3fbebfgxZVReQ2uj8JXwUr) | [One Don](https://open.spotify.com/artist/08b1uXicKYSTSmMGly3I2p) | [Bod Fuck](https://open.spotify.com/album/1FoqkgON8X9bPigVKAUHla) | 2:14 |
+| 22 | [Bod Fck](https://open.spotify.com/track/3fbebfgxZVReQ2uj8JXwUr) | [One Don](https://open.spotify.com/artist/08b1uXicKYSTSmMGly3I2p) | [Bod Fck](https://open.spotify.com/album/1FoqkgON8X9bPigVKAUHla) | 2:14 |
 | 23 | [How Much](https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [ROOKIES don’t sound this good](https://open.spotify.com/album/7INJicBsDhZK1ygNCxsKiW) | 2:19 |
 | 24 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 |
 | 25 | [Old Topic](https://open.spotify.com/track/3YGx1cYn9VHTPBPGCJDjfd) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Old Topic](https://open.spotify.com/album/6kEX09snM9X2pN8pxu8k4W) | 2:45 |

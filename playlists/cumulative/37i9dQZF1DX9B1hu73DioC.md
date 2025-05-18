@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-921 songs - 2 day 6 hr 44 min
+922 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [High Beams](https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [High Beams](https://open.spotify.com/album/0Z3dnKulGDg97zHhomkppb) | 3:30 | 2021-08-27 | 2022-07-29 |
 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 | 2024-04-11 | 2024-09-19 |
 | [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-09-15 | 2023-11-06 |
+| [Hold Me](https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Hold Me](https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h) | 3:10 | 2025-04-25 |  |
 | [Hold Me Down](https://open.spotify.com/track/7j3F83W8dkm10ujNwC0wRJ) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Hold Me Down](https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA) | 3:23 | 2022-03-07 | 2022-04-20 |
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-16 |  |
 | [Holding On](https://open.spotify.com/track/2WZwPv9no6rPUSLTABF1uy) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [In a Heartbeat](https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp) | 3:46 | 2020-10-16 | 2022-04-17 |
@@ -754,7 +755,7 @@
 | [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 | 2025-02-07 |  |
 | [Sororicide](https://open.spotify.com/track/69Ze3ckLo7AOGa8QYrihH0) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [Sororicide](https://open.spotify.com/album/0sONVzqDRpCsk3rKVBdjU0) | 3:46 | 2020-10-05\* | 2020-10-06 |
 | [Sorry I Am](https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 4:01 | 2022-06-01 | 2023-08-01 |
-| [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 | 2025-04-25 |  |
+| [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 | 2025-04-25 | 2025-05-18 |
 | [Soul Brother](https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Soul Brother](https://open.spotify.com/album/40n7vb1dukXUKv6uKGLNsv) | 3:49 | 2022-06-28 | 2022-10-15 |
 | [Speaking Sonar](https://open.spotify.com/track/3jNzWIb2btZiF8QxLhUCOL) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Happy Camper](https://open.spotify.com/album/5Aj6dbpCHryCIB9n2pqmwG) | 3:40 | 2022-11-10 | 2022-11-13 |
 | [Speaking Sonar](https://open.spotify.com/track/391urs5Mo2SLm5Cge12K5x) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Speaking Sonar](https://open.spotify.com/album/7Ilx2OLWq4xrqRKRQ0rEm5) | 3:40 | 2020-10-05\* | 2022-04-18 |

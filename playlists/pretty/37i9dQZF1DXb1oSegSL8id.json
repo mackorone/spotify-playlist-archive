@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 842140,
+  "num_followers": 842177,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Tijol\u00e3o (ao Vivo)",
-        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 175219,
-      "name": "Tijol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Por Mais Beijos Ao Vivo",
         "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 169593,
       "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
       "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -443,38 +443,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Cheirosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "Cheirosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 154661,
-      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 154661,
+      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Atrasadinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 172766,
-      "name": "Atrasadinha - Live",
-      "url": "https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
         "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 381011,
       "name": "Carona do Amor / Shortinho Saint-Tropez / Novos Tempos",
       "url": "https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Atrasadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 172766,
+      "name": "Atrasadinha - Live",
+      "url": "https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Chaaama",
-        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 139528,
-      "name": "Vamo Tomar Uma",
-      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Adorei",
         "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 179452,
       "name": "Adorei",
       "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Chaaama",
+        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 139528,
+      "name": "Vamo Tomar Uma",
+      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "A Origem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 153374,
-      "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Ousadia & Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 148386,
       "name": "Ousadia & Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "A Origem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 153374,
+      "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "ME USA - Ao Vivo",
+      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/2nUov8cvXReM3gpk3Os8PR"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 480463,
       "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2SaRCZqpayygyXxKb5sAfH"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "ME USA - Ao Vivo",
-      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     },
     {
       "added_at": "2024-07-09 12:43:17",

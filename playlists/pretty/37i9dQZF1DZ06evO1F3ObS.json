@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 21753,
+  "num_followers": 21760,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACpmiTk8XoTN4fo3K0Oi2M6",
+  "snapshot_id": "aCaAAAAAAABryk0Ph7PAAW6jYVS2Q1uv",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "SWEET HURT",
+      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "time",
         "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
       },
@@ -411,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWEET HURT",
-        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
       "artists": [
         {
@@ -420,25 +436,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 277480,
-      "name": "SWEET HURT",
-      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VITA",
-        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "VITA",
-      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
+      "duration_ms": 189866,
+      "name": "SACRA",
+      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+        "name": "VITA",
+        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 189866,
-      "name": "SACRA",
-      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
+      "duration_ms": 306586,
+      "name": "VITA",
+      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
-        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+        "name": "\u30aa\u30e0\u30e9\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/0hMqJVDkFQovjCmuE7P9t4"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 341773,
-      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
-      "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
+      "duration_ms": 364558,
+      "name": "\u30aa\u30e0\u30e9\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/7xMxpOUnBEBMKaNxfsdjea"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
-        "url": "https://open.spotify.com/album/1SQyPCQJp2Me9K52zBCAIA"
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 640626,
-      "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"
+      "duration_ms": 341773,
+      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
+      "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30aa\u30e0\u30e9\u30a4\u30b9",
-        "url": "https://open.spotify.com/album/0hMqJVDkFQovjCmuE7P9t4"
+        "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/1SQyPCQJp2Me9K52zBCAIA"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 364558,
-      "name": "\u30aa\u30e0\u30e9\u30a4\u30b9",
-      "url": "https://open.spotify.com/track/7xMxpOUnBEBMKaNxfsdjea"
+      "duration_ms": 640626,
+      "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"
     },
     {
       "added_at": null,

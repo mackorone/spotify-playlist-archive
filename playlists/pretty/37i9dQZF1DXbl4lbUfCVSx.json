@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 34385,
+  "num_followers": 34393,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-04-22 12:14:26",
       "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
+    },
+    {
+      "added_at": "2025-04-22 12:14:26",
+      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
-    },
-    {
-      "added_at": "2025-04-22 12:14:26",
-      "album": {
-        "name": "Tantan- Pam Pam Pam",
-        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
-      },
-      "artists": [
-        {
-          "name": "Tantan",
-          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
-        }
-      ],
-      "duration_ms": 386733,
-      "name": "Pam Pam Pam",
-      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
     },
     {
       "added_at": "2025-04-22 12:14:26",

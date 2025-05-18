@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 45422,
+  "num_followers": 45433,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABq4Bnx6zNRNFYqxw3+zicF",
+  "snapshot_id": "aCaAAAAAAAA6hIAmXrUoUldoN6s+sChD",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "A Stream With Bright Fish - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mixing Colours",
         "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
@@ -175,22 +155,6 @@
       "duration_ms": 173933,
       "name": "Iris",
       "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": null,
@@ -215,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -228,9 +208,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 292213,
-      "name": "Against The Sky - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
+      "duration_ms": 236746,
+      "name": "A Stream With Bright Fish - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
     },
     {
       "added_at": null,
@@ -247,22 +227,6 @@
       "duration_ms": 222354,
       "name": "The Ritan Bells 1",
       "url": "https://open.spotify.com/track/0sdDAvQcCpJkuIGIjFj1qW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Drift - Remastered 2005",
-      "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
     },
     {
       "added_at": null,
@@ -287,6 +251,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Drift - Remastered 2005",
+      "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 292213,
+      "name": "Against The Sky - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -303,38 +303,6 @@
       "duration_ms": 99872,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 534213,
-      "name": "2/1 - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Deep Blue Day - Remastered 2005",
-      "url": "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
     },
     {
       "added_at": null,
@@ -359,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 304111,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
+      "duration_ms": 238773,
+      "name": "Deep Blue Day - Remastered 2005",
+      "url": "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
     },
     {
       "added_at": null,
@@ -395,22 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrong Way Up [Expanded Edition]",
-        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 327120,
-      "name": "Spinning Away",
-      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
+      "duration_ms": 304111,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
     },
     {
       "added_at": null,
@@ -444,9 +408,29 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 727080,
-      "name": "1/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
+      "duration_ms": 534213,
+      "name": "2/1 - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrong Way Up [Expanded Edition]",
+        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 327120,
+      "name": "Spinning Away",
+      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
     },
     {
       "added_at": null,
@@ -471,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -511,22 +475,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
       },
       "artists": [
         {
-          "name": "Robert Fripp",
-          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 727080,
+      "name": "1/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Wind On Wind",
-      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": null,
@@ -551,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 270280,
-      "name": "Under Stars - 2005 Mix",
-      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -587,6 +551,42 @@
       "duration_ms": 89813,
       "name": "Steal Away - Remastered 2004",
       "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+      },
+      "artists": [
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Wind On Wind",
+      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 270280,
+      "name": "Under Stars - 2005 Mix",
+      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
     },
     {
       "added_at": null,

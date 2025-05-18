@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 296334,
+  "num_followers": 296365,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADbSk6Y17MUTKmYhTqc2313",
+  "snapshot_id": "aCaAAAAAAACTcjs9X9QpHlQWgpmGOqi9",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Love Conquers All",
-      "url": "https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Very Best Of Made In Japan",
         "url": "https://open.spotify.com/album/0JGrL3JQONQhELODh9Y5YH"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 233866,
       "name": "Strange Kind Of Woman",
       "url": "https://open.spotify.com/track/6DF6Rc1lxiC2b4tcZdbiWc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Love Conquers All",
+      "url": "https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 256626,
       "name": "Vavoom: Ted The Mechanic",
       "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "You Fool No One - Remastered 2004",
-      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Original Album Classics",
         "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 391533,
       "name": "Anya",
       "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "You Fool No One - Remastered 2004",
+      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,059 likes - 108 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,076 likes - 108 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

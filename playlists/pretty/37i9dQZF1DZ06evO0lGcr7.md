@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,463 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,460 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 11 | [Nobody Loves Me](https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Nobody Loves Me](https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi) | 3:35 |
 | 12 | [cliché](https://open.spotify.com/track/0RV9Oaa22RsUDvuIzk7fGB) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 3:04 |
 | 13 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 |
-| 14 | [I Fall In Love Too Easily](https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [I Fall In Love Too Easily](https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt) | 3:16 |
-| 15 | [almost home](https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:28 |
+| 14 | [almost home](https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:28 |
+| 15 | [I Fall In Love Too Easily](https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [I Fall In Love Too Easily](https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt) | 3:16 |
 | 16 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 |
 | 17 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
 | 18 | [i hate texas](https://open.spotify.com/track/1Pa4QfXjEI6L4Iro7kQjkj) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 49 | [high & dry](https://open.spotify.com/track/00PN6MBzEuptqXKCJkoXoh) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:39 |
 | 50 | [lessons](https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:32 |
 
-Snapshot ID: `aCUugAAAAAAGcmdYbYaNFxctt/IY0Vzw`
+Snapshot ID: `aCaAAAAAAACGOYpozzGK4hrAGwF4XM2i`

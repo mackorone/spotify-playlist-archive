@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-531 songs - 1 day 4 hr 1 min
+532 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bad](https://open.spotify.com/track/2WrxGpnCvpwiQkcHDDmVXc) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/63pt4WgsnKd5kJ3O5DBPD6) | 2:30 | 2021-12-16 | 2022-07-29 |
 | [Bad](https://open.spotify.com/track/4p1yzpajuKXwZKBQ7PyH9x) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/3uCJttNNrmUgW1jVKRHDWv) | 2:30 | 2022-07-28 | 2023-04-07 |
 | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/track/7FOqaLMa7WYCwFHfZPmgqh) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/album/2BAPA4h1cirlhNLDuQYqPY) | 3:29 | 2021-12-16 | 2022-01-11 |
-| [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-16 |  |
+| [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-16 | 2025-05-18 |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-03-25 | 2022-07-08 |
 | [Badman Love \- Remix](https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Badman Love](https://open.spotify.com/album/7CSNUozGeW1fzxvDjY1RvA) | 2:48 | 2021-12-16 | 2023-04-06 |
 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 | 2022-07-18 |  |
@@ -70,6 +70,7 @@
 | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/track/7cz506PyIgh2bMN90Mc8Tn) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/album/7JoyVaXzxpgTPjkgB8mWk3) | 2:57 | 2021-12-28 | 2022-01-04 |
 | [Bobo](https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Bobo](https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI) | 3:07 | 2021-12-16 |  |
 | [Bodyline](https://open.spotify.com/track/4WVHokWnyDH5blH0UOa9MS) | [DJ Steesko](https://open.spotify.com/artist/2aP7sq9iexwUtUOKtepcvl), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bodyline](https://open.spotify.com/album/3mswWrxLCqrwMAj8X0Rupx) | 2:42 | 2022-03-10 | 2022-04-14 |
+| [BONITO \(feat\. Nelson Freitas\)](https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [BONITO \(feat\. Nelson Freitas\)](https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI) | 2:46 | 2025-05-15 |  |
 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 | 2023-05-25 |  |
 | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/track/0H6vpbW0UOtVpm3RgiwSkx) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:08 | 2022-07-28 | 2023-04-07 |
 | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/track/5NpET8pwPjwxU2XD1W4rT5) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/album/6tBI6y43IXJ1GMUeFsiNEf) | 3:09 | 2021-12-16 | 2022-06-14 |

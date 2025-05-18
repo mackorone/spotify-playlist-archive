@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,362 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,364 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 39 | [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 |
 | 40 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
 | 41 | [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 |
-| 42 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
-| 43 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
+| 42 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
+| 43 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
 | 44 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
 | 45 | [Menino Pele Cor de Jambo](https://open.spotify.com/track/4aJmFKqNoJssmygH1WmeQG) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 3:42 |
 | 46 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
 | 47 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
 | 48 | [1+1 É Pouco](https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:37 |
-| 49 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 |
-| 50 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
+| 49 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
+| 50 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 |
 | 51 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 |
 | 52 | [Em Plena Lua De Mel](https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [FREVÁLIA](https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz) | 3:44 |
 | 53 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 70563,
+  "num_followers": 70575,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Sound Of White",
-        "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Scar",
-      "url": "https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 239306,
       "name": "Angels Brought Me Here",
       "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Sound Of White",
+        "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Scar",
+      "url": "https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Blue Planet Eyes",
-        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
-      },
-      "artists": [
-        {
-          "name": "The Preatures",
-          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Is This How You Feel?",
-      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 203120,
       "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
       "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Blue Planet Eyes",
+        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
+      },
+      "artists": [
+        {
+          "name": "The Preatures",
+          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Is This How You Feel?",
+      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Birds Of Tokyo",
         "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 218000,
       "name": "Plans",
       "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Sneaky Sound System",
-        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
-      },
-      "artists": [
-        {
-          "name": "Sneaky Sound System",
-          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Be The Twilight",
         "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 227694,
       "name": "This Heart Attack",
       "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Sneaky Sound System",
+        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
+      },
+      "artists": [
+        {
+          "name": "Sneaky Sound System",
+          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
     },
     {
       "added_at": "2024-08-05 06:00:58",

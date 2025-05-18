@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAXDb+MEqBanePH3ME6Pwow",
+  "snapshot_id": "aCaAAAAAAABJy+9xUoYMujgkj2FZHbqZ",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 121479,
-      "name": "Back and Forth (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 121479,
+      "name": "Back and Forth (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 168607,
-      "name": "RIP LU MIKE",
-      "url": "https://open.spotify.com/track/2fTtulLDfS5WnNiZmcumit"
+      "duration_ms": 126164,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 126164,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG"
+      "duration_ms": 168607,
+      "name": "RIP LU MIKE",
+      "url": "https://open.spotify.com/track/2fTtulLDfS5WnNiZmcumit"
     },
     {
       "added_at": null,
@@ -695,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Free Rico",
-      "url": "https://open.spotify.com/track/7bgfvzEIufDUgwhqIBrmBb"
+      "duration_ms": 156981,
+      "name": "Balloons (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
     },
     {
       "added_at": null,
@@ -731,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death (Deluxe)",
-        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 156981,
-      "name": "Balloons (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
+      "duration_ms": 153600,
+      "name": "Free Rico",
+      "url": "https://open.spotify.com/track/7bgfvzEIufDUgwhqIBrmBb"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 156801,
-      "name": "Free Z5",
-      "url": "https://open.spotify.com/track/6mAzAx2H1vYWZm83OdsCQO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 106904,
       "name": "Morals",
       "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 156801,
+      "name": "Free Z5",
+      "url": "https://open.spotify.com/track/6mAzAx2H1vYWZm83OdsCQO"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 87873,
-      "name": "Free Leaf",
-      "url": "https://open.spotify.com/track/0giQ1pVFNHkPqdwzlQlXfZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistolz & Pearlz",
         "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 233597,
       "name": "Dirt McGerk (feat. EST Gee & Lil Crix)",
       "url": "https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 87873,
+      "name": "Free Leaf",
+      "url": "https://open.spotify.com/track/0giQ1pVFNHkPqdwzlQlXfZ"
     },
     {
       "added_at": null,

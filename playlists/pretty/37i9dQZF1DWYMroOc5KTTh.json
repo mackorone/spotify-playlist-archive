@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 701536,
+  "num_followers": 701852,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
+        "name": "Nothing Better Than Music",
+        "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 155097,
+      "name": "Nothing Better Than Music",
+      "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "Nothing Better Than Music",
-        "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 155097,
-      "name": "Nothing Better Than Music",
-      "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
     },
     {
       "added_at": "2025-05-08 23:00:16",

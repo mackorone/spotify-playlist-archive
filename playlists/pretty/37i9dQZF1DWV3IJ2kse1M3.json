@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u9084\u662f\u653e\u4e0d\u4e0b\u4f60 \u771f\u7684\u53ef\u60dc \u6211\u5728\u4e5f\u7121\u80fd\u70ba\u529b \u7e7c\u7e8c\u611b\u4f60\u3002",
-  "num_followers": 186366,
+  "num_followers": 186364,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
+      },
+      "artists": [
+        {
+          "name": "Fan Yi Chen",
+          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
+        }
+      ],
+      "duration_ms": 288773,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "\u964c\u751f\u4eba",
         "url": "https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 237000,
       "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
-      },
-      "artists": [
-        {
-          "name": "Fan Yi Chen",
-          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
-        }
-      ],
-      "duration_ms": 288773,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
     },
     {
       "added_at": "2025-02-03 08:01:17",

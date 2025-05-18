@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 861 songs - 2 day 19 hr 34 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 863 songs - 2 day 19 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -869,5 +869,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 859 | [Gia](https://open.spotify.com/track/10c9m2WrPxPVBZkYkYw5Dv) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Gia \- Collector's Edition](https://open.spotify.com/album/41nvhETO9ckDZMgJsJ7tZi) | 4:13 |
 | 860 | [Dale](https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Billy the Diamond](https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5) | [Dale](https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N) | 2:47 |
 | 861 | [Viciosa \- Vix Club Mix](https://open.spotify.com/track/2fjTpgYfTbuRLsTR5ODIpF) | [Valeria Vix](https://open.spotify.com/artist/656cRBmIQevcYvL7rOxKXX) | [Viciosa](https://open.spotify.com/album/2lXu7G8B6axG0tTE1LVO81) | 6:27 |
+| 862 | [Cada Vez](https://open.spotify.com/track/59uu2KPziupwcHa9s22SSi) | [Negrocan](https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS) | [Forever Dancefloor \(Gold\)](https://open.spotify.com/album/4Pi7TaixWTWhdyWm3tUPko) | 3:51 |
+| 863 | [Cada vez \- Club Version](https://open.spotify.com/track/39INT9ciJDyglJVunf0stt) | [Africanism](https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5), [Salomé de Bahia](https://open.spotify.com/artist/6alPczkkZlUZwomoKjrtMc) | [Africanism Vol\. 3](https://open.spotify.com/album/4ptQuucuOFAlR9KEURug1f) | 4:14 |
 
-Snapshot ID: `AAADyVKVw31VY9Z6pShSJIE5fifUFOPT`
+Snapshot ID: `AAADy9/1jvSWfG7LU5G/bqVwgdjbxANC`

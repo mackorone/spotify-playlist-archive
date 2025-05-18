@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,575 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,599 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 4 | [We All Need Love \(With Kolohe Kai\)](https://open.spotify.com/track/6TpYtmAdK8RX9iNEz0PHoI) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [We All Need Love \(With Kolohe Kai\)](https://open.spotify.com/album/2FsnX2n9MPgDc62o7c2kXF) | 3:09 |
 | 5 | [Her World](https://open.spotify.com/track/4TNhWf5i5vvXoFlgHAMibJ) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Her World](https://open.spotify.com/album/3fusfgcor6dCV3gBB1Wf53) | 2:25 |
 | 6 | [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 |
-| 7 | [Come To Me](https://open.spotify.com/track/3VxClAVQvpcZaqG7gtpdUf) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Mac Foreign](https://open.spotify.com/artist/6A9USrrmkMuP34nZayNXYG) | [Come To Me](https://open.spotify.com/album/7zaIMnAd08reyv44FC47Y8) | 3:34 |
+| 7 | [Come to Me](https://open.spotify.com/track/3VxClAVQvpcZaqG7gtpdUf) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Mac Foreign](https://open.spotify.com/artist/6A9USrrmkMuP34nZayNXYG) | [Come to Me](https://open.spotify.com/album/7zaIMnAd08reyv44FC47Y8) | 3:34 |
 | 8 | [45 Charles Street Dub](https://open.spotify.com/track/19Ski7BJVXR8lFjmauSrrr) | [Roots Architects](https://open.spotify.com/artist/3KdAF2Gzs3XqXz63geKrNB), [Roberto Sanchez](https://open.spotify.com/artist/0YZyBm5ikMVwt7ulExBTPk), [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT), [Dwight Pickney](https://open.spotify.com/artist/0LxYN3skgXDQBuNlku1SEX), [Dean Fraser](https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R) | [45 Charles Street Dub](https://open.spotify.com/album/5Eg8VggLQjI54YASRZTB94) | 4:31 |
 | 9 | [All Night \(with Collie Buddz\)](https://open.spotify.com/track/5TAZ1X5HBcc54IGK2kVhle) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [All Night \(with Collie Buddz\)](https://open.spotify.com/album/2lXEEeHeRjDfzKgXwtFLcf) | 2:59 |
 | 10 | [Never Unlove](https://open.spotify.com/track/5DAh70C3AD3mt4LZY6cUXT) | [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Never Unlove](https://open.spotify.com/album/66amADLG6u8BsffjbDFIS4) | 3:16 |

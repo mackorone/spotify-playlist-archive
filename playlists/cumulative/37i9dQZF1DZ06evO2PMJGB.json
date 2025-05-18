@@ -67,6 +67,32 @@
     },
     {
       "album": {
+        "name": "Bate",
+        "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138143,
+      "name": "Bate",
+      "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
+    },
+    {
+      "album": {
         "name": "Boa Menina",
         "url": "https://open.spotify.com/album/26VwJ4TnjQYdkTe7LTcFQP"
       },

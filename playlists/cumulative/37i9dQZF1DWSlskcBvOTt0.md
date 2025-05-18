@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-917 songs - 3 day 6 hr 52 min
+918 songs - 3 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Audara](https://open.spotify.com/track/6YjQxa2wea38xj1ZUzjZR7) | [Lindahl](https://open.spotify.com/artist/5Tf9JeR6Ry2OQv6c4UucP1), [ATÉA](https://open.spotify.com/artist/2ldjUobIK4xXwGWqIW8el0) | [Audara EP](https://open.spotify.com/album/7BZdCphrUu99bBX8WeP9FZ) | 7:22 | 2021-04-21 | 2022-07-28 |
 | [Aura](https://open.spotify.com/track/4JIphNXs4zpmNyaJFhKKKY) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Aura EP](https://open.spotify.com/album/4SErxwdvqZvsrYcQ8gGimx) | 8:21 | 2021-06-18 | 2022-07-22 |
 | [Away](https://open.spotify.com/track/1R277vjeyNAZQ1dLPcuSlU) | [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [Gifted Fire](https://open.spotify.com/artist/05YKDN73pAbCvbeSqpBtKL) | [Away](https://open.spotify.com/album/6hydQgkHE6bhZl0zaeX9o8) | 7:54 | 2023-05-12 | 2023-08-19 |
+| [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 | 2025-05-16 |  |
 | [Ay](https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ay](https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7) | 4:06 | 2024-03-01 | 2024-07-13 |
 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 | 2022-08-05 | 2023-07-22 |
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-04-21 | 2022-10-13 |
@@ -342,7 +343,7 @@
 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 | 2024-01-05 | 2025-01-13 |
 | [House \- Solomun Remix](https://open.spotify.com/track/4dOeUyueTWItNBN1ylSee2) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [House \(Solomun Remix\)](https://open.spotify.com/album/0Y1BoIYdll56b7mhVEbl0D) | 4:11 | 2024-05-03 | 2024-10-05 |
 | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q) | 3:26 | 2024-02-16 | 2024-10-28 |
-| [How You Feelin'](https://open.spotify.com/track/2PP6GkSbJX4WySMZhUZYWE) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [TwoForAll](https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0) | [How You Feelin'](https://open.spotify.com/album/0shwYYh4hSmtIVazfeWApy) | 2:43 | 2025-04-04 |  |
+| [How You Feelin'](https://open.spotify.com/track/2PP6GkSbJX4WySMZhUZYWE) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [TwoForAll](https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0) | [How You Feelin'](https://open.spotify.com/album/0shwYYh4hSmtIVazfeWApy) | 2:43 | 2025-04-04 | 2025-05-18 |
 | [Howl](https://open.spotify.com/track/4lkLsglTs7eccuclitXPxH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Le Chev](https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N) | [Howl](https://open.spotify.com/album/035PQLE8Al9oFmTACBwtky) | 3:00 | 2024-01-19 | 2024-05-27 |
 | [Human Aura \- Massano Remix](https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Human Aura](https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8) | 6:44 | 2022-08-05 | 2024-03-14 |
 | [Human Rights](https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Human Rights](https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y) | 4:54 | 2024-07-26 | 2024-11-30 |

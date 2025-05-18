@@ -3809,6 +3809,28 @@
     },
     {
       "album": {
+        "name": "Ama Um Maloqueiro",
+        "url": "https://open.spotify.com/album/7EP7oc3JqtgGxUkOlnbUw7"
+      },
+      "artists": [
+        {
+          "name": "Rafa e Junior",
+          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Ama Um Maloqueiro",
+      "url": "https://open.spotify.com/track/5vW7FFKCarTzFufo5vwoST"
+    },
+    {
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -30696,7 +30718,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 213030,
       "name": "ILYSMIH",
       "url": "https://open.spotify.com/track/4MJpGGIDRwHuWoZCddIOgM"

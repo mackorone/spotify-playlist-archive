@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 172078,
+  "num_followers": 172099,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABKGqUZwaHHIHPvEwakwIUS",
+  "snapshot_id": "aCaAAAAAAADsY9cC9m2aZPt0Pm1x8ouJ",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 200204,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
+      "duration_ms": 200066,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+      "duration_ms": 200204,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Note Symphonies, Vol.1",
-        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242534,
-      "name": "Miracle - Ghost Note Symphonies",
-      "url": "https://open.spotify.com/track/4OtIlddVzUj3p2q28uCvjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Market",
         "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 255960,
       "name": "The Black Market",
       "url": "https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242534,
+      "name": "Miracle - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/4OtIlddVzUj3p2q28uCvjl"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation II",
-        "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Pain Mgmt",
-      "url": "https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 228480,
       "name": "Blood To Bleed",
       "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nowhere Generation II",
+        "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "Pain Mgmt",
+      "url": "https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr"
     },
     {
       "added_at": null,

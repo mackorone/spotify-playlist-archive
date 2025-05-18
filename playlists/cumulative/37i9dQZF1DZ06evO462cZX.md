@@ -4,7 +4,7 @@
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 41 min
+69 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Camaron Pelao](https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Camaron Pelao](https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF) | 3:30 | 2024-08-08 |  |
 | [Cayendo](https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Elevation EP](https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J) | 4:00 | 2025-01-30 | 2025-02-02 |
 | [Como La Flor](https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Como La Flor](https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB) | 2:54 | 2024-08-25 |  |
+| [Cooler Than Me](https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Cooler Than Me](https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6) | 3:12 | 2025-05-18 |  |
 | [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 | 2024-08-08 |  |
 | [Derecha la Flecha](https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Derecha la Flecha](https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp) | 3:20 | 2024-08-08 |  |
 | [Descontrol](https://open.spotify.com/track/32P1jzQQ8K3zp97AirjLFG) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6DRs1wUbne7sb2hBxMxIah) | 2:34 | 2024-08-08 | 2024-11-04 |
@@ -59,7 +60,7 @@
 | [Querido Santa Claus](https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Querido Santa Claus](https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI) | 3:22 | 2024-12-08 | 2025-01-04 |
 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 | 2024-08-08 |  |
 | [Red Lips](https://open.spotify.com/track/6hpdg4x22cDrootVSKvoMi) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Elevation EP](https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J) | 2:56 | 2025-02-26 | 2025-03-05 |
-| [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 | 2024-08-31 |  |
+| [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 | 2024-08-31 | 2025-05-18 |
 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 | 2024-08-08 |  |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2024-08-08 |  |
 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 | 2024-08-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 291825,
+  "num_followers": 292014,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADwLxnnMvhOYiov9lU4C1b8",
+  "snapshot_id": "aCaAAAAAAAApITc/5yx/43gm2Y72SR2k",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Son Of The Dirty South",
+      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Missionary",
         "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 185092,
       "name": "Last Dance With Mary Jane (feat. Tom Petty & Jelly Roll)",
       "url": "https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Help Me God",
-        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Son Of The Dirty South",
-      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
         "url": "https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 322492,
       "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
       "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-162 songs - 7 hr 56 min
+165 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Azisa \- Instrumental](https://open.spotify.com/track/6QGgUrvDvfQVeMlMuVKjQ6) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/0XSP0PtqGs0omZmJ9gIbX3) | 2:24 | 2022-10-14 | 2024-04-19 |
 | [Azisa \- Instrumental](https://open.spotify.com/track/0YxaVlAixd2nseGIdkoihf) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Azisa \(Instrumental\)](https://open.spotify.com/album/2N50vIkJsXhrNXQuJx0KfC) | 2:26 | 2022-08-19 |  |
 | [Back On The Block \- Instrumental](https://open.spotify.com/track/0JAwMPighmTz1Tv4SqAyDh) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Petestrumentals](https://open.spotify.com/album/3BXHZmPR0u5TBVlxcp4Tjk) | 4:56 | 2024-04-29 |  |
+| [backyard ritual](https://open.spotify.com/track/5f8L6Q6D7lva8r8xzXAO2f) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF) | [backyard ritual](https://open.spotify.com/album/4tvGVXcRvGx3L8sJ9zneju) | 3:14 | 2025-05-17 |  |
 | [Basement Racks](https://open.spotify.com/track/3jR8dVN25Y76G5DuPESFm0) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Basement Racks](https://open.spotify.com/album/2QXMKew0uCeKQevBifNonB) | 2:18 | 2024-02-09 | 2025-02-27 |
 | [Beach Cruizer](https://open.spotify.com/track/7oXoDdKmi5HInxlcAkBHGr) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Fatbike Ride](https://open.spotify.com/album/5R5IB0LdQ6XnXymZpoB2y3) | 2:08 | 2022-07-22 |  |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-07-22 |  |
@@ -111,6 +112,7 @@
 | [Players \(Instrumental\)](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2023-05-02 |  |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2024-02-09 |  |
 | [Quotas](https://open.spotify.com/track/0qOicDKD4pHBvdcbxnW5A7) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#2](https://open.spotify.com/album/1KZTSCU5psinmwZr7ziKGF) | 2:15 | 2023-06-15 |  |
+| [Rap Schoolar](https://open.spotify.com/track/6AKQIna8REfb54dtbEOR8w) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Expedition, Vol\. 9 \(Ghetto Fills\)](https://open.spotify.com/album/23VCRGkMolZniUhHTDGGJy) | 3:39 | 2025-05-17 |  |
 | [Rea\(L\)ove](https://open.spotify.com/track/3YJp8y2wgDruXSkTNvzzwI) | [athena](https://open.spotify.com/artist/5LCmX0zahE0VcaMNHxLJqm) | [H.H.B.G.M IV](https://open.spotify.com/album/3c9I08sjYREkn4h6EI5c8l) | 2:44 | 2024-02-09 |  |
 | [Relax](https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:01 | 2022-11-25 |  |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2022-07-22 |  |
@@ -126,6 +128,7 @@
 | [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 | 2023-05-18 |  |
 | [Skywalker OG](https://open.spotify.com/track/0nsy6CzRDmy51hOtNyri3F) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/2I2DTmcpsCJbC0cValamUf) | 1:54 | 2022-09-23 |  |
 | [Skywalker OG](https://open.spotify.com/track/6oHUNQtaMKhVmQWhFoPdir) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/5cOC0HfuZKWDGaB8Oyz0PI) | 1:54 | 2022-10-14 | 2024-04-19 |
+| [Smooth Ride](https://open.spotify.com/track/5Gof5zjYZoJPWKW6fFBnZw) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Melrose](https://open.spotify.com/album/0kXGARkqbnoJLZbDyUeemG) | 1:47 | 2025-05-17 |  |
 | [Soul Food \- Instrumental](https://open.spotify.com/track/5XhzeXctHO8xo8JeGNGl8d) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Soul Food \(The Instrumental Album\)](https://open.spotify.com/album/4v0sRArgHmBWfTnJr2EpMG) | 3:55 | 2024-04-29 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-05-18 | 2023-09-15 |
 | [Spray Colors](https://open.spotify.com/track/5B2dAco4S0I8TAQuIW8p3L) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Spray Colors](https://open.spotify.com/album/3Uj1MaF7Fbm3vrnpg8M4ll) | 2:07 | 2024-02-22 |  |

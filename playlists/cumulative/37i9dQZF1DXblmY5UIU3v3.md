@@ -4,11 +4,11 @@
 
 > The bass you need for riding low and high.
 
-206 songs - 9 hr 30 min
+207 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [01](https://open.spotify.com/track/2U4fr16sIR5k6ep9iv3vZG) | [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W), [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz) | [01](https://open.spotify.com/album/0wftiNjxIMvgt7ROVU5i7d) | 2:53 | 2022-10-14 |  |
+| [01](https://open.spotify.com/track/2U4fr16sIR5k6ep9iv3vZG) | [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W), [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz) | [01](https://open.spotify.com/album/0wftiNjxIMvgt7ROVU5i7d) | 2:53 | 2022-10-14 | 2025-05-18 |
 | [All The Way Up](https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [All The Way Up](https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor) | 2:55 | 2022-08-26 | 2024-09-10 |
 | [Amazing \- Original Mix](https://open.spotify.com/track/2T7Xha07avJKtLL4NLlVEG) | [Tim Dian](https://open.spotify.com/artist/2tPaqQJPOIAFBCy9wYGdLG) | [Amazing](https://open.spotify.com/album/2Tfo4knWbi1ggMOBXi2kGM) | 3:57 | 2022-04-07 | 2022-04-22 |
 | [AMBA](https://open.spotify.com/track/4IlUDA8rJrU9v66TW90lZ2) | [LEVAN CREED](https://open.spotify.com/artist/2Z4ZSgyGHHCDkBPThMnVtq) | [AMBA](https://open.spotify.com/album/3EcXr7zFzEs7uE74C6HKl6) | 2:22 | 2022-07-15 | 2022-09-24 |
@@ -25,6 +25,7 @@
 | [Back Bus](https://open.spotify.com/track/68bVj4NZy2dwUE5tLsQ2uw) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Back Bus](https://open.spotify.com/album/39TgObxwNtrXq1GAK2oo2L) | 2:57 | 2024-02-09 |  |
 | [Back Up](https://open.spotify.com/track/3X5019vDRhZp2u1MT54vl2) | [Onur Aktemur](https://open.spotify.com/artist/0QqeZ7PQbf8XH0hjQe1nnz) | [Back Up](https://open.spotify.com/album/4Tyv65agMEfReHqz58CBxV) | 2:42 | 2022-08-05 | 2022-10-01 |
 | [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 | 2023-10-27 |  |
+| [badboysound](https://open.spotify.com/track/3m1bWZZblIpYjQzrOSl0Oe) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Sanjin](https://open.spotify.com/artist/4eubQnUM4b5sGZoi3fSRV3) | [badboysound](https://open.spotify.com/album/2Yfz4UEkDcgrsvUFkHHUVS) | 2:49 | 2025-05-16 |  |
 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 | 2024-01-26 |  |
 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 | 2022-09-23 |  |
 | [Bando](https://open.spotify.com/track/7u4zpm1VBdUALIvwXdEibh) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [Bando](https://open.spotify.com/album/4PlvdNWGK7lcexG0Qov8ya) | 2:13 | 2022-10-06 | 2022-11-26 |

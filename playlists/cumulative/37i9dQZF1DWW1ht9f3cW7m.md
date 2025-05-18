@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring Jessica Winter 🍑
 
-252 songs - 13 hr 43 min
+253 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,9 +36,10 @@
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-14 |  |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-08-21 | 2025-05-02 |
 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 | 2024-08-21 | 2025-05-09 |
+| [Bigger Person](https://open.spotify.com/track/0KoMv3zKj8HhnZvTWaGrRg) | [Francesca Everly](https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n) | [Bigger Person](https://open.spotify.com/album/1tuk25ivCCkoGhF4T6yhjp) | 2:39 | 2025-05-15 |  |
 | [Blind](https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU) | [Only Real](https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5) | [Blind](https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq) | 3:00 | 2025-01-24 | 2025-04-13 |
 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 | 2025-02-14 |  |
-| [Bonnie & Clyde](https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [Bonnie & Clyde](https://open.spotify.com/album/7E5ORNlK5vQSY6lpUe1OiD) | 3:37 | 2025-04-12 |  |
+| [Bonnie & Clyde](https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [Bonnie & Clyde](https://open.spotify.com/album/7E5ORNlK5vQSY6lpUe1OiD) | 3:37 | 2025-04-12 | 2025-05-18 |
 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-04-12 |  |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-12 | 2025-05-09 |
 | [Boys](https://open.spotify.com/track/7CWA14UlnWudaqC3KxX8WU) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Boys](https://open.spotify.com/album/5S7ckddyRxZPKcFwOMlKLS) | 4:03 | 2025-01-24 | 2025-05-02 |

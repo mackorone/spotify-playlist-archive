@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,189 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,191 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 17 | [Satisfaction](https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [FONVILLE](https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 1:42 |
 | 18 | [You Send Me](https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 8:28 |
 | 19 | [Hey Lover](https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 2:22 |
-| 20 | [Coffy Is The Color \- From The "Coffy" Soundtrack](https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI), [Wayne Garfield](https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:00 |
-| 21 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 |
+| 20 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 |
+| 21 | [Coffy Is The Color \- From The "Coffy" Soundtrack](https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI), [Wayne Garfield](https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:00 |
 | 22 | [Everytime I See You](https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:37 |
 | 23 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 |
 | 24 | [Vibin' W/Ayers](https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 5:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 49 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 |
 | 50 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 |
 
-Snapshot ID: `aCUugAAAAADDyQx4OHUwqhIF+oez89Va`
+Snapshot ID: `aCaAAAAAAABsGTCzTXbAEm5o8qqvcUT7`

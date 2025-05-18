@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Every family has its demons\. Curated by Lee Daniels, Cover: The Deliverance
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,393 likes - 38 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,412 likes - 38 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 37 | [Give Me All](https://open.spotify.com/track/5yywU7Abjd0LQkzr22YHue) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:24 |
 | 38 | [The Nitty Gritty](https://open.spotify.com/track/1aMprzGYfTyP5DN4jM5NBZ) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Nitty Gritty](https://open.spotify.com/album/7itJKby7N3Xjk3XtNxjtpp) | 3:01 |
 
-Snapshot ID: `AAAAAFw6QPgD2f3v/tV6ENUWMDhZtb0H`
+Snapshot ID: `ZtH9gQAAAAB683eS6k+tgQwvQ3/hVhTD`

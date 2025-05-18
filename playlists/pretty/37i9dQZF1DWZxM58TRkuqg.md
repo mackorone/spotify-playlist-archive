@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Isyana Sarasvati, VIDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,982 likes - 96 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,003 likes - 96 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

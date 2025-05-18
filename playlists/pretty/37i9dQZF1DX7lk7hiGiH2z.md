@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,951 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,967 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 41 | [Teilen](https://open.spotify.com/track/3ZOnYrn1P9oH2cAstCRfvn) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Teilen](https://open.spotify.com/album/2ACqu3M1ntR2dxghawhouU) | 2:13 |
 | 42 | [Ich lieb den Frühling](https://open.spotify.com/track/72UWqWn7JLxjhQiX8zpey1) | [Rodscha aus Kambodscha und Tom Palme](https://open.spotify.com/artist/0IvoDjHNSZzwZDczTO3LeK) | [Ich lieb den Frühling](https://open.spotify.com/album/2vyChbBARntkqM2eYJBujN) | 1:50 |
 | 43 | [Frühlingslied](https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt) | [Unser Sandmännchen](https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ) | [015/Abends im Walde](https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI) | 2:03 |
-| 44 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
-| 45 | [Im Märzen der Bauer](https://open.spotify.com/track/0TvMafU339waUj547Wpujx) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Traditionelle Kinderlieder](https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971) | 1:40 |
+| 44 | [Im Märzen der Bauer](https://open.spotify.com/track/0TvMafU339waUj547Wpujx) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Traditionelle Kinderlieder](https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971) | 1:40 |
+| 45 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
 | 46 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
 | 47 | [Der Frühling hat sich eingestellt](https://open.spotify.com/track/6CtgiSvOrfxfNc76pY7RgI) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 2:10 |
 | 48 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |

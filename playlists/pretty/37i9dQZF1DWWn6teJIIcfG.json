@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 213072,
+  "num_followers": 213103,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,30 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "Faur\u00e9: Berceuse, Op. 16",
+        "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        },
+        {
+          "name": "Niu Niu",
+          "url": "https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Berceuse, Op. 16",
+      "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Respiro 1",
         "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
       },
@@ -763,30 +787,6 @@
       "duration_ms": 162374,
       "name": "Faded Leaves Fall",
       "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Faur\u00e9: Berceuse, Op. 16",
-        "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Cocomi",
-          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
-        },
-        {
-          "name": "Niu Niu",
-          "url": "https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Berceuse, Op. 16",
-      "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -923,6 +907,26 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -967,22 +971,18 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Bach Interpreted: Piano Variations on Bach Chorales (Deluxe Release)",
         "url": "https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP"
       },
@@ -1115,26 +1135,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
         "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
       },
@@ -1151,30 +1151,6 @@
       "duration_ms": 142166,
       "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
       "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1199,6 +1175,30 @@
       "duration_ms": 244333,
       "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
       "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 71262,
+      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Sinfonie Napolitane",
         "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
       },
@@ -1415,42 +1435,26 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
+        "name": "Mozart: Petite musique de nuit",
+        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 71262,
-      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "La Grande \u00c9curie et la Chambre du Roy",
+          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
         },
         {
-          "name": "See Siang Wong",
-          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
+          "name": "Jean-Claude Malgoire",
+          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
         }
       ],
-      "duration_ms": 156080,
-      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
+      "duration_ms": 143693,
+      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
+      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1475,26 +1479,22 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Mozart: Petite musique de nuit",
-        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
+        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "La Grande \u00c9curie et la Chambre du Roy",
-          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
-        },
-        {
-          "name": "Jean-Claude Malgoire",
-          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
+          "name": "See Siang Wong",
+          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
         }
       ],
-      "duration_ms": 143693,
-      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
-      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
+      "duration_ms": 156080,
+      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1543,6 +1543,58 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Aaron Pilsan",
+          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+        "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ivan Podyomov",
+          "url": "https://open.spotify.com/artist/4zuOEDpzkD6u19mCxQ2LzL"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Maxim Emelyanychev",
+          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+        }
+      ],
+      "duration_ms": 425466,
+      "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+      "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/09TIZ4XM46PFxq133GoFMq"
       },
@@ -1571,30 +1623,6 @@
       "duration_ms": 147264,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3mKYC2wJ8TOMqbCJYNunr2"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Kian Soltani",
-          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
-        },
-        {
-          "name": "Aaron Pilsan",
-          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1631,26 +1659,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Clementi: Piano Sonatas",
-        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Donatella Failoni",
-          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
-      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Schumann 50",
         "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
       },
@@ -1671,30 +1679,22 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
-        "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
+        "name": "Clementi: Piano Sonatas",
+        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
         },
         {
-          "name": "Ivan Podyomov",
-          "url": "https://open.spotify.com/artist/4zuOEDpzkD6u19mCxQ2LzL"
-        },
-        {
-          "name": "Il Pomo D'oro",
-          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
-        },
-        {
-          "name": "Maxim Emelyanychev",
-          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+          "name": "Donatella Failoni",
+          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
         }
       ],
-      "duration_ms": 425466,
-      "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
-      "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+      "duration_ms": 148173,
+      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
+      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
     },
     {
       "added_at": "2024-12-24 11:20:50",

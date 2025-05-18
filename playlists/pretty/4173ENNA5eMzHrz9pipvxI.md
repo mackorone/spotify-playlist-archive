@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Joe Stone
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,693 likes - 29 songs - 1 hr 20 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,686 likes - 29 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 |
 | 2 | [Anything \(Ya Ya\)](https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C) | [Anything \(Ya Ya\)](https://open.spotify.com/album/0d8CNFTRePsFgEMMBlFOFQ) | 2:50 |
-| 3 | [Voices](https://open.spotify.com/track/74QXColrSrZEH4Oi8NafkU) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Brody Jenner](https://open.spotify.com/artist/3Q3MljugwEYzj6paNAlETx) | [Voices](https://open.spotify.com/album/6N96BAoDrR2LCwSysTIrzp) | 2:40 |
+| 3 | [Voices](https://open.spotify.com/track/74QXColrSrZEH4Oi8NafkU) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Brody Jenner](https://open.spotify.com/artist/3Q3MljugwEYzj6paNAlETx), [Maryon King](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Voices](https://open.spotify.com/album/6N96BAoDrR2LCwSysTIrzp) | 2:40 |
 | 4 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |
 | 5 | [Donna Summer Nights \(feat\. Aloma Steele\)](https://open.spotify.com/track/5VYyuIUlCgp97X8E29IX2I) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Donna Summer Nights \(feat\. Aloma Steele\)](https://open.spotify.com/album/7zCwpxKE8Z6rb4ScdU3eKo) | 2:41 |
 | 6 | [badboysound](https://open.spotify.com/track/3m1bWZZblIpYjQzrOSl0Oe) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Sanjin](https://open.spotify.com/artist/4eubQnUM4b5sGZoi3fSRV3) | [badboysound](https://open.spotify.com/album/2Yfz4UEkDcgrsvUFkHHUVS) | 2:49 |

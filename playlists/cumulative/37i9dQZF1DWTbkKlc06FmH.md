@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,016 songs - 2 day 12 hr 6 min
+1,017 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 | 2022-10-25 | 2024-04-19 |
 | [escape](https://open.spotify.com/track/69CmBp10fwZ0n1jtGvH1ts) | [CBS](https://open.spotify.com/artist/7AHhB1P3XhzSw4oPT2unag) | [Classic Brown Sounds 2](https://open.spotify.com/album/6ZMduZkmgybXYfnO2SflMF) | 3:34 | 2022-12-06 | 2023-01-20 |
 | [EVERGREEN](https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [EVERGREEN](https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6) | 3:48 | 2024-04-16 | 2024-05-06 |
+| [Everybody Gets Down](https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Everybody Gets Down](https://open.spotify.com/album/2itGQCqttw47maPiLdncOM) | 2:41 | 2025-05-13 |  |
 | [Everybody on the Floor](https://open.spotify.com/track/06WTMUixhsNAe8jbyxquee) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Lewis Ray](https://open.spotify.com/artist/1Dkb2YpzUItkuERW7BFjND) | [Everybody on the Floor](https://open.spotify.com/album/3FmP5KQk5vuBx1pf9pl3bP) | 3:25 | 2023-09-08 | 2023-10-18 |
 | [Everything I Am feat\. Furui Riho](https://open.spotify.com/track/1hltBMI48Phwhs7NUDRdq6) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [OVER](https://open.spotify.com/album/6Q9ruxZcM01qWkPMsaHZz0) | 3:31 | 2024-02-29 | 2024-03-10 |
 | [Eyes](https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Eyes](https://open.spotify.com/album/6jhSg450E4zkB6OD0scliO) | 2:37 | 2024-12-10 | 2024-12-26 |
@@ -594,7 +595,7 @@
 | [orange](https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [orange](https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk) | 2:56 | 2023-03-28 | 2023-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 | 2023-06-18 |
 | [ordinary people feat\. BIM](https://open.spotify.com/track/0mKYojgtx7iemkvDaPyFhe) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ordinary people feat\. BIM](https://open.spotify.com/album/1qTQlT4nmidKIYy9AA4Q9A) | 4:33 | 2022-10-20 | 2022-10-28 |
-| [Out The Blue](https://open.spotify.com/track/6shs8JgU7UnKHYCohd8iUo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Out The Blue](https://open.spotify.com/album/32SZQwbKHdXkMB7dGJxYFg) | 2:57 | 2025-04-02 |  |
+| [Out The Blue](https://open.spotify.com/track/6shs8JgU7UnKHYCohd8iUo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Out The Blue](https://open.spotify.com/album/32SZQwbKHdXkMB7dGJxYFg) | 2:57 | 2025-04-02 | 2025-05-18 |
 | [Outtake](https://open.spotify.com/track/0JmF2pTQ7gtev5VYvFfjYZ) | [OTOYURE DOGGIES](https://open.spotify.com/artist/0HnTh85AChN9GEsuxrCc32) | [Outtake](https://open.spotify.com/album/4qwjUig7VDyXZ6OPdxr5z2) | 3:41 | 2022-10-20 | 2022-11-30 |
 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-12 | 2024-08-14 |
 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-12 | 2023-02-26 |

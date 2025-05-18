@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,823 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,822 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 38 | [Que No Quede Huella](https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [A Todo Galope](https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ) | 2:56 |
 | 39 | [Tell You in the Morning](https://open.spotify.com/track/2rVhASuWovWkDzerA4Kaeq) | [Scott Vaughn](https://open.spotify.com/artist/3f6Svs2xyWyJyBw3zTBqLX) | [She's Just a Woman / Tell You in the Morning \(Digital 45\)](https://open.spotify.com/album/19sXEVTAF5RyjSzV5yTb4X) | 3:32 |
 | 40 | [Plante y Patra](https://open.spotify.com/track/6vCLrOeBc0yU6fNUaWy0hs) | [John Lewis](https://open.spotify.com/artist/5lFsQ6pOHgWG8HHqcKaLGn) | [Blue Steel \- Catwalk Music](https://open.spotify.com/album/0AiboZLACSsuU2DGCh4s4x) | 5:03 |
-| 41 | [Todo tiene su fin](https://open.spotify.com/track/5Su0gsK3nkTGEkN5Dq5QUT) | [Modulos](https://open.spotify.com/artist/3OdecN7ul5DNrWs1zGjBnl) | [Grandes Exitos](https://open.spotify.com/album/3asgOSWOccesPh0ZyDXdzF) | 5:08 |
+| 41 | [Todo tiene su fin](https://open.spotify.com/track/5Su0gsK3nkTGEkN5Dq5QUT) | [Módulos](https://open.spotify.com/artist/2UURjNap5eIV7yAG8YgKBB) | [Grandes Exitos](https://open.spotify.com/album/3asgOSWOccesPh0ZyDXdzF) | 5:08 |
 | 42 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 |
 | 43 | [Only Memories](https://open.spotify.com/track/0GTJRZEHoE1nssjhtJVuTd) | [Bill Morgan](https://open.spotify.com/artist/3JBT77qabs9oEGFBYVvQ8T) | [The Color of Music: Only Memories](https://open.spotify.com/album/6pNck3BD4P9TtEOy0WqTd6) | 3:06 |
 | 44 | [Me Estas Olvidando](https://open.spotify.com/track/118Zh7ww83PyF7hhZEsdf1) | [Cuarteto Marcano](https://open.spotify.com/artist/1PWkaV1kTFlXVYodv5j1UV) | [Canciones Inolvidables, Vol\. 2](https://open.spotify.com/album/1Pga8T5ol5la7NajABysjX) | 2:47 |

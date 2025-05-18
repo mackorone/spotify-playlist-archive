@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Chasing Ghosts
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,047 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,052 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [It'll Be Alright](https://open.spotify.com/track/4NiF4UWVMH9Vd1Lx7ek92I) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [It'll Be Alright](https://open.spotify.com/album/3cYXuU0UGol3h60ss08ilJ) | 4:07 |
 | 100 | [Shame](https://open.spotify.com/track/5GbSi8JDAxys7XvRyErEob) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA) | [Wise and Dangerous](https://open.spotify.com/album/2b1A21v3kdlPn7diPelE1F) | 4:24 |
 
-Snapshot ID: `aCXzegAAAAC+7FmSQRrqimuBarXf5yu0`
+Snapshot ID: `aCXzegAAAACC6FCmlBMh0sgM8aHdUl+A`

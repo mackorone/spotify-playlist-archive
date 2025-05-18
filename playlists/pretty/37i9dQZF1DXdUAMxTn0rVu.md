@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: DJ Premier
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,173 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,352 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 13 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
 | 14 | [Point Of No Return](https://open.spotify.com/track/3qDpYCA6FoVvODVaZWScXO) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa) | [Revolutionary Vol\. 2](https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0) | 4:01 |
 | 15 | [F.A.Y.B.A.N.](https://open.spotify.com/track/3AoEnlrURQTCYvNVFqSXQo) | [Screwball](https://open.spotify.com/artist/7gWDOIgkiklsoggs6UyZXD) | [Y2k The Album](https://open.spotify.com/album/2ztkCkIhykYgT6MMQiGaSA) | 3:08 |
-| 16 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
+| 16 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 |
 | 17 | [Above The Clouds](https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 3:41 |
 | 18 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |
 | 19 | [Thieves In The Night](https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:11 |
 | 20 | [Thick](https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/7Kw28Qg3OeGQiGso0qyONJ) | 3:42 |
-| 21 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 |
+| 21 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
 | 22 | [Forest Whitiker](https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Shadows On The Sun](https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K) | 3:00 |
 | 23 | [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 |
 | 24 | [Design in Malice](https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Young Zee](https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj), [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Violence Begets Violence](https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5) | 3:38 |

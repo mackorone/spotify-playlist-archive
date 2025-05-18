@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Promessa in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,854 likes - 69 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,848 likes - 69 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 4 | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/track/0zK49rNDZV9ptuuKs1buL8) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/album/3YS77kPw04Ts9PTDRV7vNJ) | 2:18 |
 | 5 | [giovani e svegli \#147 \(feat\. LILCR\)](https://open.spotify.com/track/33KFWLWKqxLzWVIyFzoAG7) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [RANDAGI 24.7](https://open.spotify.com/album/2L6rd8mVWDkv4ybxrXRD2c) | 2:32 |
 | 6 | [Sciamanin](https://open.spotify.com/track/5K0Bo9IpqKj4bpHADD587G) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [DBZ](https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa) | [Sciamanin](https://open.spotify.com/album/6g2gDp4v2h6JiQjoJCQt0O) | 2:22 |
-| 7 | [FASTCAR](https://open.spotify.com/track/1aDIExdoWvXicMpHENbkqQ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Ryon](https://open.spotify.com/artist/0H28HfEzSDROUwMFiNhZzv) | [DRIVE BY](https://open.spotify.com/album/07lDZybkJfXL68WrZjEkQJ) | 2:20 |
+| 7 | [FASTCAR](https://open.spotify.com/track/1aDIExdoWvXicMpHENbkqQ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Ryon](https://open.spotify.com/artist/6lnFa7RsEvCRidfobkNRGf) | [DRIVE BY](https://open.spotify.com/album/07lDZybkJfXL68WrZjEkQJ) | 2:20 |
 | 8 | [Till I Die](https://open.spotify.com/track/7csRdtwVudw4AWZv3llGgX) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [Till I Die](https://open.spotify.com/album/3V5asEbMnUU9PGX43UTNok) | 2:12 |
 | 9 | [1 Hour](https://open.spotify.com/track/6ro7kGZIvbGfLCiYniCm2c) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [1 Hour](https://open.spotify.com/album/0jvVpp5s5W56BqWaAt8JIP) | 1:40 |
 | 10 | [AIR MAX 90 \(feat\. Kuremino\)](https://open.spotify.com/track/22D1XemG6NppUXflcQaJtS) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [AIR MAX 90 \(feat\. Kuremino\)](https://open.spotify.com/album/5NEuYSI8dgMlWiGzuogQkc) | 2:22 |

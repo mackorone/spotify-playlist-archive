@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 884518,
+  "num_followers": 884554,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAChFcJ2eHLhjvF9BXxWF4Zh",
+  "snapshot_id": "aCaAAAAAAACAzB8IFPnnqtk3jj3VpfFN",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202636,
+      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 179404,
       "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202636,
-      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 212920,
       "name": "Fly",
       "url": "https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trigga Reloaded",
-        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 221971,
-      "name": "Touchin, Lovin (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/4bkhs6spQvVnVJAlXuKR6a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) [Remix]",
         "url": "https://open.spotify.com/album/6x8tzop53PDl2tvjIXB9a0"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 268863,
       "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
       "url": "https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 221971,
+      "name": "Touchin, Lovin (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/4bkhs6spQvVnVJAlXuKR6a"
     },
     {
       "added_at": null,

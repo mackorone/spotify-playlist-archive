@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- Seedhe Maut
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,584 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,956 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 35 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 |
 | 36 | [Killer On The Loose \- From "Rifle Club"](https://open.spotify.com/track/1zENh0Y83ZWiXXsKIFCvky) | [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Killer On The Loose \(From "Rifle Club"\)](https://open.spotify.com/album/5kAtRB0bvyEJIqTzSokqsw) | 3:02 |
 | 37 | [Ik Kudi](https://open.spotify.com/track/6xNzHSmcG5KkagzwxEBPA0) | [wolf.cryman](https://open.spotify.com/artist/43CbNTpTFxvw0F9UxMZVTO), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9) | [Ik Kudi](https://open.spotify.com/album/57mcLnJFis2e0ei2tilEVK) | 3:51 |
-| 38 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 38 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 39 | [Pacha Parishkari](https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Pacha Parishkari](https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG) | 2:58 |
 | 40 | [LEVEL](https://open.spotify.com/track/2UwjBlZ4wUxnmXUeZDgAeS) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [LEVEL](https://open.spotify.com/album/5YLWwFREyRKoL2QOXCQmvd) | 2:35 |
 | 41 | [Naranga Paal](https://open.spotify.com/track/3wL3P9U07mTkdnlLAMe0ql) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Naranga Paal](https://open.spotify.com/album/0OEB369pcXTTcgBDvQ1RXy) | 2:31 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,787 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,004 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 |
 | 2 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 |
 | 3 | [Kaim](https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 3:03 |
-| 4 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 4 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 5 | [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 |
 | 6 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 |
 | 7 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Damiano David, Luchè,  Ghali, Rihanna, Avicii, The Kolors e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,522 likes - 95 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,606 likes - 95 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 38 | [COME L'ARIA](https://open.spotify.com/track/1mhm4QL4JExHZBSMRDTVVS) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ) | [COME L'ARIA](https://open.spotify.com/album/2ghxEqhWimIhbrfQUSoo03) | 3:32 |
 | 39 | [0.25X](https://open.spotify.com/track/0zfQF2wXm6lfHg9vje0Mkw) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [OKAY OKAY 2](https://open.spotify.com/album/31DqbARkPE7psMQeosE1mY) | 1:47 |
 | 40 | [20PAIA / FANCULO](https://open.spotify.com/track/2SaTKzZRfvXOjHjX52dHos) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/67SfuiDNcf4E76QmAv5gVx) | 2:25 |
-| 41 | [FASTCAR](https://open.spotify.com/track/1aDIExdoWvXicMpHENbkqQ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Ryon](https://open.spotify.com/artist/0H28HfEzSDROUwMFiNhZzv) | [DRIVE BY](https://open.spotify.com/album/07lDZybkJfXL68WrZjEkQJ) | 2:20 |
+| 41 | [FASTCAR](https://open.spotify.com/track/1aDIExdoWvXicMpHENbkqQ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Ryon](https://open.spotify.com/artist/6lnFa7RsEvCRidfobkNRGf) | [DRIVE BY](https://open.spotify.com/album/07lDZybkJfXL68WrZjEkQJ) | 2:20 |
 | 42 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
 | 43 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 |
 | 44 | [Young](https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Young](https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY) | 2:50 |
@@ -102,6 +102,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 92 | [4 di mattina \(feat\. Luke Lecomte\)](https://open.spotify.com/track/39HrsZjGGQT4BTXJBtietd) | [tommi](https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd), [moth.](https://open.spotify.com/artist/7IVTJLKDkABhe1gNoqgSEr), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc) | [4 di mattina \(feat\. Luke Lecomte\)](https://open.spotify.com/album/6XcUz1DgihTp473B9Wc2TW) | 2:54 |
 | 93 | [quasi muoio](https://open.spotify.com/track/0NowSt0aFrOruQ77eMFcpG) | [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y) | [ora](https://open.spotify.com/album/4R0j2OwN04YTkg7SrQQD46) | 2:14 |
 | 94 | [Gaia](https://open.spotify.com/track/5jNR49OgYPmQ1nbw8Zwws9) | [Ribaltavapori](https://open.spotify.com/artist/2JiNAZmisuOT8EnYwpOhFs), [Acqua Distillata](https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF) | [Gaia](https://open.spotify.com/album/5eLmhLs8gX1qLVbIndlk4b) | 3:22 |
-| 95 | [SHE](https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm) | [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR), [James Newell Osterberg](https://open.spotify.com/artist/2BibEKInEveA6qrh7EuLiG), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [SHE](https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne) | 4:00 |
+| 95 | [SHE](https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm) | [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [SHE](https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne) | 4:00 |
 
 Snapshot ID: `aCZx/QAAAABCGyaqhLxN2hQNRP//FO/R`

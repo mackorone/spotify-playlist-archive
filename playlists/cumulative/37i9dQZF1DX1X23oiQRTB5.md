@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Hamza au top de la première playlist de rap français.
+> Hommage à Werenoi.
 
 329 songs - 16 hr 54 min
 

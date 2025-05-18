@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 163058,
       "name": "aura talk",
       "url": "https://open.spotify.com/track/4HTlBVWZuJ0aOmp27tW5CN"
@@ -7532,7 +7532,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 88880,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7"
@@ -7550,7 +7550,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 88880,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/5xDRBrAUe0Xf615Vvfqqof"
@@ -12082,7 +12082,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 166400,
       "name": "Jugo de Tomate",
       "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
@@ -13190,7 +13190,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
@@ -13216,7 +13216,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
@@ -20185,6 +20185,24 @@
     },
     {
       "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby - Stereo Mix",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+    },
+    {
+      "album": {
         "name": "PRIMER AVISO",
         "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
       },
@@ -25520,6 +25538,24 @@
       "duration_ms": 166500,
       "name": "tinta 90",
       "url": "https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa"
+    },
+    {
+      "album": {
+        "name": "80'z",
+        "url": "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101580,
+      "name": "Tipz & Trickz",
+      "url": "https://open.spotify.com/track/0JP27lPyI1QZDO80cZ6SRq"
     },
     {
       "album": {

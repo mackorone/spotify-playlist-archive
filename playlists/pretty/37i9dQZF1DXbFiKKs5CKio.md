@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,992 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,995 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 35 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
 | 36 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |
 | 37 | [Minha Casa](https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml) | [Malu Magri](https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7) | [Morrendo de Prazer](https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g) | 4:19 |
-| 38 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
+| 38 | [Inspirar](https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Inspirar](https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g) | 4:22 |
 | 39 | [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 |
-| 40 | [Inspirar](https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Inspirar](https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g) | 4:22 |
-| 41 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
+| 40 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
+| 41 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
 | 42 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
 | 43 | [Entrelace](https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Theodoro Nagô: We4Sessions](https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax) | 3:40 |
 | 44 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |

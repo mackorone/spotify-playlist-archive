@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,228 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,255 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [No Entiendo \- I Don't Understand You](https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 4:04 |
 | 50 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
 
-Snapshot ID: `aCUugAAAAAD8pByn3C/2AWQFbRCaBd+Q`
+Snapshot ID: `aCaAAAAAAAA/MxzA7uX5L9GxE3CN7EqM`

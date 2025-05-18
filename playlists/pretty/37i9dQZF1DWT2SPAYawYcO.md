@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Rihanna, Morgan Wallen, Tate McRae, Cyril, Linkin Park, Dom Dolla + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,133 likes - 114 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,169 likes - 114 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 96 | [Little Less Lonely](https://open.spotify.com/track/7pR2S2bVN8RP7B5mfevdKa) | [Jenny Mitchell](https://open.spotify.com/artist/4nuqPXV9cR0OGDbYw0Zwj9) | [Forest House](https://open.spotify.com/album/4fKXOHw9FPeyEPfv3Pi3gx) | 3:51 |
 | 97 | [Get Lost](https://open.spotify.com/track/0lv7q58MV2xSbtLglgWUIE) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Get Lost](https://open.spotify.com/album/18Jg048S4VfqHNJ76NtIAE) | 3:27 |
 | 98 | [WOO GIRLS](https://open.spotify.com/track/65yOAFRuozpLBRJ4UzcL6U) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [WOO GIRLS](https://open.spotify.com/album/4Hnx6nHTtNhfSEMLVnYTlj) | 2:50 |
-| 99 | [Come To Me](https://open.spotify.com/track/3VxClAVQvpcZaqG7gtpdUf) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Mac Foreign](https://open.spotify.com/artist/6A9USrrmkMuP34nZayNXYG) | [Come To Me](https://open.spotify.com/album/7zaIMnAd08reyv44FC47Y8) | 3:34 |
+| 99 | [Come to Me](https://open.spotify.com/track/3VxClAVQvpcZaqG7gtpdUf) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Mac Foreign](https://open.spotify.com/artist/6A9USrrmkMuP34nZayNXYG) | [Come to Me](https://open.spotify.com/album/7zaIMnAd08reyv44FC47Y8) | 3:34 |
 | 100 | [weighted blanket.](https://open.spotify.com/track/2yMuWe0yy1XvwHFmRAQwk6) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [time to love, time to heal.](https://open.spotify.com/album/3E189BvbeAv4z08EMlr7h9) | 2:34 |
 | 101 | [Dombolo](https://open.spotify.com/track/367rN6YbfmaSJ9zOtV2XBk) | [SK Simeon](https://open.spotify.com/artist/3hZ4mgW0lM6GBP8EgCIxjP), [King Toppa](https://open.spotify.com/artist/0R70tgeUv5WB6GWxAUawO3) | [Dombolo](https://open.spotify.com/album/100fHB6jRud3eFiBy13Qi7) | 2:01 |
 | 102 | [Afterlight](https://open.spotify.com/track/3jChBg7p7eTv79tABlKKKk) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Afterlight](https://open.spotify.com/album/0UGHroSXa66KBE5AWBUUdK) | 2:35 |

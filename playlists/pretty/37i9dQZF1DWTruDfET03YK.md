@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,251 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,286 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 14 | [La Vaca Lola](https://open.spotify.com/track/70NIwhQTnE2a4wuE0roHTM) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH), [La Granja de Zenón](https://open.spotify.com/artist/7eVIbeFWMpfMVHR20GJ4PT) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 2:07 |
 | 15 | [Escuela de Perritos](https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:30 |
 | 16 | [Perry the Platypus Theme](https://open.spotify.com/track/48Rf7JYGhYrY5zkc3dld3O) | [Randy Crenshaw](https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 0:47 |
-| 17 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
-| 18 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
+| 17 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
+| 18 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
 | 19 | [Pom pom gallinita](https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:04 |
 | 20 | [Popurrí de animales \(El señor don Gato \- La cucaracha \- Pollito chicken\) \- Remasterizado 2016](https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 5:37 |
 | 21 | [Mi Burrito Sabanero](https://open.spotify.com/track/0ZdnI2t7hdmu2znvokiGbp) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 3:28 |

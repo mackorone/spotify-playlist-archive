@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 201285,
+  "num_followers": 201301,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAB6lUAYxgzQm9E2H02YZ9h+",
+  "snapshot_id": "aCaAAAAAAABHV8zlx5/+LFqwWKAqPfsx",
   "tracks": [
     {
       "added_at": null,
@@ -1103,6 +1103,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -1191,42 +1227,6 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
     },
     {
       "added_at": null,

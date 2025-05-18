@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 65387,
+  "num_followers": 65421,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAnBre16Q9m5ZyGz0jDaWSC",
+  "snapshot_id": "aCaAAAAAAAD29q/SW2TvDUeZTBVz5BoF",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
-        "url": "https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendivil Y Sus Huellas",
-          "url": "https://open.spotify.com/artist/1cluCVkhK1mU0NFVfrXEi8"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 200545,
-      "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
-      "url": "https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -575,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Verdad",
-      "url": "https://open.spotify.com/track/6eSHAK97hICMhLd6UWbPGM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No volver\u00e9",
         "url": "https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn"
       },
@@ -607,6 +571,42 @@
       "duration_ms": 160533,
       "name": "No volver\u00e9",
       "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Verdad",
+      "url": "https://open.spotify.com/track/6eSHAK97hICMhLd6UWbPGM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
+        "url": "https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendivil Y Sus Huellas",
+          "url": "https://open.spotify.com/artist/1cluCVkhK1mU0NFVfrXEi8"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 200545,
+      "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
+      "url": "https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Pa Pistear Volumen 1",
-        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Concedeme",
         "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 146533,
       "name": "Amargo Dolor",
       "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras Pa Pistear Volumen 1",
+        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
     },
     {
       "added_at": null,

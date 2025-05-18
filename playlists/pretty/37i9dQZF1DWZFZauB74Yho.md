@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Rhiannon Giddens & Justin Robinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,448 likes - 121 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,507 likes - 121 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

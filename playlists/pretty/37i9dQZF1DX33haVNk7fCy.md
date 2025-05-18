@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,677 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,834 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 41 | [Main Jis Din Bhulaa Du](https://open.spotify.com/track/6X3FjTFOKsj7FQk2rd0gPv) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Main Jis Din Bhulaa Du](https://open.spotify.com/album/16AQy6HuGxznQphzEGlAPd) | 5:00 |
 | 42 | [Dhokebaaz](https://open.spotify.com/track/2QASXYEGqKhN7jnr07c9hP) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Dhokebaaz](https://open.spotify.com/album/4rcQ3AXRzfNkH8tUOz6DeF) | 4:25 |
 | 43 | [Kinni Soni](https://open.spotify.com/track/268akcwmDZGwMeI2nijVxd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kinni Soni](https://open.spotify.com/album/14pyBvbiJZ7zuFrxgCQded) | 4:01 |
-| 44 | [Unspoken](https://open.spotify.com/track/6aJLPRRyxJjWXc91jtLO56) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Unspoken](https://open.spotify.com/album/2ymymrHipb8QfhV7nyn3zk) | 2:45 |
-| 45 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
+| 44 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
+| 45 | [Unspoken](https://open.spotify.com/track/6aJLPRRyxJjWXc91jtLO56) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Unspoken](https://open.spotify.com/album/2ymymrHipb8QfhV7nyn3zk) | 2:45 |
 | 46 | [Wafa Na Raas Aayee](https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Wafa Na Raas Aayee](https://open.spotify.com/album/4SJ1Bg3UAbnkLiaqkHcwaz) | 4:48 |
 | 47 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
 | 48 | [Mirza](https://open.spotify.com/track/4YQW2LiQxh3efV2En95t6U) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Mirza](https://open.spotify.com/album/1ncdWtw7rFMrDYSI49bMWd) | 1:00 |

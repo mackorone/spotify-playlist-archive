@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 228211,
+  "num_followers": 228292,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "The A List",
+        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
+      },
+      "artists": [
+        {
+          "name": "Pumpa",
+          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "The A List",
+      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Carry It",
         "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
       },
@@ -283,18 +299,18 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "The A List",
-        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
+        "name": "1 On 1",
+        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
       },
       "artists": [
         {
-          "name": "Pumpa",
-          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
         }
       ],
-      "duration_ms": 217913,
-      "name": "The A List",
-      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
+      "duration_ms": 214720,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -311,22 +327,6 @@
       "duration_ms": 186000,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "1 On 1",
-        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
-      },
-      "artists": [
-        {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Mas",
-        "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        },
-        {
-          "name": "Freetown Collective",
-          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
-        }
-      ],
-      "duration_ms": 210238,
-      "name": "Mas",
-      "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 133141,
       "name": "Down Dey",
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Mas",
+        "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Freetown Collective",
+          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
+        }
+      ],
+      "duration_ms": 210238,
+      "name": "Mas",
+      "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Alien Head Riddim",
         "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 145500,
       "name": "Explore",
       "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 220500,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Soca Future Riddim",
-        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+        "name": "Get Soca 2018",
+        "url": "https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc"
       },
       "artists": [
         {
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
         }
       ],
-      "duration_ms": 203358,
-      "name": "Leh Go",
-      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
+      "duration_ms": 187249,
+      "name": "Hulk",
+      "url": "https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Peter Ram",
-          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
-        }
-      ],
-      "duration_ms": 279426,
-      "name": "Woman By My Side",
-      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Happy Daze Riddim",
         "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
       },
@@ -1491,8 +1475,24 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Get Soca 2018",
-        "url": "https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc"
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Peter Ram",
+          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
+        }
+      ],
+      "duration_ms": 279426,
+      "name": "Woman By My Side",
+      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
       },
       "artists": [
         {
@@ -1500,9 +1500,9 @@
           "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
         }
       ],
-      "duration_ms": 187249,
-      "name": "Hulk",
-      "url": "https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR"
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
     },
     {
       "added_at": "2025-02-06 10:19:43",

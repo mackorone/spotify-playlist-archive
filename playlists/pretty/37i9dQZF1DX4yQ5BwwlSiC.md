@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Check out all of these artists and more performing live in Nashville at the CMA Fest 2025! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,514 likes - 73 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,520 likes - 73 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 10 | [3,2,1](https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [3,2,1](https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ) | 2:38 |
 | 11 | [She Hates Me](https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [She Hates Me](https://open.spotify.com/album/08SPNNSczUGCea325dQcEY) | 2:50 |
 | 12 | [I'm Gonna Love You](https://open.spotify.com/track/08wyXJO5ZcqloLYbpufenQ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:08 |
-| 13 | [House Again](https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW) | 3:22 |
+| 13 | [House Again](https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW) | 3:23 |
 | 14 | [Ain't Enough Cowboy Songs](https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Ain't Enough Cowboy Songs](https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm) | 3:37 |
 | 15 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
 | 16 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 72 | [funny girl](https://open.spotify.com/track/50WEeFyytDmU2RhcsUNkrv) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [funny girl](https://open.spotify.com/album/7wl5M6KO2zF0g06Il8xmi3) | 3:18 |
 | 73 | [Nothin' To Wear](https://open.spotify.com/track/6kNb8J6J0bTNK0WA3GcmHq) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Nothin' To Wear](https://open.spotify.com/album/3doQD854zZJkCwYKaJseXL) | 2:53 |
 
-Snapshot ID: `Z+SB+wAAAABL72UC0jFFsroyIIvF8R8j`
+Snapshot ID: `Z+SB+wAAAABzJFH0Pk9OptU0JYiYQ/e1`

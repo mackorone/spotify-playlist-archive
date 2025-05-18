@@ -3406,10 +3406,36 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 185000,
       "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
       "url": "https://open.spotify.com/track/4PBn4zkgReSPmM41RYijJM"
+    },
+    {
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
+      "url": "https://open.spotify.com/track/5PML6KBG7m6NVjpiYBLB8S"
     },
     {
       "album": {
@@ -3988,6 +4014,24 @@
       "duration_ms": 189494,
       "name": "AUTODISTRUTTIVO",
       "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
+    },
+    {
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170865,
+      "name": "Autostima",
+      "url": "https://open.spotify.com/track/2gqEHMEsIybKlDvnOs1p8c"
     },
     {
       "album": {
@@ -5000,7 +5044,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 194468,
       "name": "BATTITO",
       "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
@@ -7122,7 +7166,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 204375,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/1KZm459Xdw6GuYjcGk3pbm"
@@ -9104,7 +9148,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 217613,
       "name": "CHIAMO IO CHIAMI TU",
       "url": "https://open.spotify.com/track/7dLecVXQzVbesjot2h55Rc"
@@ -9184,6 +9228,24 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
     },
     {
       "album": {
@@ -10744,7 +10806,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 166366,
       "name": "CONTA SU DI ME",
       "url": "https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4"
@@ -18279,6 +18341,28 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ginevra (feat. Geolier)",
+      "url": "https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -21356,7 +21440,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 187403,
       "name": "il filo rosso",
       "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
@@ -21448,6 +21532,28 @@
       "duration_ms": 209045,
       "name": "IL MIO AMICO (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/4mrr7agl0tGMOiuDT1AwMQ"
+    },
+    {
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Lele Adani",
+          "url": "https://open.spotify.com/artist/0WT28CSVeek3pQ8rfRHM33"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239446,
+      "name": "Il mio lato peggiore (con Lele Adani)",
+      "url": "https://open.spotify.com/track/3h0KCI7mO215UtLUmTZxKl"
     },
     {
       "album": {
@@ -21581,6 +21687,32 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Ilary (feat. Gu\u00e8, Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/2r0HlPn3jMcullgQ0bGuCV"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
       },
@@ -21680,7 +21812,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 167283,
       "name": "In auto alle 6:00 (feat. Lazza)",
       "url": "https://open.spotify.com/track/0rufYF3Mr0ZqdmhrZeAIz6"
@@ -21998,6 +22130,28 @@
       "duration_ms": 204811,
       "name": "Incoscienti Giovani",
       "url": "https://open.spotify.com/track/3l4KzIHsh002W3evllH3EF"
+    },
+    {
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Incredibile (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
     },
     {
       "album": {
@@ -24614,6 +24768,32 @@
       "duration_ms": 241263,
       "name": "La mia storia",
       "url": "https://open.spotify.com/track/5gwzEOyKuiGlNH9UTedtZC"
+    },
+    {
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "La mia vittoria (feat. Giorgia, Marracash)",
+      "url": "https://open.spotify.com/track/3KNZJB6GW71aBtfeeknoVq"
     },
     {
       "album": {
@@ -29775,6 +29955,32 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245853,
+      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
+      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
+    },
+    {
+      "album": {
         "name": "Michelle Pfeiffer (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
       },
@@ -30726,7 +30932,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 174193,
       "name": "MOLECOLE SPRITE",
       "url": "https://open.spotify.com/track/0bhreLyBJhKKtiGOZuKAYx"
@@ -32176,6 +32382,24 @@
       "duration_ms": 226906,
       "name": "NEON",
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
+    },
+    {
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223834,
+      "name": "Nessuna",
+      "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
     },
     {
       "album": {
@@ -34368,7 +34592,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 192580,
       "name": "N\u20acUROLOGIA",
       "url": "https://open.spotify.com/track/5JzqglN4c6vGXh5iyTmjVi"
@@ -38685,6 +38909,28 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "Punto G (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/1IwiZUmH6xFHfOLqH6k1TK"
+    },
+    {
+      "album": {
         "name": "Infinito +1",
         "url": "https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM"
       },
@@ -41496,7 +41742,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 179802,
       "name": "SCELTE STUPIDE",
       "url": "https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7"
@@ -43220,7 +43466,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 192096,
       "name": "SNTMNG",
       "url": "https://open.spotify.com/track/5t425GlIbSzzgZ6rMM4phJ"
@@ -47536,7 +47782,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 207313,
       "name": "TU CON CHI FAI L'AMORE",
       "url": "https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy"
@@ -48481,6 +48727,28 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "Un milione di mani (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/7oW51CUGuVLH7qundUfdLq"
+    },
+    {
+      "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
       },
@@ -48514,7 +48782,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 240572,
       "name": "Un mondo a parte",
       "url": "https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"
@@ -50216,7 +50484,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 185200,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/34EclK5pWi2OqUz5cDm2X2"

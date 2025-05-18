@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Topic, Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,856 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,915 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

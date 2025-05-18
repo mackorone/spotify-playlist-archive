@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,531 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,552 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 36 | [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:57 |
 | 37 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 |
 | 38 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 |
-| 39 | [Sage der Rosen](https://open.spotify.com/track/4vWplv6n9PQ0e3SbCXmXTP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:04 |
+| 39 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
 | 40 | [TARINAI](https://open.spotify.com/track/07qmAUS6Vt9HhaQeGLvLAP) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 3:39 |
 | 41 | [Crow Song \- Cover](https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:04 |
 | 42 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 43 | [ラムのラブソング \- Cover](https://open.spotify.com/track/1XQ1kHnmJ7dR7rq2QOtCJs) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 2:42 |
 | 44 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
-| 45 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
+| 45 | [Sage der Rosen](https://open.spotify.com/track/4vWplv6n9PQ0e3SbCXmXTP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:04 |
 | 46 | [Butter\-Fly \- Cover](https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:10 |
 | 47 | [コハク](https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:40 |
 | 48 | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr) | [日菜](https://open.spotify.com/artist/5IRX41YDPyIvlKBhfWQFjI), [千聖](https://open.spotify.com/artist/2HPjNk8xJr6y3lk8TzUcDj), [麻弥](https://open.spotify.com/artist/0roduHEfBOh5Dw6KIYlA7G), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [リサ](https://open.spotify.com/artist/7ols3PswTwnpdvbqHG2fav), [燐子](https://open.spotify.com/artist/3rsjfLbwzDOmns55hKDzS9), [薫](https://open.spotify.com/artist/2ZJwCjTnSnr2V7a91pBvoJ), [花音](https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8) | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l) | 5:11 |

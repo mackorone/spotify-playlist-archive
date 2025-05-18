@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits de la pop maghrébine\. Cover: Lazaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,398 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,469 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 28 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 |
 | 29 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 |
 | 30 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 |
-| 31 | [DA9A DA9A](https://open.spotify.com/track/6WXZkA8ysnSgTIXP4GXbvW) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [DA9A DA9A](https://open.spotify.com/album/47ThED88rZpP1XY7eCdaoZ) | 2:55 |
+| 31 | [DA9A DA9A](https://open.spotify.com/track/6WXZkA8ysnSgTIXP4GXbvW) | [Ayoub Anbaoui et tawsen](https://open.spotify.com/artist/4TfUcDtoh5zA70LEAtn9p3) | [DA9A DA9A](https://open.spotify.com/album/47ThED88rZpP1XY7eCdaoZ) | 2:55 |
 | 32 | [Ana W Nti](https://open.spotify.com/track/4980zLaGgwv5ZE2K5Xv5BR) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Ana W Nti](https://open.spotify.com/album/2QQlptEkrMrBUH3uYshPHq) | 4:05 |
 | 33 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 | 34 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044 likes - 173 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043 likes - 173 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 57 | [Me Pregunta](https://open.spotify.com/track/5FptA2XD8XJSC7nepL7OL5) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [The Academy](https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw) | 4:05 |
 | 58 | [Instinto Natural \(feat\. Sech\)](https://open.spotify.com/track/63LC0DlzmPd9TOYON8blfc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:14 |
 | 59 | [Tiene Novio](https://open.spotify.com/track/5V4u2EwJZLs03lWJ8PH9DA) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:40 |
-| 60 | [Mood](https://open.spotify.com/track/2ISzmtY9Exy1IwmJj3Hc7P) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 2:56 |
-| 61 | [DAÑAMOS LA AMISTAD](https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:54 |
+| 60 | [DAÑAMOS LA AMISTAD](https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:54 |
+| 61 | [Mood](https://open.spotify.com/track/2ISzmtY9Exy1IwmJj3Hc7P) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 2:56 |
 | 62 | [Cafe Malibú](https://open.spotify.com/track/6uL89TPiBHaiIEhqK4sohb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 4:20 |
 | 63 | [Coronao Now \- Remix](https://open.spotify.com/track/08B8heF08g59b3CzC5sKEd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Vin Diesel](https://open.spotify.com/artist/3dtkct6MUrKfxCUWLgnGAD) | [Coronao Now \(Remix\)](https://open.spotify.com/album/1aTmkrFhxRGd9ufKrtcUVZ) | 4:10 |
 | 64 | [Perfume](https://open.spotify.com/track/19VunfeIrl0bx984mJ810c) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Modo Avión](https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r) | 3:15 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 172 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 173 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AbxmQAAAAABxZOIWSDq69yUZBn/624Il`
+Snapshot ID: `AbxsHAAAAAAUH5MK6xAaf+EsilHLBMoA`

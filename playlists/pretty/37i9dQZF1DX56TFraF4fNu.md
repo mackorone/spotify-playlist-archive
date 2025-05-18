@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Boza, Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,586 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,629 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
 | 60 | [La mejor noche d mi vida <3](https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:15 |
 
-Snapshot ID: `Z90g+AAAAADrXq2esQ2OL2YHWAMS/nS8`
+Snapshot ID: `AAAAANKHATJeSqhhVvVOTkiOJxCnFZ+f`

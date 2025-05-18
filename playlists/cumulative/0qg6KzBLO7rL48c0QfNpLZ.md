@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,068 songs - 1 day 23 hr 15 min
+1,069 songs - 1 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Capsize](https://open.spotify.com/track/2XMTqoHHSH0lvuXrvIEdco) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Truce \- EP](https://open.spotify.com/album/5qeKpDQFyotJjLh61pUZQo) | 3:57 | 2022-10-06 | 2024-09-15 |
 | [Careless Whisper](https://open.spotify.com/track/3d8Rskx07wth6oRKtztkfF) | [Hitkend House Lab](https://open.spotify.com/artist/5EwR3Ug8qlVaZshixxQvOB) | [Careless Whisper](https://open.spotify.com/album/4dLLi5MqDpxgNhtvf0qxFf) | 3:05 | 2025-03-21 | 2025-04-24 |
 | [Careless Whisper](https://open.spotify.com/track/5523XfZJmzdBtVej08fYMd) | [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Syntheticsax](https://open.spotify.com/artist/05hm1QdbuSVF4WdgzA0tFJ), [Ben Plum](https://open.spotify.com/artist/4a5nlCkBsY0lZRYl5k3MnG) | [Careless Whisper](https://open.spotify.com/album/0pHGgN4d0ewS2zon77Uikv) | 2:53 | 2024-09-20 | 2024-11-21 |
+| [Carry On](https://open.spotify.com/track/4dgNanbtzhZasNoHZlGaXs) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Carry On](https://open.spotify.com/album/3Mdo6S8ebG5YYkyHmrnTPU) | 3:18 | 2025-05-17 |  |
 | [Casualty \(feat\. maybealice\)](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Casualty \(feat\. maybealice\)](https://open.spotify.com/album/4mk0z9SPh1YnvJEuo37JJU) | 2:52 | 2024-08-19 | 2025-02-18 |
 | [Catch & Release](https://open.spotify.com/track/00eUfsLQfuR9h6waaiHDUq) | [Planetopia](https://open.spotify.com/artist/5yE8mOpWjlbco6luZB04eb) | [Catch & Release](https://open.spotify.com/album/1kUVSvjmEZg9jihzsUfe4n) | 3:15 | 2024-06-28 | 2024-08-10 |
 | [Catch & Release \- Deepend Remix](https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release](https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv) | 3:16 | 2022-07-14 | 2025-02-05 |

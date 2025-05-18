@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,896 songs - 6 day 13 hr 10 min
+2,896 songs - 6 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1530,7 +1530,7 @@
 | [Lost In Sound](https://open.spotify.com/track/5rFsYRvwhznU4hVpKqCZAn) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Lost In Sound](https://open.spotify.com/album/7dmrYKiXF8OMb1YVcTCpYo) | 1:49 | 2025-01-31 | 2025-02-07 |
 | [Lost In The Deep](https://open.spotify.com/track/5egezAR8xyEY1wzPx0AWZG) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Lost In The Deep](https://open.spotify.com/album/5bW1a6bSPtkynm9z9u2LeF) | 3:42 | 2025-04-08 | 2025-04-12 |
 | [Lost In The Dust](https://open.spotify.com/track/6ZL3xfiqRJBBJhkbSTEdy2) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lost In The Dust](https://open.spotify.com/album/2XOCrLWJZquxGUgkrgNk49) | 2:44 | 2024-10-11 | 2024-10-22 |
-| [Lost in Tomorrow \- Radio Edit](https://open.spotify.com/track/4VoIGASzJefVhZB9ah3E9D) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Lost in Tomorrow](https://open.spotify.com/album/4hqzEXewBjxDmvoXlf79D8) | 4:09 | 2025-05-16 |  |
+| [Lost in Tomorrow](https://open.spotify.com/track/4VoIGASzJefVhZB9ah3E9D) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Lost in Tomorrow](https://open.spotify.com/album/4hqzEXewBjxDmvoXlf79D8) | 4:09 | 2025-05-16 |  |
 | [Lost Without You](https://open.spotify.com/track/6dIHmm2Jy7IxT1oPzNInUl) | [Mark Norman](https://open.spotify.com/artist/3pPyG4NWGaEm3YJ9NShOET), [Amber Revival](https://open.spotify.com/artist/247Rddo3rzBu5bAtYyvov0) | [Lost Without You](https://open.spotify.com/album/6iPpS9K89sokirwy7LlJ9s) | 4:14 | 2024-09-26 | 2024-10-05 |
 | [Lotus](https://open.spotify.com/track/0Ztb6gvfzYnmD8HqBZaIVR) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Lotus](https://open.spotify.com/album/3sbOgcdCl22ybRGsygeh4W) | 5:00 | 2024-07-25 | 2024-08-02 |
 | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/album/7qyuA3NETBJ3gNvUWxHha6) | 3:34 | 2024-06-07 | 2024-06-17 |
@@ -1724,7 +1724,7 @@
 | [Navigating Changes](https://open.spotify.com/track/1DnkN0EKumVIFBGMpUZuzq) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Navigating Changes](https://open.spotify.com/album/6RTvDpaKWld2pHPMxrBZiu) | 3:25 | 2025-04-21 | 2025-04-25 |
 | [Need Me](https://open.spotify.com/track/5KRWE8f2yC0SIn1aMmaYff) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Liquid Rose](https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN) | [Need Me](https://open.spotify.com/album/6yKE1KJ6kHx5LO6JhNBg5K) | 3:00 | 2025-02-06 | 2025-02-11 |
 | [Need Some Time](https://open.spotify.com/track/0yDM6TInVZdNwNz9Fyxifd) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Midnight Mass](https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9) | 3:16 | 2024-11-08 | 2024-11-16 |
-| [Need Some Time \- Lawrence Hart Remix](https://open.spotify.com/track/3YxtvihOtmSdW4HBvMYd6x) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Need Some Time \(Lawrence Hart Remix\)](https://open.spotify.com/album/4BW0jtol9FKbruTgZSBeLT) | 3:26 | 2025-05-16 |  |
+| [Need Some Time \- Lawrence Hart Remix](https://open.spotify.com/track/3YxtvihOtmSdW4HBvMYd6x) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Need Some Time \(Lawrence Hart Remix\)](https://open.spotify.com/album/4BW0jtol9FKbruTgZSBeLT) | 4:21 | 2025-05-16 |  |
 | [Need You Tonight](https://open.spotify.com/track/3z5osZWLr93wXQ4W2nJncs) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Need You Tonight EP](https://open.spotify.com/album/1YfvqyDu5D8KhhSIImLVwx) | 3:45 | 2025-05-16 |  |
 | [Need Your Love](https://open.spotify.com/track/5rgRgib0ngOK14XiEj4ycq) | [CLV](https://open.spotify.com/artist/5H5wUF8cjtn3erNzcUZUbC) | [Need Your Love](https://open.spotify.com/album/2OR329nXjwmMWPtRSfUMcg) | 3:01 | 2024-09-06 | 2024-09-13 |
 | [Need Your Lovin'](https://open.spotify.com/track/0ZGToH2TYASelvAQYVxb7k) | [Diseptix](https://open.spotify.com/artist/56LyLpyR1NuJQwufGH5AlH), [NOPARTAGER](https://open.spotify.com/artist/6AJkamD8woOZwe4ZtijDsK) | [Need Your Lovin'](https://open.spotify.com/album/0yEt0PFe0S1w36Nko4MG2o) | 3:26 | 2025-02-06 | 2025-02-22 |

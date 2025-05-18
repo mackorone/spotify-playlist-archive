@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2025. See you on the dancefloor.",
-  "num_followers": 654003,
+  "num_followers": 654490,
   "original_name": "Ibiza 2025",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
         "name": "Go Again",
         "url": "https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 221190,
       "name": "Go Again",
       "url": "https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1143,42 +1143,26 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo"
+        "name": "Baiana",
+        "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/7lrpAdRWokKcAqlGUb7erv"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
         },
         {
-          "name": "Lauren Nicole",
-          "url": "https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX"
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
         }
       ],
-      "duration_ms": 195795,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G"
+      "duration_ms": 116250,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1203,6 +1187,46 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7lrpAdRWokKcAqlGUb7erv"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Lauren Nicole",
+          "url": "https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX"
+        }
+      ],
+      "duration_ms": 195795,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
         "name": "Disco Tetris (Edit)",
         "url": "https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 198675,
       "name": "Disco Tetris - Edit",
       "url": "https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
-        "name": "Baiana",
-        "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/09slJUG8d40lineidFdYCN"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 113385,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
         "name": "La Musa (with Miluhska)",
         "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/09slJUG8d40lineidFdYCN"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 113385,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
         "name": "If You Want My Loving",
         "url": "https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH"
       },
@@ -1399,38 +1399,6 @@
       "duration_ms": 208814,
       "name": "Motions",
       "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
-      },
-      "artists": [
-        {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
-        "name": "Buschtaxi",
-        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1451,6 +1419,22 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
         "name": "She\u2019s Gone, Dance On (Carlita Remix)",
         "url": "https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 214435,
       "name": "She\u2019s Gone, Dance On (Carlita Remix)",
       "url": "https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
+        "name": "Buschtaxi",
+        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
-        "name": "If U Like Me",
-        "url": "https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm"
+        "name": "Ma Tnsani (Yalla Habibi)",
+        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
         }
       ],
-      "duration_ms": 152679,
-      "name": "If U Like Me - Edit",
-      "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
+      "duration_ms": 220000,
+      "name": "Ma Tnsani (Yalla Habibi)",
+      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
-        "name": "Ma Tnsani (Yalla Habibi)",
-        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
+        "name": "If U Like Me",
+        "url": "https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm"
       },
       "artists": [
         {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "AYA",
-          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Ma Tnsani (Yalla Habibi)",
-      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
+      "duration_ms": 152679,
+      "name": "If U Like Me - Edit",
+      "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 269267,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
-        "name": "KLUBPARTEI",
-        "url": "https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "HERZSCHLAG",
-      "url": "https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 191802,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
+        "name": "KLUBPARTEI",
+        "url": "https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "HERZSCHLAG",
+      "url": "https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
+        "name": "X-Rated",
+        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "X-Rated",
+      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
         "name": "Ready To Go (My Addiction)",
         "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
@@ -1827,22 +1847,6 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
         "name": "Who's That Girl (JL & Afterman Mix)",
         "url": "https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7"
       },
@@ -1863,6 +1867,22 @@
       "duration_ms": 320624,
       "name": "Who's That Girl - JL & Afterman Mix",
       "url": "https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": "2025-05-16 13:28:49",
@@ -1923,22 +1943,6 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/3URwEJGF4PEt0wjxudHoCS"
-      },
-      "artists": [
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/3C36l5eSjFMaziG7buBbQK"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1963,6 +1967,22 @@
     {
       "added_at": "2025-05-16 13:28:49",
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/3URwEJGF4PEt0wjxudHoCS"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/3C36l5eSjFMaziG7buBbQK"
+    },
+    {
+      "added_at": "2025-05-16 13:28:49",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 214575,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
-    },
-    {
-      "added_at": "2025-05-16 13:28:49",
-      "album": {
-        "name": "Sweatbox",
-        "url": "https://open.spotify.com/album/2Aasb38FJph28iq6R0JCAQ"
-      },
-      "artists": [
-        {
-          "name": "Harry Wills",
-          "url": "https://open.spotify.com/artist/5AE52XrC6wM9wzhtSQDupS"
-        },
-        {
-          "name": "Mikey Sebastian",
-          "url": "https://open.spotify.com/artist/5ZelZTeJ3VpDZ2geKawS1E"
-        }
-      ],
-      "duration_ms": 166058,
-      "name": "Sweatbox",
-      "url": "https://open.spotify.com/track/7rrE7xPl4rE26gvcXagLf3"
     }
   ],
   "unique_name": "Ibiza 2025",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joshua Redman
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,246 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,260 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kaleidoscopes](https://open.spotify.com/track/2V5TR2NkI29foggEFzgNvd) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Edmar Castañeda](https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [BEATrio](https://open.spotify.com/album/4qZ6AQOEGQVpyI3iyEhFQB) | 5:35 |
-| 2 | [Us](https://open.spotify.com/track/3yG45WqilUjnG51kE35npx) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [SHINE](https://open.spotify.com/album/4qumGNh9nIs0jhR0jFoEMu) | 2:50 |
+| 2 | [Us](https://open.spotify.com/track/3yG45WqilUjnG51kE35npx) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [SHINE](https://open.spotify.com/album/4qumGNh9nIs0jhR0jFoEMu) | 2:50 |
 | 3 | [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 |
 | 4 | [crystal waterfalls](https://open.spotify.com/track/0JL2cqzSBKwaHFwP66vqWo) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [crystal waterfalls](https://open.spotify.com/album/4Z7tZ98TBYj9b9suXDKBsh) | 5:12 |
 | 5 | [Coastal Postal](https://open.spotify.com/track/3wGXkPmkJXJHPpkQKPc7lp) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers V](https://open.spotify.com/album/5DDDL6liGPtIvSwLmW7K4s) | 2:16 |

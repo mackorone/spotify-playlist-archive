@@ -4,7 +4,7 @@
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 16 min
+109 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 | 2025-04-17 |  |
 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 | 2024-06-30 | 2025-04-17 |
 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 | 2022-10-28 |  |
-| [Bitter \(feat\. Mulatto\)](https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 3:04 | 2022-10-28 |  |
+| [Bitter \(feat\. Mulatto\)](https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 3:04 | 2022-10-28 | 2025-05-18 |
 | [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 | 2024-08-11 | 2025-01-30 |
 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 | 2025-01-30 |  |
 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 | 2023-05-12 |  |
@@ -96,6 +96,7 @@
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2024-01-11 |
 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 | 2022-10-28 |  |
 | [Shrimp & Grits \(feat\. Young Nudy\)](https://open.spotify.com/track/04yFP7f0TBeeIKs34TXvAP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:44 | 2024-08-11 | 2024-09-15 |
+| [Somebody](https://open.spotify.com/track/675FbwNBCmXxFbekPkiNgi) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/22QCHivBPgRLCMe2iLkf8G) | 3:22 | 2025-05-18 |  |
 | [Sorry Not Sorry \- Remix](https://open.spotify.com/track/7AhgEWQWDBalQrdeidAWzR) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry \(Remix\)](https://open.spotify.com/album/6M1ijwO8XZ44VTFxdsPlV2) | 3:15 | 2022-10-28 | 2023-05-26 |
 | [Soufside](https://open.spotify.com/track/7aQckZHyuls0Oa9LjUISDu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 1:50 | 2022-10-28 | 2024-01-20 |
 | [Special \(with Latto, Swae Lee & Aminé\)](https://open.spotify.com/track/6JfNsc7wg3mnKunY8gLmLg) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:37 | 2024-01-27 | 2024-10-11 |

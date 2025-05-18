@@ -983,6 +983,28 @@
     },
     {
       "album": {
+        "name": "Milagro",
+        "url": "https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207003,
+      "name": "Templo de Piceas",
+      "url": "https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM"
+    },
+    {
+      "album": {
         "name": "ARMAGED\u00d3N",
         "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
       },

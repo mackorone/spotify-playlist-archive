@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61802,
+  "num_followers": 61805,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 342373,
+      "name": "Goodbye Pork Pie Hat",
+      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 209738,
       "name": "Ithaka",
       "url": "https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 342373,
-      "name": "Goodbye Pork Pie Hat",
-      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
     },
     {
       "added_at": "2025-05-12 03:37:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
-        "name": "Last Night at the Cedar Tavern",
-        "url": "https://open.spotify.com/album/1GzIyAbAPg3jTeiKUB93KI"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 189016,
-      "name": "Last Night at the Cedar Tavern",
-      "url": "https://open.spotify.com/track/22WIvZ04x2ARzjRwzEsNtU"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
+        "name": "Last Night at the Cedar Tavern",
+        "url": "https://open.spotify.com/album/1GzIyAbAPg3jTeiKUB93KI"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 189016,
+      "name": "Last Night at the Cedar Tavern",
+      "url": "https://open.spotify.com/track/22WIvZ04x2ARzjRwzEsNtU"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
         "name": "Ben Webster Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Good Morning.Goodbye",
-      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
         "name": "In A Sentimental Mood",
         "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 162250,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+      },
+      "artists": [
+        {
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Good Morning.Goodbye",
+      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
     },
     {
       "added_at": "2025-05-12 03:37:14",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
         "name": "Bob Acri",
         "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 201226,
       "name": "Sleep Away",
       "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2025-05-12 03:37:14",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
-        "name": "All Blues (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
-      },
-      "artists": [
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        }
-      ],
-      "duration_ms": 404026,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
         "name": "The Incredible Kai Winding Trombones",
         "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 245013,
       "name": "Lil Darlin'",
       "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
+        "name": "All Blues (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
+      },
+      "artists": [
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        }
+      ],
+      "duration_ms": 404026,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
     },
     {
       "added_at": "2025-05-12 03:37:14",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 555320,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 246066,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 555320,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW"
     },
     {
       "added_at": "2025-05-12 03:37:14",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 316866,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
     },
     {
       "added_at": "2025-05-12 03:37:14",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-05-12 03:37:14",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2025-05-12 03:37:14",
-      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 189500,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
+    },
+    {
+      "added_at": "2025-05-12 03:37:14",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2025-05-12 03:37:14",

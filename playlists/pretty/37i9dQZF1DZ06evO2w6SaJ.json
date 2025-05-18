@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6454,
+  "num_followers": 6456,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACRcF4x+0gRdE0/j2Oi0xVR",
+  "snapshot_id": "aCaAAAAAAABGQsp5d0fWZA5nKFeOEZtI",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly (New Anthem)",
-        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
-      },
-      "artists": [
-        {
-          "name": "Black Oxygen",
-          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 227246,
-      "name": "Butterfly (New Anthem)",
-      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leeches",
         "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 212623,
       "name": "Leeches",
       "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterfly (New Anthem)",
+        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
+      },
+      "artists": [
+        {
+          "name": "Black Oxygen",
+          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 227246,
+      "name": "Butterfly (New Anthem)",
+      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Take It To The Bridge",
-      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196160,
+      "name": "Take It To The Bridge",
+      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
     },
     {
       "added_at": null,

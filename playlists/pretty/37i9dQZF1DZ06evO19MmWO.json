@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADVEhlKpolEJQKpSediYcqG",
+  "snapshot_id": "aCaAAAAAAADO50uxJWY09DPnmpyexa3h",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
       "artists": [
         {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 185266,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
+      "duration_ms": 132146,
+      "name": "Evans Shuffle",
+      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
       },
       "artists": [
         {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 132146,
-      "name": "Evans Shuffle",
-      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
+      "duration_ms": 185266,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
     },
     {
       "added_at": null,

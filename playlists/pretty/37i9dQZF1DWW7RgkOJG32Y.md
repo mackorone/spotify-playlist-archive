@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Tucker Wetmore and Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,488 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,637 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 23 | [All I Forgot \(feat\. Joe Jonas\)](https://open.spotify.com/track/4fuLKB0OQsrvsPh9lQWepR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [All I Forgot](https://open.spotify.com/album/439gP9SIn0l4lOAeK9i7YV) | 2:58 |
 | 24 | [Change My Mind](https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Change My Mind](https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8) | 3:19 |
 | 25 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 |
-| 26 | [Weatherman](https://open.spotify.com/track/16tR0x7Rf4ryBuTJmJV4O9) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Weatherman](https://open.spotify.com/album/4Mlb3TAFRXMpKGzwSf0yK3) | 3:21 |
+| 26 | [Weatherman](https://open.spotify.com/track/16tR0x7Rf4ryBuTJmJV4O9) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Weatherman](https://open.spotify.com/album/4Mlb3TAFRXMpKGzwSf0yK3) | 3:19 |
 | 27 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 |
 | 28 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd) | 3:14 |
 | 29 | [In Case You Missed It](https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [In Case You Missed It](https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1) | 2:45 |

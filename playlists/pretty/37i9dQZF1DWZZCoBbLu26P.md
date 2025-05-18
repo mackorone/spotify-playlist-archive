@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,154 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,181 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 13 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 |
 | 14 | [I Made It / Mirror Song / Losing is the New Winning \- Las Vegas Live Medley](https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I Made It / Mirror Song / Losing is the New Winning \(Las Vegas Live Medley\)](https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr) | 7:49 |
 | 15 | [Queens Everywhere \- Cast Version](https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 11](https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i), [Markaholic](https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu) | [Queens Everywhere \(Cast Version\)](https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n) | 3:17 |
-| 16 | [A Prueba De Todo](https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui) | [Valentina](https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF) | [A Prueba De Todo](https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8) | 3:24 |
-| 17 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 |
+| 16 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 |
+| 17 | [A Prueba De Todo](https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui) | [Valentina](https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF) | [A Prueba De Todo](https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8) | 3:24 |
 | 18 | [Brown Cow Stunning](https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg) | [Monique Heart](https://open.spotify.com/artist/0iJr2eJYe4WsiZrmCn2nV3) | [Brown Cow Stunning](https://open.spotify.com/album/3D4tRIWeEXpUUccba35Rku) | 3:07 |
 | 19 | [Beyoncé](https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [Unapologetically](https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8) | 2:56 |
 | 20 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |

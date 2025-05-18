@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 80,883 likes - 228 songs - 9 hr 51 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 81,022 likes - 228 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 23 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 24 | [Looking For You](https://open.spotify.com/track/4VUKHbTPXX49zHKDvZ3M89) | [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Looking For You](https://open.spotify.com/album/1MCLmNKbid1gymJErJMhof) | 2:33 |
 | 25 | [Obsession](https://open.spotify.com/track/6SmkZfOvzbF3nWMZZSOAhX) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [Obsession](https://open.spotify.com/album/4sLn7l3YLpwxfTpAB6wvBF) | 2:05 |
-| 26 | [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 |
-| 27 | [Palm Tree](https://open.spotify.com/track/6B3koRzRhTCS28wA8R1wrb) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [Palm Tree](https://open.spotify.com/album/5IOM7eE6kw7WeGHaJSIbd6) | 2:24 |
+| 26 | [Palm Tree](https://open.spotify.com/track/6B3koRzRhTCS28wA8R1wrb) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [Palm Tree](https://open.spotify.com/album/5IOM7eE6kw7WeGHaJSIbd6) | 2:24 |
+| 27 | [Carry On](https://open.spotify.com/track/4dgNanbtzhZasNoHZlGaXs) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Carry On](https://open.spotify.com/album/3Mdo6S8ebG5YYkyHmrnTPU) | 3:18 |
 | 28 | [Stumblin' In](https://open.spotify.com/track/4QECgFL34Co7AdI0YBz3VQ) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Stumblin' In](https://open.spotify.com/album/3wsnQV7qFBqQOe8nedgjPJ) | 2:57 |
 | 29 | [Show Me The Way](https://open.spotify.com/track/4LRAxZ4t3Z4HnCl7Ff6g9Q) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Show Me The Way](https://open.spotify.com/album/1ponlqSJmxlYHiqw0QQSpN) | 2:28 |
 | 30 | [Good Vibes](https://open.spotify.com/track/1MOR5ZUWhe7Re4o8ElTily) | [Leavs.](https://open.spotify.com/artist/01SFNHtdp2lGruKBXvujfp), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Good Vibes](https://open.spotify.com/album/1msniyy1XRCEZWCbJzvGn7) | 2:10 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 227 | [I Just Might](https://open.spotify.com/track/4zxdvKmFpXoTLClXzijzbT) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [I Just Might](https://open.spotify.com/album/4GmXryaqgOrpCdSTw5ebss) | 2:33 |
 | 228 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
 
-Snapshot ID: `AABKEWruf2ED8Vj8uNfyFDgcUHuGPGmI`
+Snapshot ID: `AABKFLzmQNieWy4r5ahW1Ome4Z8L5UIn`

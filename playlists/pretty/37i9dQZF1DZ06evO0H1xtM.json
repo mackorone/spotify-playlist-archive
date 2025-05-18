@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 340791,
+  "num_followers": 340905,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACZlGNyhUOxBNCaUf/YAuOO",
+  "snapshot_id": "aCaAAAAAAACyDUQpYVEx3DFa3vCIp5Sl",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 151486,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 151486,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
     },
     {
       "added_at": null,
@@ -783,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subiendo De Nivel",
-        "url": "https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh"
+        "name": "Duele Tu Abandono (En Vivo)",
+        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 110784,
-      "name": "Tu No Eres Lo Que Quer\u00eda",
-      "url": "https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt"
+      "duration_ms": 226345,
+      "name": "Duele Tu Abandono (En Vivo)",
+      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
     },
     {
       "added_at": null,
@@ -815,26 +819,6 @@
       "duration_ms": 186142,
       "name": "Clausurado",
       "url": "https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duele Tu Abandono (En Vivo)",
-        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Duele Tu Abandono (En Vivo)",
-      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Subiendo De Nivel",
+        "url": "https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 110784,
+      "name": "Tu No Eres Lo Que Quer\u00eda",
+      "url": "https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EVO LUXURY 2",
         "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170484,
-      "name": "El Postre",
-      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 176903,
       "name": "El Primo",
       "url": "https://open.spotify.com/track/13kE65qNSOfOCek24303WY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170484,
+      "name": "El Postre",
+      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24278,
+  "num_followers": 24283,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADaBdsO4JBSu1dyUfdxSh5W",
+  "snapshot_id": "aCaAAAAAAAByqF1pEhFkTbl3ul295b3X",
   "tracks": [
     {
       "added_at": null,
@@ -95,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Piece of Australia (Remastered)",
-        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
+        "name": "G'Day G'Day",
+        "url": "https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kate Arneman",
+          "url": "https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK"
         }
       ],
-      "duration_ms": 132093,
-      "name": "Cunnamulla Fella - 1998 Remaster",
-      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
+      "duration_ms": 190826,
+      "name": "G'Day G'Day",
+      "url": "https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs"
     },
     {
       "added_at": null,
@@ -127,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "G'Day G'Day",
-        "url": "https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC"
+        "name": "A Piece of Australia (Remastered)",
+        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "Kate Arneman",
-          "url": "https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK"
         }
       ],
-      "duration_ms": 190826,
-      "name": "G'Day G'Day",
-      "url": "https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs"
+      "duration_ms": 132093,
+      "name": "Cunnamulla Fella - 1998 Remaster",
+      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
     },
     {
       "added_at": null,
@@ -299,42 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights On The Hill (Remastered)",
-        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Pushin' Time",
-      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Walk A Country Mile",
-      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
@@ -355,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
       "artists": [
         {
@@ -364,9 +328,29 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Old Time Country Halls",
-      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
+      "duration_ms": 172000,
+      "name": "Walk A Country Mile",
+      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Pushin' Time",
+      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
       "duration_ms": 170506,
       "name": "Angel Of Goulburn Hill",
       "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Rolling Stones",
+        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Rolling Stones",
-        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 114266,
-      "name": "The Road To Gundagai - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
+      "duration_ms": 174773,
+      "name": "Old Time Country Halls",
+      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+      "duration_ms": 463800,
+      "name": "The Man From Snowy River",
+      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 463800,
-      "name": "The Man From Snowy River",
-      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Plains Of Peppimenarti - 1998 Remaster",
-      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 272093,
       "name": "Paddy William",
       "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makin' A Mile",
         "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 245613,
       "name": "Something In The Pilliga",
       "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "No Good Truckin' Man",
+      "url": "https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 165826,
       "name": "Bent-Axle Bob",
       "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 151840,
-      "name": "No Good Truckin' Man",
-      "url": "https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE"
     },
     {
       "added_at": null,

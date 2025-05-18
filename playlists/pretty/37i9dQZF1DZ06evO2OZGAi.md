@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,766 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,768 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 26 | [Love N' Shit](https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:36 |
 | 27 | [Un Mensaje para Ti \(Ángel\)](https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 1:52 |
 | 28 | [Ahora Volaré](https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 2:59 |
-| 29 | [Cambia Esa Cara](https://open.spotify.com/track/4Xiph5Fmh21XoRTzge0l3y) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:08 |
+| 29 | [No Sé Por qué](https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [No Sé Por qué](https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY) | 2:16 |
 | 30 | [El Tunel del Amor](https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 2:10 |
-| 31 | [No Sé Por qué](https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [No Sé Por qué](https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY) | 2:16 |
+| 31 | [Cambia Esa Cara](https://open.spotify.com/track/4Xiph5Fmh21XoRTzge0l3y) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:08 |
 | 32 | [Si Solo Estas Ahí](https://open.spotify.com/track/0pJRIgIzSZq1xFEtGnACG2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:14 |
 | 33 | [Rutas](https://open.spotify.com/track/5DOYgPZq11EUB4T4DxNWvK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Rutas](https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd) | 4:16 |
 | 34 | [Simplemente](https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:15 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 48 | [Haz el Amor](https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:32 |
 | 49 | [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 |
 
-Snapshot ID: `aCUugAAAAABLg0oqFsOQii9t5/HIE/o4`
+Snapshot ID: `aCaAAAAAAABBYNJY2GBuwcuNOBhBNK+n`

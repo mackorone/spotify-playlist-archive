@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,296 likes - 137 songs - 7 hr 28 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,301 likes - 137 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 21 | [RUB DUB](https://open.spotify.com/track/4lxoJOaToAGcNDvuOnVtNk) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [CA$HED UP](https://open.spotify.com/album/2mKQPM2PzMEZDvAN9nuFnC) | 3:48 |
 | 22 | [Isso](https://open.spotify.com/track/0IKjSt4MiTBvC0ogVKgBJC) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [MC Pânico](https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr) | [Isso](https://open.spotify.com/album/0hyAgPcABjcgMCV7WNw1E3) | 3:12 |
 | 23 | [Brain Tickler \- So Sus Remix](https://open.spotify.com/track/72iMCaYOm2j8g4SbVGvisg) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A) | [Brain Tickler \(Remixes\)](https://open.spotify.com/album/11a7tckLKZd11ANyeYV10h) | 2:39 |
-| 24 | [Sensory](https://open.spotify.com/track/3IyPYus8ipUwHhNg4ukH2p) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm) | [Sensory](https://open.spotify.com/album/77M2jO3hJyh7elt1KYDJSV) | 2:57 |
+| 24 | [Sensory](https://open.spotify.com/track/3IyPYus8ipUwHhNg4ukH2p) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm) | [XTC](https://open.spotify.com/album/77M2jO3hJyh7elt1KYDJSV) | 2:57 |
 | 25 | [Let's Get Used](https://open.spotify.com/track/1klFcXa2McpHASwTWZbSsy) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Let's Get Used](https://open.spotify.com/album/4uDerSjnA1b8NjBLOemzE3) | 3:25 |
 | 26 | [dawn](https://open.spotify.com/track/58On2MZgoZRTshkTfRR5bf) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK), [JPKy](https://open.spotify.com/artist/5maWrDMqF4ETNrUKBx2RFl) | [Liminal](https://open.spotify.com/album/1lA23sSK9ZH7n9bzP9vKbt) | 2:50 |
 | 27 | [Kindred \- Kelbin Remix](https://open.spotify.com/track/3jq2uEWzbRtoMqkUDpCC76) | [Sasha Rome](https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Kindred \(Kelbin Remix\)](https://open.spotify.com/album/0NflNURyHLiS8O3qcZBkIz) | 5:02 |

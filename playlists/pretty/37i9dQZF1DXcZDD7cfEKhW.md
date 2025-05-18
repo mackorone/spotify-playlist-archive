@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,088,941 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,088,801 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 70 | [Numb \- Alok Remix](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Numb \(Alok Remix\)](https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf) | 2:52 |
 | 71 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
 | 72 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 |
-| 73 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 |
+| 73 | [Eyes Closed \- Lost Frequencies Remix](https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Eyes Closed \(Lost Frequencies Remix\)](https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy) | 2:59 |
 | 74 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 |
 | 75 | [I Love It \(feat\. Charli XCX\) \- I Don’t Care 2022 Re\-Edit](https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\) \[I Don’t Care 2022 Re\-Edit\]](https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq) | 2:32 |
 

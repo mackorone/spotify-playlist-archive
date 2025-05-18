@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-244 songs - 14 hr 37 min
+245 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 | 2021-12-17 |  |
 | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT) | 3:19 | 2022-05-23 |  |
 | [Doo Wop \(That Thing\) \- Edit](https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [R&B \- 100 Hits \- The Greatest R n B album \- 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake](https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm) | 4:00 | 2021-12-17 | 2025-03-01 |
+| [Everybody Gets Down](https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Everybody Gets Down](https://open.spotify.com/album/2itGQCqttw47maPiLdncOM) | 2:41 | 2025-05-16 |  |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2021-12-17 |  |
 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 | 2024-03-22 |  |
 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 | 2021-12-17 |  |
@@ -215,7 +216,7 @@
 | [Survivor](https://open.spotify.com/track/0F3x9xMw5t3E9n9cyOD0wo) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Voices](https://open.spotify.com/album/1ujr3fqZMLSgsrR8vuv5LV) | 4:14 | 2022-08-02 | 2022-11-13 |
 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 | 2022-05-23 | 2024-04-19 |
 | [Survivor](https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294) | 4:14 | 2021-12-17 |  |
-| [Tadow \- Edit](https://open.spotify.com/track/5RgNhmyaWYtuIioRVoQzMR) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/5JCPRHXnXWoyjcVxwpIzLt) | 3:34 | 2024-03-22 |  |
+| [Tadow \- Edit](https://open.spotify.com/track/5RgNhmyaWYtuIioRVoQzMR) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/5JCPRHXnXWoyjcVxwpIzLt) | 3:34 | 2024-03-22 | 2025-05-18 |
 | [Take Control](https://open.spotify.com/track/7gnpQmTKpRRAXtldc7NNGB) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Because I Love It](https://open.spotify.com/album/7ckL17qHWxFzPdp6DlnW0M) | 3:41 | 2021-12-17 | 2022-02-03 |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2021-12-17 |  |
 | [The One \- Main](https://open.spotify.com/track/3h3GCDFiFOdLu3aKGF48tU) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The One](https://open.spotify.com/album/7GXpfuIGY411TO168GbVyf) | 3:29 | 2021-12-17 | 2023-07-15 |

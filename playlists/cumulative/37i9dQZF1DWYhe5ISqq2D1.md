@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 眞名子新
 
-628 songs - 1 day 15 hr 52 min
+629 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Luciférine](https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luciférine](https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4) | 5:01 | 2024-11-13 | 2025-01-22 |
 | [lukewarm wind](https://open.spotify.com/track/0Qx0eBmLsBVyRBAyoXyzT1) | [Hiraku Yoshimura](https://open.spotify.com/artist/0jcXXzmFqegqOKlXPpZCTq) | [lukewarm wind](https://open.spotify.com/album/3OhFlMd8ty0PWJmec0LgkO) | 3:39 | 2025-03-18 | 2025-03-26 |
 | [Machi....](https://open.spotify.com/track/7ENZ2lMGtjNgyN0cHVEJZz) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Machi....](https://open.spotify.com/album/1xp7bm3K4XSdqWG7ZVHTn7) | 6:25 | 2024-12-10 | 2025-03-26 |
+| [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 |  |
 | [Maps to the stars](https://open.spotify.com/track/01M32J6u1o0uQpya6GbEn9) | [Loupx garoux](https://open.spotify.com/artist/59Rp7Pu3sKPJS4sZKZOv3N) | [暗野](https://open.spotify.com/album/787KBEtjeZGV6lEcrgLnJp) | 5:14 | 2024-10-01 | 2024-11-20 |
 | [Maria](https://open.spotify.com/track/18VuhHFkLgezrogT72sCfi) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Maria](https://open.spotify.com/album/3cYcU11gO5RAyMj8w60YR2) | 3:02 | 2025-04-08 | 2025-04-16 |
 | [marriage](https://open.spotify.com/track/4dzBSK1zA7EQ4VBIOLEUUR) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [marriage](https://open.spotify.com/album/4z8FkDkZVgRa9qDtDoRVMu) | 3:45 | 2025-03-25 | 2025-04-02 |
@@ -429,7 +430,7 @@
 | [モルト](https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [モルト](https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy) | 2:29 | 2025-02-04 |  |
 | [ユニーク](https://open.spotify.com/track/3606lmQ20hiNNkU48a6P0Z) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [インターセクション](https://open.spotify.com/album/4SvOsDHXrcQcZ0U0pdGaob) | 2:47 | 2025-04-08 | 2025-04-16 |
 | [ユーモア](https://open.spotify.com/track/11PjPUWOqFDsuMllKqGZsB) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ユーモア](https://open.spotify.com/album/2eHiBlntcUdCv5nGbGv8Vm) | 4:27 | 2025-02-18 |  |
-| [ライフスタイル](https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [元気でいてね。](https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x) | 2:49 | 2024-11-05 |  |
+| [ライフスタイル](https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [元気でいてね。](https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x) | 2:49 | 2024-11-05 | 2025-05-18 |
 | [ラジオ](https://open.spotify.com/track/0emSoLWPfSLPZsxIwAOFpU) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ラジオ](https://open.spotify.com/album/3CwuCNP2CleLnFZaYLoLm8) | 2:34 | 2025-02-18 | 2025-02-26 |
 | [ラストティーン](https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ラストティーン](https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK) | 3:38 | 2025-01-07 |  |
 | [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:38 | 2024-07-09 | 2024-12-25 |

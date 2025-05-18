@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: ROSIE
 
-894 songs - 2 day 1 hr 15 min
+896 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-12-16 | 2024-04-19 |
 | [don't you have to go?](https://open.spotify.com/track/28ePWE3Y4yd9cmSjLLmycI) | [Jonny West](https://open.spotify.com/artist/3WZbnaao6ao4diqMVvDJXk) | [don't you have to go?](https://open.spotify.com/album/0SQbywgSzeLanGJs1qAcxT) | 4:27 | 2022-02-11 | 2022-03-09 |
 | [Don’t Leave Me Behind](https://open.spotify.com/track/4jyjUMIYaarfo4ap7WNFbF) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Don’t Leave Me Behind](https://open.spotify.com/album/0Ebgv83fShHQoAT9KRgO46) | 3:03 | 2023-12-08 | 2024-01-13 |
+| [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-16 |  |
 | [Doppelgänger](https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Doppelgänger](https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc) | 3:14 | 2022-02-25 | 2022-10-22 |
 | [Double Casket](https://open.spotify.com/track/7rR24CWfEpO61fjSicHQfv) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [Double Casket](https://open.spotify.com/album/2KREFkBR5HsPSEoAt2ECLx) | 2:41 | 2024-10-04 | 2024-10-12 |
 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-09 |  |
@@ -201,7 +202,7 @@
 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 | 2022-09-23 | 2023-05-27 |
 | [Drop Dead](https://open.spotify.com/track/3i4CFXy3ezQZEt8V0GA7Uh) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Drop Dead](https://open.spotify.com/album/2WxwbxrV7YRjWfM64hXbNR) | 2:57 | 2021-12-17 | 2022-01-16 |
 | [Drowning](https://open.spotify.com/track/4mXPA7pFHil9wtWk6LaGmT) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Drowning](https://open.spotify.com/album/0ajrIRYzVQ3srvWYtlWOp5) | 2:43 | 2022-02-11 | 2022-03-18 |
-| [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2023-01-28 |  |
+| [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2023-01-28 | 2025-05-18 |
 | [drunk text](https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:07 | 2024-01-12 | 2024-04-19 |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-01-07 | 2025-05-10 |
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-07-22 | 2024-04-19 |
@@ -469,6 +470,7 @@
 | [Kryptonite](https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Kryptonite](https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0) | 3:03 | 2023-03-31 | 2023-09-07 |
 | [LA](https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [LA](https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH) | 3:20 | 2024-03-29 | 2024-04-13 |
 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 | 2024-01-26 |  |
+| [Last Time \- Acoustic](https://open.spotify.com/track/54u4wxyfvWnAIdSs0HIvsm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time \(Acoustic\)](https://open.spotify.com/album/2DlqdE27WObFru19qf8fvU) | 3:43 | 2025-05-17 |  |
 | [Last Train To London](https://open.spotify.com/track/7djOJmSvxXtq0Q49iC9qsX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 3:47 | 2023-03-03 | 2023-04-29 |
 | [Last Train To London \(I Won't Look Back\)](https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0) | 3:52 | 2023-04-28 | 2023-07-19 |
 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2021-12-17 | 2022-12-28 |
@@ -530,7 +532,7 @@
 | [Magazines](https://open.spotify.com/track/5WBJ8Cds7nAFH6olYdHbqY) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [to anyone who cares](https://open.spotify.com/album/4Y0MTpdftG5fN5RKV2Idwv) | 3:12 | 2022-04-01 | 2022-04-21 |
 | [Make It Better](https://open.spotify.com/track/3r1OdtQItTfevhFgq5poAA) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Make It Better](https://open.spotify.com/album/19CEHgRVWSXPge6PVN9t4L) | 3:36 | 2024-10-11 | 2024-10-19 |
 | [Make It To Me](https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 2:42 | 2023-09-29 | 2024-04-19 |
-| [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2021-12-17 |  |
+| [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2021-12-17 | 2025-05-18 |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2021-12-17 | 2022-10-22 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-20 |  |
 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 | 2022-10-22 |

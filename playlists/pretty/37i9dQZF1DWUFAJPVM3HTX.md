@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs?si=n\_R64Y\_HT9mjQOxUm8Ig5A"> Asiahn</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,102 likes - 434 songs - 21 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,141 likes - 434 songs - 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

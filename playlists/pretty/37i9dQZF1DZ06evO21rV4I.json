@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 153063,
+  "num_followers": 153120,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAjYZ0wtISioOlSbSbaox6k",
+  "snapshot_id": "aCaAAAAAAAAJYBXr6c80MgcqyphAgUsU",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": null,
@@ -983,26 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoundMan Vol. 1",
-        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
       },
       "artists": [
         {
-          "name": "StarBoy",
-          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "London",
-          "url": "https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW"
         }
       ],
-      "duration_ms": 178775,
-      "name": "Electric (feat. Wizkid & London)",
-      "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
+      "duration_ms": 183745,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
     },
     {
       "added_at": null,
@@ -1023,22 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
       "artists": [
         {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "London",
+          "url": "https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW"
         }
       ],
-      "duration_ms": 183745,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
+      "duration_ms": 178775,
+      "name": "Electric (feat. Wizkid & London)",
+      "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
     }
   ],
   "unique_name": "This Is Wizkid",

@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-89 songs - 4 hr 34 min
+91 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Hip 2 Da Game \- Instrumental](https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening \[25th Anniversary \(Remaster\)\]](https://open.spotify.com/album/43t9Lys7dVlwBeQQ5Hmf1q) | 4:03 | 2024-06-24 |  |
 | [How High \- Instrumental](https://open.spotify.com/track/4HGXJaw3H9ED4ACfYd6ZhV) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [How High](https://open.spotify.com/album/4qlXsDXdQMHdWWZzqf6Hzm) | 3:49 | 2025-02-07 |  |
 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 | 2024-06-24 |  |
+| [Interdimensional wanderer](https://open.spotify.com/track/4A4GFlRkIFMSN9NFSmOUHj) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Bloodmasta Cut](https://open.spotify.com/artist/2rh01sSbOkGqeTUDKunM25) | [Jazzy Village Vol\. 5](https://open.spotify.com/album/7Kaew2YGX6aG17pjNavbrH) | 2:38 | 2025-05-17 |  |
 | [It's A Party \(Instrumental\)](https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko) | 4:40 | 2024-06-24 |  |
 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 | 2025-02-07 |  |
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2024-06-24 |  |
@@ -89,6 +90,7 @@
 | [The Honeydipper \- Bonus Instrumental](https://open.spotify.com/track/0RtfemNYgGzKUESWJjayOR) | [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [Glasklar](https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb) | 2:49 | 2024-06-26 |  |
 | [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 | 2024-06-24 |  |
 | [The World Is Yours](https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV) | [Will Sessions](https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB) | [The Elmatic Instrumentals](https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo) | 4:55 | 2024-06-24 |  |
+| [Time Essence](https://open.spotify.com/track/768uTULVqsrbp2wsnFiyKn) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Time Essence](https://open.spotify.com/album/3jy7afj29aAdKnPbueckoq) | 3:01 | 2025-05-17 |  |
 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 | 2024-06-24 |  |
 | [Tour Stories \- Instrumental](https://open.spotify.com/track/71UYIUEqgChcl8gBAOrrGI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [Tour Stories](https://open.spotify.com/album/5x2FrDwXcD3rftOgRxCjmW) | 4:45 | 2025-02-07 |  |
 | [Traffic Lights](https://open.spotify.com/track/4OZIK5553fVfj68nP7fiMQ) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Cassette Sound](https://open.spotify.com/album/4rvr89nsFSzdMyCrC1rMyg) | 1:45 | 2024-06-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring BORJA & Greeicy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972,250 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,972,131 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [La Nena](https://open.spotify.com/track/4aR1PWvBRZTJ417mf8Eib3) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Nena](https://open.spotify.com/album/65MahQD30Fr4WuANjeBQs5) | 2:58 |
 | 50 | [El Amigo](https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [El Amigo](https://open.spotify.com/album/6OySc3pqPzPDePgD017baK) | 3:09 |
 
-Snapshot ID: `aB191gAAAACFOVs21oYKytpo+S084y0y`
+Snapshot ID: `aB191gAAAAARKF40fOzmOa0A1n2aHkeY`

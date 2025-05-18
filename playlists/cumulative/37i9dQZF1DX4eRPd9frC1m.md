@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-417 songs - 22 hr 36 min
+418 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Assault](https://open.spotify.com/track/4SbMVULuT6l7iN7d40PCNJ) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Assault](https://open.spotify.com/album/0qTtqa02EU5tpRhVNMek92) | 4:44 | 2022-01-07 | 2022-06-16 |
 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 | 2023-09-15 | 2025-04-07 |
 | [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 | 2021-11-19 | 2024-05-11 |
-| [At Night](https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [At Night](https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07) | 2:50 | 2025-01-24 |  |
+| [At Night](https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [At Night](https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07) | 2:50 | 2025-01-24 | 2025-05-18 |
 | [ATTACK](https://open.spotify.com/track/4beNkkRzwv01XhAyp2OiI1) | [AG](https://open.spotify.com/artist/3HKUrC0erAdewcUeSKLzT8), [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [ATTACK](https://open.spotify.com/album/5li6myKWhrO3iyUlyi5pXR) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Attention](https://open.spotify.com/track/1ouitWGWGsCbvlpNCbUA4b) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [Duality](https://open.spotify.com/album/3CrcABa7dWIH4Oxdb0H48Z) | 2:50 | 2022-04-29 | 2022-05-07 |
 | [Back It Up](https://open.spotify.com/track/0OsIIjUneF8iZk5QULuEzk) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:40 | 2021-11-19 | 2022-01-08 |
@@ -154,6 +154,7 @@
 | [HAPPY SONG](https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [HAPPY SONG](https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6) | 3:47 | 2023-08-18 | 2023-09-10 |
 | [Harsh](https://open.spotify.com/track/4dZpVthxO7J7f7RHCdfSXP) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Red Hood Squad](https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn) | [Harsh](https://open.spotify.com/album/6uuJWGvPodKtM29QgZBoNu) | 3:56 | 2022-02-04 | 2022-07-29 |
 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 | 2024-07-12 | 2025-01-19 |
+| [Head Banger](https://open.spotify.com/track/6QxZiw8PpWCH1w5Hg3233x) | [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Head Banger](https://open.spotify.com/album/4nzDinBKYwN8dWjlq4P9uj) | 2:48 | 2025-05-16 |  |
 | [Heads Or Tails](https://open.spotify.com/track/2o5GJ6ODpzswofGKNI2ZYv) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Heads or Tails](https://open.spotify.com/album/2Vwyw648RQRBunjOXcG6oW) | 3:47 | 2021-11-19 | 2022-01-08 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-05-26 | 2024-12-21 |
 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 | 2021-11-19 | 2022-08-27 |

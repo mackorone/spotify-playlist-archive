@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-576 songs - 1 day 9 hr 13 min
+577 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 | 2024-11-14 |
 | [What We Had](https://open.spotify.com/track/77bNzHFSySgW4GgkYaJs8x) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:58 | 2025-04-15 | 2025-05-09 |
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |
+| [When You Love Someone](https://open.spotify.com/track/37LXvMkc6YhGGEoTQn6CHi) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 7:11 | 2025-05-17 |  |
 | [Where's Bill Grundy Now?](https://open.spotify.com/track/5BuwHy2cxsCEZWrqogTuFr) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [Yes Darling, But Is It Art](https://open.spotify.com/album/4Eoo1HxRn7hPV6BDSNoA9e) | 2:16 | 2024-01-22 | 2024-03-10 |
 | [Whirlweek](https://open.spotify.com/track/6O7wJ5qyIeiBwCzbepuYnK) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [The Spectrum Between](https://open.spotify.com/album/5WhrK9nlsdcle9fGCLvE3I) | 4:35 | 2024-08-10 | 2024-09-08 |
 | [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 | 2024-11-18 | 2025-01-12 |

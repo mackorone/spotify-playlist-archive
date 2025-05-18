@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: schafter",
-  "num_followers": 18883,
+  "num_followers": 18897,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "TRYB SPORTH",
+        "url": "https://open.spotify.com/album/6lAuXrWaQ9L6yw5mr725Lz"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        },
+        {
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Loth",
+      "url": "https://open.spotify.com/track/01jQGw3iWmLOpAgpDxwqo8"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "TREBUSZ",
         "url": "https://open.spotify.com/album/3AEVJWwT4m2TIzg6MjcsX4"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 200040,
       "name": "TREBUSZ: RZUCAM KAMIENIE",
       "url": "https://open.spotify.com/track/7802miaqccUHlUH659znra"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "TRYB SPORTH",
-        "url": "https://open.spotify.com/album/6lAuXrWaQ9L6yw5mr725Lz"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        },
-        {
-          "name": "PlanBe",
-          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Loth",
-      "url": "https://open.spotify.com/track/01jQGw3iWmLOpAgpDxwqo8"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "TEQUILA I BILARD",
-        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
-      },
-      "artists": [
-        {
-          "name": "Kaespen",
-          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
-        }
-      ],
-      "duration_ms": 200111,
-      "name": "TEQUILA I BILARD",
-      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "MUSZ\u0118 ZAWIJA\u0106",
         "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 136630,
       "name": "MUSZ\u0118 ZAWIJA\u0106",
       "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "TEQUILA I BILARD",
+        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
+      },
+      "artists": [
+        {
+          "name": "Kaespen",
+          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
+        }
+      ],
+      "duration_ms": 200111,
+      "name": "TEQUILA I BILARD",
+      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1451,6 +1451,30 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "NOWY WOKAL",
+        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
+      },
+      "artists": [
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "NOWY WOKAL",
+      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "WE ALL ARE FCKED UP",
         "url": "https://open.spotify.com/album/1aROBOCJ6LtbTorlXG0oJd"
       },
@@ -1487,26 +1511,6 @@
       "duration_ms": 135857,
       "name": "WE ALL ARE FCKED UP",
       "url": "https://open.spotify.com/track/3yK3nm8J37ICtkVnZHq4Qf"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1fc9SsybfeKZtA802PLKv3"
-      },
-      "artists": [
-        {
-          "name": "asthma",
-          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
-        },
-        {
-          "name": "Wuja HZG",
-          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
-        }
-      ],
-      "duration_ms": 145238,
-      "name": "AURA",
-      "url": "https://open.spotify.com/track/7FLuRe3FYGPXdSFJGjli6N"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1551,6 +1555,50 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1fc9SsybfeKZtA802PLKv3"
+      },
+      "artists": [
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        },
+        {
+          "name": "Wuja HZG",
+          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
+        }
+      ],
+      "duration_ms": 145238,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/7FLuRe3FYGPXdSFJGjli6N"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "OPTYMALNIE!",
+        "url": "https://open.spotify.com/album/73EPsecu01f0LLPTNYHyTX"
+      },
+      "artists": [
+        {
+          "name": "Kajuu",
+          "url": "https://open.spotify.com/artist/4BbyQCTFqk9nDIly24niNw"
+        },
+        {
+          "name": "TONY2000",
+          "url": "https://open.spotify.com/artist/50DZAA9breZ3OYHSgXd5Yp"
+        },
+        {
+          "name": "Bufu",
+          "url": "https://open.spotify.com/artist/3cBVvhuwwURFlIcWjR1TIa"
+        }
+      ],
+      "duration_ms": 165416,
+      "name": "OPTYMALNIE!",
+      "url": "https://open.spotify.com/track/2wLhIwIq9z6zCb6xczbjQu"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "Pr\u0105d",
         "url": "https://open.spotify.com/album/6AMo4jcotzw3BCrWTgXEWj"
       },
@@ -1567,30 +1615,6 @@
       "duration_ms": 155324,
       "name": "Pr\u0105d",
       "url": "https://open.spotify.com/track/6NN7OZSXGqxIxV40JsbNAr"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "NOWY WOKAL",
-        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
-      },
-      "artists": [
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "NOWY WOKAL",
-      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1731,26 +1755,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Zawi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/1CM6cpBFkQXd1vwVYD7sxz"
-      },
-      "artists": [
-        {
-          "name": "Hanka \u0141ubie\u0144ska",
-          "url": "https://open.spotify.com/artist/4AjOhD6PrIv7upuWscLRGI"
-        },
-        {
-          "name": "Przyborowski",
-          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
-        }
-      ],
-      "duration_ms": 207078,
-      "name": "Zawi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/1RkQUsBoaeOHx080M1ids8"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
         "url": "https://open.spotify.com/album/0WnuRxkxLdbLVmUOwl2Rkb"
       },
@@ -1783,6 +1787,26 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "Zawi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/1CM6cpBFkQXd1vwVYD7sxz"
+      },
+      "artists": [
+        {
+          "name": "Hanka \u0141ubie\u0144ska",
+          "url": "https://open.spotify.com/artist/4AjOhD6PrIv7upuWscLRGI"
+        },
+        {
+          "name": "Przyborowski",
+          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
+        }
+      ],
+      "duration_ms": 207078,
+      "name": "Zawi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1RkQUsBoaeOHx080M1ids8"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "Z\u0142ota Rybka EP",
         "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
       },
@@ -1807,22 +1831,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "PIEK\u0141O DLA DJ\u00d3W",
-        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 129520,
-      "name": "PIEK\u0141O DLA DJ\u00d3W",
-      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "Strach",
         "url": "https://open.spotify.com/album/6lEC7jalZkPqTxohKnnH4p"
       },
@@ -1843,8 +1851,8 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "JORDAN PEELE",
-        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
+        "name": "WEMBY",
+        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
       },
       "artists": [
         {
@@ -1852,9 +1860,25 @@
           "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
         }
       ],
-      "duration_ms": 183455,
-      "name": "JORDAN PEELE",
-      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
+      "duration_ms": 168837,
+      "name": "WEMBY",
+      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "PIEK\u0141O DLA DJ\u00d3W",
+        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 129520,
+      "name": "PIEK\u0141O DLA DJ\u00d3W",
+      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1975,6 +1999,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "Cze\u015b\u0107, powiedzie\u0107",
+        "url": "https://open.spotify.com/album/0AcRTNjyKs2z0rHjCCLaTR"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        }
+      ],
+      "duration_ms": 210526,
+      "name": "Cze\u015b\u0107, powiedzie\u0107",
+      "url": "https://open.spotify.com/track/2kqFsOcmCgj6sheXRDLD77"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "CHRUST",
         "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
       },
@@ -1995,26 +2035,34 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "OPTYMALNIE!",
-        "url": "https://open.spotify.com/album/73EPsecu01f0LLPTNYHyTX"
+        "name": "JORDAN PEELE",
+        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
       },
       "artists": [
         {
-          "name": "Kajuu",
-          "url": "https://open.spotify.com/artist/4BbyQCTFqk9nDIly24niNw"
-        },
-        {
-          "name": "TONY2000",
-          "url": "https://open.spotify.com/artist/50DZAA9breZ3OYHSgXd5Yp"
-        },
-        {
-          "name": "Bufu",
-          "url": "https://open.spotify.com/artist/3cBVvhuwwURFlIcWjR1TIa"
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
         }
       ],
-      "duration_ms": 165416,
-      "name": "OPTYMALNIE!",
-      "url": "https://open.spotify.com/track/2wLhIwIq9z6zCb6xczbjQu"
+      "duration_ms": 183455,
+      "name": "JORDAN PEELE",
+      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "AEIOUY",
+        "url": "https://open.spotify.com/album/3Ce4FIXmAUvAo2DtwwTdEA"
+      },
+      "artists": [
+        {
+          "name": "KiNi",
+          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
+        }
+      ],
+      "duration_ms": 124665,
+      "name": "AEIOUY",
+      "url": "https://open.spotify.com/track/48O8c0hzKbZp1fQ87Ga4Mm"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -2035,22 +2083,6 @@
       "duration_ms": 157714,
       "name": "OA",
       "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "WEMBY",
-        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
-      },
-      "artists": [
-        {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
-        }
-      ],
-      "duration_ms": 168837,
-      "name": "WEMBY",
-      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -2115,22 +2147,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "AEIOUY",
-        "url": "https://open.spotify.com/album/3Ce4FIXmAUvAo2DtwwTdEA"
-      },
-      "artists": [
-        {
-          "name": "KiNi",
-          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
-        }
-      ],
-      "duration_ms": 124665,
-      "name": "AEIOUY",
-      "url": "https://open.spotify.com/track/48O8c0hzKbZp1fQ87Ga4Mm"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "NINJA",
         "url": "https://open.spotify.com/album/6a3qB22v0X57DTA1gl9nwD"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 228780,
       "name": "BABEL",
       "url": "https://open.spotify.com/track/4sjgLBdo6735JMa2JJloOD"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "Cze\u015b\u0107, powiedzie\u0107",
-        "url": "https://open.spotify.com/album/0AcRTNjyKs2z0rHjCCLaTR"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Cze\u015b\u0107, powiedzie\u0107",
-      "url": "https://open.spotify.com/track/2kqFsOcmCgj6sheXRDLD77"
     }
   ],
   "unique_name": "alt rap",

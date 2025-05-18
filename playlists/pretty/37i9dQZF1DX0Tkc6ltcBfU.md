@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Bossman Dlow and Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,631 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,691 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 11 | [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 |
 | 12 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
 | 13 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
-| 14 | [Don't Hold the Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold the Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 |
+| 14 | [Don't Hold The Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold The Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 |
 | 15 | [Blue Devil](https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:19 |
 | 16 | [BBGIRLGOSLOW](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BBGIRLGOSLOW](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
 | 17 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |

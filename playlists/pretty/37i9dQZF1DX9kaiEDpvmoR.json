@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93350,
+  "num_followers": 93356,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Rain in the River",
-        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Rain in the River",
-      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Innan kronan blir f\u00f6r tung",
-        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 233726,
-      "name": "Djungeltelegrafen",
-      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "Faithless",
         "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 231880,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "Innan kronan blir f\u00f6r tung",
+        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 233726,
+      "name": "Djungeltelegrafen",
+      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
-      },
-      "artists": [
-        {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "Swan Song",
         "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Hem till Dalarna",
-        "url": "https://open.spotify.com/album/3gEKKDGJxBp3ZKKtzaoNKU"
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
       "artists": [
         {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
         }
       ],
-      "duration_ms": 281776,
-      "name": "Hem till Dalarna",
-      "url": "https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D"
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -643,6 +627,22 @@
       "duration_ms": 195113,
       "name": "Dansa i neon",
       "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "Hem till Dalarna",
+        "url": "https://open.spotify.com/album/3gEKKDGJxBp3ZKKtzaoNKU"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        }
+      ],
+      "duration_ms": 281776,
+      "name": "Hem till Dalarna",
+      "url": "https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Uteblivna vi",
-        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 362920,
-      "name": "Uteblivna vi",
-      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "Psalmer fr\u00e5n sjunde himlen",
         "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
       },
@@ -727,34 +711,34 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
       },
       "artists": [
         {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
         }
       ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
+      "duration_ms": 213774,
+      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
     },
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Solens alla \u00e4nglar",
-        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
+        "name": "Uteblivna vi",
+        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
       "artists": [
         {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 257359,
-      "name": "Solens alla \u00e4nglar",
-      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
+      "duration_ms": 362920,
+      "name": "Uteblivna vi",
+      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -791,34 +775,50 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
       },
       "artists": [
         {
-          "name": "Nationalteatern",
-          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
+        "name": "Solens alla \u00e4nglar",
+        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
       },
       "artists": [
         {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
         }
       ],
-      "duration_ms": 188601,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+      "duration_ms": 257359,
+      "name": "Solens alla \u00e4nglar",
+      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "En sommar utan dig",
+        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
+      },
+      "artists": [
+        {
+          "name": "Andreas Leksell",
+          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
+        }
+      ],
+      "duration_ms": 189593,
+      "name": "En sommar utan dig",
+      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -839,18 +839,34 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "En sommar utan dig",
-        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
       },
       "artists": [
         {
-          "name": "Andreas Leksell",
-          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 189593,
-      "name": "En sommar utan dig",
-      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
+      "duration_ms": 188601,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -883,22 +899,6 @@
       "duration_ms": 227654,
       "name": "What I'm Running From",
       "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Spin The Bottle",
-        "url": "https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Spin The Bottle",
-      "url": "https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "Dagar utan slut",
         "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 162332,
       "name": "Dagar utan slut",
       "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "Spin The Bottle",
+        "url": "https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Spin The Bottle",
+      "url": "https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "BRA",
+        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
+      },
+      "artists": [
+        {
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+        }
+      ],
+      "duration_ms": 163005,
+      "name": "BRA",
+      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
         "url": "https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 207184,
       "name": "Country Tack Vare Er",
       "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "BRA",
-        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
-      },
-      "artists": [
-        {
-          "name": "Di Leva",
-          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
-        }
-      ],
-      "duration_ms": 163005,
-      "name": "BRA",
-      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Vita Skelett",
-        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 183086,
-      "name": "Spartas Svarta Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Via Dolorosa",
-        "url": "https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Via Dolorosa",
-      "url": "https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "High When You Hold Me",
         "url": "https://open.spotify.com/album/132pqgouof5WFyqFKNBgYV"
       },
@@ -1375,18 +1343,18 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Caught Me On A Bad Day",
-        "url": "https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo"
+        "name": "Vita Skelett",
+        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
       },
       "artists": [
         {
-          "name": "Martin Almgren",
-          "url": "https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G"
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
         }
       ],
-      "duration_ms": 272980,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4"
+      "duration_ms": 183086,
+      "name": "Spartas Svarta Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1407,6 +1375,38 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Caught Me On A Bad Day",
+        "url": "https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo"
+      },
+      "artists": [
+        {
+          "name": "Martin Almgren",
+          "url": "https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G"
+        }
+      ],
+      "duration_ms": 272980,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "Via Dolorosa",
+        "url": "https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Via Dolorosa",
+      "url": "https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "Could've Been Us",
         "url": "https://open.spotify.com/album/1QaMWQ3R86lGcN9OaFm7ad"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 188076,
       "name": "Could've Been Us",
       "url": "https://open.spotify.com/track/5pOe7jQSrMJCbQ1kI6V0Fu"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Allting blir bra",
-        "url": "https://open.spotify.com/album/6zemClBcSflGzjqB8K2LYR"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norberg",
-          "url": "https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "Allting blir bra",
-      "url": "https://open.spotify.com/track/4FweMnXDJSEs6tciVzBerT"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Allting blir bra",
+        "url": "https://open.spotify.com/album/6zemClBcSflGzjqB8K2LYR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norberg",
+          "url": "https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "Allting blir bra",
+      "url": "https://open.spotify.com/track/4FweMnXDJSEs6tciVzBerT"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "Eljest",
         "url": "https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG"
       },
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Whiskey Tears II",
-        "url": "https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2"
+        "name": "Nattvarden",
+        "url": "https://open.spotify.com/album/2AwHOKdct7NhCOyvVLeczR"
       },
       "artists": [
         {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Whiskey Tears II",
-      "url": "https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2"
+      "duration_ms": 272280,
+      "name": "Nattvarden",
+      "url": "https://open.spotify.com/track/1IjMd90FeQohKCBHQw51DE"
     }
   ],
   "unique_name": "Aktuellt",

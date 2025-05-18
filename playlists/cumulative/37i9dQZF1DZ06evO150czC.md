@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 47 min
+69 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Quando o Vento Soprar \(Legado\)](https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9) | [Beno César](https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Quando o Vento Soprar \(Legado\)](https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY) | 4:22 | 2024-06-09 |  |
 | [Que Tal](https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Voar](https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7) | 5:09 | 2023-07-09 |  |
 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 | 2023-07-13 | 2023-11-11 |
-| [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 | 2023-07-09 |  |
+| [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 | 2023-07-09 | 2025-05-18 |
 | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y) | 4:31 | 2023-07-09 | 2024-10-26 |
 | [Sobrevivi \- Live MK 10 MI](https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sarah Farias \(Ao Vivo\) \- Live MK 10 MI](https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG) | 4:41 | 2023-07-09 |  |
 | [Soldado Ferido](https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:26 | 2023-07-09 |  |
@@ -67,6 +67,7 @@
 | [Todavia me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 5:52 | 2023-07-09 |  |
 | [Tua Sorte \(Ao Vivo\)](https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Tua Sorte \(Ao Vivo\)](https://open.spotify.com/album/24pLn2VLpannt8kUm86B8c) | 3:39 | 2024-10-17 |  |
 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 | 2023-07-09 |  |
+| [Um Novo Tempo](https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:00 | 2025-05-18 |  |
 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 | 2023-07-09 |  |
 | [Vai Ter vida Aí \(Ao Vivo\)](https://open.spotify.com/track/6bFbESO9nUiWkDY7iPJMRb) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/album/2SjA0yKEbiA7ygxYQZ2PF9) | 4:55 | 2024-05-07 | 2024-05-17 |
 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 | 2023-12-15 | 2025-01-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">New edition of our newsletter soon...</a> Cover: Jim\-E Stack, producer extraordinaire
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,130 likes - 128 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,120 likes - 128 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

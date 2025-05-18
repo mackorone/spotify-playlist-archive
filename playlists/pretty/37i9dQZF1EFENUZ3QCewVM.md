@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 117 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 436 likes - 117 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 94 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 |
 | 95 | [God is a giver](https://open.spotify.com/track/2hyc0SAKmETShHjD7e8rKW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:25 |
 | 96 | [Lipstick](https://open.spotify.com/track/4S47jwGhW1Of0vC1oFE1mM) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Lipstick](https://open.spotify.com/album/2c6RLdw7TrLrmEZv9UqupF) | 3:16 |
-| 97 | [Too Poor to Live in LA](https://open.spotify.com/track/4vkvvFmZsv5UP0tLNYX6V2) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:17 |
-| 98 | [French Toast](https://open.spotify.com/track/3VrwJhuhdlGsjjiW1daYAf) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [French Toast](https://open.spotify.com/album/5gfWsryAiCWQjbtUH0YbFL) | 3:13 |
+| 97 | [French Toast](https://open.spotify.com/track/3VrwJhuhdlGsjjiW1daYAf) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [French Toast](https://open.spotify.com/album/5gfWsryAiCWQjbtUH0YbFL) | 3:13 |
+| 98 | [Too Poor to Live in LA](https://open.spotify.com/track/4vkvvFmZsv5UP0tLNYX6V2) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:17 |
 | 99 | [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 |
 | 100 | [Same Song Forever](https://open.spotify.com/track/6ouDY72GdrsEXJvwlNToEt) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:27 |
 | 101 | [Things I'd Save In A Fire](https://open.spotify.com/track/33XEkt4Wo1YQGhEpilPDb6) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:52 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 116 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 117 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbxmSgAAAAA9uxChTZ3zoLsB9mQrXLUp`
+Snapshot ID: `Abxr6gAAAADzhdU0jvxvUxCl8Pw3HivY`

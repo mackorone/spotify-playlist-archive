@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > the golden era of r&b and hip\-hop\. cover: Brandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,750 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,067 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 74 | [Wait a Minute \(feat\. Lil' Kim\)](https://open.spotify.com/track/7xwFOVYwBuLvFquLyfooRp) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [This Ain't A Game](https://open.spotify.com/album/4cmmca5HU2WP9yIvErhnf6) | 3:47 |
 | 75 | [No More \(Baby I'ma Do Right\)](https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2) | [3LW](https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa) | [3LW](https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7) | 4:23 |
 
-Snapshot ID: `aBUMzwAAAADpONCn07NZV/XXVTdQxdMr`
+Snapshot ID: `aBUMzwAAAABHbEihqT69A/51G4zOJi8q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Hey, Yeat<br/>that's DOPE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,728 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,631 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

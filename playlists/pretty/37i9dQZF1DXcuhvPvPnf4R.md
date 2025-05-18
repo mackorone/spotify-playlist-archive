@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,643 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,647 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 11 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
 | 12 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
 | 13 | [Tambourine](https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Tambourine](https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK) | 3:12 |
-| 14 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
-| 15 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
+| 14 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
+| 15 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
 | 16 | [Guilty \(feat\. Barry Gibb\)](https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 4:24 |
 | 17 | [Get Money \(feat\. Junior M.A.F.I.A.\) \- 2007 Remaster](https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:34 |
 | 18 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 33 | [Mama Stay](https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Mama Stay](https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP) | 3:10 |
 | 34 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 4:36 |
 | 35 | [Ravers Gas](https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Ravers Gas \- Single](https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO) | 3:10 |
-| 36 | [She's All I Got \- Radio Edit](https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw) | [J\. Cozier](https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG) | [Jimmy Cozier](https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W) | 3:31 |
-| 37 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
+| 36 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
+| 37 | [She's All I Got \- Radio Edit](https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw) | [J\. Cozier](https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG) | [Jimmy Cozier](https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W) | 3:31 |
 | 38 | [Tables Will Turn](https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:32 |
 | 39 | [DON'T GO HUNGRY](https://open.spotify.com/track/6KxNnt4NVFyAk4MJveC133) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [BIG BAD...](https://open.spotify.com/album/0a1J2oCvOyL3lfqgG0ViyT) | 4:10 |
 | 40 | [Hop On](https://open.spotify.com/track/1F8xlznQgz0BKTXZpOXCwx) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Hop On](https://open.spotify.com/album/1bRNXuSz43dKGLF2EdkpY5) | 3:22 |

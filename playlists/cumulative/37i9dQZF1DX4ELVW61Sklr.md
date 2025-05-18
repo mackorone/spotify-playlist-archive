@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1st Noel](https://open.spotify.com/track/0DeRa19ZWpZoz69pb8GMT2) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 4:00 | 2021-12-15 | 2025-05-11 |
+| [1st Noel](https://open.spotify.com/track/0DeRa19ZWpZoz69pb8GMT2) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 4:00 | 2021-12-15 |  |
 | [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 | 2022-11-25 |  |
 | [A Timeless Christmas](https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [A Timeless Christmas](https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi) | 3:35 | 2023-12-08 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2022-11-25 |  |
@@ -143,7 +143,7 @@
 | [Someday At Christmas](https://open.spotify.com/track/2GQnHafw2F53REsJctsPCC) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Weihnachten 2020](https://open.spotify.com/album/2jM3hSRUb1U55ok8ad85tb) | 2:49 | 2021-12-15 | 2022-11-13 |
 | [Someday At Christmas](https://open.spotify.com/track/6VqLlCjW2IPuNWyVa6Ramd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Motown Christmas](https://open.spotify.com/album/109y0mnkGZAYVQNdT0SN3q) | 2:50 | 2021-12-15 |  |
 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 | 2021-12-15 |  |
-| [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 | 2022-11-25 |  |
+| [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 | 2022-11-25 | 2025-05-18 |
 | [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 | 2021-12-15 |  |
 | [Spiritual Gift](https://open.spotify.com/track/6RTBRgVvCFxFjtCq8Wfop3) | [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [The Warmest Winter Ever](https://open.spotify.com/album/5iN5Tb9XUier9cGO3ejzpR) | 3:07 | 2023-12-08 | 2024-12-01 |
 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 | 2022-11-25 |  |

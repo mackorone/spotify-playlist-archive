@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,754 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,806 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 4 | [Nobody Else But Me](https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 4:11 |
 | 5 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
 | 6 | [Come Rain Or Come Shine \(Take 5\)](https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 3:24 |
-| 7 | [When Your Lover Has Gone \- Instrumental](https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [2 Trumpets](https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN) | 5:10 |
-| 8 | [Louise](https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 6:47 |
+| 7 | [Louise](https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 6:47 |
+| 8 | [When Your Lover Has Gone \- Instrumental](https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [2 Trumpets](https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN) | 5:10 |
 | 9 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:46 |
 | 10 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 |
 | 11 | [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 |

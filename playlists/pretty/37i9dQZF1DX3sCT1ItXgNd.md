@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,353 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,172 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [haz lo que quieras conmigo](https://open.spotify.com/track/635oxQ6Vn3ynUUg6EfQKw9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [haz lo que quieras conmigo](https://open.spotify.com/album/6l369kFprCQHueQaZ3sBTQ) | 3:28 |
 | 50 | [te vas a inventar](https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [te vas a inventar](https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj) | 2:52 |
 
-Snapshot ID: `AAAAAPhf0GucG09wIz7eWEp66K3MMLa7`
+Snapshot ID: `aCPBKgAAAAA5i9cyVyrLQmYvVAypmd6u`

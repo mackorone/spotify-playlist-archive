@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/44aY7PghA7MIdWvwvgdfn6"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160867,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/10oBqwLXOzXYUWpqhODyN8"
+    },
+    {
+      "album": {
         "name": "Mexicano Hasta los Huesos",
         "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
       },
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 147235,
       "name": "Troca",
       "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Selin ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,899 likes - 91 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,938 likes - 91 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 19 | [Tokyo Drift](https://open.spotify.com/track/4JJHnAUadN1wxFNd4aFdQ3) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Tokyo Drift](https://open.spotify.com/album/7IcLVOHgtpuYBsJZ3ldH6L) | 3:08 |
 | 20 | [Wow](https://open.spotify.com/track/3YRJu4unaNFTWXPN46DvWa) | [TRAP ZONE](https://open.spotify.com/artist/2Rf5bF15wJxPz4LQatGKSt), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [TRAP ZONE](https://open.spotify.com/album/7AL4rusMDUiuGhwAplwvry) | 3:48 |
 | 21 | [cap](https://open.spotify.com/track/4rSewlvFCdr4oUgzsb4jXr) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [cap](https://open.spotify.com/album/4RBRjv3WfnRvoVZIthoVmn) | 2:03 |
-| 22 | [Yıllar Sonra](https://open.spotify.com/track/4Y9Hzt4ipg93gI0TBtd6wu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Yıllar Sonra](https://open.spotify.com/album/1CID1w6oG6Xry9GjBg0W1Z) | 2:27 |
+| 22 | [Yıllar Sonra](https://open.spotify.com/track/4Y9Hzt4ipg93gI0TBtd6wu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Yıllar Sonra](https://open.spotify.com/album/1CID1w6oG6Xry9GjBg0W1Z) | 2:13 |
 | 23 | [Yeniden Sevmek](https://open.spotify.com/track/5si5NjiajCb1Zq4pH1vyge) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV) | [Yeniden Sevmek](https://open.spotify.com/album/4Ut7Z9O7MsjGQgsvXb7Gls) | 2:12 |
 | 24 | [Puff](https://open.spotify.com/track/0gZIjKOd9deyRK58kcNWrJ) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Puff](https://open.spotify.com/album/09w51Wfe4XgK9jFtD8Mq7V) | 2:53 |
 | 25 | [Zehir/Dönemem](https://open.spotify.com/track/1NaX3zxaD5LE1xFgaRifYb) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [dönmem, dönemem, dönmemeliyim](https://open.spotify.com/album/0ZiHkzjRh6QLFM3GinqLyw) | 2:12 |

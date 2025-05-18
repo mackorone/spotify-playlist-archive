@@ -667,6 +667,28 @@
     },
     {
       "album": {
+        "name": "Sing Like A Siren",
+        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192561,
+      "name": "Sing Like A Siren",
+      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
+    },
+    {
+      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },

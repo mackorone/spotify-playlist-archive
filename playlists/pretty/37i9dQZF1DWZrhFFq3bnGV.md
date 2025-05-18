@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,085 likes - 92 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,098 likes - 92 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

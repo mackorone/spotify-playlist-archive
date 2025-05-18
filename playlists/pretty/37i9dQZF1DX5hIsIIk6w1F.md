@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Katteyes & Jairo Vera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,916 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,968 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Como Tú](https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Como Tú](https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC) | 2:52 |
+| 1 | [Como Tú](https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Ovyze](https://open.spotify.com/artist/721Q09Q6kNWnhnPVECasXD) | [Como Tú](https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC) | 2:52 |
 | 2 | [de to'](https://open.spotify.com/track/5L0TexBudGI26x882Z8kgn) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd) | [de to'](https://open.spotify.com/album/6KjuMxwW1RNpakmADDsFPF) | 3:11 |
 | 3 | [Bella](https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Los Galácticos](https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3) | 2:21 |
 | 4 | [Tu Boca Me Provoca](https://open.spotify.com/track/0dv9RH6XCGbRaoyiKz9U8z) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Tu Boca Me Provoca](https://open.spotify.com/album/394QJY8xaopyw4JePhuWzl) | 2:17 |

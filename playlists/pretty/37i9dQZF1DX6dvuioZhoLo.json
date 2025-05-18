@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 312865,
+  "num_followers": 312882,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+      },
+      "artists": [
+        {
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1103,18 +1119,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
       "artists": [
         {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
         }
       ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+      },
+      "artists": [
+        {
+          "name": "Gold Child",
+          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1135,38 +1167,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
       "artists": [
         {
-          "name": "Gold Child",
-          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 220571,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+      "duration_ms": 241000,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cool Cars - EP",
-        "url": "https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Cool Cars",
-      "url": "https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Kindness of Strangers",
         "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cool Cars - EP",
+        "url": "https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Cool Cars",
+      "url": "https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "May Your Kindness Remain",
+        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "May Your Kindness Remain",
+      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Patsy Cline",
         "url": "https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "May Your Kindness Remain",
-      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1675,26 +1675,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
-        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
       "artists": [
         {
-          "name": "The Unrighteous Brothers",
-          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        },
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
         }
       ],
-      "duration_ms": 229497,
-      "name": "You've Lost That Lovin' Feelin'",
-      "url": "https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0"
+      "duration_ms": 201426,
+      "name": "Fuck Up",
+      "url": "https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS"
     }
   ],
   "unique_name": "Vintage Vibes",

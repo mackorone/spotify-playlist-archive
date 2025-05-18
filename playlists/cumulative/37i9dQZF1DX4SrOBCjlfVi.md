@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Aminé, Latto, Snoop Dogg and more!
 
-7,523 songs - 14 day 10 hr 55 min
+7,524 songs - 14 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1811,7 +1811,7 @@
 | [Don't Get Hit](https://open.spotify.com/track/1egaPOAa20HfQaaueGlmzK) | [VV$ KEN](https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Don't Get Hit](https://open.spotify.com/album/2DkdMqF3c9vjelvdoAFrsB) | 3:23 | 2022-02-04 | 2022-02-12 |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 | 2023-11-10 | 2023-11-18 |
 | [Don't Get Ya Feelings In It \(feat\. Luh Tyler\)](https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Don't Get Ya Feelings In It \(feat\. Luh Tyler\)](https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9) | 3:36 | 2023-07-21 | 2023-07-29 |
-| [Don't Hold the Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold the Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 | 2025-05-16 |  |
+| [Don't Hold The Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold The Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 | 2025-05-16 |  |
 | [Don't Know How](https://open.spotify.com/track/0pihldzBvJB5IWh2qvgDnR) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Trapnati 3](https://open.spotify.com/album/4XJIInxqRuzRs2t5wlwFSb) | 3:08 | 2024-03-08 | 2024-03-16 |
 | [Don't Let Me](https://open.spotify.com/track/4E27aNMV1Yli9DDr8N1oxm) | [Goldenboy Countup](https://open.spotify.com/artist/1NZ3XpKTnR2pHYZ8NXs7zr) | [Don't Let Me](https://open.spotify.com/album/4xG4pK3FW4n85qcLNRbZPB) | 1:34 | 2022-12-02 | 2022-12-10 |
 | [Don't Like \(feat\. Bigg Bagg Queezy\)](https://open.spotify.com/track/4pBZw3XkLPrzGPQlfvUyVR) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Bigg Bagg Queezy](https://open.spotify.com/artist/4QBSZiA6x0D1BQ2Gjd6gNF) | [Don't Like \(feat\. Bigg Bagg Queezy\)](https://open.spotify.com/album/0kWMYrV4MsyB31lAB9lwz7) | 3:13 | 2023-07-28 | 2023-08-05 |
@@ -5290,6 +5290,7 @@
 | [Put The Minks Down \(feat\. 42 Dugg\)](https://open.spotify.com/track/6hFAavE0EiilAXtubEpEW0) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 1:56 | 2022-10-21 | 2022-10-29 |
 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 | 2022-03-11 | 2022-03-26 |
 | [PUT YOU ON GAME](https://open.spotify.com/track/31UEIDEnR72bsUiavstcof) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [PUT YOU ON GAME](https://open.spotify.com/album/2F9w1TeWYelRUUb9YN1Ll6) | 2:39 | 2023-01-06 | 2023-01-21 |
+| [PYRAMIDZ](https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [PYRAMIDZ](https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab) | 3:02 | 2025-05-17 |  |
 | [Pyrex](https://open.spotify.com/track/3TGBtGsWQPfhtPGGzzbc6m) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Pyrex](https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5) | 1:52 | 2022-08-19 | 2022-08-27 |
 | [Pyrex Kids](https://open.spotify.com/track/4CWWxTamXXIUJByb9YbOa1) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Pyrex Kids](https://open.spotify.com/album/5IMPUqSOUvIOheYQbjOlTX) | 1:52 | 2023-10-27 | 2023-11-04 |
 | [Pz Don't Trip](https://open.spotify.com/track/6w8Q0SRDEk7dtucfFbpzoq) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [Pz Don't Trip](https://open.spotify.com/album/0cgRf1y5HysQvQJs63yLDp) | 2:59 | 2023-07-14 | 2023-07-29 |

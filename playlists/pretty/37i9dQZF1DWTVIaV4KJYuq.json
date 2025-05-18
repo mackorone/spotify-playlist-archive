@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 712069,
+  "num_followers": 712053,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 212157,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 215843,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 248013,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 215843,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Can't Help Falling in Love",
-        "url": "https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Sweet Child o\u2019 Mine",
+        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Here Comes the Sun",
         "url": "https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 206493,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Sweet Child o\u2019 Mine",
-        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
     },
     {
       "added_at": "2024-10-18 04:00:00",

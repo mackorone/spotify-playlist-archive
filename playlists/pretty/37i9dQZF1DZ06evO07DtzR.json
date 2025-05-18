@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40808,
+  "num_followers": 40811,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACDireOyJ3fzyWgKIQ0F/9z",
+  "snapshot_id": "aCaAAAAAAADfR3hU5YTHCPPBsQZne2Ak",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 291440,
-      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
+      "duration_ms": 271586,
+      "name": "LoveStruck",
+      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 175333,
-      "name": "\u60f3\u3044\u3092\u5de1\u3089\u3059100\u306e\u4e8b\u8c61",
-      "url": "https://open.spotify.com/track/13M5fPkKHmEtI92zR8VKm3"
+      "duration_ms": 291440,
+      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 271586,
-      "name": "LoveStruck",
-      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
+      "duration_ms": 175333,
+      "name": "\u60f3\u3044\u3092\u5de1\u3089\u3059100\u306e\u4e8b\u8c61",
+      "url": "https://open.spotify.com/track/13M5fPkKHmEtI92zR8VKm3"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
-        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 317440,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumental-",
-      "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
+      "duration_ms": 270733,
+      "name": "Fallen -Instrumental-",
+      "url": "https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
+        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 270733,
-      "name": "Fallen -Instrumental-",
-      "url": "https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2"
+      "duration_ms": 317440,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumental-",
+      "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
     }
   ],
   "unique_name": "This Is EGOIST",

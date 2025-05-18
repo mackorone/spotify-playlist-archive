@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,866 likes - 203 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,009 likes - 203 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

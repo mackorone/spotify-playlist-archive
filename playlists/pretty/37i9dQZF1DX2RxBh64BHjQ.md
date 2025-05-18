@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0HRGx78eQaMqoHoopLfi2h">Chuckyy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,806,515 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,806,544 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 19 | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi) | 3:11 |
 | 20 | [Hotseat](https://open.spotify.com/track/6ZUi0NzAIED3uJEPuSI3LW) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [I Live, I Die, I Live Again](https://open.spotify.com/album/0pSIFVPHDByTEX6LztYz9M) | 3:02 |
 | 21 | [speed \(feat\. Ty Dolla $ign & Rich The Kid\)](https://open.spotify.com/track/6R9ur6yrjsP3xnJ0la11uX) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:48 |
-| 22 | [Don't Hold the Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold the Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 |
+| 22 | [Don't Hold The Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold The Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 |
 | 23 | [Billie Jean](https://open.spotify.com/track/3Kz373RINbFfB4Rvth18hs) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Billie Jean](https://open.spotify.com/album/1g2qspriqd79KOJOYjw6GB) | 2:40 |
 | 24 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 |
 | 25 | [Dark Nights \- remix](https://open.spotify.com/track/05mU8pZ5AIaxyC45dteVyv) | [Kocky Ka](https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Dark Nights \(remix\)](https://open.spotify.com/album/0tbHsvCdo1QM1sHUqgFZEx) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [act ii: date @ 8](https://open.spotify.com/track/5wzPDiNVgJ5Rvhjne9Uj3F) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 1:53 |
 | 100 | [No Love \(feat\. Lil Baby\)](https://open.spotify.com/track/0iZh0S8Fczu80nKITqWPGs) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:55 |
 
-Snapshot ID: `aCa4XwAAAAC++kb/kOBd9kTLf8vvJ+by`
+Snapshot ID: `aCa4XwAAAAA6pk0sksq325zhZXe//jhZ`

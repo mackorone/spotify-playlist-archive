@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa SHRTY ja Sliki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,868 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,883 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Parasta aikaa](https://open.spotify.com/track/5v8BGpuURGF8ydZAomM0WZ) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Parasta aikaa](https://open.spotify.com/album/1GIr1W3rj6izFP6EVshBo0) | 2:08 |
-| 2 | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/track/2OM9fc7sOAdQX2gt5a4PSB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/album/55FzsBDx6O1NbBGjYNhYLv) | 3:36 |
-| 3 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
-| 4 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 |
-| 5 | [Valtakunnallinen](https://open.spotify.com/track/46Up6QBRplYT8BTX25jusP) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Valtakunnallinen](https://open.spotify.com/album/11zYJJk0J1xsegVGMvppI2) | 2:25 |
-| 6 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 |
+| 2 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 |
+| 3 | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/track/2OM9fc7sOAdQX2gt5a4PSB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/album/55FzsBDx6O1NbBGjYNhYLv) | 3:36 |
+| 4 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
+| 5 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 |
+| 6 | [Valtakunnallinen](https://open.spotify.com/track/46Up6QBRplYT8BTX25jusP) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Valtakunnallinen](https://open.spotify.com/album/11zYJJk0J1xsegVGMvppI2) | 2:25 |
 | 7 | [Ylibuukattu](https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Ylibuukattu](https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh) | 2:49 |
 | 8 | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5PvUchPy7xwCHJGCgSzGKG) | 3:27 |
 | 9 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Sinä päivänä](https://open.spotify.com/track/1aYoqplFeeWtjbaeL7p49G) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Sinä päivänä](https://open.spotify.com/album/2gs8XGMX77w3n4OqggGyLZ) | 2:35 |
 | 50 | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/track/5DhUGbUyEEYLBoxRus5awE) | [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/album/2hNQHGIMEMOx4DoKMuFXRl) | 2:36 |
 
-Snapshot ID: `aCbfJwAAAACL0dqRKWtzb6lpzT2NQ1b+`
+Snapshot ID: `aCiUiAAAAAAOvG0mpX3OJ/ga8R6BLY1X`

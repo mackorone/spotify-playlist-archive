@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 8 | [Toxic](https://open.spotify.com/track/11VqkjKPzAFMoo4V4uk9Ys) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Toxic](https://open.spotify.com/album/6frJVs66js2iZrJB7DKz1V) | 2:45 |
 | 9 | [La La](https://open.spotify.com/track/6P8GfdAgHd3zKQMckbE4ke) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [La La](https://open.spotify.com/album/4rghUgwSsXAi9OVW7ye2Pn) | 2:48 |
 | 10 | [Walk Away](https://open.spotify.com/track/45hRLI6ljnV3rYOYWMyoIt) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [Walk Away](https://open.spotify.com/album/3aDkMVk9kfsNPGnj5DKIn0) | 3:12 |
-| 11 | [Only Us](https://open.spotify.com/track/3td5p9421OGARlJexBzn4e) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [BASSLOVE \- MORE BASS🔉MORE LOVE♥️](https://open.spotify.com/album/4KSvU2vXKsEz9cr37ifInS) | 2:40 |
-| 12 | [D2F](https://open.spotify.com/track/6tCvZKWqRtKYgXiKUWhSSk) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [D2F](https://open.spotify.com/album/5ohf9THvmzADgCFKwTn1PY) | 3:12 |
+| 11 | [D2F](https://open.spotify.com/track/6tCvZKWqRtKYgXiKUWhSSk) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [D2F](https://open.spotify.com/album/5ohf9THvmzADgCFKwTn1PY) | 3:12 |
+| 12 | [Only Us](https://open.spotify.com/track/3td5p9421OGARlJexBzn4e) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [BASSLOVE \- MORE BASS🔉MORE LOVE♥️](https://open.spotify.com/album/4KSvU2vXKsEz9cr37ifInS) | 2:40 |
 | 13 | [loverboi](https://open.spotify.com/track/0TgA5lQWMENLjZHzLWRhh9) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [loverboi](https://open.spotify.com/album/6Bb9cNrQmvFh42jDgFyrJk) | 2:16 |
 | 14 | [The Ocean](https://open.spotify.com/track/0El6tOnSI2n9KmMHOVpZYx) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [The Ocean](https://open.spotify.com/album/6sNiaWL3xqfSHk678l6v4w) | 2:42 |
 | 15 | [Breakfast at Tiffany's](https://open.spotify.com/track/0XNQXKMhsHrb8o9X3JpvcQ) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Breakfast at Tiffany's](https://open.spotify.com/album/53idUGP3DERYKpO12we4Xz) | 4:09 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 28 | [Forgive Me](https://open.spotify.com/track/0UP8IaUpsVlQwT2gDY4jaw) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 4:09 |
 | 29 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 |
 
-Snapshot ID: `AbxmVAAAAAD9GxYeGw7ygobQWxrImhim`
+Snapshot ID: `Abxr6gAAAACyKwfKQkXU6lF0cQ0NgB4/`

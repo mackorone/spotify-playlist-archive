@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,665 likes - 188 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,666 likes - 188 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 32 | [John Doe \(feat\. Priscilla\)](https://open.spotify.com/track/4znJLBeXcOzPUg2mm5LfZV) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Underground Luxury](https://open.spotify.com/album/3saKPeRS27JyiB3kIkEcDX) | 3:32 |
 | 33 | [A No No](https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:07 |
 | 34 | [Respect Yourself \- Single Edit](https://open.spotify.com/track/7neZIzWa2nLzl1RFN636Ff) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Short Stax, Vol\. 7](https://open.spotify.com/album/3Bwk9OcKHF8x9SC5jRLyNn) | 3:31 |
-| 35 | [Going Nowhere](https://open.spotify.com/track/54e9Gne7D4R5sHBIF64Vhk) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:34 |
-| 36 | [Ruined Me](https://open.spotify.com/track/7J7dAsQVT4ya3V0U0jOzt2) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
+| 35 | [Ruined Me](https://open.spotify.com/track/7J7dAsQVT4ya3V0U0jOzt2) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
+| 36 | [Going Nowhere](https://open.spotify.com/track/54e9Gne7D4R5sHBIF64Vhk) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:34 |
 | 37 | [Camionete Branca \- Ao Vivo](https://open.spotify.com/track/4oUGyiuh2XD4yoBRm9NFz6) | [Paulinho Mocelin](https://open.spotify.com/artist/58uaspCbAIXU506ewieNpc) | [Bailão do Mocelin ao Vivo em Araucária \(Ao Vivo\)](https://open.spotify.com/album/0BrR2XD1jHz7EqKBZfweP5) | 3:26 |
 | 38 | [Squeeze](https://open.spotify.com/track/4ojhgXmaJTQ0f3k5RX9hV2) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:33 |
 | 39 | [V.S.O.P.](https://open.spotify.com/track/5hZUqVitmzZQcTtpkybSj6) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Rebellious Soul](https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487) | 3:29 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 127 | [Runway \(feat\. KOHH\)](https://open.spotify.com/track/1kJSojPbDdE8mvCcbwqK7Z) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Caution \(Japan Version\)](https://open.spotify.com/album/2VtWkFLhMJAFsWkHAXwosS) | 3:41 |
 | 128 | [30s](https://open.spotify.com/track/3tAMiFkUwQiFQZFE30D4BA) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:31 |
 | 129 | [Bodies](https://open.spotify.com/track/1TnVWDDJGj3ByXTKMslbtu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Bodies](https://open.spotify.com/album/5x8QENUinh1t7Qhe2JmvMl) | 2:35 |
-| 130 | [Lease My Love](https://open.spotify.com/track/4cLT5APf2lMRZ5EOf6Zv6I) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
-| 131 | [Nuttin Like This](https://open.spotify.com/track/4PCN1dzVU2BLRlZb27Bctv) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:15 |
+| 130 | [Nuttin Like This](https://open.spotify.com/track/4PCN1dzVU2BLRlZb27Bctv) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:15 |
+| 131 | [Lease My Love](https://open.spotify.com/track/4cLT5APf2lMRZ5EOf6Zv6I) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
 | 132 | [Heart Speak](https://open.spotify.com/track/67UseCceVwy85F0WTVCJEH) | [PLTO](https://open.spotify.com/artist/6hwmVgDzlDpUNt6LkJBPvV) | [Heart Speak](https://open.spotify.com/album/0vzeJbAr57WxNMSPJvlv7D) | 4:22 |
 | 133 | [We Ain't Goin' Nowhere \(feat\. Dr\. Syntax\)](https://open.spotify.com/track/3FWdKvMUAMCqJJWI4Dgltf) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Dr\. Syntax](https://open.spotify.com/artist/2302CN9XlYXXYutCd4TsXn) | [Escape Music](https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH) | 2:30 |
 | 134 | [Brain on Love](https://open.spotify.com/track/72tEaxWcOKqryAVMatWYFs) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:27 |
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 150 | [Reverse \(Interlude\)](https://open.spotify.com/track/7pFB7lqFfsEPaVxxDlGKZd) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 1:18 |
 | 151 | [Time to Move On](https://open.spotify.com/track/62tQqcU5KUIL8ES3T0Udxi) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [American Nights](https://open.spotify.com/album/04spQ6Xvmym46ohPvZlebg) | 3:03 |
 | 152 | [Kiss and Make Up](https://open.spotify.com/track/4697oapmLUDJScrvSiU9PO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Think Like a Man Too \(Music from and Inspired by the Film\)](https://open.spotify.com/album/6Bvizrnjft6JCqMWSQbJTA) | 3:31 |
-| 153 | [Raindrops](https://open.spotify.com/track/5WCqzS7dZp9XLb5IdVGxqH) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:29 |
-| 154 | [Living In Southern Cali \- remix](https://open.spotify.com/track/5xEiPk1SzQSsM2CrZUo5Qr) | [Lil Gangster](https://open.spotify.com/artist/5V5zVfNvSEKi8NphOl5Y2p) | [LA's County Most Wanted](https://open.spotify.com/album/3LOwwWnuV1N5ygoiDk4dBv) | 3:50 |
+| 153 | [Living In Southern Cali \- remix](https://open.spotify.com/track/5xEiPk1SzQSsM2CrZUo5Qr) | [Lil Gangster](https://open.spotify.com/artist/5V5zVfNvSEKi8NphOl5Y2p) | [LA's County Most Wanted](https://open.spotify.com/album/3LOwwWnuV1N5ygoiDk4dBv) | 3:50 |
+| 154 | [Raindrops](https://open.spotify.com/track/5WCqzS7dZp9XLb5IdVGxqH) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:29 |
 | 155 | [I Miss Music](https://open.spotify.com/track/4saI1P80uZ3jn6fKJ122NK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:13 |
 | 156 | [Let's Build a House](https://open.spotify.com/track/1HdgcCmdv1vm4ly8862Cj6) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 4:17 |
 | 157 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 187 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 188 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbxmVAAAAAAYbKvnmeFih0unnO39VcdN`
+Snapshot ID: `Abxr9AAAAAAdvDhrOF/UsP/FJHOt3AUc`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇🐇 Tech house technicians, featuring Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,619 likes - 125 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,704 likes - 125 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 |
 | 2 | [Crush](https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Crush](https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc) | 3:01 |
-| 3 | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/track/2bHmHTRSkjJyjlCFcuQTrG) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/album/71PJa4yS0rt03dc35dHBPy) | 2:35 |
-| 4 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 |
+| 3 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 |
+| 4 | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/track/2bHmHTRSkjJyjlCFcuQTrG) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/album/71PJa4yS0rt03dc35dHBPy) | 2:35 |
 | 5 | [Freaky Time](https://open.spotify.com/track/3azjfnKurXPhaU28r8ZZ0D) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Freaky Time](https://open.spotify.com/album/1b8zXU6utma1zM55jIMsGo) | 2:50 |
 | 6 | [Dopamine](https://open.spotify.com/track/6M6lR8RBlwilhEjV0y5SeX) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Dopamine](https://open.spotify.com/album/2qnXtwurDlbIU19veR9Cei) | 2:46 |
 | 7 | [Teardrops](https://open.spotify.com/track/04bzZNvXQCdIN9nT4IPFC2) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Teardrops](https://open.spotify.com/album/3WOfpLYrcSowPNT5XGUb5I) | 2:12 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Dile](https://open.spotify.com/track/7qsyyhllSvwoJl4I1O4VZW) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Welcome to Hell III](https://open.spotify.com/album/4x5D8GnJE4JoAdZI41Z8PF) | 2:30 |
 | 125 | [Dance Machine](https://open.spotify.com/track/7LFnn4s6e9KoDVR0Zha2nt) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Dance Machine](https://open.spotify.com/album/4hFvusvuCsLmwx8myBP351) | 2:16 |
 
-Snapshot ID: `aCeTQgAAAACPWZd6Z7ENJ5v5tmkaJco4`
+Snapshot ID: `aCip8QAAAACoTVF1tl7p+1OSyVUPfA81`

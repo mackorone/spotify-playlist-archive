@@ -15039,6 +15039,24 @@
     },
     {
       "album": {
+        "name": "lost_files_3",
+        "url": "https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9"
+      },
+      "artists": [
+        {
+          "name": "user00xman",
+          "url": "https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127152,
+      "name": "sh00t",
+      "url": "https://open.spotify.com/track/2SVX42W1UnJ52oNYgjLsLK"
+    },
+    {
+      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },

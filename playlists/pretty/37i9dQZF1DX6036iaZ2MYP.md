@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Darkoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,779 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,889 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 47 | [LIFESTYLE](https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gen Z](https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK) | 2:55 |
 | 48 | [Numéro](https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav) | [Numéro](https://open.spotify.com/album/7D9kfm5IdIkcs0Jp0J4hXi) | 3:00 |
 
-Snapshot ID: `aCZj+QAAAAD0fb7xm8GtSS9kzyPKcWPK`
+Snapshot ID: `aCZj+QAAAABTVcrn0Zgphng8l+BgpUTw`

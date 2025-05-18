@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,535 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,544 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 13 | [Reassuring Whispers 2 Asmr](https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 5:07 |
 | 14 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 |
 | 15 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
-| 16 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
+| 16 | [Laura Says ASMR](https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 3:44 |
 | 17 | [Unintelligble Sleep Whisper Breathing Scratching](https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:50 |
-| 18 | [Laura Says ASMR](https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 3:44 |
+| 18 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
 | 19 | [Unintelligible Whispers Pt.1](https://open.spotify.com/track/7d4fH9j6urESBf2WsbkmKt) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Unintelligible Whispers](https://open.spotify.com/album/4yPrMv0lwW7Yl6XfExu0pz) | 2:35 |
 | 20 | [Pen Whisper Description](https://open.spotify.com/track/0IPEY8pEz91Q28z1HHgj8z) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:36 |
 | 21 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 |

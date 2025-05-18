@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,989 songs - 4 day 7 hr 0 min
+1,990 songs - 4 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-08-05 | 2023-10-01 |
 | [Det Eneste \(feat\. Artigeardit\)](https://open.spotify.com/track/7d01DaegXdCkttyuqMo918) | [Gio](https://open.spotify.com/artist/11WOy8bNZ7WpdX89ILYNEW), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Det Eneste \(feat\. Artigeardit\)](https://open.spotify.com/album/7hgXKEq6WwM7F1YP6WSYyy) | 2:53 | 2021-09-12 | 2021-09-13 |
 | [det her liv](https://open.spotify.com/track/0FWck5zQaJS3cib1sDZpZH) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:10 | 2023-09-02 | 2023-09-08 |
-| [Det jo bare et kram \(interlude\)](https://open.spotify.com/track/4Gj9vSPvSd8u9ugjDPSy7x) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 1:20 | 2025-05-09 |  |
+| [Det jo bare et kram \(interlude\)](https://open.spotify.com/track/4Gj9vSPvSd8u9ugjDPSy7x) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 1:20 | 2025-05-09 | 2025-05-18 |
 | [Det Modsatte](https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Det Modsatte](https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8) | 3:21 | 2024-01-03 |  |
 | [Det Vi Venter På](https://open.spotify.com/track/5rEt8B0mS2e7KvbrKHpkpb) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:29 | 2022-01-08 | 2022-01-14 |
 | [Det Ønsker Jeg For Dig](https://open.spotify.com/track/3tqRWbqid8syEuHFnrpALx) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [For Evigt I Går](https://open.spotify.com/album/7jLGoAldNIM7iBrZBK1oHu) | 2:57 | 2025-03-01 | 2025-03-03 |
@@ -738,6 +738,7 @@
 | [Hallo Kitty \(KEWAN LIGGER BEATET NORMAL X Tessa\)](https://open.spotify.com/track/3Zvmp666yZQSznopxKuKTW) | [KEWAN LIGGER BEATET NORMAL](https://open.spotify.com/artist/3IamLW3k3rAlmCehXEBx1G), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Nasty Sommer / Hallo Kitty](https://open.spotify.com/album/05tC3poCpGn88eHuE4i7Vl) | 2:32 | 2021-07-04 | 2021-07-11 |
 | [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 | 2025-03-03 | 2025-03-05 |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2023-10-24 | 2024-05-04 |
+| [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/track/5nASqWcjcInzxUXi85drKk) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/album/3VdtcZKWLij2eQGc75CElV) | 2:31 | 2025-05-17 |  |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-06-16 | 2021-06-19 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-10-17 |
 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 | 2021-05-16 | 2021-05-23 |

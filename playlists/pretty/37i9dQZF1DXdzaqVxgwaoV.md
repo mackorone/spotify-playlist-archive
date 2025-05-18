@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,159 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,153 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,12 +97,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 87 | [Amparito](https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Lo Mejor de los Melodicos Vol\. 1](https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR) | 3:47 |
 | 88 | [Farolito \(Little Star\)](https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG) | 4:39 |
 | 89 | [El Porteñito](https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ) | [Banda La Bocana](https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF) | [Grandes Éxitos](https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1) | 5:49 |
-| 90 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 |
-| 91 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
+| 90 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
+| 91 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 |
 | 92 | [Te Veré Llorar](https://open.spotify.com/track/034YyZnYJ4hos9IBAYZfp8) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:29 |
 | 93 | [Sin Rencores](https://open.spotify.com/track/1noWzwzuuWRClbaOX8Rbx7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 3:31 |
-| 94 | [Tania](https://open.spotify.com/track/1LARS9cn21Y31d4iX0QsbW) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 3:39 |
-| 95 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 |
+| 94 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 |
+| 95 | [Tania](https://open.spotify.com/track/1LARS9cn21Y31d4iX0QsbW) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 3:39 |
 | 96 | [Cinco Pa' las 12](https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:59 |
 | 97 | [Distancia](https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 4:03 |
 | 98 | [Con los Crespos Hechos](https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:43 |

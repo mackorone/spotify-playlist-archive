@@ -578,10 +578,32 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 623320,
       "name": "Endsong",
       "url": "https://open.spotify.com/track/0gHvrWN5ZQPDqn3QnpI5DD"
+    },
+    {
+      "album": {
+        "name": "Endsong (Orbital Remix)",
+        "url": "https://open.spotify.com/album/44AYABVfrU96YXOxhtVRjp"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383889,
+      "name": "Endsong - Orbital Remix",
+      "url": "https://open.spotify.com/track/0tFdxLhgh3KJubwOCKo3Y6"
     },
     {
       "album": {

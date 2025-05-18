@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Morgan Wallen, Rihanna, Laufey, Lola Young, GIVĒON, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,373,195 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,373,796 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
 | 57 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 |
 | 58 | [Promises \(9am\)](https://open.spotify.com/track/5AxvcX5FgSr6n0uiOPTB0o) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The Hours: Morning](https://open.spotify.com/album/5NNGAq96n9HWGAWGnIQLQM) | 2:55 |
-| 59 | [Don't Hold the Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold the Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 |
+| 59 | [Don't Hold The Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold The Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 |
 | 60 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 |
 | 61 | [Wolf In Sheep’s Clothes](https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Cruel Joke](https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH) | 3:25 |
 | 62 | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/2Njx2qH5mUaKXHNvMeQeue) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/album/1j9PYG8WzrHfUvrLRTcjXo) | 2:49 |

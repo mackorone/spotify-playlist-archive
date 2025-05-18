@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 366199,
+  "num_followers": 366321,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABBCAy0XtOkbjGPtakS9gXJ",
+  "snapshot_id": "aCaAAAAAAACHrI+7BfweWL9/64mL4kAm",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "PAJUELAZO",
-      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -647,26 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g"
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jos\u00e9 Guicho",
-          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
-        },
-        {
           "name": "Tito Double P",
           "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 152932,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA"
+      "duration_ms": 191320,
+      "name": "PAJUELAZO",
+      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
     },
     {
       "added_at": null,
@@ -695,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jos\u00e9 Guicho",
+          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 152932,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 173827,
+      "name": "Polvo de Hadas",
+      "url": "https://open.spotify.com/track/1BeJcPh87ayQXulFU5FPD3"
     },
     {
       "added_at": null,
@@ -767,26 +787,6 @@
       "duration_ms": 177900,
       "name": "Con Todo Respetillo",
       "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 173827,
-      "name": "Polvo de Hadas",
-      "url": "https://open.spotify.com/track/1BeJcPh87ayQXulFU5FPD3"
     },
     {
       "added_at": null,

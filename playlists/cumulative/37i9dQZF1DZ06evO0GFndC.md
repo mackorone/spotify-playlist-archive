@@ -4,7 +4,7 @@
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 10 min
+63 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [El Challenger Negro](https://open.spotify.com/track/7sCyOI2qAttPkAXSDYHmpr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:17 | 2024-01-29 |  |
 | [El de Houston](https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [El de Houston](https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5) | 3:02 | 2024-01-29 |  |
 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 | 2024-01-29 |  |
+| [El Flee](https://open.spotify.com/track/4JoBXRrnYHiKO5TTEQgCVp) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [El Flee](https://open.spotify.com/album/5xe8387ud3FWx0DtXFeH5O) | 2:54 | 2025-05-18 |  |
 | [El Huevon \- En Vivo](https://open.spotify.com/track/0XND7esAJ9J4BXubCsdhem) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Huevón \(En Vivo\)](https://open.spotify.com/album/1ua5SCBZRX5JdAZIxqjybu) | 2:52 | 2024-01-29 | 2025-03-30 |
 | [El Justiciero \- En Vivo](https://open.spotify.com/track/34kAodQ7ShXtIVRYLeznzj) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Hybert Daniel](https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ) | [El Justiciero \(En Vivo\)](https://open.spotify.com/album/0Fz4H4i8qYb1bEsn6yTQ8P) | 2:51 | 2024-01-29 | 2024-06-06 |
 | [El Pop](https://open.spotify.com/track/398SNFwt3tJRVk2JVxt7El) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:03 | 2024-01-29 |  |
@@ -39,7 +40,7 @@
 | [Fuga Pa' Cali \- En Vivo](https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:23 | 2024-01-29 |  |
 | [Holy Molly](https://open.spotify.com/track/0tL39kApl53imatnaQiY4H) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 | 2024-01-29 |  |
 | [Hoy Me Estoy Comiendo la Ciudad \- En Vivo](https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Hoy Me Estoy Comiendo La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb) | 3:54 | 2025-01-27 |  |
-| [Jumanji \- En Vivo](https://open.spotify.com/track/7JuPwwY32n3KqOR50EfGdn) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 2](https://open.spotify.com/album/0wWUGwPeylib39EDoVC0Ye) | 2:32 | 2024-01-29 |  |
+| [Jumanji \- En Vivo](https://open.spotify.com/track/7JuPwwY32n3KqOR50EfGdn) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 2](https://open.spotify.com/album/0wWUGwPeylib39EDoVC0Ye) | 2:32 | 2024-01-29 | 2025-05-18 |
 | [La Bolsita](https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:10 | 2024-01-29 |  |
 | [La Calabaza](https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:55 | 2024-06-22 |  |
 | [La Clase](https://open.spotify.com/track/3cGl8okeUmtDzp0yvgUDpY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:27 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnDBiu0P2E.md) - [plain]
 
 > feel the wind in your hair with these rock favorites, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,941 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,031 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

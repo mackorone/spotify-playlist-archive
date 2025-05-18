@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Sally Cruz in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,377 likes - 98 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,380 likes - 98 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

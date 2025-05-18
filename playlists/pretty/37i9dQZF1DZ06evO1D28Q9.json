@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAA/srCegF85wBcZcIv91lsf",
+  "snapshot_id": "aCaAAAAAAADTQ2oxmF4hM8UtqNWMJ/Hc",
   "tracks": [
     {
       "added_at": null,
@@ -254,11 +254,15 @@
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 218623,
-      "name": "DESCONFORTO",
-      "url": "https://open.spotify.com/track/29tBLOZpAyaXZgsNuGUC86"
+      "duration_ms": 227700,
+      "name": "PURO LOVE",
+      "url": "https://open.spotify.com/track/1VE784EuezLLhTd6YItf0f"
     },
     {
       "added_at": null,
@@ -283,22 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+        "name": "Pelos Meus Amores",
+        "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
         }
       ],
-      "duration_ms": 207071,
-      "name": "Na Entrada Do C\u00e9u",
-      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
+      "duration_ms": 227377,
+      "name": "Pelos Meus Amores",
+      "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
     },
     {
       "added_at": null,
@@ -330,15 +334,31 @@
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 227700,
-      "name": "PURO LOVE",
-      "url": "https://open.spotify.com/track/1VE784EuezLLhTd6YItf0f"
+      "duration_ms": 218623,
+      "name": "DESCONFORTO",
+      "url": "https://open.spotify.com/track/29tBLOZpAyaXZgsNuGUC86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 207071,
+      "name": "Na Entrada Do C\u00e9u",
+      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
     },
     {
       "added_at": null,
@@ -407,26 +427,6 @@
       "duration_ms": 222142,
       "name": "Perto de Mim",
       "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pelos Meus Amores",
-        "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 227377,
-      "name": "Pelos Meus Amores",
-      "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
     },
     {
       "added_at": null,
@@ -639,50 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elza",
-        "url": "https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno"
-      },
-      "artists": [
-        {
-          "name": "Rimas e Melodias",
-          "url": "https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        },
-        {
-          "name": "Karol de Souza",
-          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Mayra Maldjian",
-          "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
-        }
-      ],
-      "duration_ms": 364682,
-      "name": "Elza",
-      "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azz Veizz (Das Minas)",
         "url": "https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv"
       },
@@ -727,26 +683,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pau-De-D\u00e1-Em-Doido 20 Anos",
-        "url": "https://open.spotify.com/album/7jyDqfTi8OFOlXkx6Kc6pe"
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno"
       },
       "artists": [
         {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+          "name": "Rimas e Melodias",
+          "url": "https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ"
         },
         {
-          "name": "En\u00e9zimo",
-          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
+        },
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
         },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Mayra Maldjian",
+          "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 226806,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/5YTQuJUHlsXUvclEgCxFVy"
+      "duration_ms": 364682,
+      "name": "Elza",
+      "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
     },
     {
       "added_at": null,
@@ -775,6 +751,30 @@
       "duration_ms": 366409,
       "name": "Pelo Meus Amores",
       "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-De-D\u00e1-Em-Doido 20 Anos",
+        "url": "https://open.spotify.com/album/7jyDqfTi8OFOlXkx6Kc6pe"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "En\u00e9zimo",
+          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 226806,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/5YTQuJUHlsXUvclEgCxFVy"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
       "duration_ms": 382450,
       "name": "N\u00f3s Somos Pesados",
       "url": "https://open.spotify.com/track/3MWnRLlZM2P7YqUF8Xva7q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "DCazz",
-          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 458496,
       "name": "Origens",
       "url": "https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DCazz",
+          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
     },
     {
       "added_at": null,
@@ -935,30 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Atividade (feat. IZA)",
-        "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Rafael Porrada",
-          "url": "https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z"
-        }
-      ],
-      "duration_ms": 140444,
-      "name": "Na Atividade (feat. IZA)",
-      "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rimas & Melodias",
         "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
       },
@@ -1007,6 +983,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Atividade (feat. IZA)",
+        "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Rafael Porrada",
+          "url": "https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z"
+        }
+      ],
+      "duration_ms": 140444,
+      "name": "Na Atividade (feat. IZA)",
+      "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
         "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 187634,
       "name": "Chato",
       "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
-        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
-      },
-      "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
     },
     {
       "added_at": null,
@@ -1107,6 +1087,26 @@
       "duration_ms": 219402,
       "name": "Paradoxo",
       "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
+        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
     },
     {
       "added_at": null,

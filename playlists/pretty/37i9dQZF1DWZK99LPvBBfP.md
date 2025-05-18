@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,435 likes - 80 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,616 likes - 80 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 40 | [Go \(Radio Edit\)](https://open.spotify.com/track/6m97Mu089F0rYcvggzwS2W) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go \(Remixes\)](https://open.spotify.com/album/56kI0i0Zght0OYNwFwJL50) | 3:38 |
 | 41 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 |
 | 42 | [Pjanoo \- Club Mix](https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:30 |
-| 43 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
-| 44 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
+| 43 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
+| 44 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
 | 45 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
 | 46 | [Poppiholla](https://open.spotify.com/track/0IMcUszK4FkAp22s6Eiq1V) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:44 |
 | 47 | [We Come 1 \- Radio Edit](https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 3:42 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 72 | [Nipple To The Bottle](https://open.spotify.com/track/6Xwx0eIvYiJPGBQwpoVcZq) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [The Masters Collection](https://open.spotify.com/album/28maj1N3DbhEHBC4jEROKx) | 5:56 |
 | 73 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 74 | [Big Love \- Eat Me Edit](https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS) | [Pete Heller](https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf) | [Big Love \(Eat Me Edit\)](https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa) | 4:01 |
-| 75 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |
-| 76 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
+| 75 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
+| 76 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |
 | 77 | [My Boss \- Extended Remix](https://open.spotify.com/track/7jBqgmJj3XcyPq9OuL3bIB) | [Linda Di Franco](https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW) | [T.V\. Scene \(Sensurround Mix\)](https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae) | 5:46 |
 | 78 | [Porcelain](https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 3:58 |
-| 79 | [The Rising Sun \- Danny Tenaglia Remix](https://open.spotify.com/track/1YnzvkqzoV8IN7D7VJT5q6) | [Heller & Farley](https://open.spotify.com/artist/56Tbaojr5VfDvHgray0kEd), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [The Rising Sun](https://open.spotify.com/album/2pFVzm75oRseMAAhxWwVxg) | 10:07 |
-| 80 | [Put Your Hands Up For Detroit](https://open.spotify.com/track/2T1Xemp92qxuUCAFBWfRrj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/5NaES6denS6wM2M2zV1YkR) | 6:36 |
+| 79 | [Put Your Hands Up For Detroit](https://open.spotify.com/track/2T1Xemp92qxuUCAFBWfRrj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/5NaES6denS6wM2M2zV1YkR) | 6:36 |
+| 80 | [The Rising Sun \- Danny Tenaglia Remix](https://open.spotify.com/track/1YnzvkqzoV8IN7D7VJT5q6) | [Heller & Farley](https://open.spotify.com/artist/56Tbaojr5VfDvHgray0kEd), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [The Rising Sun](https://open.spotify.com/album/2pFVzm75oRseMAAhxWwVxg) | 10:07 |
 
 Snapshot ID: `Zo/+iQAAAAD6g7WTYLkQrUzXg/2NHqER`

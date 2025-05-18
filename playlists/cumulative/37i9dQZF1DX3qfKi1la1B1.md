@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-448 songs - 1 day 4 hr 42 min
+449 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 | 2023-11-09 | 2025-03-01 |
 | [Bewitched \- Rework](https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bewitched \(Rework\)](https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB) | 4:22 | 2024-06-07 | 2024-07-01 |
 | [Bibi](https://open.spotify.com/track/2a0jla6CzHQSm5QAyj6aP2) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Bibi](https://open.spotify.com/album/6RTHSt3mVGwyYlc2Q37vNl) | 4:34 | 2023-11-23 | 2023-12-08 |
-| [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 | 2025-03-21 |  |
+| [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 | 2025-03-21 | 2025-05-18 |
 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 | 2025-05-16 |  |
 | [Black Poppies](https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Black Poppies](https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n) | 2:52 | 2024-09-06 | 2024-09-26 |
 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-30 | 2023-07-07 |
@@ -340,6 +340,7 @@
 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 | 2023-10-26 |  |
 | [Soft \(feat\. Chlöe & Halle\) \[Unlocked\]](https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Access All Areas: Unlocked](https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB) | 3:11 | 2024-11-29 |  |
 | [Soft Peng \- JD\. Reid Remix](https://open.spotify.com/track/5QSgSLbwVErzT6Zem4FKeS) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [JD\. Reid](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Soft Peng \(JD\. Reid Remix\)](https://open.spotify.com/album/30qoQspPtZ44pVnW3fh3ec) | 4:26 | 2023-01-17 | 2023-02-08 |
+| [Sola](https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Puta / Sola](https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e) | 3:06 | 2025-05-16 |  |
 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2023-10-12 | 2023-11-10 |
 | [Somebody's Gotta Do It](https://open.spotify.com/track/2SpnoBkhmh14DHwDqv4wii) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 4:17 | 2022-10-20 | 2022-11-25 |
 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 | 2022-11-10 | 2022-12-14 |

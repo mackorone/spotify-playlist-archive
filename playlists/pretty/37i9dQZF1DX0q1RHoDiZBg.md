@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,320 likes - 106 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,335 likes - 106 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 91 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/1xgDHSaxzJ4X5KfOvHxAh2) | [Clem Snide](https://open.spotify.com/artist/6BV1QOFqWihVnBllS5naPh), [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Don't Think Twice, It's All Right](https://open.spotify.com/album/3at7ykzo4aX53Wj3VeY472) | 3:40 |
 | 92 | [Absolutely Sweet Marie \- Live at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/56IGkdRek8HdkhDqi5BgnS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 4:29 |
 | 93 | [Lay Down Your Weary Tune](https://open.spotify.com/track/35Xm16Qasr3DpOruVtT8WM) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 4:17 |
-| 94 | [Man In The Long Black Coat](https://open.spotify.com/track/7IGUD6b2HQ0wovy9EtFU0M) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish \(20th Anniversary Edition\)](https://open.spotify.com/album/41stlvVIHnm6prMIEdDOFD) | 4:50 |
+| 94 | [Man In The Long Black Coat](https://open.spotify.com/track/7IGUD6b2HQ0wovy9EtFU0M) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish \(Expanded Edition\)](https://open.spotify.com/album/41stlvVIHnm6prMIEdDOFD) | 4:50 |
 | 95 | [Pledging My Time \(Live\)](https://open.spotify.com/track/0y7s4aAkcQTLu6sViCYaP5) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 1:57 |
 | 96 | [When I Paint My Masterpiece \- With the Levon Helm Band and Joan Osborne](https://open.spotify.com/track/71bpQZ2KsOnSOEel5xdmKe) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Garth Hudson](https://open.spotify.com/artist/4Krw5EvLS5prCEDNmmospt) | [Love For Levon](https://open.spotify.com/album/7gxqBEgqD6dF5JSiidGPhK) | 4:05 |
 | 97 | [Lay Lady Lay](https://open.spotify.com/track/5w2odXmCV91nBYLjRX5KAv) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/6IHh9iUq4LqpoyCr7fqHyC) | 5:36 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 105 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 106 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `Z4aV5AAAAADQnHtgsgxP/pgjCeFdmpfc`
+Snapshot ID: `AAAAAP9k/qaqui5YpjFzft57XQjLcVY8`

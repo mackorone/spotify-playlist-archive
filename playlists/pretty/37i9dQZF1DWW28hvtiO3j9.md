@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,625 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,684 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 47 | [L.A.NIGHT](https://open.spotify.com/track/49s3vsplHRM2TOOrhnanub) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [GRAVY](https://open.spotify.com/album/7cS1kMkHB5U5O2xXethG7s) | 5:33 |
 | 48 | [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 |
 | 49 | [Jazzy Night](https://open.spotify.com/track/0yUrdEfnIM3AZX0nxFFruY) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:50 |
-| 50 | [Hi\-way 1](https://open.spotify.com/track/72xnTsNT9Ylrkx3QqmHPNZ) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [NATURALLY](https://open.spotify.com/album/0jTARGdMppFtS9BO4Z6luv) | 4:44 |
+| 50 | [EMANON](https://open.spotify.com/track/7AxapY0BhgmHATRDhjKsGO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [EMANON](https://open.spotify.com/album/2XEh5k4VOFroU66s4ey93y) | 3:44 |
 
 Snapshot ID: `Z6AA3AAAAADWVVR0qVUFUTuVvp+1UkWr`

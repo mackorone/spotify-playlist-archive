@@ -4,14 +4,14 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Arch Enemy
 
-1,057 songs - 3 day 5 hr 12 min
+1,059 songs - 3 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Don't Let 'Em\) Grind Ya Down \- Live at Glasgow Apollo, 18th March 1982](https://open.spotify.com/track/48dAc10HfSHfosBJM01QQ9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [\(Don't Let 'Em\) Grind Ya Down \[Live at Glasgow Apollo, 18th March 1982\]](https://open.spotify.com/album/75gdLiRVeqWyS4YWJwF7XH) | 3:33 | 2022-09-16 | 2022-10-08 |
 | [\(We make\) Sweden Rock](https://open.spotify.com/track/3N56fEJqHbCpcDav9wcThU) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [\(We Make\) Sweden Rock](https://open.spotify.com/album/1k8eg8tVFM6NBEdeGTUopG) | 4:15 | 2021-12-29 | 2022-04-21 |
 | [+ sargasso +](https://open.spotify.com/track/5B3xFiAHesPmNHpW2eDJp8) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ sargasso +](https://open.spotify.com/album/2x2oSr03mohnIV021ZWg1R) | 6:45 | 2025-03-11 |  |
-| [1000 Friends](https://open.spotify.com/track/1pTF9dR6s1GKw2TmvVtIfq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [1000 Friends](https://open.spotify.com/album/7yPZRysASodtpM0ueSBTNC) | 3:21 | 2025-03-11 |  |
+| [1000 Friends](https://open.spotify.com/track/1pTF9dR6s1GKw2TmvVtIfq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [1000 Friends](https://open.spotify.com/album/7yPZRysASodtpM0ueSBTNC) | 3:21 | 2025-03-11 | 2025-05-18 |
 | [1066](https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [1066](https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe) | 4:32 | 2024-08-23 | 2025-05-13 |
 | [111 – the Number of the Angels](https://open.spotify.com/track/3bbAEbvxWvrhSjYYPusrlo) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [111 – the Number of the Angels](https://open.spotify.com/album/7JAj5D6w9vUT3IkcG5iLs4) | 3:50 | 2022-03-22 | 2022-04-20 |
 | [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 | 2022-06-19 |
@@ -459,8 +459,9 @@
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-08-23 |  |
 | [In Extremis](https://open.spotify.com/track/5Hq0ORq01GmoS2HDYbxSZR) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [In Extremis](https://open.spotify.com/album/1aKyeErEZECLxc0TC1zeAu) | 4:41 | 2022-07-08 | 2022-08-03 |
 | [In Fire Reborn](https://open.spotify.com/track/2fTWxiSnKXddSvbdxDu0Ss) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [In Fire Reborn](https://open.spotify.com/album/6cxqI93wQAxeSSq5ZDD5IH) | 3:18 | 2025-05-02 |  |
-| [In Misery](https://open.spotify.com/track/2DreUmH0fSm1OnYj3Ii1eL) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [In Misery](https://open.spotify.com/album/02c3M3MzWQ8I9SzTXP74bF) | 4:39 | 2025-03-28 |  |
+| [In Misery](https://open.spotify.com/track/2DreUmH0fSm1OnYj3Ii1eL) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [In Misery](https://open.spotify.com/album/02c3M3MzWQ8I9SzTXP74bF) | 4:39 | 2025-03-28 | 2025-05-18 |
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 | 2024-11-04 | 2025-01-11 |
+| [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-16 |  |
 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 | 2022-03-22 | 2024-04-19 |
 | [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 | 2025-05-10 |
 | [Inertia](https://open.spotify.com/track/7ojDrvflVkMCy5UErZxi8s) | [Scar Of The Sun](https://open.spotify.com/artist/771ZPlgDeS8Q3y35hm1wAk) | [Inertia](https://open.spotify.com/album/0DnGqEqHsg66rpYia3hrmQ) | 3:50 | 2022-01-07 | 2022-07-15 |
@@ -624,6 +625,7 @@
 | [Now the Screaming Starts](https://open.spotify.com/track/4TW7ReI5Jzvm3TQ59DWA7v) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Now the Screaming Starts](https://open.spotify.com/album/4afU6LdO2FFF1ANLoGBrC8) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Now You Belong With the Dead](https://open.spotify.com/track/7h1we7IIO9uRgdfZr87hUv) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [Now You Belong With the Dead](https://open.spotify.com/album/7Lch8F6pGTAUGkXGW8Utfh) | 5:43 | 2025-05-02 |  |
 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-11-04 |  |
+| [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 | 2025-05-16 |  |
 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 | 2022-08-12 | 2023-03-11 |
 | [Oblivion](https://open.spotify.com/track/6tlfAL7rJ85eDXSZgq5eC4) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Oblivion](https://open.spotify.com/album/1Q20gWIgDF9Fr7CSme9VwH) | 3:51 | 2021-12-17 | 2022-04-20 |
 | [Obsolete](https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:25 | 2022-12-16 |  |

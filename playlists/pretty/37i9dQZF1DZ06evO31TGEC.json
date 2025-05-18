@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50345,
+  "num_followers": 50374,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACpjX5SlNVlHDIk5x+d7Jdm",
+  "snapshot_id": "aCaAAAAAAABQI2+ugnIJ4zY4dGpvffMs",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 180185,
-      "name": "Nadie Es De Nadie",
-      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
+      "duration_ms": 203706,
+      "name": "Ap\u00e1rtame Esta Noche",
+      "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 203706,
-      "name": "Ap\u00e1rtame Esta Noche",
-      "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
+      "duration_ms": 180185,
+      "name": "Nadie Es De Nadie",
+      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
     },
     {
       "added_at": null,
@@ -563,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
       },
       "artists": [
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Natalia Latorre",
-          "url": "https://open.spotify.com/artist/16NqfVntliZLwWTE4QvIr2"
         }
       ],
-      "duration_ms": 194461,
-      "name": "Mas Fuerte Que el Viento",
-      "url": "https://open.spotify.com/track/4bjkGiCeqcs4mhUHWY7hNq"
+      "duration_ms": 160213,
+      "name": "Regalo del Cielo",
+      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
     },
     {
       "added_at": null,
@@ -599,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
       "artists": [
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Natalia Latorre",
+          "url": "https://open.spotify.com/artist/16NqfVntliZLwWTE4QvIr2"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Regalo del Cielo",
-      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
+      "duration_ms": 194461,
+      "name": "Mas Fuerte Que el Viento",
+      "url": "https://open.spotify.com/track/4bjkGiCeqcs4mhUHWY7hNq"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 191796,
       "name": "Le Dire Que Me Gusta",
       "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,

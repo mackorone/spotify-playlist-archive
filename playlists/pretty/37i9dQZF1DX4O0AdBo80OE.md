@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Dharius y Yayo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,214 likes - 102 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,249 likes - 102 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

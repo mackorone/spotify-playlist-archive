@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 232558,
       "name": "Act of God",
       "url": "https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj"
@@ -8449,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
+    },
+    {
+      "album": {
         "name": "Frozen Fire",
         "url": "https://open.spotify.com/album/47sr9ngHZk3jDNL1zLdbPi"
       },
@@ -15856,7 +15874,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 170322,
       "name": "Nomacita",
       "url": "https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt"
@@ -20814,6 +20832,32 @@
       "duration_ms": 218437,
       "name": "Sideways - Quintino Remix",
       "url": "https://open.spotify.com/track/7330dCQxCxzthZ8Tp44ppT"
+    },
+    {
+      "album": {
+        "name": "Silence (John Summit Remix)",
+        "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274736,
+      "name": "Silence - John Summit Remix",
+      "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
     },
     {
       "album": {

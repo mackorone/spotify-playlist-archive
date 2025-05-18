@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,832 likes - 44 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,835 likes - 44 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 38 | [Sendero](https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 2:38 |
 | 39 | [Ella](https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 1:40 |
 | 40 | [Celador De Sueños \(with Gustavo Santaolalla & Orozco \- Barrientos\)](https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:38 |
-| 41 | [Hope](https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:41 |
+| 41 | [Invited](https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:34 |
 | 42 | [Opening](https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:31 |
 | 43 | [Seguir](https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 3:44 |
-| 44 | [Invited](https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:34 |
+| 44 | [Hope](https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:41 |
 
-Snapshot ID: `aCUugAAAAACKmbOcQwD1sKo5ycqxe+L1`
+Snapshot ID: `aCaAAAAAAAD0S7XxMJLF7UtfxB2V8+c+`

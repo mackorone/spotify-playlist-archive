@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > Home is where the Hustle is\. Listen to the music from Mo, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,165 likes - 98 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,177 likes - 98 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

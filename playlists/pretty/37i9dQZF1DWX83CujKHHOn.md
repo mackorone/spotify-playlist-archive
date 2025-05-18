@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,320,679 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,320,713 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 137 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 |
 | 138 | [Echoes Of Love](https://open.spotify.com/track/4M3ILaJ7MnY8tPoD687ivv) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Echoes Of Love](https://open.spotify.com/album/6JCU5oaV2HgPTDmh3HSp7N) | 3:36 |
 | 139 | [I Don't Wanna Leave Just Yet](https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [I Don't Wanna Leave Just Yet](https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq) | 3:05 |
-| 140 | [When I Let Go](https://open.spotify.com/track/1knbAQeG852S5ebxsfYIao) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Borders](https://open.spotify.com/album/3Rv5ZcZTfEIRKqvWBhrYmv) | 3:55 |
-| 141 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 |
+| 140 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 |
+| 141 | [When I Let Go](https://open.spotify.com/track/1knbAQeG852S5ebxsfYIao) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Borders](https://open.spotify.com/album/3Rv5ZcZTfEIRKqvWBhrYmv) | 3:55 |
 | 142 | [She's Gone](https://open.spotify.com/track/1Q7HO1L7KO46VlMH8C3Abh) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [She's Gone](https://open.spotify.com/album/1TcDaA8yaW6n3h3Kb1fiuA) | 3:44 |
 | 143 | [Swollen \(feat\. Julia Gargano\)](https://open.spotify.com/track/1XZG6gPL5pKw7MLRXCK1yX) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE), [Julia Gargano](https://open.spotify.com/artist/54IqzX9ecr68nJoastw0Nz) | [Swollen \(feat\. Julia Gargano\)](https://open.spotify.com/album/2FCf6fQqRvQt4L0CZOcAYq) | 3:50 |
 | 144 | [Highlights](https://open.spotify.com/track/5CJsNqEimetPhBa5v89uJj) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP) | 2:32 |

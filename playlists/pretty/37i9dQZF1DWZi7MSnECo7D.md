@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Selvagens à Procura de Lei
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,786 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,686 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
 | 80 | [tudo pra agora](https://open.spotify.com/track/2u8gkZ9plC1KcHAbFqzY8J) | [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA), [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [snowfuks](https://open.spotify.com/artist/6dZTKtASgEUcUDAcSBvwLC) | [tudo pra agora](https://open.spotify.com/album/2ViCgSPyCWGIJ8Hz0GPWkK) | 4:04 |
 
-Snapshot ID: `aB5FcgAAAABYTO9S4baPZrbFX38sm/4Y`
+Snapshot ID: `AAAAANmWidnwfXW7bjhXBlo7StvhWgAb`

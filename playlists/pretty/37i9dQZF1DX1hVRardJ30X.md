@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Sebastian Yatra, Beéle, DannyLux and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,388 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,450 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [CORAZÓN PARTÍO \- Spotify Singles](https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spotify Singles](https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T) | 4:13 |
 | 22 | [La 35 Fox](https://open.spotify.com/track/3pZ7JZspyLltgjHCxmBXxr) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La 35 Fox](https://open.spotify.com/album/0ctUZxHMbSgPQY4UgY3HyR) | 2:50 |
 | 23 | [CARO](https://open.spotify.com/track/57npVcXIJCygQKhGCrEyVD) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [CARO](https://open.spotify.com/album/0BE3kLK5Mjx6wWOSrvFN4s) | 3:24 |
-| 24 | [Como Tú](https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Como Tú](https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC) | 2:52 |
+| 24 | [Como Tú](https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Ovyze](https://open.spotify.com/artist/721Q09Q6kNWnhnPVECasXD) | [Como Tú](https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC) | 2:52 |
 | 25 | [Dubai](https://open.spotify.com/track/1PRBPRUtxegMupMRWhbP8C) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [Dubai](https://open.spotify.com/album/1SX284quEQg4jFMUPBeVdV) | 2:35 |
 | 26 | [Tomás](https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tomás](https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c) | 3:02 |
 | 27 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |

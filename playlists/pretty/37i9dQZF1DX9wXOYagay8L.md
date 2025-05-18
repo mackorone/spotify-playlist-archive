@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO?si=Wx5rh6lxSO2mP8kmzkRFSA"> Airic</a>, <a href="https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr?si=dFsOaEDeQwuqKshmsyj\_hQ"> Mjolisi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,683 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,786 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

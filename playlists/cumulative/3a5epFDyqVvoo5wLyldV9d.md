@@ -4,7 +4,7 @@
 
 > 
 
-860 songs - 2 day 19 hr 41 min
+862 songs - 2 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,9 @@
 | [Bèl Krèati](https://open.spotify.com/track/28Por4e1zhpUwqfKOKuKk9) | [Jean\-Philippe Marthely](https://open.spotify.com/artist/56M8FMGgcGcXYo5meN78Pz) | [Touloulou](https://open.spotify.com/album/7KfAR1gmrzhi1YTCFY7F4y) | 4:53 | 2021-12-07 |  |
 | [Bêtes féroces](https://open.spotify.com/track/746h0s8h9WYdjsgsslUJP4) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR) | [Sauvage Formes](https://open.spotify.com/album/6ZSXktFnYrBymvwpgJA1Q1) | 6:44 | 2023-09-06 |  |
 | [C'est la ouate \- Radio Edit Original Version 1987](https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 3:48 | 2023-12-07 |  |
+| [Cada Vez](https://open.spotify.com/track/59uu2KPziupwcHa9s22SSi) | [Negrocan](https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS) | [Forever Dancefloor \(Gold\)](https://open.spotify.com/album/4Pi7TaixWTWhdyWm3tUPko) | 3:51 | 2025-05-17 |  |
 | [Cada Vez](https://open.spotify.com/track/7vLdWLDAkGfqfIGwFfkeKU) | [Salomé de Bahia](https://open.spotify.com/artist/6alPczkkZlUZwomoKjrtMc) | [Brasil](https://open.spotify.com/album/6s0rhtZ7euTdZKBGExt7Ez) | 4:17 | 2025-05-16 |  |
+| [Cada vez \- Club Version](https://open.spotify.com/track/39INT9ciJDyglJVunf0stt) | [Africanism](https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5), [Salomé de Bahia](https://open.spotify.com/artist/6alPczkkZlUZwomoKjrtMc) | [Africanism Vol\. 3](https://open.spotify.com/album/4ptQuucuOFAlR9KEURug1f) | 4:14 | 2025-05-17 |  |
 | [Cada Vez \- Jerry Ropero\-s Avant Garde Mix](https://open.spotify.com/track/6dvyAoIz7uAnXWjZ6rlzW4) | [Negrocan](https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS) | [Cada Vez \(Ultimate Mix Collection\)](https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD) | 3:48 | 2021-05-10 |  |
 | [Cadê Tereza](https://open.spotify.com/track/6c2SW9sCr4iabx4jHBAxwd) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [É De Lei](https://open.spotify.com/album/4TOa1FeJUAT0RxHPupIjLd) | 4:39 | 2024-04-11 |  |
 | [Calin](https://open.spotify.com/track/1feEHKqLHdlcZvp2ftF0Jw) | [Tanya St Val](https://open.spotify.com/artist/0FZrtox4ibWNJcCR4WheCZ) | [Les plus belles années de Tanya Saint\-Val](https://open.spotify.com/album/07Iv6VzshEFs7iqvsQgaU6) | 5:11 | 2023-07-01 |  |

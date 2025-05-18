@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists:  SNOW WIFE, Chance Emerson and Luna Li.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,444 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,443 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

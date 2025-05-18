@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Reboll333
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,716 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,730 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 |
 | 60 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 |
 
-Snapshot ID: `aBRIzQAAAADAE/0D48AoAbOCiR5XSJRh`
+Snapshot ID: `AAAAANXYePamJZRl8HpeJPa/yoc2il8K`

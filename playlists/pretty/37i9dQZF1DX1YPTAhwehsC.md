@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,295 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,255 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 39 | [freak](https://open.spotify.com/track/05qbKpOCGCKCm2A3HsBQ0r) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [Mega](https://open.spotify.com/artist/3h5quwaBaCWdrQJC3BcTR6) | [freak](https://open.spotify.com/album/5TlWvqRKrqcS6XHPHdoT2G) | 2:33 |
 | 40 | [Squad Wipe \(feat\. Jaeychino & Slimesito\)](https://open.spotify.com/track/3phRfVEvgIoL7nxmDIPuze) | [SlimeGetEm](https://open.spotify.com/artist/7b5FD1wsy3KBIrMjTqTNBi), [Jaeychino](https://open.spotify.com/artist/1mVk9jJNL0m9WIs0a1BQdS), [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [2923 Hours](https://open.spotify.com/album/0NSx6MillgK7cAkeawsdcO) | 2:20 |
 | 41 | [Norbit](https://open.spotify.com/track/20NVTKQQ5CBmHG4l2MzmQU) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Norbit](https://open.spotify.com/album/4q2WD6bxDAh5YfeXUWUCSO) | 3:14 |
-| 42 | [NEW YORK IS FULL OF DICK RIDERS](https://open.spotify.com/track/79Ukn1KO8Zlg6TpUra0XAL) | [Troy Ave](https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW) | [GOD IS GREAT PAPER STRAIGHT \- MAY '25 ISSUE](https://open.spotify.com/album/03ifEPSnmNuBW2uRX9gQ23) | 3:15 |
+| 42 | [NEW YORK IS FULL OF DICK RIDERS](https://open.spotify.com/track/79Ukn1KO8Zlg6TpUra0XAL) | [Troy Ave](https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW) | [GOD IS GREAT PAPER STRAIGHT \- MAY '25 ISSUE](https://open.spotify.com/album/03ifEPSnmNuBW2uRX9gQ23) | 2:40 |
 | 43 | [Rich Junkies](https://open.spotify.com/track/1uyxg9j4cxUDWjVA3EOvub) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Rich Junkies](https://open.spotify.com/album/4HRFlJWRLrbbCMwcZj8rmK) | 2:47 |
 | 44 | [Different \(with 42 Dugg\)](https://open.spotify.com/track/3CXFeHHhNvwHsgAMdnPCve) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Different \(with 42 Dugg\)](https://open.spotify.com/album/1yDFI8tYzHuFuuZ7Y0L8iq) | 2:58 |
 | 45 | [Jumanji \- feat\. Earl Sweatshirt](https://open.spotify.com/track/0gHXr4WqGY8VK1sNApTbpH) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Pinball II](https://open.spotify.com/album/7H4y33iaBpDJ5QqlCULlMR) | 2:46 |

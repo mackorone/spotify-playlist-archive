@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACqHpvoLKPsWvQeB0ca/XoQ",
+  "snapshot_id": "aCaAAAAAAAD9m9ppkblxbSiCJeX1WDoC",
   "tracks": [
     {
       "added_at": null,
@@ -459,30 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senta Aqui",
-        "url": "https://open.spotify.com/album/1dBu2lZSOD078KkRc6XLqQ"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Senta Aqui",
-      "url": "https://open.spotify.com/track/4oRfkAIaLWCpdGnbPAywPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nitro",
         "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
       },
@@ -507,6 +483,30 @@
       "duration_ms": 137450,
       "name": "Raspa Placa",
       "url": "https://open.spotify.com/track/67vSSq4PsZZksXIWROcghR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senta Aqui",
+        "url": "https://open.spotify.com/album/1dBu2lZSOD078KkRc6XLqQ"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Senta Aqui",
+      "url": "https://open.spotify.com/track/4oRfkAIaLWCpdGnbPAywPE"
     },
     {
       "added_at": null,
@@ -700,17 +700,21 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
           "name": "Nave",
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/5796t3NDVuI6DiaW5avtrL"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
         }
       ],
-      "duration_ms": 163300,
-      "name": "Se Quiser S\u00f3 Vai",
-      "url": "https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U"
+      "duration_ms": 156923,
+      "name": "Iludida",
+      "url": "https://open.spotify.com/track/5r688OEO8p4dtzRMBAPumA"
     },
     {
       "added_at": null,
@@ -722,35 +726,11 @@
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         }
       ],
-      "duration_ms": 219348,
-      "name": "Tipo Giroflex",
-      "url": "https://open.spotify.com/track/0L5ZZJcXPBljIjFQQqUcxG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Papo Reto",
-        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Papo Reto",
-      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
+      "duration_ms": 208000,
+      "name": "Mary End",
+      "url": "https://open.spotify.com/track/05IJD2tXhyTzcwWiNGVutB"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Papo Reto",
+        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 192499,
+      "name": "Papo Reto",
+      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -800,21 +800,17 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
           "name": "Nave",
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/5796t3NDVuI6DiaW5avtrL"
-        },
-        {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
         }
       ],
-      "duration_ms": 156923,
-      "name": "Iludida",
-      "url": "https://open.spotify.com/track/5r688OEO8p4dtzRMBAPumA"
+      "duration_ms": 163300,
+      "name": "Se Quiser S\u00f3 Vai",
+      "url": "https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U"
     },
     {
       "added_at": null,
@@ -839,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "Chef, Chef, Chef",
-      "url": "https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tira Uma Foto",
         "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
       },
@@ -875,6 +851,26 @@
       "duration_ms": 129440,
       "name": "Tira Uma Foto",
       "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Chef, Chef, Chef",
+      "url": "https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz"
     },
     {
       "added_at": null,
@@ -919,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 143485,
-      "name": "Melhor da Vida",
-      "url": "https://open.spotify.com/track/2yU6aVrosiFWiLj2VfzrEn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
       },
@@ -963,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 143485,
+      "name": "Melhor da Vida",
+      "url": "https://open.spotify.com/track/2yU6aVrosiFWiLj2VfzrEn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -976,9 +972,9 @@
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 131093,
-      "name": "Malandrinha",
-      "url": "https://open.spotify.com/track/6xoqFcFzy4GV5U84j5g2uI"
+      "duration_ms": 156183,
+      "name": "Luiza Mel",
+      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
     },
     {
       "added_at": null,
@@ -1135,6 +1131,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homenagem de Mar\u00e7o",
+        "url": "https://open.spotify.com/album/6dpuGkFrhMtDdW0vpUkGXk"
+      },
+      "artists": [
+        {
+          "name": "Rap Plus Size",
+          "url": "https://open.spotify.com/artist/2vZnrW5COAICtdeiVjARkp"
+        },
+        {
+          "name": "Sara Donato",
+          "url": "https://open.spotify.com/artist/4oL2YA7tv13BFRNQBmy02K"
+        },
+        {
+          "name": "Jupi77er",
+          "url": "https://open.spotify.com/artist/1rId78y1KO9ldEyBYr2heR"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 352801,
+      "name": "Homenagem de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1Ixhp33HDysxaryYlftDpr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dose Dupla",
         "url": "https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N"
       },
@@ -1155,50 +1187,6 @@
       "duration_ms": 194413,
       "name": "Dose Dupla",
       "url": "https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crypto Reggae",
-        "url": "https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj"
-      },
-      "artists": [
-        {
-          "name": "Dada Yute",
-          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 182559,
-      "name": "Palam Gang",
-      "url": "https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nem Tudo \u00c9 Close",
-        "url": "https://open.spotify.com/album/46qrn7z8GbX8nuIZr5HQPV"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "Rela\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/37Caje6ogUIS4u9Jmn1j2F"
     },
     {
       "added_at": null,
@@ -1235,38 +1223,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenagem de Mar\u00e7o",
-        "url": "https://open.spotify.com/album/6dpuGkFrhMtDdW0vpUkGXk"
+        "name": "Crypto Reggae",
+        "url": "https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj"
       },
       "artists": [
         {
-          "name": "Rap Plus Size",
-          "url": "https://open.spotify.com/artist/2vZnrW5COAICtdeiVjARkp"
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
         },
         {
-          "name": "Sara Donato",
-          "url": "https://open.spotify.com/artist/4oL2YA7tv13BFRNQBmy02K"
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Jupi77er",
-          "url": "https://open.spotify.com/artist/1rId78y1KO9ldEyBYr2heR"
-        },
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 182559,
+      "name": "Palam Gang",
+      "url": "https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ELAS",
+        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
+      },
+      "artists": [
         {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
-        {
-          "name": "Karol de Souza",
-          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 352801,
-      "name": "Homenagem de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1Ixhp33HDysxaryYlftDpr"
+      "duration_ms": 160079,
+      "name": "Fa\u00e7o Valer",
+      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
     }
   ],
   "unique_name": "This Is Bivolt",

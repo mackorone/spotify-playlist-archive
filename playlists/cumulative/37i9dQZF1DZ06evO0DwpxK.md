@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 48 min
+64 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 | 2023-11-10 |  |
 | [Te Quiero Aquí Ya](https://open.spotify.com/track/05C6RqtazHO47QZpZY04zX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Te Quiero Aquí Ya](https://open.spotify.com/album/6SLHSOEXgE52YBulVLJZp0) | 3:05 | 2023-11-10 | 2025-03-30 |
 | [Te Quiero Aquí Ya](https://open.spotify.com/track/1Jl3WYyjdEGfz4sZxEfcPZ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Te Quiero Aquí Ya](https://open.spotify.com/album/4FWJCKi1rJ875C7FiP7Ymf) | 3:05 | 2025-03-31 |  |
+| [Templo de Piceas](https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 3:27 | 2025-05-18 |  |
 | [TINTO DE VERANO](https://open.spotify.com/track/1yf4iiJDoxC0il1ymYNWue) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:47 | 2024-12-01 |  |
 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 | 2023-11-10 |  |
 | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/track/4JSXKtwqCVZHuvrHI2wftR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/album/1y3rU2fetwfnS5v0k8G9eM) | 3:11 | 2023-11-10 | 2024-12-08 |

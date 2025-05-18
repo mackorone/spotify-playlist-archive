@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 189333,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv"
@@ -986,6 +986,28 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG"
     },
     {
       "album": {

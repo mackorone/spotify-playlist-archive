@@ -4,7 +4,7 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 36 min
+127 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [De Negra a Negra](https://open.spotify.com/track/4kEZ3UBvd3RnCKQSj5BkdT) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:52 | 2024-01-29 | 2024-04-03 |
 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 | 2024-09-08 | 2024-12-16 |
 | [Demonio Dormido \- En Vivo](https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \- En Vivo](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:57 | 2024-01-29 | 2024-08-22 |
-| [Demonio Dormido \- En Vivo](https://open.spotify.com/track/3A09S34dhYnWdhLMvmnfgV) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:57 | 2024-08-22 |  |
+| [Demonio Dormido \- En Vivo](https://open.spotify.com/track/3A09S34dhYnWdhLMvmnfgV) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:57 | 2024-08-22 | 2025-05-18 |
 | [Dicen Y Dicen](https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49) | 2:53 | 2024-03-17 | 2024-11-15 |
 | [Dicen y Dicen](https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen y Dicen](https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF) | 2:53 | 2024-11-15 |  |
 | [Ebrio De Amor](https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:31 | 2024-09-27 | 2025-03-10 |
@@ -85,6 +85,7 @@
 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 | 2024-08-22 |  |
 | [Los Brothers \(09/19\)](https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers \(09/19\)](https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI) | 3:36 | 2024-02-10 |  |
 | [Me Cambio la Suerte](https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Me Cambio la Suerte](https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV) | 2:51 | 2024-01-29 |  |
+| [Mi Pasado y Mi Presente \- En Vivo](https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Houston \(En Vivo\)](https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp) | 4:25 | 2025-05-18 |  |
 | [Micaela / La María](https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 4:53 | 2024-01-29 | 2024-08-22 |
 | [Micaela / La María](https://open.spotify.com/track/58UuKulvF6CYIoFXxh9joZ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 4:53 | 2024-08-22 | 2024-11-10 |
 | [Mirame \(feat\. Blessd\) \- Remix](https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mirame \(feat\. Blessd\) \[Remix\]](https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR) | 3:13 | 2024-10-07 | 2025-04-22 |

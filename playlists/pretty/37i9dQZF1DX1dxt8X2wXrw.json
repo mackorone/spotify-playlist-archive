@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 68815,
+  "num_followers": 68830,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-05-07 06:26:02",
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
+    },
+    {
+      "added_at": "2025-05-07 06:26:02",
+      "album": {
         "name": "worst behaviour (feat. Kehlani)",
         "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
-    },
-    {
-      "added_at": "2025-05-07 06:26:02",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
     },
     {
       "added_at": "2025-05-07 06:26:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-05-07 06:26:02",
       "album": {
-        "name": "Gen Z Luv",
-        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Gen Z Luv",
-      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
-    },
-    {
-      "added_at": "2025-05-07 06:26:02",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2025-05-07 06:26:02",
+      "album": {
+        "name": "Gen Z Luv",
+        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Gen Z Luv",
+      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
     {
       "added_at": "2025-05-07 06:26:02",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-05-07 06:26:02",
       "album": {
-        "name": "10 songs",
-        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 178902,
-      "name": "be with ya",
-      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
-    },
-    {
-      "added_at": "2025-05-07 06:26:02",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5yir0QnXLpVD6RAgNYXTQ5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 154285,
       "name": "For You",
       "url": "https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf"
+    },
+    {
+      "added_at": "2025-05-07 06:26:02",
+      "album": {
+        "name": "10 songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 178902,
+      "name": "be with ya",
+      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
     },
     {
       "added_at": "2025-05-07 06:26:02",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-05-07 06:26:02",
       "album": {
+        "name": "A Man After God's Own Heart",
+        "url": "https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU"
+    },
+    {
+      "added_at": "2025-05-07 06:26:02",
+      "album": {
         "name": "hella (\u02c3\u0323\u0323\u0325\u256d\u256e\u02c2\u0323\u0323\u0325) \u2727 \u2661 \u2027\u00ba\u00b7\u02da",
         "url": "https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 206667,
       "name": "COuGhDrOPs (,,\u053e\u2038\u053e,,)",
       "url": "https://open.spotify.com/track/5Y0i08n5NoEA7WnKdxjv4G"
-    },
-    {
-      "added_at": "2025-05-07 06:26:02",
-      "album": {
-        "name": "A Man After God's Own Heart",
-        "url": "https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU"
     },
     {
       "added_at": "2025-05-07 06:26:02",

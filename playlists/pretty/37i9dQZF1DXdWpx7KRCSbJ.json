@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 333331,
+  "num_followers": 333299,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -963,30 +963,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3TgRfu57g7p1rrmLs6X3Dv"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/2cV8V9eV79HWJHD4jNQHqq"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
         "url": "https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 178960,
       "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
       "url": "https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3TgRfu57g7p1rrmLs6X3Dv"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/2cV8V9eV79HWJHD4jNQHqq"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00e9culo 21",
-        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 167838,
-      "name": "S\u00e9culo 21",
-      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Permanecer (feat. MC G15)",
         "url": "https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 202521,
       "name": "Permanecer (feat. MC G15)",
       "url": "https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "S\u00e9culo 21",
+        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 167838,
+      "name": "S\u00e9culo 21",
+      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",

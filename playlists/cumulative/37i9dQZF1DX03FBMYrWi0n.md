@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-232 songs - 13 hr 24 min
+233 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,11 +43,12 @@
 | [C'est la vie](https://open.spotify.com/track/0APhfeS3AIbmKCa01WK2YO) | [Peanut Butter Sunday](https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB) | [Quoi\-ce y'a pour souper?](https://open.spotify.com/album/7xI5Vn3wJ1LGK5cHI52XdW) | 3:35 | 2023-08-18 | 2023-09-09 |
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2023-02-10 |  |
 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 | 2023-02-10 |  |
+| [Carte du ciel](https://open.spotify.com/track/57nLBQ5B7m20grJpimsQyv) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 2:49 | 2025-03-28 |  |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2023-02-10 |  |
 | [Ce qu'on aura](https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Ce qu'on aura](https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl) | 3:56 | 2024-01-26 | 2024-06-01 |
 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 | 2023-05-19 |  |
 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 | 2023-02-10 |  |
-| [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 | 2023-02-10 | 2025-05-05 |
+| [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 | 2023-02-10 |  |
 | [Christopher Robbins](https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Pink Dogs on the Green Grass](https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx) | 3:45 | 2023-02-10 | 2025-03-23 |
 | [Chu tellement jeune](https://open.spotify.com/track/3475CIRNKkT6F6heSFaqV9) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Chu tellement jeune](https://open.spotify.com/album/1CUyjFiSe6PVfa8Uc4MCwR) | 3:08 | 2024-05-31 | 2024-06-29 |
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2023-02-10 | 2023-09-07 |
@@ -97,7 +98,7 @@
 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 | 2023-02-10 |  |
 | [I Forget What I Remembered](https://open.spotify.com/track/2wQqhsoOk1KdJl2UUfYIP7) | [Thus Owls](https://open.spotify.com/artist/49i2hfrmEL0nNp8WZvXyT9) | [Who Would Hold You If The Sky Betrayed Us?](https://open.spotify.com/album/0MudGJonYWCr5S8NfwDKIl) | 6:52 | 2023-02-10 | 2023-02-23 |
 | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY) | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD) | 4:58 | 2023-02-10 |  |
-| [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 |  |
+| [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 | 2025-05-18 |
 | [INDIGESTE](https://open.spotify.com/track/3ZDi3WHqcMnKmzkURhullh) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [INDIGESTE](https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX) | 4:19 | 2024-03-04 | 2024-09-07 |
 | [Interruption](https://open.spotify.com/track/6yiDJYoQBlb7lTA10rXUZy) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak), [Cherry Lena](https://open.spotify.com/artist/0vkN6Ib0aW335dFCf4iWNo) | [Interruption](https://open.spotify.com/album/5EO08uN9A5WjrYDc9vglKD) | 2:50 | 2025-03-21 |  |
 | [Introspection](https://open.spotify.com/track/54i7ow5JI0alL46ZmApyTF) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [À La Ô Terre](https://open.spotify.com/album/58KvfyZ8bJqsWroUSb1KTR) | 4:40 | 2025-01-17 | 2025-02-04 |
@@ -105,7 +106,7 @@
 | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY) | 2:31 | 2023-04-21 | 2023-06-28 |
 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 | 2023-04-14 |  |
 | [Je lève mon verre](https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Je lève mon verre](https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3) | 3:46 | 2023-02-10 | 2023-03-25 |
-| [Journal d'un loup\-garou](https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 3:39 | 2024-11-29 |  |
+| [Journal d'un loup\-garou](https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 3:39 | 2024-11-29 | 2025-05-18 |
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-02-10 | 2023-05-23 |
 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 | 2024-04-05 | 2024-04-19 |
 | [K9](https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 5:02 | 2023-06-16 | 2024-09-21 |

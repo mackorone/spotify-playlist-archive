@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Lemuell & Sanchz
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,885 likes - 167 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,874 likes - 167 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Signal](https://open.spotify.com/track/6xHIG58E2FngeHZ2t33wg3) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF) | [No Signal](https://open.spotify.com/album/6gKMRTOL56AOoLwxzzZo4U) | 2:41 |
-| 2 | [Como Tú](https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Como Tú](https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC) | 2:52 |
+| 2 | [Como Tú](https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Ovyze](https://open.spotify.com/artist/721Q09Q6kNWnhnPVECasXD) | [Como Tú](https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC) | 2:52 |
 | 3 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
 | 4 | [LINDA](https://open.spotify.com/track/3rpatdv4oGWHL2rZzTAscf) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [LINDA](https://open.spotify.com/album/7vxDirSMdfFq2Zzz3rnjNm) | 2:49 |
 | 5 | [GUAYA](https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [GUAYA](https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0) | 3:14 |

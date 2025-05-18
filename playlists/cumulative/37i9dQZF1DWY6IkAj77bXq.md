@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-262 songs - 12 hr 54 min
+263 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Among the Clouds](https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh) | 2:53 | 2022-07-19 | 2024-04-19 |
 | [Among the Clouds](https://open.spotify.com/track/7KWzzOj2W7ZwkGYJAgX17D) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/5YRaeJVtFyjdqNmFSqjoOm) | 2:53 | 2022-07-19 | 2022-07-29 |
 | [Amoralis](https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Amoralis](https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL) | 3:31 | 2022-07-19 |  |
+| [Antidote](https://open.spotify.com/track/1C7ful7gtkA5pizJKGlD7Z) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Antidote](https://open.spotify.com/album/2T8AS71aMJNSqBiKCxWvVN) | 2:31 | 2025-05-14 |  |
 | [arches](https://open.spotify.com/track/27kZcqkjDk78N7yvOi2MJ5) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [arches](https://open.spotify.com/album/1TUCzm7JXD5OSkodobhn1I) | 3:03 | 2025-03-19 |  |
 | [Aspect of Mind](https://open.spotify.com/track/6onduIvF4Ypci4LvhfHjBq) | [Kunushevci](https://open.spotify.com/artist/2Etal9cBcsTP6maAdJEWZl) | [Aspect of Mind](https://open.spotify.com/album/2H1MlDVqpEgDhtIkDfkct0) | 2:57 | 2024-12-11 |  |
 | [Aube](https://open.spotify.com/track/0JJo7BXhf7g11EwOk6OSK7) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Aube](https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy) | 3:00 | 2024-06-10 |  |
@@ -51,7 +52,7 @@
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
 | [Circuits](https://open.spotify.com/track/5BdEWN641x678b5G91K2MM) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Circuits](https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0) | 2:40 | 2025-01-14 |  |
 | [Clarity Moon](https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi) | [Liam Steed](https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki) | [Clarity Moon](https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV) | 2:52 | 2022-11-11 |  |
-| [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 | 2022-07-19 |  |
+| [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 | 2022-07-19 | 2025-05-18 |
 | [Clear Horizon](https://open.spotify.com/track/5FbOETGBJmTS4oHQP5dRRv) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Clear Horizon](https://open.spotify.com/album/2KHlOaheSp4cgJUzPCLcyC) | 3:18 | 2025-02-18 |  |
 | [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 | 2023-03-25 |  |
 | [Close Together](https://open.spotify.com/track/4tpUdHveADtY3Zg6F7u38H) | [Claudio Manioli](https://open.spotify.com/artist/1gbOMArWIQTrXSFFD23ltq) | [Close Together](https://open.spotify.com/album/3teExejHX9gxm46crmLZam) | 3:08 | 2025-01-14 | 2025-02-10 |

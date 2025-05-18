@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Pra vencer no rap, é preciso dominar os palcos\. Rappers do Brasil se enfrentam nessa competição com Djonga, Filipe Ret e Tasha & Tracie\. Agora no Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,479 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,482 likes - 23 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

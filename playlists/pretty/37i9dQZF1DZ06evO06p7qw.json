@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 176494,
+  "num_followers": 176584,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAJJ/S8+bTd35A1Jy8yJ2Zq",
+  "snapshot_id": "aCaAAAAAAAB9+9eVDN9xRLY67uJdECRN",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo De Estrellas",
-        "url": "https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu"
-      },
-      "artists": [
-        {
-          "name": "Alberto Plaza",
-          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 227429,
-      "name": "Polvo De Estrellas",
-      "url": "https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuerpo y Alma",
         "url": "https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 207733,
       "name": "Cadillac (feat. Manuel Medrano)",
       "url": "https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu"
+      },
+      "artists": [
+        {
+          "name": "Alberto Plaza",
+          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 227429,
+      "name": "Polvo De Estrellas",
+      "url": "https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,668 likes - 86 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,670 likes - 86 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me More Cowboy Than You \- Demo](https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Me More Cowboy Than You \(Demo\)](https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS) | 2:43 |
 | 2 | [Doublewide](https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Wait Til I Get My Money Up](https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl) | 2:38 |
-| 3 | [House Again](https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW) | 3:22 |
+| 3 | [House Again](https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW) | 3:23 |
 | 4 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
 | 5 | [I Got A New One](https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [I Got A New One](https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922) | 2:25 |
 | 6 | [Vice](https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:00 |

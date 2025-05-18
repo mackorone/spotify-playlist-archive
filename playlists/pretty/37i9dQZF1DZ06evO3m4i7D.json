@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAB734gu+G2jGE1EnzYPtz42",
+  "snapshot_id": "aCaAAAAAAADZlp9eXtUe5WVZjg2kEl3Q",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mafioso Americano",
+        "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Tian Glez",
+          "url": "https://open.spotify.com/artist/1D8DPSHgRcnzzHyNFoplMS"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 142501,
+      "name": "Mafioso Americano",
+      "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bachata B\u00e9lica",
         "url": "https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02"
       },
@@ -219,34 +247,6 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mafioso Americano",
-        "url": "https://open.spotify.com/album/0606krUwrFzhgvIzBopq8T"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Tian Glez",
-          "url": "https://open.spotify.com/artist/1D8DPSHgRcnzzHyNFoplMS"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 142501,
-      "name": "Mafioso Americano",
-      "url": "https://open.spotify.com/track/1eFIgq7Wj5cQnDFZ3NfEv8"
     },
     {
       "added_at": null,

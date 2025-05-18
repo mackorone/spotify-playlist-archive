@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 254799,
+  "num_followers": 254834,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAnSCSw8hzAYd24aqtaWcA3",
+  "snapshot_id": "aCaAAAAAAAD+NJeTtAEBAagjnvhonidB",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waitin' for the Bus (2006 Remaster)",
-      "url": "https://open.spotify.com/track/2zNkzCAijAuCYWzxKJeYO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Futura",
         "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 243160,
       "name": "I Gotsta Get Paid",
       "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waitin' for the Bus (2006 Remaster)",
+      "url": "https://open.spotify.com/track/2zNkzCAijAuCYWzxKJeYO2"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+        "name": "El Loco",
+        "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Can't Stop Rockin'",
-      "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
+      "duration_ms": 183800,
+      "name": "Tube Snake Boogie",
+      "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Loco",
-        "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Tube Snake Boogie",
-      "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
+      "duration_ms": 181666,
+      "name": "Can't Stop Rockin'",
+      "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Sleeping Bag",
-      "url": "https://open.spotify.com/track/2i14DjGjf1UQ9VwvB2vRZP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Smoke & BBQ: The ZZ Top Box",
         "url": "https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 283533,
       "name": "Viva Las Vegas - 2003 Remaster",
       "url": "https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Sleeping Bag",
+      "url": "https://open.spotify.com/track/2i14DjGjf1UQ9VwvB2vRZP"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Francine",
-      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 203613,
       "name": "Goin' Down to Mexico",
       "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 281586,
-      "name": "La Grange",
-      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207706,
       "name": "Certified Blues",
       "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "(Somebody Else Been) Shaking Your Tree",
+      "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
         "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 197734,
       "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
       "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "(Somebody Else Been) Shaking Your Tree",
-      "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
     }
   ],
   "unique_name": "This Is ZZ Top",

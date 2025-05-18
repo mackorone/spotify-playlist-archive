@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 494599,
+  "num_followers": 494687,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-05-06 02:45:51",
       "album": {
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+    },
+    {
+      "added_at": "2025-05-06 02:45:51",
+      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
-    },
-    {
-      "added_at": "2025-05-06 02:45:51",
-      "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
     },
     {
       "added_at": "2025-05-06 02:45:51",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-06 02:45:51",
       "album": {
-        "name": "RAYA",
-        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 269300,
-      "name": "Semoga",
-      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
-    },
-    {
-      "added_at": "2025-05-06 02:45:51",
-      "album": {
         "name": "Walking Back Home",
         "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 132762,
       "name": "Walking Back Home",
       "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
+    },
+    {
+      "added_at": "2025-05-06 02:45:51",
+      "album": {
+        "name": "RAYA",
+        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 269300,
+      "name": "Semoga",
+      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
     },
     {
       "added_at": "2025-05-06 02:45:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-05-06 02:45:51",
       "album": {
-        "name": "Sedang Sayang Sayangnya",
-        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
-      },
-      "artists": [
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 261030,
-      "name": "Sedang Sayang Sayangnya",
-      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
-    },
-    {
-      "added_at": "2025-05-06 02:45:51",
-      "album": {
         "name": "Menghapus Jejakmu",
         "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 182414,
       "name": "Menghapus Jejakmu",
       "url": "https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2"
+    },
+    {
+      "added_at": "2025-05-06 02:45:51",
+      "album": {
+        "name": "Sedang Sayang Sayangnya",
+        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 261030,
+      "name": "Sedang Sayang Sayangnya",
+      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
     },
     {
       "added_at": "2025-05-06 02:45:51",

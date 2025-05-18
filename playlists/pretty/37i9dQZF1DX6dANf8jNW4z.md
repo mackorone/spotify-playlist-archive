@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ona Mafalda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,760 likes - 69 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,768 likes - 69 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

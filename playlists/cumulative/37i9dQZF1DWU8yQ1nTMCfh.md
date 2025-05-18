@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Aterciopelados
 
-336 songs - 18 hr 39 min
+337 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Ha Sido](https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 4:11 | 2022-04-15 | 2023-11-04 |
 | [Hey!](https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:30 | 2023-06-30 | 2023-07-15 |
 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 | 2023-04-14 |  |
+| [Historia de Amor](https://open.spotify.com/track/7JbXcqksdCJq12cbj1lPce) | [Franno](https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW) | [Historia de Amor](https://open.spotify.com/album/7JU7T5fvQ1Bi1FBAFrg10i) | 4:13 | 2025-05-17 |  |
 | [Hombre Roto](https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Hombre Roto](https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x) | 3:21 | 2024-09-20 | 2025-02-13 |
 | [Hoy he recibido flores](https://open.spotify.com/track/4R5vlVJ5GvbArGLjqzYNkq) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Comida Rápida](https://open.spotify.com/album/5z5bvRahxSopD1FlSwRY2F) | 3:16 | 2024-04-12 | 2024-07-27 |
 | [i/O](https://open.spotify.com/track/1wd9Niui5BNBP1gGEiJ7v0) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/5EJdLmm3AohQThveyYrsQN) | 3:18 | 2022-04-15 | 2022-12-10 |
@@ -215,7 +216,7 @@
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 | 2023-12-15 |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 | 2024-02-24 |
 | [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 | 2023-02-02 |
-| [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 | 2023-04-07 |  |
+| [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 | 2023-04-07 | 2025-05-18 |
 | [Nos Quieren Dead](https://open.spotify.com/track/3zOqAICxaQok7mkOBe03Ps) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Nos Quieren Dead](https://open.spotify.com/album/1x9s4GTLwVdRVSd04bjvnI) | 3:07 | 2022-04-15 | 2022-12-10 |
 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 | 2023-11-03 |  |
 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 | 2023-01-13 | 2024-06-01 |

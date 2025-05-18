@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Yelitza Cintron
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,289 likes - 70 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,394 likes - 70 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 69 | [Gracias, Señor](https://open.spotify.com/track/1cY9JMcp8IYAvdBWrDC4PI) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu), [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE) | [Gracias, Señor](https://open.spotify.com/album/1grv9kyTHNQyLdlkrExSj5) | 5:05 |
 | 70 | [Habrá Victoria](https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Habrá Victoria](https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU) | 4:07 |
 
-Snapshot ID: `aCI4VgAAAAC7gf+u4KT3jZ5c5KQGwPcO`
+Snapshot ID: `aCI4VgAAAAAf4SrAAShaaIyJH2FXi0eD`

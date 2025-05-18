@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-761 songs - 1 day 15 hr 26 min
+762 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-06-24 | 2022-10-19 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-06-24 | 2023-02-17 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2023-02-11 |
-| [Like Home \(feat\. Teni\)](https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Like Home \(feat\. Teni\)](https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4) | 3:18 | 2025-03-14 |  |
+| [Like Home \(feat\. Teni\)](https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Like Home \(feat\. Teni\)](https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4) | 3:18 | 2025-03-14 | 2025-05-18 |
 | [Like That](https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:56 | 2022-11-04 | 2022-12-09 |
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 | 2024-07-12 |
 | [Link Up](https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Link Up](https://open.spotify.com/album/2vlW2rFQ0V9EnzzYXuhPvg) | 2:33 | 2023-09-29 | 2023-10-13 |
@@ -539,6 +539,7 @@
 | [Put It Down](https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0) | 2:45 | 2023-12-08 | 2024-04-13 |
 | [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3) | 2:01 | 2024-04-05 | 2024-05-09 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 | 2024-10-26 |
+| [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-16 |  |
 | [READY TOO](https://open.spotify.com/track/5q1AD0t4ztK2fOypsWm2P0) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [BayO](https://open.spotify.com/artist/5uJ2BDSYKsha939F2iA2UE), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:01 | 2024-10-04 | 2024-10-13 |
 | [Realize \(feat\. taves\)](https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:13 | 2023-10-17 | 2024-06-28 |
 | [Reason](https://open.spotify.com/track/38saQwfh1lvAvmSNgBogyG) | [Ossi Grace](https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr) | [Reason](https://open.spotify.com/album/31BixmA8kWOTWx5JYfoLAr) | 2:42 | 2024-10-25 | 2024-11-22 |

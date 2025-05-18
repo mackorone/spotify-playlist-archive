@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Pierce The Veil
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,552 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,495 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | ['Bout To Lose It](https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | ['Bout To Lose It](https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5) | 3:41 |
 | 75 | [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 |
 
-Snapshot ID: `aCa4TgAAAAD5iB8DifTDbu5kjE6m9mdg`
+Snapshot ID: `aCa4TgAAAABalrOEu5j00SnV7x/vm5sU`

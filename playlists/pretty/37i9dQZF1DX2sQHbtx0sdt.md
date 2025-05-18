@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 ### [Global Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
-> New and trending hip\-hop from around the world\. Cover: Hamza 🇧🇪
+> New and trending hip\-hop from around the world\. Cover: Werenoi 🇫🇷🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,795 likes - 99 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,908 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 98 | [Wave](https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:25 |
 | 99 | [Joga Bonito](https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Joga Bonito](https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr) | 2:04 |
 
-Snapshot ID: `aCa4YgAAAAApTt4YCrG/LH3zcXmMfAGe`
+Snapshot ID: `aCjNrgAAAAAAfH9BCTOL1wfd3LLq07sC`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 7713,
+  "num_followers": 7717,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABtN52rjh8EMnM7/yX9O1Io",
+  "snapshot_id": "aCaAAAAAAAAQMtgOGvD8jx/KItq/EmE7",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 146688,
-      "name": "Mejor Que Tu Ex",
-      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 227213,
       "name": "Soy Aquel",
       "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 146688,
+      "name": "Mejor Que Tu Ex",
+      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
       "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 233250,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
+      "duration_ms": 132857,
+      "name": "Tesec",
+      "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
     },
     {
       "added_at": null,
@@ -775,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Tesec",
-      "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue Mi Culpa",
         "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
       },
@@ -807,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marc\u00e1ndote",
-        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
       },
       "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Marc\u00e1ndote",
-      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
+      "duration_ms": 233250,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
     },
     {
       "added_at": null,
@@ -839,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+        "name": "Marc\u00e1ndote",
+        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
       },
       "artists": [
         {
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 176359,
-      "name": "Solita Bailando",
-      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
+      "duration_ms": 179066,
+      "name": "Marc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 260000,
       "name": "Ni\u00f1a Buena",
       "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 176359,
+      "name": "Solita Bailando",
+      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
     },
     {
       "added_at": null,

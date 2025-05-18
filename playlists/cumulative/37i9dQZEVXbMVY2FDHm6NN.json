@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6lAvyeD3Nq43AjyCxZQj54"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
@@ -5930,7 +5930,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla"
@@ -5948,7 +5948,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
@@ -6852,7 +6852,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
@@ -6870,7 +6870,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -9682,7 +9682,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
@@ -9700,7 +9700,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
@@ -11322,7 +11322,7 @@
     {
       "album": {
         "name": "\u9694\u8457\u87a2\u5e55\u60f3\u5ff5\u4f60",
-        "url": "https://open.spotify.com/album/5wA2OjoG2jgoMrk4DcSi52"
+        "url": "https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC"
       },
       "artists": [
         {
@@ -11333,6 +11333,24 @@
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184011,
+      "name": "\u9694\u8457\u87a2\u5e55\u60f3\u5ff5\u4f60",
+      "url": "https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y"
+    },
+    {
+      "album": {
+        "name": "\u9694\u8457\u87a2\u5e55\u60f3\u5ff5\u4f60",
+        "url": "https://open.spotify.com/album/5wA2OjoG2jgoMrk4DcSi52"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2025-05-18",
       "duration_ms": 184011,
       "name": "\u9694\u8457\u87a2\u5e55\u60f3\u5ff5\u4f60",
       "url": "https://open.spotify.com/track/4DH5hwWBqaOHlNLJQ9muhg"

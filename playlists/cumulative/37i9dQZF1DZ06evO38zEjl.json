@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 429160,
       "name": "Maarifa Street",
       "url": "https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 167880,
       "name": "Parasol Blanc, pt. 1",
       "url": "https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns"
@@ -2617,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "City: Works Of Fiction",
+        "url": "https://open.spotify.com/album/4kmxYbRDqGg9YPZInmOYgF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563360,
+      "name": "Warriors [Original Fictions]",
+      "url": "https://open.spotify.com/track/3TmN0l2UAezBewz9Gv36E2"
+    },
+    {
+      "album": {
         "name": "Psychogeography (Zones Of Feeling)",
         "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
       },
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 296960,
       "name": "Zahori",
       "url": "https://open.spotify.com/track/5HYLKZoFm2V3RLCNGP4lDl"

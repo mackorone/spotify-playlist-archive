@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 142652,
+  "num_followers": 142705,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "A Night At The Opera",
+        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "The Greatest Hits 1970-2002",
         "url": "https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "A Night At The Opera",
-        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life",
-      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
     },
     {
       "added_at": "2024-06-14 18:07:20",

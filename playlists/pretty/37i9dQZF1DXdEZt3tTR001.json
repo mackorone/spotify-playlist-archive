@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 198707,
+  "num_followers": 198812,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-05-15 21:18:15",
       "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+    },
+    {
+      "added_at": "2025-05-15 21:18:15",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -375,38 +391,6 @@
     {
       "added_at": "2025-05-15 21:18:15",
       "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
-      },
-      "artists": [
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
-    },
-    {
-      "added_at": "2025-05-15 21:18:15",
-      "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 174999,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu"
-    },
-    {
-      "added_at": "2025-05-15 21:18:15",
-      "album": {
         "name": "Maxwell's Urban Hang Suite",
         "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 126973,
       "name": "Art of War",
       "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
+    },
+    {
+      "added_at": "2025-05-15 21:18:15",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 174999,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu"
     },
     {
       "added_at": "2025-05-15 21:18:15",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-05-15 21:18:15",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 369293,
+      "name": "To Zion (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
+    },
+    {
+      "added_at": "2025-05-15 21:18:15",
+      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
-    },
-    {
-      "added_at": "2025-05-15 21:18:15",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 369293,
-      "name": "To Zion (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
     },
     {
       "added_at": "2025-05-15 21:18:15",
@@ -663,38 +663,6 @@
     {
       "added_at": "2025-05-15 21:18:15",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
-    },
-    {
-      "added_at": "2025-05-15 21:18:15",
-      "album": {
-        "name": "Even Closer",
-        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
-      },
-      "artists": [
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
-    },
-    {
-      "added_at": "2025-05-15 21:18:15",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 340013,
       "name": "Between the Sheets",
       "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2025-05-15 21:18:15",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+    },
+    {
+      "added_at": "2025-05-15 21:18:15",
+      "album": {
+        "name": "Even Closer",
+        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
+      },
+      "artists": [
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
     },
     {
       "added_at": "2025-05-15 21:18:15",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-05-15 21:18:15",
       "album": {
-        "name": "Here To Stay",
-        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 202139,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
-    },
-    {
-      "added_at": "2025-05-15 21:18:15",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 318666,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
+    },
+    {
+      "added_at": "2025-05-15 21:18:15",
+      "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 202139,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
     },
     {
       "added_at": "2025-05-15 21:18:15",

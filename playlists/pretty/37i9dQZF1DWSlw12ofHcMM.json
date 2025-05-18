@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1377858,
+  "num_followers": 1377826,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "When You're Ready",
-        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 162673,
-      "name": "Take The Journey",
-      "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Lazaretto",
         "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 230373,
       "name": "High Ball Stepper",
       "url": "https://open.spotify.com/track/4YmSnlzkU5sF4X7aAiXAuY"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "When You're Ready",
+        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 162673,
+      "name": "Take The Journey",
+      "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Where We Are",
+        "url": "https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "Where We Are - Edit",
+      "url": "https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 204121,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Where We Are",
-        "url": "https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Where We Are - Edit",
-      "url": "https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI"
     },
     {
       "added_at": "2024-08-23 15:39:31",

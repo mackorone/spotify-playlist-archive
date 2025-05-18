@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-573 songs - 1 day 9 hr 51 min
+574 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-19 | 2023-04-13 |
 | [Dundee](https://open.spotify.com/track/64fF8kyyZ0i55dgNuslZZM) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Dundee](https://open.spotify.com/album/3BAlFd5A5cniOXQ3jX99dR) | 2:42 | 2024-06-15 | 2024-08-17 |
 | [Déjà Vu](https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Déjà Vu](https://open.spotify.com/album/6lk6qAKg7sIIXdXejLDWuz) | 2:42 | 2022-03-31 | 2022-07-29 |
+| [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 | 2025-05-16 |  |
 | [Egyptian Luvr \(feat\. Aminé and Dana Williams\)](https://open.spotify.com/track/4uToWVHXLtKEEboNsG3n2u) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Dear Annie](https://open.spotify.com/album/16bkk7YWytTk5I3VPMU4mv) | 4:16 | 2022-04-03 | 2022-04-16 |
 | [Elasto](https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ), [Artemis](https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:42 | 2021-12-23 | 2022-07-29 |
 | [empties](https://open.spotify.com/track/50RKXiXT8FqHInz2N1AixD) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [empties](https://open.spotify.com/album/4eGoLvI3uw3abndYvmTFsc) | 3:27 | 2022-03-24 | 2022-04-16 |
@@ -226,7 +227,7 @@
 | [If You Wanna \- Gianni Brezzo Remix](https://open.spotify.com/track/6RH0mdNeoDS7B0E0f2Y47V) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Brand New Choice](https://open.spotify.com/album/1gjsVpD6VbEVDsvoit7J4I) | 4:57 | 2021-12-23 | 2022-04-19 |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-09 | 2023-04-10 |
 | [IN PINK \(feat\. Mndsgn\)](https://open.spotify.com/track/2hh57Boyz8tUEFxvyurmeb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [WINK](https://open.spotify.com/album/0OVqSFvnMWiYgeMfu6VJsB) | 3:45 | 2021-12-23 | 2022-07-19 |
-| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-26 |  |
+| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-26 | 2025-05-18 |
 | [In\-between and Overseas](https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:25 | 2022-02-03 | 2022-07-17 |
 | [Inbox](https://open.spotify.com/track/2w4TYnlQOYSb8p5VQO6YVC) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [Inbox](https://open.spotify.com/album/4DvivU4pOhMpRMP8rFgmxf) | 3:31 | 2023-05-19 | 2023-05-20 |
 | [Inbox](https://open.spotify.com/track/4LDL61N8L0D5FNtgoEsbbV) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [Inbox](https://open.spotify.com/album/6RrIKAz2wR5llEp8QkWYR6) | 3:31 | 2023-05-19 | 2023-09-15 |

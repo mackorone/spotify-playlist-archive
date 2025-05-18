@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-209 songs - 10 hr 45 min
+210 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [3D](https://open.spotify.com/track/1OMlasYCHuDJ6aVJeL4Lnr) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 3:30 | 2022-10-20 | 2022-11-21 |
 | [A Lei](https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:05 | 2025-01-17 |  |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 | 2022-09-30 |
-| [Acqua Passata](https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Acqua Passata](https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT) | 3:09 | 2024-03-07 |  |
+| [Acqua Passata](https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Acqua Passata](https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT) | 3:09 | 2024-03-07 | 2025-05-18 |
 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 | 2022-05-03 | 2024-06-21 |
 | [ALBICOCCA \- lolita](https://open.spotify.com/track/1Bkq1PP6QZrZcpAyEnIKDy) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:42 | 2023-05-18 | 2023-06-28 |
 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-05-03 |  |
@@ -205,6 +205,7 @@
 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |
 | [Un'Altra Notte \(feat\. Priestess\)](https://open.spotify.com/track/5IiE6zhjY9rsXRLhIOyX5h) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Scatola Nera](https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM) | 3:25 | 2022-05-03 | 2023-03-31 |
 | [UNA COME TE](https://open.spotify.com/track/6prylI8YOrVcvR2CKrM9w7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:24 | 2024-06-06 | 2024-06-21 |
+| [Una cotta per te](https://open.spotify.com/track/4JLjRhzGoxXD1vvo5HfVnS) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una cotta per te](https://open.spotify.com/album/20Tx23D3OLPDXBKLvOo8VZ) | 3:06 | 2025-05-17 |  |
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2022-05-03 |  |
 | [Utopia \(feat\. Gemitaiz\)](https://open.spotify.com/track/1YOiFqx9ON69FAQu2EZ1DP) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 3:10 | 2024-05-30 | 2024-06-21 |
 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 | 2022-05-03 |  |

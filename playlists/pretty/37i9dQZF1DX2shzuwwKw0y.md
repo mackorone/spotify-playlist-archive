@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Panter Bélico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,464,387 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,464,686 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 73 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 74 | [LA BATUTA](https://open.spotify.com/track/48YNlQDqghyn4zwMOSCahp) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [LA BATUTA](https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb) | 2:53 |
 
-Snapshot ID: `aCbUbAAAAABtG7BCv8qi8/JMOJ5wCjFH`
+Snapshot ID: `aCbUbAAAAACgDD4CqMJTo/ovmHnWTClQ`

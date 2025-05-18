@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Carry-On Bag",
+        "url": "https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218530,
+      "name": "Carry-On Bag",
+      "url": "https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0"
+    },
+    {
+      "album": {
         "name": "Coast II Coast (feat. USSEL)",
         "url": "https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 167883,
       "name": "Dele Af Mig",
       "url": "https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 182860,
       "name": "Sang Til Min Far",
       "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
@@ -3708,6 +3726,28 @@
       "duration_ms": 160974,
       "name": "Ung & Smuk",
       "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
+    },
+    {
+      "album": {
+        "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
+        "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        },
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152714,
+      "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
+      "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
     },
     {
       "album": {

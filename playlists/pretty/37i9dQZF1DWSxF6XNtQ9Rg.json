@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 228542,
+  "num_followers": 228603,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 167339,
-      "name": "IL MALE CHE MI FAI (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 167339,
+      "name": "IL MALE CHE MI FAI (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
@@ -571,22 +591,6 @@
       "duration_ms": 164776,
       "name": "VETRI NERI",
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 208323,
-      "name": "CENERE",
-      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -631,22 +635,18 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 171375,
-      "name": "Stamm Fort (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
+      "duration_ms": 208323,
+      "name": "CENERE",
+      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/4nJJuilxSgfHHaaC7dwDfp"
       },
@@ -759,26 +775,6 @@
       "duration_ms": 210106,
       "name": "Cupido (feat. Quavo)",
       "url": "https://open.spotify.com/track/0dLToDou8YHYJpQltj3Ijy"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 188564,
-      "name": "PANICO (feat. Takagi & Ketra)",
-      "url": "https://open.spotify.com/track/0SsUOrXUM2gZxVLYizZfQZ"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -843,18 +839,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+      "duration_ms": 188564,
+      "name": "PANICO (feat. Takagi & Ketra)",
+      "url": "https://open.spotify.com/track/0SsUOrXUM2gZxVLYizZfQZ"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -911,34 +911,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "MACHETE MIXTAPE 4",
-        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
-      },
-      "artists": [
-        {
-          "name": "MACHETE",
-          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 144097,
-      "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
-      "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "Vero",
         "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
       },
@@ -967,6 +939,34 @@
       "duration_ms": 145640,
       "name": "Morto Mai",
       "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "MACHETE MIXTAPE 4",
+        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
+      },
+      "artists": [
+        {
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 144097,
+      "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
+      "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 155862,
-      "name": "PIOVE (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "In Italia 2024 (feat. Emma & Baby Gang)",
         "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 245292,
       "name": "In Italia 2024 (feat. Emma & Baby Gang)",
       "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 155862,
+      "name": "PIOVE (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "P Secondigliano (2020 Remaster)",
-        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Nicola Siciliano",
-          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "P Secondigliano - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "P Secondigliano (2020 Remaster)",
+        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "P Secondigliano - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "MADAME",
-        "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 211498,
-      "name": "TU MI HAI CAPITO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "Noi Siamo Il Club (Reloaded Edition)",
         "url": "https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 228906,
       "name": "P.E.S.",
       "url": "https://open.spotify.com/track/4M8filny20Mwlc2gnvtcgU"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "MADAME",
+        "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 211498,
+      "name": "TU MI HAI CAPITO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Mowgli",
-        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
+        "name": "Controcultura",
+        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Chris Nolan",
-          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 203040,
-      "name": "Vertigini",
-      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
+      "duration_ms": 236253,
+      "name": "Vip In Trip",
+      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Controcultura",
-        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
+        "name": "Mowgli",
+        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
         }
       ],
-      "duration_ms": 236253,
-      "name": "Vip In Trip",
-      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
+      "duration_ms": 203040,
+      "name": "Vertigini",
+      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "MM Vol. 2",
-        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
-      },
-      "artists": [
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Veleno 6",
-      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "Mon Fre (feat. Emis Killa)",
         "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 224150,
       "name": "Mon Fre - feat. Emis Killa",
       "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "MM Vol. 2",
+        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Veleno 6",
+      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
     },
     {
       "added_at": "2024-11-28 13:31:00",

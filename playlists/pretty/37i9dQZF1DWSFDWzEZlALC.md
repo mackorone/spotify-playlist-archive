@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: fyne
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,927 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,946 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [Heimweh \(mit ENNIO\)](https://open.spotify.com/track/3Vza3OooLHGSIlc51d2Ivm) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Heimweh \(mit ENNIO\)](https://open.spotify.com/album/7v83LwftJtcrD2lETvGRPy) | 3:28 |
 | 3 | [Geld](https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Geld](https://open.spotify.com/album/1mAReuQiTur46WBDG4e5s0) | 3:02 |
 | 4 | [Dieser Sommer](https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Dieser Sommer](https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e) | 2:06 |
-| 5 | [Zahnpastalippen](https://open.spotify.com/track/1U1sCjxcISO6qb8anFsobw) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 3](https://open.spotify.com/album/2DpmvnAw4saagfvbzzmluI) | 4:04 |
+| 5 | [Zahnpastalippen](https://open.spotify.com/track/1U1sCjxcISO6qb8anFsobw) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 3 \(CONNY's VERSION\)](https://open.spotify.com/album/2DpmvnAw4saagfvbzzmluI) | 4:04 |
 | 6 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 |
 | 7 | [25grad](https://open.spotify.com/track/5UCcH62PMCio1kiV14zcEU) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [25grad](https://open.spotify.com/album/5wWy3JKVtp8E70RHHWtjjc) | 1:50 |
 | 8 | [Mund voll Gold](https://open.spotify.com/track/02xAk8tVXxFFXCREiEzR5t) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Mund voll Gold](https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI) | 3:02 |

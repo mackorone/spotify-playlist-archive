@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,361 likes - 52 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,377 likes - 52 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

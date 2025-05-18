@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 9431,
+  "num_followers": 9432,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAeO+yLAYpb/0qPKmjCP1/B",
+  "snapshot_id": "aCaAAAAAAABUZ0U530Lw7UpPH3wAP+GJ",
   "tracks": [
     {
       "added_at": null,
@@ -187,38 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 201456,
-      "name": "Barrio Pobre",
-      "url": "https://open.spotify.com/track/2on3XmXTtMA1dguAkhCzr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/4HGvjkFxUsx5Hl0czvXbME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo (Unidos por el Rock)",
         "url": "https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2"
       },
@@ -247,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00fabete al Tren",
-        "url": "https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
       },
       "artists": [
         {
@@ -256,9 +224,25 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 234386,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/0QfBQKzl6W16mlsSQFQvT7"
+      "duration_ms": 219973,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/4HGvjkFxUsx5Hl0czvXbME"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 201456,
+      "name": "Barrio Pobre",
+      "url": "https://open.spotify.com/track/2on3XmXTtMA1dguAkhCzr2"
     },
     {
       "added_at": null,
@@ -275,6 +259,22 @@
       "duration_ms": 242053,
       "name": "A Quien Amar",
       "url": "https://open.spotify.com/track/2kkP8WFQhMEAABe6g15M9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00fabete al Tren",
+        "url": "https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/0QfBQKzl6W16mlsSQFQvT7"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
-        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "El Toque M\u00e1gico - En Vivo",
-      "url": "https://open.spotify.com/track/2J6LZUmtPAucGv1fEeTdPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Tex Tex",
         "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 120163,
       "name": "Lobo de Mar",
       "url": "https://open.spotify.com/track/21r4YSbAOuJhzfmUBtPqTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
+        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "El Toque M\u00e1gico - En Vivo",
+      "url": "https://open.spotify.com/track/2J6LZUmtPAucGv1fEeTdPM"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hombre Afortunado",
+        "url": "https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 277556,
+      "name": "Tex Tex Boogie",
+      "url": "https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Toque Magico",
         "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre Afortunado",
-        "url": "https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 277556,
-      "name": "Tex Tex Boogie",
-      "url": "https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Tex Tex",
         "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tex Tex 3",
-        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 252055,
-      "name": "Despedazado",
-      "url": "https://open.spotify.com/track/0KyMslVGDKRMxTcE3ntrjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "*86",
         "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 196186,
       "name": "Se Fue Con Otro",
       "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 252055,
+      "name": "Despedazado",
+      "url": "https://open.spotify.com/track/0KyMslVGDKRMxTcE3ntrjh"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tex Tex 3",
-        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Pancho Panchito",
-      "url": "https://open.spotify.com/track/3lPSwEQpAwvg5JMdDw0ZWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas a Acordar de Mi",
         "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
@@ -551,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque Magico",
-        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
       },
       "artists": [
         {
@@ -560,9 +544,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 317252,
-      "name": "La Calle 16",
-      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
+      "duration_ms": 199862,
+      "name": "Pancho Panchito",
+      "url": "https://open.spotify.com/track/3lPSwEQpAwvg5JMdDw0ZWW"
     },
     {
       "added_at": null,
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tex Tex 3",
-        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
+        "name": "Un Toque Magico",
+        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 229381,
-      "name": "Martin Rocka",
-      "url": "https://open.spotify.com/track/2yxtbkvt9biJlHxkJpN6yM"
+      "duration_ms": 317252,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
     },
     {
       "added_at": null,
@@ -615,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "*86",
-        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
       },
       "artists": [
         {
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 165480,
-      "name": "Esta en Su Mes",
-      "url": "https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo"
+      "duration_ms": 229381,
+      "name": "Martin Rocka",
+      "url": "https://open.spotify.com/track/2yxtbkvt9biJlHxkJpN6yM"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 191746,
       "name": "Octubre 68",
       "url": "https://open.spotify.com/track/1gbPPseEPr7MqjBDL4ckx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "*86",
+        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Esta en Su Mes",
+      "url": "https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque Magico",
-        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 149541,
-      "name": "Devuelvelo",
-      "url": "https://open.spotify.com/track/5ReKWdDtrjJpNVTNbscQJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00fabete al Tren",
         "url": "https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 147906,
       "name": "Fast Food",
       "url": "https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque Magico",
+        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 149541,
+      "name": "Devuelvelo",
+      "url": "https://open.spotify.com/track/5ReKWdDtrjJpNVTNbscQJB"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Tex Tex",
-        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 158197,
-      "name": "Preso",
-      "url": "https://open.spotify.com/track/6bCe3hk84GOK0FirHIKKwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "*86",
         "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 158197,
+      "name": "Preso",
+      "url": "https://open.spotify.com/track/6bCe3hk84GOK0FirHIKKwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Toque Magico",
         "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
       },
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 166612,
-      "name": "Ahora Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/4Xq9japSWyyeMuSyf9tlHD"
+      "duration_ms": 338034,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/5yn1a4D1KPqg2htJdpvQMV"
     }
   ],
   "unique_name": "This Is Tex Tex",

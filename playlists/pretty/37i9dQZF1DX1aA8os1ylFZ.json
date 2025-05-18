@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297559,
+  "num_followers": 297553,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
+    },
+    {
+      "added_at": "2025-05-08 22:00:28",
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 138240,
       "name": "Options",
       "url": "https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o"
-    },
-    {
-      "added_at": "2025-05-08 22:00:28",
-      "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 204447,
-      "name": "AAA",
-      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
     },
     {
       "added_at": "2025-05-08 22:00:28",

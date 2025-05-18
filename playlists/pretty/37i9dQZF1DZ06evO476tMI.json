@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 624940,
+  "num_followers": 624987,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAXnp3qIAHXjezvdoFwRiks",
+  "snapshot_id": "aCaAAAAAAAAvvFnzxdtQmWq3EeqpLdgf",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 296373,
-      "name": "I Love The Lord (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 245533,
       "name": "If I Told You That (feat. George Michael) - Radio Edit",
       "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "duration_ms": 296373,
+      "name": "I Love The Lord (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
     },
     {
       "added_at": null,

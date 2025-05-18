@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 312160,
+  "num_followers": 312213,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
+    },
+    {
+      "added_at": "2025-04-04 18:16:16",
+      "album": {
         "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 151874,
       "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
-    },
-    {
-      "added_at": "2025-04-04 18:16:16",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
     },
     {
       "added_at": "2025-04-04 18:16:16",

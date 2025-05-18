@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 19 min
+73 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Boys](https://open.spotify.com/track/4rIz1mOBHqIo6Mk7DzuoPs) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:26 | 2023-07-28 |  |
 | [Break the Ice](https://open.spotify.com/track/52K4Nl7eVNqUpUeJeWJlwT) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:16 | 2023-07-28 |  |
 | [Breathe on Me](https://open.spotify.com/track/1lK5iIMKifrxERzS3iimJH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 | 2023-07-28 |  |
-| [Can't Make You Love Me](https://open.spotify.com/track/7pY6xLJqmezJNG7VwuKVSH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:17 | 2024-07-11 | 2024-07-12 |
+| [Can't Make You Love Me](https://open.spotify.com/track/7pY6xLJqmezJNG7VwuKVSH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:17 | 2024-07-11 |  |
 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/1rNQgve0esNYM0nOc12xoU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:00 | 2023-07-28 | 2024-10-28 |
 | [Cinderella](https://open.spotify.com/track/4PoTu14Wi2o9l0Rb09gBCa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:39 | 2023-08-09 |  |
 | [Circus](https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:12 | 2023-07-28 |  |
@@ -53,7 +53,7 @@
 | [Mood Ring \(By Demand\)](https://open.spotify.com/track/6NKjfTR7VV2oJnCeKVPNSw) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:50 | 2024-06-15 | 2024-06-16 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2023-12-13 | 2025-04-04 |
 | [My Prerogative](https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Greatest Hits: My Prerogative](https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI) | 3:33 | 2023-07-28 |  |
-| [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2023-07-28 |  |
+| [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2023-07-28 | 2025-05-18 |
 | [Ooh Ooh Baby](https://open.spotify.com/track/68rqXl8LTdwEd2u0QMkWvi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:28 | 2024-03-31 | 2024-07-20 |
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2023-07-28 |  |
 | [Outrageous](https://open.spotify.com/track/2vPCRs3g0vdLU8sHlAEytO) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:21 | 2023-07-28 |  |
@@ -70,7 +70,8 @@
 | [Slumber Party](https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:34 | 2023-07-28 |  |
 | [SMS \(Bangerz\) \(feat\. Britney Spears\)](https://open.spotify.com/track/0mRWl4amZn1FtRx2cE5jf3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 2:49 | 2023-07-30 | 2023-11-11 |
 | [Sometimes](https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:05 | 2023-07-28 |  |
-| [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 | 2023-07-28 |  |
+| [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 | 2023-07-28 | 2025-05-18 |
+| [Stronger \- Adamusic Remix](https://open.spotify.com/track/0ot5Bq9Imz42dUGN8a4oAG) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Adamusic](https://open.spotify.com/artist/6NVuPXuS5axNUoOmNBPIaT) | [Oops!..\. I Did It Again \(25th Anniversary Edition\)](https://open.spotify.com/album/3RRrDxe2LPTII2ySlOvlh6) | 3:36 | 2025-05-18 |  |
 | [The Answer](https://open.spotify.com/track/0o4SpTCEPHIXZv1r6tFsXu) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone DVD Bonus Audio](https://open.spotify.com/album/33sRi69zGkFpDxW92myEYu) | 3:56 | 2023-08-13 | 2023-08-26 |
 | [Till the World Ends](https://open.spotify.com/track/38iU2jg98IZZEIJPrP7aWD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:57 | 2023-07-28 |  |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2023-07-28 |  |

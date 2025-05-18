@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 495,
+  "num_followers": 496,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAdM3ts/PYbuy2WiWc30zMS",
+  "snapshot_id": "aCaAAAAAAABxZUecSIIf3n6QW/c1rii0",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Podemos (No Volver a la Ciudad)",
+        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 187765,
+      "name": "Podemos (No Volver a la Ciudad)",
+      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Me Va la Voz",
         "url": "https://open.spotify.com/album/0l3hGDxoI1CHMTrWkA8u9k"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfSeguimos o No?",
-        "url": "https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 141710,
-      "name": "\u00bfSeguimos o No?",
-      "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Podemos (No Volver a la Ciudad)",
-        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
+        "name": "\u00bfSeguimos o No?",
+        "url": "https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 187765,
-      "name": "Podemos (No Volver a la Ciudad)",
-      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
+      "duration_ms": 141710,
+      "name": "\u00bfSeguimos o No?",
+      "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"
     },
     {
       "added_at": null,
@@ -416,25 +416,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 151846,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 212983,
-      "name": "El Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
+      "duration_ms": 193631,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 212983,
+      "name": "El Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 193631,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR"
+      "duration_ms": 151846,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6"
     },
     {
       "added_at": null,

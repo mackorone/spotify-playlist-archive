@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-344 songs - 18 hr 11 min
+345 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |
 | [I WANNA BE ALIVE](https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [I WANNA BE ALIVE](https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ) | 3:33 | 2025-04-16 |  |
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 |  |
+| [I've Been Gone](https://open.spotify.com/track/5vwbKI4y8QPHENwh1afdjs) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I've Been Gone](https://open.spotify.com/album/3nkvNUzeXNSoyksBQh5xf6) | 4:30 | 2025-05-17 |  |
 | [IDONTKNOW](https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI) | [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx) | [BIG2K](https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6) | 2:06 | 2024-04-11 |  |
 | [if i could meet you there](https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [rodeo](https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7) | 3:08 | 2024-11-18 |  |
 | [if u get lost](https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS) | [ARRYTH](https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ) | [if u get lost](https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0) | 4:31 | 2025-02-23 |  |

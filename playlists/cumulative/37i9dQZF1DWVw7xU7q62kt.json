@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 178753,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/4Hf8Dzr69UplutFptqGLs0"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 175071,
       "name": "Chiang Mai",
       "url": "https://open.spotify.com/track/3H5YOvm8wjCHLwcusAgGxo"
@@ -3477,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Genetics",
+        "url": "https://open.spotify.com/album/3KnsYVyUU5ph2BXz7YgykL"
+      },
+      "artists": [
+        {
+          "name": "Rosemary beats",
+          "url": "https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150810,
+      "name": "Genetics",
+      "url": "https://open.spotify.com/track/1TF6GSfELOcyeKFJLdDrep"
+    },
+    {
+      "album": {
         "name": "Geshem Bejuni",
         "url": "https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP"
       },
@@ -5412,7 +5430,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 125463,
       "name": "Love",
       "url": "https://open.spotify.com/track/3KmawJyuKs4oQTOL7GsZex"
@@ -5674,6 +5692,24 @@
       "duration_ms": 144705,
       "name": "Mantras",
       "url": "https://open.spotify.com/track/5JBhE0SFiEJqfevwqO69AJ"
+    },
+    {
+      "album": {
+        "name": "Maywind",
+        "url": "https://open.spotify.com/album/2fel2GzJzOIbTk2oNFB04h"
+      },
+      "artists": [
+        {
+          "name": "Gabiga",
+          "url": "https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111219,
+      "name": "Maywind",
+      "url": "https://open.spotify.com/track/37OgcwZ2DqEGWq2WqIkzN9"
     },
     {
       "album": {
@@ -9410,6 +9446,24 @@
       "duration_ms": 141191,
       "name": "Terra",
       "url": "https://open.spotify.com/track/6RHmpxgOzMYsZHhhkM4D3l"
+    },
+    {
+      "album": {
+        "name": "Tesselation",
+        "url": "https://open.spotify.com/album/7tAfDoTlLjnOY46xfft5jJ"
+      },
+      "artists": [
+        {
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Tesselation",
+      "url": "https://open.spotify.com/track/6JowVXI7kb8nn8bCeuFd05"
     },
     {
       "album": {

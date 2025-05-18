@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 938099,
+  "num_followers": 938032,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+        "name": "No Sleep (6AM) (feat. MERYLL)",
+        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+      "duration_ms": 146195,
+      "name": "No Sleep (6AM) (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -367,22 +367,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "No Sleep (6AM) (feat. MERYLL)",
-        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 146195,
-      "name": "No Sleep (6AM) (feat. MERYLL)",
-      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -431,26 +431,18 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+        "name": "Movin",
+        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         }
       ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+      "duration_ms": 131000,
+      "name": "Movin",
+      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -515,18 +507,26 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Movin",
-        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Movin",
-      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Senses (Now We Go)",
-        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        },
-        {
-          "name": "ONEDUO",
-          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Senses (Now We Go)",
-      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "Senses (Now We Go)",
+        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "ONEDUO",
+          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Senses (Now We Go)",
+      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1423,34 +1423,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        },
-        {
-          "name": "GRX",
-          "url": "https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM"
-        },
-        {
-          "name": "Thomas Nan",
-          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "The Unexplained",
         "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
       },
@@ -1475,6 +1447,34 @@
       "duration_ms": 135468,
       "name": "Reading My Mind",
       "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "GRX",
+          "url": "https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM"
+        },
+        {
+          "name": "Thomas Nan",
+          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Run It!",
         "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 139842,
       "name": "Run It!",
       "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Chain Gang",
         "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
@@ -1679,22 +1659,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Falling Into You",
-        "url": "https://open.spotify.com/album/4yB1ixQMLOxzor9O66AhGV"
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
       "artists": [
         {
-          "name": "Aspyer",
-          "url": "https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         },
         {
-          "name": "Zander Shine",
-          "url": "https://open.spotify.com/artist/3BrRcxjO72qykq7gcCSxt6"
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Falling Into You",
-      "url": "https://open.spotify.com/track/6kHsGxbqJV7CZJ9hoFWGmR"
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1719,18 +1699,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Never Be The One",
-        "url": "https://open.spotify.com/album/4ZdN8rIiR7cqspFPLhGwRC"
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/4yB1ixQMLOxzor9O66AhGV"
       },
       "artists": [
         {
-          "name": "Wonbeat & Purpose",
-          "url": "https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb"
+          "name": "Aspyer",
+          "url": "https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF"
+        },
+        {
+          "name": "Zander Shine",
+          "url": "https://open.spotify.com/artist/3BrRcxjO72qykq7gcCSxt6"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Never Be The One",
-      "url": "https://open.spotify.com/track/10r5LCyAwyyAcXDk3tSJGo"
+      "duration_ms": 187500,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/6kHsGxbqJV7CZJ9hoFWGmR"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1811,22 +1795,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/1TbWdchy86OGM3VYBWpH3K"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Bronk",
-          "url": "https://open.spotify.com/artist/4Iau0oBg23all6HbsD98lm"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/2tb7YJrPpuBJAz1oUNxmTU"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
       },
@@ -1847,6 +1815,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
+        "name": "Never Be The One",
+        "url": "https://open.spotify.com/album/4ZdN8rIiR7cqspFPLhGwRC"
+      },
+      "artists": [
+        {
+          "name": "Wonbeat & Purpose",
+          "url": "https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Never Be The One",
+      "url": "https://open.spotify.com/track/10r5LCyAwyyAcXDk3tSJGo"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 166954,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/1TbWdchy86OGM3VYBWpH3K"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Bronk",
+          "url": "https://open.spotify.com/artist/4Iau0oBg23all6HbsD98lm"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/2tb7YJrPpuBJAz1oUNxmTU"
     },
     {
       "added_at": "2025-05-16 04:00:36",

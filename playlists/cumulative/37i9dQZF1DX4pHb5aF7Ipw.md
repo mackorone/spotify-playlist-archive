@@ -4,12 +4,13 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by Bella, VE5 , Insane Muzik, and more!
 
-525 songs - 1 day 0 hr 21 min
+526 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 OF 1](https://open.spotify.com/track/1ROy541BR9JTK71n28Br8y) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO) | [NO REMORSE](https://open.spotify.com/album/1kAlPyvPOUkphqKNBvfnjS) | 2:44 | 2025-03-14 |  |
 | [187](https://open.spotify.com/track/3R9EDJf02SHYmvVBZMyT7U) | [RAJVATAN](https://open.spotify.com/artist/6wRG9Lthv9yIObu4DVaKLP) | [187](https://open.spotify.com/album/1r4cmZ1jeq9VEgBbHmXBBL) | 3:07 | 2024-11-21 | 2025-01-18 |
+| [2 GHODIAN](https://open.spotify.com/track/6b6LTPZTE0vj4zzWZUqMGJ) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk) | [LIMITLESS](https://open.spotify.com/album/3QgOTlqB1nEnDGEqFLm7jx) | 2:43 | 2025-05-17 |  |
 | [2022 FLOW](https://open.spotify.com/track/1qcpSQiAl6kajIIOCqoFsp) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2022 FLOW](https://open.spotify.com/album/2Jm9MaeVuCjrn4IQfeS4im) | 3:51 | 2023-03-18 | 2023-08-01 |
 | [2024 FLOW](https://open.spotify.com/track/3LXSXyvucHKJehG54nq0hx) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2024 FLOW](https://open.spotify.com/album/0iLCdv2DbH7yCWDCpd9YHZ) | 5:32 | 2024-01-03 | 2024-03-01 |
 | [2025 FLOW](https://open.spotify.com/track/0o6j2OLr5tUvpGldAYjLUw) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh) | [2025 FLOW](https://open.spotify.com/album/7rhYIxUBvfOSO5QuCoMVKx) | 6:08 | 2025-01-07 | 2025-02-07 |

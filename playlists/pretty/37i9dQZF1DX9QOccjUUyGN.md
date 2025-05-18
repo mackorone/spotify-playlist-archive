@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Arthurzim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,040 likes - 33 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,039 likes - 33 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

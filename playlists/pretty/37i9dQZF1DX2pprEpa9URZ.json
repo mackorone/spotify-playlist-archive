@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 846703,
+  "num_followers": 847796,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/6cNPWbCd1pyK7jAgZYa3VF"
-      },
-      "artists": [
-        {
-          "name": "KARABA",
-          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
-        }
-      ],
-      "duration_ms": 280162,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/2fU6FZYhp33uEIc8HLYUdv"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "Se Va, Se Va",
         "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
       },
@@ -731,22 +715,6 @@
       "duration_ms": 449509,
       "name": "Se Va, Se Va",
       "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
-        "name": "Portrait of the Obscure",
-        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 258137,
-      "name": "Pulse Antique",
-      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -767,22 +735,34 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Agua e pipa",
-        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
       },
       "artists": [
         {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Jose Solano",
-          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         }
       ],
-      "duration_ms": 202553,
-      "name": "Agua e pipa",
-      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
+      "duration_ms": 258137,
+      "name": "Pulse Antique",
+      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/6cNPWbCd1pyK7jAgZYa3VF"
+      },
+      "artists": [
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "duration_ms": 280162,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/2fU6FZYhp33uEIc8HLYUdv"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -799,6 +779,26 @@
       "duration_ms": 139312,
       "name": "Akenza",
       "url": "https://open.spotify.com/track/67RI2O6JgdeBENhn6rY4eG"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Agua e pipa",
+        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Jose Solano",
+          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
+        }
+      ],
+      "duration_ms": 202553,
+      "name": "Agua e pipa",
+      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -827,18 +827,22 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Take My Soul",
-        "url": "https://open.spotify.com/album/4ipFhUfKtqjGtioSnXAjaT"
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+        },
+        {
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
         }
       ],
-      "duration_ms": 406000,
-      "name": "Take My Soul",
-      "url": "https://open.spotify.com/track/6phgQswSRcZUp5vTOSGzqv"
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -859,22 +863,18 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+        "name": "Take My Soul",
+        "url": "https://open.spotify.com/album/4ipFhUfKtqjGtioSnXAjaT"
       },
       "artists": [
         {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
-        },
-        {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+      "duration_ms": 406000,
+      "name": "Take My Soul",
+      "url": "https://open.spotify.com/track/6phgQswSRcZUp5vTOSGzqv"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "DJ Kent",
-          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
-        }
-      ],
-      "duration_ms": 224467,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        }
+      ],
+      "duration_ms": 224467,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 294661,
       "name": "El Dolor",
       "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1043,18 +1043,34 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
       "artists": [
         {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
         }
       ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1075,22 +1091,6 @@
       "duration_ms": 416014,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+      },
+      "artists": [
+        {
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
         "name": "Let It Burn",
         "url": "https://open.spotify.com/album/5ScFfQtWzrR41CIccSLbas"
       },
@@ -1243,26 +1263,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
-      },
-      "artists": [
-        {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "Magic Workout",
         "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
@@ -1279,26 +1279,26 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Sorofe",
-        "url": "https://open.spotify.com/album/1IC43G0XM6s7P6NhSgfKgN"
+        "name": "Bem a Tempo (Yemanjo Remix)",
+        "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
       "artists": [
         {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
         },
         {
-          "name": "Niraj Naik",
-          "url": "https://open.spotify.com/artist/1b6fkBCxVg18jRbQX5vyYk"
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
         },
         {
-          "name": "Nicolle Rochelle",
-          "url": "https://open.spotify.com/artist/6KqrWNQDVycyqwk8G1SkQL"
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
         }
       ],
-      "duration_ms": 252055,
-      "name": "Sorofe",
-      "url": "https://open.spotify.com/track/4bfbIvejny3qtgWJYXFLE3"
+      "duration_ms": 337714,
+      "name": "Bem a Tempo - Yemanjo Remix",
+      "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1327,26 +1327,26 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Bem a Tempo (Yemanjo Remix)",
-        "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
+        "name": "Sorofe",
+        "url": "https://open.spotify.com/album/1IC43G0XM6s7P6NhSgfKgN"
       },
       "artists": [
         {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
         },
         {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+          "name": "Niraj Naik",
+          "url": "https://open.spotify.com/artist/1b6fkBCxVg18jRbQX5vyYk"
         },
         {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+          "name": "Nicolle Rochelle",
+          "url": "https://open.spotify.com/artist/6KqrWNQDVycyqwk8G1SkQL"
         }
       ],
-      "duration_ms": 337714,
-      "name": "Bem a Tempo - Yemanjo Remix",
-      "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+      "duration_ms": 252055,
+      "name": "Sorofe",
+      "url": "https://open.spotify.com/track/4bfbIvejny3qtgWJYXFLE3"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
+        "name": "Jadal",
+        "url": "https://open.spotify.com/album/7aYJLmJnVLvJgcYDsSRxia"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Jadal",
+      "url": "https://open.spotify.com/track/2dEdNAcicTl5EUefwI87DW"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
         "name": "Where's My Voice?",
         "url": "https://open.spotify.com/album/1Iix0stRVi0IPp0NPM3CD0"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Jadal",
-        "url": "https://open.spotify.com/album/7aYJLmJnVLvJgcYDsSRxia"
-      },
-      "artists": [
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Jadal",
-      "url": "https://open.spotify.com/track/2dEdNAcicTl5EUefwI87DW"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "A Paga",
         "url": "https://open.spotify.com/album/1aMcDRyZrFLG9ZbZfXY7w3"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "My Pure Soul",
-        "url": "https://open.spotify.com/album/2AUDTriJVz2RDyKSweOyem"
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
       "artists": [
         {
-          "name": "Khen",
-          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         }
       ],
-      "duration_ms": 458517,
-      "name": "My Pure Soul",
-      "url": "https://open.spotify.com/track/6zIXKdIG7aHSg6sbgALaS2"
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2025-05-02 12:22:07",

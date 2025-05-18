@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > ⋆.
 
-[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 625 songs - 1 day 10 hr 2 min
+[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 627 songs - 1 day 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -633,5 +633,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 623 | [0% Angel](https://open.spotify.com/track/0l2Ob0zMIQ21gJn642HyQ1) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Ephemeral](https://open.spotify.com/album/4aJdRGvDt8BAU8Po8Sr3dg) | 3:54 |
 | 624 | [Somebody To Love](https://open.spotify.com/track/3rLIv187BhjyweFe89SgLn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:40 |
 | 625 | [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 |
+| 626 | [Sound of Madness](https://open.spotify.com/track/0pJUUPm7vb34VNImGEkg0L) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness \(Deluxe Edition\)](https://open.spotify.com/album/4KnWR76aRieR6QREuid3y7) | 3:53 |
+| 627 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 |
 
-Snapshot ID: `AAAEKAYeoWegYJkf/jjc6qeMyJOqZbwd`
+Snapshot ID: `AAAEKucvDVYvVqh/qlY14ty3oTKlyK5f`

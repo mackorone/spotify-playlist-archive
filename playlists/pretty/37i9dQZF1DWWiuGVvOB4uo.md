@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,419 likes - 138 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,551 likes - 138 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 98 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
 | 99 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 100 | [Glad He's Gone](https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Glad He's Gone](https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa) | 3:42 |
-| 101 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
+| 101 | [Issues \- Acoustic Version](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
 | 102 | [Lovely](https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Lovely](https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M) | 3:09 |
 | 103 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 |
 | 104 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 |

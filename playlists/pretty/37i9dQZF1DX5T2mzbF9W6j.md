@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,341 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,338 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 48 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 |
 | 49 | [Burza](https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Burza](https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj) | 3:03 |
 | 50 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 |
-| 51 | [A może](https://open.spotify.com/track/4LN6Yc7911kZjA1BpfKFLo) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [A może](https://open.spotify.com/album/05KMnTJ04s20nZ3NcqMxpf) | 2:33 |
-| 52 | [Dziewczyny Nie Płaczą](https://open.spotify.com/track/3HVcdH7cIOBYGsh274XadC) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Dziewczyny Nie Płaczą](https://open.spotify.com/album/3Ci1G2TzjXgOrIPIJMtCMW) | 3:16 |
+| 51 | [Dziewczyny Nie Płaczą](https://open.spotify.com/track/3HVcdH7cIOBYGsh274XadC) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Dziewczyny Nie Płaczą](https://open.spotify.com/album/3Ci1G2TzjXgOrIPIJMtCMW) | 3:16 |
+| 52 | [A może](https://open.spotify.com/track/4LN6Yc7911kZjA1BpfKFLo) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [A może](https://open.spotify.com/album/05KMnTJ04s20nZ3NcqMxpf) | 2:33 |
 | 53 | [IKYK](https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [for your validation](https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd) | 2:46 |
 | 54 | [Ostatni Dzień](https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Ostatni Dzień](https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO) | 3:16 |
-| 55 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
-| 56 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 |
+| 55 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 |
+| 56 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
 | 57 | [Szybkie tempo](https://open.spotify.com/track/3vUOx5hDgZPOdmdTMzw6M0) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Szybkie tempo](https://open.spotify.com/album/1N6IDrFuF8B8KZ2O5Zs79P) | 3:05 |
 | 58 | [Przy Tobie](https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Przy Tobie](https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz) | 2:40 |
 | 59 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |

@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 175385,
       "name": "Asteromata",
       "url": "https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz"
@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 159493,
       "name": "Baller",
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc"
@@ -4772,7 +4772,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
@@ -5696,7 +5696,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1"
@@ -8474,7 +8474,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 65857,
       "name": "Done With Yuh Ex",
       "url": "https://open.spotify.com/track/6uBRere1GQE2YhnSwRmLeB"
@@ -9502,7 +9502,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -9520,7 +9520,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -12552,6 +12552,24 @@
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ"
+      },
+      "artists": [
+        {
+          "name": "Sissal",
+          "url": "https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
     },
     {
       "album": {
@@ -15722,7 +15740,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 151560,
       "name": "Interpol.com",
       "url": "https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx"
@@ -17302,7 +17320,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 180068,
       "name": "Laika Party",
       "url": "https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo"
@@ -18144,7 +18162,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
@@ -18674,7 +18692,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 99285,
       "name": "LOS VOLTAJE",
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
@@ -19544,7 +19562,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 243561,
       "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
       "url": "https://open.spotify.com/track/0xSd7MjLb8eCdSraudx0SJ"
@@ -20230,7 +20248,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 298413,
       "name": "Meine gro\u00dfe Liebe",
       "url": "https://open.spotify.com/track/7H1xPBRWYLhPGluTUDUYOw"
@@ -23408,7 +23426,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 210493,
       "name": "Original",
       "url": "https://open.spotify.com/track/5GIRDsQNm7G7GXQNGJmhCn"
@@ -27404,7 +27422,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 65806,
       "name": "Shake It To The Max (FLY)",
       "url": "https://open.spotify.com/track/00J4bWqWdiCeYrOJn2q74z"
@@ -27680,6 +27698,24 @@
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "album": {
+        "name": "Shh",
+        "url": "https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8"
+      },
+      "artists": [
+        {
+          "name": "Theo Evan",
+          "url": "https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177496,
+      "name": "Shh",
+      "url": "https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14"
     },
     {
       "album": {
@@ -29730,7 +29766,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 184626,
       "name": "Tach Tach",
       "url": "https://open.spotify.com/track/7B5bGlw1n5iEIMsUmGTypc"
@@ -30188,6 +30224,24 @@
       "duration_ms": 110942,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/5juhjvfn7Ve8o7wbCAhB2E"
+    },
+    {
+      "album": {
+        "name": "Tavo akys",
+        "url": "https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F"
+      },
+      "artists": [
+        {
+          "name": "Katarsis",
+          "url": "https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Tavo akys",
+      "url": "https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo"
     },
     {
       "album": {
@@ -32516,7 +32570,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 169818,
       "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
       "url": "https://open.spotify.com/track/4pRAG3h4ZTfyEhRMytddzd"
@@ -34850,6 +34904,24 @@
       "duration_ms": 236721,
       "name": "Zirkusprinz",
       "url": "https://open.spotify.com/track/1ont88SZ5PWVdL9ON0aGWt"
+    },
+    {
+      "album": {
+        "name": "Zjerm",
+        "url": "https://open.spotify.com/album/47NwjY71L1a5EJ82IOhr2i"
+      },
+      "artists": [
+        {
+          "name": "Shkodra Elektronike",
+          "url": "https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Zjerm",
+      "url": "https://open.spotify.com/track/1MMfGAHowKNRithYDIRS1k"
     },
     {
       "album": {

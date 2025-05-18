@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/15Om2Twy4OFk32Y3CKD5jH?si=47Ybr84ESCKVYf2w6d93CA">tait mills</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,776 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,778 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 7 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 8 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 9 | [The Moment](https://open.spotify.com/track/0Rf0LWliYmiYVGvS2wCMj2) | [Likkewaan](https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3) | [The Moment](https://open.spotify.com/album/3T9CfObvg25e4HTK8E8zr4) | 3:30 |
-| 10 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 |
+| 10 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 11 | [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 |
-| 12 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
+| 12 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 |
 | 13 | [Chance To Grow](https://open.spotify.com/track/1fbgS4G5skBihaUmPlVgDB) | [Seth Cort](https://open.spotify.com/artist/7uyVkgK0Tm9mdR72Fb2KhQ) | [Chance To Grow](https://open.spotify.com/album/3iWuBHfBBuVC3AglZCGDgU) | 3:21 |
 | 14 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 15 | [Creature Skin](https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Map // Creature Skin](https://open.spotify.com/album/5QbJqqzsFQV2B7JW8ZHwHr) | 3:10 |
-| 16 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 16 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
 | 17 | [Alright](https://open.spotify.com/track/1zXhIbfGBH5rYsSH4iLoSM) | [Luvleigh](https://open.spotify.com/artist/3gHP5XQzzkVpM1DKgURIEd) | [Alright](https://open.spotify.com/album/3bbOe686Dw6eM4QMuNXt9Z) | 3:46 |
-| 18 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
+| 18 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
 | 19 | [Rivers Run Red](https://open.spotify.com/track/62UhV1TTMWqAKvoQHt8ClT) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [The New Eve / Rivers Run Red](https://open.spotify.com/album/7gUMLfkzb45lMwN1O5MVSl) | 3:19 |
-| 20 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
+| 20 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
 | 21 | [I Can Take It](https://open.spotify.com/track/55LwxMq33hkzMNUlUjajxq) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [I Can Take It](https://open.spotify.com/album/1iSBZTIBlZuGivrBHk1Yry) | 4:24 |
 | 22 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 23 | [Feel Something](https://open.spotify.com/track/0EozgtHJL578iobhVcodiS) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Feel Something](https://open.spotify.com/album/6Zs16k742zGTAsJMrFww6C) | 2:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 45 | [Weight](https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Weight](https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6) | 3:11 |
 | 46 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 47 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
-| 48 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 |
-| 49 | [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 |
-| 50 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 |
+| 48 | [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 |
+| 49 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 |
+| 50 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 |
 
 Snapshot ID: `aCcAGQAAAAC5ln84MIi+/mFAyoI+isIa`

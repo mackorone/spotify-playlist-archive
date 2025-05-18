@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "Contigo Me Clav\u00e9",
+        "url": "https://open.spotify.com/album/6uGTUztRfPH7dAD2BZO6AH"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164124,
+      "name": "Contigo Me Clav\u00e9",
+      "url": "https://open.spotify.com/track/5mnyuYUNBvaxdUpPO5Eevz"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Jodido",
         "url": "https://open.spotify.com/album/2hiF7rho0MmUdmhq7MvgqE"
       },
@@ -860,7 +882,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 194543,
       "name": "Ni Antes, Ni Despu\u00e9s",
       "url": "https://open.spotify.com/track/2shSkaNEqnD0xZoLXpUIUJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > om du var ett hav vore jag en våg 🌊 om du var himmelen skulle jag ha vingar 🪽🪽
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,713 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,690 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

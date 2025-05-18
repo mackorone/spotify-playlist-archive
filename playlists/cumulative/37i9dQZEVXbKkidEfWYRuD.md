@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,862 songs - 3 day 14 hr 27 min
+1,863 songs - 3 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Like A G6](https://open.spotify.com/track/5BY094QwLvZFh737Ytvgpy) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Like A G6](https://open.spotify.com/album/6jPVgoDrLrS7dfFH46RD6y) | 2:53 | 2022-12-17 | 2023-02-07 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 | 2023-03-29 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 | 2023-03-27 |
-| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-08 |  |
+| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-08 | 2025-05-18 |
 | [LIKE WEEZY](https://open.spotify.com/track/4zK082ykqJzJGzC64NXjp1) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:55 | 2025-03-15 | 2025-03-18 |
 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-11-09 | 2023-03-09 |
 | [LIPSI HA](https://open.spotify.com/track/1D4ptfeNRLRWu52uzIXW5d) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [LIPSI HA](https://open.spotify.com/album/4wkPIWpRZtBEUUJeChuqVc) | 2:01 | 2021-09-12 | 2021-11-21 |
@@ -1188,7 +1188,7 @@
 | [Выпей меня](https://open.spotify.com/track/5O1Y35vDQQjCXTFo8BEBrr) | [Kambulat](https://open.spotify.com/artist/4ENNw1y7XuWPt7tvzoQ8Pz) | [Выпей меня](https://open.spotify.com/album/3PZkGXmFOEhSmqPdIyF6GD) | 2:42 | 2022-02-05 | 2022-02-12 |
 | [Выстрелы](https://open.spotify.com/track/0WXJnzwQSpPk7Vwq6d3Zoo) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO), [WormGanger](https://open.spotify.com/artist/086P64oKI020Z4jiNCmYwf) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:55 | 2022-04-30 | 2022-05-02 |
 | [Відповідь](https://open.spotify.com/track/1KaPYUW5CmazXymJ5yYCD9) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Відповідь](https://open.spotify.com/album/3IM5wixuY2f1FFsHt5UzIY) | 3:30 | 2024-02-24 | 2024-02-26 |
-| [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 | 2023-05-04 |  |
+| [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 | 2023-05-04 | 2025-05-18 |
 | [Відьми](https://open.spotify.com/track/7mCemRaeeezaB97MPPkhfG) | [BALKON](https://open.spotify.com/artist/3mRaoamjAyrixUbbej4KFu) | [Відьми](https://open.spotify.com/album/5BI2Pp4JUcfe47Dlbyp8Ah) | 3:21 | 2022-12-16 | 2023-01-24 |
 | [ГАДДЕМІТ](https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [ГАДДЕМІТ](https://open.spotify.com/album/1yg8JJLkBXE93Y6dDya9Tr) | 2:31 | 2023-06-17 | 2023-10-01 |
 | [ГАНЬГ Аутро \(feat\. Bushido Zho, Scally Milano, MAYOT, Magnum Opus, SEEMEE, YUNGWAY\)](https://open.spotify.com/track/3MfoVUFEXWX6bxbACLVZEG) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [Magnum Opus](https://open.spotify.com/artist/0WCOJtjn0LNnc0pLh2S6gu), [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt), [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ) | [FREERIO](https://open.spotify.com/album/5zkFFXDh9W9457YNxel2gO) | 1:45 | 2021-05-18 | 2021-08-15 |
@@ -1702,6 +1702,7 @@
 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 | 2024-07-21 | 2024-10-20 |
 | [ТЕНИ ХИРОСИМЫ](https://open.spotify.com/track/5U3pRVdrfpn4SZq2Iwmq0q) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [ТЕНИ ХИРОСИМЫ](https://open.spotify.com/album/4ooEs2XkTU17xhnnbY3CG2) | 2:14 | 2021-09-05 | 2021-10-14 |
 | [Тень](https://open.spotify.com/track/3BFEi4AfcmFeKvrWuFtMAH) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:03 | 2021-12-04 | 2021-12-05 |
+| [Терпи](https://open.spotify.com/track/128SUhn3JHHUpAWoLglGmb) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Терпи](https://open.spotify.com/album/2G4edAxlCEuntZguhTQO58) | 2:29 | 2025-05-17 |  |
 | [Тесно](https://open.spotify.com/track/32KaMkGx3AZPQcHd8suXCb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B) | [Тесно](https://open.spotify.com/album/2N4ty17KyISqTHuoz1fj2v) | 2:12 | 2022-08-05 | 2022-08-14 |
 | [Тесно](https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:12 | 2022-08-13 | 2023-03-08 |
 | [Тетяна](https://open.spotify.com/track/18NiVEPOyvGYcPswG6uxDJ) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Тетяна](https://open.spotify.com/album/6tM3oNRQAI64OBymEYr7pX) | 4:22 | 2024-02-10 | 2024-03-02 |
@@ -1869,6 +1870,6 @@
 | [інша любов](https://open.spotify.com/track/24s8SuDR01re1GxkELG7d0) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/4zcUoQhejdz93W8CS1Yzsx) | 4:08 | 2022-07-16 | 2022-10-18 |
 | [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 | 2023-07-20 |
 | [Їде дах](https://open.spotify.com/track/6o6FSfuZKyaFQjTDWrNLx0) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/0TEDqckCsqdG080yh5IiVP) | 3:00 | 2024-08-14 | 2024-09-22 |
-| [Їде дах](https://open.spotify.com/track/7bBZdL9ZTDKbNN7J1Alla4) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/5aHW08dm8AyF8HG8YaV7co) | 3:00 | 2024-09-21 | 2025-05-17 |
+| [Їде дах](https://open.spotify.com/track/7bBZdL9ZTDKbNN7J1Alla4) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/5aHW08dm8AyF8HG8YaV7co) | 3:00 | 2024-09-21 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

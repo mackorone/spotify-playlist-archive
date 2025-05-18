@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jang Soo Bin\(장수빈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,990 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,012 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 48 | [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 |
 | 49 | [THOUGHTS](https://open.spotify.com/track/62jVx6znQJGcqaVXtEfNeq) | [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [THOUGHTS](https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh) | 3:07 |
 
-Snapshot ID: `aCKtnQAAAABWPWvM8b8sS8qCJqweYA+k`
+Snapshot ID: `AAAAAOJqoKJylbU+8Ki1gOmR9GvYZf/4`

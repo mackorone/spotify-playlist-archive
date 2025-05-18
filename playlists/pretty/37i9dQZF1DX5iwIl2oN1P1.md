@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,660 likes - 65 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,699 likes - 65 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

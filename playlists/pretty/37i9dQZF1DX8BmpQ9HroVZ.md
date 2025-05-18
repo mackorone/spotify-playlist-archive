@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,782 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,175 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 10 | [Ishq](https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 3:44 |
 | 11 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
 | 12 | [Departure Lane](https://open.spotify.com/track/7wGgYAOMhhRObOGdWlJ9Hi) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [My Terrible Mind](https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE) | 2:46 |
-| 13 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 13 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 14 | [Aura](https://open.spotify.com/track/0fAPcsD7qrEAfO2EH0ce4V) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/2JpU8VtlJR0XFkkLeHjNzl) | 2:45 |
 | 15 | [Haseen](https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Haseen](https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx) | 2:54 |
 | 16 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |

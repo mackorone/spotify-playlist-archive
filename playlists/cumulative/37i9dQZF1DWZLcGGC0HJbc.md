@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-151 songs - 8 hr 53 min
+153 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 | 2025-03-28 |  |
 | [crooked the road.](https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [crooked the road.](https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL) | 2:55 | 2025-01-23 | 2025-05-02 |
 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 | 2025-01-23 |  |
-| [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-23 |  |
+| [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-23 | 2025-05-18 |
 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 | 2025-04-04 |  |
 | [Dead Man Walking.](https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 4: Atonement](https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD) | 2:54 | 2025-01-23 | 2025-05-02 |
 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 | 2025-01-23 |  |
@@ -106,7 +106,7 @@
 | [Nancy Nancy Nancy \- Acoustic Version](https://open.spotify.com/track/7EiAQRcwpJwekg22aVMT1s) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Nancy, Nancy, Nancy \(Acoustic Version\)](https://open.spotify.com/album/5tAFeCF9wt0hdlxM70lYKU) | 2:47 | 2024-06-27 | 2025-01-24 |
 | [Never gone](https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Never gone](https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM) | 5:22 | 2024-06-27 | 2025-04-12 |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-10-03 |  |
-| [No Kissing on a Sunday](https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [No Kissing on a Sunday](https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh) | 2:44 | 2025-01-23 |  |
+| [No Kissing on a Sunday](https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [No Kissing on a Sunday](https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh) | 2:44 | 2025-01-23 | 2025-05-18 |
 | [No Known Known](https://open.spotify.com/track/74miorVetcJTW2t1tXoWRY) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [No Known Known](https://open.spotify.com/album/5XQJnagOosrr8mOfctlfKP) | 2:38 | 2025-03-13 | 2025-04-02 |
 | [Not Like Yesterday](https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Not Like Yesterday](https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz) | 3:40 | 2025-02-03 | 2025-02-23 |
 | [Oh Wide World](https://open.spotify.com/track/6B16dc3mOK69pcPY0cDAiv) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Oh Wide World](https://open.spotify.com/album/7lAy11wBJhfqMwtURlwGgj) | 2:59 | 2025-05-01 |  |
@@ -129,6 +129,7 @@
 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 | 2025-03-16 |
 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 | 2025-03-13 |  |
 | [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |
+| [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-05-15 |  |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-27 | 2025-02-21 |
 | [stones at your window](https://open.spotify.com/track/6Vs8eNSJbMXp5kmGDqSlSF) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [losing track of time on the train ride home](https://open.spotify.com/album/3F2dUsDsvFzcjvdlIZlevm) | 3:24 | 2024-06-27 | 2024-12-19 |
 | [Strange Way](https://open.spotify.com/track/2DeFyVNghqKnbMLCLWzxE0) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 3:25 | 2025-02-20 | 2025-02-26 |
@@ -141,6 +142,7 @@
 | [The Giant](https://open.spotify.com/track/5Jl6UX6DzT1nf5EiuPdfuk) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [The Giant](https://open.spotify.com/album/60JyYSkfOJB9JlcUl5HNs2) | 8:12 | 2024-08-30 | 2025-01-24 |
 | [The Risk](https://open.spotify.com/track/4G7lABf8I3uFBBX9XkDa4Z) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [The Risk](https://open.spotify.com/album/4Ettijl3wphOA1GCzx8n0i) | 3:42 | 2025-04-17 | 2025-05-14 |
 | [The Rules](https://open.spotify.com/track/7KaxdBwLy3WaZHOaZQwaw2) | [Plume](https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ) | [The Rules](https://open.spotify.com/album/6ixQBPjQSxlp1ITpzyzTHj) | 3:29 | 2024-10-22 | 2025-01-24 |
+| [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 | 2025-05-15 |  |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-13 | 2025-04-05 |
 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 | 2025-01-23 |  |
 | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/track/69qQyuhXYMJLOZPVOAEFaT) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/album/0Z5SZepPMUB2OlzrvTDepR) | 2:48 | 2024-06-27 | 2024-09-20 |

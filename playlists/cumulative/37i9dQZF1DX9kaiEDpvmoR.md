@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-362 songs - 20 hr 47 min
+363 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-08-16 |
 | [Möt mig i Gamla Stan \(Swing Version\)](https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Se mig bara för den jag är](https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh) | 3:06 | 2024-06-27 | 2024-08-23 |
+| [Nattvarden](https://open.spotify.com/track/1IjMd90FeQohKCBHQw51DE) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Nattvarden](https://open.spotify.com/album/2AwHOKdct7NhCOyvVLeczR) | 4:32 | 2025-05-15 |  |
 | [Need You](https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Need You](https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0) | 3:14 | 2024-06-27 | 2024-08-30 |
 | [No More Blues](https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 5:46 | 2024-10-10 | 2025-04-25 |
 | [No More You](https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [No More You](https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq) | 2:56 | 2024-10-10 | 2025-04-25 |
@@ -357,7 +358,7 @@
 | [Whenever Until Forever](https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Whenever Until Forever](https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH) | 3:44 | 2024-06-27 | 2024-08-30 |
 | [While you got me](https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [While you got me](https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ) | 3:31 | 2025-05-01 |  |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-22 | 2025-04-11 |
-| [Whiskey Tears II](https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Whiskey Tears II](https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2) | 2:56 | 2025-01-09 |  |
+| [Whiskey Tears II](https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Whiskey Tears II](https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2) | 2:56 | 2025-01-09 | 2025-05-18 |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 | 2025-04-25 |
 | [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-06-27 | 2025-04-04 |
 | [Will You Run Away With Me](https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa) | 3:33 | 2024-10-17 | 2025-04-25 |

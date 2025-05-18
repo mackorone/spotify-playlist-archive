@@ -1,6 +1,6 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 235550,
+  "num_followers": 235645,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-28 01:26:42",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
-    },
-    {
-      "added_at": "2024-06-28 01:26:42",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2024-06-28 01:26:42",
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
       "added_at": "2024-06-28 01:26:42",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-28 01:26:42",
       "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
-    },
-    {
-      "added_at": "2024-06-28 01:26:42",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 218400,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/15rjQH7nTcTomKwfVMd4xl"
+    },
+    {
+      "added_at": "2024-06-28 01:26:42",
+      "album": {
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2025-05-01 14:00:27",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
-      "added_at": "2025-05-01 14:00:27",
+      "added_at": "2024-06-28 01:26:42",
       "album": {
-        "name": "Through My Teeth",
-        "url": "https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ"
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Through My Teeth",
-      "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     }
   ],
   "unique_name": "Coastal Drive",

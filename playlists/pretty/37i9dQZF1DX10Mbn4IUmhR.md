@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N?si=JJ137PPcSm\-4VkiqlK4CSA">Will Linley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,126 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,125 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

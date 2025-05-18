@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > we want that pop life 😮‍💨😮‍💨 ft\. umru &  underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,980 likes - 200 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,037 likes - 200 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

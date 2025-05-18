@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Avicii
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,505 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,532 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 17 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 |
 | 18 | [pillowtalk \(with yung bae\)](https://open.spotify.com/track/0azGwVInzyPDUrOQ3qlq4B) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [pillowtalk \(with yung bae\)](https://open.spotify.com/album/1IM8QiIWRJzcWbuRTqH89n) | 3:05 |
 | 19 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 |
-| 20 | [Voices](https://open.spotify.com/track/74QXColrSrZEH4Oi8NafkU) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Brody Jenner](https://open.spotify.com/artist/3Q3MljugwEYzj6paNAlETx) | [Voices](https://open.spotify.com/album/6N96BAoDrR2LCwSysTIrzp) | 2:40 |
+| 20 | [Voices](https://open.spotify.com/track/74QXColrSrZEH4Oi8NafkU) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Brody Jenner](https://open.spotify.com/artist/3Q3MljugwEYzj6paNAlETx), [Maryon King](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Voices](https://open.spotify.com/album/6N96BAoDrR2LCwSysTIrzp) | 2:40 |
 | 21 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
 | 22 | [Tell Me Where U Go](https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Tell Me Where U Go](https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt) | 3:02 |
 | 23 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |

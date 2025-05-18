@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 9449,
+  "num_followers": 9466,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "C14TORCE II",
-        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "C14TORCE II",
-      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "C14TORCE II",
+        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "C14TORCE II",
+      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1291,30 +1291,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/2ScvjoJeA6lghwwUe8THfb"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 162869,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1935,18 +1935,30 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Como Le Digo",
-        "url": "https://open.spotify.com/album/5mj6EWL5GMjhlqxQqqRbBE"
+        "name": "Loca Remix",
+        "url": "https://open.spotify.com/album/7cxeVJQVXJlwIblOXISb5j"
       },
       "artists": [
         {
           "name": "KHEA",
           "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 226100,
-      "name": "Como Le Digo",
-      "url": "https://open.spotify.com/track/2fxJDRmUMatqyZ6ZOQi7RD"
+      "duration_ms": 346460,
+      "name": "Loca Remix",
+      "url": "https://open.spotify.com/track/2CRbiMK0W14l71SpDKqKZM"
     },
     {
       "added_at": "2024-07-26 04:59:00",

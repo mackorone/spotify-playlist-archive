@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring Jessica Winter 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,005 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,008 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 30 | [Anything/Anyone](https://open.spotify.com/track/0MViV5e5788MXVDb3YX1Dq) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [Anything/Anyone](https://open.spotify.com/album/3us2WdeqDv2Qv0cpAFBUGU) | 2:40 |
 | 31 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 32 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
-| 33 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 |
-| 34 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 33 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 34 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 |
 | 35 | [Feel Anything](https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Feel Anything](https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a) | 2:42 |
 | 36 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 |
 | 37 | [Rain](https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Rain](https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z) | 4:20 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 73 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 |
 | 74 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
 | 75 | [God Isn't Real](https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [God Isn't Real](https://open.spotify.com/album/2aebxXPrkZTqvW6ssEijwT) | 3:56 |
-| 76 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
-| 77 | [Dolly Pardon](https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Dolly Pardon](https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j) | 3:17 |
-| 78 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 |
+| 76 | [Dolly Pardon](https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Dolly Pardon](https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j) | 3:17 |
+| 77 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 |
+| 78 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
 | 79 | [Shoulders](https://open.spotify.com/track/2IjG4DhRZ2eOkScfJn7hcm) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [Shoulders](https://open.spotify.com/album/5GshgWDxIaD1GhL23EPIxz) | 3:31 |
-| 80 | [Bonnie & Clyde](https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [Bonnie & Clyde](https://open.spotify.com/album/7E5ORNlK5vQSY6lpUe1OiD) | 3:37 |
+| 80 | [Bigger Person](https://open.spotify.com/track/0KoMv3zKj8HhnZvTWaGrRg) | [Francesca Everly](https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n) | [Bigger Person](https://open.spotify.com/album/1tuk25ivCCkoGhF4T6yhjp) | 2:39 |
 
 Snapshot ID: `aCZx+gAAAABS2+F7yeRK928qz/3ySR1H`

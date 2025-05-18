@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,410 songs - 7 day 11 hr 44 min
+3,411 songs - 7 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Alô novinha na intenção](https://open.spotify.com/track/00lWuB1hTPk9BngrNqER01) | [DJ kest](https://open.spotify.com/artist/2NkUQyXTyiIJgAecDAol6M), [Pointhits](https://open.spotify.com/artist/4M3TWSgWxJQf4ZDKl2MlNm) | [Alô novinha na intenção](https://open.spotify.com/album/36W10Ty7oT2gE6lTPPlS2A) | 3:23 | 2023-09-02 | 2023-09-22 |
 | [ALÔ POLÍCIA!](https://open.spotify.com/track/05HFhcF795MzWuPNgucu8e) | [QuatroK](https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n) | [ALÔ POLÍCIA!](https://open.spotify.com/album/0ARIfmMyqTVESW82w9QNMN) | 2:45 | 2024-12-03 | 2024-12-06 |
 | [Ama Porra Nenhuma](https://open.spotify.com/track/2wiFzIv7FevsAp1lPyIy6Z) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Ama Porra Nenhuma](https://open.spotify.com/album/4amYuyLyghP6OTCqCdU1uv) | 3:15 | 2022-05-16 | 2022-06-09 |
+| [Ama Um Maloqueiro](https://open.spotify.com/track/5vW7FFKCarTzFufo5vwoST) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/7EP7oc3JqtgGxUkOlnbUw7) | 2:39 | 2025-05-17 |  |
 | [Amanhecer](https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:31 | 2023-07-15 | 2023-09-14 |
 | [Amanheceu](https://open.spotify.com/track/0KhZjWbG8uHakszjOw6Rx9) | [RUAN VITOR VAQUEIRINHO](https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g) | [Amanheceu](https://open.spotify.com/album/4m3fhqIcH2Izw5ReWRQb5j) | 2:49 | 2024-08-20 | 2024-08-27 |
 | [Amantes da Foda](https://open.spotify.com/track/4DhDNNhIDdduS6nZMbSMbs) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu) | [Amantes da Foda](https://open.spotify.com/album/1u5gFRPpCkwgng12Ewhglm) | 1:21 | 2022-06-17 | 2022-07-06 |
@@ -1424,7 +1425,7 @@
 | [Illuminati \- Viagem Ao Oculto](https://open.spotify.com/track/4B9EMKysjUxcJgIiBOD8Xb) | [DJ K](https://open.spotify.com/artist/1YZljq3fZXrlnCe0mMxwKB), [JLZ](https://open.spotify.com/artist/2sJ1nJfjqfcUoLLSDcVQZJ) | [PANICO NO SUBMUNDO](https://open.spotify.com/album/1LxVZkncq7swaP0uQA0C99) | 2:44 | 2023-08-21 | 2023-08-27 |
 | [Illusion](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 3:15 | 2022-07-09 | 2022-07-17 |
 | [Ily](https://open.spotify.com/track/0S8OkXHUuSHKyCTKomDxaw) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Ily](https://open.spotify.com/album/66lnwqrH113PHR2tGXoya7) | 3:21 | 2022-03-08 | 2022-03-28 |
-| [ILYSMIH](https://open.spotify.com/track/4MJpGGIDRwHuWoZCddIOgM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:33 | 2025-05-14 |  |
+| [ILYSMIH](https://open.spotify.com/track/4MJpGGIDRwHuWoZCddIOgM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:33 | 2025-05-14 | 2025-05-18 |
 | [Imagina A Sentada \- Ao Vivo](https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo\)](https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq) | 2:52 | 2022-01-17 | 2022-02-16 |
 | [Imagina esse Cenário](https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:35 | 2024-09-24 | 2024-10-03 |
 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 | 2022-09-08 | 2023-01-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356574,
+  "num_followers": 356560,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Jeg vil ha (Parlamentet)",
-        "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
-      },
-      "artists": [
-        {
-          "name": "Fjellrev",
-          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
-        },
-        {
-          "name": "Roc Meiniac",
-          "url": "https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb"
-        }
-      ],
-      "duration_ms": 183615,
-      "name": "Jeg vil ha (Parlamentet)",
-      "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Pepas (David Guetta Remix - Radio Edit)",
         "url": "https://open.spotify.com/album/33Tinkyhfj60QVXtZIArYJ"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 171784,
       "name": "Pepas - David Guetta Remix - Radio Edit",
       "url": "https://open.spotify.com/track/5fWG4JDot8nHCte7gUdMUS"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Jeg vil ha (Parlamentet)",
+        "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        },
+        {
+          "name": "Roc Meiniac",
+          "url": "https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb"
+        }
+      ],
+      "duration_ms": 183615,
+      "name": "Jeg vil ha (Parlamentet)",
+      "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1063,18 +1063,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "IGEN IGEN IGEN",
-        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
+        "name": "ALLA F\u00c5R KOMMA",
+        "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
       },
       "artists": [
         {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Akin Jensen",
+          "url": "https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX"
+        },
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
         }
       ],
-      "duration_ms": 130153,
-      "name": "IGEN IGEN IGEN",
-      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
+      "duration_ms": 144732,
+      "name": "ALLA F\u00c5R KOMMA",
+      "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1099,26 +1107,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "ALLA F\u00c5R KOMMA",
-        "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
+        "name": "IGEN IGEN IGEN",
+        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
       },
       "artists": [
         {
-          "name": "FESTEN",
-          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
-        },
-        {
-          "name": "Akin Jensen",
-          "url": "https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX"
-        },
-        {
-          "name": "BR0D3R",
-          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
         }
       ],
-      "duration_ms": 144732,
-      "name": "ALLA F\u00c5R KOMMA",
-      "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
+      "duration_ms": 130153,
+      "name": "IGEN IGEN IGEN",
+      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Hand i hand",
-        "url": "https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        },
-        {
-          "name": "DJ BERIT",
-          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Hand i hand",
-      "url": "https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn"
       },
@@ -1311,18 +1291,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+        "name": "Hand i hand",
+        "url": "https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
         }
       ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+      "duration_ms": 147428,
+      "name": "Hand i hand",
+      "url": "https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-06-13 22:00:00",

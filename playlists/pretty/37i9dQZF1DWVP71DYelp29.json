@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 735540,
+  "num_followers": 735545,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
     },
     {
-      "added_at": "2025-01-27 19:19:14",
-      "album": {
-        "name": "Yellow - Spotify Singles",
-        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 269967,
-      "name": "Yellow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -771,6 +755,22 @@
       "duration_ms": 235264,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
+    },
+    {
+      "added_at": "2025-01-27 19:19:14",
+      "album": {
+        "name": "Yellow - Spotify Singles",
+        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 269967,
+      "name": "Yellow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1008,22 +1008,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
       "artists": [
@@ -1035,6 +1019,22 @@
       "duration_ms": 217058,
       "name": "thank u, next - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1236,22 +1236,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Happier - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
       },
       "artists": [
@@ -1263,6 +1247,22 @@
       "duration_ms": 173206,
       "name": "Sending My Love - Spotify Singles",
       "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Happier - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
     },
     {
-      "added_at": "2023-06-22 04:00:00",
-      "album": {
-        "name": "True Colors (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "True Colors (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -1383,6 +1367,22 @@
       "duration_ms": 268840,
       "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
       "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+    },
+    {
+      "added_at": "2023-06-22 04:00:00",
+      "album": {
+        "name": "True Colors (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "True Colors (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1484,22 +1484,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 281453,
-      "name": "You Oughta Know",
-      "url": "https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX"
       },
       "artists": [
@@ -1527,6 +1511,22 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 281453,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD"
     },
     {
       "added_at": "2023-11-07 18:53:41",
@@ -1660,6 +1660,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 202845,
+      "name": "God is a woman - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN"
       },
       "artists": [
@@ -1687,22 +1703,6 @@
       "duration_ms": 225366,
       "name": "Dance In The Dark - Spotify Singles",
       "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 202845,
-      "name": "God is a woman - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3"
     },
     {
       "added_at": "2023-01-11 19:54:48",

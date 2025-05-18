@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 571189,
+  "num_followers": 571467,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -779,18 +779,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "The Very Best Of Diana Krall",
-        "url": "https://open.spotify.com/album/6V0wO3QCv5hk6Y2ZAIICV4"
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 264560,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/7FJNoj4PwKGfkQJJu7I5GG"
+      "duration_ms": 200626,
+      "name": "The Good Life (with Billy Joel)",
+      "url": "https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -811,22 +815,18 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Duets An American Classic",
-        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+        "name": "The Very Best Of Diana Krall",
+        "url": "https://open.spotify.com/album/6V0wO3QCv5hk6Y2ZAIICV4"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 200626,
-      "name": "The Good Life (with Billy Joel)",
-      "url": "https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL"
+      "duration_ms": 264560,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/7FJNoj4PwKGfkQJJu7I5GG"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Bells On Sand",
-        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
-      },
-      "artists": [
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 329306,
-      "name": "Just A Dream",
-      "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -1211,18 +1191,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+        "name": "Bells On Sand",
+        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
       "artists": [
         {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 217480,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
+      "duration_ms": 329306,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1259,6 +1243,22 @@
       "duration_ms": 270000,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "I've Drawn Your Face",
+      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 344223,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "I've Drawn Your Face",
-      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 251413,
       "name": "I'll Tell You Something",
       "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
+        "name": "It's Oh So Quiet",
+        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
       "artists": [
         {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        },
+        {
+          "name": "WDR Funkhausorchester",
+          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
         }
       ],
-      "duration_ms": 150349,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
+      "duration_ms": 228173,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1831,22 +1835,18 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "It's Oh So Quiet",
-        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        },
-        {
-          "name": "WDR Funkhausorchester",
-          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
         }
       ],
-      "duration_ms": 228173,
-      "name": "It's Oh So Quiet",
-      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
+      "duration_ms": 150349,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 260377,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "It's the Talk of the Town",
         "url": "https://open.spotify.com/album/7Gq2fHvO6W7MF4H5H1wdub"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 424173,
       "name": "It's the Talk of the Town",
       "url": "https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 260377,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Do You Know What It Means to Miss New Orleans",
-        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "Do You Know What It Means to Miss New Orleans",
-      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "Somehow Life Got in the Way",
         "url": "https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 336600,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Do You Know What It Means to Miss New Orleans",
+        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "Do You Know What It Means to Miss New Orleans",
+      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
+      },
+      "artists": [
+        {
+          "name": "mystery tea.",
+          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
+        }
+      ],
+      "duration_ms": 236367,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
         "name": "Philodendron",
         "url": "https://open.spotify.com/album/2kiAk3G0whz02YuAGVnrPz"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 285375,
       "name": "Philodendron",
       "url": "https://open.spotify.com/track/1lUNJmZi4S01kQsyAcXITZ"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
-      },
-      "artists": [
-        {
-          "name": "mystery tea.",
-          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
-        }
-      ],
-      "duration_ms": 236367,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170070,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
         "name": "You Must Believe in Spring (Chanson de Maxence) [Extract from \"Le grand Michel\", a tribute to Michel Legrand]",
         "url": "https://open.spotify.com/album/1f0Kl8r1rsAm8doLdJtfpv"
       },
@@ -2515,22 +2531,6 @@
       "duration_ms": 216746,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/5ZfhrMkluDMI7eMyCqqR7O"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "You Better Go Now",
-        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170070,
-      "name": "You Better Go Now",
-      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2583,6 +2583,22 @@
       "duration_ms": 187666,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Heart First",
+        "url": "https://open.spotify.com/album/74fLArnOHs24KVKRui8r7w"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/6UMwlW88tuUf09Dj0CF6UX"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2667,38 +2683,6 @@
       "duration_ms": 295200,
       "name": "Send in the Clowns",
       "url": "https://open.spotify.com/track/3GIKU5UuePk4SygQqdqRoV"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "The Boy Next Door",
-        "url": "https://open.spotify.com/album/5sRAARt1vXMVsC2bAuS2JP"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "David Newton",
-          "url": "https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy"
-        },
-        {
-          "name": "Jim Tomlinson",
-          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
-        },
-        {
-          "name": "Dave Chamberlain",
-          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
-        },
-        {
-          "name": "Matt Home",
-          "url": "https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "You've Got A Friend",
-      "url": "https://open.spotify.com/track/0tzpPgaBndJ7KflHxmoPWS"
     }
   ],
   "unique_name": "Easy Jazz",

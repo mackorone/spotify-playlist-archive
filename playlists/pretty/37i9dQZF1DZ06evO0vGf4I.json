@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1614222,
+  "num_followers": 1614470,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACdGkyldAvTG7c4ktU/owPL",
+  "snapshot_id": "aCaAAAAAAACwC1U7/sT62Q1yu56ONN0n",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 142969,
-      "name": "ASTROTHUNDER",
-      "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
+      "duration_ms": 150043,
+      "name": "YOSEMITE",
+      "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR"
     },
     {
       "added_at": null,
@@ -616,29 +616,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 150043,
-      "name": "YOSEMITE",
-      "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "WAKE UP F1LTHY (with Travis Scott)",
-      "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"
+      "duration_ms": 142969,
+      "name": "ASTROTHUNDER",
+      "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
     },
     {
       "added_at": null,
@@ -663,6 +643,26 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "WAKE UP F1LTHY (with Travis Scott)",
+      "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ILMB (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT"
+      },
+      "artists": [
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 184630,
+      "name": "ILMB (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -907,46 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ILMB (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT"
-      },
-      "artists": [
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 184630,
-      "name": "ILMB (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 172794,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/4CdAc7V4hUe1cuJAjnPpSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 172794,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4CdAc7V4hUe1cuJAjnPpSQ"
     },
     {
       "added_at": null,

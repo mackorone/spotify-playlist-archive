@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like this. cover: ROSIE",
-  "num_followers": 2421556,
+  "num_followers": 2421320,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4SgAAAADukWhDyDl1j3KZ5nKQ43GP",
+  "snapshot_id": "aCf3aAAAAACY9IUtqmCDU0pGxr6/Y0Dq",
   "tracks": [
     {
       "added_at": "2025-05-09 04:00:12",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Fireworks & Rollerblades",
@@ -399,6 +383,22 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
+      "added_at": "2025-05-16 04:00:10",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "You're Losing Me (From The Vault)",
@@ -777,22 +793,6 @@
       "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 242317,
-      "name": "Some Things I'll Never Know",
-      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
-    },
-    {
       "added_at": "2025-04-25 04:00:38",
       "album": {
         "name": "WITHERED",
@@ -807,6 +807,38 @@
       "duration_ms": 195328,
       "name": "Is This Really Love?",
       "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "LET EM GO",
+        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 181159,
+      "name": "LET EM GO",
+      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 242317,
+      "name": "Some Things I'll Never Know",
+      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -839,22 +871,6 @@
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "LET EM GO",
-        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 181159,
-      "name": "LET EM GO",
-      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -905,6 +921,22 @@
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
+    },
+    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
@@ -923,22 +955,6 @@
       "duration_ms": 122053,
       "name": "Remember Me (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -989,22 +1005,6 @@
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
-      "added_at": "2024-12-13 05:00:33",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 229162,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Melodrama",
@@ -1019,6 +1019,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2024-12-13 05:00:33",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 229162,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG"
     },
     {
       "added_at": "2025-04-25 04:00:38",
@@ -1037,22 +1053,6 @@
       "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 133478,
-      "name": "Dumb & Poetic",
-      "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
-    },
-    {
       "added_at": "2025-04-25 04:00:38",
       "album": {
         "name": "My First Heartbreak",
@@ -1067,6 +1067,22 @@
       "duration_ms": 206800,
       "name": "My First Heartbreak",
       "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 133478,
+      "name": "Dumb & Poetic",
+      "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1217,22 +1233,6 @@
       "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
     },
     {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183499,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "28 (with Dean Lewis)",
@@ -1251,6 +1251,22 @@
       "duration_ms": 208293,
       "name": "28 (with Dean Lewis)",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183499,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G"
     },
     {
       "added_at": "2025-01-31 05:00:34",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 193159,
-      "name": "grave",
-      "url": "https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 228000,
       "name": "Dinner",
       "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 193159,
+      "name": "grave",
+      "url": "https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1485,22 +1501,6 @@
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
-      "added_at": "2024-11-04 21:05:18",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "MEAN!",
@@ -1531,6 +1531,22 @@
       "duration_ms": 177108,
       "name": "die first",
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "added_at": "2024-11-04 21:05:18",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231267,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1631,6 +1647,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Heather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Built To Be Bad (with Alex Sampson)",
         "url": "https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY"
       },
@@ -1663,22 +1695,6 @@
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Heather - Spotify Singles",
-      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1717,6 +1733,22 @@
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
+    },
+    {
       "added_at": "2025-03-14 04:00:03",
       "album": {
         "name": "Want Me",
@@ -1735,18 +1767,34 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
+        "name": "Dear Joe,",
+        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
       },
       "artists": [
         {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
+      "duration_ms": 187463,
+      "name": "too young to be old",
+      "url": "https://open.spotify.com/track/0ZuZtcBEGMrkWhxEzJ06Lp"
+    },
+    {
+      "added_at": "2025-05-17 02:41:44",
+      "album": {
+        "name": "Last Time (Acoustic)",
+        "url": "https://open.spotify.com/album/2DlqdE27WObFru19qf8fvU"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Last Time - Acoustic",
+      "url": "https://open.spotify.com/track/54u4wxyfvWnAIdSs0HIvsm"
     },
     {
       "added_at": "2025-03-28 04:00:52",
@@ -1767,18 +1815,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Dear Joe,",
-        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB"
       },
       "artists": [
         {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
         }
       ],
-      "duration_ms": 187463,
-      "name": "too young to be old",
-      "url": "https://open.spotify.com/track/0ZuZtcBEGMrkWhxEzJ06Lp"
+      "duration_ms": 175075,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
     },
     {
       "added_at": "2025-02-14 19:55:23",
@@ -1795,22 +1843,6 @@
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 175075,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1909,20 +1941,20 @@
       "url": "https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC"
     },
     {
-      "added_at": "2025-03-21 04:01:01",
+      "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Why Do The Pills Work",
-        "url": "https://open.spotify.com/album/1tmExGHhllwIVt0DKEfgmG"
+        "name": "not my job anymore",
+        "url": "https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI"
       },
       "artists": [
         {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Why Do The Pills Work",
-      "url": "https://open.spotify.com/track/1YEEihRixYjaaJCu9rMMx7"
+      "duration_ms": 188074,
+      "name": "not my job anymore",
+      "url": "https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz"
     },
     {
       "added_at": "2025-04-11 04:08:48",
@@ -1941,20 +1973,20 @@
       "url": "https://open.spotify.com/track/3mdK2eB8wNS5bmqZvHUuT0"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2025-03-21 04:01:01",
       "album": {
-        "name": "not my job anymore",
-        "url": "https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI"
+        "name": "Why Do The Pills Work",
+        "url": "https://open.spotify.com/album/1tmExGHhllwIVt0DKEfgmG"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
         }
       ],
-      "duration_ms": 188074,
-      "name": "not my job anymore",
-      "url": "https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz"
+      "duration_ms": 216266,
+      "name": "Why Do The Pills Work",
+      "url": "https://open.spotify.com/track/1YEEihRixYjaaJCu9rMMx7"
     },
     {
       "added_at": "2025-03-28 04:00:52",
@@ -2021,22 +2053,6 @@
       "url": "https://open.spotify.com/track/69PbR7w1VkVMEd7m33NsgC"
     },
     {
-      "added_at": "2024-11-13 20:08:20",
-      "album": {
-        "name": "MAYBE.",
-        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 235395,
-      "name": "MAYBE.",
-      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "The Golden Years",
@@ -2051,6 +2067,22 @@
       "duration_ms": 214533,
       "name": "The Golden Years",
       "url": "https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT"
+    },
+    {
+      "added_at": "2024-11-13 20:08:20",
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -2087,18 +2119,18 @@
     {
       "added_at": "2025-05-09 04:00:12",
       "album": {
-        "name": "Recover From",
-        "url": "https://open.spotify.com/album/0rwFrGSEInpBf4PmNZfszT"
+        "name": "You",
+        "url": "https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA"
       },
       "artists": [
         {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+          "name": "colby!",
+          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
         }
       ],
-      "duration_ms": 150840,
-      "name": "Recover From",
-      "url": "https://open.spotify.com/track/3Owg4E2Liitys4sz447Szf"
+      "duration_ms": 208563,
+      "name": "You",
+      "url": "https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2"
     },
     {
       "added_at": "2025-03-25 16:01:47",
@@ -2119,18 +2151,18 @@
     {
       "added_at": "2025-05-09 04:00:12",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA"
+        "name": "Recover From",
+        "url": "https://open.spotify.com/album/0rwFrGSEInpBf4PmNZfszT"
       },
       "artists": [
         {
-          "name": "colby!",
-          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
         }
       ],
-      "duration_ms": 208563,
-      "name": "You",
-      "url": "https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2"
+      "duration_ms": 150840,
+      "name": "Recover From",
+      "url": "https://open.spotify.com/track/3Owg4E2Liitys4sz447Szf"
     },
     {
       "added_at": "2025-03-28 04:00:52",
@@ -2327,22 +2359,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "I'll Be Waiting",
-        "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 172547,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Last Man Standing",
         "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
       },
@@ -2355,54 +2371,6 @@
       "duration_ms": 183021,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Forget Me",
-        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203472,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2423,6 +2391,38 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     }
   ],
   "unique_name": "sad hour",

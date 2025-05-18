@@ -2837,6 +2837,36 @@
     },
     {
       "album": {
+        "name": "Eternal Reverie Remixes, Pt. 1",
+        "url": "https://open.spotify.com/album/3hHRdXKMuR20N678VUe0Lf"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201261,
+      "name": "Switch It - Kingdom Remix",
+      "url": "https://open.spotify.com/track/48RgmkzRRZA7SIEK9jlgmn"
+    },
+    {
+      "album": {
         "name": "Desiderium",
         "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
       },
@@ -2954,7 +2984,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"

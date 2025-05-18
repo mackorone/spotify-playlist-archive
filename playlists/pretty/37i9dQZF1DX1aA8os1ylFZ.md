@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,559 likes - 87 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,553 likes - 87 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 44 | [INFINITY](https://open.spotify.com/track/1FygpR0yv9eGytytqxA1O4) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [INFINITY](https://open.spotify.com/album/7FUUeTnlcCJ78stxTPvPkI) | 2:34 |
 | 45 | [Never Return](https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Never Return](https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3) | 2:52 |
 | 46 | [Beautiful Ruin](https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out: 10th Anniversary Edition](https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY) | 3:45 |
-| 47 | [Options](https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Options](https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn) | 2:18 |
-| 48 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 |
+| 47 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 |
+| 48 | [Options](https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Options](https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn) | 2:18 |
 | 49 | [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 |
 | 50 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 |
 | 51 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 |

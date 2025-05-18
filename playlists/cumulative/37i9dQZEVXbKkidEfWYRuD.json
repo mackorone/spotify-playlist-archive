@@ -10400,7 +10400,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -23144,7 +23144,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 149832,
       "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
       "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
@@ -33237,6 +33237,28 @@
     },
     {
       "album": {
+        "name": "\u0422\u0435\u0440\u043f\u0438",
+        "url": "https://open.spotify.com/album/2G4edAxlCEuntZguhTQO58"
+      },
+      "artists": [
+        {
+          "name": "Artem Pivovarov",
+          "url": "https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW"
+        },
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149806,
+      "name": "\u0422\u0435\u0440\u043f\u0438",
+      "url": "https://open.spotify.com/track/128SUhn3JHHUpAWoLglGmb"
+    },
+    {
+      "album": {
         "name": "\u0422\u0435\u0441\u043d\u043e",
         "url": "https://open.spotify.com/album/2N4ty17KyISqTHuoz1fj2v"
       },
@@ -36506,7 +36528,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "\u0407\u0434\u0435 \u0434\u0430\u0445",
       "url": "https://open.spotify.com/track/7bBZdL9ZTDKbNN7J1Alla4"

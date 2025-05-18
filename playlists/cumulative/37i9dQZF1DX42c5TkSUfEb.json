@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 282812,
       "name": "A Quiet Voice",
       "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 245776,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 208010,
       "name": "Future Ghosts",
       "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
@@ -2504,6 +2504,24 @@
       "duration_ms": 154773,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr"
+    },
+    {
+      "album": {
+        "name": "Hers",
+        "url": "https://open.spotify.com/album/0XPxK2qGH4BelboUUiVRvE"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV"
     },
     {
       "album": {
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 157506,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
@@ -2889,6 +2907,28 @@
     },
     {
       "album": {
+        "name": "I Found",
+        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274725,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
+    },
+    {
+      "album": {
         "name": "I Just Wanna Feel Your Love Again",
         "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
       },
@@ -2922,6 +2962,24 @@
       "duration_ms": 180619,
       "name": "I Know, I Know",
       "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
+    },
+    {
+      "album": {
+        "name": "I Saw the Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264664,
+      "name": "I Saw the Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
       "album": {
@@ -6302,6 +6360,24 @@
       "duration_ms": 217640,
       "name": "The Story of the Impossible",
       "url": "https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6"
+    },
+    {
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "album": {

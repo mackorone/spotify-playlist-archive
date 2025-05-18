@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: ERNEST
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,026 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,014 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 39 | [Cowboys Were Kings](https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboys Were Kings](https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep) | 3:15 |
 | 40 | [Smoke & Embers](https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Smoke & Embers](https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78) | 3:47 |
 | 41 | [The Long Road](https://open.spotify.com/track/1tQ4HWy7mZwHoValxwQD76) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [The Long Road](https://open.spotify.com/album/5kaT5I1IWXC0wzd1cFZtt5) | 3:47 |
-| 42 | [Weatherman](https://open.spotify.com/track/16tR0x7Rf4ryBuTJmJV4O9) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Weatherman](https://open.spotify.com/album/4Mlb3TAFRXMpKGzwSf0yK3) | 3:21 |
+| 42 | [Weatherman](https://open.spotify.com/track/16tR0x7Rf4ryBuTJmJV4O9) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Weatherman](https://open.spotify.com/album/4Mlb3TAFRXMpKGzwSf0yK3) | 3:19 |
 | 43 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
 | 44 | [Forever Hold Your Gun](https://open.spotify.com/track/0W9QyjMi6GTqwjP35j5PX7) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Forever Hold Your Gun](https://open.spotify.com/album/7F8WucKkZYEBWaP4JEzG3u) | 2:02 |
 | 45 | [Love In Letting Go](https://open.spotify.com/track/5CXIuI2IL88KY3L9Vd259d) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Relapse, Lies, & Betrayal](https://open.spotify.com/album/5zHw4l7ugQFWW6gy0zUxpy) | 3:19 |

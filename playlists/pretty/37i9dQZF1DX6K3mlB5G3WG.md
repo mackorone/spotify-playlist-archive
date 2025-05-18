@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Ghali
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,266 likes - 157 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,274 likes - 157 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

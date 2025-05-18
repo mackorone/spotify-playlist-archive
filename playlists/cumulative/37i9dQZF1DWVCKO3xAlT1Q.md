@@ -2,7 +2,7 @@
 
 ### [Eurovision 2025](https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q)
 
-> The official Eurovision Song Contest 2025 playlist.
+> The official Eurovision Song Contest 2025 playlist.<br/>Congrats to this year's winner JJ!
 
 81 songs - 3 hr 59 min
 

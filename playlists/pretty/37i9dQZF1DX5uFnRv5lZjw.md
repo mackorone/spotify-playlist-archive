@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,615 likes - 66 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,765 likes - 66 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

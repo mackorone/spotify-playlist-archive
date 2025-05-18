@@ -4,7 +4,7 @@
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 8 min
+63 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [La Vida Real](https://open.spotify.com/track/4hgpatpyGT9sGCCjA1KxEa) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [El Juanpa](https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:51 | 2025-04-05 |  |
 | [La Vida Real](https://open.spotify.com/track/7p3QYYuf7ExGdWpU7sD6UL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [El Juanpa](https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:51 | 2024-08-08 | 2025-04-05 |
 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 | 2024-08-08 |  |
+| [Linda Mujer](https://open.spotify.com/track/4iRdARZrb4eD80jlqRHx6i) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Linda Mujer](https://open.spotify.com/album/6cjEhqFijFqThr4IsYpkkH) | 4:20 | 2025-05-18 |  |
 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 | 2024-08-08 |  |
 | [Made In Paris](https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Made In Paris](https://open.spotify.com/album/27IGVp8LfUUZTISwgB6rkC) | 2:38 | 2024-08-08 | 2024-11-14 |
 | [MADE IN PARIS](https://open.spotify.com/track/3m1Yb8X1XaH54NnNrzPzbn) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 2:38 | 2024-11-15 | 2025-03-22 |
@@ -62,6 +63,7 @@
 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 | 2024-08-08 |  |
 | [Traigo Una 40](https://open.spotify.com/track/7hDeIf4zAccZaGEaAALBDh) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 3:12 | 2024-08-08 |  |
 | [Una Última Ocasión](https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Una Última Ocasión](https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv) | 3:36 | 2024-08-08 |  |
+| [VIAJA CONMIGO \(feat\. Jasiel Nuñez, Yng Naz\) \- Remix](https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:34 | 2025-05-18 |  |
 | [Vibras](https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vibras](https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF) | 2:44 | 2024-08-08 |  |
 | [Vivo De Vacaciones](https://open.spotify.com/track/3cjbBKZR7A9c6hzwjDIOtt) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:25 | 2025-04-05 | 2025-04-07 |
 | [Y Lo Busque](https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Y Lo Busque](https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr) | 3:45 | 2024-08-08 |  |

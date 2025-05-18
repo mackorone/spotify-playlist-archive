@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,879 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,936 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

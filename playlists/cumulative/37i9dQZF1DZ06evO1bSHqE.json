@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 197186,
       "name": "Can't Make You Love Me",
       "url": "https://open.spotify.com/track/7pY6xLJqmezJNG7VwuKVSH"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 257493,
       "name": "Ooh La La (from \"The Smurfs 2\")",
       "url": "https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk"
@@ -1176,10 +1176,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 203000,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg"
+    },
+    {
+      "album": {
+        "name": "Oops!... I Did It Again (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3RRrDxe2LPTII2ySlOvlh6"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Adamusic",
+          "url": "https://open.spotify.com/artist/6NVuPXuS5axNUoOmNBPIaT"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216894,
+      "name": "Stronger - Adamusic Remix",
+      "url": "https://open.spotify.com/track/0ot5Bq9Imz42dUGN8a4oAG"
     },
     {
       "album": {

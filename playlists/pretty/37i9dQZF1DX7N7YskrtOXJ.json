@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 111547,
+  "num_followers": 111616,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+      },
+      "artists": [
+        {
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "Gotitas",
+      "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
       },
@@ -1147,18 +1163,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+        "name": "Compa\u00f1eros",
+        "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
       "artists": [
         {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
         }
       ],
-      "duration_ms": 202706,
-      "name": "Gotitas",
-      "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
+      "duration_ms": 245581,
+      "name": "Compa\u00f1eros",
+      "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1195,38 +1215,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Compa\u00f1eros",
-        "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
       "artists": [
         {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
         }
       ],
-      "duration_ms": 245581,
-      "name": "Compa\u00f1eros",
-      "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "Cosecha de Mujeres",
-      "url": "https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G"
+      "duration_ms": 210840,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
       "artists": [
         {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Caprichito",
-      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
+      "duration_ms": 156520,
+      "name": "Cosecha de Mujeres",
+      "url": "https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Gran Pecador",
-        "url": "https://open.spotify.com/album/2F8FyUjk8G8twPQhNgdNt1"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 153080,
-      "name": "Cali\u00e9ntame la Sopa Con un Hueso",
-      "url": "https://open.spotify.com/track/2MSuiAejQ5LxGMvDwiNOfy"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Grupo Hechizo",
         "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 226173,
       "name": "La Temporera",
       "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Onda Nueva",
+        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Una Copita M\u00e1s",
+      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Onda Nueva",
-        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
+        "name": "Gran Pecador",
+        "url": "https://open.spotify.com/album/2F8FyUjk8G8twPQhNgdNt1"
       },
       "artists": [
         {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 270826,
-      "name": "Una Copita M\u00e1s",
-      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
+      "duration_ms": 153080,
+      "name": "Cali\u00e9ntame la Sopa Con un Hueso",
+      "url": "https://open.spotify.com/track/2MSuiAejQ5LxGMvDwiNOfy"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Haciendo el Amor",
+      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
       },
@@ -1551,26 +1567,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Sigue La Cumbia",
-        "url": "https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        },
-        {
-          "name": "Leo Rey",
-          "url": "https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310"
-        }
-      ],
-      "duration_ms": 166586,
-      "name": "Sigue La Cumbia",
-      "url": "https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "MALAMOR",
         "url": "https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK"
       },
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Qui\u00e9reme",
-        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
+        "name": "Sigue La Cumbia",
+        "url": "https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx"
       },
       "artists": [
         {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        },
+        {
+          "name": "Leo Rey",
+          "url": "https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Haciendo el Amor",
-      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
+      "duration_ms": 166586,
+      "name": "Sigue La Cumbia",
+      "url": "https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
+        "name": "Onda Tropical",
+        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
       },
       "artists": [
         {
-          "name": "Karicia",
-          "url": "https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd"
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Chica Sexy",
-      "url": "https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc"
+      "duration_ms": 255160,
+      "name": "Acercate MI Amor",
+      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
+      },
+      "artists": [
+        {
+          "name": "Karicia",
+          "url": "https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Chica Sexy",
+      "url": "https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Cuerpo Repartido",
         "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 154226,
       "name": "El Casorio",
       "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Acercate MI Amor",
-      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
     },
     {
       "added_at": "2025-01-17 12:58:12",

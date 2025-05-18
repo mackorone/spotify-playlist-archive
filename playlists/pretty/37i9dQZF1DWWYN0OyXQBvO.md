@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,083 likes - 78 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,315 likes - 78 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 | 77 | [Good Rockin Tonight](https://open.spotify.com/track/08PeZeBDU73vHT23bkeydm) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Good Rockin Tonight](https://open.spotify.com/album/62jk2SPFLwhsFOdsUwPzMT) | 3:36 |
 | 78 | [They're Hanging Me Tonight](https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:04 |
 
-Snapshot ID: `ZkVxsgAAAAAQOfb3OTeCQmjGZgumDCr/`
+Snapshot ID: `AAAAAJYOkd3llY8SHW57DxFsRku+PniI`

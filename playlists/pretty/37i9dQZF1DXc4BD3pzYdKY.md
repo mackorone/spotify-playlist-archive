@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  Lecrae & Miles Minnick
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,738 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,878 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [Power](https://open.spotify.com/track/7fv1A3To8SjgnlPcfWiGZo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Power](https://open.spotify.com/album/2orSspOqeZwGiVzo9krNN0) | 2:24 |
 | 100 | [Shotgun](https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [ARE YOU FOLLOWING JESUS CHRIST?](https://open.spotify.com/album/2uegDhJNlGhnADFcTGx61N) | 2:17 |
 
-Snapshot ID: `AAAAAAw1WzzSCS4ECTbdjoNPBbuXU9n0`
+Snapshot ID: `aB19xgAAAAB+FBCkp7blocotvAWdGglA`

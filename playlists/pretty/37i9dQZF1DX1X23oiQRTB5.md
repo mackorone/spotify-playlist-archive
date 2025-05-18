@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Hamza au top de la première playlist de rap français.
+> Hommage à Werenoi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,612 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570,318 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
-| 2 | [Triple V](https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:13 |
+| 1 | [Poney](https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:50 |
+| 2 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
 | 3 | [BARCOLA](https://open.spotify.com/track/7dQieA4pEOUV2G9s3jkEX6) | [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [BARCOLA](https://open.spotify.com/album/3LeimKCyYLLbm33aSI1y3G) | 2:45 |
 | 4 | [C'EST RELOU](https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [C'EST RELOU](https://open.spotify.com/album/2s4PgkJiWCVMkEpDQ5ASHq) | 2:00 |
 | 5 | [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 |
 | 6 | [PONA NINI](https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:06 |
-| 7 | [Poney](https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:50 |
+| 7 | [Triple V](https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:13 |
 | 8 | [Jerrican \(feat\. La Mano 1.9\)](https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Black House](https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb) | 2:52 |
 | 9 | [Run](https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Run](https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4) | 2:59 |
 | 10 | [Tout Pour L'équipe](https://open.spotify.com/track/2A6XI4w9IasxpX9tVGgcHs) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tout Pour L’Equipe](https://open.spotify.com/album/0Dj5KIGp4cHUCS5rsoX0hU) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [FREE CONGO](https://open.spotify.com/track/6RAYjbw8M4gZ5lkZKipWFC) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [FREE CONGO](https://open.spotify.com/album/1hLPzmMntzpYy2Ajp9Ba5s) | 3:34 |
 | 40 | [REGULATION](https://open.spotify.com/track/3ZiSKMehtVkU2cDtBhO1Nz) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 2:07 |
 
-Snapshot ID: `aCZkBwAAAABTq9WUKui/dFZp605VArB/`
+Snapshot ID: `aChsWQAAAAA3LJGsX6B5DcAXed3FRBfC`

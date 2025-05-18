@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 223739,
+  "num_followers": 223778,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABQ2CLNc/EE531yUG9JKmky",
+  "snapshot_id": "aCaAAAAAAAB6VZCMqYAJ1JTjNSBVWKaM",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Movimiento Alterado Vol. 3",
-        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "El Tamarindo",
-      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romanticas",
         "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Movimiento Alterado Vol. 3",
+        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -674,15 +674,11 @@
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Buknas De Culiacan",
-          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
         }
       ],
-      "duration_ms": 168133,
-      "name": "Orden Exigido (Feat. Buknas De Culiacan)",
-      "url": "https://open.spotify.com/track/0krRIU2PNSKjYrYXLadazM"
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -774,27 +770,15 @@
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Empresario",
-        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
-      },
-      "artists": [
+        },
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
         }
       ],
-      "duration_ms": 154357,
-      "name": "El Empresario",
-      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
+      "duration_ms": 168133,
+      "name": "Orden Exigido (Feat. Buknas De Culiacan)",
+      "url": "https://open.spotify.com/track/0krRIU2PNSKjYrYXLadazM"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Empresario",
+        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 154357,
+      "name": "El Empresario",
+      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
     },
     {
       "added_at": null,

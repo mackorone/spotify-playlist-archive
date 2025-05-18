@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 423913,
+  "num_followers": 423955,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+        "name": "En attendant",
+        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
       },
       "artists": [
         {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
         }
       ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+      "duration_ms": 333213,
+      "name": "Riders On The Storm",
+      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -335,22 +351,6 @@
       "duration_ms": 298000,
       "name": "Cononbridge",
       "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "En attendant",
-        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 333213,
-      "name": "Riders On The Storm",
-      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 204733,
       "name": "Abiyoyo",
       "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
-      },
-      "artists": [
-        {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "A Drums Comes True",
         "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+      },
+      "artists": [
+        {
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "Came and Went",
         "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 335196,
       "name": "Came and Went",
       "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -947,6 +931,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -987,22 +1003,6 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 386786,
-      "name": "Uncle John\u2019s Band",
-      "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
       },
@@ -1339,18 +1315,26 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
       "artists": [
         {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
         }
       ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+      "duration_ms": 386786,
+      "name": "Uncle John\u2019s Band",
+      "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "Afternoon Conversations",
         "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Have a Day",
-        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
-      },
-      "artists": [
-        {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Have a Day",
-      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Bye Bye Blackbird (Live)",
         "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 422813,
       "name": "Bye Bye Blackbird - Live",
       "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Have a Day",
+        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Have a Day",
+      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
     },
     {
       "added_at": "2025-03-21 13:49:22",

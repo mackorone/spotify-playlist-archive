@@ -7183,6 +7183,24 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190368,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra"
+    },
+    {
+      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA"
       },
@@ -14000,7 +14018,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 264500,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF"

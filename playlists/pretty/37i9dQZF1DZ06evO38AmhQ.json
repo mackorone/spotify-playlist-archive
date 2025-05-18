@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21661,
+  "num_followers": 21662,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADvXh2aGpgLygDpTfM0JUL/",
+  "snapshot_id": "aCaAAAAAAAD9XX1Gmh1bjSTDmp9OUk67",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mates on the Road",
-        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 169520,
-      "name": "You and My Guitar",
-      "url": "https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang Caf\u00e9",
         "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 198240,
       "name": "Sail the Nullarbor",
       "url": "https://open.spotify.com/track/6f8fJZWKhNcWTU51MujI6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "You and My Guitar",
+      "url": "https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boomerang Caf\u00e9",
         "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -459,54 +459,6 @@
       "duration_ms": 215293,
       "name": "Campfire on the Road",
       "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J.W.'s Family Album",
-        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Goodbye Blinky Bill",
-      "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "If You Wanna Be An Aussie",
-      "url": "https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "A Flag of Our Own",
-      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
     },
     {
       "added_at": null,
@@ -527,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "J.W.'s Family Album",
+        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Goodbye Blinky Bill",
+      "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "A Flag of Our Own",
+      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Looking for a Story",
         "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 304493,
       "name": "I Was Only 19 - Live",
       "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "If You Wanna Be An Aussie",
+      "url": "https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 131682,
-      "name": "Uluru Forever",
-      "url": "https://open.spotify.com/track/53jttpBPM4UqkpkNIUIxRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waratah St.",
         "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 158866,
       "name": "Wobbly Boot Hotel",
       "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Don't Let The Old Man In, Mate",
+      "url": "https://open.spotify.com/track/3GR2aZYjiCEATw9eZdrroW"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Don't Let The Old Man In, Mate",
-      "url": "https://open.spotify.com/track/3GR2aZYjiCEATw9eZdrroW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
       },
       "artists": [
         {
@@ -680,9 +664,25 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Hillbilly Road",
-      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+      "duration_ms": 131682,
+      "name": "Uluru Forever",
+      "url": "https://open.spotify.com/track/53jttpBPM4UqkpkNIUIxRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mulga to Mangoes",
+        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "My Oath to Australia",
+      "url": "https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Hillbilly Road",
+      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Many Songs",
         "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
       },
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 139729,
-      "name": "Letter To Meg",
-      "url": "https://open.spotify.com/track/0bWTwtxMyGE5B9Y6XlDP2t"
+      "duration_ms": 154346,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/6xIkSRKWDJXroLkwgT22rA"
     },
     {
       "added_at": null,
@@ -776,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 166352,
-      "name": "Losin' My Mojo",
-      "url": "https://open.spotify.com/track/6R23XJHeB5iqQO5GUpapUw"
+      "duration_ms": 139729,
+      "name": "Letter To Meg",
+      "url": "https://open.spotify.com/track/0bWTwtxMyGE5B9Y6XlDP2t"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 126586,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "John Williamson: In Symphony",
-        "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "A Bushman Can't Survive",
-      "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
     }
   ],
   "unique_name": "This Is John Williamson",

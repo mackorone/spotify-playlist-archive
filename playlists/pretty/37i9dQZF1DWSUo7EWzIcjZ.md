@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,917 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,947 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 31 | [Ni Tu Ni Yo](https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:38 |
 | 32 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 33 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Más](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
-| 34 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 |
-| 35 | [Morena Ven](https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K) | [The Max Band](https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk) | [Ultimate Merengue Party 2000](https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL) | 4:41 |
+| 34 | [Morena Ven](https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K) | [The Max Band](https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk) | [Ultimate Merengue Party 2000](https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL) | 4:41 |
+| 35 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 |
 | 36 | [Que? Aha!](https://open.spotify.com/track/7zFnaskZB4uWrfZijnZDFK) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:48 |
 | 37 | [Oye](https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Juan and Nelson Records \- 20 Exitos](https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw) | 4:23 |
 | 38 | [El Silencio, Tu Y Yo](https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 3:57 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 41 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 |
 | 42 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |
 | 43 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
-| 44 | [La Vida Sigue Igual](https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Todo](https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95) | 5:50 |
-| 45 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 |
+| 44 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 |
+| 45 | [La Vida Sigue Igual](https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Todo](https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95) | 5:50 |
 | 46 | [Si Tu Me Dices](https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:43 |
 | 47 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
 | 48 | [No Hay Nadie Mas](https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:39 |

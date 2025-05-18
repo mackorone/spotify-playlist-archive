@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 
 > Enjoy the ZEROBASEONE Seoul world tour LIVE SET including the voices of them on stage! \(제로베이스원의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,779 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,794 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 | 29 | [YURA YURA \- Korean Version](https://open.spotify.com/track/1f9mgpjuSsEs0gCq2OfjCV) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 3:04 |
 | 30 | [ZEROBASEONE\_MENT E](https://open.spotify.com/track/5Or58C5T0ezgN62iaC0Htx) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD \(LIVE\)](https://open.spotify.com/album/38hbHsxJNCCiWg25GGNaev) | 14:11 |
 
-Snapshot ID: `Zw+AkAAAAAAWwWoJXzvBoayTkGc8/jBY`
+Snapshot ID: `Zw+AkAAAAAB5cwPax0VHeLKPNjXaksAQ`

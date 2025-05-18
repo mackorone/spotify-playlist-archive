@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 71228,
+  "num_followers": 71262,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAB7oM4q6xza98V4rX8l0fUb",
+  "snapshot_id": "aCaAAAAAAAAF1u6H+uKet5cjsAcoWBgz",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits And Others",
-        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 105973,
       "name": "Girl Of Constant Sorrow",
       "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
         "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 185400,
       "name": "Mama, You Been on My Mind - Live at Philharmonic Hall, New York, NY - October 1964",
       "url": "https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez, Vol. 2",
-        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Plaisir D' Amour",
-      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
         "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 221493,
       "name": "Silver Dagger - Live at Philharmonic Hall, New York, NY - October 1964",
       "url": "https://open.spotify.com/track/7buaEIGFa9f7rXjOAApie9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Baez, Vol. 2",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Plaisir D' Amour",
+      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
     },
     {
       "added_at": null,

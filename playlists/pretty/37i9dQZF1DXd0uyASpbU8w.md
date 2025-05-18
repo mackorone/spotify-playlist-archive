@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Will Linley, Lola Young, Sio, GIVĒON and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,280 likes - 89 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,316 likes - 89 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 10 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 |
 | 11 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
 | 12 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 |
-| 13 | [Your Body](https://open.spotify.com/track/3K5NKYNeoP7sWpd1TZvfAi) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg), [Gift Lunga](https://open.spotify.com/artist/6eWJ4aEmVtYdNNBrFVUbLu) | [Your Body](https://open.spotify.com/album/266PLKdXbPBvx479Hqfhdk) | 5:07 |
+| 13 | [Your Body](https://open.spotify.com/track/3K5NKYNeoP7sWpd1TZvfAi) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg), [GiftLunga](https://open.spotify.com/artist/4hIDy3Q0vp8NzHxRv93gpV) | [Your Body](https://open.spotify.com/album/266PLKdXbPBvx479Hqfhdk) | 5:07 |
 | 14 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 | 15 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 16 | [Like Dat](https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Like Dat](https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc) | 2:31 |

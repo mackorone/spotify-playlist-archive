@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 24612,
+  "num_followers": 24639,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADkbp3MSdEIdWjXSjxDhtyp",
+  "snapshot_id": "aCaAAAAAAAC2WeMe+sNsvZJzEmub3wkU",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EGOIST",
-        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "EGOIST",
-      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
         "url": "https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 196000,
       "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
       "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EGOIST",
+        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "EGOIST",
+      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
     },
     {
       "added_at": null,

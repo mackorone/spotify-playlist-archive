@@ -4,7 +4,7 @@
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 0 min
+83 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Chore Não](https://open.spotify.com/track/5aC2Avnr6X3HVRJcu4R9ar) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/24S4f5Zoxvtp846vd4DzOd) | 2:56 | 2025-04-14 |  |
 | [Chore Não](https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn) | 2:56 | 2023-12-30 | 2025-04-13 |
 | [Corda Bamba](https://open.spotify.com/track/4nsjsaov1d0LvyOVPCaXRf) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Corda Bamba](https://open.spotify.com/album/2ubtGX0eu9F0UVLMx7sNE5) | 3:11 | 2023-12-30 |  |
-| [Crazy](https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Crazy](https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS) | 3:09 | 2023-12-30 |  |
+| [Crazy](https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Crazy](https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS) | 3:09 | 2023-12-30 | 2025-05-18 |
 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 | 2024-03-08 |  |
 | [Deixa Ir](https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5) | 2:32 | 2025-04-12 |  |
 | [Deixa Ir](https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav) | 2:32 | 2023-12-30 | 2025-04-12 |
@@ -46,6 +46,7 @@
 | [Não dá mais](https://open.spotify.com/track/1n05Rid1kkMfxdGLvcZmMw) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:29 | 2024-03-08 |  |
 | [Nós Dois](https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Nós Dois](https://open.spotify.com/album/4RzE55i0qmqm1PSn2DgrMZ) | 2:59 | 2023-12-30 |  |
 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 | 2023-12-30 |  |
+| [O Mundo Parou](https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Mundo Parou](https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU) | 3:43 | 2025-05-18 |  |
 | [O Mundo Parou](https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Mundo Parou](https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU) | 3:43 | 2023-12-30 | 2025-04-11 |
 | [O Seu Grande Amor](https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Seu Grande Amor](https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t) | 3:31 | 2025-04-13 |  |
 | [O Seu Grande Amor](https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Seu Grande Amor](https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS) | 3:31 | 2023-12-30 | 2025-04-10 |

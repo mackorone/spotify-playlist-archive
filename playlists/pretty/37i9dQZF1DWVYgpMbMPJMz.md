@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Sons Of Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,427 likes - 102 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,441 likes - 102 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

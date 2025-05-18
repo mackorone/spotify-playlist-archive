@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN y Envidia Kotxina.
 
-296 songs - 14 hr 55 min
+297 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Histeria](https://open.spotify.com/track/1yvuEnWoS4I2jXKxMHBnxP) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Histeria](https://open.spotify.com/album/4nmW4nhjBCRidHlCzzAP1l) | 3:05 | 2024-06-27 | 2024-07-20 |
 | [HISTERIA](https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [HISTERIA](https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm) | 2:28 | 2024-07-12 | 2024-08-17 |
 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 | 2023-12-08 |  |
-| [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 | 2024-04-18 |  |
+| [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 | 2024-04-18 | 2025-05-18 |
 | [Inadaptados](https://open.spotify.com/track/73bmsiR22Sa1chUSge1M9t) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c), [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5) | [Inadaptados](https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT) | 2:43 | 2025-05-15 |  |
 | [Infiltrados](https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:01 | 2024-05-09 | 2024-06-21 |
 | [Influencers](https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Influencers](https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2) | 4:06 | 2024-05-09 | 2025-02-28 |
@@ -233,6 +233,7 @@
 | [Por Ti](https://open.spotify.com/track/02DFLIT4ctTWHJeGstT7ON) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ), [Evaristo Paramos](https://open.spotify.com/artist/36kxb0yilw8i5xqhnZk2Vc) | [Escapa!](https://open.spotify.com/album/2uUW5Muj7sQi7YFsO8rmWU) | 2:43 | 2023-12-08 | 2024-04-19 |
 | [PORNO DESGARRADOR](https://open.spotify.com/track/1xS2UjRolWwiAvfeRYmvsj) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [PORNO DESGARRADOR](https://open.spotify.com/album/2Ag0flDQqg8FPg0vPb1nWn) | 2:29 | 2024-06-20 | 2024-07-20 |
 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 | 2023-12-08 |  |
+| [Preso](https://open.spotify.com/track/5Kwgfdhm7ZG4F1KrRIdHMu) | [En Vano](https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc) | [Preso](https://open.spotify.com/album/6s0eUzUmgVhN4xkyUwk5F2) | 3:39 | 2025-05-15 |  |
 | [Preso 2023](https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Raska Y Pierde](https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH) | 3:30 | 2023-12-08 |  |
 | [Prozak, Etumina y Haloperidol](https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Prozak, Etumina y Haloperidol](https://open.spotify.com/album/3ddUlQ4oxiHCjpzoRzG0xu) | 3:14 | 2024-12-05 | 2024-12-20 |
 | [Pudredumbre](https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v) | [A Tomar X Culo](https://open.spotify.com/artist/6r5n867130CDJnBJC1kJWW) | [Pudredumbre](https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr) | 2:05 | 2024-08-29 | 2025-01-10 |

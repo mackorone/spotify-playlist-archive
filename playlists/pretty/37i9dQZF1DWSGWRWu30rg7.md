@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:Fajar Noor
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,961 likes - 106 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,958 likes - 106 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 15 | [Miles Away](https://open.spotify.com/track/6tlg9r46oDLCPJd3APWCr4) | [axbry](https://open.spotify.com/artist/42zAoP6oH0z5HTaMvTH1CO), [Concerto](https://open.spotify.com/artist/4NS5bBuhLGEigxOjxTtzSZ) | [Miles Away](https://open.spotify.com/album/6fp7bxkwkykYdU7Tz5z62W) | 2:51 |
 | 16 | [Di Ujung Jalan](https://open.spotify.com/track/0b8LZHUO19M2a9QE0GFpeU) | [Sierra](https://open.spotify.com/artist/4Elal7hNq1p7dipmPY4Ohm) | [Di Ujung Jalan](https://open.spotify.com/album/2K3ssf0nxVPkzZX0ZP6VmW) | 4:05 |
 | 17 | [Arah Pulang](https://open.spotify.com/track/0LBAYZckAFdxPaiukoxXcg) | [Orkes Bada Isya](https://open.spotify.com/artist/3r3Uir4USFn3eT6L76T0to) | [Arah Pulang](https://open.spotify.com/album/5d0oHtcABygUyzREnUafdw) | 4:38 |
-| 18 | [The Hereafter](https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF) | [SMSR](https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj) | [The Hereafter](https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb) | 2:23 |
+| 18 | [The Hereafter \(feat\. Shotgundre\)](https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF) | [SMSR](https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj), [Shotgundre](https://open.spotify.com/artist/2kaOq4K0wgkd7a2gcrGMpq) | [The Hereafter \(feat\. Shotgundre\)](https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb) | 2:23 |
 | 19 | [When You're With Me](https://open.spotify.com/track/0YntbY5stdEmhRBXBLVI6R) | [Random](https://open.spotify.com/artist/3DS3BGswlrn8USqD1mqs8n), [syanai](https://open.spotify.com/artist/1UxPl1pWc3spdFaoPkR9oT), [Ezra Mandira](https://open.spotify.com/artist/65TmVa8KZPj1UgvqZUuHqJ) | [When You're With Me](https://open.spotify.com/album/32y5AYXr7Pe8hlaPV00FdW) | 2:55 |
 | 20 | [Foggy Afternoon](https://open.spotify.com/track/6mtqjxq1RRBjQ4afUsSufe) | [Liat Nanti](https://open.spotify.com/artist/56jzo7vvdqfCAEsTZSvUGc) | [Foggy Afternoon](https://open.spotify.com/album/0F7fTHRd48QfdyHR6r5Gpi) | 3:20 |
 | 21 | [Love Paradox](https://open.spotify.com/track/7sGEZgK8kExfs4bKT3BuYL) | [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt), [Elle Husodo](https://open.spotify.com/artist/0nUilFmCmSPDA0mslJwywO) | [Love Paradox](https://open.spotify.com/album/1oER41VExJajSeKBLzek1c) | 4:49 |

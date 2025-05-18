@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: PG, Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,177 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,199 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 10 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
 | 11 | [Minha Esperança](https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Minha Esperança](https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq) | 5:21 |
 | 12 | [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 |
-| 13 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
-| 14 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
+| 13 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
+| 14 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
 | 15 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 |
 | 16 | [Isaias 9 \- Ao Vivo em Florianópolis](https://open.spotify.com/track/68EXQVZ1awR51KrRamWmDk) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN), [Victor Pradella](https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR), [OSSCA](https://open.spotify.com/artist/3CHuHOiTf1vYcdHsiOeNd4) | [Rodolfo Abrantes + Orquestra Sinfônica de Santa Catarina \(Ao Vivo em Florianópolis\)](https://open.spotify.com/album/0Kd6WjHFSxtVcuDGyCS47n) | 9:36 |
 | 17 | [Leva\-Me Além \(One ao Vivo\)](https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw), [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Leva\-Me Além \(One ao Vivo\)](https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L) | 3:00 |

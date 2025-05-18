@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,427 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,594 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 19 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 | 20 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
 | 21 | [Sajna](https://open.spotify.com/track/3uWQkslzoaKzbtOAjQxWNr) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Sajna](https://open.spotify.com/album/4TjqdNmCG0IEbNKVfbxTBV) | 3:44 |
-| 22 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 22 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 23 | [Victory Anthem](https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ) | [Khushi TDT](https://open.spotify.com/artist/0O8DjpANOBrYwtNXlxbyff), [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Victory Anthem](https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs) | 2:37 |
 | 24 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
 | 25 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |

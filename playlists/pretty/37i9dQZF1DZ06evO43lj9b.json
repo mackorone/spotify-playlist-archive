@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16189,
+  "num_followers": 16191,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADDyQx4OHUwqhIF+oez89Va",
+  "snapshot_id": "aCaAAAAAAABsGTCzTXbAEm5o8qqvcUT7",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Funk in the Hole",
+      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evolution: The Polydor Anthology",
         "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 180426,
       "name": "Coffy Is The Color - From The \"Coffy\" Soundtrack",
       "url": "https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Funk in the Hole",
-      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
       "added_at": null,

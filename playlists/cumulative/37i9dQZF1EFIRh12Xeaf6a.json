@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The Drifters: Essentials",
+        "url": "https://open.spotify.com/album/2IjXA36aeQYOzAJgDomUa1"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "(If You Cry) True Love, True Love - Single Version",
+      "url": "https://open.spotify.com/track/6mZrW1JtojCUbpEJqvjEXE"
+    },
+    {
+      "album": {
         "name": "Definitive Soul: The Drifters",
         "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
       },
@@ -4942,7 +4960,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 135333,
       "name": "True Love",
       "url": "https://open.spotify.com/track/49K8v4qRymtDd15Uyg577I"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,214 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,209 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 15 | [Summer Breeze](https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [On The Inside](https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K) | 3:43 |
 | 16 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 17 | [go steady](https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [go steady](https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3) | 3:57 |
-| 18 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 19 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 |
+| 18 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 |
+| 19 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 20 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
 | 21 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
 | 22 | [negotiate](https://open.spotify.com/track/5dvS2lWBnnvG1t4FE2PTFD) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [negotiate](https://open.spotify.com/album/2Zt49RShX3Gr4aouDdqeEj) | 3:06 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 41 | [Theirs13](https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [If Not Now?](https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F) | 2:04 |
 | 42 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
 | 43 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |
-| 44 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 |
-| 45 | [Black Car](https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:11 |
+| 44 | [Black Car](https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:11 |
+| 45 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 |
 | 46 | [Fiona](https://open.spotify.com/track/5R5bBeonMDFY4VX4DqjNgC) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [What's Your Motive](https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH) | 3:20 |
 | 47 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 |
 | 48 | [Thinking About You](https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 6:36 |
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 53 | [Take Ur Time](https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [One More Rush](https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV) | 4:00 |
 | 54 | [Broom](https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 2:15 |
 | 55 | [Your Touch](https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [Treasure Bloom](https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft) | [Your Touch](https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47) | 3:26 |
-| 56 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 |
-| 57 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
+| 56 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
+| 57 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 |
 | 58 | [Amnesia](https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Craterellus Tubaeformis](https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ) | 3:40 |
 | 59 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
 | 60 | [Hate the Sun](https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:34 |
-| 61 | [Little Queenie \(2023 Remastered Version\)](https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Deluxe Edition](https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M) | 2:50 |
-| 62 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
+| 61 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
+| 62 | [Little Queenie \(2023 Remastered Version\)](https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Deluxe Edition](https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M) | 2:50 |
 | 63 | [Digital Girl](https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:23 |
 | 64 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
 | 65 | [La La La](https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz) | [Moon Soul](https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5) | [Moon Soul](https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O) | 1:06 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 91 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
 | 92 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 |
 | 93 | [High](https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:44 |
-| 94 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 |
-| 95 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
+| 94 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
+| 95 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 |
 | 96 | [My Shadow Life](https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [Oddbody](https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:37 |
 | 97 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |
 | 98 | [Float Back To You](https://open.spotify.com/track/53eXqDDn8ADIbukIJWN2Dw) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 4:15 |

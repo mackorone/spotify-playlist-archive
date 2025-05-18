@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 35686,
+  "num_followers": 35700,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAADZwA+YSJF9+c8N3lbmjGP",
+  "snapshot_id": "aCaAAAAAAADUbvsB2k92oBmdsMh5+6ao",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -631,42 +631,6 @@
       "duration_ms": 222000,
       "name": "Follow The Money (feat. James Taylor)",
       "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 317226,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Ships On The Ocean",
-      "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
     },
     {
       "added_at": null,
@@ -707,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 277906,
-      "name": "Where The Blues Begins (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
+      "duration_ms": 317226,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
     },
     {
       "added_at": null,
@@ -740,9 +700,29 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+      "duration_ms": 249626,
+      "name": "Ships On The Ocean",
+      "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Where The Blues Begins (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
     },
     {
       "added_at": null,
@@ -767,6 +747,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "A Few Good Years",
+      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "A Few Good Years",
-      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 210333,
       "name": "Wear You Out (feat. Billy Gibbons)",
       "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Midnight Train (feat. Jonny Lang)",
+      "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 276293,
       "name": "All That Makes Me Happy Is the Blues",
       "url": "https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Midnight Train (feat. Jonny Lang)",
-      "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
     },
     {
       "added_at": null,

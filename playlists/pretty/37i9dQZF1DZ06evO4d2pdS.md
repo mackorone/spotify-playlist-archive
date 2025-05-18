@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,411 likes - 47 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,415 likes - 47 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 20 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 |
 | 21 | [Young and Ratchet](https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:32 |
 | 22 | [I Look Good](https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 1:53 |
-| 23 | [FYT \(Fuckin you tonight\)](https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [FYT \(Fuckin you tonight\)](https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6) | 4:14 |
-| 24 | [ADD IT UP](https://open.spotify.com/track/7uiPi84YedJClCxAxEflia) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir) | 2:56 |
+| 23 | [ADD IT UP](https://open.spotify.com/track/7uiPi84YedJClCxAxEflia) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir) | 2:56 |
+| 24 | [FYT \(Fuckin you tonight\)](https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [FYT \(Fuckin you tonight\)](https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6) | 4:14 |
 | 25 | [XO](https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:48 |
 | 26 | [Brand New \(feat\. Layton Green\)](https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:46 |
 | 27 | [look easy](https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:04 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 30 | [Get Ratchet](https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Get Ratchet](https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp) | 2:21 |
 | 31 | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/track/0CAZQv7S7Y7TGdQiuhF0bR) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/album/7aytuE5Q9TKFH1RfhXRpBi) | 2:19 |
 | 32 | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8) | 2:29 |
-| 33 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 |
-| 34 | [Easy](https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:25 |
+| 33 | [Easy](https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:25 |
+| 34 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 |
 | 35 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 |
 | 36 | [Rich Bitch \(feat\. Lakeyah & Coi Leray\)](https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:41 |
 | 37 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 46 | [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 |
 | 47 | [Loving Me](https://open.spotify.com/track/4GpydPt9VVVb3djc7lzwzk) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:59 |
 
-Snapshot ID: `aCUugAAAAAD9E9b6uz9Iav710/FSfcSI`
+Snapshot ID: `aCaAAAAAAACt47FU0LoPOwp2TPQBmslC`

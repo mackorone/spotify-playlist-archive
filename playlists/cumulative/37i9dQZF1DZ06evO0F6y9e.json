@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Quiere Llorar Y No Puede",
+      "url": "https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 172898,
       "name": "Tus Verdades (En Vivo)",
       "url": "https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM"

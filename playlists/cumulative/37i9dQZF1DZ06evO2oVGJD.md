@@ -4,14 +4,14 @@
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 0 min
+95 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/track/6om6exl9c2oIOIbyr8VgPp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/album/28zbY61jrjElCJNQaOvk6U) | 3:20 | 2022-06-01 | 2022-12-02 |
 | [2021 y Yo Que Te Amo / Me Encantaría](https://open.spotify.com/track/3vsdKoBJXbWpjvNjV3mVGP) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:43 | 2023-12-16 | 2024-04-06 |
 | [Ahora que no estás aquí](https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:15 | 2022-06-01 |  |
-| [Aléjate](https://open.spotify.com/track/5gA6AozRJFIACL3IDyKC05) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:48 | 2024-07-16 |  |
+| [Aléjate](https://open.spotify.com/track/5gA6AozRJFIACL3IDyKC05) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:48 | 2024-07-16 | 2025-05-18 |
 | [Amor Compartido](https://open.spotify.com/track/0pyuUsxcuBPBEw6x8pAiXt) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Te Pediré Perdón](https://open.spotify.com/album/007n6PgM8fVRXBPbxw8dmh) | 3:13 | 2022-06-03 | 2022-06-07 |
 | [Amándome](https://open.spotify.com/track/126Y0xmvil0XsIGPhwXGoE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:03 | 2022-06-01 | 2024-03-03 |
 | [Amándome](https://open.spotify.com/track/6IQFBLzWfJe5PGKnAfqaUc) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:03 | 2024-03-02 |  |
@@ -54,6 +54,7 @@
 | [Mentira](https://open.spotify.com/track/6FWnydvF7AgcnrLzamaNx3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:42 | 2022-06-01 |  |
 | [Mi corazón y yo](https://open.spotify.com/track/5Xb6GxBcyLNdeYpu4BoGJX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 | 2022-06-01 | 2023-03-02 |
 | [Mi corazón y yo](https://open.spotify.com/track/6ALYG2LeuuLis4Yjnrnx2t) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 2:54 | 2023-03-01 |  |
+| [Mi Forma De Sentir](https://open.spotify.com/track/550qlmHuS9NwNkaKqh0VE3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Mi Forma De Sentir](https://open.spotify.com/album/0v1CmBSnKEFdu6SUZmtdgd) | 3:31 | 2025-05-18 |  |
 | [Mi fracaso](https://open.spotify.com/track/1w11SiJRAxlFNNmTWs2Cue) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:07 | 2022-07-31 |  |
 | [Mi Reporte Hasta Hoy](https://open.spotify.com/track/5K7pNfsRNU1VR0QGTvqM4f) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mi Reporte Hasta Hoy](https://open.spotify.com/album/5eCpf7QleroJy4vEglXmAD) | 2:01 | 2023-08-25 | 2024-01-18 |
 | [Mis Emociones](https://open.spotify.com/track/6NBzqrEgfJHQ9KDyA683tl) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mentira](https://open.spotify.com/album/3f22Qlxv4l7CpdAPZt1eYE) | 3:33 | 2022-06-01 | 2023-08-28 |

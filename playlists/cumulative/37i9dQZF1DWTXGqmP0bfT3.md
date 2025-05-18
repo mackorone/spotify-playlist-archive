@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-342 songs - 23 hr 14 min
+344 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [In My Sword I Trust](https://open.spotify.com/track/54eGNQCFTHq0q9dCCsPe4P) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Unsung Heroes](https://open.spotify.com/album/3lfDu9TajrTJEiqKYL5k3V) | 5:20 | 2021-12-17 | 2022-07-29 |
 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 | 2021-12-17 |  |
 | [Inferno](https://open.spotify.com/track/6bXie9wd4w6z9Nr4I9lPne) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Inferno](https://open.spotify.com/album/4VZJNmgbFU1ZfGmFT5LmDF) | 3:12 | 2021-12-17 | 2022-07-27 |
+| [Infinity Of Horrors](https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Infinity Of Horrors](https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB) | 4:14 | 2025-05-16 |  |
 | [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 | 2023-06-22 | 2023-09-06 |
 | [Inhumane](https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 3:59 | 2023-06-22 | 2024-04-19 |
 | [Invisible Enemy](https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:37 | 2021-12-17 |  |
@@ -195,6 +196,7 @@
 | [Lost In The Static](https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:33 | 2021-12-17 | 2022-11-05 |
 | [Lost In The Static](https://open.spotify.com/track/7zKoAeplPMS3bcqIZ4crp4) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K) | 4:33 | 2022-10-06 | 2024-02-10 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2023-03-17 |  |
+| [Maldición de la Bruja](https://open.spotify.com/track/5XVlOXqU65CM49Vf8q4dYl) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [CODA](https://open.spotify.com/album/1y3G3ozQ3CTRkBMi2N8QAn) | 3:00 | 2025-05-16 |  |
 | [Mama Said Knock You Out](https://open.spotify.com/track/3EhGmExUtvaa15OueF2kvC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 2:47 | 2021-12-17 |  |
 | [Mama Said Knock You Out](https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 2:47 | 2023-06-22 | 2024-04-19 |
 | [Mama Said Knock You Out](https://open.spotify.com/track/5tGGvBpnjKJosBAmsb9eHX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 2:47 | 2022-01-06 | 2023-08-20 |
@@ -297,7 +299,7 @@
 | [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 | 2023-09-12 | 2024-04-19 |
 | [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 | 2023-09-12 | 2023-10-22 |
 | [The End](https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP) | 3:58 | 2021-12-17 |  |
-| [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 | 2021-12-17 |  |
+| [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 | 2021-12-17 | 2025-05-18 |
 | [The Fall of Us](https://open.spotify.com/track/6aDK9xX0rAV8kNY2z4s0WO) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [This Consequence](https://open.spotify.com/album/7cekR9owkcFWwzJA365Dq5) | 4:18 | 2025-03-14 |  |
 | [The Frost](https://open.spotify.com/track/1NAmER373RbdeWB0i07VO6) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:46 | 2021-12-17 | 2022-06-13 |
 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 | 2021-12-17 |  |
@@ -332,7 +334,7 @@
 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 | 2021-12-17 |  |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-29 |  |
 | [Vore](https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:39 | 2023-06-22 |  |
-| [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-03-14 |  |
+| [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-03-14 | 2025-05-18 |
 | [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 | 2023-11-27 | 2024-04-19 |
 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-06-22 | 2023-11-03 |
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2021-12-17 |  |

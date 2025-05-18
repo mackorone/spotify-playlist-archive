@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22164,
+  "num_followers": 22165,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABPhFIot+rg1ULnQcTJj4J3",
+  "snapshot_id": "aCaAAAAAAAD6w8g1Dqz9CtxnoNQe+g53",
   "tracks": [
     {
       "added_at": null,
@@ -642,11 +642,15 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 286408,
-      "name": "RED FLAG",
-      "url": "https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY"
+      "duration_ms": 358913,
+      "name": "DEEP BLUE (feat. Little Dragon)",
+      "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
     },
     {
       "added_at": null,
@@ -730,15 +734,11 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 358913,
-      "name": "DEEP BLUE (feat. Little Dragon)",
-      "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
+      "duration_ms": 286408,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY"
     },
     {
       "added_at": null,
@@ -830,15 +830,11 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
+      "duration_ms": 234239,
+      "name": "OSMOSIS",
+      "url": "https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d"
     },
     {
       "added_at": null,
@@ -922,11 +918,15 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 234239,
-      "name": "OSMOSIS",
-      "url": "https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": null,
@@ -1051,30 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 175778,
-      "name": "Jozi Flows (with Bas & EARTHGANG)",
-      "url": "https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 175778,
+      "name": "Jozi Flows (with Bas & EARTHGANG)",
+      "url": "https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Gun 3",
+        "url": "https://open.spotify.com/album/05abH0jre9UAK7UW7iQWb1"
+      },
+      "artists": [
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "duration_ms": 198759,
+      "name": "Good Cookin'",
+      "url": "https://open.spotify.com/track/5iRMsXRUuPWZwIrBaua5EY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Groove Continental: Side A",
         "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
       },
@@ -1159,26 +1187,6 @@
       "duration_ms": 169200,
       "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
       "url": "https://open.spotify.com/track/5U5QLfYdaDd6frf5I70Xqs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GHETTO GODS (Deluxe)",
-        "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 201191,
-      "name": "AMBEYONC\u00c9 (feat. Smino)",
-      "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
     }
   ],
   "unique_name": "This Is EARTHGANG",

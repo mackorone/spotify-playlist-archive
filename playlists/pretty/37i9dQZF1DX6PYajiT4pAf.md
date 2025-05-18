@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Sebastian Yatra, Lola Indigo, Guitarricadelafuente, FERNANDOCOSTA con Lia Kali y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,823 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,900 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

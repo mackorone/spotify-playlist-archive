@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,656 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,680 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 43 | [Sona](https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Sona](https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd) | 2:20 |
 | 44 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 45 | [Be With You](https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Be With You](https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7) | 2:27 |
-| 46 | [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 |
-| 47 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 |
+| 46 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 |
+| 47 | [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 |
 | 48 | [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 |
 | 49 | [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 |
-| 50 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
-| 51 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 |
+| 50 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 |
+| 51 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
 | 52 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 |
 | 53 | [Calling Back](https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [DAHR](https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f) | [Calling Back](https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm) | 5:05 |
 | 54 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 |

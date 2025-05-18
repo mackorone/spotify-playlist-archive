@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Kean Kavanagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,258 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,253 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 20 | [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 |
 | 21 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 |
 | 22 | [Pink Elephant](https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ) | 4:44 |
-| 23 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 |
-| 24 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |
+| 23 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |
+| 24 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 |
 | 25 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |
 | 26 | [Coyote](https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Coyote](https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8) | 4:04 |
 | 27 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 40 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 |
 | 41 | [Best Guess](https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo) | 4:00 |
 | 42 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 |
-| 43 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
-| 44 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 |
+| 43 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 |
+| 44 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
 | 45 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 46 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
 | 47 | [EXHAUST THE TOPIC](https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 5:10 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 82 | [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 |
 | 83 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
 | 84 | [Backseat Banton](https://open.spotify.com/track/4thz5RjPS2PuONIaK4u2TQ) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:31 |
-| 85 | [Shandy in the Graveyard](https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Shandy in the Graveyard](https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L) | 2:57 |
+| 85 | [Bugs](https://open.spotify.com/track/40UBd76lFOA4A9LIj92D8M) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bugs](https://open.spotify.com/album/69uHXZDySbtOqJTlM3J0pr) | 3:57 |
 | 86 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 |
-| 87 | [Bugs](https://open.spotify.com/track/40UBd76lFOA4A9LIj92D8M) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bugs](https://open.spotify.com/album/69uHXZDySbtOqJTlM3J0pr) | 3:57 |
+| 87 | [Shandy in the Graveyard](https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Shandy in the Graveyard](https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L) | 2:57 |
 | 88 | [Something Blue](https://open.spotify.com/track/1nS8LLMYmVwKggDEviOuM8) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:42 |
 | 89 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 |
 | 90 | [Over and Over](https://open.spotify.com/track/7EgfTld4hrzfdBLkqd52cx) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Over and Over](https://open.spotify.com/album/5e4eoRfKYGH0CYbcTd2UmL) | 3:57 |
 | 91 | [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 |
 | 92 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
 | 93 | [The Recogniser](https://open.spotify.com/track/417nPuKG03pek6PIuZGtae) | [Terra Twin](https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT) | [The Recogniser](https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs) | 3:26 |
-| 94 | [Ankles](https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP) | 3:11 |
+| 94 | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx) | 4:07 |
 | 95 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 |
-| 96 | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx) | 4:07 |
-| 97 | [jabbermouth](https://open.spotify.com/track/4gqsXwf0tDw9xmNMhZJHjV) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [Jabbermouth](https://open.spotify.com/album/2PXq7YTWsDsPhl5VwbC4a8) | 2:03 |
-| 98 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 |
-| 99 | [Pirouette](https://open.spotify.com/track/7uj5bFfCFpP3bXNcHPtcJQ) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Pirouette](https://open.spotify.com/album/0ZSz3vLHAgBenyEI3SZEdD) | 4:06 |
-| 100 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 |
+| 96 | [jabbermouth](https://open.spotify.com/track/4gqsXwf0tDw9xmNMhZJHjV) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [Jabbermouth](https://open.spotify.com/album/2PXq7YTWsDsPhl5VwbC4a8) | 2:03 |
+| 97 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 |
+| 98 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 |
+| 99 | [Ankles](https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP) | 3:11 |
+| 100 | [Pirouette](https://open.spotify.com/track/7uj5bFfCFpP3bXNcHPtcJQ) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Pirouette](https://open.spotify.com/album/0ZSz3vLHAgBenyEI3SZEdD) | 4:06 |
 
 Snapshot ID: `aBPnCwAAAAACHV/uPgSLvazXvtEPUGuN`

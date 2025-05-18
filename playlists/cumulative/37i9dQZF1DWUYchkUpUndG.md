@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=BacpBS0UQ\-yiUJBbjWluvw>Lawrence Oyor</a> and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=m3mOemx7RUShdm7aPQjCFA>Gaise Baba</a>
 
-5,248 songs - 15 day 23 hr 53 min
+5,249 songs - 15 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4399,6 +4399,7 @@
 | [The Armies of Heaven](https://open.spotify.com/track/4lHuFmdnZpG0GJTO20I7gs) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [The Armies of Heaven](https://open.spotify.com/album/0l70RF3jz0YBTinUHKMAkg) | 2:28 | 2024-09-20 | 2024-10-04 |
 | [The Basement](https://open.spotify.com/track/2Qtf80iiLampYDBMwSyEFR) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Basement](https://open.spotify.com/album/3EqEbjHk4x3d4KFjL5IYbQ) | 1:47 | 2023-08-04 | 2023-08-18 |
 | [The Beautiful Letdown \(Jonas Brothers Version\)](https://open.spotify.com/track/7aoLeX7JuTZJaSOFVj8OJm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Beautiful Letdown \(Jonas Brothers Version\)](https://open.spotify.com/album/6PzwkBcQRhITgIAtLHCH9P) | 4:52 | 2023-08-25 | 2023-09-08 |
+| [The Best](https://open.spotify.com/track/1pRM2krTqaw9iXX0xJwdT3) | [Timothy Bassey](https://open.spotify.com/artist/5amSgyUjnQQlmN7434mYdh) | [The Best](https://open.spotify.com/album/5bXV10GqWV7BtGSU1xSC08) | 3:40 | 2025-05-16 |  |
 | [The Birthing \- Live](https://open.spotify.com/track/43WCDcOYP52dUGtbivUhZa) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [The Birthing \(Live\)](https://open.spotify.com/album/0BKj2PB1oyXMqTY0LyP7fK) | 6:08 | 2024-06-21 | 2024-07-05 |
 | [The Blessing](https://open.spotify.com/track/6F8PbXZTeRxKc3ac032E00) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [The Blessing](https://open.spotify.com/album/5x04NdHCuFQjBhbxQD9Lad) | 3:26 | 2024-07-12 | 2024-07-27 |
 | [The Breaker](https://open.spotify.com/track/0F5ejWdERd6FS82fxX9WfA) | [Silver\-Ajifa](https://open.spotify.com/artist/3JnpW6KA64hTOyFotD9bDE) | [The Breaker](https://open.spotify.com/album/6RQlByZe6W6O6f3ShZ3IVT) | 4:00 | 2025-05-16 |  |

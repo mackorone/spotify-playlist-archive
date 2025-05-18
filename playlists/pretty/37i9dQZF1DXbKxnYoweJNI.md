@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 忒修斯 \(Theseus\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,789 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,791 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 43 | [我們不應該](https://open.spotify.com/track/49dQuTKnrsf0f8LSxUP29J) | [Sana Yu](https://open.spotify.com/artist/2YfxlWDLYLUCbLYpnnGoof) | [我們不應該](https://open.spotify.com/album/4VuKrERDO84Gt7TFzuzWv1) | 4:16 |
 | 44 | [傷心牛仔](https://open.spotify.com/track/3QfNGSgJbYMIr280v6vArB) | [江寅九DUF](https://open.spotify.com/artist/5baVl41elQ3Qqk7dn664qT) | [情緒牛仔](https://open.spotify.com/album/7FCNLYxpYkUmehWwvWuwaQ) | 2:45 |
 | 45 | [魯冰花 \(Live at 純園\)](https://open.spotify.com/track/1w93uagV2NvqsyjT6SFb5g) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [Live at 純園](https://open.spotify.com/album/3AdEaQiXueL6jOIayDPSby) | 5:02 |
-| 46 | [耳语](https://open.spotify.com/track/5pCieSw4d0UFuYCwBsBjlB) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB) | [APOLLO: AGAINST THE WORLD](https://open.spotify.com/album/74MhnOkKbhuN8oZI0viuFJ) | 3:52 |
+| 46 | [耳语](https://open.spotify.com/track/5pCieSw4d0UFuYCwBsBjlB) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB), [YYOUV](https://open.spotify.com/artist/1iaxswHX2v1tsGPBHO4bSg) | [APOLLO: AGAINST THE WORLD](https://open.spotify.com/album/74MhnOkKbhuN8oZI0viuFJ) | 3:52 |
 | 47 | [馬子狗七字真言](https://open.spotify.com/track/6pz593CXScf5o5btgVwD6c) | [PASH](https://open.spotify.com/artist/4Ng91ATIEnKSkt86WLh6wo), [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [馬子狗七字真言](https://open.spotify.com/album/6fKtrrhSDWvSGN0XOIGDZJ) | 1:46 |
 | 48 | [Get'em All](https://open.spotify.com/track/3CjgVNEHUcHHmsVS6bcAh0) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [Godwithme247](https://open.spotify.com/artist/5rPqdOzRKLUMtnZ4ScUiIr) | [Get'em All](https://open.spotify.com/album/3WEKDaeN6pWvAWuwauycvl) | 1:45 |
 | 49 | [努力過的人都是戰士](https://open.spotify.com/track/2NQ0II02YZTk3a5mHi9Asf) | [Joey Huang](https://open.spotify.com/artist/3UPUHwc1hECZMZpfUte15R) | [努力過的人都是戰士](https://open.spotify.com/album/0ydgxHawt1DUlJDWjqoBRs) | 2:05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 37434,
+  "num_followers": 37471,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADls/9EzSbc1TVa4KTCY+sg",
+  "snapshot_id": "aCaAAAAAAABhyxOZC+QJGG1ABVS2DC86",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
+        "name": "I Said I Love You First... And You Said It Back",
+        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
       "artists": [
         {
-          "name": "OMB Peezy",
-          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 213608,
-      "name": "Lay Down - Remix",
-      "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"
+      "duration_ms": 163631,
+      "name": "Cowboy (with GloRilla) - GloRilla Remix",
+      "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
     },
     {
       "added_at": null,
@@ -447,6 +451,26 @@
       "duration_ms": 118518,
       "name": "HOW I LOOK (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 213608,
+      "name": "Lay Down - Remix",
+      "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"
     },
     {
       "added_at": null,
@@ -487,30 +511,6 @@
       "duration_ms": 169600,
       "name": "NEVER FIND (feat. K Carbon)",
       "url": "https://open.spotify.com/track/059ND5uzljir164IZK7yHa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Said I Love You First... And You Said It Back",
-        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 163631,
-      "name": "Cowboy (with GloRilla) - GloRilla Remix",
-      "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Leave My Baby Tonight (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
         "url": "https://open.spotify.com/album/7LK4ohmEO3Arm7oXyd1eVk"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 179666,
       "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
       "url": "https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Leave My Baby Tonight (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
     },
     {
       "added_at": null,

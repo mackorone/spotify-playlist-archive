@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata, Maryla Rodowicz
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,014 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,147 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [CZEMU NIE ŚPISZ?](https://open.spotify.com/track/4lJ88RKrUiW4UP1IAu3Dhj) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [FUJU](https://open.spotify.com/artist/4EBHix5Pj89l0ISzlIjaal), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [CZEMU NIE ŚPISZ?](https://open.spotify.com/album/7FEwLv1ACk5cyoETwtXIdG) | 2:52 |
 | 50 | [Tryb przetrwania](https://open.spotify.com/track/2xAm83LeN5MISremKdXfUF) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Tryb przetrwania](https://open.spotify.com/album/7Lvm6Jr0ek8QA7kfPm3CjH) | 3:03 |
 
-Snapshot ID: `AAAAAGpmow0u/dvClR+dJklfye6DFfNV`
+Snapshot ID: `aCZkBgAAAACOwgZcdFqk+sl+M4r5NPPz`

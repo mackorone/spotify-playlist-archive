@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,611 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,616 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 5 | [Vandanaa Trayee](https://open.spotify.com/track/0ikbKcgUbI3hinyrWEfwo5) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [Chants of India](https://open.spotify.com/album/53w0AMB3LamIPNsOpQSQ2s) | 4:32 |
 | 6 | [Strings of Serenity](https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK), [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl) | [Strings of Serenity](https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v) | 2:20 |
 | 7 | [Chaand Baaliyan \- On Sitar](https://open.spotify.com/track/4cyg9E9nEDyzu1mAaQaOpX) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1) | [The Chaand Baaliyan Jukebox](https://open.spotify.com/album/5Pcapg63INIzleQpJY0yXh) | 1:46 |
-| 8 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 |
-| 9 | [Lat Ulajhi \- Instrumental](https://open.spotify.com/track/5pPBW1gjjepWGyn8BqqF5X) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Lat Ulajhi \- Single](https://open.spotify.com/album/1htF88la5OLlyZgDhJaRKT) | 3:48 |
+| 8 | [Lat Ulajhi \- Instrumental](https://open.spotify.com/track/5pPBW1gjjepWGyn8BqqF5X) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Lat Ulajhi \- Single](https://open.spotify.com/album/1htF88la5OLlyZgDhJaRKT) | 3:48 |
+| 9 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 |
 | 10 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 |
 | 11 | [Sagar Kinare \(Sitar Instrumental\)](https://open.spotify.com/track/7cMpAcWOmmcYWwhwSJr2xD) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:43 |
 | 12 | [Summer Nights](https://open.spotify.com/track/6sZgorH2FrlsrkDKY5nI58) | [Sitarsnub](https://open.spotify.com/artist/6CwnNZVoL0QAlp7GAvlAPO) | [Summer Nights](https://open.spotify.com/album/5gAIr1fiVjKV5k2Dj0BOHa) | 2:34 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 33 | [Ka Karun Sajni \- The Classic Thumri of Longing \- Instrumental](https://open.spotify.com/track/1uNp7hTMUp8eaNP6QX7Ucy) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 5:54 |
 | 34 | [Ayyappa Ashtakam](https://open.spotify.com/track/0D4ihckiXf3dIKhBm2YXaH) | [Sitar Heroes](https://open.spotify.com/artist/4HrMXro3GNDu8YBAjc9doe) | [Buddha Sitar Favorites](https://open.spotify.com/album/2kCpZPBUMJVjBavzZcc6qO) | 2:52 |
 | 35 | [Roshan](https://open.spotify.com/track/1eWN6erAfKufEeyVy5pEWI) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Roshan](https://open.spotify.com/album/68TOQgbMmZ41jx8sCWyDWK) | 4:38 |
-| 36 | [Raga Gaoti](https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm) | [Raga Khan](https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4) | 8:51 |
-| 37 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
+| 36 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
+| 37 | [Raga Gaoti](https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm) | [Raga Khan](https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4) | 8:51 |
 | 38 | [Best Sitar Music](https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:12 |
 | 39 | [Kin Bairan \- Instrumental](https://open.spotify.com/track/658ZhhzhxwHwT2wOdBUe4M) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Hindustani Classics \- Instrumental](https://open.spotify.com/album/4LMygqOC79uSoN7CyeOcZR) | 3:50 |
 | 40 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |

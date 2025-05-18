@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,008 likes - 41 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,011 likes - 40 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 35 | [Pain](https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:46 |
 | 36 | [Weather 42](https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Mi Vida Loca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA) | 5:21 |
 | 37 | [Addicted to You \(feat\. Feddy Moe, Bosten Black, Uncl DJ & Tony Toni Tone\)](https://open.spotify.com/track/6U2xE3ZuMOJcWRTqiLDFxf) | [Mac Rell](https://open.spotify.com/artist/7vWUQcdfwm0m7fL70IW9Z0), [Feddy Moe](https://open.spotify.com/artist/4tOrYOaovyBBNRXIW6rPrm), [Bosten Black](https://open.spotify.com/artist/3uRWEE4AsIQMhMqUBmvL7Q), [Uncl DJ](https://open.spotify.com/artist/3jE7KVL4FfuxT3fWNq53Wi), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Kick n Game Like Soccer](https://open.spotify.com/album/3g0Efg9A3iqVssZyW8jD5X) | 3:45 |
-| 38 | [Whatever U Want](https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Thump's Hottest Party Hits](https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S) | 3:58 |
+| 38 | [Going Down](https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Going Down](https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd) | 2:57 |
 | 39 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
-| 40 | [Going Down](https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Going Down](https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd) | 2:57 |
-| 41 | [It Feels Good](https://open.spotify.com/track/5CMYgMuy0T491lbJVJ715U) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [New Jack, Vol\. 1](https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI) | 3:08 |
+| 40 | [It Feels Good](https://open.spotify.com/track/5CMYgMuy0T491lbJVJ715U) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [New Jack, Vol\. 1](https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI) | 3:08 |
 
-Snapshot ID: `aCUugAAAAABUmSedC67DhhYeNcV1q8Fl`
+Snapshot ID: `aCaAAAAAAAB3pymzNjip1fl3eRduZii0`

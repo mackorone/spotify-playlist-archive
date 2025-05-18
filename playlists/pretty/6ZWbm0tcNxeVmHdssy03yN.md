@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,344 likes - 107 songs - 5 hr 26 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,354 likes - 107 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like Dat](https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Like Dat](https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc) | 2:31 |
 | 2 | [For The Love \(ft\. Ice Cube & Lorine Chia\)](https://open.spotify.com/track/05s3dwoFQHi7WFNSnmEBir) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Kingmaker](https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR) | 3:32 |
 | 3 | [Keep Hush](https://open.spotify.com/track/3WHUp951VtACvbxstaob8u) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Keep Hush](https://open.spotify.com/album/53HjIJz24S8OAfM2yOBmcq) | 2:50 |
-| 4 | [Us](https://open.spotify.com/track/3yG45WqilUjnG51kE35npx) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [SHINE](https://open.spotify.com/album/4qumGNh9nIs0jhR0jFoEMu) | 2:50 |
+| 4 | [Us](https://open.spotify.com/track/3yG45WqilUjnG51kE35npx) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [SHINE](https://open.spotify.com/album/4qumGNh9nIs0jhR0jFoEMu) | 2:50 |
 | 5 | [Get Loose](https://open.spotify.com/track/6wvvKgrDbLHjd8IGXCbK7N) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Tha Pope](https://open.spotify.com/artist/5AXsbGVbdQSQIadVkPyatG) | [Get Loose](https://open.spotify.com/album/1frvoFSYOgvF3c0idi3M8n) | 2:38 |
 | 6 | [All Your Days \(feat\. Fleurie\)](https://open.spotify.com/track/2Ml5ZRth7mr8ymZdqtJWbI) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [All Your Days \(feat\. Fleurie\)](https://open.spotify.com/album/6QeXyAMUT2IDoUYPzvxh95) | 4:03 |
 | 7 | [The Moment \(ft\. Busta Rhymes & JasonMartin\)](https://open.spotify.com/track/2W4OnbVE9uxlnp58XTZUSR) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Kingmaker](https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR) | 3:07 |

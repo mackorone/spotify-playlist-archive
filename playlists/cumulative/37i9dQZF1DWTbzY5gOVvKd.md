@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-200 songs - 13 hr 52 min
+201 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2022-05-02 |  |
 | [Embraceable You](https://open.spotify.com/track/4DeblNB0dvJEm2icN9mv2L) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:40 | 2022-05-02 | 2022-10-22 |
 | [Embraceable You](https://open.spotify.com/track/2TWBu8KQdlGA4SoqeFJ73A) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU) | 3:42 | 2022-11-08 | 2023-08-25 |
-| [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26\* |  |
+| [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26\* | 2025-05-18 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-06-22 | 2024-04-19 |
 | [First Time](https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/78qI1KR0g7JiLB3mc2WXYz) | 4:11 | 2019-05-26\* |  |
 | [First Time](https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:11 | 2022-09-13 | 2023-12-24 |
@@ -206,6 +206,7 @@
 | [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 | 2024-08-16 |  |
 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 | 2022-03-10 |  |
 | [You Make Me Feel so Young](https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 4:08 | 2022-05-02 |  |
+| [You Taught My Heart to Sing](https://open.spotify.com/track/6ZZSi4URY8EIS6xOWkmhdV) | [Lucía](https://open.spotify.com/artist/4pJ0viHUYhSn2o4OhaFKii) | [Lucía](https://open.spotify.com/album/0jEIDaWNl4OHLebprJV0Y7) | 4:38 | 2025-05-16 |  |
 | [You're All That Matters To Me](https://open.spotify.com/track/1jdr7bSQLHztdLqdoNbi7Y) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [You're All That Matters To Me](https://open.spotify.com/album/0zaSi5KF33ZQZHZZCNxiao) | 5:58 | 2022-02-23 | 2022-07-29 |
 | [You're All That Matters To Me](https://open.spotify.com/track/4vM5nHW71NnMSkWYyFYSfE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 5:58 | 2022-06-22 | 2022-10-08 |
 

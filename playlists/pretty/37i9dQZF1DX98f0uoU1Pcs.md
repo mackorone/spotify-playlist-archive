@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,713 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,730 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 39 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 |
 | 40 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
 | 41 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 42 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
-| 43 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
+| 42 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
+| 43 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
 | 44 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 |
 | 45 | [Demon Compass](https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass \(Deluxe\)](https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip) | 3:30 |
 | 46 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
 | 47 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 |
 | 48 | [Big Mileage](https://open.spotify.com/track/0JqWNu9Rm6qmTmUWpFtqcQ) | [Pet Symmetry](https://open.spotify.com/artist/25o7TtaXwjIHjQnqXH670G) | [Big Mileage](https://open.spotify.com/album/0gEhTHYttgCyZ25mLKxC0q) | 2:00 |
 | 49 | [Worship The Whip](https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 3:01 |
-| 50 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
-| 51 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 50 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 51 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
 | 52 | [Break the Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break the Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:44 |
 | 53 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 |
 | 54 | [Immigrant Songs](https://open.spotify.com/track/68UHXy1CYxlp6VsjJSYqaH) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Immigrant Songs](https://open.spotify.com/album/1nw1TaoIrHaLSpBwSBqyqm) | 7:00 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 91 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 |
 | 92 | [High Value Male](https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6) | [Papa Jupe's T.C.](https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh) | [High Value Male](https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx) | 3:42 |
 | 93 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
-| 94 | [A Distant Life](https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [A Distant Life](https://open.spotify.com/album/6VilbKJ0zEQ5cGyWcxLcOI) | 2:40 |
-| 95 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
-| 96 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 |
-| 97 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
+| 94 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
+| 95 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 |
+| 96 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
+| 97 | [A Distant Life](https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [A Distant Life](https://open.spotify.com/album/6VilbKJ0zEQ5cGyWcxLcOI) | 2:40 |
 | 98 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 |
-| 99 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
+| 99 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
 | 100 | [Big Dogs](https://open.spotify.com/track/6kkRGWw1IlO0VboVlZPMah) | [Sour Widows](https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG) | [Big Dogs](https://open.spotify.com/album/1gC7edlkh3u9AvdG9hUfRX) | 5:31 |
 
 Snapshot ID: `Z//nxgAAAAAngS4L2gwbqkht4JYXfmYv`

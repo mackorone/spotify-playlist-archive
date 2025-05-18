@@ -3225,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "album": {
         "name": "SYNK : PARALLEL LINE - Special Digital Single",
         "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
       },
@@ -8038,7 +8056,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -8110,7 +8128,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/2eyWFRvT7lOQmqfXI25oR1"
@@ -9568,7 +9586,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 284583,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17"
@@ -14682,7 +14700,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 286191,
       "name": "\u0e01\u0e2d\u0e14\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/6OtTqu9t1RitlU1RjUfEXe"
@@ -15000,7 +15018,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 266280,
       "name": "\u0e02\u0e35\u0e49\u0e2b\u0e36\u0e07",
       "url": "https://open.spotify.com/track/1nmdJTwB575vxvNm6PdXHq"
@@ -17040,7 +17058,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 275625,
       "name": "\u0e17\u0e38\u0e01\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/1fBIWQh21BNWLhuhXDMog1"
@@ -17614,7 +17632,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 234000,
       "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
@@ -20858,7 +20876,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 301928,
       "name": "\u0e43\u0e08\u0e1e\u0e31\u0e07",
       "url": "https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA"
@@ -21056,7 +21074,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 285000,
       "name": "\u0e44\u0e1f\u0e40\u0e22\u0e47\u0e19",
       "url": "https://open.spotify.com/track/4ZU069vAYkr7soRzdzNdjF"

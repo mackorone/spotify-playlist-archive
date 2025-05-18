@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1980s.",
-  "num_followers": 91184,
+  "num_followers": 91222,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
         }
       ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Whitesnake (30th Anniversary Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Is This Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1EAm5aFinm1OFsIZ0vzZj7"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Hot In The City",
         "url": "https://open.spotify.com/album/6Ev4QMkR4al3eo4tVOblcL"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 218066,
       "name": "Hot In The City - Remastered 2001",
       "url": "https://open.spotify.com/track/2EoDDqX7mZ7QRBIHZYxwyC"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Whitesnake (30th Anniversary Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Is This Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1EAm5aFinm1OFsIZ0vzZj7"
     },
     {
       "added_at": "2024-07-12 14:55:35",

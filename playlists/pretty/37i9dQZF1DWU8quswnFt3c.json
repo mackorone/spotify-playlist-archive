@@ -1,6 +1,6 @@
 {
   "description": "Listen to Creators at full volume. Cover: Ana Bacalhau",
-  "num_followers": 1083248,
+  "num_followers": 1083105,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/1ficHVddpZ4rCfgExZXYpd"
     },
     {
+      "added_at": "2025-05-07 04:00:35",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 179348,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc"
+    },
+    {
       "added_at": "2025-04-16 04:00:25",
       "album": {
         "name": "Punisher",
@@ -375,22 +391,6 @@
       "duration_ms": 190304,
       "name": "BTG",
       "url": "https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE"
-    },
-    {
-      "added_at": "2025-05-07 04:00:35",
-      "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 179348,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc"
     },
     {
       "added_at": "2025-04-16 04:00:25",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
     },
     {
-      "added_at": "2025-04-16 04:00:25",
-      "album": {
-        "name": "All I Am",
-        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "All I Am",
-      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
-    },
-    {
       "added_at": "2025-05-07 04:00:35",
       "album": {
         "name": "Cartoon Darkness",
@@ -651,6 +635,22 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3UPoC4ul3EOALnD8lmTf8o"
+    },
+    {
+      "added_at": "2025-04-16 04:00:25",
+      "album": {
+        "name": "All I Am",
+        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
     },
     {
       "added_at": "2025-04-16 04:00:25",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E"
     },
     {
-      "added_at": "2025-05-07 04:00:35",
-      "album": {
-        "name": "Teman Makan Teman",
-        "url": "https://open.spotify.com/album/3CxI4HwlH56BtQlUKcClC4"
-      },
-      "artists": [
-        {
-          "name": "Avolia",
-          "url": "https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "Teman Makan Teman",
-      "url": "https://open.spotify.com/track/1DZJ5Q6MLS49KWEHSGlfgu"
-    },
-    {
       "added_at": "2025-04-16 04:00:25",
       "album": {
         "name": "eat, sleep, slay, \ud83d\udd01",
@@ -731,6 +715,22 @@
       "duration_ms": 149666,
       "name": "eat, sleep, slay, \ud83d\udd01",
       "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
+    },
+    {
+      "added_at": "2025-05-07 04:00:35",
+      "album": {
+        "name": "Teman Makan Teman",
+        "url": "https://open.spotify.com/album/3CxI4HwlH56BtQlUKcClC4"
+      },
+      "artists": [
+        {
+          "name": "Avolia",
+          "url": "https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "Teman Makan Teman",
+      "url": "https://open.spotify.com/track/1DZJ5Q6MLS49KWEHSGlfgu"
     },
     {
       "added_at": "2025-04-16 04:00:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-04-16 04:00:25",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO"
-      },
-      "artists": [
-        {
-          "name": "BLANKA",
-          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
-        }
-      ],
-      "duration_ms": 143600,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7"
-    },
-    {
-      "added_at": "2025-04-16 04:00:25",
-      "album": {
         "name": "Hening Rindu",
         "url": "https://open.spotify.com/album/1cPlyNOK1dziSnIkjNweS4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 236470,
       "name": "Hening Rindu",
       "url": "https://open.spotify.com/track/78407B74rCuif4YYE4SRUv"
+    },
+    {
+      "added_at": "2025-04-16 04:00:25",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7"
     },
     {
       "added_at": "2025-04-16 04:00:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-16 04:00:25",
       "album": {
-        "name": "Boyfriend Of The Year",
-        "url": "https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a"
-      },
-      "artists": [
-        {
-          "name": "Jamila",
-          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
-        }
-      ],
-      "duration_ms": 198543,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7"
-    },
-    {
-      "added_at": "2025-04-16 04:00:25",
-      "album": {
         "name": "Some Type Of Skin",
         "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 204693,
       "name": "Some Type Of Skin - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
+    },
+    {
+      "added_at": "2025-04-16 04:00:25",
+      "album": {
+        "name": "Boyfriend Of The Year",
+        "url": "https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a"
+      },
+      "artists": [
+        {
+          "name": "Jamila",
+          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
+        }
+      ],
+      "duration_ms": 198543,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7"
     },
     {
       "added_at": "2025-04-16 04:00:25",

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 70267,
+  "num_followers": 70290,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "Told You (Soundboy)",
+        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        }
+      ],
+      "duration_ms": 178971,
+      "name": "Told You (Soundboy)",
+      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/6CpfHRVUlOcrskTcK6lh7V"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 200914,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/76nEx8wI5dCH3RKM2v0c2y"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "Told You (Soundboy)",
-        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        }
-      ],
-      "duration_ms": 178971,
-      "name": "Told You (Soundboy)",
-      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
     }
   ],
   "unique_name": "Jump Up!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Claire Javier\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,979 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 3 | [Nokosuai](https://open.spotify.com/track/0RQJhCHz8xdjVu0GlWnxmx) | [Velvet Aduk](https://open.spotify.com/artist/0HXMMVQy5IrTOHU84Llzfs) | [Ogingol](https://open.spotify.com/album/5ypfdBhVU6k2OZOjfC6TEc) | 3:58 |
 | 4 | [MAPPU](https://open.spotify.com/track/6WCNGFUbzx8oSNSZZBSU0S) | [LINGGES](https://open.spotify.com/artist/7wPsR5gJq1N0GSVcBidY76), [Vetha Shahana](https://open.spotify.com/artist/2Bkya49Y15WCHqNRhRz8yA) | [MAPPU](https://open.spotify.com/album/7DWe5hTZv2d69Lm9qGtiQE) | 3:08 |
 | 5 | [Tourist](https://open.spotify.com/track/5u73RPH18dAY7HejcAZSOy) | [Eevone](https://open.spotify.com/artist/5NJJStMLtyc5gj5ZvyBIAN) | [Tourist](https://open.spotify.com/album/6hyJpWzscoPlVBmQFrFSk0) | 4:04 |
-| 6 | [耳语](https://open.spotify.com/track/5pCieSw4d0UFuYCwBsBjlB) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB) | [APOLLO: AGAINST THE WORLD](https://open.spotify.com/album/74MhnOkKbhuN8oZI0viuFJ) | 3:52 |
+| 6 | [耳语](https://open.spotify.com/track/5pCieSw4d0UFuYCwBsBjlB) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB), [YYOUV](https://open.spotify.com/artist/1iaxswHX2v1tsGPBHO4bSg) | [APOLLO: AGAINST THE WORLD](https://open.spotify.com/album/74MhnOkKbhuN8oZI0viuFJ) | 3:52 |
 | 7 | [Puaskah \- From "Bukan Ipar Sempurna"](https://open.spotify.com/track/0q7UPJlLAJxEg0Z3ZUZowV) | [Ameerais](https://open.spotify.com/artist/24r3pnfIKGMlmZprbeLtKs), [Mariam Saim](https://open.spotify.com/artist/41ZNhKns2mod2xL1990luk) | [Puaskah \(From "Bukan Ipar Sempurna"\)](https://open.spotify.com/album/3LOymfLbCK1D4E69hjrKm4) | 3:36 |
 | 8 | [Calm TF Down](https://open.spotify.com/track/3rUiIJTMmPBNesziaqW7o8) | [kiingkess](https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr), [Sax?](https://open.spotify.com/artist/6NoqiIJ7YfJYVLLM9Qnou8) | [Calm TF Down](https://open.spotify.com/album/6eOOr30o2lK9ZrcYzSQnLG) | 2:23 |
 | 9 | [Know Me](https://open.spotify.com/track/2eBnV9niY1YzcHsYEPMzAt) | [RZN](https://open.spotify.com/artist/4wA9xhO1yGjwVc98eQakkz) | [Know Me](https://open.spotify.com/album/74v6xeNyokMc2pU6UwbgFf) | 2:23 |

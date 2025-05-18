@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68871,
+  "num_followers": 68876,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAABq1gYu7tF4GKfNj9bc7V5k",
+  "snapshot_id": "aCaAAAAAAAAp+E4ky8pLakwWwWhMgqyx",
   "tracks": [
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Top Gone (with Lunay)",
         "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 194453,
       "name": "Top Gone (with Lunay)",
       "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gym",
-        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Gym",
-      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
     },
     {
       "added_at": null,
@@ -1115,6 +1115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epapale",
+        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Epapale",
+      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quien Contra Mi 2",
         "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 226666,
       "name": "Subconsciente",
       "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epapale",
-        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Epapale",
-      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
     },
     {
       "added_at": null,

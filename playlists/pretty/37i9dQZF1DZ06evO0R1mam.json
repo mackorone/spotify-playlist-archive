@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 11717,
+  "num_followers": 11720,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAD3+iSPrBygfxMzLcobtwPm",
+  "snapshot_id": "aCaAAAAAAACwU8+904liXvbH5YzqLAff",
   "tracks": [
     {
       "added_at": null,
@@ -339,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
       "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 100354,
-      "name": "My Worship - Live",
-      "url": "https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy"
+      "duration_ms": 372760,
+      "name": "Chasing Me Down (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
       "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 372760,
-      "name": "Chasing Me Down (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S"
+      "duration_ms": 100354,
+      "name": "My Worship - Live",
+      "url": "https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy"
     },
     {
       "added_at": null,
@@ -411,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
       },
       "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 199725,
-      "name": "Same God - Live",
-      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
+      "duration_ms": 307586,
+      "name": "We Are Victorious (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
     },
     {
       "added_at": null,
@@ -443,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
       "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307586,
-      "name": "We Are Victorious (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
+      "duration_ms": 199725,
+      "name": "Same God - Live",
+      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "No Way (The G.A. Chant)",
-      "url": "https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 406946,
       "name": "Chasing After You (The Morning Song)",
       "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "No Way (The G.A. Chant)",
+      "url": "https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 307266,
-      "name": "Still Have Joy - Live",
-      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 306920,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 307266,
+      "name": "Still Have Joy - Live",
+      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307986,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
+      "duration_ms": 198226,
+      "name": "1-2 (Victory Check) - Live",
+      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Hallelujah To Your Name - Live",
-      "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
+      "duration_ms": 292813,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
     },
     {
       "added_at": null,
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 292813,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
+      "duration_ms": 327400,
+      "name": "Hallelujah To Your Name - Live",
+      "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
     },
     {
       "added_at": null,
@@ -819,22 +803,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smokie Norful Live",
-        "url": "https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
       },
       "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 296346,
-      "name": "He's Gonna Come Through - Live",
-      "url": "https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO"
+      "duration_ms": 307986,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 336080,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+        "name": "Smokie Norful Live",
+        "url": "https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u"
       },
       "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 336080,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
+      "duration_ms": 296346,
+      "name": "He's Gonna Come Through - Live",
+      "url": "https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO"
     },
     {
       "added_at": null,

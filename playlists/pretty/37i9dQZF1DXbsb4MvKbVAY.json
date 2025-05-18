@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83c\udfc6 Kannessa OLGA.",
-  "num_followers": 25255,
+  "num_followers": 25261,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-05-15 21:01:22",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 184698,
-      "name": "Handlebars (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
-    },
-    {
-      "added_at": "2025-05-15 21:01:22",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "added_at": "2025-05-15 21:01:22",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "added_at": "2025-05-15 21:01:22",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-05-15 21:01:22",
       "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
-    },
-    {
-      "added_at": "2025-05-15 21:01:22",
-      "album": {
         "name": "Next Summer",
         "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "added_at": "2025-05-15 21:01:22",
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2025-05-15 21:01:22",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2025-05-15 21:01:22",
       "album": {
-        "name": "Call Me When You Break Up (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 126831,
-      "name": "Call Me When You Break Up (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
-    },
-    {
-      "added_at": "2025-05-15 21:01:22",
-      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -1559,6 +1535,30 @@
     {
       "added_at": "2025-05-15 21:01:22",
       "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
+    },
+    {
+      "added_at": "2025-05-15 21:01:22",
+      "album": {
         "name": "I Hate That It's True",
         "url": "https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 161420,
       "name": "I Hate That It's True",
       "url": "https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF"
-    },
-    {
-      "added_at": "2025-05-15 21:01:22",
-      "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 242584,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "added_at": "2025-05-15 21:01:22",
@@ -1607,22 +1591,6 @@
     {
       "added_at": "2025-05-15 21:01:22",
       "album": {
-        "name": "Invincible (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 155495,
-      "name": "Invincible - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
-    },
-    {
-      "added_at": "2025-05-15 21:01:22",
-      "album": {
         "name": "Sincerely,",
         "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
       },
@@ -1639,6 +1607,38 @@
     {
       "added_at": "2025-05-15 21:01:22",
       "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
+    },
+    {
+      "added_at": "2025-05-15 21:01:22",
+      "album": {
+        "name": "Invincible (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 155495,
+      "name": "Invincible - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+    },
+    {
+      "added_at": "2025-05-15 21:01:22",
+      "album": {
         "name": "WITHERED",
         "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 195328,
       "name": "Is This Really Love?",
       "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
+    },
+    {
+      "added_at": "2025-05-15 21:01:22",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 212487,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j"
     },
     {
       "added_at": "2025-05-15 21:01:22",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2025-05-15 21:01:22",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 212487,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j"
-    },
-    {
-      "added_at": "2025-05-15 21:01:22",
-      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -1703,26 +1703,6 @@
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
-    },
-    {
-      "added_at": "2025-05-15 21:01:22",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {
       "added_at": "2025-05-15 21:01:22",
@@ -1747,6 +1727,26 @@
       "duration_ms": 182640,
       "name": "Tell Me Where U Go",
       "url": "https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16"
+    },
+    {
+      "added_at": "2025-05-15 21:01:22",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     }
   ],
   "unique_name": "Ensisoitossa",

@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8961,
+  "num_followers": 8963,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADwQjV+47x3ORPA0N3B3qSY",
+  "snapshot_id": "aCaAAAAAAAACo9HD4XDqEJ6muutzjj7L",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naja",
-        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
       },
       "artists": [
         {
-          "name": "Pawas",
-          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
         }
       ],
-      "duration_ms": 542837,
-      "name": "Naja",
-      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+        "name": "Naja",
+        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
         },
         {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+      "duration_ms": 542837,
+      "name": "Naja",
+      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 7659,
+  "num_followers": 7658,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAeHGLO/Ip1b7f+uS4eiYq1",
+  "snapshot_id": "aCaAAAAAAADTaPG4uhNO9/VU9fs/4o0X",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 416933,
-      "name": "VI Scose Poise",
-      "url": "https://open.spotify.com/track/4adILYvDL37jb0GxYTzqIE"
+      "duration_ms": 453693,
+      "name": "The Egg",
+      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 453693,
-      "name": "The Egg",
-      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
+      "duration_ms": 416933,
+      "name": "VI Scose Poise",
+      "url": "https://open.spotify.com/track/4adILYvDL37jb0GxYTzqIE"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 537263,
-      "name": "Cipater",
-      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 428131,
       "name": "Pen Expers",
       "url": "https://open.spotify.com/track/1ApkioB2tH12mouyXF4rXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 537263,
+      "name": "Cipater",
+      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 532800,
-      "name": "Cichli",
-      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 401314,
       "name": "Cfern",
       "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 532800,
+      "name": "Cichli",
+      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
     },
     {
       "added_at": null,

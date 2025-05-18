@@ -1,6 +1,6 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Pooja Hegde",
-  "num_followers": 51846,
+  "num_followers": 51873,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Gharshanaa",
+        "url": "https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx"
+      },
+      "artists": [
+        {
+          "name": "Srinivas",
+          "url": "https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl"
+        }
+      ],
+      "duration_ms": 315001,
+      "name": "Ye Chilipi",
+      "url": "https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Uppena",
         "url": "https://open.spotify.com/album/0vHE0cmA8orbBgzIWz9T3D"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 312374,
       "name": "Nee Kannu Neeli Samudram - Telugu",
       "url": "https://open.spotify.com/track/1C9SYGI40nNYh98gN87Fwr"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Gharshanaa",
-        "url": "https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx"
-      },
-      "artists": [
-        {
-          "name": "Srinivas",
-          "url": "https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl"
-        }
-      ],
-      "duration_ms": 315001,
-      "name": "Ye Chilipi",
-      "url": "https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -441,24 +441,20 @@
       "url": "https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K"
     },
     {
-      "added_at": "2025-02-10 12:33:38",
+      "added_at": "2023-02-02 11:15:02",
       "album": {
-        "name": "Kalaavathi - Sarkaru Vaari Paata",
-        "url": "https://open.spotify.com/album/6gB9NnwgzJkjFCSokvVMLv"
+        "name": "Govindudu Andarivaadele",
+        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
       },
       "artists": [
         {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
         }
       ],
-      "duration_ms": 242322,
-      "name": "Kalaavathi",
-      "url": "https://open.spotify.com/track/0hNPo5brQ2MLlrdVKZfHK9"
+      "duration_ms": 264000,
+      "name": "Gulabi Kallu Rendu Mullu",
+      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -477,20 +473,24 @@
       "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
-      "added_at": "2023-02-02 11:15:02",
+      "added_at": "2025-02-10 12:33:38",
       "album": {
-        "name": "Govindudu Andarivaadele",
-        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
+        "name": "Kalaavathi - Sarkaru Vaari Paata",
+        "url": "https://open.spotify.com/album/6gB9NnwgzJkjFCSokvVMLv"
       },
       "artists": [
         {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Gulabi Kallu Rendu Mullu",
-      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
+      "duration_ms": 242322,
+      "name": "Kalaavathi",
+      "url": "https://open.spotify.com/track/0hNPo5brQ2MLlrdVKZfHK9"
     },
     {
       "added_at": "2022-10-13 05:39:22",

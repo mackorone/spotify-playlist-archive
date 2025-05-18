@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 589586,
+  "num_followers": 589756,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2025-05-16 06:34:13",
       "album": {
+        "name": "Zero a Cem",
+        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Zero a Cem",
+      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+    },
+    {
+      "added_at": "2025-05-16 06:34:13",
+      "album": {
         "name": "Pode Se Achegar",
         "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
-    },
-    {
-      "added_at": "2025-05-16 06:34:13",
-      "album": {
-        "name": "Zero a Cem",
-        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Zero a Cem",
-      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
     },
     {
       "added_at": "2025-05-16 06:34:13",
@@ -299,22 +299,18 @@
     {
       "added_at": "2025-05-16 06:34:13",
       "album": {
-        "name": "Varrendo a Lua",
-        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 190960,
-      "name": "De Janeiro a Janeiro",
-      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+      "duration_ms": 216800,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
       "added_at": "2025-05-16 06:34:13",
@@ -335,18 +331,22 @@
     {
       "added_at": "2025-05-16 06:34:13",
       "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+        "name": "Varrendo a Lua",
+        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 216800,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
+      "duration_ms": 190960,
+      "name": "De Janeiro a Janeiro",
+      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
     },
     {
       "added_at": "2025-05-16 06:34:13",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-05-16 06:34:13",
       "album": {
-        "name": "deixa fluir",
-        "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 171907,
-      "name": "deixa fluir",
-      "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
-    },
-    {
-      "added_at": "2025-05-16 06:34:13",
-      "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+    },
+    {
+      "added_at": "2025-05-16 06:34:13",
+      "album": {
+        "name": "deixa fluir",
+        "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 171907,
+      "name": "deixa fluir",
+      "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
     },
     {
       "added_at": "2025-05-16 06:34:13",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-05-16 06:34:13",
       "album": {
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 249973,
+      "name": "Amado",
+      "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
+    },
+    {
+      "added_at": "2025-05-16 06:34:13",
+      "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 198075,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
-    },
-    {
-      "added_at": "2025-05-16 06:34:13",
-      "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 249973,
-      "name": "Amado",
-      "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
     },
     {
       "added_at": "2025-05-16 06:34:13",

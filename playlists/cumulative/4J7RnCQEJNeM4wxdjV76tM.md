@@ -4,7 +4,7 @@
 
 > ⋆.
 
-625 songs - 1 day 10 hr 2 min
+627 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Get Silly \(Freestyle\)](https://open.spotify.com/track/5406W9dnqLGImP1e5Uc89v) | [16marley](https://open.spotify.com/artist/3vtH9rp0jCfQHayfUZ0S98), [28hassal](https://open.spotify.com/artist/7yY7a7bOc05S6V31KOtrbW), [marreley](https://open.spotify.com/artist/1N0jn3PXw87YXELCPgHAQl) | [Get Silly \(Freestyle\)](https://open.spotify.com/album/0aHOOFcJqS3bT7pcrdmn3k) | 2:05 | 2023-12-20 |  |
 | [ghost boy](https://open.spotify.com/track/19LvG1Uqsk9KyRRYhLC8Ib) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [ghost boy](https://open.spotify.com/album/3Dj0FGMTvrHnxr4iajMDpK) | 2:10 | 2022-02-02 |  |
 | [Ghosts](https://open.spotify.com/track/2jlmSvi1vkJuabSwrEf6X0) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Ghosts](https://open.spotify.com/album/6nY9jfbpvXD9Y4hfBIm0Cn) | 1:53 | 2023-06-20 |  |
+| [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-17 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-07 |  |
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2022-03-17 |  |
 | [Girlfriend](https://open.spotify.com/track/0ByMEtOAATIdWkuYMIYnTv) | [Heavy Weight](https://open.spotify.com/artist/5a93v7K0tRAdG6e0qGz38J) | [Girlfriend](https://open.spotify.com/album/5TIMTrEuwMp8siTWFIlYLd) | 3:56 | 2024-03-20 |  |
@@ -519,6 +520,7 @@
 | [Sorrows](https://open.spotify.com/track/5TXQCMKN6TgemTL3c4wRTn) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 3:13 | 2023-11-03 |  |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2022-02-16 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/7nlQ9Kov3dIusthh3tr46V) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/4fwXIXqROwOmKXgIMvNNIx) | 3:20 | 2023-11-09 |  |
+| [Sound of Madness](https://open.spotify.com/track/0pJUUPm7vb34VNImGEkg0L) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness \(Deluxe Edition\)](https://open.spotify.com/album/4KnWR76aRieR6QREuid3y7) | 3:53 | 2025-05-17 |  |
 | [Spike Lee](https://open.spotify.com/track/1584BGfWzDiIu2OdSd7zhQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:47 | 2022-11-19 |  |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2023-04-02 |  |
 | [Spin The Block](https://open.spotify.com/track/7gB90rW1w7tPSSxBelLTZY) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Spin The Block](https://open.spotify.com/album/2HZlkLlkP0rJOyun26Txqr) | 2:20 | 2023-02-26 |  |

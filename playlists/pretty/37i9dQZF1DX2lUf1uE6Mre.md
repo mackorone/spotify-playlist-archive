@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Aymen
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,742 likes - 79 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,768 likes - 79 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

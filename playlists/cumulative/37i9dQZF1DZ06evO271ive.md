@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-103 songs - 4 hr 49 min
+104 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 | 2023-11-10 | 2024-03-17 |
 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 | 2024-03-16 |  |
 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 | 2023-12-13 |  |
-| [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 | 2023-11-10 |  |
+| [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 | 2023-11-10 | 2025-05-18 |
 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 | 2023-11-10 | 2025-03-12 |
 | [I Might \(feat\. Summer Walker\)](https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 | 2023-12-13 |  |
 | [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 | 2024-08-13 |  |
@@ -64,6 +64,7 @@
 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 | 2023-11-10 |  |
 | [Mad at Me](https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:39 | 2023-11-10 |  |
 | [Man At Home](https://open.spotify.com/track/7G5Cf56y5w6ttJQvhNk8wH) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:07 | 2023-11-10 | 2024-03-09 |
+| [Me N OG Snoop](https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Iz It a Crime?](https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD) | 2:38 | 2025-05-18 |  |
 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 | 2023-11-10 |  |
 | [My Twin](https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [My Twin](https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE) | 2:48 | 2023-11-10 | 2024-05-28 |
 | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/5GYKltEbk7h1DDM8aGloPu) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/album/3xbnEyhuILNfvxirhwj3LA) | 2:58 | 2024-06-30 | 2024-07-27 |

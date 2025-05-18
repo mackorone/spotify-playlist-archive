@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1642348,
+  "num_followers": 1642339,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAEzVdJ59KNoLcgZgRpmN7U",
+  "snapshot_id": "aCaAAAAAAADQEvEl+kDg6dyT4tTpc/jn",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 193776,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld",
         "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 189391,
       "name": "Heart over Mind",
       "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Hold Me Down",
-        "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 132597,
-      "name": "Don't You Hold Me Down",
-      "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Story of a Bird",
         "url": "https://open.spotify.com/album/3yXSlH8QsT0hvJvfJjS2iB"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 230676,
       "name": "Story of a Bird",
       "url": "https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't You Hold Me Down",
+        "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 132597,
+      "name": "Don't You Hold Me Down",
+      "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
     },
     {
       "added_at": null,

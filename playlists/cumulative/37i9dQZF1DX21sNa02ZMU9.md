@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-244 songs - 15 hr 34 min
+245 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,11 +200,12 @@
 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 | 2022-05-09 | 2024-04-19 |
 | [Suddenly I See](https://open.spotify.com/track/0UACObCoT1QlNDYroo7EJC) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/1JeXaWReXIrN1lADO8uoYx) | 3:21 | 2021-06-15 | 2022-07-29 |
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2022-05-09 | 2024-04-19 |
-| [Suga Suga](https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Tha Smokin' Nephew](https://open.spotify.com/album/42LlDinsxjsByAqqpZXRp4) | 3:59 | 2022-05-09 |  |
+| [Suga Suga](https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Tha Smokin' Nephew](https://open.spotify.com/album/42LlDinsxjsByAqqpZXRp4) | 3:59 | 2022-05-09 | 2025-05-18 |
 | [Summer Rain](https://open.spotify.com/track/08jn5cU454h8B5QcdtpU1O) | [Slinkee Minx](https://open.spotify.com/artist/6QLt0DLtZG2ksJhs7XS8a1) | [Electric Dreams](https://open.spotify.com/album/17xESFoodMJHVKsq5Hi7tk) | 4:14 | 2021-06-15 | 2022-07-29 |
 | [Sunday Morning](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:04 | 2021-06-15 | 2022-07-29 |
 | [Sunsets](https://open.spotify.com/track/5txqlF1lxNhkWy1xYOwr8r) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Vulture Street](https://open.spotify.com/album/7luRbYWUzEZONdwCZbdbEH) | 3:49 | 2021-06-15 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/6gjjyhY00azOGzdeZqyuW9) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ricki Lee](https://open.spotify.com/album/1pVExW9R9Er5QPAa6K1VZz) | 3:02 | 2021-06-15 | 2022-07-22 |
+| [Take It Off](https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:35 | 2022-05-09 |  |
 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-05-09 | 2024-04-19 |
 | [Take Your Mama](https://open.spotify.com/track/75lZOZjQaA66br3Vu1iYCw) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/0TmFfVl43IZ1aWUWm0AvWM) | 4:31 | 2021-06-15 | 2022-07-29 |
 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 | 2022-05-09 | 2024-04-19 |

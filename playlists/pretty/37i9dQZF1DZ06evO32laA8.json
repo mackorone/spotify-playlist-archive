@@ -1,29 +1,13 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 49278,
+  "num_followers": 49295,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAgQCruoXWCGyZnp9q3Qo8J",
+  "snapshot_id": "aCaAAAAAAAAvgXNnGXV6bXT9E6UvPaTG",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 149675,
-      "name": "Hope It Hurts",
-      "url": "https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY"
-    },
     {
       "added_at": null,
       "album": {
@@ -151,6 +135,22 @@
       "duration_ms": 144588,
       "name": "Muse",
       "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 149675,
+      "name": "Hope It Hurts",
+      "url": "https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 140374,
       "name": "Burning",
       "url": "https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 155196,
-      "name": "Good For You",
-      "url": "https://open.spotify.com/track/0isd3qAsRc0f4sOlsNn4cB"
     }
   ],
   "unique_name": "This Is Isabel LaRosa",

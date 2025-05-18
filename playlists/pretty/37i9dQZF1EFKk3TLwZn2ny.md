@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 59 | [Tempo](https://open.spotify.com/track/68Dp3Ha2XlXoX3jM3mc00M) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Tempo](https://open.spotify.com/album/3cHeKy1rYx7jySSS09uQ22) | 1:56 |
 | 60 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `AbxmVAAAAAA01VOuD6WCTXFPjtnGvJHu`
+Snapshot ID: `Abxr6gAAAAAfTUAt/Jmohe9yCkKVqRyI`

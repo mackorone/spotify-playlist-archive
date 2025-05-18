@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 157164,
+  "num_followers": 157235,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "A Bit Of Soul",
-        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Hangin' Tough",
         "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 263533,
       "name": "Please Don't Go Girl",
       "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "A Bit Of Soul",
+        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "The Songstress",
-        "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Harvest for the World",
         "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 323306,
       "name": "(At Your Best) You Are Love",
       "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "The Songstress",
+        "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Giving You the Best That I Got",
-        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Cl\u00e1udio Zoli",
         "url": "https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 265800,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/1opSxQP8KkdKOGvbvlmuIV"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Naughty",
-        "url": "https://open.spotify.com/album/0LPZFn25Bxg4zIT47SYVNC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Lew Hahn",
-          "url": "https://open.spotify.com/artist/3Rcc1RUbd3iOAmcQ9ZpFpr"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Move Me No Mountain",
-      "url": "https://open.spotify.com/track/7igkVvaYEmQ5EEbRzYsJIy"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/0LPZFn25Bxg4zIT47SYVNC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Lew Hahn",
+          "url": "https://open.spotify.com/artist/3Rcc1RUbd3iOAmcQ9ZpFpr"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Move Me No Mountain",
+      "url": "https://open.spotify.com/track/7igkVvaYEmQ5EEbRzYsJIy"
     },
     {
       "added_at": "2025-01-03 20:45:47",

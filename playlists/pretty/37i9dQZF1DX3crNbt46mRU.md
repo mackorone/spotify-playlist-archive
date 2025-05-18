@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Damiano David, Nemo and Lola Young.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,584 likes - 115 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,583 likes - 115 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 19 | [MAMAS HAUS](https://open.spotify.com/track/6aOwyg63SvKnnOho5FVjv5) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [MAMAS HAUS](https://open.spotify.com/album/36zUQg4IZhcCNPJXWBSWd0) | 2:26 |
 | 20 | [Apaga la luz](https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Apaga la luz](https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf) | 3:23 |
 | 21 | [Copacabana](https://open.spotify.com/track/6nQuHVekx0KLW0yIc6C9pH) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Mad Mark](https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Copacabana](https://open.spotify.com/album/66hQOnlk0hfdnu8oBqU1y8) | 3:11 |
-| 22 | [Why Are You Hiding](https://open.spotify.com/track/29g4GpX0lTH4YmHERvxU9M) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Mark Kelly](https://open.spotify.com/artist/3Q8aTAeuheikqTFwTqvrxn) | [Why Are You Hiding](https://open.spotify.com/album/3e4WWME44IHZmoAoCjpImp) | 2:41 |
+| 22 | [Why Are You Hiding](https://open.spotify.com/track/29g4GpX0lTH4YmHERvxU9M) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Mark Kelly](https://open.spotify.com/artist/3Q8aTAeuheikqTFwTqvrxn) | [May](https://open.spotify.com/album/3e4WWME44IHZmoAoCjpImp) | 2:41 |
 | 23 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
 | 24 | [Überfall](https://open.spotify.com/track/7JsnoYblq5NEalHG1Le6T9) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Überfall](https://open.spotify.com/album/2AY9kbFNCXWj76WrEyMEU8) | 2:24 |
 | 25 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 64 | [Différent](https://open.spotify.com/track/2Q97fCjk9dEgV45xENcKIe) | [Lily Claire](https://open.spotify.com/artist/1x7tHpp3O11dDPMcpGlI08) | [Différent](https://open.spotify.com/album/1ieaQu9QjlHwrVrJoBfMhI) | 3:26 |
 | 65 | [SPIEGEL.DE](https://open.spotify.com/track/0d5x8pEn4wOW6dMhpPRQnP) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [SPIEGEL.DE](https://open.spotify.com/album/4p5Ie5mG8dxigVFvjvpduH) | 1:33 |
 | 66 | [Changed](https://open.spotify.com/track/6oStheuGocW3cTRrjSLTIS) | [J.JKR](https://open.spotify.com/artist/1MCoeTCpYs0QJsZCCspymg), [Jordan Parat](https://open.spotify.com/artist/4QHGxRolrlEEfAOdvhx0ko) | [Changed](https://open.spotify.com/album/2OumVbt7rIlJNTrFvzTnLC) | 3:36 |
-| 67 | [Zahnpastalippen](https://open.spotify.com/track/1U1sCjxcISO6qb8anFsobw) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 3](https://open.spotify.com/album/2DpmvnAw4saagfvbzzmluI) | 4:04 |
+| 67 | [Zahnpastalippen](https://open.spotify.com/track/1U1sCjxcISO6qb8anFsobw) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 3 \(CONNY's VERSION\)](https://open.spotify.com/album/2DpmvnAw4saagfvbzzmluI) | 4:04 |
 | 68 | [Le thème](https://open.spotify.com/track/2qjkzDUxNQS6iMe6H8ZWgO) | [Al\-Walid](https://open.spotify.com/artist/28hC3HVLmeSdFSDuvn6tkv) | [Le thème](https://open.spotify.com/album/31AnxL6ujhV9viXBJj3WNP) | 2:23 |
 | 69 | [Mund voll Gold](https://open.spotify.com/track/02xAk8tVXxFFXCREiEzR5t) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Mund voll Gold](https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI) | 3:02 |
 | 70 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 |

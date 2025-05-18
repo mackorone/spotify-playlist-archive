@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26905,
+  "num_followers": 26913,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAACG9Mf4ufxaBzVWlAIWI6Y+",
+  "snapshot_id": "aCaAAAAAAADaquYxuacaNr0GFtQjhqsf",
   "tracks": [
     {
       "added_at": null,
@@ -111,38 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "The Lord's Prayer (It's Yours)",
-      "url": "https://open.spotify.com/track/6oAfRUceWYKgrYORnyGsDg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive & Breathing",
-        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 281187,
-      "name": "Run To The Father",
-      "url": "https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Great Thou Art (Until That Day) [Live]",
         "url": "https://open.spotify.com/album/4xCf9WmCtwMBcds8fj6I6W"
       },
@@ -215,6 +183,38 @@
       "duration_ms": 269678,
       "name": "How Great Thou Art (Until That Day) - Live",
       "url": "https://open.spotify.com/track/4wZZ3hXmK5lgpT4Q1MsYSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 281187,
+      "name": "Run To The Father",
+      "url": "https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/6oAfRUceWYKgrYORnyGsDg"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "Alive Again",
-      "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Counting My Blessings",
         "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
       },
@@ -419,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 246627,
-      "name": "No Body (feat. Matt Maher)",
-      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
+      "duration_ms": 239440,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
     },
     {
       "added_at": null,
@@ -459,6 +439,26 @@
       "duration_ms": 228145,
       "name": "Take it Easy",
       "url": "https://open.spotify.com/track/2TfhMkVOjxZ4S0Al2FqRs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 246627,
+      "name": "No Body (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -779,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 198066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus, Firm Foundation: Hymns of Worship",
-        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Holy, Holy, Holy (God With Us)",
-      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 238720,
       "name": "It's You - Tide Electric Remix",
       "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus, Firm Foundation: Hymns of Worship",
+        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Holy, Holy, Holy (God With Us)",
+      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
     },
     {
       "added_at": null,

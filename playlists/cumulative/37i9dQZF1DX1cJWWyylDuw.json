@@ -1809,6 +1809,28 @@
     },
     {
       "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
+      },
+      "artists": [
+        {
+          "name": "LARC\u0246NIA RO\u0246",
+          "url": "https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4"
+        },
+        {
+          "name": "Alex Koehler",
+          "url": "https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264463,
+      "name": "Calcium Closet",
+      "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+    },
+    {
+      "album": {
         "name": "Carcinogenesis",
         "url": "https://open.spotify.com/album/4KVAMyq8wkY6AnnFpcRuKc"
       },
@@ -7944,7 +7966,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 225440,
       "name": "On Wings of Carnage",
       "url": "https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr"
@@ -9876,7 +9898,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 184285,
       "name": "Stay Out of My Swamp",
       "url": "https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH"
@@ -11152,6 +11174,24 @@
       "duration_ms": 281555,
       "name": "Toxicant",
       "url": "https://open.spotify.com/track/39OtaFg1VC0Ae5s9QByKH1"
+    },
+    {
+      "album": {
+        "name": "ANGST",
+        "url": "https://open.spotify.com/album/4VtvpHr3oMlHYiNHVIc0x9"
+      },
+      "artists": [
+        {
+          "name": "Gutrectomy",
+          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78807,
+      "name": "Trapped in Angst",
+      "url": "https://open.spotify.com/track/4kyVaQWQd9880V919n6mQW"
     },
     {
       "album": {

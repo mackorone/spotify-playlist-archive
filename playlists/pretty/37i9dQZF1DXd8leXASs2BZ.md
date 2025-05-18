@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> POP YOURS開催まであと7日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: STACK THE PINK
+> POP YOURS開催まであと6日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: DAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,537 likes - 101 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,542 likes - 101 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nottin' Broken \(feat\. ACE COOL\)](https://open.spotify.com/track/54SiCLqBqOmLJtsqrYWiqE) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Nottin' Broken \(feat\. ACE COOL\)](https://open.spotify.com/album/6W9aHn3wF4QsJab3Q1PSFK) | 2:10 |
+| 1 | [2000](https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [2000](https://open.spotify.com/album/4atx65eawftO33EBEZJRJf) | 2:50 |
 | 2 | [My Basket](https://open.spotify.com/track/1Ke5YFxyRPVtOdRX6fIa99) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [My Basket](https://open.spotify.com/album/7rNNEUMEZ849EsnVUb1ewj) | 2:58 |
 | 3 | [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/5EGjNgoJxZakg7oLhrnKGE) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Cheese \(feat\. Manaka\)](https://open.spotify.com/album/1kmXaI6erGYphtNxdGkmGI) | 2:45 |
 | 4 | [night time friends](https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [night time friends](https://open.spotify.com/album/1EwLfKRYRLYkLlJhBT0WHP) | 2:22 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 100 | [Lucy & David](https://open.spotify.com/track/3OjHOM6xDHStqwZ8hI8ggL) | [Rama Pantera](https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0) | [Lucy & David](https://open.spotify.com/album/12rCDHbO6uj4I46EI0rTk2) | 3:04 |
 | 101 | [Rapstar Cypher 2024 \(feat\. Tepa Roucci, Luka Hatakeyama, TOKYOSEKAI & Leon Fanourakis\)](https://open.spotify.com/track/65dMNm6DZhoULy9XRd1n2v) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz), [Luka Hatakeyama](https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy), [TOKYOSEKAI](https://open.spotify.com/artist/1Vb74BrtwZbYgoTwPVRW6C), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [Rapstar Cypher 2024](https://open.spotify.com/album/1FDbVng7s4FFQ42Oe1hW4q) | 3:10 |
 
-Snapshot ID: `aCdTDAAAAADhUr6Vk7F6wdDx23Y+y6EQ`
+Snapshot ID: `aCikjgAAAAA2FF1Fdd/hCd44tA72D++i`

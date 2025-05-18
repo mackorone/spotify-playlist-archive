@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,320 songs - 3 day 16 hr 25 min
+2,321 songs - 3 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,7 +645,7 @@
 | [Eye Of The Storm](https://open.spotify.com/track/4DTfDKKSDkUeTWrTdmbSWe) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Eye Of The Storm](https://open.spotify.com/album/70BCNQtP6mmhmiXRrp6uKR) | 2:02 | 2022-05-27 | 2022-11-12 |
 | [Eyes Closed](https://open.spotify.com/track/46vOrwK5aYq71BwwIAv1iO) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [Eyes Closed](https://open.spotify.com/album/75NgOVy1YHg0cff4XhUsYQ) | 2:12 | 2024-11-15 | 2025-01-18 |
 | [eyes closed, you're there](https://open.spotify.com/track/79f0bb3Ptsk7zMgrJaYzVG) | [SPUDB](https://open.spotify.com/artist/21zky5Q21cXOpPlec8XnM6) | [eyes closed, you're there](https://open.spotify.com/album/0gYoOACjMC3djvoKbgXTvo) | 2:14 | 2025-03-21 | 2025-04-15 |
-| [Eye´s on the Price](https://open.spotify.com/track/4BEk85p0hvQtzGzJbHxBHP) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Return of the Jack](https://open.spotify.com/album/3nTO2fsEvZmvfjIcoK7bDB) | 2:25 | 2023-03-08 |  |
+| [Eye´s on the Price](https://open.spotify.com/track/4BEk85p0hvQtzGzJbHxBHP) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Return of the Jack](https://open.spotify.com/album/3nTO2fsEvZmvfjIcoK7bDB) | 2:25 | 2023-03-08 | 2025-05-18 |
 | [fade](https://open.spotify.com/track/1TAyi2YdPbbNYSULs0EXbP) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [fade](https://open.spotify.com/album/4jIA0uhC3mxgNyHCUk534m) | 2:27 | 2025-03-14 |  |
 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-07 |  |
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2022-04-15 | 2022-09-02 |
@@ -2083,6 +2083,7 @@
 | [Ticket to Wonderland](https://open.spotify.com/track/5H3vSTtXZnGPH5VsncrzVz) | [Purple Mermaids](https://open.spotify.com/artist/7pQw9ynXXDSkJpXHtimv9n) | [Ticket to Wonderland](https://open.spotify.com/album/1LLoRgliEXdo13eNQwzRGb) | 2:37 | 2022-04-15 | 2023-03-02 |
 | [tide pool](https://open.spotify.com/track/5UAlWLzLXDFTsAz746cFbZ) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4), [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS) | [tide pool](https://open.spotify.com/album/0EqzKO4sDPXrxMEs58mf1S) | 2:54 | 2022-07-29 | 2022-10-08 |
 | [tides](https://open.spotify.com/track/274rq8dcrhqV6vGWgZtFpp) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [tides](https://open.spotify.com/album/1c6CYLNej8T2aMN0V6qvaC) | 2:15 | 2022-10-14 | 2023-01-13 |
+| [tides](https://open.spotify.com/track/7uoea17YSdYb1eYbO86fB1) | [softflow](https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP) | [tides](https://open.spotify.com/album/0HN8VoiZELArUmxQhXyERx) | 2:48 | 2025-05-16 |  |
 | [Tides](https://open.spotify.com/track/04afJKFNdIoRML4qG7U6t3) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Tides](https://open.spotify.com/album/5iNsrFsBl4c25eib0VPH4e) | 2:27 | 2022-07-22 | 2022-12-03 |
 | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 | 2023-09-22 |  |
 | [till the morning](https://open.spotify.com/track/1U20PKesBLfYS0mwnZI89Z) | [fluffy](https://open.spotify.com/artist/4OqfSWELqg0RW8Ab9blfaA) | [till the morning](https://open.spotify.com/album/0tYSTPNkyYaegXf9HBRKtk) | 2:48 | 2023-03-08 |  |

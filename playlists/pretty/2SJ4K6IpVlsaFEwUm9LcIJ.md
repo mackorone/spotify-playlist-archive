@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,015 likes - 17 songs - 1 hr 2 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,020 likes - 18 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [901](https://open.spotify.com/track/3oSjnnvc8y5DpNQfC81Zsk) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [901](https://open.spotify.com/album/64zc56nx8LGS7s6jMu3bqT) | 2:49 |
 | 16 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 17 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 |
+| 18 | [When You Love Someone](https://open.spotify.com/track/37LXvMkc6YhGGEoTQn6CHi) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 7:11 |
 
-Snapshot ID: `AAAMbYGjsUZeRq6XKciFSddDZaL9nRo3`
+Snapshot ID: `AAAMbrvlZQBnmDy8vUSg1s9QH42mBDKE`

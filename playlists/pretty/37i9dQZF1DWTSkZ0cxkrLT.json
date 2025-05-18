@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 427267,
+  "num_followers": 427275,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
-        "name": "A Roar Of Southern Clouds",
-        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "A Primera Vista",
-      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
-    },
-    {
-      "added_at": "2025-05-09 03:00:27",
-      "album": {
         "name": "Tinta y Tiempo",
         "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 249144,
       "name": "Tinta y Tiempo",
       "url": "https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH"
+    },
+    {
+      "added_at": "2025-05-09 03:00:27",
+      "album": {
+        "name": "A Roar Of Southern Clouds",
+        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "A Primera Vista",
+      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
     },
     {
       "added_at": "2025-05-09 03:00:27",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
+        "name": "La Sagrada",
+        "url": "https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc"
+      },
+      "artists": [
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Cielo - br\u00fajula del destino",
+      "url": "https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY"
+    },
+    {
+      "added_at": "2025-05-09 03:00:27",
+      "album": {
         "name": "Me Entrego",
         "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 207000,
       "name": "Me Entrego",
       "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
-    },
-    {
-      "added_at": "2025-05-09 03:00:27",
-      "album": {
-        "name": "La Sagrada",
-        "url": "https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc"
-      },
-      "artists": [
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Cielo - br\u00fajula del destino",
-      "url": "https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY"
     },
     {
       "added_at": "2025-05-09 03:00:27",

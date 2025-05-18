@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Shaboozey and Myles Smith
 
-331 songs - 17 hr 11 min
+332 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-04-05 |  |
 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-12-17 | 2024-11-22 |
 | [Cowboy](https://open.spotify.com/track/76dft06UMtOBvXRcnQp5AP) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Cowboy](https://open.spotify.com/album/43nbnIDcdVU0ky255QCq9K) | 3:08 | 2022-03-25 | 2022-04-20 |
-| [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw) | 3:01 | 2023-03-03 |  |
+| [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw) | 3:01 | 2023-03-03 | 2025-05-18 |
 | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/album/1Z5vIsFPproLKSFGPx77ly) | 3:25 | 2021-12-17 | 2022-07-27 |
 | [Dancin' In The Moonlight](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-17 | 2024-07-27 |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-19 |  |
@@ -311,6 +311,7 @@
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2023-04-21 |  |
 | [Wedding or a Funeral](https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Wedding or a Funeral](https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1) | 2:22 | 2024-08-02 |  |
 | [What A Song Can Do](https://open.spotify.com/track/2hRDjNbuoqxqHcXj29JJfZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:41 | 2021-12-17 | 2022-07-29 |
+| [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-16 |  |
 | [What If I Don't](https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [What If I Don't](https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC) | 3:21 | 2022-11-01 |  |
 | [What If We Did \(feat\. Carly Pearce\)](https://open.spotify.com/track/3CTYETGqt6N4IW5p99Ctlp) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 3:11 | 2021-12-17 | 2022-07-27 |
 | [What My World Spins Around](https://open.spotify.com/track/6vjZxvzdAeHp7jv3R398Xm) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:06 | 2023-05-03 |  |

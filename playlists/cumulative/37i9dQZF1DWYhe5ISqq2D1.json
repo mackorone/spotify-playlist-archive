@@ -2725,6 +2725,36 @@
     },
     {
       "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)",
+      "url": "https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1"
+    },
+    {
+      "album": {
         "name": "\u6697\u91ce",
         "url": "https://open.spotify.com/album/787KBEtjeZGV6lEcrgLnJp"
       },
@@ -7654,7 +7684,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-18",
       "duration_ms": 169773,
       "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
       "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"

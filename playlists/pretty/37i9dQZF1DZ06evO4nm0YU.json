@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 173225,
+  "num_followers": 173277,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAAAzC7JHDYCOW5kyJZVGtlgp",
+  "snapshot_id": "aCaAAAAAAADsn1s5gJZwc6G1suj9/tiw",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 262680,
-      "name": "El Todopoderoso",
-      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
+      "duration_ms": 326880,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4"
     },
     {
       "added_at": null,
@@ -352,25 +352,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 326880,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Man And His Music: La Voz",
-        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 402360,
-      "name": "El Rey de la Puntualidad",
-      "url": "https://open.spotify.com/track/77jCAPrC64AI33hvVYQyn9"
+      "duration_ms": 262680,
+      "name": "El Todopoderoso",
+      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
     },
     {
       "added_at": null,
@@ -387,6 +371,22 @@
       "duration_ms": 364960,
       "name": "Escarcha",
       "url": "https://open.spotify.com/track/7JcCOSGvzdSJwBe3R1hwKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Man And His Music: La Voz",
+        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 402360,
+      "name": "El Rey de la Puntualidad",
+      "url": "https://open.spotify.com/track/77jCAPrC64AI33hvVYQyn9"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Fuga",
-        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 336120,
-      "name": "Barrunto",
-      "url": "https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 337680,
       "name": "No Me Llores M\u00e1s",
       "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gran Fuga",
+        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 336120,
+      "name": "Barrunto",
+      "url": "https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCUugAAAAADfDVUeyVZBaD6d1QktCty3",
+  "snapshot_id": "aCaAAAAAAABNcz63qxWiHuTSnn6qadoE",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enchant\u00e9 (Deluxe)",
         "url": "https://open.spotify.com/album/004mHpvzRDHFewA52MlMfe"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 240266,
       "name": "Out Cold - Deluxe Version",
       "url": "https://open.spotify.com/track/4epzEda2tmq8xmEnAAeKUL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
     },
     {
       "added_at": null,
@@ -587,26 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESISTOL +",
-        "url": "https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz"
+        "name": "Atl\u00e1ntica",
+        "url": "https://open.spotify.com/album/0PuoGSBHsnkCWKtZQSQXLi"
       },
       "artists": [
         {
-          "name": "chicano wei",
-          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Chiquete",
-          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
         }
       ],
-      "duration_ms": 190285,
-      "name": "RESISTOL +",
-      "url": "https://open.spotify.com/track/4V0dz6IJM3l4iBgZfR15av"
+      "duration_ms": 215853,
+      "name": "Sonidos y Leyendas (feat. Vanessa Zamora)",
+      "url": "https://open.spotify.com/track/5swZ6J3habONISd330y55t"
     },
     {
       "added_at": null,
@@ -671,22 +667,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atl\u00e1ntica",
-        "url": "https://open.spotify.com/album/0PuoGSBHsnkCWKtZQSQXLi"
+        "name": "RESISTOL +",
+        "url": "https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz"
       },
       "artists": [
         {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Chiquete",
+          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Sonidos y Leyendas (feat. Vanessa Zamora)",
-      "url": "https://open.spotify.com/track/5swZ6J3habONISd330y55t"
+      "duration_ms": 190285,
+      "name": "RESISTOL +",
+      "url": "https://open.spotify.com/track/4V0dz6IJM3l4iBgZfR15av"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Este Final",
+      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/7HOiXAYWzXNh37P8DROZaJ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 130021,
       "name": "Te Choca Te Checa",
       "url": "https://open.spotify.com/track/1Twvcodfxn69xkCHNghbQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Este Final",
-      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venus (Remix)",
         "url": "https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 232753,
       "name": "Venus (Remix)",
       "url": "https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
     },
     {
       "added_at": null,

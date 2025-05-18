@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,201 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,231 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 21 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 22 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 |
 | 23 | [on our own](https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [on our own](https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf) | 2:58 |
-| 24 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
-| 25 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
-| 26 | [tell me](https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [tell me \(K edit\)](https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr) | 2:43 |
+| 24 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
+| 25 | [tell me](https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [tell me \(K edit\)](https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr) | 2:43 |
+| 26 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
 | 27 | [Trouble Symphony](https://open.spotify.com/track/7zwoCiF0hXnHEouX4Icm7f) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:56 |
 | 28 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
 | 29 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 31 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 |
 | 32 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 |
 | 33 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
-| 34 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
-| 35 | [Ice Cream Dream Boy](https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Ice Cream Dream Boy](https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ) | 3:36 |
+| 34 | [Ice Cream Dream Boy](https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Ice Cream Dream Boy](https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ) | 3:36 |
+| 35 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
 | 36 | [Ticking Time Bomb](https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Power of Panic](https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u) | 2:47 |
 | 37 | [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 |
 | 38 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 |

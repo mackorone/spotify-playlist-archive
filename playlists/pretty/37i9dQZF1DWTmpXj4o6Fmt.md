@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 
 > go back in time and \(re\) discover these gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,513 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,536 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 | 32 | [Noche No Te Vayas](https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ) | 2:58 |
 | 33 | [Para Qué Sufrir](https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:46 |
 | 34 | [No es lo mismo](https://open.spotify.com/track/6yV2W1h4PZla1PE5s1zjVM) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:59 |
-| 35 | [Guapa](https://open.spotify.com/track/1pWrC1eBExAjlLYzy8GWvy) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Distinto](https://open.spotify.com/album/3QWLsjiPkGOFLZ7GEBsNhi) | 3:23 |
-| 36 | [Te Doy Mi Amor](https://open.spotify.com/track/5cgwBlY1oNdnuNsy4PaXAz) | [Bacanos](https://open.spotify.com/artist/3z3dviTNMzuW5GNEfcZQdP) | [Baila Pa Mi](https://open.spotify.com/album/3V12VqHb3oVpbwFGd3tKGn) | 3:48 |
+| 35 | [Te Doy Mi Amor](https://open.spotify.com/track/5cgwBlY1oNdnuNsy4PaXAz) | [Bacanos](https://open.spotify.com/artist/3z3dviTNMzuW5GNEfcZQdP) | [Baila Pa Mi](https://open.spotify.com/album/3V12VqHb3oVpbwFGd3tKGn) | 3:48 |
+| 36 | [Guapa](https://open.spotify.com/track/1pWrC1eBExAjlLYzy8GWvy) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Distinto](https://open.spotify.com/album/3QWLsjiPkGOFLZ7GEBsNhi) | 3:23 |
 | 37 | [Te Quiero Tanto](https://open.spotify.com/track/3okNQ9w68odjhNWXk6SY1n) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 3:29 |
 | 38 | [Aire](https://open.spotify.com/track/4ubA5KivYERC8UXR6n0gFT) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ya Viene el Sol \(Bonus Tracks Edition\)](https://open.spotify.com/album/1m3nnPAQcMKR86QDfWsguj) | 4:32 |
 | 39 | [Pienso en Ti](https://open.spotify.com/track/73XnXExVUlmvjctSEdZjpa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:17 |
 | 40 | [Perdido Sin Ti](https://open.spotify.com/track/5GAeZzDPkWutKmW26cnwfP) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:10 |
 | 41 | [Como Has Logrado](https://open.spotify.com/track/3Sj5hFcruCnVzOUQCO0SG5) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 3:45 |
-| 42 | [El bosque de palo](https://open.spotify.com/track/7nUgWhIFgwCJDX1ELjxZP5) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 3:29 |
-| 43 | [Luna](https://open.spotify.com/track/7sCu8xWNkxfzjoZU6aQSf1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:33 |
-| 44 | [Se Que Ya No Volverás](https://open.spotify.com/track/3FHQWc6FgVTNJAmdqo268D) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Luna Nueva](https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA) | 4:18 |
+| 42 | [Se Que Ya No Volverás](https://open.spotify.com/track/3FHQWc6FgVTNJAmdqo268D) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Luna Nueva](https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA) | 4:18 |
+| 43 | [El bosque de palo](https://open.spotify.com/track/7nUgWhIFgwCJDX1ELjxZP5) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 3:29 |
+| 44 | [Luna](https://open.spotify.com/track/7sCu8xWNkxfzjoZU6aQSf1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:33 |
 | 45 | [Si se que te tengo a ti](https://open.spotify.com/track/3sCArErjYD4mjbycnNO49O) | [Nek](https://open.spotify.com/artist/2Hd7Yrh32At3YRqhoW2RXe) | [Entre tu y yo](https://open.spotify.com/album/6RPHUA73IxKl4WZx8kJp2p) | 3:48 |
 | 46 | [Perfidia](https://open.spotify.com/track/0eA05aCSWWJIBd0ygePgTK) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Los Indios Tabajaras y los Panchos, Vol\. 1](https://open.spotify.com/album/084OeFEJkQUFmMGgJtpRGM) | 2:52 |
 | 47 | [Madrid Amanecio](https://open.spotify.com/track/7qximKkYyLP5lBAFBOQfgX) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:47 |

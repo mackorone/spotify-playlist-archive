@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Abor & Tynna, Lola Young und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,018 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,045 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 43 | [Space Base](https://open.spotify.com/track/5ZS2uH0kb2RhianAFwRydQ) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Space Base](https://open.spotify.com/album/0Ea1FYOikc2UY9XW9heM4q) | 5:27 |
 | 44 | [SPIEGEL.DE](https://open.spotify.com/track/0d5x8pEn4wOW6dMhpPRQnP) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [SPIEGEL.DE](https://open.spotify.com/album/4p5Ie5mG8dxigVFvjvpduH) | 1:33 |
 | 45 | [Young](https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Young](https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY) | 2:50 |
-| 46 | [Zahnpastalippen](https://open.spotify.com/track/1U1sCjxcISO6qb8anFsobw) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 3](https://open.spotify.com/album/2DpmvnAw4saagfvbzzmluI) | 4:04 |
+| 46 | [Zahnpastalippen](https://open.spotify.com/track/1U1sCjxcISO6qb8anFsobw) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 3 \(CONNY's VERSION\)](https://open.spotify.com/album/2DpmvnAw4saagfvbzzmluI) | 4:04 |
 | 47 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
 | 48 | [Mund voll Gold](https://open.spotify.com/track/02xAk8tVXxFFXCREiEzR5t) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Mund voll Gold](https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI) | 3:02 |
 | 49 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 |

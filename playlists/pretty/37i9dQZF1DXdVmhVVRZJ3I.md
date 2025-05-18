@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,160 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,213 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 25 | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK) | 2:58 |
 | 26 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 |
 | 27 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
-| 28 | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |
-| 29 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
+| 28 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
+| 29 | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |
 | 30 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 |
 | 31 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 |
 | 32 | [Doin Nottin](https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U), [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Doin Nottin](https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ) | 2:26 |

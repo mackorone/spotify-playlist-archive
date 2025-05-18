@@ -4,7 +4,7 @@
 
 > This is Lacuna Coil\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 33 min
+55 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Layers of Time](https://open.spotify.com/track/2uFS9ieoGREkFCrasbGsCx) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:07 | 2025-03-08 |  |
 | [Losing My Religion](https://open.spotify.com/track/7tIXyFkZc4p3GTx5YQMbJl) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Dark Adrenaline](https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6) | 3:42 | 2025-03-08 |  |
 | [My Demons](https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 3:56 | 2025-03-08 |  |
+| [Never Dawn](https://open.spotify.com/track/1GVFgRmh2yOam7YsezAQBj) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:49 | 2025-05-18 |  |
 | [Nothing Stands in Our Way](https://open.spotify.com/track/20gUq53TwfLsyq7AIUL2tt) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Broken Crown Halo](https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG) | 4:07 | 2025-03-08 |  |
 | [Now Or Never](https://open.spotify.com/track/3akgtEWS7xfTNhQFtWUqc1) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:41 | 2025-03-15 | 2025-05-11 |
 | [Our Truth](https://open.spotify.com/track/6vS5siwSidItcWFXskcpAA) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:03 | 2025-03-08 |  |
@@ -41,7 +42,7 @@
 | [Reckless](https://open.spotify.com/track/5LudgNwTAhX2sjfzdpLyAD) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 3:05 | 2025-03-08 |  |
 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2025-03-08 | 2025-05-11 |
 | [Save Me](https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:36 | 2025-05-11 |  |
-| [Scarecrow](https://open.spotify.com/track/7n2Owf2gUqmA56z0EtSj1E) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:48 | 2025-03-08 |  |
+| [Scarecrow](https://open.spotify.com/track/7n2Owf2gUqmA56z0EtSj1E) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:48 | 2025-03-08 | 2025-05-18 |
 | [Self Deception](https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 3:31 | 2025-03-08 |  |
 | [Sleepless Empire](https://open.spotify.com/track/2FkmtjSm3iaAxMrlImcf4D) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:02 | 2025-03-08 | 2025-03-16 |
 | [Spellbound](https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Shallow Life](https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0) | 3:21 | 2025-03-08 |  |
