@@ -1,4 +1,4 @@
-## Playlists \(18\)
+## Playlists \(19\)
 
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
 - [Add The Shift](/playlists/pretty/12I7xAJ32oRm728QR5ENCy.md)
@@ -10,6 +10,7 @@
 - [Discover Weekly](/playlists/pretty/1INnGcVkKS9e1bBKDfc9nu.md)
 - [GRRIF radio sonar](/playlists/pretty/2YYPbPSu66tSNvJkawFiAx.md)
 - [Japanese Songs](/playlists/pretty/3CsSi2LenkqZY1q0XuKeBL.md)
+- [K\-pop](/playlists/pretty/3Z8ry7GrSdLYU5FV5Hnk1F.md)
 - [KEXP New this week](/playlists/pretty/5svSQImgxM89zxWpYLZoI9.md)
 - [Sad Hours](/playlists/pretty/1bXE7Pyusw2lDjPiTdqwk2.md)
 - [Top ten metal moments in classical music](/playlists/pretty/2X6i2ckpFnXksw8E1OySwF.md)
