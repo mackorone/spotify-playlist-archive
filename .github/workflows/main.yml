@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout mackorone/spotify-playlist-archive-src
+      - name: Checkout laminthurein1411/spotify-playlist-archive-src
         uses: actions/checkout@v4
         with:
-          repository: mackorone/spotify-playlist-archive-src
+          repository: laminthurein1411/spotify-playlist-archive-src
           path: spotify-playlist-archive-src
           submodules: recursive
 
-      - name: Checkout mackorone/spotify-playlist-archive
+      - name: Checkout laminthurein1411/spotify-playlist-archive
         uses: actions/checkout@v4
         with:
-          repository: mackorone/spotify-playlist-archive
+          repository: laminthurein1411/spotify-playlist-archive
           path: spotify-playlist-archive
           # Also fetch the second-to-last commit so the script can determine,
           # via git commands, which files changed in the most recent commit
