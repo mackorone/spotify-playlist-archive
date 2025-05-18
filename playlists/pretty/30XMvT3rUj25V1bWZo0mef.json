@@ -1,0 +1,82 @@
+{
+  "description": "",
+  "num_followers": 0,
+  "original_name": "Musical",
+  "owner": {
+    "name": "Kyaw Swar",
+    "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
+  },
+  "snapshot_id": "AAAABYaSBeLkjobTQ0YZPy1ADriTZI9y",
+  "tracks": [
+    {
+      "added_at": "2023-03-04 08:16:23",
+      "album": {
+        "name": "Scrooge: A Christmas Carol (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0uAyYMSn6mbPX2pFBOkCPY"
+      },
+      "artists": [
+        {
+          "name": "Luke Evans",
+          "url": "https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ"
+        }
+      ],
+      "duration_ms": 206850,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2wF1qGJikDPfyKtPdRNW6W"
+    },
+    {
+      "added_at": "2023-11-06 01:00:38",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/6PaCKF5VoZp0Q1anuqXjf1"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        }
+      ],
+      "duration_ms": 306760,
+      "name": "Being Alive",
+      "url": "https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB"
+    },
+    {
+      "added_at": "2024-05-06 08:20:52",
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "added_at": "2025-04-12 14:40:26",
+      "album": {
+        "name": "The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Original Broadway Cast of The Great Gatsby - A New Musical",
+          "url": "https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "For Her",
+      "url": "https://open.spotify.com/track/5BTWh85WbDMSsQTvkw8WEI"
+    }
+  ],
+  "unique_name": "Musical",
+  "url": "https://open.spotify.com/playlist/30XMvT3rUj25V1bWZo0mef"
+}
