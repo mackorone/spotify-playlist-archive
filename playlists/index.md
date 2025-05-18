@@ -1,4 +1,5 @@
-## Playlists \(2\)
+## Playlists \(3\)
 
 - [Sad Hours](/playlists/pretty/1bXE7Pyusw2lDjPiTdqwk2.md)
 - [Western Songs](/playlists/pretty/3Tc3UlmKYcDbyewaWm7pFu.md)
+- [dAnCe 🕺](/playlists/pretty/3K9Kpz7u5Pa3XEr9FNc8q1.md)
