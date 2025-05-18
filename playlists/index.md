@@ -1,4 +1,4 @@
-## Playlists \(8497\)
+## Playlists \(8498\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7316,6 +7316,7 @@
 - [Ultimate Summer Party](/playlists/pretty/37i9dQZF1DXbIqU3eEXwop.md)
 - [Ultra Club Hits](/playlists/pretty/1IDfsEC88SH30ppwQrOJoi.md)
 - [Ultra Gaming](/playlists/pretty/37i9dQZF1DWYN9NBqvY7Tx.md)
+- [Ultra Sigma Patrick Bateman](/playlists/pretty/17FhYU8sLrszVwZ9LlRMFg.md)
 - [Umami](/playlists/pretty/37i9dQZF1DWVUxkQFrGCkK.md)
 - [Umami Presents: Best Afro House of 2024](/playlists/pretty/37i9dQZF1DXd6PMQY9BFJY.md)
 - [Una Carica di Espresso!](/playlists/pretty/37i9dQZF1DWVTAn6Oz7Zf1.md)
