@@ -1,10 +1,11 @@
-## Playlists \(11\)
+## Playlists \(12\)
 
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
 - [CBC mornings](/playlists/pretty/2uQP4oDQPGKMxoC6jxzpFf.md)
 - [Choral and Chant](/playlists/pretty/7lApzmrxdI6q4lNbhvCFnI.md)
 - [Classical](/playlists/pretty/5v2TvKCgsOTfBoWP4SEa3U.md)
 - [GRRIF radio sonar](/playlists/pretty/2YYPbPSu66tSNvJkawFiAx.md)
+- [KEXP New this week](/playlists/pretty/5svSQImgxM89zxWpYLZoI9.md)
 - [Sad Hours](/playlists/pretty/1bXE7Pyusw2lDjPiTdqwk2.md)
 - [Western Songs](/playlists/pretty/3Tc3UlmKYcDbyewaWm7pFu.md)
 - [dAnCe 🕺](/playlists/pretty/3K9Kpz7u5Pa3XEr9FNc8q1.md)
