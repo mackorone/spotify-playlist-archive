@@ -1,5 +1,6 @@
-## Playlists \(8\)
+## Playlists \(9\)
 
+- [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
 - [CBC mornings](/playlists/pretty/2uQP4oDQPGKMxoC6jxzpFf.md)
 - [Classical](/playlists/pretty/5v2TvKCgsOTfBoWP4SEa3U.md)
 - [Sad Hours](/playlists/pretty/1bXE7Pyusw2lDjPiTdqwk2.md)
