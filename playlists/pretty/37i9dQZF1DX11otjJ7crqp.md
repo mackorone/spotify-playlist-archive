@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,531 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,665 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 97 | [Heroina](https://open.spotify.com/track/4YQPwIuHm3OAQrNbLF5Qrq) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Heroina](https://open.spotify.com/album/3EF4FDNvaA9bW5fp9YdGHQ) | 2:23 |
 | 98 | [Happy Accident](https://open.spotify.com/track/6dE2YgMoNFmSTxYRSO829I) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [In The Key Of Love](https://open.spotify.com/album/60TTe0Bfyv3jy7FgnjgnTM) | 3:24 |
 
-Snapshot ID: `aCfnVwAAAADmJ1WY5k/1hCMXJZbredCs`
+Snapshot ID: `AAAAAE+Jilpr+u0nN4dRcJ8Sn3c7ucRB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,166 songs - 18 day 15 hr 30 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,167 songs - 18 day 15 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7174,5 +7174,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7164 | [Tomoshibi](https://open.spotify.com/track/6pesahYhSeEyAge39V1uXS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 2:58 |
 | 7165 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
 | 7166 | [Toast](https://open.spotify.com/track/7zZiFxWYwoSllreC0dtUxy) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Love, Again](https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18) | 2:34 |
+| 7167 | [コンプリケイション](https://open.spotify.com/track/14kDtOD6cGh7Qc0GvvlSh3) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [DRRROOKiEZ!!\-ROOKiEZ is PUNK'D respect for DRRR!!\-](https://open.spotify.com/album/4h9Cq7LyvGBGewe8jfWGLx) | 4:47 |
 
-Snapshot ID: `AAAGal7gi2Eh3hOXa7NJ7FVOziOX2b+O`
+Snapshot ID: `AAAGayztJJkxAsuuEpDGkIV3T4yWxfbs`

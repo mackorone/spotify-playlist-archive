@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> POP YOURS開催まであと6日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: DAB
+> POP YOURS開催まであと5日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: lilbesh ramko
 
-950 songs - 1 day 19 hr 55 min
+951 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [182](https://open.spotify.com/track/3ldNfg1ZlOuQa0Qxq8veHK) | [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7), [stb](https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr) | [182](https://open.spotify.com/album/0TfqmMoAE7DPWlXSTfAfnQ) | 2:23 | 2024-01-24 | 2024-03-06 |
 | [1983 \- Remix](https://open.spotify.com/track/4meJlE98KPiocYKoU4sBJh) | [NFN TEFER](https://open.spotify.com/artist/1NSFnnA4MXBixX18Bpacqg), [masaya](https://open.spotify.com/artist/0Lz0k07KkiYpfzt46Hy69t) | [1983 \(Remix\)](https://open.spotify.com/album/3fekclYq1I7ZJ7afUUeTYy) | 2:22 | 2024-11-12 |  |
 | [1X1](https://open.spotify.com/track/4L0WVXIq2JFOgMO4yBIFpe) | [FASM](https://open.spotify.com/artist/0mm2ifAJogZFO1ASP6y5gq) | [1X1](https://open.spotify.com/album/7E95N86lPUfvENxJuHYzXX) | 2:32 | 2024-09-03 | 2024-11-06 |
-| [2000](https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [2000](https://open.spotify.com/album/4atx65eawftO33EBEZJRJf) | 2:50 | 2025-05-17 |  |
+| [2000](https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [2000](https://open.spotify.com/album/4atx65eawftO33EBEZJRJf) | 2:50 | 2025-05-17 | 2025-05-19 |
 | [2017](https://open.spotify.com/track/2YfrrbUJjivaDTeWZPBT65) | [jailu](https://open.spotify.com/artist/0DylgEDqe2x4CAUzqXlMik) | [2017](https://open.spotify.com/album/4iOZLeRPgnTkSERqcdiKFa) | 2:00 | 2024-12-17 | 2025-02-12 |
 | [20221218](https://open.spotify.com/track/6fcN2s2sZzUYntuHwye4J5) | [NOIZE](https://open.spotify.com/artist/5qSNCHO1r9WTh9BJKZ9GlZ) | [20221218](https://open.spotify.com/album/1D8dTSNeuKZD6Gr8CYCbPk) | 2:07 | 2024-07-09 | 2024-10-23 |
 | [2025 Freestyle](https://open.spotify.com/track/4ZOps6xTaAjxdkFMYR5rwm) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [2025 Freestyle](https://open.spotify.com/album/1JGhfNCUVpixfswmsTTywR) | 1:42 | 2025-02-18 |  |
@@ -544,6 +544,7 @@
 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 | 2024-01-30 | 2024-03-06 |
 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 | 2024-02-01 |
 | [Next One](https://open.spotify.com/track/0uZTN9Q9GTVTuolAQ9lNXR) | [Luka Hatakeyama](https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy), [Kotaro Takaki](https://open.spotify.com/artist/3HufT5Dj9H5YGsy6reFzjg), [ZETTON](https://open.spotify.com/artist/2ANelKZy7C4j2ZYy1cEbPW) | [Next One](https://open.spotify.com/album/664zCUuW5wOOAKCdngHFdx) | 2:21 | 2024-10-23 | 2024-12-11 |
+| [nichijou:loopmania](https://open.spotify.com/track/680941jGFEU6BykwJaCi0A) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:16 | 2025-05-18 |  |
 | [NIGHT DŌTONBORI](https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ) | [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d), [Yuki Namba](https://open.spotify.com/artist/1JWIHaz1I1QsNp3e789p4J) | [Ambivert Pt\. 2](https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH) | 2:23 | 2023-12-07 | 2023-12-20 |
 | [night time friends](https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [night time friends](https://open.spotify.com/album/1EwLfKRYRLYkLlJhBT0WHP) | 2:22 | 2025-04-22 |  |
 | [Nightmare](https://open.spotify.com/track/2rXdHhhMR5KsW3pqwvl8nO) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [In the Midst](https://open.spotify.com/album/4QT2lSpsyIm7gcwvdCMTRA) | 3:21 | 2024-08-07 | 2024-08-09 |

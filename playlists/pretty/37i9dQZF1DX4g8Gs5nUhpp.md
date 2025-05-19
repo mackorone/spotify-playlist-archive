@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Shiki
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,239 likes - 53 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,259 likes - 53 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 |
 | 53 | [BIGTEAM BIGDREAM](https://open.spotify.com/track/0uNiJnKGuiX9SaUoLpXG96) | [BIGTEAM All Stars](https://open.spotify.com/artist/4WAlFGwWAUEos8SCU6kRLR), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9), [gung0cay](https://open.spotify.com/artist/1Z3xp9Er70GeoUjeB77vJc), [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7), [IndieK](https://open.spotify.com/artist/5G8ovEmWH243SKKJ0KSZj8), [Snoop Dee](https://open.spotify.com/artist/4zsLzIgDJCYqT3n4niCluC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [7dnight](https://open.spotify.com/artist/3gucoX521KgXuoUnRbn0Bn), [Nhật Hoàng](https://open.spotify.com/artist/1owVn9TB2AwdiPqkaD29wX), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI), [$A Lil Van](https://open.spotify.com/artist/4F0sznYlOaPsaqHeFKKzdY), [An Roy$8386](https://open.spotify.com/artist/1CIvasifpV5RlfPRqVe66T), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Quân Lee](https://open.spotify.com/artist/4BlKKUTXbSX97Q0BjXhpt5) | [BIGTEAM BIGDREAM](https://open.spotify.com/album/4IcjHWdUVdvnsBvdXgtoQS) | 8:50 |
 
-Snapshot ID: `aCYdmQAAAAAtnPIIAKcfC8y8WCYBS34L`
+Snapshot ID: `aCYdmQAAAAA9lkF7/Btm/XJnaFb64qP/`

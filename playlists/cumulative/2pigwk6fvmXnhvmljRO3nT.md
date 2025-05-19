@@ -4,7 +4,7 @@
 
 > 
 
-7,189 songs - 18 day 16 hr 45 min
+7,190 songs - 18 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6474,6 +6474,7 @@
 | [コネクト](https://open.spotify.com/track/6SrKLkuqWyKxSxzvtRWvX5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS \-Single Best 1st\-](https://open.spotify.com/album/6rAjiydvTHQAUpsuPSJROy) | 4:30 | 2024-12-14 |  |
 | [コラージュ](https://open.spotify.com/track/6TbrZK0FUhL1GLYFlSL4da) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [風の声を聴きながら / コラージュ](https://open.spotify.com/album/684y2dviUajNwOktZJuUnV) | 4:29 | 2025-01-15 |  |
 | [コンプリケイション](https://open.spotify.com/track/13KTQJsPEoOScrf2vyZ6tK) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [DRRROOKiEZ!!\-ROOKiEZ is PUNK'D respect for DRRR!!\-](https://open.spotify.com/album/24uYkbrd01Rl9m0s2TTLmJ) | 4:47 | 2025-01-15 |  |
+| [コンプリケイション](https://open.spotify.com/track/14kDtOD6cGh7Qc0GvvlSh3) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [DRRROOKiEZ!!\-ROOKiEZ is PUNK'D respect for DRRR!!\-](https://open.spotify.com/album/4h9Cq7LyvGBGewe8jfWGLx) | 4:47 | 2025-05-18 |  |
 | [ゴールデンタイムラバー \- 2020 Remaster](https://open.spotify.com/track/5iJuvKQAc4NvNRhcPSAPbZ) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [スキマノハナタバ 〜Smile Song Selection〜](https://open.spotify.com/album/5XNAwBlVPzyFX3KnFa3ZP8) | 5:43 | 2025-01-15 |  |
 | [サイサキ](https://open.spotify.com/track/5yMHjWC8xY3MvHl090qABC) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [事実上\(Special edition\)](https://open.spotify.com/album/56wJa8429dW2miEyvDb04e) | 3:37 | 2025-01-15 |  |
 | [サクラミツツキ](https://open.spotify.com/track/0Z51sIImtvHFIVomgeS1R7) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍～Wadachi～](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:37 | 2025-01-15 |  |

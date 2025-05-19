@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 
 > Listen to the soundtracks of the Tell Me That You Love Me\. \(사랑한다고 말해줘 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,110 likes - 91 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,113 likes - 91 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 | 90 | [Dear my love](https://open.spotify.com/track/7edVJNzk7RyLdiD9fk7zUE) | [Kang Asol](https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79), [강아솔](https://open.spotify.com/artist/4qd6aMgaD6f8W8r2yokcNS) | [The short memory you left](https://open.spotify.com/album/4IW1PXgq9HyYsiuZ1TL9vr) | 4:06 |
 | 91 | [시간속의향기](https://open.spotify.com/track/3aBkJjXgWGdvSEXNpVb11A) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지2집](https://open.spotify.com/album/3feEoOTRXGt3fm28rJrgfI) | 3:43 |
 
-Snapshot ID: `ZbrxQgAAAAAmxKzPJOoY3MOYCsvyDNar`
+Snapshot ID: `ZbrxQgAAAACVgMoTM5MnR7FLYk62kQPr`

@@ -4681,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "One Waking Dream",
+        "url": "https://open.spotify.com/album/2pKAc510fNnEIE1KBVen4T"
+      },
+      "artists": [
+        {
+          "name": "Natt Buntita",
+          "url": "https://open.spotify.com/artist/5WGEq3jNFjSRF4ACITjLwY"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207601,
+      "name": "One Waking Dream",
+      "url": "https://open.spotify.com/track/1aAiZ4TfzjmhM1iOrO3O13"
+    },
+    {
+      "album": {
         "name": "House on a Hill",
         "url": "https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ"
       },
@@ -4706,6 +4724,10 @@
         {
           "name": "Khalid",
           "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
       "date_added": "2023-02-13",
@@ -6890,7 +6912,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 206500,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5G6sPdp9sDuvlJ62o98g12"

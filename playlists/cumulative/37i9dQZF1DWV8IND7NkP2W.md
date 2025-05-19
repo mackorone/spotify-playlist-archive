@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-798 songs - 1 day 12 hr 2 min
+799 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [kczsdeg](https://open.spotify.com/track/1IovOeRY9QeBs8MDgqN9dO) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [BUD](https://open.spotify.com/album/1ICwHwkNbIFFzp7rZXvk92) | 2:05 | 2022-07-14 | 2022-11-05 |
 | [Keemel](https://open.spotify.com/track/7kc96tpLbfO5IP3Vg1aaQT) | [MASARO](https://open.spotify.com/artist/13Gxb7d1eiQFoZEDy2HcBX) | [Keemel](https://open.spotify.com/album/7mq1DoDjlRCILEfodZvnit) | 1:16 | 2022-01-06 | 2022-06-13 |
 | [keep j](https://open.spotify.com/track/2xOJGbDOvfSenRpdOVzHmS) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [keep j](https://open.spotify.com/album/7aVHJAd8FNUipkIXsmdNQV) | 3:01 | 2022-02-24 | 2022-06-29 |
-| [Keyframe](https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Keyframe](https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk) | 2:00 | 2021-12-23 |  |
+| [Keyframe](https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Keyframe](https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk) | 2:00 | 2021-12-23 | 2025-05-19 |
 | [Kiddish](https://open.spotify.com/track/3aJGP2lJwgsCduog1jmGuE) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Kiddish](https://open.spotify.com/album/5Vhwd7DKQWvXzBZh7MVe6n) | 2:08 | 2022-01-06 | 2022-07-16 |
 | [Kizanka](https://open.spotify.com/track/5IbxNiplCikWjPQIidIpbP) | [Hedge Hop](https://open.spotify.com/artist/73mgRho1n2qDPfYMgvzugF), [Kazuki Arai](https://open.spotify.com/artist/1tLZA82NJkrx6GOPKxlAIK) | [Kizanka](https://open.spotify.com/album/5a9lNbGJcjeLT6j8t3mTfh) | 2:30 | 2021-12-23 | 2022-07-29 |
 | [Kizuna](https://open.spotify.com/track/6bsS5j5OC2q5ZrxlVg9rTs) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Kizuna](https://open.spotify.com/album/1ISgbuRY57vsJWuxiNLtYu) | 3:09 | 2021-12-23 | 2022-07-19 |
@@ -765,6 +765,7 @@
 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 | 2022-10-13 | 2024-04-19 |
 | [Waterscape](https://open.spotify.com/track/5EzbxbknclMlwNVJlCVY9w) | [NEWLY](https://open.spotify.com/artist/30qeN6y7bk4ASVG6zPd3sQ) | [Waterscape](https://open.spotify.com/album/61UOaMKJDLBt0H5ngGadQQ) | 3:27 | 2024-10-26 | 2024-11-07 |
 | [Waves](https://open.spotify.com/track/6eW8UXV98NOJsh8GCHYgnh) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Waves](https://open.spotify.com/album/21YqhQilkmREX9RKUCCPSs) | 2:13 | 2023-09-07 | 2023-10-03 |
+| [Way Home Melody](https://open.spotify.com/track/1hMLvfdNQPk5rGomvFnWb5) | [Wisperwave](https://open.spotify.com/artist/5sUf18d90tmBmvMEfRbgfr), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Afternoon Weather](https://open.spotify.com/album/3KwRxvjJtAuCYrvKXMwGqL) | 2:10 | 2025-05-16 |  |
 | [We Gathered Leaves](https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [We Gathered Leaves](https://open.spotify.com/album/5YRDw5rO8vIUxjtgHqICji) | 1:33 | 2021-12-23 | 2023-12-08 |
 | [weather report](https://open.spotify.com/track/6hoLVkgEPTro70Me2pq8RV) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [weather report](https://open.spotify.com/album/6yG2ezI1VnnuqlpX4yOGHB) | 2:40 | 2022-05-26 | 2022-07-26 |
 | [What Is Peace 4 U](https://open.spotify.com/track/3GQSl6DYDVMK1trBd6xZUI) | [45](https://open.spotify.com/artist/7s2An89rlAjaY1HLgeLtHT) | [What Is Peace 4 U](https://open.spotify.com/album/1eNldbRjczJrgg80vWkyfI) | 3:16 | 2022-03-24 | 2022-07-29 |

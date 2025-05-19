@@ -13002,7 +13002,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 165754,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/2RKXaYI00vF1YpzRBWPpEd"
@@ -32605,6 +32605,28 @@
     },
     {
       "album": {
+        "name": "R We There Yet?",
+        "url": "https://open.spotify.com/album/76UEenkNIIYqpT1uYnBrW3"
+      },
+      "artists": [
+        {
+          "name": "Jared Stark",
+          "url": "https://open.spotify.com/artist/4P37of7x3bwr35G2fPWZBI"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164876,
+      "name": "NC-17 - Bonus Track",
+      "url": "https://open.spotify.com/track/1sUJAOGlr18qc7CIEvMX3m"
+    },
+    {
+      "album": {
         "name": "Neighbors",
         "url": "https://open.spotify.com/album/5mU4UlDKgQr6vfg9ONiDfK"
       },
@@ -36984,7 +37006,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 242823,
       "name": "POP A TOAST",
       "url": "https://open.spotify.com/track/6ePC79jIXZLUaS5zuTS2Bk"
@@ -49380,7 +49402,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 247094,
       "name": "Trinity - Mono Version",
       "url": "https://open.spotify.com/track/0r6d8zHVOGbPONSEyraqcX"

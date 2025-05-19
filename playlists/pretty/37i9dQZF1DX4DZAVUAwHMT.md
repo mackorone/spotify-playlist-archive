@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,096 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,038 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Ha Ha Ha](https://open.spotify.com/track/13psHLwbqlx8k9OHmBVL58) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [The Haar](https://open.spotify.com/album/6vIAztJq10ISkgZFTFHAnH) | 3:44 |
 | 80 | [Mountain](https://open.spotify.com/track/4hzzWQqdqoTO48Eh169CVk) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Cryogeyser](https://open.spotify.com/album/6Mlt3SMLODQopH5IqNAtj6) | 2:59 |
 
-Snapshot ID: `aCZx/gAAAAAB86qp6zRGlR9j4tMYtkR8`
+Snapshot ID: `aCZx/gAAAAAz2MTzGVLK2xdo9zMdCCJi`

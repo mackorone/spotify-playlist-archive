@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "album": {
         "name": "Ol' Blue Eyes Is Back",
         "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
       },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 169165,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/1ApoDRVGxx3Zd6Eo5BvrNR"

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: JEONG SEWOON\(정세운\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-952 songs - 2 day 10 hr 9 min
+953 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Don't Say No \(Feat\. Jay Park\)](https://open.spotify.com/track/2AmFJKuVIdW7fayLvZQ3aR) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Don't Say No](https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw) | 3:40 | 2022-04-22 | 2022-07-29 |
 | [Don't Tell My Papa](https://open.spotify.com/track/25xBTsB2GbF5ce1YgX9I1T) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Don't Tell My Papa](https://open.spotify.com/album/2Mxm0aqGb4dFaEf6kj8kFP) | 3:32 | 2024-08-07 | 2024-08-13 |
 | [Done](https://open.spotify.com/track/7hYGoDBt55TYYRBiyd3eJO) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [30.5](https://open.spotify.com/album/1I9I7pFaFwo0x9efpZi12e) | 4:59 | 2024-11-29 | 2025-01-31 |
+| [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-19 |  |
 | [DRACULAGIRL](https://open.spotify.com/track/7GbVHPxzSf6exEgkuOaHan) | [Wussami](https://open.spotify.com/artist/5Pvtm8orj8G3ZpQQ3My3mi) | [DRACULAGIRL](https://open.spotify.com/album/4TS8IjpBrSsmDMIoBjOyWC) | 3:39 | 2024-05-28 | 2024-06-06 |
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
 | [Dream is Beautiful](https://open.spotify.com/track/2JfxzjkeipBe5eik3ExS40) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Dream is Beautiful](https://open.spotify.com/album/6D5YjTjMOZHf9WwVbhekiZ) | 2:14 | 2025-05-07 | 2025-05-09 |
@@ -873,7 +874,7 @@
 | [What's Up](https://open.spotify.com/track/1IEpD04PV3DYiVzR84Qdr4) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:24 | 2024-07-15 | 2024-07-24 |
 | [When seasons go by](https://open.spotify.com/track/529TocrwavR2122OfhPdHL) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Where the heart belongs](https://open.spotify.com/album/628HWRPTZj5R9lOWdJtYi1) | 4:16 | 2024-12-13 | 2025-02-11 |
 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 | 2022-05-11 | 2022-05-23 |
-| [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 | 2025-03-17 |  |
+| [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 | 2025-03-17 | 2025-05-19 |
 | [When you alone](https://open.spotify.com/track/3p6aAa50gOAzb6QAOuYNb2) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [When You Alone](https://open.spotify.com/album/5a5j76wF3KPnRnhcazQSfG) | 3:00 | 2024-04-09 | 2024-05-10 |
 | [When You Appeared](https://open.spotify.com/track/01TrFgDQ1YzBSS4LWrBar9) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [When the Stars Gossip OST Part.7](https://open.spotify.com/album/3BKpeluHXvRuVbSfM3Kyzt) | 3:53 | 2025-02-18 | 2025-04-01 |
 | [WHERE AM I](https://open.spotify.com/track/0Kwlndk1WSXrHQrI7J1DJ5) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 3:37 | 2024-06-05 | 2024-11-07 |

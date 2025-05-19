@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Antti Autio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,662 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,665 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kuuma ja cool](https://open.spotify.com/track/0xjFqyWMU6XxETKmM4YJ0J) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Kuuma ja cool](https://open.spotify.com/album/5VEnhmraasGluxVLcHvWk1) | 3:03 |
-| 2 | [Pussailen tyttöjen kaa](https://open.spotify.com/track/2eq3QZaSggqDpiWhYXCnT1) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Pussailen tyttöjen kaa](https://open.spotify.com/album/6U8gffgnU4I1rbVnge2oCU) | 3:31 |
-| 3 | [Peppuni kanssa](https://open.spotify.com/track/6fzlPRKNiaUAbagxf7JSTy) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Peppuni kanssa](https://open.spotify.com/album/559fEcHB5OjEn2y4nfKeY7) | 3:55 |
+| 2 | [Peppuni kanssa](https://open.spotify.com/track/6fzlPRKNiaUAbagxf7JSTy) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Peppuni kanssa](https://open.spotify.com/album/559fEcHB5OjEn2y4nfKeY7) | 3:55 |
+| 3 | [Pussailen tyttöjen kaa](https://open.spotify.com/track/2eq3QZaSggqDpiWhYXCnT1) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Pussailen tyttöjen kaa](https://open.spotify.com/album/6U8gffgnU4I1rbVnge2oCU) | 3:31 |
 | 4 | [Kevätjuhla](https://open.spotify.com/track/4WIdjjqpJV09zBLu8mmfvR) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Kevätjuhla](https://open.spotify.com/album/2t69MAz2OvViQYBvP8NbNR) | 3:10 |
 | 5 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
-| 6 | [Salford Softie](https://open.spotify.com/track/4U7uRyDn435K6L6Apj4fQt) | [Grande Mahogany](https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q) | [Salford Softie](https://open.spotify.com/album/3xCdNu9pTS3pmTHLnomoDY) | 3:46 |
-| 7 | [Laula mulle laulu](https://open.spotify.com/track/2VvgTI2JBFPUoH6uQC5PNL) | [Yona](https://open.spotify.com/artist/5BkXsfNLBm4G7L82WEBCfv), [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Amnis Ensemble](https://open.spotify.com/artist/0MmCpxX6mvJEohk3zVFkIE), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Laula mulle laulu](https://open.spotify.com/album/1cCEgo4wv0TWQcFkDWYvZn) | 3:20 |
-| 8 | [Kuuma kesäyö](https://open.spotify.com/track/3AX1ZK8DIttERxWXQhJgeS) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Kuuma kesäyö](https://open.spotify.com/album/3QjJGWKfu3vDrxnsvYij92) | 3:28 |
-| 9 | [Skene](https://open.spotify.com/track/0t5kjMGN2lLAS3RIumMrnS) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Skene](https://open.spotify.com/album/31G7jcdvw4lNNxzGEKURUQ) | 2:33 |
+| 6 | [Skene](https://open.spotify.com/track/0t5kjMGN2lLAS3RIumMrnS) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Skene](https://open.spotify.com/album/31G7jcdvw4lNNxzGEKURUQ) | 2:33 |
+| 7 | [Salford Softie](https://open.spotify.com/track/4U7uRyDn435K6L6Apj4fQt) | [Grande Mahogany](https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q) | [Salford Softie](https://open.spotify.com/album/3xCdNu9pTS3pmTHLnomoDY) | 3:46 |
+| 8 | [Laula mulle laulu](https://open.spotify.com/track/2VvgTI2JBFPUoH6uQC5PNL) | [Yona](https://open.spotify.com/artist/5BkXsfNLBm4G7L82WEBCfv), [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Amnis Ensemble](https://open.spotify.com/artist/0MmCpxX6mvJEohk3zVFkIE), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Laula mulle laulu](https://open.spotify.com/album/1cCEgo4wv0TWQcFkDWYvZn) | 3:20 |
+| 9 | [Kuuma kesäyö](https://open.spotify.com/track/3AX1ZK8DIttERxWXQhJgeS) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Kuuma kesäyö](https://open.spotify.com/album/3QjJGWKfu3vDrxnsvYij92) | 3:28 |
 | 10 | [Karla\-Maria](https://open.spotify.com/track/1pvFs8uoGwbsBAaybrPJRW) | [Demonisisarukset](https://open.spotify.com/artist/6yZvwqhXDWBuuwKcggX8vK) | [Karla\-Maria](https://open.spotify.com/album/3A2ww5L7z4sjWpbnN4WSWK) | 3:44 |
 | 11 | [Kesäloma sucks](https://open.spotify.com/track/2D9BiYH8i6i9csGLua0u4f) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR), [Jukka Nousiainen](https://open.spotify.com/artist/4caz6Vj1VQmQkDY7ABEhUn), [Arttu Seppänen](https://open.spotify.com/artist/5TzMFF291FNW2AlfVSQZxE) | [Maakuntailmiö](https://open.spotify.com/album/0szzEK9unHmDj1E0Jo1qDA) | 3:46 |
 | 12 | [Not A Child](https://open.spotify.com/track/2XJZJgU4p7DwlwU3WFeTXg) | [Janita](https://open.spotify.com/artist/20launVwj1rz0z4lIr8UVH) | [Mad Equation](https://open.spotify.com/album/2kG8nyRK6g0tiUBiCBHzTc) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Kolmas uni auringosta](https://open.spotify.com/track/4K8kEGQIYInOlAt3LOR7b2) | [1980 AD](https://open.spotify.com/artist/44QSjd5tXrAGwQtif9W6c7) | [Lasipallo, pahvikallo](https://open.spotify.com/album/4S9VK44zAEwG04KpHVPfSQ) | 3:12 |
 | 80 | [Surkoon suuret kalliot](https://open.spotify.com/track/6F2YKSF9zkj59c1gsy7JH5) | [Maija Pokela](https://open.spotify.com/artist/0QThDEqaMXQFHELNtupMAv) | [Lohdun sanoja](https://open.spotify.com/album/7m2TFX7oABOhZddxtIk3Qw) | 4:00 |
 
-Snapshot ID: `aCZWIgAAAABHlpiqHexxm0jWpWpgRZrS`
+Snapshot ID: `aComlQAAAAAFWYi4Z5IbpCWBCnINwC6u`

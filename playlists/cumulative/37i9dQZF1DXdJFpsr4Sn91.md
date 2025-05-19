@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa KAJ.
 
-719 songs - 1 day 11 hr 52 min
+720 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-10-11 |
 | [Hei hei ja hyvästi](https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Hei hei ja hyvästi](https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb) | 2:28 | 2025-01-02 | 2025-01-17 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-05-09 |
+| [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/track/09rz8UVupw08GyfqSX92oo) | [AikaPoliisi](https://open.spotify.com/artist/2k8fCxI9Og8jLjsYmotd7J) | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/album/02AAVxfdMqurVFDJMXTmCw) | 3:45 | 2025-05-18 |  |
 | [Hideaway](https://open.spotify.com/track/0vPFKYTI6VNFhGTnyaa3SS) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Hideaway](https://open.spotify.com/album/1IxVW2BhEB9qUdwe3rzMBF) | 3:23 | 2024-07-18 | 2024-08-02 |
 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-13 | 2025-03-07 |
 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 | 2025-01-09 | 2025-04-11 |
@@ -655,7 +656,7 @@
 | [Täysikuu](https://open.spotify.com/track/6S6puJe1fAQf6jo7fSbi8Y) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Täysikuu](https://open.spotify.com/album/5PqmGy70sbEsAkNOu0r1i6) | 3:13 | 2024-11-21 | 2025-01-10 |
 | [Tää on slut](https://open.spotify.com/track/437yd9PAiY5FZigIMbmjVt) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Tää on slut](https://open.spotify.com/album/7AckybLWgn5PyrEyBlDCnG) | 2:22 | 2024-12-05 | 2025-01-10 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-27 |  |
-| [unissasi](https://open.spotify.com/track/1AuJHvZaR7v0Q8kXtmEqTi) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [unissasi](https://open.spotify.com/album/3Ybsu2UNx8DNLPP50Kkp4Y) | 2:45 | 2024-10-17 |  |
+| [unissasi](https://open.spotify.com/track/1AuJHvZaR7v0Q8kXtmEqTi) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [unissasi](https://open.spotify.com/album/3Ybsu2UNx8DNLPP50Kkp4Y) | 2:45 | 2024-10-17 | 2025-05-19 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 | 2025-05-02 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-02 | 2024-08-02 |
 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 | 2024-11-14 | 2025-01-03 |

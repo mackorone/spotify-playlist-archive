@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover:  Tamer Ashour.",
-  "num_followers": 200083,
+  "num_followers": 200130,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
+        "name": "El Bint El Awiye",
+        "url": "https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 214327,
+      "name": "El Bint El Awiye",
+      "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
         "name": "Qesset Hob",
         "url": "https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX"
       },
@@ -311,38 +327,6 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "El Bint El Awiye",
-        "url": "https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 214327,
-      "name": "El Bint El Awiye",
-      "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 221379,
-      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
         "name": "Kol Hayaty",
         "url": "https://open.spotify.com/album/3L0hXZN4rDa9VTslS1qBLC"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 209851,
       "name": "Aleky Eyoun",
       "url": "https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 221379,
+      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
         "name": "Ana Weyak",
         "url": "https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 202786,
       "name": "Ana Weyak",
       "url": "https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -619,6 +619,38 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/404zVDendZybr93Pue8nmf"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Haydi Habibit Albi",
+        "url": "https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ"
+      },
+      "artists": [
+        {
+          "name": "Ziad Bourji",
+          "url": "https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj"
+        }
+      ],
+      "duration_ms": 222732,
+      "name": "Haydi Habibit Albi",
+      "url": "https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
         "name": "\u0627\u0644\u062c\u0631\u062d \u0627\u0644\u0644\u064a \u0628\u0639\u062f\u0648",
         "url": "https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI"
       },
@@ -663,38 +695,6 @@
       "duration_ms": 212244,
       "name": "Aam Yes2alou",
       "url": "https://open.spotify.com/track/4hRCy0hLfHYLlKHEF5JG4N"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "Haydi Habibit Albi",
-        "url": "https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ"
-      },
-      "artists": [
-        {
-          "name": "Ziad Bourji",
-          "url": "https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj"
-        }
-      ],
-      "duration_ms": 222732,
-      "name": "Haydi Habibit Albi",
-      "url": "https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/404zVDendZybr93Pue8nmf"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
+        "name": "Shee",
+        "url": "https://open.spotify.com/album/2SZdvrxMgfl0LrhozVW0RX"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Shee",
+      "url": "https://open.spotify.com/track/0oRNK10JeRv431CLgTanNQ"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
         "name": "Aman",
         "url": "https://open.spotify.com/album/3XPWs3JfOkQCp018108l5q"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 236697,
       "name": "Wassellik Khabar",
       "url": "https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "Shee",
-        "url": "https://open.spotify.com/album/2SZdvrxMgfl0LrhozVW0RX"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Shee",
-      "url": "https://open.spotify.com/track/0oRNK10JeRv431CLgTanNQ"
     },
     {
       "added_at": "2024-10-31 22:00:00",

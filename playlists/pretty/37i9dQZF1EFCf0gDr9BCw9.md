@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614 likes - 149 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 149 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 73 | [Just A\-Settin' and A\-Rockin'](https://open.spotify.com/track/5jIeCSEggQhrx7GslAmUlr) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Breakfast Dance](https://open.spotify.com/album/1kTsLf63qRz5wdDH8G3Lwx) | 3:35 |
 | 74 | [Newport Up](https://open.spotify.com/track/6nTU78IraUploReW0vasAl) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Berlin 1959](https://open.spotify.com/album/4YwwiXDPhpiDHD8HpI7dAS) | 4:38 |
 | 75 | [All Day Long](https://open.spotify.com/track/0DIbeVbiZSFHuM7dey6Z5Q) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 2:56 |
-| 76 | [Lament for Javanette](https://open.spotify.com/track/1yKDOMEjp4mvH9rweDJWa4) | [Barney Bigard & Orchestra](https://open.spotify.com/artist/0islDqDRDNrcRJVlI9IgaZ), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Ellington Units](https://open.spotify.com/album/7e30t2p2PEwyMLPDkvDni4) | 2:51 |
-| 77 | [Chalmeau](https://open.spotify.com/track/3KftqPtAFIUDyJsZ6KQJMD) | [Harry Carney](https://open.spotify.com/artist/28fgw4cYFSCSciUyDqnbXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Music For Loving](https://open.spotify.com/album/1feZuoiJrSbos4LfhUIZF0) | 3:38 |
+| 76 | [Chalmeau](https://open.spotify.com/track/3KftqPtAFIUDyJsZ6KQJMD) | [Harry Carney](https://open.spotify.com/artist/28fgw4cYFSCSciUyDqnbXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Music For Loving](https://open.spotify.com/album/1feZuoiJrSbos4LfhUIZF0) | 3:38 |
+| 77 | [Lament for Javanette](https://open.spotify.com/track/1yKDOMEjp4mvH9rweDJWa4) | [Barney Bigard & Orchestra](https://open.spotify.com/artist/0islDqDRDNrcRJVlI9IgaZ), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Ellington Units](https://open.spotify.com/album/7e30t2p2PEwyMLPDkvDni4) | 2:51 |
 | 78 | [Progressive Gavotte](https://open.spotify.com/track/3URrsgBM7nSEhbfPd9J3US) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 2:55 |
 | 79 | [Brown Betty](https://open.spotify.com/track/4iAhWLrolGmYuQgkvSW1sP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:04 |
 | 80 | [Tymperturbably Blue](https://open.spotify.com/track/7hjE25giigr2EMT4YORsIe) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 4:23 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 148 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 149 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Abxr9AAAAABYBe5oGX7argfJutsGoiTn`
+Snapshot ID: `AbxxigAAAADh15xofCKPw4g3TlZc9349`

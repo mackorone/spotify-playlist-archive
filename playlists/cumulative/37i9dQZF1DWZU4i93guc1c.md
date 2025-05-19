@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Женя Галич
 
-348 songs - 18 hr 10 min
+349 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Love is](https://open.spotify.com/track/6Fz9RGmLKm3WkQ0eNaWva5) | [Денис Бойко](https://open.spotify.com/artist/6WeOuFNrKka0uJRcCaJiIc) | [Love is](https://open.spotify.com/album/70vlYc51NI1SMVxfNY634Q) | 2:57 | 2024-06-27 | 2024-07-13 |
 | [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 | 2024-10-09 |  |
 | [mafia](https://open.spotify.com/track/0OJRzFVYPpLJ5hsTfhloBQ) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [mafia](https://open.spotify.com/album/2S7KugySi40sSRnGGjWgX4) | 2:45 | 2025-01-02 | 2025-02-15 |
-| [Makoterchyk](https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Makoterchyk](https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw) | 4:15 | 2024-06-27 | 2025-05-17 |
+| [Makoterchyk](https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Makoterchyk](https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw) | 4:15 | 2024-06-27 |  |
 | [Masandra](https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Masandra](https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp) | 4:24 | 2024-06-27 | 2025-01-26 |
 | [Melancholy Love](https://open.spotify.com/track/5uB0zDmW93oBCQ93GuV9KL) | [Lost Gift](https://open.spotify.com/artist/676CuDunRM60X41MIhAaI8) | [Melancholy Love](https://open.spotify.com/album/5GNg27IwodYLLQkxoNtAAv) | 2:12 | 2024-06-27 | 2024-07-13 |
 | [Michael J](https://open.spotify.com/track/0AlVElhcp5XyrHOYHw6lpe) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Michael J](https://open.spotify.com/album/6RkOQHkqG0TcGZjGxPz30T) | 2:02 | 2024-10-18 | 2024-11-22 |
@@ -100,7 +100,7 @@
 | [Дарниця](https://open.spotify.com/track/6VRoMXBAR4VjLKkCi7rxEP) | [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Дарниця](https://open.spotify.com/album/3XlGP5fyZTHnBCrkPH78Cp) | 3:04 | 2024-08-23 | 2024-09-14 |
 | [Де ти тепер](https://open.spotify.com/track/5XMRwi7oXAfSurVsh4MNh7) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1) | [Де ти тепер](https://open.spotify.com/album/46UjohgfaonO8FTiB0vOLa) | 5:44 | 2025-04-11 | 2025-04-25 |
 | [день закоханих](https://open.spotify.com/track/3g9OUTzaarewOH6rpVEIPk) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [день закоханих](https://open.spotify.com/album/3vEM2v4RpyXn9koU3dWMEV) | 2:52 | 2024-12-06 | 2025-03-04 |
-| [ДЖАЗ](https://open.spotify.com/track/45Pm1ZafdOiy7iwqljQU17) | [RIDNI](https://open.spotify.com/artist/2Cc8f0kYHGmNPRQvaW01SR) | [ДЖАЗ](https://open.spotify.com/album/2A3t1u3UgTdDsJvzrOYuRG) | 2:45 | 2024-06-27 |  |
+| [ДЖАЗ](https://open.spotify.com/track/45Pm1ZafdOiy7iwqljQU17) | [RIDNI](https://open.spotify.com/artist/2Cc8f0kYHGmNPRQvaW01SR) | [ДЖАЗ](https://open.spotify.com/album/2A3t1u3UgTdDsJvzrOYuRG) | 2:45 | 2024-06-27 | 2025-05-19 |
 | [дим](https://open.spotify.com/track/3Gctn1wiRy7hkVl2V2pPcI) | [наташа](https://open.spotify.com/artist/1tHZJ9CNsFWN2sZ7pMZVfn) | [дим](https://open.spotify.com/album/55K3pBUmUhruQfU6SUv5va) | 2:54 | 2025-01-02 | 2025-01-25 |
 | [Дихотомія](https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Дихотомія](https://open.spotify.com/album/1hV93flQsYV7PLABJznwYv) | 5:41 | 2024-08-23 | 2024-10-10 |
 | [До нестями](https://open.spotify.com/track/0E3toxhKHlqxFpxgAjOSdd) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [До нестями](https://open.spotify.com/album/5jpEWFea74YYOL6Dg6vzVb) | 4:49 | 2025-04-11 | 2025-05-10 |
@@ -324,6 +324,7 @@
 | [Фантастично](https://open.spotify.com/track/7AkXsFfltmtYnBtAXqklq5) | [TESLENKO](https://open.spotify.com/artist/4Kfhe0aTNpLAd7DVpVx3sF) | [Фантастично](https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt) | 2:10 | 2024-06-27 | 2024-10-19 |
 | [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 | 2025-03-17 | 2025-04-17 |
 | [флешбеки](https://open.spotify.com/track/3AwkjFh9bFRzcxLlizDh7B) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ) | [в кубі](https://open.spotify.com/album/3XtXR2uOtyX1etSiTTEYnb) | 3:35 | 2024-09-13 | 2024-10-05 |
+| [Фіолетово](https://open.spotify.com/track/3PUmvSbiSJQ7vluhyWDCGu) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [ПУРПУР](https://open.spotify.com/album/6rmhLB25m7Nf141fa9EKP0) | 2:37 | 2025-05-16 |  |
 | [хіба собі я ворог](https://open.spotify.com/track/7fXgxnfwe6GPL9wT5DbHmi) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [хіба собі я ворог](https://open.spotify.com/album/4uRR1Sgtlxwo9XrPIuz9uD) | 3:04 | 2025-04-24 |  |
 | [Циклон](https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Циклон](https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0) | 2:38 | 2024-12-06 | 2025-01-25 |
 | [Цифри](https://open.spotify.com/track/3PSfnjHU75qExHR5TScdr7) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Цифри](https://open.spotify.com/album/57o6XaaffWNVQcu9QvaX7e) | 3:30 | 2025-01-24 |  |
@@ -353,7 +354,7 @@
 | [якщо я на колінах, то наврядчи молюся](https://open.spotify.com/track/3hoKJP1T90MD8KXt3J2SwR) | [артилерія](https://open.spotify.com/artist/1iC0iOxwU2oglYqtSr5NV7) | [якщо я на колінах, то наврядчи молюся](https://open.spotify.com/album/0JUW48DhwnxnFEjokzawes) | 1:28 | 2025-01-24 |  |
 | [І Чи Правильно Буде?](https://open.spotify.com/track/5UX3BmTENdIkHEbtob6Fue) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [І Чи Правильно Буде?](https://open.spotify.com/album/53BmmEc94kaYfzWKYsd5wD) | 3:25 | 2025-05-16 |  |
 | [Імператори](https://open.spotify.com/track/5ScT8atEfarQsrDfL5jCT3) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Імператори](https://open.spotify.com/album/0JBZLbhsqALewaXVmlPmsG) | 2:21 | 2024-06-27 | 2024-11-24 |
-| [Індульгенцій](https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr) | [СКВЕР](https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6) | [Індульгенцій](https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH) | 4:57 | 2025-03-03 |  |
+| [Індульгенцій](https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr) | [СКВЕР](https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6) | [Індульгенцій](https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH) | 4:57 | 2025-03-03 | 2025-05-19 |
 | [Іскра](https://open.spotify.com/track/56BbaMW2BhfmDO1XuLlXaB) | [ДК Енергетик](https://open.spotify.com/artist/3eYHCFBRUK9hyTm6aG08LD) | [Іскра](https://open.spotify.com/album/4A26hszQR4hOxQm9JHnLjJ) | 2:44 | 2024-06-27 | 2025-01-03 |
 | [ї й ц е н е т р е б а](https://open.spotify.com/track/2GvNV5Ltz43Z7IS41cw5LO) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [ї й ц е н е т р е б а](https://open.spotify.com/album/6WbyGPso7GJeBXdX42Crdf) | 3:26 | 2024-08-23 | 2024-09-14 |
 

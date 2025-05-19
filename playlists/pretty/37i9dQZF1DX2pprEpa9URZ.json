@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 847796,
+  "num_followers": 848865,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         }
       ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+      "duration_ms": 258137,
+      "name": "Pulse Antique",
+      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -731,22 +747,6 @@
       "duration_ms": 161622,
       "name": "Back 2 Me",
       "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
-        "name": "Portrait of the Obscure",
-        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 258137,
-      "name": "Pulse Antique",
-      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -895,26 +895,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Where Paradise Is",
-        "url": "https://open.spotify.com/album/3i5bR6qwwTqSnnu8EI88oB"
-      },
-      "artists": [
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "Ar\u00e2m",
-          "url": "https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Where Paradise Is",
-      "url": "https://open.spotify.com/track/3qfGhXGGn7PRG6HiyDNLl8"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -939,22 +919,54 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE"
+        "name": "Where Paradise Is",
+        "url": "https://open.spotify.com/album/3i5bR6qwwTqSnnu8EI88oB"
       },
       "artists": [
         {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
         },
         {
-          "name": "DJ Kent",
-          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+          "name": "Ar\u00e2m",
+          "url": "https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj"
         }
       ],
-      "duration_ms": 224467,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD"
+      "duration_ms": 240000,
+      "name": "Where Paradise Is",
+      "url": "https://open.spotify.com/track/3qfGhXGGn7PRG6HiyDNLl8"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -975,6 +987,26 @@
       "duration_ms": 261281,
       "name": "Chaak",
       "url": "https://open.spotify.com/track/421Eli1NCAJLQu2HUd57Yl"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        }
+      ],
+      "duration_ms": 224467,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1011,38 +1043,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "Global Entry 2",
         "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Solstice Vibes III",
-        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
-      },
-      "artists": [
-        {
-          "name": "Agawe",
-          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
-        }
-      ],
-      "duration_ms": 403831,
-      "name": "Flowers in Mind",
-      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
-    },
-    {
-      "added_at": "2025-05-02 12:22:07",
-      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 188852,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/1ryJE0dz9TeEHgdRvC9EGE"
+    },
+    {
+      "added_at": "2025-05-02 12:22:07",
+      "album": {
+        "name": "Solstice Vibes III",
+        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
+      },
+      "artists": [
+        {
+          "name": "Agawe",
+          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
+        }
+      ],
+      "duration_ms": 403831,
+      "name": "Flowers in Mind",
+      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1327,26 +1327,22 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Sorofe",
-        "url": "https://open.spotify.com/album/1IC43G0XM6s7P6NhSgfKgN"
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
       "artists": [
         {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
         },
         {
-          "name": "Niraj Naik",
-          "url": "https://open.spotify.com/artist/1b6fkBCxVg18jRbQX5vyYk"
-        },
-        {
-          "name": "Nicolle Rochelle",
-          "url": "https://open.spotify.com/artist/6KqrWNQDVycyqwk8G1SkQL"
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
         }
       ],
-      "duration_ms": 252055,
-      "name": "Sorofe",
-      "url": "https://open.spotify.com/track/4bfbIvejny3qtgWJYXFLE3"
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2025-05-02 12:22:07",
@@ -1371,22 +1367,26 @@
     {
       "added_at": "2025-05-02 12:22:07",
       "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+        "name": "Sorofe",
+        "url": "https://open.spotify.com/album/1IC43G0XM6s7P6NhSgfKgN"
       },
       "artists": [
         {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
         },
         {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+          "name": "Niraj Naik",
+          "url": "https://open.spotify.com/artist/1b6fkBCxVg18jRbQX5vyYk"
+        },
+        {
+          "name": "Nicolle Rochelle",
+          "url": "https://open.spotify.com/artist/6KqrWNQDVycyqwk8G1SkQL"
         }
       ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+      "duration_ms": 252055,
+      "name": "Sorofe",
+      "url": "https://open.spotify.com/track/4bfbIvejny3qtgWJYXFLE3"
     },
     {
       "added_at": "2025-05-02 12:22:07",

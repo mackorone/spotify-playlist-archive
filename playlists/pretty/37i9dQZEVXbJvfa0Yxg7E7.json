@@ -1,15 +1,119 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 548087,
+  "num_followers": 548029,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L7v9+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L71PeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Til Dovre Faller",
+        "url": "https://open.spotify.com/album/1MzsmyQrbLjIUPYT3xd3LL"
+      },
+      "artists": [
+        {
+          "name": "Johanne Holmedahl",
+          "url": "https://open.spotify.com/artist/2TubhB02PsCWrwzQQJLIbG"
+        }
+      ],
+      "duration_ms": 221205,
+      "name": "Til Dovre Faller",
+      "url": "https://open.spotify.com/track/4yELWDJ3J0sH4UCprBdvH3"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "17. Mai er vi s\u00e5 glad i",
+        "url": "https://open.spotify.com/album/3ZB70iihD1UizGCOh2v9NW"
+      },
+      "artists": [
+        {
+          "name": "RykkinnFella",
+          "url": "https://open.spotify.com/artist/6KSaWsYvSy4JV7pM6MWQEK"
+        },
+        {
+          "name": "Jack Dee",
+          "url": "https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd"
+        },
+        {
+          "name": "Ola Nordmann",
+          "url": "https://open.spotify.com/artist/1NmbrZqVbinlAMscrnV3Jt"
+        }
+      ],
+      "duration_ms": 154804,
+      "name": "17. Mai er vi s\u00e5 glad i",
+      "url": "https://open.spotify.com/track/0OdiUIuHz3W2178hAdC6rt"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Diamanter",
+        "url": "https://open.spotify.com/album/5jKmag1TJpFftqgaDy2sia"
+      },
+      "artists": [
+        {
+          "name": "Jens Book-Jenssen",
+          "url": "https://open.spotify.com/artist/3GmeMFpBRcVlf9OUwlsuo0"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "S\u00c5 KLART DET GJ\u00d8R VONDT",
+        "url": "https://open.spotify.com/album/2oumu4rB71r7F0KwVc8WEj"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "17.mai",
+      "url": "https://open.spotify.com/track/7oodjYvd9RYhRjUufF2QTW"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Fagert Er Landet",
+        "url": "https://open.spotify.com/album/4WQyN7QOUpJwQXgWoxldJI"
+      },
+      "artists": [
+        {
+          "name": "Bod\u00f8 Domkor",
+          "url": "https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Ja, Vi Elsker Dette Landet",
+      "url": "https://open.spotify.com/track/6BceIzVKILTDorOHoqTpgs"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Sauna Collection",
+        "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Bara Bada Bastu",
+      "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
       "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
@@ -29,87 +133,23 @@
       "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Svagare \u00e4n jag",
-        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
+        "name": "The Olympic Spirit",
+        "url": "https://open.spotify.com/album/1VN6DTKb8hk4uKLfwE4MI5"
       },
       "artists": [
         {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+          "name": "HM Kongens Gardes Musikkorps",
+          "url": "https://open.spotify.com/artist/1mJCP4lGqdhBUuiHQIlbtr"
         }
       ],
-      "duration_ms": 187076,
-      "name": "Svagare \u00e4n jag",
-      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
+      "duration_ms": 122800,
+      "name": "Gammel Jegermarsj",
+      "url": "https://open.spotify.com/track/7vXIiUiKTw8j6Kct59ZARV"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Til Dovre Faller",
-        "url": "https://open.spotify.com/album/1MzsmyQrbLjIUPYT3xd3LL"
-      },
-      "artists": [
-        {
-          "name": "Johanne Holmedahl",
-          "url": "https://open.spotify.com/artist/2TubhB02PsCWrwzQQJLIbG"
-        }
-      ],
-      "duration_ms": 221205,
-      "name": "Til Dovre Faller",
-      "url": "https://open.spotify.com/track/4yELWDJ3J0sH4UCprBdvH3"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Ka visste eg",
-      "url": "https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Sauna Collection",
-        "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
-      },
-      "artists": [
-        {
-          "name": "KAJ",
-          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Bara Bada Bastu",
-      "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
         "name": "Overfladisk",
         "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
@@ -125,55 +165,23 @@
       "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Om",
-        "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
+        "name": "Svagare \u00e4n jag",
+        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
       },
       "artists": [
         {
-          "name": "Niklas Str\u00f6mstedt",
-          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Om",
-      "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Eli",
-      "url": "https://open.spotify.com/track/73w95wSsGRANVc3RyGITRP"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Fredagsbarn",
-        "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Fredagsbarn",
-      "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
@@ -189,151 +197,43 @@
       "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+        "name": "Norwegian Colours",
+        "url": "https://open.spotify.com/album/4kj5swQwMcPO94P5t4seP9"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Birra",
-        "url": "https://open.spotify.com/album/6ET2zhZ1JD8Zge03jYUnyT"
-      },
-      "artists": [
-        {
-          "name": "Fjellrev",
-          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+          "name": "Allan Johanson",
+          "url": "https://open.spotify.com/artist/6WSfT3T82GHspYEzx64N9k"
         },
         {
-          "name": "Kudos",
-          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+          "name": "Gardemusikken",
+          "url": "https://open.spotify.com/artist/7gyEHWG7bLlW2ZCPeIr1fE"
         }
       ],
-      "duration_ms": 113400,
-      "name": "Birra",
-      "url": "https://open.spotify.com/track/2IdIiiNX7SpQO9WW77aZPx"
+      "duration_ms": 140600,
+      "name": "Holmenkollmarsj",
+      "url": "https://open.spotify.com/track/1f5O1jq4V2pB2Xi1cXImsj"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "BASSIANI",
-        "url": "https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 163200,
-      "name": "BASSIANI",
-      "url": "https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk"
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "10 Hoes",
-        "url": "https://open.spotify.com/album/2wbvQ2Dxh2cLwCsOOkE46h"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "10 Hoes",
-      "url": "https://open.spotify.com/track/4qqKLHCbw96XRXX4tBfasV"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Bender",
-        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 139975,
-      "name": "Bender",
-      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "LENGE LEVE LIVET",
-        "url": "https://open.spotify.com/album/4hka0YqBcLB9uWydvhcx0R"
-      },
-      "artists": [
-        {
-          "name": "lille Caesar",
-          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
-        },
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "hvem kan seile foruten vind?",
-      "url": "https://open.spotify.com/track/5E5GQ6dnxc5PpvMcN9U3fX"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "St. Tropez",
-        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 142660,
-      "name": "St. Tropez",
-      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Friskis",
-        "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
-      },
-      "artists": [
-        {
-          "name": "Kjartan Lauritzen",
-          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 168774,
-      "name": "Friskis",
-      "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
         "name": "Galopp",
         "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
@@ -361,159 +261,119 @@
       "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Diamanter",
-        "url": "https://open.spotify.com/album/5jKmag1TJpFftqgaDy2sia"
+        "name": "Livets toner - en messe for eng og asfalt",
+        "url": "https://open.spotify.com/album/6yAoYL9gEeFPIhI6an83ob"
       },
       "artists": [
         {
-          "name": "Jens Book-Jenssen",
-          "url": "https://open.spotify.com/artist/3GmeMFpBRcVlf9OUwlsuo0"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "T\u00c6T P\u00c5 (feat. Delara)",
-        "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+          "name": "Sarpsborg Kammerkor",
+          "url": "https://open.spotify.com/artist/4yhRrKbyZyoKNHY3jR7T7K"
         },
         {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+          "name": "Forsvarets Stabsmusikkorps",
+          "url": "https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U"
         }
       ],
-      "duration_ms": 137400,
-      "name": "T\u00c6T P\u00c5 (feat. Delara)",
-      "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
+      "duration_ms": 161346,
+      "name": "Det G\u00e5r Et Festtog Gjennom Landet!",
+      "url": "https://open.spotify.com/track/06xTF6pNyBi14cHpKISeyk"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+        "name": "BASSIANI",
+        "url": "https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "BASSIANI",
+      "url": "https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Norwegian Colours",
+        "url": "https://open.spotify.com/album/4kj5swQwMcPO94P5t4seP9"
+      },
+      "artists": [
+        {
+          "name": "Lars-Erik Larsson",
+          "url": "https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy"
         },
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Arild Feldborg",
+          "url": "https://open.spotify.com/artist/751C9BQ0VdWdtVeC0bADSf"
         },
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "17. Mai er vi s\u00e5 glad i",
-        "url": "https://open.spotify.com/album/3ZB70iihD1UizGCOh2v9NW"
-      },
-      "artists": [
-        {
-          "name": "RykkinnFella",
-          "url": "https://open.spotify.com/artist/6KSaWsYvSy4JV7pM6MWQEK"
+          "name": "Finn B\u00f8",
+          "url": "https://open.spotify.com/artist/4lkMhKErNMyZ9Sarx6n6O5"
         },
         {
-          "name": "Jack Dee",
-          "url": "https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd"
-        },
-        {
-          "name": "Ola Nordmann",
-          "url": "https://open.spotify.com/artist/1NmbrZqVbinlAMscrnV3Jt"
+          "name": "Gardemusikken",
+          "url": "https://open.spotify.com/artist/7gyEHWG7bLlW2ZCPeIr1fE"
         }
       ],
-      "duration_ms": 154804,
-      "name": "17. Mai er vi s\u00e5 glad i",
-      "url": "https://open.spotify.com/track/0OdiUIuHz3W2178hAdC6rt"
+      "duration_ms": 148653,
+      "name": "Norge I R\u00f8dt Hvitt Og Bl\u00e5tt",
+      "url": "https://open.spotify.com/track/7w75F85oAXsdaTrCoREONt"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Samma det",
-        "url": "https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp"
+        "name": "Om",
+        "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
       },
       "artists": [
         {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+          "name": "Niklas Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
         }
       ],
-      "duration_ms": 154042,
-      "name": "Samma det",
-      "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"
+      "duration_ms": 248066,
+      "name": "Om",
+      "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
       },
       "artists": [
         {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
         }
       ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+      "duration_ms": 139975,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "St. Tropez",
+        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 142660,
+      "name": "St. Tropez",
+      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
         "name": "Hver Gang Vi M\u00f8tes 2025",
         "url": "https://open.spotify.com/album/19a58lazsTPsTaUEzah6P1"
@@ -537,43 +397,195 @@
       "url": "https://open.spotify.com/track/1V9NWjMX2GRy0exAEGicsC"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+        "name": "10 Hoes",
+        "url": "https://open.spotify.com/album/2wbvQ2Dxh2cLwCsOOkE46h"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "10 Hoes",
+      "url": "https://open.spotify.com/track/4qqKLHCbw96XRXX4tBfasV"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Fredagsbarn",
+        "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Fredagsbarn",
+      "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Birra",
+        "url": "https://open.spotify.com/album/6ET2zhZ1JD8Zge03jYUnyT"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
         },
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+      "duration_ms": 113400,
+      "name": "Birra",
+      "url": "https://open.spotify.com/track/2IdIiiNX7SpQO9WW77aZPx"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+      "duration_ms": 233500,
+      "name": "Ka visste eg",
+      "url": "https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Melis",
+        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
+      },
+      "artists": [
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Idyll",
+      "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Eli",
+      "url": "https://open.spotify.com/track/73w95wSsGRANVc3RyGITRP"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Haien Kommer (Sharkdog)",
+        "url": "https://open.spotify.com/album/1cWmabFDCXJPWv5Zxf0D0U"
+      },
+      "artists": [
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        },
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "duration_ms": 196692,
+      "name": "Haien Kommer (Sharkdog)",
+      "url": "https://open.spotify.com/track/2sbvNhKsY8OUEwlbZb7hXV"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Skikkelig Fete Barnesanger",
+        "url": "https://open.spotify.com/album/5ru8G4CMaWqTNnRPAWsqX4"
+      },
+      "artists": [
+        {
+          "name": "Pudding-TV",
+          "url": "https://open.spotify.com/artist/6Kiq09dTSayFFqAVYUiS9o"
+        }
+      ],
+      "duration_ms": 51400,
+      "name": "17. mai-sang (Tenk at n\u00e5 er dagen her)",
+      "url": "https://open.spotify.com/track/4tPHgwk04wQcwLo2LETUj0"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Melis",
+        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
+      },
+      "artists": [
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "En Solskinnsdag",
+      "url": "https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Alt For Norge",
+        "url": "https://open.spotify.com/album/2F8SdxlBxcbcwMhZR4BuDk"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Rotan",
+          "url": "https://open.spotify.com/artist/5LeUKbWRby5hGRHktQkXQV"
+        },
+        {
+          "name": "TR\u00fcH",
+          "url": "https://open.spotify.com/artist/0qX8rYHY8qHGepVMSzAGbr"
+        }
+      ],
+      "duration_ms": 179989,
+      "name": "Alt For Norge",
+      "url": "https://open.spotify.com/track/5MSj7P4ieMZ8IIngLnvhbH"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "5 fine fr\u00f8kner",
+        "url": "https://open.spotify.com/album/32CUxd1Ihq7Ww5ayv8IirO"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "5 fine fr\u00f8kner",
+      "url": "https://open.spotify.com/track/49lGGqlyEnlRQfc69I8ajk"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
       "album": {
         "name": "THUNDERCUNT",
         "url": "https://open.spotify.com/album/63vmfDiyWtvJkUY7IMuA4M"
@@ -593,254 +605,26 @@
       "url": "https://open.spotify.com/track/7eWaidsP2IwIhnyN6ueRwi"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+        "name": "Fairytales",
+        "url": "https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+      "duration_ms": 183093,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "SAMMEN",
-      "url": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/4OW1p0csvZytFhhAgNoABb"
-      },
-      "artists": [
-        {
-          "name": "Hjorterud All\u00e9",
-          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5ShsKjYEFCpAg1MawQ71zC"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "H\u00e5ller Mig Sj\u00e4lv",
-        "url": "https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez"
-      },
-      "artists": [
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        },
-        {
-          "name": "ROMANOS",
-          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "H\u00e5ller Mig Sj\u00e4lv",
-      "url": "https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "S\u00c5 KLART DET GJ\u00d8R VONDT",
-        "url": "https://open.spotify.com/album/2oumu4rB71r7F0KwVc8WEj"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "17.mai",
-      "url": "https://open.spotify.com/track/7oodjYvd9RYhRjUufF2QTW"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Memoarer",
-      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "FUCKED (DumDum Boys 2025)",
-        "url": "https://open.spotify.com/album/5fntesydBCyuG74uomLVIu"
-      },
-      "artists": [
-        {
-          "name": "UGANG",
-          "url": "https://open.spotify.com/artist/68NG7HHIQ3vm9DGnWE52gE"
-        },
-        {
-          "name": "D\u00d8M",
-          "url": "https://open.spotify.com/artist/63RWyqOA7OMzFzC2OPWBmk"
-        }
-      ],
-      "duration_ms": 177257,
-      "name": "FUCKED (DumDum Boys 2025)",
-      "url": "https://open.spotify.com/track/1rmAPrrglEG5r4t2xz3OYO"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2025-05-17 13:26:58",
-      "album": {
-        "name": "Fanga av ein stormvind",
-        "url": "https://open.spotify.com/album/51lc3okbmpe46ai4DvDUx8"
+        "name": "Friskis",
+        "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
       },
       "artists": [
         {
@@ -848,32 +632,228 @@
           "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
         },
         {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
           "name": "Hver gang vi m\u00f8tes",
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 174860,
-      "name": "Fanga av ein stormvind",
-      "url": "https://open.spotify.com/track/0GssNPAI7NSbi1aaThO3EX"
+      "duration_ms": 168774,
+      "name": "Friskis",
+      "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "Fagert Er Landet",
-        "url": "https://open.spotify.com/album/4WQyN7QOUpJwQXgWoxldJI"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "Bod\u00f8 Domkor",
-          "url": "https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Ja, Vi Elsker Dette Landet",
-      "url": "https://open.spotify.com/track/6BceIzVKILTDorOHoqTpgs"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Satan i gatan (Bonus Version)",
+        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Jag kommer",
+      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Samma det",
+        "url": "https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 154042,
+      "name": "Samma det",
+      "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Mildt sagt",
+        "url": "https://open.spotify.com/album/2hYZ5B3BxgDGSy5GBaJz4D"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Bordet",
+      "url": "https://open.spotify.com/track/1ydZsp49q1GrFLPdhRwBsy"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Ja, vi elsker",
+        "url": "https://open.spotify.com/album/2fI9O9AauAKVT8RbkIobkY"
+      },
+      "artists": [
+        {
+          "name": "Rikard Nordraak",
+          "url": "https://open.spotify.com/artist/1HIBjVzHAL7l9dOnKllH5J"
+        },
+        {
+          "name": "Bj\u00f8rnstjerne Bj\u00f8rnson",
+          "url": "https://open.spotify.com/artist/11LPmaVCc0NqqKm7x4mDeb"
+        },
+        {
+          "name": "Forsvarets Stabsmusikkorps",
+          "url": "https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U"
+        },
+        {
+          "name": "THE STAFF BAND OF THE NORWEGIAN ARMED FORCES",
+          "url": "https://open.spotify.com/artist/3xYnbdPOwx0r5ett9Hhoq9"
+        },
+        {
+          "name": "Schola Cantorum",
+          "url": "https://open.spotify.com/artist/7kHhGP2Cm5z0YZsxuuoPo1"
+        },
+        {
+          "name": "Ingar Bergby",
+          "url": "https://open.spotify.com/artist/5wgwZ42k45KFtRKHUgQhmI"
+        },
+        {
+          "name": "Tone Bianca Sparre Dahl",
+          "url": "https://open.spotify.com/artist/059bRJ2h0NY1NDMaT21fSU"
+        }
+      ],
+      "duration_ms": 519200,
+      "name": "Ja, vi elsker dette landet - alle 8 vers",
+      "url": "https://open.spotify.com/track/4y9ul73wG14TMt3lCeosQE"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "1965-2004",
+        "url": "https://open.spotify.com/album/7HYfjpYqXT5UZsipEm1jtI"
+      },
+      "artists": [
+        {
+          "name": "Wenche Myhre",
+          "url": "https://open.spotify.com/artist/4C3ZoiafZ1vOv09kAKHLSf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Vi Lever",
+      "url": "https://open.spotify.com/track/4m1yOHoKnRSYvqsG2dGUG2"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "H\u00e4nderna mot himlen",
+      "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "UNDERGRUNN",
+        "url": "https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 170281,
+      "name": "Italia",
+      "url": "https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "LENGE LEVE LIVET",
+        "url": "https://open.spotify.com/album/4hka0YqBcLB9uWydvhcx0R"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        },
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "hvem kan seile foruten vind?",
+      "url": "https://open.spotify.com/track/5E5GQ6dnxc5PpvMcN9U3fX"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -889,24 +869,60 @@
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
-      "added_at": "2025-05-17 13:26:58",
+      "added_at": "2025-05-18 13:16:22",
       "album": {
-        "name": "KARL JOHAN",
-        "url": "https://open.spotify.com/album/0eACs9uO7WSlBl2PCElarH"
+        "name": "T\u00c6T P\u00c5 (feat. Delara)",
+        "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
       "artists": [
         {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         },
         {
-          "name": "FRAM",
-          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
         }
       ],
-      "duration_ms": 200681,
-      "name": "KARL JOHAN",
-      "url": "https://open.spotify.com/track/5C01Phi3ylbwe4Z2v7OS6B"
+      "duration_ms": 137400,
+      "name": "T\u00c6T P\u00c5 (feat. Delara)",
+      "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "added_at": "2025-05-18 13:16:22",
+      "album": {
+        "name": "Mildt sagt",
+        "url": "https://open.spotify.com/album/2hYZ5B3BxgDGSy5GBaJz4D"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Ring meg",
+      "url": "https://open.spotify.com/track/0Gf6mZ2kMJCDVHm2afcpfl"
     }
   ],
   "unique_name": "Top 50 - Norway",

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17686,
+  "num_followers": 17687,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "PLAYHOUSE",
-        "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "SALTY",
-      "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Wolne duchy (feat. Daria Zawia\u0142ow, Mrozu & Kacperczyk)",
         "url": "https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "PLAYHOUSE",
+        "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "SALTY",
+      "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Ta druga",
         "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
       },
@@ -383,38 +383,6 @@
       "duration_ms": 245223,
       "name": "Madison",
       "url": "https://open.spotify.com/track/2GT3IFON9fMLf0VFriNn9r"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
-        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 193547,
-      "name": "SEXTAPE",
-      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -483,6 +451,38 @@
       "duration_ms": 158195,
       "name": "Trucizna",
       "url": "https://open.spotify.com/track/5wYOm2m2AhsdTyY3N39Guq"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
+        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 193547,
+      "name": "SEXTAPE",
+      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 202037,
-      "name": "Sama na planecie",
-      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Recut",
         "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 250431,
       "name": "Together - Pejza\u017c Remix",
       "url": "https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 202037,
+      "name": "Sama na planecie",
+      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "September Night",
+        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+        }
+      ],
+      "duration_ms": 380093,
+      "name": "Song for Sarah",
+      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Adam's Apple",
         "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 314728,
       "name": "Adam's Apple: III. Temptation",
       "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "September Night",
-        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
-        }
-      ],
-      "duration_ms": 380093,
-      "name": "Song for Sarah",
-      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Nie Ma Ziemi Nad Kujawy",
+        "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
+      },
+      "artists": [
+        {
+          "name": "ZPiT Ziemia Bydgoska",
+          "url": "https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY"
+        }
+      ],
+      "duration_ms": 107826,
+      "name": "Oberek Kujawski Ze Szwankowa",
+      "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Universum",
         "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 332013,
       "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
       "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Nie Ma Ziemi Nad Kujawy",
-        "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
-      },
-      "artists": [
-        {
-          "name": "ZPiT Ziemia Bydgoska",
-          "url": "https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY"
-        }
-      ],
-      "duration_ms": 107826,
-      "name": "Oberek Kujawski Ze Szwankowa",
-      "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "No Soloing, Please",
+        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
+      },
+      "artists": [
+        {
+          "name": "Adam J\u0119drysik",
+          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
+        }
+      ],
+      "duration_ms": 125412,
+      "name": "the right place to be (dzieksa)",
+      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 577993,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "No Soloing, Please",
-        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
-      },
-      "artists": [
-        {
-          "name": "Adam J\u0119drysik",
-          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
-        }
-      ],
-      "duration_ms": 125412,
-      "name": "the right place to be (dzieksa)",
-      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
     },
     {
       "added_at": "2025-04-06 08:27:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,233 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,241 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [No Look](https://open.spotify.com/track/6uWbwbBteI7SnCyPCVuWXU) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [Foggyatthebottom](https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7) | [No Look](https://open.spotify.com/album/54TAga0U0ZrNmSYDO0t7Bd) | 2:32 |
 | 50 | [Enough](https://open.spotify.com/track/1sFMTojas7jlOM7idhAdSn) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG) | [Enough](https://open.spotify.com/album/3vD2JcQ4hee4g7if0CQjLR) | 2:36 |
 
-Snapshot ID: `aCbLbwAAAAB1B6JETPEeZqB3Z39ZvhDq`
+Snapshot ID: `aCp++QAAAACJdurfLxquZnXzM2sR79rp`

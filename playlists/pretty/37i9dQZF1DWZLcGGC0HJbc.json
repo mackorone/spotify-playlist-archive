@@ -1,6 +1,6 @@
 {
   "description": "als het woud een playlist zou zijn",
-  "num_followers": 96347,
+  "num_followers": 96333,
   "original_name": "indie folk vibes",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-05-15 22:00:21",
       "album": {
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
         "name": "The Actor",
         "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
       },
@@ -123,18 +139,18 @@
     {
       "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "Follow On",
-        "url": "https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq"
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
       },
       "artists": [
         {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 228324,
-      "name": "Follow On",
-      "url": "https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj"
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
     },
     {
       "added_at": "2025-05-15 22:00:21",
@@ -155,6 +171,38 @@
     {
       "added_at": "2025-05-15 22:00:21",
       "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "Follow On",
+        "url": "https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 228324,
+      "name": "Follow On",
+      "url": "https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
         "name": "Cowboys of Los",
         "url": "https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH"
       },
@@ -167,38 +215,6 @@
       "duration_ms": 243403,
       "name": "Cowboys of Los",
       "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
-    },
-    {
-      "added_at": "2025-05-15 22:00:21",
-      "album": {
-        "name": "Goodbye to the Valley Low (Side B)",
-        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262160,
-      "name": "I'm Not Ready To Go",
-      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
-    },
-    {
-      "added_at": "2025-05-15 22:00:21",
-      "album": {
-        "name": "More More More",
-        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 192753,
-      "name": "More More More",
-      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
     },
     {
       "added_at": "2025-05-15 22:00:21",
@@ -247,22 +263,6 @@
       "duration_ms": 229795,
       "name": "Much Ado About Nothing",
       "url": "https://open.spotify.com/track/0nuneId81O8XGxUjSCL316"
-    },
-    {
-      "added_at": "2025-05-15 22:00:21",
-      "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2025-05-15 22:00:21",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-05-15 22:00:21",
       "album": {
+        "name": "Speaking of You",
+        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Speaking of You",
+      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
         "name": "Groundwork Rising",
         "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 180000,
       "name": "little me",
       "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2025-05-15 22:00:21",
-      "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     },
     {
       "added_at": "2025-05-15 22:00:21",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "antichamber",
-        "url": "https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "gone is the grace",
-      "url": "https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX"
-    },
-    {
-      "added_at": "2025-05-15 22:00:21",
-      "album": {
         "name": "Lovesongs",
         "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 197684,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "antichamber",
+        "url": "https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "gone is the grace",
+      "url": "https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX"
     },
     {
       "added_at": "2025-05-15 22:00:21",
@@ -763,6 +763,38 @@
     {
       "added_at": "2025-05-15 22:00:21",
       "album": {
+        "name": "Come with Me and Hide",
+        "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
+      },
+      "artists": [
+        {
+          "name": "Mooneye",
+          "url": "https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "For Tomorrow's Sake",
+        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "For Tomorrow's Sake",
+      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
         "name": "Sense & Nonsense",
         "url": "https://open.spotify.com/album/49C201EMuA7vMN68BRphjn"
       },
@@ -795,38 +827,6 @@
       "duration_ms": 235647,
       "name": "Science",
       "url": "https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G"
-    },
-    {
-      "added_at": "2025-05-15 22:00:21",
-      "album": {
-        "name": "Come with Me and Hide",
-        "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
-      },
-      "artists": [
-        {
-          "name": "Mooneye",
-          "url": "https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL"
-        }
-      ],
-      "duration_ms": 229146,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W"
-    },
-    {
-      "added_at": "2025-05-15 22:00:21",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/2rOLqtX6jxsBtoXx6rwpat"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 172455,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/31Vgt1wmpMibaBwxwRqN7o"
     }
   ],
   "unique_name": "indie folk vibes",

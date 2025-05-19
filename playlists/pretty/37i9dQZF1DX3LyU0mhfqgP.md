@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > For Eurovision week, last year's winner Nemo takes over the playlist with their favorite contestants from the community.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,999 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,458 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
-| 2 | [Luktelk](https://open.spotify.com/track/6imf6Ru34HlM1JVTGgCIpy) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/7DboCdLnlFEUODOgfDEVYb) | 2:41 |
-| 3 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
-| 4 | [BEFORE THE PARTY'S OVER](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [BEFORE THE PARTY'S OVER](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
-| 5 | [Rise Like a Phoenix](https://open.spotify.com/track/1ijX03QOR6a1wI322HifSV) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Conchita](https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S) | 3:03 |
-| 6 | [Molitva](https://open.spotify.com/track/3qC3JSTCiedBhYm2oN1axx) | [Marija Šerifović](https://open.spotify.com/artist/1TaKcFKO3X4wmPNcOVTJJ4) | [Molitva](https://open.spotify.com/album/7HoIf6HLPt6Zm1QMyvOh48) | 3:01 |
-| 7 | [Roi](https://open.spotify.com/track/7pLQelyQgfxEqc26woIhBA) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Kingdom](https://open.spotify.com/album/5OsWb15OtmAVNGbpNRKngi) | 2:58 |
-| 8 | [Poison Cake](https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl) | [Marko Bošnjak](https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb) | [Poison Cake](https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ) | 2:58 |
-| 9 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
+| 2 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
+| 3 | [Luktelk](https://open.spotify.com/track/6imf6Ru34HlM1JVTGgCIpy) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/7DboCdLnlFEUODOgfDEVYb) | 2:41 |
+| 4 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
+| 5 | [BEFORE THE PARTY'S OVER](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [BEFORE THE PARTY'S OVER](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
+| 6 | [Rise Like a Phoenix](https://open.spotify.com/track/1ijX03QOR6a1wI322HifSV) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Conchita](https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S) | 3:03 |
+| 7 | [Molitva](https://open.spotify.com/track/3qC3JSTCiedBhYm2oN1axx) | [Marija Šerifović](https://open.spotify.com/artist/1TaKcFKO3X4wmPNcOVTJJ4) | [Molitva](https://open.spotify.com/album/7HoIf6HLPt6Zm1QMyvOh48) | 3:01 |
+| 8 | [Roi](https://open.spotify.com/track/7pLQelyQgfxEqc26woIhBA) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Kingdom](https://open.spotify.com/album/5OsWb15OtmAVNGbpNRKngi) | 2:58 |
+| 9 | [Poison Cake](https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl) | [Marko Bošnjak](https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb) | [Poison Cake](https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ) | 2:58 |
 | 10 | [Grito](https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito](https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL) | 2:56 |
 | 11 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 12 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
 | 50 | [Hou Toch Van Mij](https://open.spotify.com/track/6bFkXFZujrQBO4LGvmNv5D) | [Bob Benny](https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH) | [Vlaamse Legenden, Vol\. 2](https://open.spotify.com/album/4FtQmCQMhEDkz1OH22fI5m) | 2:34 |
 
-Snapshot ID: `aCda7gAAAABAxLUgtRFrD45K/jDfBCVN`
+Snapshot ID: `aCn1xQAAAAB1paUxuS43HLd9qxApYPHK`

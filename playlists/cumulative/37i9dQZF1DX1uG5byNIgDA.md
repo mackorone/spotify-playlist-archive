@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-436 songs - 23 hr 47 min
+437 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [DREAMER](https://open.spotify.com/track/5S69qVsbHudSKincIUbYSf) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:33 | 2021-12-28 | 2022-07-16 |
 | [Dress \(Feat\. Gyungmin\)](https://open.spotify.com/track/6qqSrSA5dhh5LzfZNI0DaM) | [HyungBin](https://open.spotify.com/artist/78eKrXJX9IieggAbrqU8WA), [Gyungmin](https://open.spotify.com/artist/0wvn8397XZuRfR3COx53Gb) | [Dress \(Feat\. Gyungmin\)](https://open.spotify.com/album/0RJxMJwKKxafU1t0U7yB7M) | 3:26 | 2022-03-08 | 2022-06-17 |
 | [Drive Away \(Feat\. Naive\)](https://open.spotify.com/track/6H6MbdhyFGEnC7Aj6lXGfD) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [Naive](https://open.spotify.com/artist/1b2tnewS90sAeuYNbBsAPi) | [Drive Away](https://open.spotify.com/album/4RWzCuwAMViZAkrHktidbE) | 2:38 | 2022-11-15 | 2023-04-05 |
+| [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 | 2025-05-16 |  |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-12-06 | 2022-07-27 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2022-03-23 | 2022-04-21 |
 | [Délire \(Feat\. Son Hyeeun\)](https://open.spotify.com/track/0lo6hsRo6bq3aVgHswMQF4) | [DUSKY80](https://open.spotify.com/artist/3YfD0lqRUHNJMY23nkDLch), [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh), [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Délire \(Feat\. Son Hyeeun\)](https://open.spotify.com/album/7cOLd8ZwiQBax9UcyQIo6o) | 6:55 | 2022-01-11 | 2022-04-18 |
@@ -366,7 +367,7 @@
 | [Take Me To You](https://open.spotify.com/track/4CtTi2tSRjUc6vABWAgUNp) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:14 | 2021-12-28 | 2022-07-28 |
 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 | 2021-12-28 | 2022-04-21 |
 | [Talk & Talk](https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Talk & Talk](https://open.spotify.com/album/3GxaqNCf6F7KAs1aDBSLVe) | 3:40 | 2021-12-28 | 2022-07-28 |
-| [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-06 |  |
+| [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-06 | 2025-05-19 |
 | [Thank you](https://open.spotify.com/track/3ZsDedN6LsO0jyfE8Re494) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Thank you](https://open.spotify.com/album/6DRW62Ul6vAy5YtrFS52rl) | 4:00 | 2022-02-28 | 2022-04-05 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-11-15 |  |
 | [The Best Ending](https://open.spotify.com/track/2r8ndLpyDjYJo0q03AMo5s) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [The Best Ending OST](https://open.spotify.com/album/4tcJcOrgd4qRPRXFHFslwT) | 2:56 | 2021-12-28 | 2022-04-21 |

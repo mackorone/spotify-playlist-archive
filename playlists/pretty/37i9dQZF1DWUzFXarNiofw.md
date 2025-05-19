@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: GIVĒON
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,290 likes - 248 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,355 likes - 248 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

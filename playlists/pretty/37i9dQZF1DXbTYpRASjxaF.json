@@ -243,42 +243,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 177144,
-      "name": "MANDRAKA DO MOMENTO",
-      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -303,42 +267,6 @@
       "duration_ms": 171285,
       "name": "J\u00f3ias do Bairro",
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "Sem Sentimento",
-        "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "Sem Sentimento",
-      "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -383,6 +311,78 @@
       "duration_ms": 157850,
       "name": "Cop\u00e3o",
       "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "Sem Sentimento",
+        "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "Sem Sentimento",
+      "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 177144,
+      "name": "MANDRAKA DO MOMENTO",
+      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -499,70 +499,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Vil\u00e3o da M\u00eddia!",
-        "url": "https://open.spotify.com/album/4Rzf5vUSLRMgsR6z0jew6Z"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Vil\u00e3o da M\u00eddia!",
-      "url": "https://open.spotify.com/track/1QruZLnz4JAyCf06OjxHvK"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "Replay - Spotify Singles",
-        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Replay - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "Bag",
-        "url": "https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Cassin",
-          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Bag",
-      "url": "https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -595,6 +531,22 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
       },
@@ -611,6 +563,34 @@
       "duration_ms": 208241,
       "name": "Novos Ricos - Ao Vivo",
       "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "Bag",
+        "url": "https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Cassin",
+          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Bag",
+      "url": "https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -651,8 +631,8 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+        "name": "Vil\u00e3o da M\u00eddia!",
+        "url": "https://open.spotify.com/album/4Rzf5vUSLRMgsR6z0jew6Z"
       },
       "artists": [
         {
@@ -660,17 +640,13 @@
           "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 160000,
-      "name": "RANDANDAN",
-      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
+      "duration_ms": 242007,
+      "name": "Vil\u00e3o da M\u00eddia!",
+      "url": "https://open.spotify.com/track/1QruZLnz4JAyCf06OjxHvK"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -687,6 +663,26 @@
       "duration_ms": 290944,
       "name": "SPRITE CODEIN",
       "url": "https://open.spotify.com/track/6oRS51NBZAC1lmOrgynn9c"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "GARBO & ELEG\u00c2NCIA",
+        "url": "https://open.spotify.com/album/5UiKnUVfsGnfOpy5VZKSuT"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Gostoso & Rico",
+      "url": "https://open.spotify.com/track/2QClzdNXoeI4aelHE4k88w"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -711,26 +707,6 @@
       "duration_ms": 186240,
       "name": "Perfil #104 - Tacar Fogo",
       "url": "https://open.spotify.com/track/6XlUy5sEt32JV2Ju5WGl2T"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "GARBO & ELEG\u00c2NCIA",
-        "url": "https://open.spotify.com/album/5UiKnUVfsGnfOpy5VZKSuT"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Gostoso & Rico",
-      "url": "https://open.spotify.com/track/2QClzdNXoeI4aelHE4k88w"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -867,6 +843,30 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "RANDANDAN",
+      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "Vou Nessa",
         "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
       },
@@ -959,6 +959,26 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "BAGD\u00c1",
+        "url": "https://open.spotify.com/album/5jDZIxMARSU7iVOrzPqUGu"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 108648,
+      "name": "BAGD\u00c1",
+      "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "DPP",
         "url": "https://open.spotify.com/album/36YP6TxFyh8MUyBPSwHzWn"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "BAGD\u00c1",
-        "url": "https://open.spotify.com/album/5jDZIxMARSU7iVOrzPqUGu"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 108648,
-      "name": "BAGD\u00c1",
-      "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -1031,26 +1031,26 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Paladar",
-        "url": "https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng"
+        "name": "Akilla On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/1pR1h8zOGtfbar68dHbWxL"
       },
       "artists": [
         {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
         },
         {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+          "name": "Chris Helv",
+          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
         }
       ],
-      "duration_ms": 112952,
-      "name": "Paladar",
-      "url": "https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5"
+      "duration_ms": 111118,
+      "name": "Akilla On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/74ufXZKMlPBqIVp7N444Nf"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -1075,26 +1075,26 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Akilla On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/1pR1h8zOGtfbar68dHbWxL"
+        "name": "Paladar",
+        "url": "https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng"
       },
       "artists": [
         {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
         },
         {
-          "name": "Akilla",
-          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
         },
         {
-          "name": "Chris Helv",
-          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
         }
       ],
-      "duration_ms": 111118,
-      "name": "Akilla On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/74ufXZKMlPBqIVp7N444Nf"
+      "duration_ms": 112952,
+      "name": "Paladar",
+      "url": "https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5"
     },
     {
       "added_at": "2025-05-16 03:01:14",

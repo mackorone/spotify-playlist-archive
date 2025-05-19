@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,966 songs - 5 day 2 hr 19 min
+1,967 songs - 5 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1058,6 +1058,7 @@
 | [WATASHITACHI Marginal Service](https://open.spotify.com/track/05aMlgQOcdv8IcIxGh40Vz) | [ブライアン・ナイトレイダー\(CV.宮野真守\)](https://open.spotify.com/artist/6UnV8YKsYQosXeBMfq9GqP), [ゼノ・ストークス\(CV.森川智之\)](https://open.spotify.com/artist/0IljlUqmZ6MeeMe8drVUP4), [ボルツ・デクスター\(CV.杉田智和\)](https://open.spotify.com/artist/2p7VuZ2Aq1zR2vXodU6GfH), [ロビン・ティンバート\(CV.中村悠一\)](https://open.spotify.com/artist/56FPkPzV0zsE2mHfsNXcYL), [ライラ・キャンディハート\(CV.名塚佳織\)](https://open.spotify.com/artist/4N8NOReEz18c15XLvVcch4), [サイラス・N・空閑\(CV.下野紘\)](https://open.spotify.com/artist/5nkKXRKKxw6WZKLWnT8lkA), [セオドア・トンプソン\(CV.三木眞一郎\)](https://open.spotify.com/artist/7vtJXzGCl0lEZDTcVPpoQc), [ペック・デズモント\(CV.内山昂輝\)](https://open.spotify.com/artist/1Y5IHVVB3JvwBGQBa3t6XR) | [WATASHITACHI Marginal Service \(TV Animation ”THE MARGINAL SERVICE”\)](https://open.spotify.com/album/7HOYKTTVHVILbEUF1FqfWi) | 3:35 | 2023-04-11 | 2023-04-26 |
 | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/track/7eZTR8aZ0BRr6Tfkh4xrI6) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/album/1P7zqeYRHJM7UlXJKv8ooq) | 4:17 | 2023-12-28 | 2024-01-17 |
 | [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 | 2024-08-06 | 2024-10-16 |
+| [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 | 2025-05-18 |  |
 | [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 | 2024-03-19 | 2024-04-19 |
 | [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 | 2024-04-24 |
 | [Wave](https://open.spotify.com/track/6FApYvz1OV0qcrhlR9h9YL) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Wave](https://open.spotify.com/album/7e50ytl8w63oodD8YLpsQy) | 3:40 | 2024-07-03 | 2024-10-04 |

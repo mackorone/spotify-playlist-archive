@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,850 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,829 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 |
 | 50 | [His Name is Sahn\-Uzal](https://open.spotify.com/track/2oI3uOt9WEUNY5hWeLH3ZK) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Radik Tyulyush](https://open.spotify.com/artist/7FPrSe3UWZuv5UHQePSmRu) | [Welcome to Noxus \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/3XFDKkGZqcQj2MfPeO5K5k) | 2:58 |
 
-Snapshot ID: `aCaAAAAAAACGR7MIqUN7Ekg8eScfvZsV`
+Snapshot ID: `aCfRgAAAAAAsPr4oiRSLuNXyzov0xtmy`

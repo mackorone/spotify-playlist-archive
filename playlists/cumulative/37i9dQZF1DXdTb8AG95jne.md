@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 백예린\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 유다빈밴드\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-948 songs - 2 day 9 hr 51 min
+950 songs - 2 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [\- x \- = + \(feat\. CHOILB\)](https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\- x \- = +](https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7) | 3:01 | 2023-08-01 | 2023-08-12 |
 | [\- x \- = + \(feat\. 최엘비\)](https://open.spotify.com/track/4pbE7u8JYY1AsbjaxaAGCE) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\- x \- = +](https://open.spotify.com/album/5AFxWh93Ou4GC4pkB4nYco) | 3:01 | 2024-04-30 | 2024-05-09 |
 | [\. \(dot\)](https://open.spotify.com/track/3l6kinplmg17FeTt0vcCgs) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 2](https://open.spotify.com/album/6Fm4QPV0EY1yKCcOs7GmAB) | 3:40 | 2025-03-04 | 2025-04-10 |
-| [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 |  |
+| [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 | 2025-05-19 |
 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 | 2025-05-07 |  |
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
@@ -287,6 +287,7 @@
 | [Funky Drive](https://open.spotify.com/track/2dfDjliDkAZwTas9pcVAtw) | [JulyMorning](https://open.spotify.com/artist/30P86pnaycnTGEKX0mFEP6), [12Wol](https://open.spotify.com/artist/4jeMPxrPovmczIJySSyXxW) | [Funky Drive](https://open.spotify.com/album/1nE2YT12F7GD0IVD7O8Rci) | 3:39 | 2022-05-03 | 2022-05-06 |
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-07-16 | 2024-12-07 |
 | [Gentle Breeze](https://open.spotify.com/track/0gywQujjcGhh1XAjMkjhwd) | [OLIVER](https://open.spotify.com/artist/4WzpqecdwnCeWATK2UpssH) | [Gentle Breeze](https://open.spotify.com/album/5Cvj2fZ0NE49eYxq51UBvk) | 3:11 | 2021-12-21 | 2022-07-06 |
+| [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 | 2025-05-19 |  |
 | [Getting the Season](https://open.spotify.com/track/66ZCqYrneHDfVoxE3cE5O0) | [Ryoni](https://open.spotify.com/artist/4i9PKdDoAnZi9xC9VhqbdM) | [Getting the Season](https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW) | 4:14 | 2022-03-31 | 2022-04-15 |
 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 | 2024-12-19 | 2025-03-05 |
 | [Ghost Theatre](https://open.spotify.com/track/40iWsP5PYbpJB7uC4eE5pU) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [Ghost Theatre](https://open.spotify.com/album/4eN3Dzm5FEaPly9th3vjeQ) | 5:34 | 2024-04-30 | 2024-05-10 |
@@ -461,7 +462,7 @@
 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 |  |
 | [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 | 2025-03-15 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
-| [Like today \(feat\. untell\)](https://open.spotify.com/track/10vUa2rFZmfA3WKmML7qye) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [MINGLE: 'Like today'](https://open.spotify.com/album/4xoSoQdnLy4DSwYR2vmZoG) | 2:28 | 2025-04-30 |  |
+| [Like today \(feat\. untell\)](https://open.spotify.com/track/10vUa2rFZmfA3WKmML7qye) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [MINGLE: 'Like today'](https://open.spotify.com/album/4xoSoQdnLy4DSwYR2vmZoG) | 2:28 | 2025-04-30 | 2025-05-19 |
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-31 | 2022-04-19 |
 | [Little Drama](https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Bonfire](https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5) | 3:29 | 2024-11-29 | 2025-02-07 |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
@@ -718,6 +719,7 @@
 | [So What](https://open.spotify.com/track/3WMD2h62I69xh47NHCBMGG) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [So What](https://open.spotify.com/album/5aVi44dgMvYWOUL59ZzBKl) | 3:05 | 2022-05-11 | 2022-06-08 |
 | [So, Sometimes, I](https://open.spotify.com/track/30v6L22ChZQMHGsbV0wzut) | [OYEOL](https://open.spotify.com/artist/7qhXhpFaPjoBhqebBazlaR) | [So, Sometimes, I](https://open.spotify.com/album/3mmzEA59HmwLRad8PwuXnk) | 3:20 | 2022-03-31 | 2022-04-12 |
 | [Sofa\(So far\)](https://open.spotify.com/track/41A2osT4LHlwVAOKAHuVBU) | [DOULA](https://open.spotify.com/artist/705wNI5stBHWB0LrqQR3Iy) | [PLAGIAT](https://open.spotify.com/album/6Wm0bOnoPWBhJP8whcINuR) | 2:53 | 2022-03-31 | 2022-04-10 |
+| [Soft Breeze \- Live from Nowhere Known](https://open.spotify.com/track/7lDIrzxhomJ1O0Xk7eIo6z) | [After Thoughts](https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA) | [Live from Nowhere Known](https://open.spotify.com/album/5BwrI7JyynVZQIyrN18yZq) | 3:24 | 2025-05-19 |  |
 | [SOLD OUT](https://open.spotify.com/track/68gLrav5zc6pR4gHr4aD9S) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:59 | 2024-07-15 | 2024-08-06 |
 | [Somebody](https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Somebody](https://open.spotify.com/album/2PAEA9SgGyEu2fjuqvUyzM) | 3:58 | 2021-12-12 | 2022-07-07 |
 | [Someday](https://open.spotify.com/track/45QwxuJHU1ZkJrgAPcvBND) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Contact Information](https://open.spotify.com/album/6esC0qAVXhz5mlFZQZTHIb) | 3:51 | 2022-04-12 | 2022-04-19 |

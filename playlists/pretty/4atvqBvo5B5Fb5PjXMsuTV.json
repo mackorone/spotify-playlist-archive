@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 May 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 May 22:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAR6/w+1o88R+4TtddAS16DTuWEWGkK",
+  "snapshot_id": "AAAR8RQA0gvy7Qjgup1YRvjlI3hhsIHJ",
   "tracks": [
     {
       "added_at": "2025-05-16 18:03:48",
@@ -153,6 +153,30 @@
       "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
     },
     {
+      "added_at": "2025-05-18 22:04:24",
+      "album": {
+        "name": "No Room For A Saint (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 236128,
+      "name": "No Room For A Saint (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
+    },
+    {
       "added_at": "2025-05-16 13:04:16",
       "album": {
         "name": "GET NAKED",
@@ -167,6 +191,22 @@
       "duration_ms": 126933,
       "name": "GET NAKED",
       "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
+    },
+    {
+      "added_at": "2025-05-18 08:04:10",
+      "album": {
+        "name": "It's Only Love",
+        "url": "https://open.spotify.com/album/2AdLquEJQLmqfNxxXDojFS"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "duration_ms": 211652,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/5Pye5gXfSX4PPlv7mfsDzx"
     },
     {
       "added_at": "2025-05-17 22:03:58",
@@ -185,6 +225,22 @@
       "url": "https://open.spotify.com/track/3E0vJ5w8BmK4KapEJ5ZWUI"
     },
     {
+      "added_at": "2025-05-18 13:03:48",
+      "album": {
+        "name": "Road To Nothing",
+        "url": "https://open.spotify.com/album/57IX4na8EcVegXGiAACS4N"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Road To Nothing",
+      "url": "https://open.spotify.com/track/7FGEAhnzmuHhttUAEihnax"
+    },
+    {
       "added_at": "2025-05-16 08:04:19",
       "album": {
         "name": "Green Day",
@@ -201,6 +257,22 @@
       "url": "https://open.spotify.com/track/3CUo7RAPdgAxDZUMJBb4OY"
     },
     {
+      "added_at": "2025-05-18 08:04:10",
+      "album": {
+        "name": "Unexplainable",
+        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 241888,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
+    },
+    {
       "added_at": "2025-05-16 22:03:33",
       "album": {
         "name": "Game Time",
@@ -215,6 +287,22 @@
       "duration_ms": 97075,
       "name": "Game Time",
       "url": "https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN"
+    },
+    {
+      "added_at": "2025-05-18 13:03:48",
+      "album": {
+        "name": "Ironic",
+        "url": "https://open.spotify.com/album/3JEizfDyZUx4Qb18AK4v1f"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 128022,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/36gwEZRF9Z2EeG3FYkbbmO"
     },
     {
       "added_at": "2025-05-16 13:04:16",
@@ -751,106 +839,6 @@
       "duration_ms": 166306,
       "name": "Orphans",
       "url": "https://open.spotify.com/track/5JkBPvybcxRB9F6Y1OWYxY"
-    },
-    {
-      "added_at": "2025-05-09 08:04:41",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": "2025-05-09 18:04:30",
-      "album": {
-        "name": "Heroina",
-        "url": "https://open.spotify.com/album/3EF4FDNvaA9bW5fp9YdGHQ"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 143478,
-      "name": "Heroina",
-      "url": "https://open.spotify.com/track/4YQPwIuHm3OAQrNbLF5Qrq"
-    },
-    {
-      "added_at": "2025-05-11 08:04:16",
-      "album": {
-        "name": "Dance!",
-        "url": "https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Dance!",
-      "url": "https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN"
-    },
-    {
-      "added_at": "2025-05-09 22:04:29",
-      "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/0ggLkInKuYj12GOhcQ16RU"
-      },
-      "artists": [
-        {
-          "name": "clipping.",
-          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Jonathan Snipes",
-          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
-        },
-        {
-          "name": "William Hutson",
-          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
-        }
-      ],
-      "duration_ms": 151633,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/0aK8uKMjfmY10pXnndNOev"
-    },
-    {
-      "added_at": "2025-05-11 13:04:07",
-      "album": {
-        "name": "panopticon",
-        "url": "https://open.spotify.com/album/0QcPoxMh227G4YWq3jdQ8j"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 192166,
-      "name": "panopticon",
-      "url": "https://open.spotify.com/track/5MdZPTbHLggf36hH3MC3Jl"
     }
   ],
   "unique_name": "New Singles Now",

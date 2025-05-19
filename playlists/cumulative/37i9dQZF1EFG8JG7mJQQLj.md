@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-551 songs - 1 day 7 hr 16 min
+552 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,8 @@
 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 | 2024-01-29 |  |
 | [Stay the Night](https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:36 | 2024-02-02 |  |
 | [Stay the Night](https://open.spotify.com/track/4xehFId93Nx6T7l6V9duDW) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Stay the Night](https://open.spotify.com/album/71uw3gF4VqTxqZQCNoESGD) | 3:50 | 2024-01-29 | 2024-02-02 |
-| [Stone Cold Love](https://open.spotify.com/track/3Fwf0jLVPFqdFapeVqAoHv) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/2xVc7EF6PqGBpgakw1Ey3h) | 2:42 | 2024-01-29 |  |
+| [Stone Cold Love](https://open.spotify.com/track/3mSaE1mYeLgZkdHwGFxkRi) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/4LFmLeMR7MGMxxLgrBSj9b) | 2:42 | 2025-05-18 |  |
+| [Stone Cold Love](https://open.spotify.com/track/3Fwf0jLVPFqdFapeVqAoHv) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/2xVc7EF6PqGBpgakw1Ey3h) | 2:42 | 2024-01-29 | 2025-05-19 |
 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 | 2024-01-29 |  |
 | [Stranger Than Fiction](https://open.spotify.com/track/1fTv59goJRtA7yHrIxgyI3) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:31 | 2024-01-29 |  |
 | [Stranger Things](https://open.spotify.com/track/2c4voUCNC12xUtXDyYQslM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Stranger Things](https://open.spotify.com/album/7DHtDaGYs5ti7dMoZsnAqn) | 3:42 | 2024-01-29 | 2024-02-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 14324,
+  "num_followers": 14336,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
+        "name": "REBIRTH (Mary's Child)",
+        "url": "https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t"
+      },
+      "artists": [
+        {
+          "name": "Ewura Abena",
+          "url": "https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ"
+        }
+      ],
+      "duration_ms": 259752,
+      "name": "Show Them",
+      "url": "https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
@@ -163,6 +179,26 @@
       "duration_ms": 289646,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/6yowFXV5XidqYCgOyoqVHs"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
+        "name": "Agbebolo",
+        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "NHYIRABA GIDEON",
+          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Agbebolo",
+      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -191,42 +227,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
-        "name": "Agbebolo",
-        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "NHYIRABA GIDEON",
-          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Agbebolo",
-      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
-        "name": "REBIRTH (Mary's Child)",
-        "url": "https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t"
-      },
-      "artists": [
-        {
-          "name": "Ewura Abena",
-          "url": "https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ"
-        }
-      ],
-      "duration_ms": 259752,
-      "name": "Show Them",
-      "url": "https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -359,18 +359,18 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+        "name": "Owawani",
+        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
       },
       "artists": [
         {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
         }
       ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+      "duration_ms": 158400,
+      "name": "Owawani",
+      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "Owawani",
-        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Owawani",
-      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
-      },
-      "artists": [
-        {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
-        }
-      ],
-      "duration_ms": 203598,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
         "name": "Okrokrohene",
         "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 366107,
       "name": "Okrokrohene",
       "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+      },
+      "artists": [
+        {
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+        }
+      ],
+      "duration_ms": 203598,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -655,22 +655,38 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "Unconditional Love (feat. Niiella)",
-        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Niiella",
-          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 226017,
-      "name": "Unconditional Love (feat. Niiella)",
-      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
+        "name": "Come and See",
+        "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 342981,
+      "name": "Come and See",
+      "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -691,6 +707,26 @@
       "duration_ms": 146779,
       "name": "Chale",
       "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
+        "name": "Unconditional Love (feat. Niiella)",
+        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Niiella",
+          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+        }
+      ],
+      "duration_ms": 226017,
+      "name": "Unconditional Love (feat. Niiella)",
+      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -751,8 +787,8 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
       },
       "artists": [
         {
@@ -760,29 +796,9 @@
           "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
-        "name": "Come and See",
-        "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 342981,
-      "name": "Come and See",
-      "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -887,26 +903,6 @@
       "duration_ms": 224089,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6tTwVPhMIgzCsQlHullPO2"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
-      },
-      "artists": [
-        {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 163628,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
     }
   ],
   "unique_name": "Aseda",

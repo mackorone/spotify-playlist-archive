@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Ela Taubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,442 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,449 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 59 | [Cómo Te Atreves](https://open.spotify.com/track/3Iw5nYAPwHw12sjhTaVn5P) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Cómo Te Atreves](https://open.spotify.com/album/5jBnlgFRHm1gJHrhVDdE5I) | 2:59 |
 | 60 | [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 |
 
-Snapshot ID: `AAAAANZeVPvgq61o9ee+AFdrQ9LfjwAD`
+Snapshot ID: `aB3GNgAAAACiHmqoDd5AKgKNTJKFLZIW`

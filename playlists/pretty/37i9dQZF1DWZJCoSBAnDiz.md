@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 
 > Love & longing from Broadway's best & brightest\. Cover: Joy Woods in The Notebook on Broadway
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,848 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,861 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 | 49 | [Some Enchanted Evening](https://open.spotify.com/track/5CUSuYgUovrP4NAUc2UrLH) | [Paulo Szot](https://open.spotify.com/artist/7n4vesyceAKM34owxRDcVt) | [South Pacific \(New Broadway Cast Recording \(2008\)\)](https://open.spotify.com/album/1FDBiOMTfadi88X2jtcArB) | 2:57 |
 | 50 | [You'll Never Walk Alone](https://open.spotify.com/track/5G4ckwbyPVeeyyeIXsiqJ5) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 2:53 |
 
-Snapshot ID: `ZmyqdAAAAAAsVagLKPVyeArlLoGJhKa7`
+Snapshot ID: `AAAAAOF6C4XkMssAvg5CBhZMWEcYKqgT`

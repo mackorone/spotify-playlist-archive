@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 Teo LB & L\-Gante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,399 likes - 102 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,430 likes - 102 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

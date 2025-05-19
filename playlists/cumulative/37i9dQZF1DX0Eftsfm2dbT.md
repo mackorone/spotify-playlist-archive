@@ -2,9 +2,9 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> POP YOURS開催まであと6日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JP THE WAVY
+> POP YOURS開催まであと5日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: NENE
 
-1,635 songs - 3 day 11 hr 30 min
+1,636 songs - 3 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [I Go](https://open.spotify.com/track/1ay4woTlMEut2QJ6f3j1j2) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Just Do It](https://open.spotify.com/album/2D0uq1J0YyaD0INIazzGdR) | 2:26 | 2024-08-21 | 2024-08-28 |
 | [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 | 2025-04-29 |  |
 | [I Know You](https://open.spotify.com/track/27NbjcreI0jVyHMpBiXtm1) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [I Know You](https://open.spotify.com/album/0ZgxRRsipMaf2JWzkLG7I1) | 2:08 | 2024-09-24 | 2024-10-05 |
-| [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2024-09-30 |  |
+| [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2024-09-30 | 2025-05-19 |
 | [I Wanna Be Rich](https://open.spotify.com/track/2cy2jcLZ6I8O6g1Ep36j6E) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [X\-FACTOR 3](https://open.spotify.com/album/5KnOyCLJHa2Tag5kZYUk1v) | 2:29 | 2025-01-30 | 2025-04-16 |
 | [I&I](https://open.spotify.com/track/6gExdJSBCQWalHneNf2QLt) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [LYNN](https://open.spotify.com/artist/1JFuaT59kkQV8nNgsESbnA) | [Between Forever and a Moment](https://open.spotify.com/album/70OR8KC6G8dlPmD3Aq9ddf) | 1:57 | 2024-09-24 | 2024-10-05 |
 | [I'm so high](https://open.spotify.com/track/4rbX1cgXUDlQ0AEBTKB6Hz) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [K\-nice](https://open.spotify.com/artist/5nvn3gfRWLq9Ndfm69XBS6) | [O.B.S 10](https://open.spotify.com/album/3MToBsh7uqlVCkJQNwlA9V) | 3:02 | 2024-07-23 | 2024-08-07 |
@@ -1511,6 +1511,7 @@
 | [オレたちが気になる](https://open.spotify.com/track/5uk6OoObDUbDbvsbfVKlnu) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/6SNvmlEdCEpJgUMGOiCokh) | 3:23 | 2023-12-20 | 2023-12-23 |
 | [カナデ](https://open.spotify.com/track/12f1Jpu5Xrcl7JVwmAf1uz) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [カナデ](https://open.spotify.com/album/6rvvgIw4mLNYG6M4xE49Vn) | 4:23 | 2023-11-28 | 2024-01-31 |
 | [カリスマ](https://open.spotify.com/track/5UFg1r0PEjZ3KN4lhN89TK) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-02-12 | 2025-03-18 |
+| [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 | 2025-05-18 |  |
 | [キミは僕](https://open.spotify.com/track/12PVe4gkPEYQNLQQymQIbU) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [キミは僕](https://open.spotify.com/album/35EcbOyflIhCuOoJeB8fjI) | 3:16 | 2024-04-09 | 2024-05-08 |
 | [コンクリートサバンナ](https://open.spotify.com/track/76fLF0kLJ0mV7xTQqUHQZy) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc) | [コンクリートサバンナ](https://open.spotify.com/album/3IFfDQyuO9RYAv3Zk4ZNOE) | 3:16 | 2024-08-28 | 2024-09-11 |
 | [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 | 2024-02-06 | 2024-02-08 |

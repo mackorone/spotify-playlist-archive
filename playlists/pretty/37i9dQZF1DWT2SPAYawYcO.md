@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Rihanna, Morgan Wallen, Tate McRae, Cyril, Linkin Park, Dom Dolla + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,169 likes - 114 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,186 likes - 114 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

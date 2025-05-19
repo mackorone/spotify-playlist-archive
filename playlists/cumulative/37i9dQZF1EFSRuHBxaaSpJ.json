@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "29/03/25",
+        "url": "https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG"
+      },
+      "artists": [
+        {
+          "name": "Eliias",
+          "url": "https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392423,
+      "name": "fade up",
+      "url": "https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z"
+    },
+    {
+      "album": {
         "name": "FADE UP",
         "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
       },

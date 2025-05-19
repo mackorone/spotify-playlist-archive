@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,666,203 likes - 140 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666,549 likes - 140 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 139 | [Lucky](https://open.spotify.com/track/0QASzWME81nAbhjV1Tdjie) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Love Life](https://open.spotify.com/album/5SIj1XbgMnWPAbBSJ9nii4) | 2:50 |
 | 140 | [Hello People](https://open.spotify.com/track/0ZG9iIsbVacqjyQNnrCosi) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Two Eyes](https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3) | 3:26 |
 
-Snapshot ID: `AAAAAGZ62ZobKdhoXFEhPWfN1P/WWVkf`
+Snapshot ID: `Z9n+4wAAAABbSSJzt/JOL9wK+5L4nJDZ`

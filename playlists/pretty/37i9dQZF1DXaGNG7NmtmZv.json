@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 234719,
+  "num_followers": 234729,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "From Bliss To Devestation",
         "url": "https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Start Today",
-        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
       },
       "artists": [
         {
-          "name": "Gorilla Biscuits",
-          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
         }
       ],
-      "duration_ms": 123706,
-      "name": "Start Today",
-      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -187,22 +171,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -219,6 +187,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Biscuits",
+          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
+        }
+      ],
+      "duration_ms": 123706,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Give Blood",
         "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
       },
@@ -231,6 +215,38 @@
       "duration_ms": 157213,
       "name": "Some Came Running",
       "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -267,22 +283,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Let's Pretend",
-      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Wake The Dead",
         "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Neutralize the Threat",
-        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Total War",
-      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Vision of Disorder",
         "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
@@ -343,22 +327,6 @@
       "duration_ms": 193066,
       "name": "Element",
       "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Friendship Loyalty Commitment",
-        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
-      },
-      "artists": [
-        {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "Over the Years",
-      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -379,18 +347,34 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+        "name": "Neutralize the Threat",
+        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
       },
       "artists": [
         {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+      "duration_ms": 218773,
+      "name": "Total War",
+      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Friendship Loyalty Commitment",
+        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
+      },
+      "artists": [
+        {
+          "name": "25 Ta Life",
+          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "Over the Years",
+      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -407,6 +391,22 @@
       "duration_ms": 181226,
       "name": "Break Through It All",
       "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Words in Ink Don't Lie",
-        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
-      },
-      "artists": [
-        {
-          "name": "Endicott",
-          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Ransom Note",
-      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "1991-2001 (Forever True)",
         "url": "https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Words in Ink Don't Lie",
+        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
+      },
+      "artists": [
+        {
+          "name": "Endicott",
+          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Ransom Note",
+      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Few and Far Between",
         "url": "https://open.spotify.com/album/3Iq1fBUENsQ2PBGZ7MFvoh"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 172426,
       "name": "Few and Far Between",
       "url": "https://open.spotify.com/track/3DNCnnOLmDRtm3WHId4Gib"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Gomorrah's Season Ends",
+        "url": "https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Gomorrah's Season Ends",
+      "url": "https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -747,6 +763,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Get It Away",
         "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Gomorrah's Season Ends",
-        "url": "https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Gomorrah's Season Ends",
-      "url": "https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Manic Compression",
         "url": "https://open.spotify.com/album/2C26LLKc9asNxs9uXDyt9Q"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 156693,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/2H7ECJNsqQDxOlisHd5n6k"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Death Knows Your Name",
-        "url": "https://open.spotify.com/album/0Q0PHWclqhQgGXUVr5Y6u5"
-      },
-      "artists": [
-        {
-          "name": "The Hope Conspiracy",
-          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/7z6t9FzbkML9y9iIxqqldr"
     }
   ],
   "unique_name": "Classic Hardcore",

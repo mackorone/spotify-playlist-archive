@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,663 likes - 100 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,894 likes - 100 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Holy Spirit](https://open.spotify.com/track/5G80Slm9gl5Y372d0suB05) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Holy Spirit](https://open.spotify.com/album/6sBgLVd4wshumVIIZJmEL5) | 3:43 |
 | 100 | [Able God](https://open.spotify.com/track/4CkDjy3zvHHDNm51joKmst) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Able God](https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa) | 3:33 |
 
-Snapshot ID: `aCaAXQAAAAAZ1awJEz4ATjiTDJLqDnzg`
+Snapshot ID: `AAAAAIpmK/NLUQRzqG0FXDD9MZtv7LkZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap e a música urbana em 2024\. Foto: Plutonio
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,864 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,863 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 8 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
 | 9 | [Aqui Comigo](https://open.spotify.com/track/3VLwWKNmVfbyV6houYL229) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Aqui Comigo](https://open.spotify.com/album/4Hn59yama1JP12NLh1gSH1) | 3:05 |
 | 10 | [Picareta](https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Picareta](https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3) | 2:43 |
-| 11 | [Ninguém Entende Nada \(with Teto & MC PH\)](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada \(with Teto & MC PH\)](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:16 |
+| 11 | [Ninguém Entende Nada \(feat\. Teto & MC PH\)](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada \(feat\. Teto & MC PH\)](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:16 |
 | 12 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 13 | [Habibi](https://open.spotify.com/track/31w82iq7jsYmPAsM8YChIy) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:24 |
 | 14 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |

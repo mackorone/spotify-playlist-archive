@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> POP YOURS開催まであと6日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JP THE WAVY
+> POP YOURS開催まであと5日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: NENE
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,181 likes - 83 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,210 likes - 83 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 |
+| 1 | [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 |
 | 2 | [SAYSUM \(feat\. KID FRESINO\)](https://open.spotify.com/track/0pMnHmEcgZSRHsvdV6aAnI) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [N.I.T.O.](https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1) | 3:26 |
 | 3 | [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 |
 | 4 | [PAGE ONE](https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [PAGE ONE](https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ) | 3:19 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 82 | [Hey phone](https://open.spotify.com/track/11S58dYnSjkWPD6jLaBRv7) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [Hey phone](https://open.spotify.com/album/42eD73zTg3bdNE6nqoBzI0) | 3:24 |
 | 83 | [Malibu Dream](https://open.spotify.com/track/4rV3DodIA50w1WD1htetJr) | [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt) | [Malibu Dream](https://open.spotify.com/album/78jG62eaDLVSD2hQnz5gXP) | 2:31 |
 
-Snapshot ID: `aCikjgAAAADAU6THTyTHxYtM4faa+XRE`
+Snapshot ID: `aCn2EAAAAABJV8hOPYIze4WueOoIF61z`

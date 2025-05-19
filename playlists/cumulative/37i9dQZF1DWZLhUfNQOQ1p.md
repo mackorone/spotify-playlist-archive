@@ -2,7 +2,7 @@
 
 ### [Aperitivo Time](https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p)
 
-> Musica da ascoltare con un drink in mano\. 🍹
+> Musica da ascoltare con un drink in mano 🍹
 
 425 songs - 1 day 4 hr 40 min
 

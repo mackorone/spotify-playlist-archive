@@ -4,7 +4,7 @@
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-124 songs - 4 hr 45 min
+125 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [The Way It Was](https://open.spotify.com/track/3J86RRNATHA6dlL9mctyi4) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:31 | 2023-01-30 | 2023-03-02 |
 | [There Is No Girl](https://open.spotify.com/track/54Ybc5gEmC1Vdm2hqazAr1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:05 | 2023-03-01 |  |
 | [Through the Valley](https://open.spotify.com/track/7fy6O1FnOQb4rKRFX9DbLy) | [Ashley Johnson](https://open.spotify.com/artist/4Th8ot6JTBxri6CBIkHCAU), [Chris Rondinella](https://open.spotify.com/artist/6FnsD5PJTFEnFKYhMQEXLQ) | [The Last of Us Part II: Covers and Rarities](https://open.spotify.com/album/2SOJkkY1edgKG56QAGXerh) | 3:13 | 2025-04-21 |  |
+| [Through the Valley](https://open.spotify.com/track/6YowAxI2HIbhAwumOqpldE) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [Shadows](https://open.spotify.com/album/2xOSOv33mT55CRz3uhmmtg) | 3:40 | 2025-05-19 |  |
 | [Tomorrow](https://open.spotify.com/track/1T0Dv84b0Za7FoLcoeajgh) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:48 | 2023-01-30 |  |
 | [True Faith](https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 4:42 | 2023-02-06 |  |
 | [Unbroken](https://open.spotify.com/track/7ddxMpUel8jS2mUuegnhfC) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:28 | 2023-03-01 |  |

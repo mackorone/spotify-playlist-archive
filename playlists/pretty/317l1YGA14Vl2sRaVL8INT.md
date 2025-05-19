@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > It’s pop punk, it’s the best \. Your ultimate v\-day / anti v\-day playlist.
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,568 likes - 173 songs - 9 hr 41 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,566 likes - 173 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

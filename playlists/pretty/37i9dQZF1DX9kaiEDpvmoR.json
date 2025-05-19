@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93356,
+  "num_followers": 93352,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Enough Is Enough",
-        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 283480,
       "name": "Sweethearts",
       "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 212858,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2025",
         "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 209610,
       "name": "Bl\u00e5jeans och stj\u00e4rnljus",
       "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 212858,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Alphabet City Songs (Lost and Found Album)",
-        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
+        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
       },
       "artists": [
         {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
         }
       ],
-      "duration_ms": 235705,
-      "name": "East River Park Song",
-      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
+      "duration_ms": 213774,
+      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
-      },
-      "artists": [
-        {
-          "name": "Nationalteatern",
-          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
-        }
-      ],
-      "duration_ms": 213774,
-      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "Uteblivna vi",
         "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "It's a love cult!",
-        "url": "https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi"
+        "name": "Alphabet City Songs (Lost and Found Album)",
+        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
       },
       "artists": [
         {
-          "name": "Friska Viljor",
-          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
         }
       ],
-      "duration_ms": 174400,
-      "name": "It's a love cult!",
-      "url": "https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6"
+      "duration_ms": 235705,
+      "name": "East River Park Song",
+      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -775,18 +759,18 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+        "name": "It's a love cult!",
+        "url": "https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi"
       },
       "artists": [
         {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+          "name": "Friska Viljor",
+          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
         }
       ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
+      "duration_ms": 174400,
+      "name": "It's a love cult!",
+      "url": "https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -819,6 +803,22 @@
       "duration_ms": 189593,
       "name": "En sommar utan dig",
       "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
-        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Han lever (Himmelsf\u00e4rden)",
-      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "What I'm Running From",
         "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 227654,
       "name": "What I'm Running From",
       "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
+        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Han lever (Himmelsf\u00e4rden)",
+      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -931,6 +931,22 @@
       "duration_ms": 172838,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "R\u00e4dd f\u00f6r hundar",
+        "url": "https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 251362,
+      "name": "R\u00e4dd f\u00f6r hundar",
+      "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -975,6 +991,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Dagar utan slut",
+        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
+      },
+      "artists": [
+        {
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "Dagar utan slut",
+      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "Allting som vi har",
         "url": "https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY"
       },
@@ -991,22 +1023,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "R\u00e4dd f\u00f6r hundar",
-        "url": "https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 251362,
-      "name": "R\u00e4dd f\u00f6r hundar",
-      "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "Just idag \u00e4r jag stark",
         "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 206800,
       "name": "Just idag \u00e4r jag stark",
       "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Dagar utan slut",
-        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
-      },
-      "artists": [
-        {
-          "name": "Andreas Weise",
-          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
-        }
-      ],
-      "duration_ms": 162332,
-      "name": "Dagar utan slut",
-      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "It\u2019s Time",
-        "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
-      },
-      "artists": [
-        {
-          "name": "Maskinisten",
-          "url": "https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR"
-        }
-      ],
-      "duration_ms": 226738,
-      "name": "It\u2019s Time",
-      "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "BRA",
         "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 246761,
       "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
       "url": "https://open.spotify.com/track/2UpJkYhDzt8HQk6i6Z77w8"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "It\u2019s Time",
+        "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
+      },
+      "artists": [
+        {
+          "name": "Maskinisten",
+          "url": "https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR"
+        }
+      ],
+      "duration_ms": 226738,
+      "name": "It\u2019s Time",
+      "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Seven Days Of Heaven",
-        "url": "https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 215504,
-      "name": "Seven Days Of Heaven",
-      "url": "https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "\u00c4rligt misstag",
         "url": "https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Seven Days Of Heaven",
+        "url": "https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 215504,
+      "name": "Seven Days Of Heaven",
+      "url": "https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "R\u00e4dda mig (Akustisk Version)",
         "url": "https://open.spotify.com/album/5iEmiVCOdySnVIodNOe2Xt"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 189250,
       "name": "R\u00e4dda mig - Akustisk Version",
       "url": "https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
-        "name": "Back To The Sea",
-        "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Back To The Sea",
-      "url": "https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq"
     },
     {
       "added_at": "2025-05-15 22:00:33",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
+        "name": "Back To The Sea",
+        "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Back To The Sea",
+      "url": "https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
         "name": "High When You Hold Me",
         "url": "https://open.spotify.com/album/132pqgouof5WFyqFKNBgYV"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-05-15 22:00:33",
       "album": {
-        "name": "Vita Skelett",
-        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 183086,
-      "name": "Spartas Svarta Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
-    },
-    {
-      "added_at": "2025-05-15 22:00:33",
-      "album": {
         "name": "H\u00e4lften av han",
         "url": "https://open.spotify.com/album/5YQBLNQ1OT9pbLlw2aiJXY"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 272980,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4"
+    },
+    {
+      "added_at": "2025-05-15 22:00:33",
+      "album": {
+        "name": "Vita Skelett",
+        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 183086,
+      "name": "Spartas Svarta Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
     },
     {
       "added_at": "2025-05-15 22:00:33",

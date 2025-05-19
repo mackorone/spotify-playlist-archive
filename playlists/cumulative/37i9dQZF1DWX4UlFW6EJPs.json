@@ -2095,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/2xOSOv33mT55CRz3uhmmtg"
+      },
+      "artists": [
+        {
+          "name": "Shawn James",
+          "url": "https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220248,
+      "name": "Through the Valley",
+      "url": "https://open.spotify.com/track/6YowAxI2HIbhAwumOqpldE"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },

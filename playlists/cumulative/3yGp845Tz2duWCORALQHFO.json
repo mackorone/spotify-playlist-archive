@@ -20017,6 +20017,24 @@
     },
     {
       "album": {
+        "name": "GET DOWN",
+        "url": "https://open.spotify.com/album/4TP5Xz09u8deoaoAyaU1Ml"
+      },
+      "artists": [
+        {
+          "name": "ALAN BAZE",
+          "url": "https://open.spotify.com/artist/4HxZSS80MKQhfcbFesdBCO"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "GET DOWN",
+      "url": "https://open.spotify.com/track/6Rjz69s1hSMWql72wwn0qH"
+    },
+    {
+      "album": {
         "name": "Get Freaky",
         "url": "https://open.spotify.com/album/0TgsScAIqUzIiT1756XDDk"
       },
@@ -26250,6 +26268,28 @@
       "duration_ms": 185409,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/5e0xqkvBHhN4gXhmaUFPax"
+    },
+    {
+      "album": {
+        "name": "If You're Free (Say So)",
+        "url": "https://open.spotify.com/album/4W3qVg8gzgspKwFHv46k4D"
+      },
+      "artists": [
+        {
+          "name": "Sound On Tape",
+          "url": "https://open.spotify.com/artist/0PFzg6epjb7qfSxcmpVzcv"
+        },
+        {
+          "name": "Lady Bri",
+          "url": "https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268283,
+      "name": "If You're Free (Say So)",
+      "url": "https://open.spotify.com/track/0ADrLSKM15xhY9akV1Qm5k"
     },
     {
       "album": {

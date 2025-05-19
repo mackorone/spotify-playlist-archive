@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,411 songs - 7 day 11 hr 46 min
+3,412 songs - 7 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 | 2023-10-28 | 2023-11-22 |
 | [ALL MY FELLAS](https://open.spotify.com/track/4L19kkt7TytOv3YBAxiHkA) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/46HTJ6Xxm5Gcm3YRjHxG5G) | 2:21 | 2023-11-15 | 2023-11-19 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:43 | 2023-06-06 | 2023-06-21 |
+| [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-05-18 |  |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-04-11 | 2023-04-19 |
 | [All The Mountains Are High](https://open.spotify.com/track/0Nk21PfD8qsheZOk14wZrV) | [Zé da Timba e Zé Latinha](https://open.spotify.com/artist/4eTHZRzyotLEIU3GbyonDI) | [All The Mountains Are High](https://open.spotify.com/album/7zdQmkFuR9mgtiHo2CVf6H) | 2:48 | 2022-01-17 | 2022-01-26 |
 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 | 2023-09-26 | 2023-09-29 |
@@ -2327,7 +2328,7 @@
 | [Passarinho](https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Passarinho](https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa) | 2:37 | 2023-07-04 | 2023-07-15 |
 | [Passe Livre](https://open.spotify.com/track/3UBt3hcQDzqi3MB4V5AzGH) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Passe Livre](https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd) | 2:53 | 2023-03-28 | 2023-04-19 |
 | [Passinho do Lula Livre](https://open.spotify.com/track/3H1ryMuJhgOCNx5e640u7L) | [KONG](https://open.spotify.com/artist/2sUUeYWv54N5yOBwgNor6U), [Mano Neto](https://open.spotify.com/artist/3S1JlDW2aGJBIazYQQYxgG) | [Passinho do Lula Livre \(Brega Funk\)](https://open.spotify.com/album/08PzeVAinjZyDgDTYWMuXo) | 2:14 | 2022-10-03 | 2022-10-11 |
-| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY) | 1:56 | 2025-04-24 |  |
+| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY) | 1:56 | 2025-04-24 | 2025-05-19 |
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-03-11 | 2025-04-25 |
 | [Past Lives](https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [Past Lives](https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8) | 2:33 | 2023-05-05 | 2023-05-11 |
 | [Patrai](https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB) | [Patrai](https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0) | 1:53 | 2024-08-31 | 2024-09-04 |

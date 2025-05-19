@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥🔥 <br/> مع <a href="https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=lljPMkV7SN6q4\_PzBeTK8w"> اسلام كابونجا    </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,552 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,862 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

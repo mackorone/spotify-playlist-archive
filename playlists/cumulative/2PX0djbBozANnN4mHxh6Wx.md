@@ -2,9 +2,9 @@
 
 ### [Frutiger Aero 🌿🌐](https://open.spotify.com/playlist/2PX0djbBozANnN4mHxh6Wx)
 
-> Playlist artwork by @mun15h on Instagram
+> Playlist artwork by: @mun15h on Instagram
 
-545 songs - 1 day 8 hr 48 min
+546 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [glimglim](https://open.spotify.com/track/6dfPq6DR3qjaouqv7l9Ga4) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [opa\*q](https://open.spotify.com/album/42RdCJe0j7WBcgRTpmtdc2) | 7:23 | 2023-10-26 |  |
 | [Go Kitty Go](https://open.spotify.com/track/1X89G6NxLeb0TvGejyHgkX) | [dancing cats](https://open.spotify.com/artist/4AAek7eO022T4AjiibppJn) | [Go Kitty Go](https://open.spotify.com/album/4eQR8146pg1ncSDgRU4b6a) | 1:17 | 2023-10-26 |  |
 | [go kitty go \(original\)](https://open.spotify.com/track/2X7PfPaONKCpdWV4grNAiH) | [donna](https://open.spotify.com/artist/2DUGRnsJonpuu7QthiZkbD) | [go kitty go \(original\)](https://open.spotify.com/album/2oNMWolpenVebQCcuu2DU9) | 1:17 | 2023-05-09 |  |
+| [Goldfish](https://open.spotify.com/track/1NFe4G9G9hMhKrbfVzmcRh) | [HUNK](https://open.spotify.com/artist/1Et5MQj7bL3VRAXMYgShL1) | [Goldfish](https://open.spotify.com/album/5TybGjnxixsjTFGmJC7Y0E) | 3:00 | 2025-05-18 |  |
 | [Goodbye My Sweet Strawberry](https://open.spotify.com/track/0JwH4D9l5Y249ljUMLmJOV) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [Ochamekan](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 4:46 | 2023-10-26 |  |
 | [Gotham Love](https://open.spotify.com/track/76o3swrJKdlvBCm8PRbCYE) | [BAKGROUND](https://open.spotify.com/artist/3ZKoKSGZu4rDSFXmS6loHK) | [LT\-GLOBE\-XXX](https://open.spotify.com/album/0NkJBdBTfMpC2CatYMcuBH) | 4:33 | 2023-10-26 |  |
 | [Graceful Serenity](https://open.spotify.com/track/0vxZgI9aBz4to8vdECMZUe) | [Jarren Crist](https://open.spotify.com/artist/5BzOL3EXQhDQ8DyjyttgIS) | [Lost in Vivo \(Original Game Soundtrack\)](https://open.spotify.com/album/2CVaQtS1hlWU4tnRIM9WSu) | 2:34 | 2023-10-26 |  |
@@ -387,7 +388,7 @@
 | [Running out of Space](https://open.spotify.com/track/06qKv0Ur7npCPhyf5puka9) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 1:54 | 2023-05-09 |  |
 | [s950tx16wasr10 \[163.97\]\[earth portal mix\]](https://open.spotify.com/track/15ZaYGb2LMTuvVCPD3R7fD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 6:01 | 2023-05-09 |  |
 | [SABBATH](https://open.spotify.com/track/5KIsDyARyMysnhpg8H2Nix) | [川越 好博](https://open.spotify.com/artist/1QgZZOURB9MzrT71QVlRxF) | [SONG OF SAYA Original Soundtrack](https://open.spotify.com/album/7pCqYl9O2saXIjKexHKsbN) | 2:20 | 2023-10-26 |  |
-| [Saddam Fed Birds While Jailed](https://open.spotify.com/track/49nopGpVpjRaxq4FhVEuZz) | [Satanicpornocultshop](https://open.spotify.com/artist/3efTLFzg1ojUw3xePQhlWK) | [Arkhaiomelisidonophunikheratos](https://open.spotify.com/album/3Sb2zffOmDnzLhDrMboXAq) | 4:09 | 2023-05-09 |  |
+| [Saddam Fed Birds While Jailed](https://open.spotify.com/track/49nopGpVpjRaxq4FhVEuZz) | [Satanicpornocultshop](https://open.spotify.com/artist/3efTLFzg1ojUw3xePQhlWK) | [Arkhaiomelisidonophunikheratos](https://open.spotify.com/album/3Sb2zffOmDnzLhDrMboXAq) | 4:09 | 2023-05-09 | 2025-05-19 |
 | [Salsa Verde](https://open.spotify.com/track/6Fcm1BLS0sVdW9j6Uuq6N7) | [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Saccharine Synergy](https://open.spotify.com/album/6G6VszJ18qwI3AFwOO9h6R) | 3:36 | 2023-05-09 |  |
 | [Sandstorm](https://open.spotify.com/track/3dxDj8pDPlIHCIrUPXuCeG) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm](https://open.spotify.com/album/5GnRROSFWQhuxfDkyBALGb) | 3:45 | 2023-05-09 |  |
 | [Satellite Anthem Icarus](https://open.spotify.com/track/6pxWghcPKRSjZPj8Ba9vpB) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 6:04 | 2023-05-09 |  |

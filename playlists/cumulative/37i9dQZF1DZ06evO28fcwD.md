@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-169 songs - 11 hr 25 min
+170 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Kanye Nawe Nkosi Yami](https://open.spotify.com/track/4iPuOwtCMMdmS9uMbYxzKQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Phezulu Emafini](https://open.spotify.com/album/7e0fvDV53JrLBNXTlfeB6O) | 2:40 | 2022-10-09 | 2022-10-13 |
 | [Kanye Nawe Nkosi Yami](https://open.spotify.com/track/5uTUUH8Xn7SCc4Bk7J0v6j) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Phezulu Emafini](https://open.spotify.com/album/3bvJ9qBG1oB9N6OgnZDB67) | 2:40 | 2022-11-14 | 2023-07-10 |
 | [King of Kings](https://open.spotify.com/track/24xmFCREF5JiqKBhLHqgKL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 4:07 | 2021-12-28 |  |
-| [Knockin' On Heaven's Door](https://open.spotify.com/track/3Tl8G365ENFoTQj25IGnAk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:42 | 2021-12-28 |  |
+| [Knockin' On Heaven's Door](https://open.spotify.com/track/3Tl8G365ENFoTQj25IGnAk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:42 | 2021-12-28 | 2025-05-19 |
+| [Knockin' on Heaven's Door](https://open.spotify.com/track/6oUuWLqoMd6ZCQJf6BQ10m) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:39 | 2025-05-19 |  |
 | [Lelilungelo Ngelakho](https://open.spotify.com/track/6ide03N57y59RaaGCqlelJ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Izigqi Zendoda](https://open.spotify.com/album/6gbef5MDVDy0cSHReqQBxx) | 3:35 | 2024-05-29 |  |
 | [Lift Me Up \(feat\. Nico & Vinz, Ladysmith Black Mambazo\)](https://open.spotify.com/track/2YgD8aDme4OP5kPIp7PCZy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Nico Sereba](https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ), [Vincent "Vinzy V" Dery](https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:58 | 2023-11-10 |  |
 | [Lift Me Up \(feat\. Nico & Vinz, Ladysmith Black Mambazo\)](https://open.spotify.com/track/3ThZ0ORqBXiQvCyPpPRDhb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Nico Sereba](https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ), [Vincent "Vinzy V" Dery](https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:58 | 2023-08-27 | 2023-09-10 |

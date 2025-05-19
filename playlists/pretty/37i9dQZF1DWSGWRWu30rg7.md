@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:Fajar Noor
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,958 likes - 106 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,959 likes - 106 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

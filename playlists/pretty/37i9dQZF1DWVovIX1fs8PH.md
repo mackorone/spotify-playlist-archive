@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain]
 
 > From "Circle of Life" to "Hakuna Matata", listen to all the songs from The Lion King, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,701 likes - 97 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,816 likes - 97 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain]
 | 96 | [Simba Confronts Scar](https://open.spotify.com/track/5muqOIk1UvjJcFU8SGWyPY) | [Robert Elhai](https://open.spotify.com/artist/3srL75plWSkeBCb2bz12qB), [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Lion King: Original Broadway Cast Recording](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) | 2:25 |
 | 97 | [King Of Pride Rock / Circle Of Life \(Reprise\)](https://open.spotify.com/track/5VXK5RWRg2wxt4hglMXVBZ) | [Heather Headley](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0), [Jason Raize](https://open.spotify.com/artist/7wtyPvLmy8LAf2CO0Xwy4p), [Tsidii Le Loka](https://open.spotify.com/artist/478Cvh1XjJiURpkqbM23SV), [Max Casella](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8), [Tom Alan Robbins](https://open.spotify.com/artist/25X8ispTOFwbyfJEpkGh50), [Ensemble \- The Lion King](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Geoff Hoyle](https://open.spotify.com/artist/1amAcZpoesNgBsGypTU6qs) | [The Lion King: Original Broadway Cast Recording](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) | 3:22 |
 
-Snapshot ID: `Z+0mIgAAAADFFjHGbACluPqQEkbObXKv`
+Snapshot ID: `Z+0mIgAAAAA3017N58eLvk405XqmDh/i`

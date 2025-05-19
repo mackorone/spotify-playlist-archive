@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,496 likes - 15 songs - 49 min 26 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,498 likes - 15 songs - 49 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 8 | [Äitini](https://open.spotify.com/track/44fg7TECymqOmS93hnseo8) | [V.A\. Virtanen](https://open.spotify.com/artist/20HJjtdd3ZID9fydYiQlIB) | [Äitini](https://open.spotify.com/album/2tS00sypasiZiw4nQqIZmd) | 3:54 |
 | 9 | [Notre maison](https://open.spotify.com/track/61BgX9bPlnNcsn1wfciK5Y) | [Robert Tessier](https://open.spotify.com/artist/3zwPfTosf5l902HS2rxOiw) | [Notre maison](https://open.spotify.com/album/2n6Fyj8aTFyMWM2yxo8vkc) | 2:19 |
 | 10 | [Beneath the Weight of Silence](https://open.spotify.com/track/1y5wTfD88FXVIzIiKBFAId) | [Unseen Anima](https://open.spotify.com/artist/2fG8bbN0LCqkAa9hjpTHvD) | [Beneath the Weight of Silence](https://open.spotify.com/album/5o8xolVCcmkiuSsDFFUf3l) | 3:17 |
-| 11 | [Loving You](https://open.spotify.com/track/2n0mQ4I2ToLn1G5KVLyDKw) | [Nzuri Soulx](https://open.spotify.com/artist/00NpuUU0l7ElGOybkt8E93) | [Loving You](https://open.spotify.com/album/5inIqvdKAg3IVl0Z9CBugf) | 3:20 |
+| 11 | [Loving You](https://open.spotify.com/track/2n0mQ4I2ToLn1G5KVLyDKw) | [Nzuri Soul](https://open.spotify.com/artist/5l45C2Uh7oEvXto7rnSgos) | [Loving You](https://open.spotify.com/album/5inIqvdKAg3IVl0Z9CBugf) | 3:20 |
 | 12 | [Du spökar för mig](https://open.spotify.com/track/1MFW5wVToSMr21sbOsiUdV) | [Jonas Tilly](https://open.spotify.com/artist/4Xb58LELv57OvVpO0b04Pm), [Sara Pennerborn](https://open.spotify.com/artist/6llUR75zcJBHCDQHFsWDfu) | [Du spökar för mig](https://open.spotify.com/album/4kWVTvCEetdsHtUHh3j0Ac) | 2:27 |
 | 13 | [Ma bohème](https://open.spotify.com/track/25IhlVJRczZtSRK8pbKfhY) | [Robert Tessier](https://open.spotify.com/artist/3zwPfTosf5l902HS2rxOiw) | [Ma bohème](https://open.spotify.com/album/3Dqrxvukq4AI6LLpfBhYe3) | 1:49 |
 | 14 | [Sergels torg](https://open.spotify.com/track/5CxtqnqObj6uXdOcz62PlU) | [Tbaxtstan](https://open.spotify.com/artist/0HhFOkZCQMSTdUJ17hy4pm), [Wille Crafoord](https://open.spotify.com/artist/5c6gSK67nlUmsWBjCY8u7B), [Anna Rella](https://open.spotify.com/artist/2NMbITTdD9jOtcfRl1ZHfv) | [City](https://open.spotify.com/album/5F3q5q1O2p7jSsFkW4oxJx) | 3:48 |

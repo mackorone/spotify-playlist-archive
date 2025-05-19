@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 48053,
+  "num_followers": 48087,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCaAAAAAAAAfRFPAtdMbQWxj4OAcxY2d",
+  "snapshot_id": "aCfRgAAAAAASI5kxj0Hakrc8XS8v/YKf",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 272231,
       "name": "Lord and Friend",
       "url": "https://open.spotify.com/track/6EXKmDyKjkfZ2JzT9W1R8o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Them Fall In Love",
-        "url": "https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 227335,
-      "name": "Never Have to Be Alone",
-      "url": "https://open.spotify.com/track/4vqP4vqgzzSfMZr6E0KTmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 307484,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/7gx4IXabnni9Xx1XoPgMgf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Them Fall In Love",
+        "url": "https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 227335,
+      "name": "Never Have to Be Alone",
+      "url": "https://open.spotify.com/track/4vqP4vqgzzSfMZr6E0KTmf"
     },
     {
       "added_at": null,

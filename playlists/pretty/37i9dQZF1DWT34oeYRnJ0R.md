@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Clarent
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,748 likes - 200 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,727 likes - 200 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

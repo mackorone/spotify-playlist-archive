@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:1klmpKnfBdJkVqr94BnuOF"> Fancy Hagood </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,740 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,745 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 48 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
 | 49 | [Times Like SIS](https://open.spotify.com/track/4RIzISlyULa7Y6x3NEGlu2) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Times Like SIS](https://open.spotify.com/album/7D4u32E8pT1FwVjVfT0WqW) | 2:45 |
 
-Snapshot ID: `aBLxxgAAAAB85Zvikn64KdZ/AglaUy5S`
+Snapshot ID: `aBLxxgAAAADDBPBVmChtRLJCb3KMH8ny`

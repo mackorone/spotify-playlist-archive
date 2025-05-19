@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with ILLENIUM and HAYLA
 
-765 songs - 1 day 21 hr 41 min
+766 songs - 1 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-07-08 | 2024-07-27 |
 | [Buried A Friend](https://open.spotify.com/track/5ZhyNIBz6tJUxL6A2E7nbw) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Buried A Friend](https://open.spotify.com/album/7BRD5KahFIJRbGRBdWEo3V) | 2:54 | 2025-04-11 |  |
 | [Butterfly](https://open.spotify.com/track/43Ch2eVId5xoG1PIGt0tr3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Butterfly](https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv) | 2:53 | 2022-10-28 | 2023-06-16 |
+| [By My Side](https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3), [Janet Tung](https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB) | [By My Side](https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0) | 3:39 | 2025-05-16 |  |
 | [By Myself](https://open.spotify.com/track/4aN8bSBmzrsiKJYkEOU07w) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Future Unfold](https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa) | 3:03 | 2024-04-19 | 2024-05-26 |
 | [Call It Quits \(feat\. Danni Carra\)](https://open.spotify.com/track/7p8xp2DvUrnM6H9U4wAV7I) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Squired](https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Call It Quits \(feat\. Danni Carra\)](https://open.spotify.com/album/735ZTy17ECMFUje6WSi3tS) | 3:42 | 2022-07-08 | 2022-07-29 |
 | [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI) | 4:53 | 2022-09-02 | 2024-07-27 |
@@ -350,7 +351,7 @@
 | [I Need You](https://open.spotify.com/track/1Y3kQNV8sYztW5bk5JmyfC) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Need You](https://open.spotify.com/album/3PWVOWAXx1wVNMK5ETYnl3) | 3:39 | 2023-02-17 | 2024-02-07 |
 | [I See You](https://open.spotify.com/track/4qZKbdjSpya22ciSIz15GJ) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I See You](https://open.spotify.com/album/5j9rJDPD12jdwoL5SfYuIr) | 3:29 | 2025-02-14 |  |
 | [I Tried](https://open.spotify.com/track/2Cx1hvG8fHTaiaYqX9yRnC) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [I Tried](https://open.spotify.com/album/6kMJ2eO1OCzzCNf8ZMw2e2) | 3:23 | 2022-07-08 | 2022-07-28 |
-| [I Wanna Know](https://open.spotify.com/track/76Fq9a7tnVhQ13C8bfqJ2g) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Unity](https://open.spotify.com/album/5JIpX5UWCjxFOVDKOCqt92) | 3:13 | 2024-02-09 |  |
+| [I Wanna Know](https://open.spotify.com/track/76Fq9a7tnVhQ13C8bfqJ2g) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Unity](https://open.spotify.com/album/5JIpX5UWCjxFOVDKOCqt92) | 3:13 | 2024-02-09 | 2025-05-19 |
 | [I Would Never](https://open.spotify.com/track/326nNqs0vqJ96Tr4FZBSt1) | [Pushing Daizies](https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf) | [Initium](https://open.spotify.com/album/7a7YloJDEqVN6sSGmZqgdV) | 3:22 | 2022-07-08 | 2023-12-14 |
 | [I Would Never](https://open.spotify.com/track/3YkUKoKBZuqnVCAOsyeDav) | [Pushing Daizies](https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf) | [Initium](https://open.spotify.com/album/0Kn3RLVSrTdie6ylMAMSeT) | 3:22 | 2023-12-15 | 2024-04-19 |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-21 | 2024-02-25 |

@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Ya La Veo Dificil",
+        "url": "https://open.spotify.com/album/5877O9By2tixY4SVA2vS7T"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Azabache",
+          "url": "https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170605,
+      "name": "Ya La Veo Dificil",
+      "url": "https://open.spotify.com/track/6sugv8lSlcNzR8bHTkwcH5"
+    },
+    {
+      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },

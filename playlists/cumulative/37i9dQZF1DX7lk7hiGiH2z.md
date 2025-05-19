@@ -4,7 +4,7 @@
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-459 songs - 21 hr 30 min
+460 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Gummistiefeltango](https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq) | [Tom der Trommler](https://open.spotify.com/artist/6pyjBaoOmmBG41Zbj2emTK) | [02/Tom der Trommler entdeckt Klangschätze zu Hause](https://open.spotify.com/album/33heYhkG3yNTUFQWnxD2SQ) | 2:09 | 2023-08-31 | 2024-11-08 |
 | [Gute Zeit](https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Dokter Renz](https://open.spotify.com/artist/3NGeF5HzunPNb9up8qcYWD), [Ylvie, Jona, Klara](https://open.spotify.com/artist/4SGCMuC7b8RPmOUjLY3KMW) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:41 | 2023-11-14 | 2025-02-27 |
 | [Hakuna Matata](https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t) | [voXXclub](https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 3:34 | 2023-06-28 | 2024-11-08 |
+| [Hallihallo, lieber Frühling](https://open.spotify.com/track/4nSdquBYRb98DekxpK36Yc) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Hallihallo, lieber Frühling](https://open.spotify.com/album/6DTUuZJK5Cyc6rkdv78dha) | 1:40 | 2025-04-23 |  |
 | [Hallo Herbst](https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Herbst](https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s) | 2:43 | 2023-08-31 | 2024-11-08 |
 | [Halloween](https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV) | [GroßstadtEngel](https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG) | [Halloween](https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL) | 3:33 | 2024-10-21 | 2024-11-05 |
 | [Halloween Dance Party](https://open.spotify.com/track/1546dG78My4z98gAks35wg) | [Halloween Dance Party](https://open.spotify.com/artist/6Pa5h9zlhe0wliI43yELGl) | [Halloween Dance Party](https://open.spotify.com/album/7DkBboIbHq3tZHYzcrcbjj) | 1:52 | 2023-10-30 | 2024-11-05 |
@@ -318,7 +319,7 @@
 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 | 2024-09-10 |
 | [Na ja hier](https://open.spotify.com/track/7wMAqMvur9U3tu8ehXFTBx) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Na ja hier](https://open.spotify.com/album/46lcermXoMDRJUwUp7DlSy) | 2:52 | 2025-02-27 | 2025-03-06 |
 | [Na na na, alle springen](https://open.spotify.com/track/0tc9YjBkGgCLJh841o2LLZ) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Na na na, alle springen](https://open.spotify.com/album/4UanPAS7Od7zKPYJtOIv0B) | 2:46 | 2025-02-27 | 2025-03-06 |
-| [Nach draußen gehn](https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [herrH ist da! \- Das Album](https://open.spotify.com/album/4CM8QXMOVoPvWLtI1Rhm5h) | 3:13 | 2025-03-06 |  |
+| [Nach draußen gehn](https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [herrH ist da! \- Das Album](https://open.spotify.com/album/4CM8QXMOVoPvWLtI1Rhm5h) | 3:13 | 2025-03-06 | 2025-05-19 |
 | [Nashorn, Elefant und Krokodil](https://open.spotify.com/track/5cQNy7KyFxGsDInu8BSiK4) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Meine schönsten Kinderlieder](https://open.spotify.com/album/0mp4ghkBj93qT153RhwnLa) | 2:17 | 2024-02-10 | 2025-03-06 |
 | [Nikolaus, Nikolaus](https://open.spotify.com/track/5m2iD9ImK5TxjScasHLo9H) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Weckt den Weihnachtsmann](https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H) | 2:24 | 2023-11-14 | 2024-12-31 |
 | [No Problama](https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo) | [Frühjahrsputz auf dem singenden Bauernhof](https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN) | 1:58 | 2025-03-06 |  |

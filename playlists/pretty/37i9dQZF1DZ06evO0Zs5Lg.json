@@ -1,13 +1,29 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 19706,
+  "num_followers": 19714,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCaAAAAAAAD8haBSEk26PT9SBcU+lG57",
+  "snapshot_id": "aCfRgAAAAADCYO7e8d3WAzj2NFp4Uaai",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Fire Lessons",
+      "url": "https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,8 +47,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+        "name": "Horse",
+        "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
       "artists": [
         {
@@ -40,9 +56,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 198253,
-      "name": "Fire Lessons",
-      "url": "https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa"
+      "duration_ms": 221813,
+      "name": "High Priced Shoes",
+      "url": "https://open.spotify.com/track/4HZAmZEps1rnI8u3PgPLhT"
     },
     {
       "added_at": null,
@@ -67,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horse",
-        "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
       "artists": [
         {
@@ -76,9 +92,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 221813,
-      "name": "High Priced Shoes",
-      "url": "https://open.spotify.com/track/4HZAmZEps1rnI8u3PgPLhT"
+      "duration_ms": 200920,
+      "name": "Squad Goals",
+      "url": "https://open.spotify.com/track/5KnRZlqdf0xcUkZ2g2kKl6"
     },
     {
       "added_at": null,
@@ -99,38 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "Squad Goals",
-      "url": "https://open.spotify.com/track/5KnRZlqdf0xcUkZ2g2kKl6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cutthroat",
-        "url": "https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 187060,
-      "name": "Cutthroat",
-      "url": "https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horse",
         "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 215800,
       "name": "Devils Gate (with Kevin Gates)",
       "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 187060,
+      "name": "Cutthroat",
+      "url": "https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 155146,
-      "name": "Dead Man Shuffle",
-      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horse",
         "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 182960,
       "name": "Horse",
       "url": "https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 155146,
+      "name": "Dead Man Shuffle",
+      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tarzan",
-        "url": "https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 205285,
-      "name": "Tarzan",
-      "url": "https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horse",
         "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 176053,
       "name": "Judy",
       "url": "https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tarzan",
+        "url": "https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 205285,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnerable God",
-        "url": "https://open.spotify.com/album/2Px80IZqOMRP6E6kjM2wie"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 124406,
-      "name": "Vulnerable God",
-      "url": "https://open.spotify.com/track/1rns1Sea7RI4wCNHtkkthQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horse",
         "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 258812,
       "name": "Pack a Lunch (with Redman)",
       "url": "https://open.spotify.com/track/3p8PQDGkgwIhp5fyeNypgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vulnerable God",
+        "url": "https://open.spotify.com/album/2Px80IZqOMRP6E6kjM2wie"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 124406,
+      "name": "Vulnerable God",
+      "url": "https://open.spotify.com/track/1rns1Sea7RI4wCNHtkkthQ"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "King Gampo",
         "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 175493,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "Farout",
-      "url": "https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "King Gampo",
         "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 243200,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/3In2mNIEIptPqnooOBxYcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "Farout",
+      "url": "https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp"
     },
     {
       "added_at": null,

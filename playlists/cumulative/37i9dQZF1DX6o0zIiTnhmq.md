@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-174 songs - 1 day 17 hr 15 min
+175 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Lingashtakam](https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:33 | 2024-12-30 |  |
 | [Maa Durga Mantra Chanting](https://open.spotify.com/track/2PP5xopzHgueAWdSPEjTao) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maa Durga Mantra Chanting](https://open.spotify.com/album/28B8NZ23mcROWkeuraQnTH) | 15:45 | 2025-02-04 |  |
 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 | 2022-01-24 |  |
-| [Mahalaxmi Mantra 108 Times](https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/album/4e49HqCPY3g4Abog1pQSKx) | 8:09 | 2024-12-03 |  |
+| [Mahalaxmi Mantra 108 Times](https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/album/4e49HqCPY3g4Abog1pQSKx) | 8:09 | 2024-12-03 | 2025-05-19 |
 | [Mahamritunjaya Mantra](https://open.spotify.com/track/7bCxpiv6IdUkHfVGsZnGUr) | [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx) | [Mahamritunjaya Mantra](https://open.spotify.com/album/6TxeXKJe0ro9LXlityvUTF) | 4:54 | 2024-02-26 | 2024-12-31 |
 | [Mahamrityunjay Mantra \- Om Tryambakam Yajamahe](https://open.spotify.com/track/48TC3j55Q6z0DZ2Spm6AnJ) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Gayatri Mantra Mala, Pt\. 1](https://open.spotify.com/album/57gvAW3h4riK2CSQWUIBbj) | 3:30 | 2025-02-21 |  |
 | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/track/0XQmuCw3Etp4fbK6Q30uSp) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Mahamrutyunjay Mantra 108 Times \- Single](https://open.spotify.com/album/6ZFRGKKeD1Cva1MHBZ7RVw) | 54:06 | 2022-01-24 | 2024-12-31 |
@@ -147,6 +147,7 @@
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/3wPDOm3yUZdZtxjkDTIUcm) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:17 | 2022-08-05 | 2022-11-13 |
 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 | 2022-01-24 | 2024-04-19 |
 | [Shanti Mantra \(For Inner and Outer Peace\)](https://open.spotify.com/track/2k0UyMqa4FbwMZiHgYJzfA) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 6:58 | 2023-05-23 | 2024-02-23 |
+| [Shiv Gayatri Mantra](https://open.spotify.com/track/517LGCx1efHiGyZpYlW2bI) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Shiv Gayatri Mantra](https://open.spotify.com/album/3W6cZZ15Zt7EPReYFHOloS) | 5:36 | 2025-04-07 |  |
 | [Shiv Mahimna Stotra](https://open.spotify.com/track/12hZYt5gpkfP7UzpYYJHxd) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shiv Mahimna Stotra](https://open.spotify.com/album/2bjbfBm4rgKJDehmzayF8O) | 23:49 | 2025-02-07 | 2025-02-13 |
 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 | 2023-08-10 |  |
 | [Shiv Tandav Strotram](https://open.spotify.com/track/4Vp6ajyPyG5onrrzMOql6p) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/23gj0ztuhpH7H2l2d4hT3J) | 3:18 | 2023-12-26 | 2024-02-16 |

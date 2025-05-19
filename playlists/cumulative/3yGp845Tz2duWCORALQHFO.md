@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,896 songs - 6 day 13 hr 11 min
+2,898 songs - 6 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Get 'Em On Fire](https://open.spotify.com/track/4PCJ7ygbg4Mfh72S0HeC2A) | [2siik](https://open.spotify.com/artist/2uzWGzndNo378dvprR8CkQ) | [Get 'Em On Fire](https://open.spotify.com/album/7yjJi6eQXczNwfsk4tv1np) | 3:36 | 2025-03-27 | 2025-03-29 |
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2024-05-24 | 2024-06-01 |
 | [Get Deep](https://open.spotify.com/track/2KZRg2Bh3U1PtDsQgNc0wu) | [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Get Deep](https://open.spotify.com/album/1GO0TeT5aL6qgCCSygwwYU) | 3:17 | 2025-04-24 | 2025-05-03 |
+| [GET DOWN](https://open.spotify.com/track/6Rjz69s1hSMWql72wwn0qH) | [ALAN BAZE](https://open.spotify.com/artist/4HxZSS80MKQhfcbFesdBCO) | [GET DOWN](https://open.spotify.com/album/4TP5Xz09u8deoaoAyaU1Ml) | 3:23 | 2025-05-18 |  |
 | [Get Freaky](https://open.spotify.com/track/3KOHtBp24aLqLoXucduWX2) | [DJ Dime](https://open.spotify.com/artist/6daF1yfRNez2FenkKLNKrH) | [Get Freaky](https://open.spotify.com/album/0TgsScAIqUzIiT1756XDDk) | 3:37 | 2024-10-01 | 2024-10-04 |
 | [Get Hyped](https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Get Hyped](https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M) | 3:17 | 2024-11-15 | 2024-11-23 |
 | [Get Low](https://open.spotify.com/track/5w46J4OWD4CLjR7spKEPa4) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [CRÜPO](https://open.spotify.com/artist/69mcyXS8jfoBEv8h6tXcHv), [Swen Weber](https://open.spotify.com/artist/30b5KmALi3a1pOC579Ben5), [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT) | [Get Low](https://open.spotify.com/album/1nddUiDyn4oYRlrpSnGHXt) | 2:56 | 2024-08-02 | 2024-08-09 |
@@ -1230,6 +1231,7 @@
 | [If Tomorrow Never Comes](https://open.spotify.com/track/1JLMKzm7Mui8YhBGbGQ28r) | [Maratone](https://open.spotify.com/artist/1hVS5JWJxeuMiu7sultgO7) | [If Tomorrow Never Comes](https://open.spotify.com/album/5JlU4uFJJCZ5k1vc4ABdZL) | 3:48 | 2024-07-05 | 2024-07-12 |
 | [If Tomorrow Never Happens](https://open.spotify.com/track/2CRFqF31tLROeQ0nREQrav) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [If Tomorrow Never Happens](https://open.spotify.com/album/28b7R153efFFEuHYN1oOJy) | 3:44 | 2024-07-12 | 2024-07-19 |
 | [If You Go](https://open.spotify.com/track/5e0xqkvBHhN4gXhmaUFPax) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [MELOPHANTS](https://open.spotify.com/artist/31vTdUTqmKypzgh8RiCdG0), [Spayds](https://open.spotify.com/artist/0dGJSbhSMUOlL46QeN5vxy) | [If You Go](https://open.spotify.com/album/6vpSOwGK3dyBZRkFm8wSH6) | 3:05 | 2025-03-21 | 2025-03-29 |
+| [If You're Free \(Say So\)](https://open.spotify.com/track/0ADrLSKM15xhY9akV1Qm5k) | [Sound On Tape](https://open.spotify.com/artist/0PFzg6epjb7qfSxcmpVzcv), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [If You're Free \(Say So\)](https://open.spotify.com/album/4W3qVg8gzgspKwFHv46k4D) | 4:28 | 2025-05-18 |  |
 | [Ignite](https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Ignite](https://open.spotify.com/album/2GiGo3FNrLxqTO2q6Jh4GD) | 2:53 | 2024-08-08 | 2024-08-16 |
 | [Ignite](https://open.spotify.com/track/6TeguS94x2zQZoVDgSJ7DB) | [UNTIL DAWN](https://open.spotify.com/artist/2Rezr240QT0H9rNKq0RgWe) | [Ignite](https://open.spotify.com/album/41g0vbY0ylQIJsc7VppR1O) | 2:51 | 2025-04-11 | 2025-04-19 |
 | [Iguana \- Mark Sherry's TH3RTY Remix](https://open.spotify.com/track/4FwUo7hUPhkp08WPfDygW7) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH) | [Iguana \(Mark Sherry's TH3RTY Remix\)](https://open.spotify.com/album/4JKr6CKaW2YEpO1fAC0icA) | 4:09 | 2025-04-11 | 2025-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Deejay Telio & Slow J entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,443 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,442 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Pra Depois](https://open.spotify.com/track/4bSPwl6Y5VKSVHMvdmAUBm) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Pra Depois](https://open.spotify.com/album/51BgmDjZ1GdABfSyzRrJ3Y) | 2:35 |
 | 70 | [Free](https://open.spotify.com/track/1DLi2vxcgzv3nePeigqKvh) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp) | [Free](https://open.spotify.com/album/6S99kMc3iC2wPJaEi3tl5t) | 3:45 |
 
-Snapshot ID: `aCZx/gAAAADjDTdNo4Wa+k6BqNXHAhZ9`
+Snapshot ID: `aCZx/gAAAABfwIwQNsEK2aHKUdUtTLtT`

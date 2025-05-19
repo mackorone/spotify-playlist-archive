@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-415 songs - 22 hr 13 min
+416 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Batt Habibi](https://open.spotify.com/track/0HykcRhIWjzymFvOzBmizM) | [Garwasha](https://open.spotify.com/artist/2WIoFuhOE4RFVN04lTUIoG) | [Batt Habibi](https://open.spotify.com/album/4O3rcHaBWk6zM2cGCs0mRB) | 7:03 | 2024-11-06 | 2025-05-17 |
 | [Bayaan Estinkari](https://open.spotify.com/track/3guTIcFQlc76fNN78UlTOs) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [Bayaan Estinkari](https://open.spotify.com/album/37eGVTh98dxjJNZMknzofa) | 2:25 | 2024-02-20 | 2024-07-10 |
 | [Beginning of a New Chapter](https://open.spotify.com/track/7HcPxC0zycaBSQxN6jwLVN) | [FARIIS](https://open.spotify.com/artist/0bqarDKT8KpH0DatC4k6vY) | [Beginning of a New Chapter](https://open.spotify.com/album/49TtcdL0qT6JF1zQg6FRbv) | 2:47 | 2023-10-04 | 2024-05-15 |
+| [BENT LA VILLE](https://open.spotify.com/track/2YvytImQbrU0VT1tbudn56) | [Ot Sygma](https://open.spotify.com/artist/6iYlYhdwAMFKhDpEDlrtw2) | [BENT LA VILLE](https://open.spotify.com/album/6OK3GjpMgORNbpfT9CjaGT) | 2:14 | 2025-05-18 |  |
 | [Bent Mbareh](https://open.spotify.com/track/11K4G3UiaS6kPa829EwkCi) | [Stephanie Atala](https://open.spotify.com/artist/3JdUFXhNjJufnoXDwK3rjs) | [Bent Mbareh](https://open.spotify.com/album/2HAXkIca4zAK4edXT51cYM) | 2:41 | 2024-02-20 | 2024-07-10 |
 | [Benzema](https://open.spotify.com/track/3qaWo8EFTYcGNIHStUC0Ta) | [AB](https://open.spotify.com/artist/3fRLeiaGIS4o3hgu8OV2MP) | [Benzema](https://open.spotify.com/album/6W3C2eRSsweoSJ0kn55NyT) | 2:34 | 2024-02-20 | 2024-07-10 |
 | [Bet](https://open.spotify.com/track/3iowVvAog2lPhMjuLpb6Sj) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Bet](https://open.spotify.com/album/0rmT0TYdnLKImISjpgiiQl) | 2:14 | 2023-09-12 | 2024-02-08 |
@@ -222,7 +223,7 @@
 | [MASHY BE3LAG](https://open.spotify.com/track/4ZFtmpUX4tsDEnz1DmsqyA) | [KHALED ROSSIA](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [MASHY BE3LAG](https://open.spotify.com/album/1U9ComcWbP0kr8BNY24Emd) | 2:15 | 2024-11-26 |  |
 | [Masquerading Crowd](https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP) | [Skeleton Crowd](https://open.spotify.com/artist/35q8gwzaxeJGQQImnaF0Fo) | [Molly Crapton](https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK) | 3:50 | 2022-09-20 | 2022-11-02 |
 | [Mat7awlish](https://open.spotify.com/track/5K6GvXAjGyFR7Nthh8d78s) | [TaffyRaps](https://open.spotify.com/artist/2Bamg8sORR59W8xzcIyv3n) | [Mat7awlish](https://open.spotify.com/album/5W5SlYXCpIlhPykPUbT1aY) | 2:51 | 2024-08-13 | 2024-11-07 |
-| [MATSALOUNICH](https://open.spotify.com/track/61OpC4SgpLIhJvdBJX4zLG) | [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv), [OSTAR OFFICIAL](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a), [Yung DrowN](https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT) | [ASTROSTAR](https://open.spotify.com/album/7EHAE1YZMayKpQWg3nVuEA) | 3:04 | 2024-11-06 |  |
+| [MATSALOUNICH](https://open.spotify.com/track/61OpC4SgpLIhJvdBJX4zLG) | [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv), [OSTAR OFFICIAL](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a), [Yung DrowN](https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT) | [ASTROSTAR](https://open.spotify.com/album/7EHAE1YZMayKpQWg3nVuEA) | 3:04 | 2024-11-06 | 2025-05-19 |
 | [MAYBE](https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm) | [Khaleeji Blonde](https://open.spotify.com/artist/7CQ4LU9FOCvhabssN8fbYt), [REDD Nine](https://open.spotify.com/artist/3RZ8kpxXH8uKpzQI6Rt1pt) | [MAYBE](https://open.spotify.com/album/6Pxc7DoXnVBuHvFBcBODPJ) | 3:03 | 2022-09-20 | 2023-01-18 |
 | [Maybelline](https://open.spotify.com/track/1MDTKxx1WtO0kqXg0wbwTP) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Maybelline](https://open.spotify.com/album/29BLOMEe1K0m2BDyQfBLPk) | 3:07 | 2025-02-17 |  |
 | [Me & I](https://open.spotify.com/track/4mTtIpMRM24YE2wXQjqB20) | [Delrady](https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP) | [Me & I](https://open.spotify.com/album/5yFRQNF9WFXhtQwmHH4lvn) | 3:20 | 2024-07-09 | 2024-10-31 |

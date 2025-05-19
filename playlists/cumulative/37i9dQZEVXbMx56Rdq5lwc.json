@@ -3161,6 +3161,28 @@
     },
     {
       "album": {
+        "name": "Bitters\u00fc\u00df (Baller Deluxe)",
+        "url": "https://open.spotify.com/album/78Wcqh7ygPyANYSd8kn5PG"
+      },
+      "artists": [
+        {
+          "name": "Abor & Tynna",
+          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Baller - nowifi Remix",
+      "url": "https://open.spotify.com/track/1v7J9ZAxKqbuLpvMciORtw"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -7426,7 +7448,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 220137,
       "name": "DES",
       "url": "https://open.spotify.com/track/0CMszBvTM7C6NAGjrVgpMq"
@@ -7816,7 +7838,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -16106,7 +16128,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 183414,
       "name": "Jis",
       "url": "https://open.spotify.com/track/5WvEHyZk6m9ij0ajvvqXCa"
@@ -20011,6 +20033,24 @@
     },
     {
       "album": {
+        "name": "solo",
+        "url": "https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2025-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180195,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
+    },
+    {
+      "album": {
         "name": "MAMMAMIA",
         "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
@@ -23226,7 +23266,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 269533,
       "name": "Nesvarb\u00f9",
       "url": "https://open.spotify.com/track/4Am60yuOAPTEaUimYxBDY3"
@@ -25460,7 +25500,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 196500,
       "name": "Pamir\u0161au \u017ei\u016br\u0117t \u012f pauk\u0161\u010dius",
       "url": "https://open.spotify.com/track/5L16wwZYkfV5bkAPJDi3Kg"
@@ -26962,7 +27002,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 259320,
       "name": "Po Tavim",
       "url": "https://open.spotify.com/track/3FdqQ0n5IWfKD5sapy0sd0"

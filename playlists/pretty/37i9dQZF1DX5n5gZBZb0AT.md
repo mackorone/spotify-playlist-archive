@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,531 likes - 40 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,728 likes - 40 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 37 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
 | 38 | [Montagem Totally Strange](https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf) | [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY), [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe), [MC BF](https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu), [DJ YUZAK](https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS) | [Montagem Totally Strange](https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn) | 2:25 |
 | 39 | [MONTAGEM GREEN RENITCH V1](https://open.spotify.com/track/6c3S8RrE30QQKG8TqwIAMG) | [Tsk.4](https://open.spotify.com/artist/00kkTyvp1aTG6oKYIkSQGi), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [MONTAGEM GREEN RENITCH V1](https://open.spotify.com/album/008ynjoZOgViVk0b0aNfOb) | 1:38 |
-| 40 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
+| 40 | [MY TYPE \- Slowed](https://open.spotify.com/track/5smCqaAEcKpArEBVhtaryT) | [DJ ZBK](https://open.spotify.com/artist/4pmKpROq7rAVibM7qR9h6P), [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q) | [MY TYPE](https://open.spotify.com/album/4yUHDMHDEl6Th3jPimciMz) | 1:31 |
 
 Snapshot ID: `Z+XmsAAAAAAsXY6xOLr83M7pgh9hBioQ`

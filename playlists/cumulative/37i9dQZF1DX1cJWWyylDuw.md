@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Shadow of Intent
 
-653 songs - 1 day 18 hr 18 min
+654 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Broken Glass Incantation](https://open.spotify.com/track/2CdzRZcftbyNGD4zYzijby) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Broken Glass Incantation](https://open.spotify.com/album/0MqPjb7oM5ld54nvNKGXcL) | 3:09 | 2024-01-30 | 2024-02-29 |
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-04-01 |  |
 | [Bunny Suit](https://open.spotify.com/track/4LubEIUvempGGLt6kaExjk) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Bunny Suit](https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo) | 4:33 | 2024-02-27 |  |
-| [Burn Your Local Butcher](https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Burn Your Local Butcher](https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m) | 3:04 | 2024-08-23 |  |
+| [Burn Your Local Butcher](https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Burn Your Local Butcher](https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m) | 3:04 | 2024-08-23 | 2025-05-19 |
 | [Burning Inside](https://open.spotify.com/track/0MiXOInuBPYDPOQIYKgqSG) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup) | [Burning Inside](https://open.spotify.com/album/22QraZfafjfmU27NnJacti) | 4:00 | 2025-03-14 | 2025-03-22 |
 | [Calcium Closet](https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd) | [LARCɆNIA ROɆ](https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4), [Alex Koehler](https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI) | [Extraction](https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu) | 4:24 | 2025-05-16 |  |
 | [Carcinogenesis](https://open.spotify.com/track/58My0D2eOrppNfx6mzs4MO) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Carcinogenesis](https://open.spotify.com/album/4KVAMyq8wkY6AnnFpcRuKc) | 5:49 | 2024-08-23 | 2025-03-15 |
@@ -502,6 +502,7 @@
 | [Satanic Panic](https://open.spotify.com/track/57KZXPyLADbF6S6Q8izGcZ) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [Satanic Panic](https://open.spotify.com/album/5MtCtbhIdjgxJRbk9slWJl) | 3:19 | 2023-12-13 | 2024-04-19 |
 | [Say Goodbye](https://open.spotify.com/track/5pPxKVIKJaICKxtF7VeOS9) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Vile Conduct](https://open.spotify.com/album/4WyZGcHrkCCFETMf4hUqei) | 3:32 | 2024-10-18 | 2025-01-18 |
 | [Say My Name](https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB) | [Say My Name](https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap) | 4:02 | 2024-08-23 |  |
+| [Scorched Earth](https://open.spotify.com/track/6oXwOVKXbtCZYx8t3ZLkSC) | [Deliverance](https://open.spotify.com/artist/4VlWzmAK3ti4Rs4hy73WIH), [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx) | [The Wicked We're Capable Of](https://open.spotify.com/album/55ER0akFeYs7L6ki3aPNa2) | 3:51 | 2025-05-16 |  |
 | [Scorched Earth](https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Scorched Earth](https://open.spotify.com/album/7FTmfJvqaXMAQMVafKDsrt) | 3:50 | 2021-12-17 | 2022-07-29 |
 | [Scumprophet](https://open.spotify.com/track/4RmEemZjQl0BVZbWDcPoYu) | [Hollow Prophet](https://open.spotify.com/artist/6ogDfDc9YxecJUrpm9etXZ), [SCUMFUCK](https://open.spotify.com/artist/3rZszyIElLNiSPWPemCEWQ) | [Scumprophet](https://open.spotify.com/album/6EAWBs3FxAEsy1cawufZFS) | 4:44 | 2021-12-17 | 2022-04-07 |
 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/74Kl9WSj63K7MJOZssDwAF) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [D](https://open.spotify.com/album/795u6k1CCuttNnhsDTM1ij) | 2:48 | 2021-12-17 | 2022-06-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: MISTER MEYERS Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,948 likes - 113 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,967 likes - 113 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

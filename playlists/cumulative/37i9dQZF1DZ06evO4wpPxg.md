@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-332 songs - 21 hr 3 min
+333 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Hard Walking Blues](https://open.spotify.com/track/6ASbQ2b9jprKki6VwyPsYW) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 2:58 | 2022-10-30 | 2025-03-19 |
 | [Harmonica Solo](https://open.spotify.com/track/0pCAAfErGegULfZwljB9ZB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [You Got to Move](https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7) | 5:00 | 2023-09-25 | 2023-11-11 |
 | [Harmonica Solo](https://open.spotify.com/track/2JmubuoEfw8svonyHtLWRP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Civil War March](https://open.spotify.com/album/10PA0jCgJkbyL89HCodP69) | 5:00 | 2022-10-22 | 2022-10-24 |
+| [Harmonica Solo](https://open.spotify.com/track/4V2l4jRiiwEtFa9HKN7nY8) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Church of Ragtime](https://open.spotify.com/album/0HZw5Tuvez7f5i16d0D7jS) | 5:00 | 2025-05-19 |  |
 | [He Never Has Left Me Alone](https://open.spotify.com/track/2FsPOo6hnxpbWvBNmxVoD6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 2:55 | 2022-06-19 | 2024-05-21 |
 | [He Stole Away](https://open.spotify.com/track/7zWeRrkwPuqgV6l05WF50L) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 2:40 | 2023-04-23 | 2025-04-25 |
 | [He's My King](https://open.spotify.com/track/5lyiTTO43ZkCVNi7aUdT7i) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 1:50 | 2022-10-06 | 2023-01-11 |
@@ -126,7 +127,7 @@
 | [I'll Do My Last Singin'](https://open.spotify.com/track/4rubpj8GKzxEvFAGNTZnX1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [I'll Do My Last Singin'](https://open.spotify.com/album/3ftjjAUktC3ofXRMumAasq) | 6:18 | 2023-04-09 | 2023-07-23 |
 | [I'll Fly Away](https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 4:34 | 2022-05-25 |  |
 | [I'm a Soldier](https://open.spotify.com/track/11HH0C4dkZ9piJjLIZBPNZ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [You Got to Move](https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7) | 1:52 | 2023-06-02 | 2023-07-12 |
-| [I'm Glad I'm In That Number](https://open.spotify.com/track/4NP3osK3ATVaosyWXVZxvN) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:00 | 2022-11-18 |  |
+| [I'm Glad I'm In That Number](https://open.spotify.com/track/4NP3osK3ATVaosyWXVZxvN) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:00 | 2022-11-18 | 2025-05-19 |
 | [I'm Going Back to Jesus](https://open.spotify.com/track/2xPFvDlbBDekEfzOonWBnb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:06 | 2024-07-03 | 2024-07-12 |
 | [I'm Going Down To The Banks Of The River \- Live](https://open.spotify.com/track/35JxXNUXfVK0PUpuNOte1Y) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Gary Davis \- The Best of \(Live\)](https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT) | 3:25 | 2023-01-05 | 2023-01-10 |
 | [I'm Going To Sit Down On The Banks Of The River](https://open.spotify.com/track/0RjpjcpgTSVl4PLVOYY56y) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:41 | 2022-08-22 | 2022-08-24 |

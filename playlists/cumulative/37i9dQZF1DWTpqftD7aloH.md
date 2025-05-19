@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-442 songs - 1 day 19 hr 2 min
+443 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Jeová Jireh \(Ao Vivo\)](https://open.spotify.com/track/2ZKRZ7EcmwZmRmxmtTtcD2) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Jeová Jireh \(Ao Vivo\)](https://open.spotify.com/album/4rw2jXf4iEB18NyCKZCrHj) | 7:35 | 2025-05-02 |  |
 | [Jericó \- Ao Vivo](https://open.spotify.com/track/4MUY2SxOP6vIRaPxzl9U3P) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jefferson Cesar](https://open.spotify.com/artist/7p0OSd6WfubsdPdN8AT6B6), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Temporal \(Ao Vivo\)](https://open.spotify.com/album/7rraIXg79Z1H4GPzs9vWyf) | 5:21 | 2024-08-16 | 2025-05-16 |
 | [Jesus Cristo Mudou Meu Viver \- Ao Vivo](https://open.spotify.com/track/0M3qqchFJxLQQ6HPGIfJ6j) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s Igreja \(Ao Vivo\)](https://open.spotify.com/album/1VC5nhaEHhDJZElRmG2asg) | 3:44 | 2025-02-14 |  |
-| [Jesus Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/195P7EewiDBpU3oeWqFA8n) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Jesus Em Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8) | 4:07 | 2024-04-19 |  |
+| [Jesus Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/195P7EewiDBpU3oeWqFA8n) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Jesus Em Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8) | 4:07 | 2024-04-19 | 2025-05-19 |
 | [Jesus Sempre Tem Mais \- Ao Vivo](https://open.spotify.com/track/5eEZJ0EzlxamBnmUJMO0aD) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Jesus Sempre Tem Mais \(Ao Vivo\)](https://open.spotify.com/album/4IQFlCvRYoT5z85w6Yrk2E) | 5:59 | 2023-08-18 | 2024-06-29 |
 | [Jesus te Amamos](https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Jesus te Amamos](https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL) | 6:55 | 2025-03-17 |  |
 | [Jireh](https://open.spotify.com/track/6raeLv4GSRVBXEhkhKSHEr) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Jireh](https://open.spotify.com/album/5MmNWIopuiCjj7HeEQCUBR) | 8:13 | 2025-02-14 |  |
@@ -200,6 +200,7 @@
 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 | 2022-09-09 |  |
 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 | 2022-09-09 | 2023-07-15 |
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2022-09-09 | 2023-01-14 |
+| [Levando a Vida](https://open.spotify.com/track/276gIBmD8Zp9VNOnGXMhc0) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Levando a Vida](https://open.spotify.com/album/3em01WKzRfkwXwg1IdA2f6) | 3:24 | 2025-05-16 |  |
 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 | 2022-12-09 | 2023-09-02 |
 | [Lindo Momento \- Ao Vivo](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 | 2024-04-19 | 2025-03-08 |
 | [Lindo És + Só Quero Ver Você \- Ao Vivo](https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Livres ao Vivo em São Paulo](https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C) | 7:27 | 2022-09-09 | 2024-12-21 |

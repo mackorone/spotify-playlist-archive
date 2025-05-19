@@ -1,12 +1,12 @@
 {
   "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 438540,
+  "num_followers": 438568,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCaAAAAAAAAvqcQSl8ynuMOkHWrWd6rb",
+  "snapshot_id": "aCfRgAAAAADROitXlfPOMGROyVk4EKZJ",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
       "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 252107,
-      "name": "La Muerte Del Cardenal",
-      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
+      "duration_ms": 160631,
+      "name": "A Cada Rato",
+      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
     },
     {
       "added_at": null,
@@ -495,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
       "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 160631,
-      "name": "A Cada Rato",
-      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
+      "duration_ms": 252107,
+      "name": "La Muerte Del Cardenal",
+      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 78561,
+  "num_followers": 78629,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1535,42 +1535,6 @@
     {
       "added_at": "2025-05-16 04:00:34",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "Junior Black",
-          "url": "https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa"
-        }
-      ],
-      "duration_ms": 117667,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
-    },
-    {
-      "added_at": "2025-05-16 04:00:34",
-      "album": {
         "name": "Asereje (Remix)",
         "url": "https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB"
       },
@@ -1611,6 +1575,42 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
+    },
+    {
+      "added_at": "2025-05-16 04:00:34",
+      "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Junior Black",
+          "url": "https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa"
+        }
+      ],
+      "duration_ms": 117667,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
     },
     {
       "added_at": "2025-05-16 04:00:34",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2025-05-16 04:00:34",
       "album": {
-        "name": "Agua De Beber",
-        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
-      },
-      "artists": [
-        {
-          "name": "SUBB",
-          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
-        },
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
-    },
-    {
-      "added_at": "2025-05-16 04:00:34",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 116361,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
+    },
+    {
+      "added_at": "2025-05-16 04:00:34",
+      "album": {
+        "name": "Agua De Beber",
+        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
+      },
+      "artists": [
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
     },
     {
       "added_at": "2025-05-16 04:00:34",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2025-05-16 04:00:34",
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
+    },
+    {
+      "added_at": "2025-05-16 04:00:34",
+      "album": {
         "name": "Ta Sendo",
         "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2025-05-16 04:00:34",
-      "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy"
-      },
-      "artists": [
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
     }
   ],
   "unique_name": "Latin House",

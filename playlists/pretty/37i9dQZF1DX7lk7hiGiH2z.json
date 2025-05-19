@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 51967,
+  "num_followers": 51969,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,34 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
+        "name": "Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm)",
+        "url": "https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Lina Larissa Strahl",
+          "url": "https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk"
+        }
+      ],
+      "duration_ms": 179780,
+      "name": "Ich bleib hier (feat. Lina Larissa Strahl)",
+      "url": "https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
         "name": "Video Mixe",
         "url": "https://open.spotify.com/album/0BdNoLS8Z42JjfbkOCQVPW"
       },
@@ -163,22 +191,6 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
-        "name": "Heile Welt",
-        "url": "https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "H\u00e4schen h\u00fcpf",
-      "url": "https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
         "name": "Der tollste Tag deines Lebens",
         "url": "https://open.spotify.com/album/6CYKR3TwmkV5vHSGVOWpYl"
       },
@@ -199,30 +211,18 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
-        "name": "Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm)",
-        "url": "https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP"
+        "name": "Heile Welt",
+        "url": "https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc"
       },
       "artists": [
         {
-          "name": "Bibi und Tina",
-          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
-        },
-        {
-          "name": "Peter Plate",
-          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
-        },
-        {
-          "name": "Ulf Leo Sommer",
-          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
-        },
-        {
-          "name": "Lina Larissa Strahl",
-          "url": "https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk"
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
         }
       ],
-      "duration_ms": 179780,
-      "name": "Ich bleib hier (feat. Lina Larissa Strahl)",
-      "url": "https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp"
+      "duration_ms": 194080,
+      "name": "H\u00e4schen h\u00fcpf",
+      "url": "https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -239,22 +239,6 @@
       "duration_ms": 158226,
       "name": "Die Biene Maja",
       "url": "https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
-        "name": "Rolfs Liederkalender / Die Jahresuhr",
-        "url": "https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Die Jahresuhr",
-      "url": "https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -279,6 +263,22 @@
       "duration_ms": 88540,
       "name": "Kleine Meise",
       "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
+        "name": "Rolfs Liederkalender / Die Jahresuhr",
+        "url": "https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Die Jahresuhr",
+      "url": "https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -335,6 +335,30 @@
       "duration_ms": 252426,
       "name": "Kaugummi ist mega!",
       "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 56745,
+      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
+      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -399,26 +423,18 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
+        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
         }
       ],
-      "duration_ms": 56745,
-      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
-      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
+      "duration_ms": 143732,
+      "name": "Yammi Yammi",
+      "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -435,22 +451,6 @@
       "duration_ms": 178026,
       "name": "Der Mai, der Mai, der lustige Mai",
       "url": "https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 143732,
-      "name": "Yammi Yammi",
-      "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -495,70 +495,6 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 140186,
-      "name": "Auf einem Baum ein Kuckuck sa\u00df",
-      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
-        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
-        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 108293,
-      "name": "Alle V\u00f6gel sind schon da",
-      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
-        "name": "H\u00e4schenparty",
-        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
-      },
-      "artists": [
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "H\u00e4schenparty",
-      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
-        "name": "Oh Yeah!",
-        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "Party im Zoo",
-      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -583,6 +519,54 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 140186,
+      "name": "Auf einem Baum ein Kuckuck sa\u00df",
+      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
+        "name": "Oh Yeah!",
+        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "Party im Zoo",
+      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
+        "name": "H\u00e4schenparty",
+        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
+      },
+      "artists": [
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "H\u00e4schenparty",
+      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
         "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
         "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
@@ -599,22 +583,6 @@
       "duration_ms": 148560,
       "name": "Vogelhochzeit",
       "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 138266,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -651,22 +619,18 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
-        "name": "Kinderlieder - Fr\u00fchling & Ostern",
-        "url": "https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z"
+        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
+        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
       },
       "artists": [
         {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 124426,
-      "name": "Ich liebe den Fr\u00fchling \ud83d\ude0a",
-      "url": "https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB"
+      "duration_ms": 108293,
+      "name": "Alle V\u00f6gel sind schon da",
+      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -695,18 +659,38 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
-        "name": "Rolfs Hasengeschichte - Die Lieder",
-        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
+        "name": "Kinderlieder - Fr\u00fchling & Ostern",
+        "url": "https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z"
       },
       "artists": [
         {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
         }
       ],
-      "duration_ms": 157793,
-      "name": "Wenn es Fr\u00fchling wird im Hasenland",
-      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
+      "duration_ms": 124426,
+      "name": "Ich liebe den Fr\u00fchling \ud83d\ude0a",
+      "url": "https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 138266,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -767,22 +751,6 @@
       "duration_ms": 217323,
       "name": "Ihr kriegt uns nie mehr klein",
       "url": "https://open.spotify.com/track/4j6VtUSryhEZGRFqrQ9LDO"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 150227,
-      "name": "Ich g\u00f6nn mir Eiscreme",
-      "url": "https://open.spotify.com/track/0V7bnkaD5CBAdfKDVE7xGJ"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -867,6 +835,22 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
+        "name": "Rolfs Hasengeschichte - Die Lieder",
+        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 157793,
+      "name": "Wenn es Fr\u00fchling wird im Hasenland",
+      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
         "name": "Fr\u00fchlingsspa\u00df und Osterhas",
         "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 146546,
       "name": "Bunte Blumen auf der Wiese",
       "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 150227,
+      "name": "Ich g\u00f6nn mir Eiscreme",
+      "url": "https://open.spotify.com/track/0V7bnkaD5CBAdfKDVE7xGJ"
     },
     {
       "added_at": "2025-04-23 14:51:02",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-04-23 14:51:02",
       "album": {
-        "name": "herrH ist da! - Das Album",
-        "url": "https://open.spotify.com/album/4CM8QXMOVoPvWLtI1Rhm5h"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Nach drau\u00dfen gehn",
-      "url": "https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r"
-    },
-    {
-      "added_at": "2025-04-23 14:51:02",
-      "album": {
         "name": "Unter meinem Bett 7",
         "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
+    },
+    {
+      "added_at": "2025-04-23 14:51:02",
+      "album": {
+        "name": "Hallihallo, lieber Fr\u00fchling",
+        "url": "https://open.spotify.com/album/6DTUuZJK5Cyc6rkdv78dha"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 100142,
+      "name": "Hallihallo, lieber Fr\u00fchling",
+      "url": "https://open.spotify.com/track/4nSdquBYRb98DekxpK36Yc"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

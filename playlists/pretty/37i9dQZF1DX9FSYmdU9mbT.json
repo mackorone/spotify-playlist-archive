@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1409030,
+  "num_followers": 1409316,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan",
+        "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Flor de Lis",
+      "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Marina Lima",
         "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan",
-        "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Flor de Lis",
-      "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Lenine In Cit\u00e9 (Deluxe)",
         "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
       },
@@ -275,22 +275,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
+        "name": "Mal\u00e1sia",
+        "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 212601,
-      "name": "F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
+      "duration_ms": 346266,
+      "name": "Nem um Dia",
+      "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -311,18 +307,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Mal\u00e1sia",
-        "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
+        "name": "F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 346266,
-      "name": "Nem um Dia",
-      "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
+      "duration_ms": 212601,
+      "name": "F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+        "name": "Racional (Vol 1)",
+        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 332133,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
+      "duration_ms": 305693,
+      "name": "Bom-Senso",
+      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -423,22 +423,6 @@
       "duration_ms": 263373,
       "name": "Queixa",
       "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Racional (Vol 1)",
-        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Bom-Senso",
-      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -467,6 +451,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 179933,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
-        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -515,6 +499,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
+        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 184569,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Cinema Transcendental",
-        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "Caju\u00edna - Remixed Original Album",
-      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -563,22 +547,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Djavan \"Ao Vivo\"",
-        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Meu Bem-Querer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Como Vai Voc\u00ea",
         "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
       },
@@ -591,6 +559,38 @@
       "duration_ms": 227568,
       "name": "Como Vai Voc\u00ea",
       "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Cinema Transcendental",
+        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 139933,
+      "name": "Caju\u00edna - Remixed Original Album",
+      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Meu Bem-Querer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Ex-Amor",
-        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Ex-Amor",
-      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "A Pele do Futuro Ao Vivo",
         "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 229864,
       "name": "Chuva de Prata - Ao Vivo",
       "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Ex-Amor",
+        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Ex-Amor",
+      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
       },
@@ -707,6 +691,38 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Antologia Acustica - Vol. 1",
+        "url": "https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Ch\u00e3o de Giz",
+      "url": "https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -731,22 +747,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Antologia Acustica - Vol. 1",
-        "url": "https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Ch\u00e3o de Giz",
-      "url": "https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "A Festa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Exagerado 3.0 - Single",
         "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 226141,
       "name": "Exagerado 3.0",
       "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -891,38 +891,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Gal A Todo Vapor (Live)",
         "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
       },
@@ -951,6 +919,22 @@
       "duration_ms": 191053,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1007,6 +991,22 @@
       "duration_ms": 178892,
       "name": "Mentiras - Ao Vivo",
       "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Caravanas Ao Vivo",
+        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 184119,
+      "name": "Sabi\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Caravanas Ao Vivo",
-        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
+        "name": "Elis (Remastered)",
+        "url": "https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 184119,
-      "name": "Sabi\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
+      "duration_ms": 171530,
+      "name": "Casa No Campo - Remastered 2021",
+      "url": "https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1239,22 +1255,6 @@
       "duration_ms": 276480,
       "name": "Noturno (Cora\u00e7\u00e3o Alado)",
       "url": "https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Elis (Remastered)",
-        "url": "https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 171530,
-      "name": "Casa No Campo - Remastered 2021",
-      "url": "https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Belchior Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
+        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
+        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
       },
       "artists": [
         {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        },
-        {
-          "name": "Gilvan de Oliveira",
-          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 155960,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
-        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
+        "name": "Belchior Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        },
+        {
+          "name": "Gilvan de Oliveira",
+          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
+      "duration_ms": 155960,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
     },
     {
       "added_at": "2025-03-07 03:00:30",

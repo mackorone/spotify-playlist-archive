@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 881 songs - 2 day 8 hr 17 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 889 songs - 2 day 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -889,5 +889,13 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 879 | [花びらたちのマーチ](https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:13 |
 | 880 | [脈拍](https://open.spotify.com/track/5g9iwSWKeJu6fgOrBrBuuG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [脈拍](https://open.spotify.com/album/6KhkCzUE5JSfRUbLuOAoVI) | 3:38 |
 | 881 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
+| 882 | [Sakurasou](https://open.spotify.com/track/2ruvQc0ClsExpKB7RhPu67) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Sakurasou](https://open.spotify.com/album/2FPTf5c6bFJm8PrKz3O5UX) | 3:00 |
+| 883 | [春擬き](https://open.spotify.com/track/6oRkyKWLFWYaE6aNanUlV3) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Follow My Tracks](https://open.spotify.com/album/511isn1s0l2ew087btkxFC) | 4:31 |
+| 884 | [ann～庵～](https://open.spotify.com/track/08oxAjaG5FzgzC4hQbXs0a) | [N+](https://open.spotify.com/artist/6C7WG62kx4mkGa2K3VBOqH) | [『spill over』feat.Chata](https://open.spotify.com/album/4KHOBkkOnTHfsUuInQHjdi) | 4:42 |
+| 885 | [bun～聞～](https://open.spotify.com/track/19VglwxW9JwXsntlnMzItZ) | [N+](https://open.spotify.com/artist/6C7WG62kx4mkGa2K3VBOqH) | [『spill over』feat.Chata](https://open.spotify.com/album/4KHOBkkOnTHfsUuInQHjdi) | 3:06 |
+| 886 | [夢色ゆらゆら](https://open.spotify.com/track/4vxizDU5UXzUS9kE86V2vD) | [Local Visions](https://open.spotify.com/artist/0XlxmuwCBUNBhJICpPMMLb), [長瀬有花](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [OACL](https://open.spotify.com/album/39cD9vPFafqkuCMNLZJzFi) | 3:28 |
+| 887 | [PYGMALY](https://open.spotify.com/track/1UeAEZcazCI6GDcuWNGW6I) | [minimum electric design](https://open.spotify.com/artist/7svUhAecDXz2c6X3ejlROK) | [RENOVATION](https://open.spotify.com/album/0BskyVVPcyKeJTcrkyTUXR) | 4:39 |
+| 888 | [ユカリテレグラフ feat.mineko](https://open.spotify.com/track/7D7RTJUezYes18QoxLc2uW) | [minimum electric design](https://open.spotify.com/artist/7svUhAecDXz2c6X3ejlROK), [mineko](https://open.spotify.com/artist/3aGH4nuLVjZOLvcSilLnks) | [RENOVATION](https://open.spotify.com/album/0BskyVVPcyKeJTcrkyTUXR) | 3:29 |
+| 889 | [easy game](https://open.spotify.com/track/7GzBqqpLAHw7ZNbPRsUT4c) | [N+](https://open.spotify.com/artist/6C7WG62kx4mkGa2K3VBOqH) | [『spill over』feat.Chata](https://open.spotify.com/album/4KHOBkkOnTHfsUuInQHjdi) | 4:23 |
 
-Snapshot ID: `AAAFF3u7jD/gS6EkucSWnLZbnuTfkMFA`
+Snapshot ID: `AAAFIVXmXYI8suoS3KkxPpPVY2cjqQLB`

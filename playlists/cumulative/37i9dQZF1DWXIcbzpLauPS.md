@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,225 songs - 3 day 3 hr 14 min
+1,227 songs - 3 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 | 2022-07-13 | 2022-07-23 |
 | [From The Fire In You](https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Manifestations](https://open.spotify.com/album/0XKUF6rTRS5UX6KC5G90HV) | 3:33 | 2022-04-08 | 2022-07-23 |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2022-07-08 | 2023-07-15 |
+| [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 | 2025-05-16 |  |
 | [Frvst](https://open.spotify.com/track/1jjjjubZ6PMuoJexEy82DA) | [Consvmer](https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Frvst](https://open.spotify.com/album/73fgc0bIk0N7jumKsQVwYY) | 4:21 | 2024-07-12 | 2025-04-26 |
 | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l) | 2:44 | 2022-07-08 | 2023-01-06 |
 | [Fuckin' Up](https://open.spotify.com/track/774PuvXYcdfGrw9mFrl27q) | [Jynx](https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM) | [Fuckin' Up](https://open.spotify.com/album/0Z8QwHGTJRzNvIaiVnsmLe) | 3:00 | 2022-05-13 | 2022-08-20 |
@@ -715,6 +716,7 @@
 | [Monster](https://open.spotify.com/track/6sq2FStQI6nEw7NiSWTgTu) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Monster](https://open.spotify.com/album/5JaW7zptptjNILAtgA0sxD) | 2:52 | 2024-08-12 | 2024-08-26 |
 | [Monster](https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY) | [Take The Name](https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf) | [Monster](https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX) | 3:37 | 2024-08-12 |  |
 | [MONSTER](https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MONSTER](https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9) | 3:24 | 2022-02-11 | 2022-04-23 |
+| [Moonshine](https://open.spotify.com/track/1JdCU2PonLp9f9XMXGyTMU) | [STESY](https://open.spotify.com/artist/10InLsi9iNzEaKN0L1e4eG), [The Butcher Sisters](https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM) | [Moonshine](https://open.spotify.com/album/6qynTCtOR66aMQtqcDub2S) | 3:23 | 2025-05-16 |  |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-07-13 | 2022-07-16 |
 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2023-12-15 | 2024-12-19 |
 | [Mud](https://open.spotify.com/track/1jn8O6p81JAzyxycw1VMGu) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Exhibition Of Prowess](https://open.spotify.com/album/3UqEHbnms5ixC6YPuPZTfi) | 3:07 | 2024-09-20 | 2024-11-09 |
@@ -799,7 +801,7 @@
 | [Our Brand Is Chaos](https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Our Brand Is Chaos](https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA) | 4:35 | 2024-05-10 | 2024-06-21 |
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-07-23 |
 | [Over the Garden Wall](https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [The Cycles Of Trying To Cope](https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM) | 3:52 | 2024-05-10 | 2024-11-27 |
-| [Over You](https://open.spotify.com/track/4YYiBCmuWEeEmcoo7596fv) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Over You](https://open.spotify.com/album/7LlcRoEkCanHaj3j81oCOM) | 3:18 | 2025-03-31 |  |
+| [Over You](https://open.spotify.com/track/4YYiBCmuWEeEmcoo7596fv) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Over You](https://open.spotify.com/album/7LlcRoEkCanHaj3j81oCOM) | 3:18 | 2025-03-31 | 2025-05-19 |
 | [OVERDOSE](https://open.spotify.com/track/2SoR6O8idei7LmHz5zjGv2) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [OVERDOSE](https://open.spotify.com/album/0cI5qlpfzlP6U12EHcKLCy) | 5:21 | 2024-03-08 | 2024-06-05 |
 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 | 2025-01-17 |  |
 | [Overdrive](https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dopamine](https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu) | 2:26 | 2024-02-09 | 2024-03-02 |
@@ -1005,7 +1007,7 @@
 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 | 2022-07-01 | 2022-10-29 |
 | [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:36 | 2022-07-13 | 2022-07-23 |
 | [Superstitious Fantasy](https://open.spotify.com/track/5DzC00rFiucpFlTnZZ9yxe) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Superstitious Fantasy](https://open.spotify.com/album/2gRdFKe4ZKnGzhCfLGT69z) | 3:46 | 2022-04-15 | 2022-05-06 |
-| [SUPRA](https://open.spotify.com/track/1lzSDrUwQTzz0pBfck4GLg) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [DETHMASK 3](https://open.spotify.com/album/66f7bCtGPhNj3LKEdbK7AY) | 3:03 | 2025-02-21 |  |
+| [SUPRA](https://open.spotify.com/track/1lzSDrUwQTzz0pBfck4GLg) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [DETHMASK 3](https://open.spotify.com/album/66f7bCtGPhNj3LKEdbK7AY) | 3:03 | 2025-02-21 | 2025-05-19 |
 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 | 2021-12-17 | 2022-07-23 |
 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 | 2022-07-13 | 2022-07-23 |
 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 | 2022-12-16 | 2023-04-01 |

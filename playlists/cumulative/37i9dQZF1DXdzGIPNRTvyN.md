@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-326 songs - 15 hr 25 min
+327 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Iris](https://open.spotify.com/track/0Stglwb32v0xOdAC1crESv) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Iris](https://open.spotify.com/album/2nGtymz1xRwSSBhV6s1EoK) | 2:54 | 2024-06-03 |  |
 | [Jangal](https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Jangal](https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx) | 3:22 | 2023-08-21 |  |
 | [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 | 2023-02-13 | 2023-07-29 |
-| [Just At Ease](https://open.spotify.com/track/65ZtqFklHjy0FeScTQTFM2) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs), [LUNIQ.](https://open.spotify.com/artist/7A8w7cPUZgGsW7quCMezNx) | [States of Humidity](https://open.spotify.com/album/2UTJ8YGzn8SwBoIhPiufxE) | 3:19 | 2024-04-01 |  |
+| [Just At Ease](https://open.spotify.com/track/65ZtqFklHjy0FeScTQTFM2) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs), [LUNIQ.](https://open.spotify.com/artist/7A8w7cPUZgGsW7quCMezNx) | [States of Humidity](https://open.spotify.com/album/2UTJ8YGzn8SwBoIhPiufxE) | 3:19 | 2024-04-01 | 2025-05-19 |
 | [Justice](https://open.spotify.com/track/5TSyKEnThZBxS8n6T3O6yh) | [Aden Cloud](https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln) | [Justice](https://open.spotify.com/album/15GShjofLiAv6f1vQOf4qt) | 2:58 | 2024-04-01 |  |
 | [Krathong](https://open.spotify.com/track/2ZJEXYpeQy4YBx3DmjoakI) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Krathong](https://open.spotify.com/album/4FsrtxxXyROSsrqwvX4tBg) | 3:03 | 2024-01-30 | 2025-04-30 |
 | [La Pierre Dans La Forêt](https://open.spotify.com/track/2X0aqBtMYaa1r4aetK6lZ7) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [La Pierre Dans La Forêt](https://open.spotify.com/album/1phF1rjWS2TbHYGgo7JGrM) | 2:58 | 2023-03-13 | 2024-06-04 |
@@ -205,6 +205,7 @@
 | [Nidra](https://open.spotify.com/track/2S6PhX39o91uuRNHgQWrhe) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Nidra](https://open.spotify.com/album/6lsGTwVj3XHsiMK2P5F4GP) | 3:09 | 2023-10-26 |  |
 | [Nocturne in the rain](https://open.spotify.com/track/1fColVDTMjOFRu4kDMKMP2) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Nocturne in the rain](https://open.spotify.com/album/1DQQanFJj3DqKH5oD9JadF) | 2:30 | 2023-03-13 | 2024-06-04 |
 | [Nordic Nature](https://open.spotify.com/track/3sw3OyQfASazznWZz0w1EU) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Nordic Nature](https://open.spotify.com/album/01Pb8nwmMw9acSDIceI8yO) | 3:08 | 2024-01-30 | 2025-04-30 |
+| [Northwest](https://open.spotify.com/track/7L448q1PmOLAczKmDNkVXv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Northwest](https://open.spotify.com/album/4zRVDtjiuzE8tcuMQNmmSa) | 2:38 | 2025-05-16 |  |
 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 | 2024-01-18 | 2025-04-30 |
 | [Oasis](https://open.spotify.com/track/7C8Rz0cs00PxqLFNK8M7Ni) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Oasis](https://open.spotify.com/album/1MM6e5be6yMO3nFcobJFDQ) | 2:04 | 2023-08-18 |  |
 | [Of Dreams](https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Of Dreams](https://open.spotify.com/album/1rLMWKKbiR0yf3jAeoBlp4) | 3:03 | 2025-05-16 |  |

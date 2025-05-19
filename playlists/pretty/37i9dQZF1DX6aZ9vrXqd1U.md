@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,259 likes - 147 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,303 likes - 147 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 14 | [血塗られたザビ家](https://open.spotify.com/track/4V4IW1heQCHkbeHBFWDeaW) | [松山祐士](https://open.spotify.com/artist/2imspzhRJteuXu9rwkaBl2) | [機動戦士ガンダム　TV版総音楽集](https://open.spotify.com/album/60g2cCQovmO2phFOXuucCR) | 1:13 |
 | 15 | [Into Infinity \- Gundam Pavilion Theme](https://open.spotify.com/track/2PhJ7bYuBdMpZfvImLgKAv) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | ["GUNDAM: Next Universal Century" Original Motion Picture Soundtrack](https://open.spotify.com/album/5JlBkE5vrTPVU1GQ65S65X) | 4:44 |
 | 16 | [Idol Senshi \(feat\. Hatsune Miku\)](https://open.spotify.com/track/2M5U4mkcjdwhQXFWg3N9jF) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Idol Senshi \(feat\. Hatsune Miku\)](https://open.spotify.com/album/0akNe9ccHMwVMyhX56a996) | 4:01 |
-| 17 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 |
+| 17 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 |
 | 18 | [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 |
 | 19 | [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 |
 | 20 | [Reborn](https://open.spotify.com/track/3jHwfPbqqMBRABSbqbWhlf) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Reborn](https://open.spotify.com/album/0c8uRnt3eEMJWxDotxoK8G) | 4:30 |

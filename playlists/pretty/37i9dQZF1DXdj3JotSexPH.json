@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36215,
+  "num_followers": 36211,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "\u0627\u0644\u0639\u064a\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
         "url": "https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR"
       },
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -339,26 +339,6 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -411,6 +391,26 @@
       "duration_ms": 165107,
       "name": "Slide da Treme Mel\u00f3dica v2",
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -499,38 +499,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "BANDIT",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -551,6 +519,22 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "BANDIT",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -607,6 +607,22 @@
       "duration_ms": 190133,
       "name": "My wrist (with Young Thug)",
       "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -719,26 +719,18 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -795,22 +787,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "Shittin' Me",
         "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 144729,
       "name": "Shittin' Me",
       "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "FUK SUMN",
-      "url": "https://open.spotify.com/track/4eIYnlcgI2chjQBuW1VRr7"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "Alive (feat. The Moth & The Flame)",
         "url": "https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR"
       },
@@ -987,6 +963,22 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
+        "name": "Mahma Sar",
+        "url": "https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn"
+      },
+      "artists": [
+        {
+          "name": "Abadi Al Johar",
+          "url": "https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf"
+        }
+      ],
+      "duration_ms": 240299,
+      "name": "Mahma Sar",
+      "url": "https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
         "name": "Arc",
         "url": "https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm"
       },
@@ -1003,18 +995,26 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Mahma Sar",
-        "url": "https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93"
       },
       "artists": [
         {
-          "name": "Abadi Al Johar",
-          "url": "https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf"
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 240299,
-      "name": "Mahma Sar",
-      "url": "https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb"
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/4eIYnlcgI2chjQBuW1VRr7"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Kitab",
-        "url": "https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI"
-      },
-      "artists": [
-        {
-          "name": "Tageel",
-          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "SHED F TARFO",
         "url": "https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 156736,
       "name": "SHED F TARFO",
       "url": "https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "Kitab",
+        "url": "https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1235,22 +1235,6 @@
       "duration_ms": 189295,
       "name": "Khalisni",
       "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
-        "name": "SHOOTA",
-        "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
-      },
-      "artists": [
-        {
-          "name": "Vortex",
-          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
-        }
-      ],
-      "duration_ms": 149536,
-      "name": "SHOOTA",
-      "url": "https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1311,6 +1295,42 @@
       "duration_ms": 157052,
       "name": "\u0628\u0631\u0627\u0646\u062f",
       "url": "https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "Dabbaba",
+        "url": "https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv"
+      },
+      "artists": [
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        },
+        {
+          "name": "Moayad",
+          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Dabbaba",
+      "url": "https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "SHOOTA",
+        "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
+      },
+      "artists": [
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        }
+      ],
+      "duration_ms": 149536,
+      "name": "SHOOTA",
+      "url": "https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1379,26 +1399,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Dabbaba",
-        "url": "https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv"
-      },
-      "artists": [
-        {
-          "name": "Ntitled",
-          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
-        },
-        {
-          "name": "Moayad",
-          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Dabbaba",
-      "url": "https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
+        "name": "Da Elly 7sal (\u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644)",
+        "url": "https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "duration_ms": 252488,
+      "name": "Da Elly 7sal - \u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644",
+      "url": "https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
         "name": "3al Keif",
         "url": "https://open.spotify.com/album/51Lof84YvtpZtdNOZonXkJ"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 229090,
       "name": "3al Keif",
       "url": "https://open.spotify.com/track/4SG09CqoJMKO7EGfJCD0VZ"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
-        "name": "Da Elly 7sal (\u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644)",
-        "url": "https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO"
-      },
-      "artists": [
-        {
-          "name": "Balqees",
-          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
-        }
-      ],
-      "duration_ms": 252488,
-      "name": "Da Elly 7sal - \u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644",
-      "url": "https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX"
     },
     {
       "added_at": "2024-09-30 12:18:54",

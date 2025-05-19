@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,999 likes - 60 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,004 likes - 60 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 59 | [Garotas Amam Anitta](https://open.spotify.com/track/4nofvvDazlnhf35cvPUBU2) | [Jovem Caio](https://open.spotify.com/artist/5uPdlHNs7tCxONifNy5AqV) | [Bem Vindo Ao Verão](https://open.spotify.com/album/6MbNnNEKfe1jjXde8YtKuk) | 2:01 |
 | 60 | [Gringo](https://open.spotify.com/track/7tGY7AG6nPFCeP2KAXZCen) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Gringo](https://open.spotify.com/album/3bFrxMbPC5kxbVWfYkqDzF) | 2:11 |
 
-Snapshot ID: `aCdAlwAAAADmCoo3er0JXvncMKGGjL+0`
+Snapshot ID: `AAAAAKNFjoXORrM3WfNsZTZuvTZMHy7c`

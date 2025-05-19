@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 43567,
+  "num_followers": 43586,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Arike",
-        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 124286,
-      "name": "Arike",
-      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 124286,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/4HgqgBQ1GijdEct4MU407R"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 161619,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5EMD7ozaMBD2GJCUHD5nVn"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "Viva Lavida",
         "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
       },
@@ -343,22 +327,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "BIPOLAR",
-        "url": "https://open.spotify.com/album/4rjnYqHrPb6zd6kARIMQat"
-      },
-      "artists": [
-        {
-          "name": "SYEMCA",
-          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "WWGD [What We Gon Do]",
-      "url": "https://open.spotify.com/track/5GmKF1H37UiJ3sBBibxZKw"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -375,6 +343,38 @@
       "duration_ms": 175200,
       "name": "Dudu",
       "url": "https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "BIPOLAR",
+        "url": "https://open.spotify.com/album/4rjnYqHrPb6zd6kARIMQat"
+      },
+      "artists": [
+        {
+          "name": "SYEMCA",
+          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "WWGD [What We Gon Do]",
+      "url": "https://open.spotify.com/track/5GmKF1H37UiJ3sBBibxZKw"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/4HgqgBQ1GijdEct4MU407R"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 161619,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5EMD7ozaMBD2GJCUHD5nVn"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Forever Getting It (FGI)",
-        "url": "https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        },
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 149192,
-      "name": "Don\u2019t Bother Me (feat. Monaky)",
-      "url": "https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 180612,
       "name": "Princess Treatment",
       "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "Forever Getting It (FGI)",
+        "url": "https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        },
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 149192,
+      "name": "Don\u2019t Bother Me (feat. Monaky)",
+      "url": "https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
         "name": "Disciple",
         "url": "https://open.spotify.com/album/2FRkIxUMIHqsRQk1IYPTEe"
       },
@@ -1055,6 +1071,30 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 178310,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
         "name": "Falling/Unleash",
         "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
       },
@@ -1091,26 +1131,22 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
+        "name": "France Feeling",
+        "url": "https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Koko\u00eb",
+          "url": "https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
         }
       ],
-      "duration_ms": 178310,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
+      "duration_ms": 169444,
+      "name": "France Feeling",
+      "url": "https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1135,22 +1171,18 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "France Feeling",
-        "url": "https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
       },
       "artists": [
         {
-          "name": "Koko\u00eb",
-          "url": "https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY"
-        },
-        {
-          "name": "Mamba Sounds",
-          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         }
       ],
-      "duration_ms": 169444,
-      "name": "France Feeling",
-      "url": "https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43"
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "Virtuoso",
         "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 190641,
       "name": "Despasito",
       "url": "https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA"
-      },
-      "artists": [
-        {
-          "name": "Zarion Uti",
-          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "100",
-      "url": "https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1239,18 +1239,34 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+        "name": "100",
+        "url": "https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+      "duration_ms": 150666,
+      "name": "100",
+      "url": "https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "Beg For It",
+        "url": "https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "Beg For It",
+      "url": "https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1271,22 +1287,6 @@
       "duration_ms": 160508,
       "name": "OMN",
       "url": "https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
-        "name": "Beg For It",
-        "url": "https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l"
-      },
-      "artists": [
-        {
-          "name": "Njerae",
-          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "Beg For It",
-      "url": "https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So"
-      },
-      "artists": [
-        {
-          "name": "Runda",
-          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 175257,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6DeUguXIRHGGUZYjCsq1b6"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 145000,
       "name": "Woman",
       "url": "https://open.spotify.com/track/68Aabutp5ZczYCmi51dPAG"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 175257,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
     },
     {
       "added_at": "2025-05-16 04:25:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Dan Mangan
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,703 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,709 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Never Be Without Love](https://open.spotify.com/track/6MkxIJbhsXIiL1maMJFZHm) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Never Be Without Love](https://open.spotify.com/album/0BCZ4HqL2CZN58qa2w8mxx) | 2:52 |
 | 100 | [Singing To Sad Songs](https://open.spotify.com/track/6tqClqvnevPB0KROoKO6PV) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Symphony of Doubts \(Part 1\)](https://open.spotify.com/album/3uo1U3JwQH8nqaBTb98ORX) | 3:30 |
 
-Snapshot ID: `aCa4XgAAAAAoAWHn5Lo4yVVocTeYRRIC`
+Snapshot ID: `aCa4XgAAAAAPtEdUizr5DjIi0sJNC+LC`

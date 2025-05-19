@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 8 hr 16 min
+147 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Just a Second](https://open.spotify.com/track/33vRItyPv1a9n1g2mWtH1N) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Just a Second](https://open.spotify.com/album/0XLX8xTRvNlZcdT6VStkFR) | 3:59 | 2024-06-13 |  |
 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 | 2024-06-13 |  |
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-06-14 |  |
-| [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 | 2025-05-08 |  |
+| [Lose Yourself](https://open.spotify.com/track/3leAtL1voHUYghCX82wEIg) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Plæygirl](https://open.spotify.com/album/7gT1PWuFHJMn0gFxHKZROu) | 2:54 | 2025-05-18 |  |
+| [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 | 2025-05-08 | 2025-05-19 |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-12-17 |  |
 | [Love Me Or Let Me Go](https://open.spotify.com/track/3Ibf5MzsKj4TKeeoL8ZtiQ) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Love Me Or Let Me Go](https://open.spotify.com/album/4nRcUuqqch0WbjDk3OvOoe) | 2:34 | 2024-06-13 |  |
 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 | 2024-06-13 |  |
@@ -151,7 +152,8 @@
 | [Vicinity](https://open.spotify.com/track/5EJENkTrInunJAVBKYtt9D) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Vicinity](https://open.spotify.com/album/2sjmYViZu84cgiJz1sbEw4) | 3:21 | 2025-01-09 | 2025-04-12 |
 | [When I'm Alone](https://open.spotify.com/track/5Dk6mLcQ5EKYEkWSmLgQb5) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Joston](https://open.spotify.com/artist/7BZRNGgJbXaXPxtCQp3eSV), [Clementine Douglas](https://open.spotify.com/artist/5JK1Ax0uAufztPzZB0WqHa) | [Find the Sunrise](https://open.spotify.com/album/1WCqIa46hsuHtjhiFGT2ln) | 3:40 | 2024-06-13 |  |
 | [When the Night Is Over](https://open.spotify.com/track/3u5JhMHnFrkNlROhDYgqSP) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:37 | 2024-06-13 |  |
-| [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-11-06 |  |
+| [Who Said](https://open.spotify.com/track/0xwRtdUUVTfOkseJIzC8T2) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Plæygirl](https://open.spotify.com/album/7gT1PWuFHJMn0gFxHKZROu) | 3:07 | 2025-05-18 |  |
+| [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-11-06 | 2025-05-19 |
 | [You Could Be The One](https://open.spotify.com/track/0VOL1UznKwKTTbAqNsG3pM) | [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Extrapolate EP](https://open.spotify.com/album/3g9sgL0uyNptqTgNowIF3R) | 3:15 | 2024-06-13 |  |
 
 \*This playlist was first scraped on 2024-06-14. Prior content cannot be recovered.

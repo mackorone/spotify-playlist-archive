@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-283 songs - 14 hr 42 min
+284 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Don](https://open.spotify.com/track/1Pb0kCirr3q8Cw2CL77y7R) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Don](https://open.spotify.com/album/2OjJGY6iQx0FAkQS5RMDJ1) | 3:22 | 2025-01-08 | 2025-02-20 |
 | [Don't Care](https://open.spotify.com/track/1hSWz5AZ36WjQMgFOir0By) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Don't Care](https://open.spotify.com/album/2BdHXu9RoP1JfwDypU5fk9) | 3:38 | 2022-01-10 | 2024-09-29 |
 | [Don't Look](https://open.spotify.com/track/5f3PgI4zW2oErM3j3MWTWW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Don't Look](https://open.spotify.com/album/0deuGuFI4MG9hTa5QI4Sar) | 3:06 | 2025-01-28 |  |
+| [Exclusive](https://open.spotify.com/track/01tY8ZMQXs2sO6dPQQMAIt) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [The Lassoi Code](https://open.spotify.com/album/4pY5u16GsIyIpmr1JTPxmL) | 2:22 | 2025-05-08 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2021-12-18 | 2024-09-17 |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2021-12-18 | 2023-09-02 |
 | [FIR](https://open.spotify.com/track/5LKwyZEcftYJl9AJNV0hpr) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Gag Studioz](https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 3:30 | 2024-05-24 | 2024-09-20 |
@@ -244,7 +245,7 @@
 | [Still Standing](https://open.spotify.com/track/6qJwdPK0bMWyX2ys3lZ23y) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [Underrated](https://open.spotify.com/album/2k3QwEDSQHgQLclE3Cvcov) | 2:38 | 2021-12-18 | 2023-09-02 |
 | [Sun Jattiye \(feat\. Charnpreet Dhillon\)](https://open.spotify.com/track/7BIW2l0LjfmWqVUVdpZUAd) | [Dilbag Sandhu](https://open.spotify.com/artist/0Zm7CWUz4LPYRWaxs4JYAx), [Manpreet Hans](https://open.spotify.com/artist/0EL0VMv1reqwgvfBSrxWmT), [Charnpreet Dhillon](https://open.spotify.com/artist/42MQDEs0fRWYRGfFJyXeXq) | [Sun Jattiye \(feat\. Charnpreet Dhillon\)](https://open.spotify.com/album/1TrguiaWd1KSOrbGIA5RiK) | 3:01 | 2025-03-13 | 2025-03-20 |
 | [Sunke](https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Sunke](https://open.spotify.com/album/29tL8p9u0WlMEFaaArdBq4) | 2:39 | 2024-11-20 |  |
-| [Super Flow](https://open.spotify.com/track/3D3lcpe88aFfGe7k7e4hhe) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Super Flow](https://open.spotify.com/album/3AkgWnjFsCbesG1CXU1Qub) | 1:54 | 2025-03-11 |  |
+| [Super Flow](https://open.spotify.com/track/3D3lcpe88aFfGe7k7e4hhe) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Super Flow](https://open.spotify.com/album/3AkgWnjFsCbesG1CXU1Qub) | 1:54 | 2025-03-11 | 2025-05-19 |
 | [SUPREME](https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [XPENSIVE](https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ) | 2:50 | 2025-01-08 |  |
 | [Surma](https://open.spotify.com/track/2EKPi0tqWGoCMRUm0OimC1) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Raj Shoker](https://open.spotify.com/artist/1Na1S8hKokfgUHipxLLx59) | [Surma](https://open.spotify.com/album/0mynneCJOCqAWYEW8Eg6JM) | 3:38 | 2021-12-18 | 2022-01-11 |
 | [Surrey Connection](https://open.spotify.com/track/4Pe5HvYcEE9ce0faCSNvOU) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Prem Lata](https://open.spotify.com/artist/3ufBSdoViRPzJXqGPVy8rH), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:45 | 2025-03-28 | 2025-04-09 |

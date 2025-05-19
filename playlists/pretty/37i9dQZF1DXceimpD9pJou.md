@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Mosaic MSC
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,317 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,336 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 19 | [Cuando la noche se hace larga](https://open.spotify.com/track/6rRr8iLASk1uw66JHsZiU9) | [azarah](https://open.spotify.com/artist/6EBN7TtKRhnrq9UuwCG5Nt) | [Cuando la noche se hace larga](https://open.spotify.com/album/2QWVXqe5WPKw33eyyVXUG9) | 3:36 |
 | 20 | [muéstrame el camino](https://open.spotify.com/track/2AdM1s50XWZxEZNfGREjqa) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [muéstrame el camino](https://open.spotify.com/album/1ddCR9W3qMhejgpulfeCAI) | 3:02 |
 | 21 | [Fiesta](https://open.spotify.com/track/6oOVqaTTSYjQgmBWBitSvm) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Greatest Hits Su Presencia Worship](https://open.spotify.com/album/53pfbyenABIoJsXYN5ZKY0) | 4:27 |
-| 22 | [Yo Te Extrañaré](https://open.spotify.com/track/2nYIQEReJVpAnv8fsEaCRE) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Betsy & Jo](https://open.spotify.com/artist/7KxtqVJqiuA6F9j3ChRqen) | [Yo Te Extrañaré](https://open.spotify.com/album/1NhQoN58VSlze2YUTStfF4) | 4:34 |
+| 22 | [Yo Te Extrañaré](https://open.spotify.com/track/2nYIQEReJVpAnv8fsEaCRE) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Betsy Jo](https://open.spotify.com/artist/0gvbWmvzv81WUyoIf7O0Yx) | [Yo Te Extrañaré](https://open.spotify.com/album/1NhQoN58VSlze2YUTStfF4) | 4:34 |
 | 23 | [Mi Canto De Hoy](https://open.spotify.com/track/5tMm1Zoaf6gCIQFIUH6QF9) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P) | [Mi Canto De Hoy](https://open.spotify.com/album/3RDGMFrRaaviLH4qD6ss8y) | 4:38 |
 | 24 | [Lloverá](https://open.spotify.com/track/3flJuTsYLA6iRCAbwLBfce) | [Anna Blasco](https://open.spotify.com/artist/67ANV54MfHMt2nccdtkMHr) | [Lloverá](https://open.spotify.com/album/3ewB5rqLBfbJZ3IyQGZtNg) | 4:48 |
 | 25 | [BELLA FORTUNA](https://open.spotify.com/track/4K6nUMgiczwsGwqh81ux7g) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [BELLA FORTUNA](https://open.spotify.com/album/773oXfixG81dCL8Zoh29Xv) | 6:36 |

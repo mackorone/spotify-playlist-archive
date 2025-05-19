@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,247 songs - 2 day 19 hr 39 min
+1,248 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,6 +720,7 @@
 | [No Illusions](https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [No Illusions](https://open.spotify.com/album/3KNiB2o9uMUsOGCnn8zzUI) | 2:59 | 2022-04-15 | 2022-07-26 |
 | [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-12 | 2024-09-07 |
 | [No Regrets \- Stadiumx Remix](https://open.spotify.com/track/66WBGs8bPw8q93EG4h1s4p) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [No Regrets \(Stadiumx Remix\)](https://open.spotify.com/album/05lostOSOgm4r0Es9PMIS0) | 3:09 | 2021-03-11 | 2021-07-24 |
+| [No Room For A Saint \(From F1® The Movie\)](https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [No Room For A Saint \(From F1® The Movie\)](https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M) | 3:56 | 2025-05-16 |  |
 | [No Time](https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Time](https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI) | 2:36 | 2022-05-06 | 2023-05-02 |
 | [No! \- TCTS Remix](https://open.spotify.com/track/6ohw29K9rIEYRUMFfTELeX) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [No! \(TCTS Remix\)](https://open.spotify.com/album/18IITNp2thY6FcQVnQyzOT) | 3:20 | 2021-03-11 | 2021-09-11 |
 | [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 | 2020-11-03 | 2021-09-18 |
@@ -993,7 +994,7 @@
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-10-04 |  |
 | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe) | 2:52 | 2022-06-03 | 2022-07-29 |
 | [Stay \- Festival Mix](https://open.spotify.com/track/4mQguXNyYYycDFlLPgP4pS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stay \(Festival Mix\)](https://open.spotify.com/album/15wVlfh4QpK89TnFa2ZBc5) | 3:28 | 2020-10-10 | 2021-03-26 |
-| [Stay Here](https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Stay Here](https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW) | 3:58 | 2025-04-18 |  |
+| [Stay Here](https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Stay Here](https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW) | 3:58 | 2025-04-18 | 2025-05-19 |
 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2021-04-30 | 2021-09-18 |
 | [Stay Mine \- Gabry Ponte Remix](https://open.spotify.com/track/3LrxxJtUQkyMBCfqDrkqGx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Stay Mine \(Gabry Ponte Remix\)](https://open.spotify.com/album/78BMU9O8nupOdUxDa3CWTk) | 2:38 | 2021-09-25 | 2021-10-05 |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-04-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul?si=eRLNTVDKQcmxzYf8p9DaTw"> Le'Laika</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,013 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,018 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

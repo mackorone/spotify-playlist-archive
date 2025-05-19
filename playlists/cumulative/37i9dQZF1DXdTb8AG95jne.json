@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ubc31\uc608\ub9b0) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc720\ub2e4\ube48\ubc34\ub4dc) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 163320,
       "name": "0405 (Four Five)",
       "url": "https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl"
@@ -5247,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "GET LUCKY!",
+        "url": "https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm"
+      },
+      "artists": [
+        {
+          "name": "YdBB",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "GET LUCKY!",
+      "url": "https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j"
+    },
+    {
+      "album": {
         "name": "Getting the Season",
         "url": "https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW"
       },
@@ -8534,7 +8552,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-19",
       "duration_ms": 148053,
       "name": "Like today (feat. untell)",
       "url": "https://open.spotify.com/track/10vUa2rFZmfA3WKmML7qye"
@@ -13346,6 +13364,24 @@
       "duration_ms": 173958,
       "name": "Sofa(So far)",
       "url": "https://open.spotify.com/track/41A2osT4LHlwVAOKAHuVBU"
+    },
+    {
+      "album": {
+        "name": "Live from Nowhere Known",
+        "url": "https://open.spotify.com/album/5BwrI7JyynVZQIyrN18yZq"
+      },
+      "artists": [
+        {
+          "name": "After Thoughts",
+          "url": "https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204761,
+      "name": "Soft Breeze - Live from Nowhere Known",
+      "url": "https://open.spotify.com/track/7lDIrzxhomJ1O0Xk7eIo6z"
     },
     {
       "album": {

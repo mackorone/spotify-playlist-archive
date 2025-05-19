@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Mariah the Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,385,197 likes - 184 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,385,029 likes - 184 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

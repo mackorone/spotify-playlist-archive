@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 73991,
+  "num_followers": 74010,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCaAAAAAAABYBogBwDYfxdchO/BTQRrF",
+  "snapshot_id": "aCfRgAAAAABCouIgbaSaNPFjt/fIfGo7",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Set Your Eyes to Zion",
-      "url": "https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 246160,
       "name": "Soundboy Killa",
       "url": "https://open.spotify.com/track/5LwqDzyg1wpNzJIwTvfIFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Set Your Eyes to Zion",
+      "url": "https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG"
     },
     {
       "added_at": null,

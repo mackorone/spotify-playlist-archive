@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:2qVi7G7OjgVXyl9zxabzTQ">Sarah Julia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,154 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,153 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

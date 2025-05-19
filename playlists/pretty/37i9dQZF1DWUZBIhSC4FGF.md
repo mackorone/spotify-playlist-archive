@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,858 likes - 105 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,055 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 104 | [Equinox](https://open.spotify.com/track/2uwlMSZxMKjfmbhh1URY65) | [Wolfgang Ohmer](https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k) | [Sonic Blue \- Ambient Hang Music](https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5) | 2:37 |
 | 105 | [Ethnic Spirit](https://open.spotify.com/track/5F2sIZrGyOOdu1pnLRMcHb) | [Natural Healing Music Zone](https://open.spotify.com/artist/7yrrBoat3imi8RJTlmYXfz) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:22 |
 
-Snapshot ID: `aCc02AAAAADrnR5iqMKDbOUxuHZkmMRi`
+Snapshot ID: `AAAAAF9JWCJerC4ASnIZeDULwSOwHZWe`

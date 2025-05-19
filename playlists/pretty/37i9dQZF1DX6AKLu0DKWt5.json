@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7348,
+  "num_followers": 7350,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Queer (Original Score)",
+        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 274463,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Monsters: The Lyle and Erik Menendez Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 68693,
       "name": "Wallace & Gromit",
       "url": "https://open.spotify.com/track/6DWohjBrR8myDqpYtWXfXX"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Queer (Original Score)",
-        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 274463,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Nickel Boys (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6pAGYJhh68vHdZFUCezwKM"
-      },
-      "artists": [
-        {
-          "name": "Alex Somers",
-          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
-        }
-      ],
-      "duration_ms": 155998,
-      "name": "Grown Into",
-      "url": "https://open.spotify.com/track/6LfeM2dBS486SVKneSCH3Z"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Kinds of Kindness (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0VRgQLW4xwRHBkOXpd3YAJ"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+        "name": "Nickel Boys (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6pAGYJhh68vHdZFUCezwKM"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
+      "duration_ms": 155998,
+      "name": "Grown Into",
+      "url": "https://open.spotify.com/track/6LfeM2dBS486SVKneSCH3Z"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -731,6 +715,22 @@
       "duration_ms": 161454,
       "name": "PANESSO",
       "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
     },
     {
       "added_at": "2024-12-20 14:00:08",

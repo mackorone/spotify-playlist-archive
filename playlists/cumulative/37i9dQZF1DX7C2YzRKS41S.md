@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-453 songs - 1 day 2 hr 43 min
+454 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@
 | [Um Par Ímpar](https://open.spotify.com/track/1LqK404kKMMN7jJAo8pJ7v) | [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Um Par Ímpar](https://open.spotify.com/album/0n4JzgfSlW2fXR7STLm2SW) | 3:48 | 2022-06-03 | 2022-06-17 |
 | [Um Pescador](https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Um Pescador](https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn) | 3:49 | 2023-10-13 | 2023-10-21 |
 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 | 2021-12-24 | 2022-06-08 |
-| [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2021-12-24 |  |
+| [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2021-12-24 | 2025-05-19 |
 | [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 | 2022-03-25 | 2024-06-01 |
 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 | 2021-12-24 |  |
 | [Vapor](https://open.spotify.com/track/0kteOf15gjOAWtyOwLFBL8) | [Victor Mus](https://open.spotify.com/artist/2chMd942hjEdCQWYDGVIXw) | [Vapor](https://open.spotify.com/album/2DnIPRQ4tOhHOoPDFbE3PQ) | 3:53 | 2021-12-24 | 2022-07-25 |
@@ -444,6 +444,7 @@
 | [vi você passando hoje](https://open.spotify.com/track/2DO4o2qvvFIXPw3rQ6H4Iv) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [vi você passando hoje](https://open.spotify.com/album/7DDwCMi1FmhoQPYepZy2Hs) | 3:01 | 2022-03-25 | 2022-04-21 |
 | [Viagem Perdida](https://open.spotify.com/track/6XAaA5z3y7C9gHoWW8g4id) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Slap Sessions](https://open.spotify.com/album/4OUVJBnYrmvaLLUImtSgAT) | 5:00 | 2022-04-06 | 2022-04-21 |
 | [Vida Lá Fora](https://open.spotify.com/track/2K0j2vGd9FRdY3yPIm3QQW) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Vida Lá Fora](https://open.spotify.com/album/0SJaoMf2HVlCpWCYRLNZYI) | 3:10 | 2023-09-22 | 2023-10-14 |
+| [Viver de Carinho](https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Viver de Carinho](https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm) | 2:28 | 2025-05-16 |  |
 | [Você Chegou](https://open.spotify.com/track/6tyWzVdRd6loW3mkfhh4xV) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp), [Arthur Favero](https://open.spotify.com/artist/6ro3Jx7xVl5MVF4HzZ2puK) | [Você Chegou](https://open.spotify.com/album/2H0srRA21uGJ4UMleEPvWK) | 2:20 | 2021-12-24 | 2022-07-29 |
 | [Você Me Faz Tão Bem \- Acústico](https://open.spotify.com/track/1Yrwc1kcip7IGd39X4tCeQ) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Flavio Ferrari \(Acústico\)](https://open.spotify.com/album/0sTEHiMWMfaYByU24aLOJj) | 3:14 | 2022-01-21 | 2022-04-12 |
 | [Vírgula](https://open.spotify.com/track/3hfSi8c18dgL3lO0u1HRDw) | [Cris Romagna](https://open.spotify.com/artist/4ITd00e5r2QhotcIdfNMRW) | [Vírgula](https://open.spotify.com/album/3MhS3Bu4OAU9tPQzoTg4pP) | 3:13 | 2021-12-24 | 2022-07-29 |

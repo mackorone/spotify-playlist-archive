@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 126188,
+  "num_followers": 126240,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2005",
         "url": "https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 219226,
       "name": "Body Water",
       "url": "https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold",
+        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
+      },
+      "artists": [
+        {
+          "name": "Scrunter",
+          "url": "https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd"
+        }
+      ],
+      "duration_ms": 352173,
+      "name": "Sing In The Party",
+      "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -171,38 +203,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold",
-        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
-      },
-      "artists": [
-        {
-          "name": "Scrunter",
-          "url": "https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Sing In The Party",
-      "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca758 Vol. 3",
         "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
       },
@@ -235,38 +235,6 @@
       "duration_ms": 197293,
       "name": "Breathless (feat. Blaxx)",
       "url": "https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Gilded Collection 1986 - 1989",
-        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 309373,
-      "name": "The Hammer",
-      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -344,9 +312,9 @@
           "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 345373,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ"
+      "duration_ms": 309373,
+      "name": "The Hammer",
+      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -363,6 +331,22 @@
       "duration_ms": 395866,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -431,6 +415,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Man Ah Bad Man",
+        "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
+      },
+      "artists": [
+        {
+          "name": "Devon George",
+          "url": "https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "If Ah Rude Ah Rude",
+      "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Switch Vol. 5",
         "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
       },
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Man Ah Bad Man",
-        "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
+        "name": "The Gilded Collection 1986 - 1989",
+        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
       },
       "artists": [
         {
-          "name": "Devon George",
-          "url": "https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG"
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 300506,
-      "name": "If Ah Rude Ah Rude",
-      "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
+      "duration_ms": 345373,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 1998",
         "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 256826,
       "name": "In The Mean Time",
       "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Explosion",
-        "url": "https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM"
-      },
-      "artists": [
-        {
-          "name": "Lord Shorty Creator of Soca Music",
-          "url": "https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2"
-        }
-      ],
-      "duration_ms": 309300,
-      "name": "Higher World of Music",
-      "url": "https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "The Best of the Shadow Vol. 1",
         "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 308546,
       "name": "I Come Out To Play",
       "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Explosion",
+        "url": "https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM"
+      },
+      "artists": [
+        {
+          "name": "Lord Shorty Creator of Soca Music",
+          "url": "https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2"
+        }
+      ],
+      "duration_ms": 309300,
+      "name": "Higher World of Music",
+      "url": "https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Trini Gold",
-        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
-      },
-      "artists": [
-        {
-          "name": "Superblue",
-          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Tribute to Sundar",
-      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca 101 Vol.2",
         "url": "https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 203933,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Trini Gold",
+        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
+      },
+      "artists": [
+        {
+          "name": "Superblue",
+          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Tribute to Sundar",
+      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 432666,
       "name": "Nani Wine",
       "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 396453,
       "name": "Doye, Doye",
       "url": "https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Any Minute Now",
-        "url": "https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Soca",
-      "url": "https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Get Soca 2017",
         "url": "https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 258893,
       "name": "Blame It (on De Music)",
       "url": "https://open.spotify.com/track/5NPytt77xDitWfE98UeEDV"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Any Minute Now",
+        "url": "https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Soca",
+      "url": "https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V"
     },
     {
       "added_at": "2024-08-06 01:00:53",

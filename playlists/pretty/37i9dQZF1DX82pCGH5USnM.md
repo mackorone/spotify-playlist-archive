@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363,519 likes - 211 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,363,639 likes - 211 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 210 | [Kithára](https://open.spotify.com/track/37tMM2RlXWmRp5NClQkSnm) | [Jobarpopoulos](https://open.spotify.com/artist/6KmgiX5k5l3j6fEfUMs1Kz) | [Kithára](https://open.spotify.com/album/04hetkeabrUVbGppaj6tcE) | 2:42 |
 | 211 | [Sunset Skybar](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q) | [Palma Dreams](https://open.spotify.com/artist/6g6CC8hzY5pFe9trUEoty9) | [Dive In](https://open.spotify.com/album/3ITTHt0Eu1doM1Q4wh1I8U) | 2:40 |
 
-Snapshot ID: `aB4DUwAAAACpsbeXcxB4Q1L3rjPtnz8l`
+Snapshot ID: `aB4DUwAAAAA23z31JWxuyhy2e818VHn8`
