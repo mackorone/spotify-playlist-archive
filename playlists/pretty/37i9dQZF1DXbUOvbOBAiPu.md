@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Zwangere Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,488 likes - 105 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,484 likes - 105 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

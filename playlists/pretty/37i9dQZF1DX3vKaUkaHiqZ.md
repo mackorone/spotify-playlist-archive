@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,931 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,933 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

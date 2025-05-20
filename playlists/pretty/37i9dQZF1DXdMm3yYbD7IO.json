@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 462820,
+  "num_followers": 463287,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "My Promise",
-        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
-      },
-      "artists": [
-        {
-          "name": "No Mercy",
-          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Totally Krossed Out",
         "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 195106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
+      },
+      "artists": [
+        {
+          "name": "No Mercy",
+          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Supermodel of the World",
-        "url": "https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Supermodel (You Better Work)",
-      "url": "https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/4TaKGJaappn4hWMuLdwUEF"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 241466,
       "name": "Around the World - Radio Edit [Radio Edit]",
       "url": "https://open.spotify.com/track/6XKvPNWlmnN0gJejCKm1k7"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Supermodel of the World",
+        "url": "https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Supermodel (You Better Work)",
+      "url": "https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v"
     },
     {
       "added_at": "2024-07-12 19:59:45",

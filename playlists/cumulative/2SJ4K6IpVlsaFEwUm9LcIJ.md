@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-577 songs - 1 day 9 hr 21 min
+581 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 | 2024-07-12 |
 | [Bell Buoy](https://open.spotify.com/track/06Ff1LSvn5WUw2EHPMSzcg) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 4:16 | 2024-03-09 | 2024-05-16 |
+| [ber3ft](https://open.spotify.com/track/5HiL7kT2F6vtzGuBEhxrQc) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0) | [ber3ft](https://open.spotify.com/album/4Vls2ltBHw9qeDJzap7xCs) | 1:37 | 2025-05-19 |  |
 | [BERETTA](https://open.spotify.com/track/5oFigb8ql8JTtowM87T979) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 2:42 | 2024-10-17 | 2024-11-14 |
 | [Berry on a Briar](https://open.spotify.com/track/7fGjyvwFV3kbSBBhT8McGO) | [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [Old News](https://open.spotify.com/album/27NsD2q6jzQWlVjDNBEizM) | 3:59 | 2025-04-20 | 2025-05-09 |
 | [Bir Kulunu Çok Sevdim](https://open.spotify.com/track/5mvyo4J94M7ZrqVFexlDsr) | [Rüya Çağla](https://open.spotify.com/artist/2GkGi4SBVwaqaAOOS6K3UH) | [Ayşe](https://open.spotify.com/album/3n3rd4tFgyE3MtPJpByuIG) | 5:31 | 2025-03-01 | 2025-05-09 |
@@ -249,6 +250,7 @@
 | [I Wanna Be On Your Mind](https://open.spotify.com/track/6YcHKOWjUJ1mZNC9lWEBLt) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Scheduled Explosions](https://open.spotify.com/album/1dixWE0mC52gWtjmM55Icf) | 2:28 | 2024-12-09 | 2025-01-12 |
 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 | 2024-10-26 | 2024-11-14 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
+| [I'm Really Flagging \(or I Trusted U\)](https://open.spotify.com/track/52RQcaMJ3DdN3Uyfs4a19r) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Ben Vince](https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV) | [Belly Up](https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa) | 3:02 | 2025-05-19 |  |
 | [I'm So Serious](https://open.spotify.com/track/6JKbThcH863nxdmTtzbCLr) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [I'm So Serious](https://open.spotify.com/album/5m2uYclmYUb6UScDXXfosC) | 3:42 | 2024-09-10 | 2024-11-14 |
 | [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 | 2024-05-18 | 2024-07-12 |
 | [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 | 2024-05-23 | 2024-05-25 |
@@ -428,6 +430,7 @@
 | [Rhythm of the Rain](https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP) | [The Cascades](https://open.spotify.com/artist/6qF0CJP412Gd50Rn1sFg2o) | [Rhythm Of The Rain](https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17) | 2:26 | 2025-03-01 | 2025-05-09 |
 | [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 | 2024-09-27 | 2024-11-14 |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 | 2024-07-12 |
+| [Rocket Pad](https://open.spotify.com/track/52nZnaomb0Vavol25LLI77) | [The Apples In Stereo](https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP) | [Science Faire](https://open.spotify.com/album/7I7KK97MsFovIsNBGixCbm) | 3:09 | 2025-05-19 |  |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-24 | 2024-11-14 |
 | [Romantico sogno](https://open.spotify.com/track/6bMeTMLIbMBmvO9OD2hVtI) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Ballate con noi N.1](https://open.spotify.com/album/5iO0vmUK33APfSKtdGObgv) | 2:39 | 2025-01-11 | 2025-03-02 |
 | [Rounded](https://open.spotify.com/track/1nmvQPoa895Ix8DLtvM0W7) | [Perko](https://open.spotify.com/artist/14Fh7pVruBYhqcFVmiVU9M) | [Rounded](https://open.spotify.com/album/7teCjVkvFEvhnLBp2V2AfO) | 5:43 | 2024-10-10 | 2024-11-14 |
@@ -462,6 +465,7 @@
 | [Silver & Ice](https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [Cafe Tom Tom](https://open.spotify.com/album/3QYiKVuV0VrOhh2iJavzjN) | 1:50 | 2024-12-09 | 2025-01-12 |
 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 | 2024-12-27 | 2025-01-12 |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |
+| [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 | 2025-05-19 |  |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
 | [Snow](https://open.spotify.com/track/2YBkUWb9FVtP0QU9FX0lUl) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [Snow](https://open.spotify.com/album/50f0dY2lyEkXwjbm8JF8Qz) | 4:20 | 2025-05-14 |  |
 | [Some Days](https://open.spotify.com/track/5qWRT0cruIcc0EaAIDgI99) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4) | [Some Days](https://open.spotify.com/album/4Kw2hBQCaSPV5FvFsiPDuS) | 4:17 | 2025-05-08 |  |

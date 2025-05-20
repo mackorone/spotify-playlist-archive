@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 247173,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
@@ -414,6 +414,28 @@
       "duration_ms": 264052,
       "name": "Angel (feat. TAEYEON)",
       "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
+    },
+    {
+      "album": {
+        "name": "Anymore (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2GGjtsvkQUuuXbauKQmF8H"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182692,
+      "name": "Anymore (feat. Ashley Alisha) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0El22aLW5J9GwZoaPqFxMv"
     },
     {
       "album": {
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 180980,
       "name": "Fallin into you",
       "url": "https://open.spotify.com/track/2Tnseb1mWuuKrruWv04LGW"
@@ -1596,7 +1618,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 188234,
       "name": "Favorite Things",
       "url": "https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01"
@@ -2696,7 +2718,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 164884,
       "name": "ilung ilung",
       "url": "https://open.spotify.com/track/5D2OUot9bztfJc2iixoLDO"
@@ -4799,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Reuben",
+        "url": "https://open.spotify.com/album/30bpwihRVMaxSS6PEbplDe"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153831,
+      "name": "Reuben",
+      "url": "https://open.spotify.com/track/3Y51ddb8xmMxDKCWHZa13h"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -6184,7 +6224,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
@@ -6206,6 +6246,24 @@
       "duration_ms": 187922,
       "name": "Wanna be my",
       "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"
+    },
+    {
+      "album": {
+        "name": "Poetic Narrator 1st FULL ALBUM \"ESSAY\"",
+        "url": "https://open.spotify.com/album/0WOqpjT2JHSOyzmOCJxHr0"
+      },
+      "artists": [
+        {
+          "name": "Poetic Narrator",
+          "url": "https://open.spotify.com/artist/5LkR25p8z9zlJpkwJP5M1o"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "We Need To Be Careful To Love",
+      "url": "https://open.spotify.com/track/7AK5K4UI3IYDC8YsAaEmbq"
     },
     {
       "album": {

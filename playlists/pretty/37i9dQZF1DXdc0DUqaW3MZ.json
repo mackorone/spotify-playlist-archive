@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 366526,
+  "num_followers": 366569,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "this is no longer a dream [DELUXE]",
         "url": "https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d"
       },
@@ -1243,18 +1259,38 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+        "name": "4mysoul",
+        "url": "https://open.spotify.com/album/22IQuoj7FA21jKOdgU0xd3"
       },
       "artists": [
         {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        },
+        {
+          "name": "Louis VI",
+          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
         }
       ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+      "duration_ms": 196510,
+      "name": "4mysoul",
+      "url": "https://open.spotify.com/track/65WJw3Poze7Lnf4U0R465p"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1283,38 +1319,18 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "4mysoul",
-        "url": "https://open.spotify.com/album/22IQuoj7FA21jKOdgU0xd3"
-      },
-      "artists": [
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        },
-        {
-          "name": "Louis VI",
-          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
-        }
-      ],
-      "duration_ms": 196510,
-      "name": "4mysoul",
-      "url": "https://open.spotify.com/track/65WJw3Poze7Lnf4U0R465p"
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1335,22 +1351,6 @@
       "duration_ms": 130867,
       "name": "I Do",
       "url": "https://open.spotify.com/track/15aMiMUQgoy2a43ov9Cqnp"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2025-05-08 23:00:18",

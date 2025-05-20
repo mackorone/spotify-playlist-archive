@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Vanhasta Uuteen",
+        "url": "https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124512,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/1Sbf8qBXp24byps3CtiONg"
+    },
+    {
+      "album": {
         "name": "Ricky",
         "url": "https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S"
       },

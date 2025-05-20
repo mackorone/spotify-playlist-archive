@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "POP YOURS\u958b\u50ac\u307e\u3067\u3042\u30685\u65e5! // J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: NENE",
+  "description": "POP YOURS\u958b\u50ac\u307e\u3067\u3042\u30684\u65e5! // J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: Daichi Yamamoto",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -33363,6 +33363,24 @@
     },
     {
       "album": {
+        "name": "Secure",
+        "url": "https://open.spotify.com/album/1b7Z0j7nuYbAkTwrTrNK1i"
+      },
+      "artists": [
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178528,
+      "name": "\u306a\u3093\u3068\u304b\u306a\u308b\u3055",
+      "url": "https://open.spotify.com/track/1okUPp53P1lvQCeZUXdbHi"
+    },
+    {
+      "album": {
         "name": "\u306a\u3093\u3068\u3082\u601d\u3063\u3066\u306d\u3047",
         "url": "https://open.spotify.com/album/3nFQn0Q02t4LOgV7I5DFiu"
       },
@@ -33782,7 +33800,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 105658,
       "name": "\u30ad\u30c6\u30eb",
       "url": "https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy"

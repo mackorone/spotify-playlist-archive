@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: TEMITOPE
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,774 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,785 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 3 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
 | 4 | [In Christ Alone](https://open.spotify.com/track/7rk50Ud5SVX8PU9pbCtaea) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [In Christ Alone](https://open.spotify.com/album/3MzourdoMOaPz6LOz3Uoyu) | 4:55 |
 | 5 | [Open the Eyes of my Heart](https://open.spotify.com/track/4Y9hnkP1qfKkBfZL6dWtv7) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj), [Be Love Worship](https://open.spotify.com/artist/7ATVQSo9P7bYr5brUIi6tB) | [Open the Eyes of my Heart](https://open.spotify.com/album/736VPQcyFyiOEPr9tNNiRd) | 6:49 |
-| 6 | [Fan The Flame](https://open.spotify.com/track/1xn4MhIl2JDBxwAGlYFTaG) | [Church of the King](https://open.spotify.com/artist/1fHtdTA4INi8yTju4FQA55) | [Fan The Flame](https://open.spotify.com/album/1WUcpyQx1vgcvbNFC0pkpG) | 5:31 |
+| 6 | [Fan The Flame](https://open.spotify.com/track/1xn4MhIl2JDBxwAGlYFTaG) | [Church of the King](https://open.spotify.com/artist/1fHtdTA4INi8yTju4FQA55), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Fan The Flame](https://open.spotify.com/album/1WUcpyQx1vgcvbNFC0pkpG) | 5:31 |
 | 7 | [Adonai \- Live](https://open.spotify.com/track/3wmmDTTjiUpjIAfiz2pdGU) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Adonai \(Live\)](https://open.spotify.com/album/4xquuOA7DRNjjBoxUVuXfV) | 9:22 |
 | 8 | [Because Of Jesus \- Live](https://open.spotify.com/track/6dGB1UDxt5EsIStvawhtwL) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Go And Tell](https://open.spotify.com/album/2M5auh7pHi2UbulGpUdJdU) | 3:59 |
 | 9 | [Holy Again and Again](https://open.spotify.com/track/4Fn3r6TXyzAaONZtm4YNH3) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Abide](https://open.spotify.com/album/5rOi83XWa7BUl5wZn2ML6X) | 5:54 |

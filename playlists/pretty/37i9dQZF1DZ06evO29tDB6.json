@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 141221,
+  "num_followers": 141231,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfRgAAAAADMyJ1UnqK7TCKKJ1M08xTm",
+  "snapshot_id": "aCkjAAAAAAD+uIoNX17Y5XiD02rrnUEJ",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Dif\u00edcil",
-      "url": "https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fin de siglo",
         "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 266120,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Dif\u00edcil",
+      "url": "https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs"
     },
     {
       "added_at": null,

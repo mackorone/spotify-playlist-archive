@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 4810,
+  "num_followers": 4816,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "\u05d0\u05d9 \u05e9\u05dd",
+        "url": "https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3"
+      },
+      "artists": [
+        {
+          "name": "Ilanit",
+          "url": "https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "\u05d0\u05d9 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Swiss Lady",
         "url": "https://open.spotify.com/album/033LXpLUFi89URJiEqc2qf"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 172240,
       "name": "Occhi di ragazza",
       "url": "https://open.spotify.com/track/1w7ID6DNVqWTkFigG5bHgE"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "\u05d0\u05d9 \u05e9\u05dd",
-        "url": "https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3"
-      },
-      "artists": [
-        {
-          "name": "Ilanit",
-          "url": "https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "\u05d0\u05d9 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Grandes \u00e9xitos",
-        "url": "https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Yo soy aqu\u00e9l",
-      "url": "https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "nous les amoureux",
         "url": "https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 177293,
       "name": "Dansevise",
       "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Yo soy aqu\u00e9l",
+      "url": "https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Sol och v\u00e5r",
-        "url": "https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE"
-      },
-      "artists": [
-        {
-          "name": "Inger Berggren",
-          "url": "https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS"
-        }
-      ],
-      "duration_ms": 188173,
-      "name": "Sol och v\u00e5r",
-      "url": "https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 264013,
       "name": "Parlez-vous francais?",
       "url": "https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Sol och v\u00e5r",
+        "url": "https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE"
+      },
+      "artists": [
+        {
+          "name": "Inger Berggren",
+          "url": "https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Sol och v\u00e5r",
+      "url": "https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Angelique",
-        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
-      },
-      "artists": [
-        {
-          "name": "Dario Campeotto",
-          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Angelique",
-      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Shadows - The Collection",
         "url": "https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170600,
       "name": "Let Me Be the One",
       "url": "https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Angelique",
+        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
+      },
+      "artists": [
+        {
+          "name": "Dario Campeotto",
+          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Angelique",
+      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Herzen zu verschenken",
+        "url": "https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB"
+      },
+      "artists": [
+        {
+          "name": "Mary Roos",
+          "url": "https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Nur die Liebe l\u00e4sst uns leben - Neuaufnahme",
+      "url": "https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Duetos - Diz-me Com Quem Cantas",
         "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 237152,
       "name": "Tourada",
       "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Herzen zu verschenken",
-        "url": "https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB"
-      },
-      "artists": [
-        {
-          "name": "Mary Roos",
-          "url": "https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Nur die Liebe l\u00e4sst uns leben - Neuaufnahme",
-      "url": "https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Jaime Morey: Todos Sus Exitos",
+        "url": "https://open.spotify.com/album/2KnB4G2fl7pD9i3FIEGO5L"
+      },
+      "artists": [
+        {
+          "name": "Jaime Morey",
+          "url": "https://open.spotify.com/artist/5NB0co82z0VMEGYMZgixWp"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/1F2jjX4W3mLOMwhBQXZFic"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "C'est Beau La Vie",
         "url": "https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 132400,
       "name": "Tipi-tii",
       "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Jaime Morey: Todos Sus Exitos",
-        "url": "https://open.spotify.com/album/2KnB4G2fl7pD9i3FIEGO5L"
-      },
-      "artists": [
-        {
-          "name": "Jaime Morey",
-          "url": "https://open.spotify.com/artist/5NB0co82z0VMEGYMZgixWp"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/1F2jjX4W3mLOMwhBQXZFic"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Primaballerina",
+        "url": "https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy"
+      },
+      "artists": [
+        {
+          "name": "Siw Malmkvist",
+          "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "Primaballerina - tysk Version",
+      "url": "https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "40 A\u00f1os de No. 1 en Espa\u00f1ol : Los 50's, 60's, 70's y 80's",
         "url": "https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 207986,
       "name": "Ense\u00f1ame a Cantar",
       "url": "https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Festivalfavoriter 1",
-        "url": "https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m"
-      },
-      "artists": [
-        {
-          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mej",
-      "url": "https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl"
     }
   ],
   "unique_name": "Eurovision Gold",

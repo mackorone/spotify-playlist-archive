@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwF9sUuvfzA.md) - [plain]
 
 > La playlist ufficiale della nuova stagione! Guarda Skam Italia 6, solo su Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,411 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,410 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwF9sUuvfzA.md) - [plain]
 | 40 | [Ci sentiamo](https://open.spotify.com/track/4pdm0vwcpK0ZGeovDIXp2T) | [Ivan Silvestrini](https://open.spotify.com/artist/11EgjjkYzqn7PycxDATAkk) | [Lo stesso accade qui](https://open.spotify.com/album/48fKFmYT4Op28WmAwh6wNL) | 6:38 |
 | 41 | [Ufo Robot](https://open.spotify.com/track/3SUsrG4eDnR3p9xznlh8RZ) | [Actarus](https://open.spotify.com/artist/3n9AFp15AsJXurKgSI9Zk2) | [Collection: Tutto Sigle & Cartoni TV](https://open.spotify.com/album/3mpmorbleEZMxEzYcmc861) | 2:54 |
 
-Snapshot ID: `ZdXBegAAAACXgWNMYC2FK0EAuyl7DArf`
+Snapshot ID: `ZdXBegAAAABErNIZktGE65ainE4kzr2K`

@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-217 songs - 11 hr 37 min
+218 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/track/1YW8olrB29icos92vsWPvd) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98) | 2:57 | 2021-12-10 |  |
 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 | 2024-02-16 |  |
 | [First Rodeo](https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [First Rodeo](https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz) | 3:06 | 2022-07-08 |  |
+| [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV) | 2:45 | 2025-05-19 |  |
 | [Friday Night](https://open.spotify.com/track/16CoJMdBSUp0Dxd8wZdO1a) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Friday Night](https://open.spotify.com/album/3nDSqKrO5YcHjZzT2q7HO5) | 2:40 | 2023-09-01 |  |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2023-03-25 |
 | [Giddy Up! \- Malibu Babie Remix](https://open.spotify.com/track/4A2CY9ZLMQe4PDUbQ48lVM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Giddy Up! \(Malibu Babie Remix\)](https://open.spotify.com/album/6mIpPFIWUHCU1dG0dMprBo) | 2:44 | 2023-03-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 71331,
+  "num_followers": 71345,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 201240,
       "name": "Unbalance Shadow",
       "url": "https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "\u30ab\u30e9\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt"
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
       },
       "artists": [
         {
-          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
-          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 275160,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1"
+      "duration_ms": 323000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
         }
       ],
-      "duration_ms": 323000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
+      "duration_ms": 275160,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -583,6 +583,22 @@
       "duration_ms": 237426,
       "name": "4-ROAR",
       "url": "https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "\u30ad\u30ba\u30ca",
+      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -623,22 +639,6 @@
       "duration_ms": 225680,
       "name": "I believe in...",
       "url": "https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
-        "name": "\u30ad\u30ba\u30ca",
-        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "\u30ad\u30ba\u30ca",
-      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+        }
+      ],
+      "duration_ms": 300493,
+      "name": "\u5e78\u305b\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 184106,
       "name": "Drift driving",
       "url": "https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
-        }
-      ],
-      "duration_ms": 300493,
-      "name": "\u5e78\u305b\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
-        "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5MxwtisrEABkLAd8bYSzdk"
       },
       "artists": [
         {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
+          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
         }
       ],
-      "duration_ms": 267013,
-      "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
+      "duration_ms": 261040,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/5MxwtisrEABkLAd8bYSzdk"
+        "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
       },
       "artists": [
         {
-          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
-          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
         }
       ],
-      "duration_ms": 261040,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
+      "duration_ms": 267013,
+      "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 LIVE 4bit Compilation Album \"BEYOND THE PERiOD\" (DAY 1)",
-        "url": "https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b"
-      },
-      "artists": [
-        {
-          "name": "IDOLiSH7",
-          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "NiGHTFALL",
-      "url": "https://open.spotify.com/track/4Q4R3WUd3DntZTApoIbI4N"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
         "name": "WiSH VOYAGE / Dancing\u221eBEAT!!",
         "url": "https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 247520,
       "name": "WiSH VOYAGE",
       "url": "https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
+        "name": "\u5287\u5834\u7248\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 LIVE 4bit Compilation Album \"BEYOND THE PERiOD\" (DAY 1)",
+        "url": "https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "NiGHTFALL",
+      "url": "https://open.spotify.com/track/4Q4R3WUd3DntZTApoIbI4N"
     },
     {
       "added_at": "2025-04-15 00:16:21",

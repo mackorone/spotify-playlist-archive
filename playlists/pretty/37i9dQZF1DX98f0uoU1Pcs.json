@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Model/Actriz",
-  "num_followers": 288781,
+  "num_followers": 288830,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "It Will Get Worse",
-        "url": "https://open.spotify.com/album/6ydter6esbJmAV73fIR8sD"
-      },
-      "artists": [
-        {
-          "name": "Lifeguard",
-          "url": "https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "It Will Get Worse",
-      "url": "https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq"
-    },
-    {
-      "added_at": "2025-04-16 17:24:22",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 317467,
       "name": "Running",
       "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
+    },
+    {
+      "added_at": "2025-04-16 17:24:22",
+      "album": {
+        "name": "It Will Get Worse",
+        "url": "https://open.spotify.com/album/6ydter6esbJmAV73fIR8sD"
+      },
+      "artists": [
+        {
+          "name": "Lifeguard",
+          "url": "https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "It Will Get Worse",
+      "url": "https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq"
     },
     {
       "added_at": "2025-04-16 17:24:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
-    },
-    {
-      "added_at": "2025-04-16 17:24:22",
-      "album": {
         "name": "Break the Tension",
         "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224720,
       "name": "Break the Tension",
       "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
+    },
+    {
+      "added_at": "2025-04-16 17:24:22",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
     },
     {
       "added_at": "2025-04-16 17:24:22",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 189531,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
-    },
-    {
-      "added_at": "2025-04-16 17:24:22",
-      "album": {
         "name": "hear a whisper",
         "url": "https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 219906,
       "name": "hear a whisper",
       "url": "https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT"
+    },
+    {
+      "added_at": "2025-04-16 17:24:22",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 189531,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
     },
     {
       "added_at": "2025-04-16 17:24:22",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "A Distant Life",
-        "url": "https://open.spotify.com/album/6VilbKJ0zEQ5cGyWcxLcOI"
+        "name": "I Wanna Be On Your Mind",
+        "url": "https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa"
       },
       "artists": [
         {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+          "name": "2nd Grade",
+          "url": "https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb"
         }
       ],
-      "duration_ms": 160080,
-      "name": "A Distant Life",
-      "url": "https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt"
+      "duration_ms": 148304,
+      "name": "I Wanna Be On Your Mind",
+      "url": "https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD"
     }
   ],
   "unique_name": "Noisy",

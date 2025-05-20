@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-136 songs - 7 hr 12 min
+142 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blow Your Mind](https://open.spotify.com/track/5QIWUtgYCSrulzyixMLgbM) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 2:49 | 2022-05-22 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 2:54 | 2022-05-22 |  |
 | [Cart](https://open.spotify.com/track/4WYLU0MgHng8t8yjtT2m2S) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Cart](https://open.spotify.com/album/1v3aPnfORtp7JETc4uPrwp) | 3:13 | 2022-05-22 |  |
+| [Chain](https://open.spotify.com/track/3adxy9gOQN6hHNc2IMDRKo) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 3:09 | 2025-05-19 |  |
 | [Change](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:24 | 2022-10-17 | 2024-04-19 |
 | [Change](https://open.spotify.com/track/00XrbymEYDhTSLwsWTzxor) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE) | 3:24 | 2024-04-05 |  |
 | [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 | 2024-04-05 |  |
@@ -47,7 +48,9 @@
 | [Getaway](https://open.spotify.com/track/5pWd8NRoi9yY1K2Fz9nIVh) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife Pt.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1165v6khbvLivXLeu5JaMT) | 3:48 | 2022-05-22 |  |
 | [Giant](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 3:29 | 2022-05-22 |  |
 | [GIANTS](https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [SOYEON](https://open.spotify.com/artist/4mIiwf0HEfxYXZ44af2lBx), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [GIANTS](https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO) | 3:11 | 2022-05-22 |  |
+| [Girlfriend](https://open.spotify.com/track/1qgPIJahbLHRWts7l7tJ34) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:42 | 2025-05-19 |  |
 | [Give Me Your](https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:40 | 2022-05-22 |  |
+| [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 | 2025-05-19 |  |
 | [HANN \(Alone in winter\)](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 2:55 | 2022-05-22 |  |
 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2022-05-22 |  |
 | [Hear me](https://open.spotify.com/track/2kgjb8aqV3202cAN7jUaNR) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:56 | 2022-05-22 |  |
@@ -62,6 +65,7 @@
 | [I Want That](https://open.spotify.com/track/34pKV56b6d7Nz1l6av1nZ1) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | 2:51 | 2023-10-06 |  |
 | [i'M THE TREND](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i'M THE TREND](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) | 3:25 | 2022-05-22 |  |
 | [Idle song](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Idle song](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) | 3:08 | 2022-05-22 |  |
+| [If You Want](https://open.spotify.com/track/0Z51c20c2L31LZqX9yGuC6) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 3:02 | 2025-05-19 |  |
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-22 |  |
 | [Is this bad b\*\*\*\*\*\* number?](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:45 | 2022-05-22 |  |
 | [Jelly](https://open.spotify.com/track/0MsE73sXgfqOpgzCATa0Wt) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Jelly](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) | 2:59 | 2022-05-22 |  |
@@ -76,6 +80,7 @@
 | [LOST](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:01 | 2022-05-22 |  |
 | [LOVE](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:17 | 2022-10-17 | 2024-04-19 |
 | [LOVE](https://open.spotify.com/track/0VkO3m9iY9vzNFtTbdhH3e) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD) | 3:17 | 2024-04-05 |  |
+| [Love Tease](https://open.spotify.com/track/6SCiybhUyi8ls3GqenO67F) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:27 | 2025-05-19 |  |
 | [Lucid](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:55 | 2023-05-17 | 2024-04-19 |
 | [Lucid](https://open.spotify.com/track/6pIimsQ4dcMfTkf013pcKO) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt) | 2:55 | 2024-04-05 |  |
 | [Luv U](https://open.spotify.com/track/2Mvdcda3pVMDASD7oZWPr4) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:33 | 2022-05-22 |  |
@@ -131,6 +136,7 @@
 | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb) | 2:09 | 2022-05-22 |  |
 | [Tung\-Tung \- Empty](https://open.spotify.com/track/6ogUXnO0F5PJSuWhOHCHd0) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Oh my god](https://open.spotify.com/album/5t9wX15utgPUOZsazbYojz) | 3:49 | 2022-05-22 |  |
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2022-05-22 |  |
+| [Unstoppable](https://open.spotify.com/track/50hUlF1HTa2jSBFlbY9U9s) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:50 | 2025-05-19 |  |
 | [VILLAIN DIES](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:04 | 2022-05-22 |  |
 | [Vision](https://open.spotify.com/track/7Dc5JF6aM3FjRMemwC39Ho) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:40 | 2024-02-27 |  |
 | [We Already Fell In Love](https://open.spotify.com/track/0UOMVs7dFEd7TlIlUBJtoI) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [MINNIE](https://open.spotify.com/artist/1ykAocWwzbNtW0ygax0aVu) | [도도솔솔라라솔 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/65HG117O3UPazcDUSLjwvN) | 3:01 | 2022-05-22 |  |

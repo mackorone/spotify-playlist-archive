@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Luchè, Rkomi, Medy, Promessa, Rosa Chemical e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,108 likes - 123 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,133 likes - 123 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 122 | [Casa](https://open.spotify.com/track/7AvrT55IxesdyLozSbM8mP) | [Ventitre](https://open.spotify.com/artist/5X32iso0Rayu4YRLnW3eOU), [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF), [17WRLDRIOT](https://open.spotify.com/artist/3CGbwRPt5vbNIn9HsCtgZh) | [Casa](https://open.spotify.com/album/2skUbdaY6ArGDMDflMwhvr) | 2:55 |
 | 123 | [Blacklist](https://open.spotify.com/track/5UoyoLAoPPRvIEE1XnJfCf) | [Moreno](https://open.spotify.com/artist/2Wihg8pti3bPnQ4ByrU309) | [Blacklist](https://open.spotify.com/album/6qNR5N0rr0QNEIhebWQAyY) | 2:25 |
 
-Snapshot ID: `aCZyRgAAAABWDPYuRGU9XnA1GmSltIYN`
+Snapshot ID: `AAAAAFtn3r2BVtTIhScc9xWL6oJZ5fI+`

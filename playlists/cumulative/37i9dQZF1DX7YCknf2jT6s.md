@@ -2,7 +2,7 @@
 
 ### [State of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s)
 
-> New jazz for open minds\. Cover: Joshua Redman
+> New jazz for open minds\. Cover: Béla Fleck, Edmar Castañeda & Antonio Sánchez
 
 1,723 songs - 5 day 19 hr 51 min
 

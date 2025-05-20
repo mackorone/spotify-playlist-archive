@@ -3271,6 +3271,28 @@
     },
     {
       "album": {
+        "name": "Rameau: Menuets, RCT 6/3-4",
+        "url": "https://open.spotify.com/album/1pvXtnqy0WvrTFbfd2duVK"
+      },
+      "artists": [
+        {
+          "name": "Jean-Philippe Rameau",
+          "url": "https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Menuets, RCT 6/3-4",
+      "url": "https://open.spotify.com/track/55MKF4WkMkVUcvJUr9SUP5"
+    },
+    {
+      "album": {
         "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
         "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
       },
@@ -4934,7 +4956,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 385106,
       "name": "Song to the Moon (from Rusalka)",
       "url": "https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d"

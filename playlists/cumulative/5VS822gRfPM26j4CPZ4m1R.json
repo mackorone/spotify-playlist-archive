@@ -10281,6 +10281,24 @@
     },
     {
       "album": {
+        "name": "Venice In Vegas",
+        "url": "https://open.spotify.com/album/6LvqM78DSiJhlF7qgiTDSg"
+      },
+      "artists": [
+        {
+          "name": "Cool Sounds",
+          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239434,
+      "name": "Venice In Vegas",
+      "url": "https://open.spotify.com/track/4e3SbftWWthMLLC2NiLxsR"
+    },
+    {
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/1jgZfbSUG9VhlcYxr7kvCT"
       },

@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-332 songs - 18 hr 10 min
+333 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,11 +136,12 @@
 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 | 2022-12-08 | 2023-09-15 |
 | [Hell Of A Ride \- Official Dominator 2022 Anthem](https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Hell Of A Ride \(Official Dominator 2022 Anthem\)](https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d) | 4:11 | 2022-12-08 | 2023-12-22 |
 | [Here To Stay](https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Serouj Guidanian](https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU) | [The Ultimate Killing Machine](https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23) | 3:25 | 2023-05-15 | 2024-11-09 |
-| [Het Beest Is Wakker](https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [Het Beest Is Wakker](https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6) | 2:59 | 2024-09-09 |  |
+| [Het Beest Is Wakker](https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [Het Beest Is Wakker](https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6) | 2:59 | 2024-09-09 | 2025-05-20 |
 | [Het Verbond](https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Het Verbond](https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM) | 4:16 | 2023-04-13 | 2024-06-03 |
 | [Hide Away](https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Hide Away](https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs) | 3:32 | 2024-02-15 | 2025-02-28 |
 | [Hide Me](https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Hide Me](https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL) | 3:03 | 2022-12-08 | 2024-02-05 |
 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 | 2024-02-15 | 2025-05-13 |
+| [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 | 2025-05-19 |  |
 | [HIT IT](https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [HIT IT](https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95) | 2:44 | 2023-03-30 | 2024-06-28 |
 | [HIT THA CLUB](https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [HIT THA CLUB](https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9) | 2:46 | 2023-01-26 | 2023-10-26 |
 | [Hola](https://open.spotify.com/track/0Zf1Tmdc5NLc6DNfZ1Ysgx) | [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [Hola](https://open.spotify.com/album/42N6ZcoJFuendlUrb7lLAL) | 2:15 | 2024-08-30 | 2024-12-19 |

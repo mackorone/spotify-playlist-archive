@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/5IlWoFOA7aaouBEniaR7oJ"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277411,
+      "name": "All or None",
+      "url": "https://open.spotify.com/track/1KNXuvpkl84lesizHjvHFJ"
+    },
+    {
+      "album": {
         "name": "Riot Act",
         "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 322306,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"

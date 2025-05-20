@@ -11714,7 +11714,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 194090,
       "name": "CUORICINI",
       "url": "https://open.spotify.com/track/0fPhrbZJqHbmsuV2RQbeSB"
@@ -21706,7 +21706,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 181333,
       "name": "Ilary (feat. Gu\u00e8, Nerissima Serpe)",
       "url": "https://open.spotify.com/track/2r0HlPn3jMcullgQ0bGuCV"
@@ -24790,7 +24790,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 256000,
       "name": "La mia vittoria (feat. Giorgia, Marracash)",
       "url": "https://open.spotify.com/track/3KNZJB6GW71aBtfeeknoVq"
@@ -27344,7 +27344,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
@@ -37874,7 +37874,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 208211,
       "name": "PIET\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
@@ -47782,7 +47782,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 207313,
       "name": "TU CON CHI FAI L'AMORE",
       "url": "https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy"
@@ -48096,7 +48096,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 176874,
       "name": "Tutta L'Italia",
       "url": "https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39"
@@ -50826,6 +50826,24 @@
       "duration_ms": 141176,
       "name": "WAR GAMES",
       "url": "https://open.spotify.com/track/71A7AqPydcCW7EhHuBpLwB"
+    },
+    {
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164998,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
     },
     {
       "album": {

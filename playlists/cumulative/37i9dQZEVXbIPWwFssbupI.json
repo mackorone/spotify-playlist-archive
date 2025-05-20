@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 161986,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/4lkyaoULeHxX2ga6BGlqmw"
@@ -8274,6 +8274,24 @@
     {
       "album": {
         "name": "Celibataire Polygame",
+        "url": "https://open.spotify.com/album/1KqYxIrZ01LJeP9qD1h3tn"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Celibataire Polygame",
+      "url": "https://open.spotify.com/track/2hZR5g8Z5GeGL2HuNlUhgj"
+    },
+    {
+      "album": {
+        "name": "Celibataire Polygame",
         "url": "https://open.spotify.com/album/7ywV7kOvweiKhg0ntcEB3i"
       },
       "artists": [
@@ -8302,7 +8320,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 134000,
       "name": "Celibataire Polygame",
       "url": "https://open.spotify.com/track/6WvkCJkN2AYD0s53GVBFIY"
@@ -26710,7 +26728,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 180195,
       "name": "maman",
       "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
@@ -36807,6 +36825,28 @@
     },
     {
       "album": {
+        "name": "Dans la temp\u00eate",
+        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
+      },
+      "artists": [
+        {
+          "name": "HMZ",
+          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150741,
+      "name": "Saison",
+      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
+    },
+    {
+      "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
       },
@@ -38196,7 +38236,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"

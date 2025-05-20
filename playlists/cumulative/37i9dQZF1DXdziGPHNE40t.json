@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Amenity",
+        "url": "https://open.spotify.com/album/25AGC7Jl9JmsBzDILQUbaP"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236170,
+      "name": "Amenity",
+      "url": "https://open.spotify.com/track/22ST1wR1gV2twZd5Ylr8Ln"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07"
       },
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 272500,
       "name": "First Time For Everything",
       "url": "https://open.spotify.com/track/6E530UBMu71rmEEA5ELHq7"
@@ -3718,7 +3736,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 199923,
       "name": "Guess the difference?",
       "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
@@ -4612,6 +4630,24 @@
       "duration_ms": 276366,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4"
+    },
+    {
+      "album": {
+        "name": "If You See Me",
+        "url": "https://open.spotify.com/album/2erbJdrC8ooxGjDPpcPZRR"
+      },
+      "artists": [
+        {
+          "name": "Baker St.",
+          "url": "https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240374,
+      "name": "If You See Me",
+      "url": "https://open.spotify.com/track/0T07tM4XAQMrWeXISGiO0O"
     },
     {
       "album": {
@@ -6066,7 +6102,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 177127,
       "name": "Lost in Serenade",
       "url": "https://open.spotify.com/track/06lueVswINSC56TcUtFs9j"
@@ -7488,7 +7524,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 215546,
       "name": "Nolita",
       "url": "https://open.spotify.com/track/2QW2wMMnxkTAHxMVulVZGd"
@@ -7632,7 +7668,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 211671,
       "name": "Numerous Occasions",
       "url": "https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL"
@@ -7650,7 +7686,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 191690,
       "name": "Nylon Curtain",
       "url": "https://open.spotify.com/track/3V0KgwOY0BqtiUMWOngbgT"
@@ -10303,6 +10339,24 @@
     },
     {
       "album": {
+        "name": "The Ground Around",
+        "url": "https://open.spotify.com/album/7uV9KAT3hsiFBLAEQlFY6w"
+      },
+      "artists": [
+        {
+          "name": "Fortune Morel Trio",
+          "url": "https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199865,
+      "name": "The Ground Around",
+      "url": "https://open.spotify.com/track/16y7cTfQrOGX9J9LKWnvSG"
+    },
+    {
+      "album": {
         "name": "The Holly and the Ivy",
         "url": "https://open.spotify.com/album/38rt65pqnxc4KI8XvuVUkH"
       },
@@ -10552,6 +10606,24 @@
       "duration_ms": 170928,
       "name": "The Party's Over",
       "url": "https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP"
+    },
+    {
+      "album": {
+        "name": "The Pidgeons",
+        "url": "https://open.spotify.com/album/2tee5szbHwGqRsR7qGR6Wi"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198344,
+      "name": "The Pidgeons",
+      "url": "https://open.spotify.com/track/3nl30g4lcCqqZFltxOqKMs"
     },
     {
       "album": {
@@ -11250,7 +11322,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 198358,
       "name": "Twilight's Last Waltz",
       "url": "https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt"
@@ -11322,7 +11394,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 204560,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/1aUTgDBRcRnRGugmoGS9aX"
@@ -11556,7 +11628,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 152099,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c"
@@ -11682,7 +11754,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 178247,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/4WQsXYJ3noFGLdamRYjTHz"
@@ -12766,6 +12838,24 @@
       "duration_ms": 186074,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
+    },
+    {
+      "album": {
+        "name": "Your Side Of Town",
+        "url": "https://open.spotify.com/album/5pr2Fg9dpys1zG9FUWDrk4"
+      },
+      "artists": [
+        {
+          "name": "The Vanguard Trio",
+          "url": "https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210419,
+      "name": "Your Side Of Town",
+      "url": "https://open.spotify.com/track/14uoSIeCWStDr76lXPtKIZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t"

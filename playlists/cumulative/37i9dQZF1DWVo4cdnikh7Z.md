@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Thug Life
 
-1,789 songs - 4 day 12 hr 26 min
+1,790 songs - 4 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Kinguda](https://open.spotify.com/track/1KjrVinctql9AY8mgq30fP) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Mc Rude](https://open.spotify.com/artist/6xS34wH493ApP7EgV76461) | [My Dear Bootham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VT0nSy5Wg4vGGFZFUQqr1) | 3:36 | 2022-07-15 | 2022-07-22 |
 | [Kirutu Kirutu \- From "DADA"](https://open.spotify.com/track/40ZJkA8wezwoU0qiwuiBCU) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Kirutu Kirutu \(From "DADA"\)](https://open.spotify.com/album/4kNJDIMb6URhxl4ZuIDrKM) | 3:29 | 2023-01-24 | 2023-07-04 |
 | [Kisa Mela Boom \(From "The Boys"\)](https://open.spotify.com/track/0bZbaHPUzwkJoOXWOr3W4n) | [Arun Gautham](https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1), [Ashique AR](https://open.spotify.com/artist/7a2hwgmPEziltEjQBW9kNI) | [Kisa Mela Boom \(From "The Boys"\)](https://open.spotify.com/album/3NMgv91zjdQKs1bE3TrBtj) | 3:05 | 2024-03-28 | 2024-06-13 |
+| [Kissa 47](https://open.spotify.com/track/2caNVz63AE3eW57O9VmfVg) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Devil's Double Next Level \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Kx3H5slY9A8kvaD5jcKfY) | 2:51 | 2025-05-19 |  |
 | [Kissa 47 \- From "DD Next Level"](https://open.spotify.com/track/6nZAFB3frVuVtmhaF1T4dq) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Kissa 47 \(From "DD Next Level"\)](https://open.spotify.com/album/1UR1SevFbGqVngZ2oy653X) | 2:51 | 2025-02-28 | 2025-04-11 |
 | [Kissik \(From "Pushpa 2 The Rule"\) \[TAMIL\]](https://open.spotify.com/track/76mGrdtBDqr6an4P70UfeR) | [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Kissik \(From "Pushpa 2 The Rule"\) \[TAMIL\]](https://open.spotify.com/album/3gFGpkjGw3dGQro1ggBwbw) | 4:07 | 2024-11-25 | 2025-02-19 |
 | [Kithappunna Killadi \- From "Riyaa The Haunted House"](https://open.spotify.com/track/2WExI6DtA4tQS9uIKUx4Yf) | [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Sabesh Salomon](https://open.spotify.com/artist/5haaeucvEMBGOveteCWE1X) | [Kithappunna Killadi \(From "Riyaa The Haunted House"\)](https://open.spotify.com/album/6VftTBOEGJjwLzN2ikRaJq) | 4:21 | 2022-07-07 | 2022-07-12 |

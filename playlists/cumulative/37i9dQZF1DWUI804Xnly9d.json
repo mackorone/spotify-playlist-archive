@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "AGAR",
+        "url": "https://open.spotify.com/album/1VJFdL736uuogCAcw79TJS"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "Nimit Music Project",
+          "url": "https://open.spotify.com/artist/4unntZnKf9o5luzeYkrg3o"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "AGAR",
+      "url": "https://open.spotify.com/track/3oJrOmQi8pmLKPbI5NiWPh"
+    },
+    {
+      "album": {
         "name": "Mumbai Diaries Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT"
       },
@@ -5325,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Koyal (Acoustic)",
+        "url": "https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp"
+      },
+      "artists": [
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152999,
+      "name": "Koyal - Acoustic",
+      "url": "https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t"
+    },
+    {
+      "album": {
         "name": "Kuch ghadi aur",
         "url": "https://open.spotify.com/album/6PD8Mtm1k4teXgjIY2QPRw"
       },
@@ -5450,7 +5490,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 187342,
       "name": "Kya Kahein",
       "url": "https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg"
@@ -7564,7 +7604,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 203389,
       "name": "Pyaar Hai",
       "url": "https://open.spotify.com/track/1M7gC1mxXQ9nTt5VixcuyU"
@@ -9132,6 +9172,24 @@
       "duration_ms": 186912,
       "name": "Teri Aadat",
       "url": "https://open.spotify.com/track/4AbWJGr7c0RAIawPiWEa5g"
+    },
+    {
+      "album": {
+        "name": "Teri Baahon Mein",
+        "url": "https://open.spotify.com/album/1JSezuoAH2819mmqkO9sZ6"
+      },
+      "artists": [
+        {
+          "name": "Sanket Agarwal",
+          "url": "https://open.spotify.com/artist/0vEj3eeiJzyLgyt8wRBVH5"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163390,
+      "name": "Teri Baahon Mein",
+      "url": "https://open.spotify.com/track/4aJxK0IBKX6C5F0kEXyAdg"
     },
     {
       "album": {
@@ -10946,7 +11004,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 176170,
       "name": "Zindagi Ke Safar Mein - Revisited",
       "url": "https://open.spotify.com/track/72NIK1xqWXQN04EqDYPMxa"

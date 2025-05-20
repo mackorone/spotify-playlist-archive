@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,059 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,067 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 49 | [Lullaby \- Extended Mix](https://open.spotify.com/track/3oHh50CILa1PKDBSvfVuDd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Mixed Up \(Remastered 2018 / Deluxe Edition\)](https://open.spotify.com/album/3huHRCpnBNMIrU4e10HDtr) | 7:45 |
 | 50 | [Another Sky \(The Magician Remix\)](https://open.spotify.com/track/50zKr2HQgMUwhrYqt0Vre5) | [Scenic](https://open.spotify.com/artist/0DIlWi3paPXUFEOIWpgdqG), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Another Sky](https://open.spotify.com/album/10oxNm0wwHf2cLj2HfGzhW) | 6:40 |
 | 51 | [House Of Virgo \- Chris Cruse Spotlight Mix](https://open.spotify.com/track/0im5fnHgYRXBglQaKDopGH) | [Kim Anh](https://open.spotify.com/artist/3CbmT7nMALRWJrYYyKLz6z), [Chris Cruse](https://open.spotify.com/artist/5Ka6PfnSJxJ2H4fmSCaY8B) | [After Dark Remixed](https://open.spotify.com/album/59F9XfPJbHWcecc4jc53rw) | 5:37 |
-| 52 | [Right Here \- CC:DISCO! Remix](https://open.spotify.com/track/3lQR8ne8il7GzcUUIcN9lR) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [Right Here \(CC:DISCO! Remix\)](https://open.spotify.com/album/0q7ca0Dsi4hwsApG8p7ZJ7) | 5:55 |
+| 52 | [Right Here \- CC:DISCO! Remix](https://open.spotify.com/track/3lQR8ne8il7GzcUUIcN9lR) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Right Here \(CC:DISCO! Remix\)](https://open.spotify.com/album/0q7ca0Dsi4hwsApG8p7ZJ7) | 5:55 |
 | 53 | [DR Pleasure](https://open.spotify.com/track/2IQNZmPvM72xoVyMCzwNdP) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [DR Pleasure](https://open.spotify.com/album/3UeEVc7OBmSS1Rtg03Z1tM) | 5:36 |
 | 54 | [SHE GOT THAT THING \(CC:DISCO! Remix\)](https://open.spotify.com/track/0Xf9BbMqmKDk8FUjqmMcHU) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB), [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [SHE GOT THAT THING \(Remixes\)](https://open.spotify.com/album/1aI8T78jx24kla2cRxWc39) | 7:52 |
 | 55 | [Stormy Weather](https://open.spotify.com/track/1j3fw3jIB7j22vhVrM6VGY) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [Hits Anthology](https://open.spotify.com/album/3berPFBl8P4UWZBkkFdnr8) | 7:36 |

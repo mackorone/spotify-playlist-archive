@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde el urbano y la música mexicana se unen\.  Picus en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,033 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,077 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Tenis Jordan](https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Tenis Jordan](https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ) | 2:29 |
 | 50 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 
-Snapshot ID: `aB2Z6wAAAADzLQMv4W6jl5XVdm4KkUUJ`
+Snapshot ID: `aB2Z6wAAAADlDMqKMV5sbQrDb9atnpTY`

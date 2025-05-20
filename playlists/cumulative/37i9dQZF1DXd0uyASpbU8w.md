@@ -4,7 +4,7 @@
 
 > New music from Will Linley, Lola Young, Sio, GIVĒON and more.
 
-6,377 songs - 18 day 14 hr 34 min
+6,378 songs - 18 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3777,6 +3777,7 @@
 | [My Boy \(feat\. DJ Maphorisa, Xduppy, KMAT\)](https://open.spotify.com/track/7uUBRry3qEfC58fFL5hhEJ) | [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [K Mat](https://open.spotify.com/artist/2urmpliDavALC9JZltyUdg), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [My Boy \(feat\. DJ Maphorisa, Xduppy, KMAT\)](https://open.spotify.com/album/6MuCB2bHm0kdc4T0aRyHep) | 3:42 | 2024-03-21 | 2024-03-29 |
 | [My Dad \(Taught Me\)](https://open.spotify.com/track/6Pt7LXrLIkGV9re9cULhSe) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [My Dad \(Taught Me\)](https://open.spotify.com/album/42PSXSXj61A4up9L0iqdyo) | 7:50 | 2023-12-15 | 2023-12-22 |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-23 | 2023-06-30 |
+| [My Darling \- uDali Wami](https://open.spotify.com/track/2kLrcb9ZhbDWKrVNw23byh) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [My Darling](https://open.spotify.com/album/6HXLr6yIRp4iLM7XViRcTn) | 2:57 | 2025-05-19 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-05-31 | 2024-06-07 |
 | [My G](https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 2:40 | 2023-07-28 | 2023-08-05 |
 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 | 2025-02-20 | 2025-02-28 |

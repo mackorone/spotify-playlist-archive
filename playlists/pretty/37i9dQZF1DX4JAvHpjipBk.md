@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Morgan Wallen, Rihanna, Laufey, Lola Young, GIVĒON, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,373,664 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,373,408 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 |
 | 100 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 
-Snapshot ID: `aCa8qgAAAADhBTG7rjG03pAkIQAAkXTs`
+Snapshot ID: `aCa8qgAAAACMDcoTiPlYzyAGM2nvQYWS`

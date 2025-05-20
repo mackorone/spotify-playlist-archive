@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: JEONG SEWOON\(정세운\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-953 songs - 2 day 10 hr 12 min
+954 songs - 2 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [I Will Fly](https://open.spotify.com/track/11BkRBYgserEx7OGMTq8fh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Will Fly](https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV) | 5:09 | 2022-06-18 | 2022-07-14 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2022-04-12 | 2022-07-17 |
 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2023-01-10 | 2023-01-26 |
-| [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 |  |
+| [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 | 2025-05-20 |
 | [I'll Find You](https://open.spotify.com/track/3GHSrN23rQc5qntnr6PtZO) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snap and Spark \(Original Soundtrack\) Part.1](https://open.spotify.com/album/4xle0IjB9CUNbG9NW8xnWz) | 3:22 | 2024-03-21 | 2024-05-10 |
 | [I'll Love You All The Time](https://open.spotify.com/track/1BOYINiqYpWhrKSbMFen5Q) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [I'll Love You All The Time \(Art by Tae Hyunyoung\)](https://open.spotify.com/album/3mp2QXg2VvlNSflsQbULAQ) | 2:48 | 2024-04-09 | 2024-05-10 |
 | [i'm broken](https://open.spotify.com/track/02XrPzjCjFSY7JHcr0CYfz) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [i'm broken](https://open.spotify.com/album/4utd1b21BTalR8eHvsfBPL) | 2:34 | 2024-07-30 | 2024-08-13 |
@@ -659,6 +659,7 @@
 | [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2023-06-29 |  |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2022-04-12 | 2023-06-07 |
 | [Ring on my Ears](https://open.spotify.com/track/7JvzA81nojfdhki4JFeerm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:45 | 2022-04-22 | 2022-07-18 |
+| [ROCK STAR](https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Beauty in Chaos](https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a) | 3:27 | 2025-05-20 |  |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2024-05-09 | 2024-11-07 |
 | [Rockabilly Time](https://open.spotify.com/track/4xsCYwFoPWkbQ6f4l86RbB) | [Street Guns](https://open.spotify.com/artist/5Y2hLp715quTKS2CzVnbsa) | [Rockabilly Time](https://open.spotify.com/album/2JHPFP0ZS1hVaizzwhn9g4) | 2:58 | 2024-04-30 | 2024-05-10 |
 | [Rocker's High \(Feat\. Lee Juseung\)](https://open.spotify.com/track/5qQYI0pBhlvP0CBhfCrLU0) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Lee Juseung](https://open.spotify.com/artist/4VYWvx4JpgPYUbpAKgXH33) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:34 | 2023-07-12 | 2023-07-29 |

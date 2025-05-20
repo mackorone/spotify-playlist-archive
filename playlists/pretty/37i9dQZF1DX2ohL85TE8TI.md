@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 귀궁 \(The Haunted Palace\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,328 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,304 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Your Shade \(The Haunted Palace : Original Television Soundtrack\)](https://open.spotify.com/track/1IbjQvZ1CfeA6xnbEzdI1O) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Haunted Palace OST Part.2](https://open.spotify.com/album/4a2NGtb8PGlEmKAuJVl09P) | 3:36 |
 | 2 | [Rebloom \(The Haunted Palace : Original Television Soundtrack\)](https://open.spotify.com/track/7pkIEW7vzDRn5mDZ7N7DuH) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [The Haunted Palace OST Part.3](https://open.spotify.com/album/4VCMLsDjW6mK9SYmxccEmE) | 3:58 |
 | 3 | [그대도 나처럼](https://open.spotify.com/track/427GFsFVqlktdQThIZfRjI) | [Jeon Yu Jin](https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/2JaQuPCrYoCWlNq2lkh6rg) | 3:58 |
-| 4 | [Heavy Love](https://open.spotify.com/track/6EpgGPsIwpt8PEqMMRFzmW) | [LIZ](https://open.spotify.com/artist/0WS71thAQlbavNqttXMcJ3) | [Heavenly Ever After \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4FJg4kCTjCQXqTtrFzpeLy) | 3:59 |
+| 4 | [Heavy Love](https://open.spotify.com/track/6EpgGPsIwpt8PEqMMRFzmW) | [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [Heavenly Ever After \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4FJg4kCTjCQXqTtrFzpeLy) | 3:59 |
 | 5 | [You Made Me Smile](https://open.spotify.com/track/4o46PVIt0Cp8XcVaxg8Nuk) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Second Shot at Love, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6lV9XOE4fAwfKu3eIi2DLM) | 4:20 |
 | 6 | [When the Day Comes](https://open.spotify.com/track/60DwXD4XZgBGMRwViDqBm6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Resident Playbook, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/2gZ7EtpMiM5cEtQIHzOCLo) | 3:41 |
 | 7 | [End of a Day](https://open.spotify.com/track/1yjMST306VNC3OfvnMgqTp) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [End of a Day \(Crushology 101 OST Part.8\)](https://open.spotify.com/album/2td9gFveZGCT2v9JzKjWka) | 3:55 |

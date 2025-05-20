@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-479 songs - 1 day 6 hr 19 min
+480 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 | 2023-04-18 | 2023-08-11 |
 | [Alchemy](https://open.spotify.com/track/35x4IqiQaec3QfxnU7wKlX) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Alchemy](https://open.spotify.com/album/6jzc1zZLAC0viqCOMQmvm8) | 2:43 | 2023-06-30 | 2023-07-22 |
 | [All about you](https://open.spotify.com/track/1jRkIIqpKw9WGlxOExgL67) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [EntzugszKlinique](https://open.spotify.com/artist/2KfUKuzYq61DbEqQzGgHZN), [ScubaPro](https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM) | [All about you](https://open.spotify.com/album/6b86qlj0FMqPaNZiwwc7Hu) | 2:34 | 2023-06-05 | 2023-06-29 |
+| [All Chaos Is Digital](https://open.spotify.com/track/0rYb3kKO4KHnrfGVXviVWa) | [Afem Syko](https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU) | [Another Place](https://open.spotify.com/album/0EiRypLZoQoR7FHEbq0dBU) | 4:06 | 2025-05-19 |  |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 | 2023-08-10 | 2025-05-16 |
 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-17 | 2025-05-19 |
 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 | 2023-03-25 |  |
@@ -235,7 +236,7 @@
 | [Kisses \(feat\. bbyclose\) \- Malugi Remix](https://open.spotify.com/track/18jcuenWg8hfYdZee2lQfc) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Kisses \(feat\. bbyclose\) \[Malugi Remix\]](https://open.spotify.com/album/0ahPH3o9zxwGdxwEjDgxz5) | 2:30 | 2024-12-28 | 2025-01-07 |
 | [Knees Break](https://open.spotify.com/track/0SyWhkrm6yBPgqliVB7MP9) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [Knees Break](https://open.spotify.com/album/77FcRYFTPoemKvDGLZ4s0Q) | 2:28 | 2024-12-28 |  |
 | [Knife Talk](https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Knife Talk](https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW) | 2:52 | 2023-03-10 | 2023-04-07 |
-| [Kotodama](https://open.spotify.com/track/7jkxUiHq2h9v2YDm9yg9mY) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Kotodama](https://open.spotify.com/album/7HQ1z0pLpScNOy5dVto4T9) | 2:32 | 2024-11-14 |  |
+| [Kotodama](https://open.spotify.com/track/7jkxUiHq2h9v2YDm9yg9mY) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Kotodama](https://open.spotify.com/album/7HQ1z0pLpScNOy5dVto4T9) | 2:32 | 2024-11-14 | 2025-05-20 |
 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 | 2024-05-29 |  |
 | [La Batteria \- X\-COAST Remix](https://open.spotify.com/track/6HClx0gNRN4CD4EzMKf7o9) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [La Batteria \(X\-COAST Remix\)](https://open.spotify.com/album/04unlS9H1Oxe5zFJrcHHgX) | 4:02 | 2024-08-12 | 2024-12-10 |
 | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/track/74859SONTVsXf1Cpdl8t3g) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/album/4N1XvwsjPGm2ghapARnpn3) | 3:39 | 2023-11-09 | 2023-11-17 |

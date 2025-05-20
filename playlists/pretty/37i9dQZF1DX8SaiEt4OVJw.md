@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Champion Sounds\. Winners' anthems
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,631 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,650 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 49 | [Kwelanga 2.0 \(feat\. Tman Xpress & LeeMcKrazy\)](https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31) | [Bassie](https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6), [M\-Touch](https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6), [Ranger](https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk), [Amaza](https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx) | [Kwelanga](https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK) | 7:21 |
 | 50 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:37 |
 
-Snapshot ID: `aCHVkgAAAADsvbH8AUa+HMNKFy+NGTLa`
+Snapshot ID: `aCsiXgAAAABKm+V+LDle8bTFP2iG/oop`

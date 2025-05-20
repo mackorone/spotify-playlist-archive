@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Mlecze
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,667 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,705 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 92 | [Koniec](https://open.spotify.com/track/4dKiPl5sjitYr6O8U2EWhz) | [Frank Inferno](https://open.spotify.com/artist/0bW2vaeoSnJIKjFJYyHHrV) | [Koniec](https://open.spotify.com/album/3VWZs78PRxyAJCRcxy48JM) | 3:10 |
 | 93 | [salty](https://open.spotify.com/track/6TX10JeDuJJdwLbfsE2Qst) | [ptakova](https://open.spotify.com/artist/6qHcB06FV47cRkAt5QbVwk) | [salty](https://open.spotify.com/album/3CQOKWrFJP0NYtclmo68Ko) | 3:51 |
 | 94 | [Jaskrawe historie](https://open.spotify.com/track/7nvyxWLQStZp4rGVV9duGD) | [Ganczarska](https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo) | [Jaskrawe historie](https://open.spotify.com/album/6cgBvG0403ClRCNnJoJU66) | 3:37 |
-| 95 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |
+| 95 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |
 | 96 | [jak Matylda](https://open.spotify.com/track/3K3eYDXyiIOknl9gJDmsLS) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [przebłyski](https://open.spotify.com/album/4YbULMtFHQWThFAUHsVOVS) | 2:38 |
 | 97 | [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 |
 | 98 | [nie\-boska robota](https://open.spotify.com/track/55mXkAR7CtkDQIeitI4yss) | [Julita Ziela Zielińska](https://open.spotify.com/artist/7jS2YufaCykbNcmGLq37Wl) | [nie\-boska robota](https://open.spotify.com/album/6PjDinRev8jtrp68IZhEwD) | 4:51 |

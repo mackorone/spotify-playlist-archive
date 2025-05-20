@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs?si=n\_R64Y\_HT9mjQOxUm8Ig5A"> Asiahn</a>\. Updates every Wednesday.
+> Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs?si=n\_R64Y\_HT9mjQOxUm8Ig5A"> Asiahn</a>\. Updates every Wednesday.
 
-3,234 songs - 6 day 19 hr 53 min
+3,235 songs - 6 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-08-19 | 2022-09-22 |
 | [Day n Night](https://open.spotify.com/track/7dKN4FXutQJ89yJEKDOUVh) | [Sono](https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39) | [Day n Night](https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr) | 3:59 | 2022-10-19 | 2022-10-29 |
 | [Day Off](https://open.spotify.com/track/1k9viLiFqgwPZITKHxDH4e) | [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF) | [Day Off](https://open.spotify.com/album/6MgIz9v9Ut3zTiGdmVCVT0) | 3:21 | 2023-08-03 | 2023-10-04 |
+| [Day One](https://open.spotify.com/track/4lmKJY3DL551jHx4vYh8VO) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Day One](https://open.spotify.com/album/3sxbmfvOkXIEyl4cmd39Ox) | 2:50 | 2025-05-19 |  |
 | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/2T3vPMrMaugMh1Xu1nwmdP) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [how did we end up here?](https://open.spotify.com/album/7tn5OONBRFmZGwBbEEf2nl) | 2:47 | 2025-01-17 |  |
 | [Daydream](https://open.spotify.com/track/2BhPOrPs64hlIiKHDfYUQR) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Daydream](https://open.spotify.com/album/3tzUohsQuxMekbz1BN1P6G) | 2:16 | 2025-04-05 |  |
 | [Daydreaming Again](https://open.spotify.com/track/2OvbShNkaf6CwBA92kvGA8) | [SHANN](https://open.spotify.com/artist/66IKcuIH4l6Wp3fO3tkkDN) | [Daydreaming Again](https://open.spotify.com/album/7qp38WX7UdhdIz5psIRVZm) | 2:28 | 2024-02-21 | 2024-04-24 |

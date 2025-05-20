@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino con Sebastián Yatra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,638,596 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,638,655 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [PLÁSTICO](https://open.spotify.com/track/53JpIvmaGCnEGARgwJPhZR) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:59 |
 | 50 | [MACARRONES CON QUESO](https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [MACARRONES CON QUESO](https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7) | 2:27 |
 
-Snapshot ID: `AAAAAGLc1BQoEeKE6q9q3iFT9napDW/9`
+Snapshot ID: `aCa4hAAAAAAzKgEeYf/xg4UHJtbzF3oy`

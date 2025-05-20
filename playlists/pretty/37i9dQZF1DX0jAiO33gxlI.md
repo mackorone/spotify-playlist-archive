@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Akashi Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,924 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,920 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [INTACTO](https://open.spotify.com/track/4nHUCWOiLYfJxJuNSEeFjf) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Dj Ricch](https://open.spotify.com/artist/25KGYwgmC5Y1BE7MYaV2AF) | [INTACTO](https://open.spotify.com/album/2O2Hm7i2J5gEqJ3IrHh0Xe) | 2:56 |
 | 75 | [2025](https://open.spotify.com/track/04ZgYfHSGjJcoL7ynLXbLu) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Maunatrack](https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY) | [2025](https://open.spotify.com/album/07XdFCewnvnuvjD0vWF777) | 2:41 |
 
-Snapshot ID: `aCdmsgAAAACDlaTWzQCzZIGkuaQgNzjD`
+Snapshot ID: `AAAAAFndNebgE2Js4xhe7Dyu0yB0f15V`

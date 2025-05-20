@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Reyne L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,755 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,775 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 16 | [Carry Me Through](https://open.spotify.com/track/5cIWMiWinDpliYa9NrmVgo) | [Bethany Cruz](https://open.spotify.com/artist/61HPXonSIqZ9SC2QDQcgQ4) | [Carry Me Through](https://open.spotify.com/album/4qB4Lr1t2oHHWyQlOks8X2) | 3:55 |
 | 17 | [Where To Go](https://open.spotify.com/track/3yVg1I3Rp3h7kyIberAHnb) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [Where To Go](https://open.spotify.com/album/1XedAwkH7SL1O1jPgaHzar) | 3:18 |
 | 18 | [MIAMI](https://open.spotify.com/track/6gLFnjCQihbqspWbvhy5XW) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [305](https://open.spotify.com/album/7xmYQsGjG5s177ET4LUg3U) | 2:04 |
-| 19 | [Believe In Jesus](https://open.spotify.com/track/5RfgNwME6tabAIZoGYmE1N) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [DOE](https://open.spotify.com/artist/1JzASUWJ9y5iyEWnhraQyH) | [Believe In Jesus](https://open.spotify.com/album/5alY3owcfE9O76JLK8tXZ9) | 2:58 |
+| 19 | [Believe In Jesus](https://open.spotify.com/track/5RfgNwME6tabAIZoGYmE1N) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Believe In Jesus](https://open.spotify.com/album/5alY3owcfE9O76JLK8tXZ9) | 2:58 |
 | 20 | [SET UR EYES](https://open.spotify.com/track/0AuUPiBSpxeKcctO4WBIjt) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Avery Doreen](https://open.spotify.com/artist/0eHUOghuxi4WpZp5YNGYdE), [STARRBABY WRLDWIDE](https://open.spotify.com/artist/1ljzJJZCkvJxR6A1CIt1jO) | [SET UR EYES](https://open.spotify.com/album/0W49q7CuveBAcjo8on525O) | 3:51 |
 | 21 | [GIVER](https://open.spotify.com/track/7c4uc8olvz5S0yucOrM6pn) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [GIVER](https://open.spotify.com/album/4NJLvIp4vtBQP0uqqt1Ag1) | 3:08 |
 | 22 | [No Worries](https://open.spotify.com/track/4L0JN14KEZkgN9NTf5JssS) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [No Worries](https://open.spotify.com/album/5FLH1stR2FzV4GvTaZmfLi) | 2:23 |

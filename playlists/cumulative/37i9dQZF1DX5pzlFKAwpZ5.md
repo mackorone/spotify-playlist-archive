@@ -4,10 +4,11 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-313 songs - 23 hr 18 min
+314 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#bdbdbd \(06:16:00am \- 12:19:59am\)](https://open.spotify.com/track/5a7qx2I3G93dR79p2StDmF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Grey《灰色の領域》](https://open.spotify.com/album/1iEYGTJEEru5Yo2JbsbNwU) | 6:04 | 2025-05-16 |  |
 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 | 2025-03-21 |  |
 | [193193 Sleep](https://open.spotify.com/track/6XCzzYdNBLpHMHelYHVJoK) | [Chino Yoshio](https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m) | [193193](https://open.spotify.com/album/1fF1ghrobgXFDvlzqyRPRm) | 3:14 | 2022-05-18 |  |
 | [2679 miles away](https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Paradoxically, forgetting](https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN) | 13:55 | 2022-12-20 | 2023-08-19 |
@@ -216,7 +217,7 @@
 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 | 2022-12-30 | 2024-04-19 |
 | [Seiko 2](https://open.spotify.com/track/7vRbhipDnha1XKNlsEeIVr) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music for Commercials](https://open.spotify.com/album/6769wncEGDC4eRl66lcrpi) | 1:08 | 2024-03-07 | 2025-01-14 |
 | [Seiko 3](https://open.spotify.com/track/6SIBardoRzJ6gSxRS6rfH6) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 1:19 | 2022-12-30 | 2025-03-07 |
-| [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/01CmlNGcKb7UblwhQJ75A8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/1H2S9hCMFvYTd0S98LPZBP) | 3:45 | 2024-03-07 |  |
+| [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/01CmlNGcKb7UblwhQJ75A8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/1H2S9hCMFvYTd0S98LPZBP) | 3:45 | 2024-03-07 | 2025-05-20 |
 | [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo) | 3:45 | 2022-12-30 | 2024-04-19 |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-01-07 |  |
 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 | 2022-01-07 |  |

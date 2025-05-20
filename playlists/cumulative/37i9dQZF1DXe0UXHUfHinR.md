@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-799 songs - 2 day 15 hr 41 min
+800 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Seattle](https://open.spotify.com/track/7d5hzhh2eNOKOBgP4MteYX) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Gently Disturbed](https://open.spotify.com/album/1YpYJkg18DHN92lVz9qcYC) | 2:50 | 2023-12-14 | 2024-01-18 |
 | [Senor Mouse](https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 6:17 | 2022-10-27 |  |
 | [Serenade To A Soul Sister \- Remastered](https://open.spotify.com/track/1duGF26RKaTntfsJ0cTkzj) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Serenade To A Soul Sister](https://open.spotify.com/album/1gryuLyN2QvKQOpEPMTwBC) | 6:19 | 2024-03-20 | 2025-02-12 |
+| [Sicilyan Dream \(D’après Siciliano, BWV\. 1031 de Johann Sebastian Bach\)](https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:37 | 2024-07-17 |  |
 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 | 2022-10-27 | 2025-04-22 |
 | [Silk Threads](https://open.spotify.com/track/06saP1KfOa0j93jO8XnCUT) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:34 | 2023-10-19 |  |
 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 | 2022-10-27 |  |
@@ -763,7 +764,7 @@
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2022-10-27 | 2025-04-11 |
 | [What's The Rush](https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 3:42 | 2022-10-27 | 2023-01-21 |
 | [What's The Rush](https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Keep Calm with Jazz](https://open.spotify.com/album/6Id96zESyjAKNBGB427Tfo) | 3:42 | 2023-10-19 | 2024-02-13 |
-| [What's the Rush \(Original Mix\)](https://open.spotify.com/track/76h7eH3kREBzNd5Nambg3o) | [Gerry Mulligan & Johnny Hodges](https://open.spotify.com/artist/5lQcV0CuFf9nlwLcWn9Ynx) | [Golden Hits](https://open.spotify.com/album/60Dn2MbBxX3G32aYArzpUZ) | 3:45 | 2024-07-17 |  |
+| [What's the Rush \(Original Mix\)](https://open.spotify.com/track/76h7eH3kREBzNd5Nambg3o) | [Gerry Mulligan & Johnny Hodges](https://open.spotify.com/artist/5lQcV0CuFf9nlwLcWn9Ynx) | [Golden Hits](https://open.spotify.com/album/60Dn2MbBxX3G32aYArzpUZ) | 3:45 | 2024-07-17 | 2025-05-20 |
 | [When I Fall In Love](https://open.spotify.com/track/1Ame30MZ6yKnqaWFAch1m7) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' With The Miles Davis Quintet](https://open.spotify.com/album/0Q0bftWuBSwZAHBKZr0lxB) | 4:24 | 2023-06-21 |  |
 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 | 2022-10-27 |  |
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-10-27 |  |

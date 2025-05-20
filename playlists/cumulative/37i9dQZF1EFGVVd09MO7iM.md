@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-924 songs - 2 day 10 hr 52 min
+925 songs - 2 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All Eyes on Me](https://open.spotify.com/track/4Uy6JSsO0tnwRMKiTMPwVR) | [Bewared](https://open.spotify.com/artist/59af5mdpghaIzOYZHRAZ38) | [All Eyes on Me](https://open.spotify.com/album/5jlgzoP5QfMHFE4bpwhcmg) | 4:02 | 2025-04-16 | 2025-04-23 |
 | [All Eyes on Me](https://open.spotify.com/track/6C7kfeD5J8WumcG7Y44yrM) | [OR1O](https://open.spotify.com/artist/0VculuNKhdQme3MzjmTXRL) | [All Eyes on Me](https://open.spotify.com/album/2j8VLoApLXIMKOsFZbc9r6) | 4:02 | 2025-04-14 | 2025-04-17 |
 | [All Eyes on Me](https://open.spotify.com/track/0gg5h5BgdjVlXTti79TUao) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [All Eyes on Me](https://open.spotify.com/album/2kOw2vtpI2FxttuzfP0rfU) | 4:02 | 2024-01-29 | 2025-03-21 |
+| [All Eyes On Me](https://open.spotify.com/track/3wHBCK8Ogp82xWYWbVg7Ri) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [All Eyes On Me](https://open.spotify.com/album/6xN7mbvwOgZgQfKbjYjQnF) | 4:02 | 2025-05-19 |  |
 | [All Eyes on Me](https://open.spotify.com/track/6AEDmWH4F72nNRxwsacXzW) | [SonicHalls](https://open.spotify.com/artist/2HhhsbQKUnkdjg5ZYdJkPB) | [All Eyes on Me](https://open.spotify.com/album/0tAKfVFOX2SzLTlTsegGZm) | 4:02 | 2025-04-24 | 2025-05-17 |
 | [All Eyes on Me \(feat\. Keri Hilson\)](https://open.spotify.com/track/0aOp92L0KjfLH3zamn8Vdv) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 3:50 | 2024-09-12 | 2024-12-12 |
 | [All I Said \(feat\. Macy Gray\)](https://open.spotify.com/track/1aChz5EiVPmFTm6YETgrvM) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:07 | 2024-09-12 |  |

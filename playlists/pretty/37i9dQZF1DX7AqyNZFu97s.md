@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Liv Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,121 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,132 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [DIFFERENTLY](https://open.spotify.com/track/4aabm2PiNsSWXzf8uoNmlq) | [Daisy Maybe](https://open.spotify.com/artist/518YEL23Iq71Z3Mx0vhbVd), [James Massiah](https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9) | [DIFFERENTLY](https://open.spotify.com/album/6Sr6XR9I11TKTL5jFdaKSh) | 3:06 |
 | 100 | [Ice and Blues](https://open.spotify.com/track/1iy6XgqJI3Q0KykN3BJrIG) | [$ONA BLU€](https://open.spotify.com/artist/22JNBCYJvzLvZ8oL9vyRzr) | [Ice and Blues](https://open.spotify.com/album/1KBvb4fpiaMhOIi9VTk2su) | 3:52 |
 
-Snapshot ID: `aCPO9wAAAADFchMDHAb8luNaJol0w3Tn`
+Snapshot ID: `aCrkEgAAAAAnT5V7L0OBUtUKuQmb28+e`

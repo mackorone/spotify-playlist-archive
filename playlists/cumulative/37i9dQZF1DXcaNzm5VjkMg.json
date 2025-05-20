@@ -151,6 +151,28 @@
     },
     {
       "album": {
+        "name": "Merangkai",
+        "url": "https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        },
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254272,
+      "name": "Against All The Odds",
+      "url": "https://open.spotify.com/track/5HevQCX2dDxGXDmQOYDXkc"
+    },
+    {
+      "album": {
         "name": "Akan Selalu",
         "url": "https://open.spotify.com/album/10B0kajODTZhGZ5EFWYASI"
       },
@@ -556,7 +578,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 177993,
       "name": "Biarku Merindu",
       "url": "https://open.spotify.com/track/6CxAzRJjOUr3LL1qXbQCry"
@@ -1944,7 +1966,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 236000,
       "name": "Mercusuar",
       "url": "https://open.spotify.com/track/3fgdtD7nivCvPueM8UmvFg"
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 235038,
       "name": "Selamanya",
       "url": "https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx"
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 250690,
       "name": "Terbawa Suasana",
       "url": "https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB"
@@ -2982,6 +3004,24 @@
       "duration_ms": 178890,
       "name": "Waking Up Together With You",
       "url": "https://open.spotify.com/track/6WsG550j67Aj29z0iel7lo"
+    },
+    {
+      "album": {
+        "name": "Keterkaitan Keterikatan",
+        "url": "https://open.spotify.com/album/5pkOZs3oUgFRBo7mbK4CUp"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258855,
+      "name": "Wanitaku",
+      "url": "https://open.spotify.com/track/7qUeHiPccGnbcfweVqrgr0"
     },
     {
       "album": {

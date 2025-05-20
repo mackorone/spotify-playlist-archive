@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,998 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,063 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 17 | [Tèt Kolé](https://open.spotify.com/track/4uFJVgEMZmG8CAUxoliS29) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [Tèt Kolé](https://open.spotify.com/album/4YamarGSQ6C3csouR1FGWD) | 2:32 |
 | 18 | [Métiss la](https://open.spotify.com/track/3RSbeeAslAyZUk9OEJ2W5k) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig), [DJ PHIL](https://open.spotify.com/artist/2Yc5AMLoJadf2uqow6ex9G) | [Métiss la](https://open.spotify.com/album/33DcZEt401pGmeif9QAQgF) | 2:34 |
 | 19 | [Toi et moi](https://open.spotify.com/track/4dxfZwSiDftKzoqJv7F47Y) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:54 |
-| 20 | [Holà](https://open.spotify.com/track/7tzmBnzoR8VrA3FiWLH5cz) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6) | [Holà](https://open.spotify.com/album/4iv3V9QL9nefZUbD4jbX1T) | 2:39 |
+| 20 | [HOLÀ](https://open.spotify.com/track/7tzmBnzoR8VrA3FiWLH5cz) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6) | [HOLÀ](https://open.spotify.com/album/4iv3V9QL9nefZUbD4jbX1T) | 2:39 |
 | 21 | [Je Donne](https://open.spotify.com/track/1bol6WkjrtvcxPydk4tsGC) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Belle vie](https://open.spotify.com/album/4JPoxkWhDRrfLZbUOE3Aez) | 2:30 |
 | 22 | [Emilie](https://open.spotify.com/track/0Jy2GTFnl7dtdC2viWzELO) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [BLUE](https://open.spotify.com/album/2dCRQHfjbwOEfgCiuN7Z5J) | 4:06 |
 | 23 | [A mes côtés](https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [Mon Rêve](https://open.spotify.com/album/0aAWgxB9EnN40ZjGprGnZC) | 3:25 |

@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 153402,
+  "num_followers": 153413,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2025-05-02 17:53:50",
       "album": {
-        "name": "A Country Dance",
-        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
-      },
-      "artists": [
-        {
-          "name": "Joanna Sternberg",
-          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
-        }
-      ],
-      "duration_ms": 177023,
-      "name": "A Country Dance",
-      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
-    },
-    {
-      "added_at": "2025-05-02 17:53:50",
-      "album": {
-        "name": "Such Love Does",
-        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Such Love Does",
-      "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
-    },
-    {
-      "added_at": "2025-05-02 17:53:50",
-      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -1171,18 +1139,34 @@
     {
       "added_at": "2025-05-02 17:53:50",
       "album": {
-        "name": "Cost of the Cold b/w Here and Whole",
-        "url": "https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs"
+        "name": "Such Love Does",
+        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
       },
       "artists": [
         {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
         }
       ],
-      "duration_ms": 230817,
-      "name": "Cost of the Cold",
-      "url": "https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z"
+      "duration_ms": 200333,
+      "name": "Such Love Does",
+      "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
+    },
+    {
+      "added_at": "2025-05-02 17:53:50",
+      "album": {
+        "name": "A Country Dance",
+        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "A Country Dance",
+      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
     },
     {
       "added_at": "2025-05-02 17:53:50",
@@ -1203,6 +1187,22 @@
       "duration_ms": 221599,
       "name": "August (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
+    },
+    {
+      "added_at": "2025-05-02 17:53:50",
+      "album": {
+        "name": "Cost of the Cold b/w Here and Whole",
+        "url": "https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 230817,
+      "name": "Cost of the Cold",
+      "url": "https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z"
     },
     {
       "added_at": "2025-05-02 17:53:50",

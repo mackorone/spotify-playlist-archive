@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Lecrae & Miles Minnick
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,401 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,424 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 19 | [COMFORTER](https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [COMFORTER](https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f) | 3:35 |
 | 20 | [DANCING SHOES](https://open.spotify.com/track/7g5ke136OU63HesVoxDIkM) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [DANCING SHOES](https://open.spotify.com/album/6EQVCLJXuuo1pwYUFV4xWA) | 2:54 |
 | 21 | [Can't Stop Me Now \- Gregatron Remix](https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX) | [Can't Stop Me Now \(Gregatron Remix\)](https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn) | 2:22 |
-| 22 | [Praying Out Loud \- Arken Remix](https://open.spotify.com/track/0TN6lBoupsiKJJpDPgi5af) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [Arken](https://open.spotify.com/artist/4BOU9OmOZwG0ZCfleWWKt3), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Praying Out Loud \(Arken Remix\)](https://open.spotify.com/album/6zSWdkEdXc4hiR4mmUdrd6) | 3:04 |
+| 22 | [Praying Out Loud \- Arken Remix](https://open.spotify.com/track/0TN6lBoupsiKJJpDPgi5af) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Arken](https://open.spotify.com/artist/1MNmytGxvV8yXqns4ZDt4S) | [Praying Out Loud \(Arken Remix\)](https://open.spotify.com/album/6zSWdkEdXc4hiR4mmUdrd6) | 3:04 |
 | 23 | [VEGAS](https://open.spotify.com/track/3Y7vNBNQuMV2fkX7LHguW7) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [VEGAS](https://open.spotify.com/album/3WB7YTMJOYnop4wXww48Yi) | 2:08 |
 | 24 | [DON’T FRET, IT’S ALRIGHT](https://open.spotify.com/track/5rWcrNzJaUj0FXnA63EwE6) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [DON’T FRET, IT’S ALRIGHT](https://open.spotify.com/album/1CQAERogPoG7rc3wlHCfQG) | 2:45 |
 | 25 | [Already Gone](https://open.spotify.com/track/4tTHSkuwvOuTsdRQeQ92bn) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Already Gone](https://open.spotify.com/album/06SKCWr66xMMVLApkl4w5a) | 3:26 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 59 | [Full Surrender](https://open.spotify.com/track/6SQpB4z4lHDP3a1TayluWC) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Full Surrender](https://open.spotify.com/album/6zUCruEK6fqLN15zMKHWwN) | 5:31 |
 | 60 | [Adonai \- Live](https://open.spotify.com/track/3wmmDTTjiUpjIAfiz2pdGU) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Adonai \(Live\)](https://open.spotify.com/album/4xquuOA7DRNjjBoxUVuXfV) | 9:22 |
 | 61 | [Come Revive Us](https://open.spotify.com/track/1Y93sZ3FqegtJYuDeaVqPB) | [House Worship](https://open.spotify.com/artist/55MNpzoGb8zFUdembHY4as), [Tibari Devone](https://open.spotify.com/artist/16YRN326Qi2nvKYZjqt64n) | [Come Revive Us](https://open.spotify.com/album/3T3nkjPnYjpU0lZrJpQM7A) | 8:16 |
-| 62 | [Fan The Flame](https://open.spotify.com/track/1xn4MhIl2JDBxwAGlYFTaG) | [Church of the King](https://open.spotify.com/artist/1fHtdTA4INi8yTju4FQA55) | [Fan The Flame](https://open.spotify.com/album/1WUcpyQx1vgcvbNFC0pkpG) | 5:31 |
+| 62 | [Fan The Flame](https://open.spotify.com/track/1xn4MhIl2JDBxwAGlYFTaG) | [Church of the King](https://open.spotify.com/artist/1fHtdTA4INi8yTju4FQA55), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Fan The Flame](https://open.spotify.com/album/1WUcpyQx1vgcvbNFC0pkpG) | 5:31 |
 | 63 | [SEOUL BROTHER](https://open.spotify.com/track/5HfAfh5qtZNtfvnVo4f4Bi) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [SEOUL BROTHER](https://open.spotify.com/album/4gvQYalAihiks44m2oP8Zp) | 2:09 |
 | 64 | [RAIN ON ME](https://open.spotify.com/track/2MYo9BI8aO2884Y0GrgLj3) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [RAIN ON ME](https://open.spotify.com/album/2Hi63v931OtIxnPAxXUXOJ) | 2:12 |
 | 65 | [So Beyond](https://open.spotify.com/track/6BH9lgUltTuhMABEIlYPAX) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [So Beyond](https://open.spotify.com/album/0NINUFWvtvWgzqHKiqKCx2) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [The Name of Jesus](https://open.spotify.com/track/1A0iZtldObmskSY1G1FZwW) | [Warehouse Worship](https://open.spotify.com/artist/1u5xwOxetEbwUOsx5YRwXB), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Name of Jesus](https://open.spotify.com/album/4HNFtdNDZrRPfAs9pW4K3L) | 6:53 |
 | 100 | [Lifter of Men](https://open.spotify.com/track/1IxhyLPPM14RiMzlZEUEk4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Lifter of Men](https://open.spotify.com/album/5C76LCJUbI1vhNh8ghUBVQ) | 5:34 |
 
-Snapshot ID: `aCbq5QAAAADdGSmLlgmz79ZfGi3ox5Ae`
+Snapshot ID: `aCbq5QAAAACx70JX0rEFNtP+saXy6p6m`

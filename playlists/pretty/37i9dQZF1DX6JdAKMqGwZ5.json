@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
-  "num_followers": 199278,
+  "num_followers": 199320,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2025-05-15 22:00:23",
-      "album": {
         "name": "Catro Cousas",
         "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 265046,
       "name": "Catro Cousas",
       "url": "https://open.spotify.com/track/0Q4LDISBQT1kkPhyrwvt3F"
+    },
+    {
+      "added_at": "2025-05-15 22:00:23",
+      "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2025-05-15 22:00:23",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
+        "name": "Se Nota",
+        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
+      },
+      "artists": [
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Se Nota",
+      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
+    },
+    {
+      "added_at": "2025-05-15 22:00:23",
+      "album": {
         "name": "EL SOL",
         "url": "https://open.spotify.com/album/4uGpC7TUpqqMyRXoG3ZqF0"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 196105,
       "name": "Ordu bik eta laurden",
       "url": "https://open.spotify.com/track/59EEF3djW6lRk6MSAnEtiV"
-    },
-    {
-      "added_at": "2025-05-15 22:00:23",
-      "album": {
-        "name": "Se Nota",
-        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
-      },
-      "artists": [
-        {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Se Nota",
-      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
     },
     {
       "added_at": "2025-05-15 22:00:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
-        "name": "Fan\u00e1tica",
-        "url": "https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb"
-      },
-      "artists": [
-        {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 176992,
-      "name": "Fan\u00e1tica",
-      "url": "https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A"
-    },
-    {
-      "added_at": "2025-05-15 22:00:23",
-      "album": {
         "name": "tu pel\u00edcula",
         "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 174467,
       "name": "tu pel\u00edcula",
       "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2025-05-15 22:00:23",
+      "album": {
+        "name": "Fan\u00e1tica",
+        "url": "https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 176992,
+      "name": "Fan\u00e1tica",
+      "url": "https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A"
     },
     {
       "added_at": "2025-05-15 22:00:23",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
-        "name": "Vienen de pas\u00e1rselo bien con Tulsa",
-        "url": "https://open.spotify.com/album/2a4LzDTCkiCkYtIsd6L1LD"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        },
-        {
-          "name": "Tulsa",
-          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
-        }
-      ],
-      "duration_ms": 166740,
-      "name": "Vienen de pas\u00e1rselo bien con Tulsa",
-      "url": "https://open.spotify.com/track/3KO1M1W2HiBYEMG3wLj0ep"
-    },
-    {
-      "added_at": "2025-05-15 22:00:23",
-      "album": {
         "name": "Rendici\u00f3n",
         "url": "https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 224497,
       "name": "Rendici\u00f3n",
       "url": "https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7"
+    },
+    {
+      "added_at": "2025-05-15 22:00:23",
+      "album": {
+        "name": "Vienen de pas\u00e1rselo bien con Tulsa",
+        "url": "https://open.spotify.com/album/2a4LzDTCkiCkYtIsd6L1LD"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
+        }
+      ],
+      "duration_ms": 166740,
+      "name": "Vienen de pas\u00e1rselo bien con Tulsa",
+      "url": "https://open.spotify.com/track/3KO1M1W2HiBYEMG3wLj0ep"
     },
     {
       "added_at": "2025-05-15 22:00:23",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
-        "name": "Vanpiro Esiten",
-        "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
-      },
-      "artists": [
-        {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
-        }
-      ],
-      "duration_ms": 221901,
-      "name": "Nunca mas",
-      "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
-    },
-    {
-      "added_at": "2025-05-15 22:00:23",
-      "album": {
         "name": "nada importa",
         "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 178904,
       "name": "nada importa",
       "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
+    },
+    {
+      "added_at": "2025-05-15 22:00:23",
+      "album": {
+        "name": "Vanpiro Esiten",
+        "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "duration_ms": 221901,
+      "name": "Nunca mas",
+      "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
     },
     {
       "added_at": "2025-05-15 22:00:23",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
-        "name": "Lo Que Me Pasa",
-        "url": "https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm"
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
       "artists": [
         {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        },
-        {
-          "name": "Albert Cases",
-          "url": "https://open.spotify.com/artist/61llloTcQIbaT4ojaBOJbS"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 172563,
-      "name": "Lo Que Me Pasa",
-      "url": "https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR"
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-05-15 22:00:23",
@@ -1463,6 +1459,26 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
+        "name": "Lo Que Me Pasa",
+        "url": "https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        },
+        {
+          "name": "Albert Cases",
+          "url": "https://open.spotify.com/artist/61llloTcQIbaT4ojaBOJbS"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Lo Que Me Pasa",
+      "url": "https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR"
+    },
+    {
+      "added_at": "2025-05-15 22:00:23",
+      "album": {
         "name": "Abraxas!",
         "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 249124,
       "name": "Abraxas!",
       "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
-    },
-    {
-      "added_at": "2025-05-15 22:00:23",
-      "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-05-15 22:00:23",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-05-15 22:00:23",
       "album": {
-        "name": "Ni bien ni mal",
-        "url": "https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Ni bien ni mal",
-      "url": "https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A"
-    },
-    {
-      "added_at": "2025-05-15 22:00:23",
-      "album": {
         "name": "Decid\u00ed Desaparecer",
         "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 163001,
       "name": "Decid\u00ed Desaparecer",
       "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
+    },
+    {
+      "added_at": "2025-05-15 22:00:23",
+      "album": {
+        "name": "Ni bien ni mal",
+        "url": "https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Ni bien ni mal",
+      "url": "https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A"
     },
     {
       "added_at": "2025-05-15 22:00:23",

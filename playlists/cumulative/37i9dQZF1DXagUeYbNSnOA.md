@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring Matt Louis\. Updates every Wednesday.
+> Celebrating 10 years of the best new music by independent artists and labels, featuring Matt Louis\. Updates every Wednesday.
 
 2,561 songs - 5 day 17 hr 16 min
 

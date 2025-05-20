@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Joe Stone
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Ginton x Ape Drums x Palane
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,680 likes - 29 songs - 1 hr 20 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,674 likes - 29 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 28 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/4XBoQ5WRS1fDH2hDxQpWW1) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Moxia](https://open.spotify.com/artist/4F3jN4WGspRHzZnvTTmMHx), [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/4O1GqccTwxxtb2Gjsk0bJp) | 2:33 |
 | 29 | [Strike A Pose \(feat\. Barefoot\)](https://open.spotify.com/track/3lRTdBw2SOlJq3r9wdK5pw) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Barefoot](https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr) | [Strike A Pose \(feat\. Barefoot\)](https://open.spotify.com/album/3XCB41prpHm5a8eiolc6St) | 3:40 |
 
-Snapshot ID: `AAAfWUdkQFFsoG8gLRJhKcwqaCCiPeiY`
+Snapshot ID: `AAAfWtaoY49pOKrEEk7G32l0mNQwuQ9p`

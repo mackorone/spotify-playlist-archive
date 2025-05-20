@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Chemical Reaction",
+        "url": "https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198778,
+      "name": "Chemical Reaction",
+      "url": "https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774"
+    },
+    {
+      "album": {
         "name": "Starflower",
         "url": "https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa"
       },
@@ -7640,6 +7658,24 @@
       "duration_ms": 202648,
       "name": "Life",
       "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
+    },
+    {
+      "album": {
+        "name": "Life Or Death",
+        "url": "https://open.spotify.com/album/6vEjNyuLahcJWnPgsyz4g6"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189447,
+      "name": "Life Or Death",
+      "url": "https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up"
     },
     {
       "album": {

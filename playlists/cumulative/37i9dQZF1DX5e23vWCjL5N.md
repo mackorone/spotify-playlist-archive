@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Cover: Salmo
 
-257 songs - 13 hr 27 min
+258 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [NOI](https://open.spotify.com/track/0FvYrmmPglHGBKJ3AtZovH) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 4:32 | 2022-04-15 |  |
 | [NOI](https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 4:32 | 2022-07-15 | 2024-04-19 |
 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 | 2022-04-15 | 2024-01-12 |
-| [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 | 2023-11-30 |  |
+| [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 | 2023-11-30 | 2025-05-20 |
 | [Nu creature int’o munno](https://open.spotify.com/track/6Vb2cNnIUQvWEk1JupBVop) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:30 | 2024-08-29 | 2024-11-27 |
 | [Nun è mai fernut](https://open.spotify.com/track/1mIs94EvwoD8zLCFQXrdHA) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:47 | 2024-08-29 | 2024-12-14 |
 | [Nuove regole \(feat\. Izi\)](https://open.spotify.com/track/6EYwC9HDXUj73q537Mb4HB) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [PRIMETIME](https://open.spotify.com/album/5usaPElVU5jkioS6cK1XBd) | 3:12 | 2025-04-10 |  |
@@ -225,6 +225,7 @@
 | [S.A.L.M.O.](https://open.spotify.com/track/4kpAz34vx3pPPGaKdD3j6Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:55 | 2022-04-15 | 2024-08-30 |
 | [S.X.S.I.C.](https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:20 | 2024-11-04 | 2025-04-11 |
 | [Scappa](https://open.spotify.com/track/2OhXsU2nyW4HnQmbgyFtdT) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Scappa](https://open.spotify.com/album/6MFHTUfK3bSj49hVM6CYrL) | 2:45 | 2025-04-10 |  |
+| [Se non ci fosse la rabbia](https://open.spotify.com/track/17TSllG3V4D1Qf9LaWwfDM) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:59 | 2025-05-19 |  |
 | [Se Rinasco \(feat\. Massimo Pericolo & Crookers\)](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 | 2022-04-15 | 2022-07-31 |
 | [Se Rinasco \(feat\. Massimo Pericolo & Crookers\)](https://open.spotify.com/track/7FjBYxeIKPSJ4urbawvnUO) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/1lqbweQ3w6orHhehLOlZim) | 3:05 | 2022-07-15 | 2022-11-25 |
 | [SECONDO MEDIOEVO](https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [Musica Cicatrene](https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d) | 3:26 | 2024-08-07 | 2024-10-18 |

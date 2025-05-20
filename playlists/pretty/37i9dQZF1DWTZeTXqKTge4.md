@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Aswell
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,443 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,446 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 |
 | 74 | [Good Intentions](https://open.spotify.com/track/3JlPF4v0bMkVxxKo0ebr9J) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu) | [Good Intentions](https://open.spotify.com/album/5gchAW3dOVohQVT3E2WHHj) | 3:24 |
 
-Snapshot ID: `aCa4XQAAAAAqBbslSdcvUc/7rDDLv0ps`
+Snapshot ID: `aCa4XQAAAAAxpeNwG/EcGOfuFFu+PGxs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,004 likes - 60 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,003 likes - 60 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 37 | [Pompoarismo](https://open.spotify.com/track/1X3YhGIttsGUi7coP0Led5) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd) | [4x4](https://open.spotify.com/album/4ZSKnDI8ZcTIpdfkbdPQrp) | 2:32 |
 | 38 | [Se Situa](https://open.spotify.com/track/7dQnTVYRiStmeCPJMi0C73) | [Juba Mary](https://open.spotify.com/artist/3GVeGzEj7i4BYcWZVCvud7), [MLZBeats](https://open.spotify.com/artist/2WjABpNPKL2jH9Wi4V6yjv), [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK) | [Se Situa](https://open.spotify.com/album/4y0JALryxPjMHIVidWqvG7) | 2:37 |
 | 39 | [Vem Jogar O Popo Pra Mim](https://open.spotify.com/track/4JnFYQqZaKw3wQikPQHmVJ) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:49 |
-| 40 | [i need u \(speed up\)](https://open.spotify.com/track/4UpZ4AhKVbVGjzwAeakpas) | [Satoki Rujiki](https://open.spotify.com/artist/7HIqNQI5PwCp1na5S8ogMU) | [i need u](https://open.spotify.com/album/0NvJTntFzJc3TiEZeKgPH6) | 3:03 |
+| 40 | [i need u \(speed up\)](https://open.spotify.com/track/4UpZ4AhKVbVGjzwAeakpas) | [Tundra](https://open.spotify.com/artist/3yp94c77snS18Wq51ys4tI) | [i need u](https://open.spotify.com/album/0NvJTntFzJc3TiEZeKgPH6) | 3:03 |
 | 41 | [Pool Party \- REMIX](https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Pool Party \(REMIX\)](https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX) | 1:53 |
 | 42 | [DUAS VERSÕES](https://open.spotify.com/track/1661UvXeRJJ5YBtERX83xz) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [FUTURO III](https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR) | 2:08 |
 | 43 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 59 | [Garotas Amam Anitta](https://open.spotify.com/track/4nofvvDazlnhf35cvPUBU2) | [Jovem Caio](https://open.spotify.com/artist/5uPdlHNs7tCxONifNy5AqV) | [Bem Vindo Ao Verão](https://open.spotify.com/album/6MbNnNEKfe1jjXde8YtKuk) | 2:01 |
 | 60 | [Gringo](https://open.spotify.com/track/7tGY7AG6nPFCeP2KAXZCen) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Gringo](https://open.spotify.com/album/3bFrxMbPC5kxbVWfYkqDzF) | 2:11 |
 
-Snapshot ID: `AAAAAKNFjoXORrM3WfNsZTZuvTZMHy7c`
+Snapshot ID: `aCdAlwAAAADmCoo3er0JXvncMKGGjL+0`

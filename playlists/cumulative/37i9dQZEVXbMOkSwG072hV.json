@@ -3232,7 +3232,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 269333,
       "name": "Ainda Bem",
       "url": "https://open.spotify.com/track/5wG7UpUik9lpxUWjQFadPo"
@@ -12128,7 +12128,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 189058,
       "name": "Cara Metade",
       "url": "https://open.spotify.com/track/6966EPedcDoFFwQdSqEgMt"
@@ -12362,7 +12362,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 144878,
       "name": "Cartier Santos Dumont",
       "url": "https://open.spotify.com/track/173oBdI5W1ucG1MUdAMsor"
@@ -16050,7 +16050,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 264836,
       "name": "Damocles",
       "url": "https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I"
@@ -56495,6 +56495,28 @@
     },
     {
       "album": {
+        "name": "Ritmada Acad\u00eamica",
+        "url": "https://open.spotify.com/album/7uFkbzy89sEwzhSPPE8QjK"
+      },
+      "artists": [
+        {
+          "name": "DJ JC DA ZN",
+          "url": "https://open.spotify.com/artist/4dcwyJ4JTjYOBIi4caYOXx"
+        },
+        {
+          "name": "Silva Mc",
+          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126984,
+      "name": "Ritmada Acad\u00eamica",
+      "url": "https://open.spotify.com/track/2LufWcAuuyLSTPHpLhJNGj"
+    },
+    {
+      "album": {
         "name": "Ritmada da Laura",
         "url": "https://open.spotify.com/album/37RCdDr57J1BYsYI9denZV"
       },
@@ -71058,6 +71080,24 @@
       "duration_ms": 106000,
       "name": "Virei cachorro da pior qualidade",
       "url": "https://open.spotify.com/track/6JjmigOspDeztQvonzllay"
+    },
+    {
+      "album": {
+        "name": "Viva a Bagaceira",
+        "url": "https://open.spotify.com/album/2n7aXGrMkYldvQ8V1FwJ23"
+      },
+      "artists": [
+        {
+          "name": "The Music Brazil",
+          "url": "https://open.spotify.com/artist/2LxdDAdayubPLJYVoBSypF"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Viva a Bagaceira",
+      "url": "https://open.spotify.com/track/0VflBLjHwMyow1AQ6Vitwd"
     },
     {
       "album": {

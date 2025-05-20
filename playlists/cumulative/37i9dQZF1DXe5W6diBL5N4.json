@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: MEOVV) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: i-dle(\uc544\uc774\ub4e4)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -15342,6 +15342,24 @@
       "duration_ms": 221360,
       "name": "aya",
       "url": "https://open.spotify.com/track/7dHmIDIWQ6HsKNa6iP5jGz"
+    },
+    {
+      "album": {
+        "name": "Azaleas",
+        "url": "https://open.spotify.com/album/2JAkCHflk8nudwOri0sd4f"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Azaleas",
+      "url": "https://open.spotify.com/track/6PMzXBoxCyQyaT6MuLKRRE"
     },
     {
       "album": {
@@ -32367,6 +32385,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/2LsXnuIdBYhnCpNHvr17nS"
+      },
+      "artists": [
+        {
+          "name": "Lazybone",
+          "url": "https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195619,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/672klv7eRCovOHGcKVQFOF"
+    },
+    {
+      "album": {
         "name": "CARNIVAL",
         "url": "https://open.spotify.com/album/1kEvaRXCMFPpiIEYM081ow"
       },
@@ -36504,6 +36540,24 @@
       "duration_ms": 129086,
       "name": "CLOUNGE",
       "url": "https://open.spotify.com/track/57yA8mMoq2kZvMtaCST2rP"
+    },
+    {
+      "album": {
+        "name": "Clown in the Moonlight",
+        "url": "https://open.spotify.com/album/7FPMv2ErQEf4jMKu0vc2EF"
+      },
+      "artists": [
+        {
+          "name": "Jeong YeeJu",
+          "url": "https://open.spotify.com/artist/5sQoQfDf6ZZG5dqO2VkfEZ"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232026,
+      "name": "Clown in the Moonlight",
+      "url": "https://open.spotify.com/track/4d9PLgIHg5tCbBnu7gxdR0"
     },
     {
       "album": {
@@ -41212,6 +41266,24 @@
       "duration_ms": 229213,
       "name": "D.I.M.E (Feat. JUSTHIS)",
       "url": "https://open.spotify.com/track/6UmSylnabtV1qfbSzdDGUh"
+    },
+    {
+      "album": {
+        "name": "D.I.M.M.",
+        "url": "https://open.spotify.com/album/2mBLPTqxWKJ5OmILqCPuwS"
+      },
+      "artists": [
+        {
+          "name": "VVS",
+          "url": "https://open.spotify.com/artist/48I72itlO50Fhw7BImZ1XJ"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228625,
+      "name": "D.I.M.M.",
+      "url": "https://open.spotify.com/track/1DEARfKkzuVeSIXlM03ztI"
     },
     {
       "album": {
@@ -54143,6 +54215,24 @@
     },
     {
       "album": {
+        "name": "Essence of Reverie",
+        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
+    },
+    {
+      "album": {
         "name": "AVATAR SINGER ROUND 1",
         "url": "https://open.spotify.com/album/3PruYEEBobgbO0fexgtAud"
       },
@@ -65093,6 +65183,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178175,
+      "name": "Fly Up",
+      "url": "https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ"
+    },
+    {
+      "album": {
         "name": "FLY UP",
         "url": "https://open.spotify.com/album/1kGftzMpiMu01Wzcs75Jb4"
       },
@@ -73321,6 +73429,24 @@
     },
     {
       "album": {
+        "name": "We are",
+        "url": "https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154386,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS"
+    },
+    {
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/41HhVPm3m3XBWFBqcMa9fG"
       },
@@ -78692,8 +78818,8 @@
       },
       "artists": [
         {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/0WS71thAQlbavNqttXMcJ3"
+          "name": "LIZ (IVE)",
+          "url": "https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1"
         }
       ],
       "date_added": "2025-05-19",
@@ -92830,6 +92956,24 @@
       "duration_ms": 184487,
       "name": "I'll say I love you today",
       "url": "https://open.spotify.com/track/4X7oe8vMTVdfxOIPrcOdEF"
+    },
+    {
+      "album": {
+        "name": "I'll Stay Here",
+        "url": "https://open.spotify.com/album/5ZoXLGrVYPGbgZjoBrkbHf"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "I'll Stay Here",
+      "url": "https://open.spotify.com/track/71FAh2fA1QZQ9ClULhdzCR"
     },
     {
       "album": {
@@ -134779,6 +134923,24 @@
     },
     {
       "album": {
+        "name": "needalove",
+        "url": "https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198224,
+      "name": "needalove",
+      "url": "https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy"
+    },
+    {
+      "album": {
         "name": "[F.T.W.N]",
         "url": "https://open.spotify.com/album/7eYy4v7dAL5dWGAmlYpycU"
       },
@@ -157849,6 +158011,24 @@
     },
     {
       "album": {
+        "name": "Animation \u2018Red Fox\u2019 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1nJsCpyjioz6Jb3z9aT10M"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "Red Fox",
+      "url": "https://open.spotify.com/track/5Qp6CGwMYHrYLF52z2jogK"
+    },
+    {
+      "album": {
         "name": "Red Light",
         "url": "https://open.spotify.com/album/5KbKo9LYkBCi8Auxuh0SQe"
       },
@@ -161046,6 +161226,24 @@
       "duration_ms": 213814,
       "name": "Rock Star",
       "url": "https://open.spotify.com/track/77fwmS4Zy1VDR0aqFeMui7"
+    },
+    {
+      "album": {
+        "name": "Beauty in Chaos",
+        "url": "https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a"
+      },
+      "artists": [
+        {
+          "name": "Kim Jae Joong",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "ROCK STAR",
+      "url": "https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos"
     },
     {
       "album": {
@@ -218489,6 +218687,24 @@
     },
     {
       "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re"
+      },
+      "artists": [
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168012,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0xRttor4u8kuCuXxSilrWe"
+    },
+    {
+      "album": {
         "name": "Windy",
         "url": "https://open.spotify.com/album/4Kz6jdO3mHtVTIIe7jxgDE"
       },
@@ -229155,6 +229371,24 @@
     },
     {
       "album": {
+        "name": "\uafc8\uae38",
+        "url": "https://open.spotify.com/album/33Cvmpam0dfE7H63pKQEwH"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ub2e4\ud604",
+          "url": "https://open.spotify.com/artist/24njEFfaltznA5t73zV891"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "\uafc8\uae38",
+      "url": "https://open.spotify.com/track/0Boh4NtkNIX7HRnbVbkI76"
+    },
+    {
+      "album": {
         "name": "\uafc8\uc18d\uc758 \uc0c8 tear drops",
         "url": "https://open.spotify.com/album/2lKOZPn5Q5thDhsImrJJFz"
       },
@@ -233349,6 +233583,24 @@
     },
     {
       "album": {
+        "name": "\ud558\ud2b8 \ube0c\ub808\uc774\ucee4 \ub85c\ud38c (Original Webtoon Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/7tvD4HGb4ICJALzegMsBUp"
+      },
+      "artists": [
+        {
+          "name": "Ahn Yeseul",
+          "url": "https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216568,
+      "name": "\uc0ac\ub791\uc774\uc57c \ud589\ubcf5\ud574",
+      "url": "https://open.spotify.com/track/74ZzKcA5fPJo8y75LAjvwT"
+    },
+    {
+      "album": {
         "name": "PETER PANDA (Original Webtoon Soundtrack) Pt.5",
         "url": "https://open.spotify.com/album/70IKwOIoIauNtfMRTSlKUr"
       },
@@ -236470,6 +236722,28 @@
       "duration_ms": 234816,
       "name": "\uc774\ubcc4\uc5d0 \uc544\ud30c\ud558\ub294 \uadf8\ub7f0 \ub0a0",
       "url": "https://open.spotify.com/track/4oCpXP4ha5q7qz2T26B0ii"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubcc4\uc744 \ud588\ub2e4\uace0 \uc2e4\uac10\ud55c \uc21c\uac04",
+        "url": "https://open.spotify.com/album/52JJ5lUxDTeOmPYYlm9zJO"
+      },
+      "artists": [
+        {
+          "name": "Jung Chang Yong",
+          "url": "https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx"
+        },
+        {
+          "name": "Paul Lim",
+          "url": "https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239296,
+      "name": "\uc774\ubcc4\uc744 \ud588\ub2e4\uace0 \uc2e4\uac10\ud55c \uc21c\uac04 (feat. \ud3f4\ub9bc)",
+      "url": "https://open.spotify.com/track/302byEIO7Zgx0HXXkxhVNp"
     },
     {
       "album": {

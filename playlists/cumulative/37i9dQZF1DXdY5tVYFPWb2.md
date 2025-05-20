@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-898 songs - 2 day 11 hr 12 min
+899 songs - 2 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [GINGILA](https://open.spotify.com/track/4XJYGDYtk5S1NrtTiLFvam) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [GINGILA](https://open.spotify.com/album/6n7np1WaRKGTc3P5GcKnry) | 4:52 | 2024-08-14 | 2024-09-05 |
 | [GLASS NO PALM TREE \- 2020 Remix](https://open.spotify.com/track/77tmXKuiCWoACwbyyJd4Ry) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [FIRST FINALE REMIX](https://open.spotify.com/album/5hzaK16MfTovy9Xxvuqnla) | 4:33 | 2023-09-26 | 2023-11-18 |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-06 |  |
+| [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 | 2025-05-13 |  |
 | [Good Luck,Good Time](https://open.spotify.com/track/21fjaRKHWjM103DohcT0W3) | [Takuya Kimura](https://open.spotify.com/artist/7jZnmNs4rkoMqljfgaXxF9) | [Next Destination](https://open.spotify.com/album/4iczsnS9GVykkEwh5LpufO) | 4:27 | 2023-07-04 | 2023-08-02 |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 | 2023-10-11 |
 | [GOOD TIME](https://open.spotify.com/track/0oj0YxfvAPazQGptSG5QNv) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [GOOD TIME](https://open.spotify.com/album/4hieMgBu3TfoOwRc1G84EI) | 3:42 | 2022-07-12 | 2022-07-27 |
@@ -325,7 +326,7 @@
 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 | 2023-02-08 |
 | [Moonlight Cruising \(feat\. KIRINJI\)](https://open.spotify.com/track/0nNm926REE3qYr5DJ6vZV4) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [Moonlight Cruising \(feat\. KIRINJI\)](https://open.spotify.com/album/2uecghGOcoxkqCySA4kPH8) | 3:18 | 2025-04-15 |  |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-08-02 | 2023-04-04 |
-| [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 |  |
+| [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 | 2025-05-20 |
 | [muse](https://open.spotify.com/track/6XWpWjw67Zi5edXcbUnqQV) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [muse](https://open.spotify.com/album/2TyNsyTZjsX4Zv0VurnFvk) | 4:00 | 2023-03-21 | 2023-03-29 |
 | [Music, Dance & Love](https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 4:33 | 2022-11-15 | 2022-11-23 |
 | [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 | 2022-11-03 |

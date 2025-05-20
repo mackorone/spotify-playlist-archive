@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335621,
+      "name": "Rendido Estou (Arms Open Wide)",
+      "url": "https://open.spotify.com/track/15BIjaacvCfjggc0PKu07B"
+    },
+    {
+      "album": {
         "name": "Rendido Estou (Arms Open Wide)",
         "url": "https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG"
       },
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"

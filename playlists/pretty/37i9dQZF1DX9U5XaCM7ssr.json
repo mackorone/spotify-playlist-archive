@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1180478,
+  "num_followers": 1180602,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArifgAAAAC0hiGwygNly1ELUs7sGukR",
+  "snapshot_id": "aCtR1gAAAAB8dPmQSoJjQu89rkWDLaiO",
   "tracks": [
     {
       "added_at": "2025-04-25 01:16:46",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
     },
     {
-      "added_at": "2025-04-25 01:16:46",
+      "added_at": "2025-05-19 15:37:13",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+        "name": "Tanpa Cinta",
+        "url": "https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz"
       },
       "artists": [
         {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 200476,
-      "name": "Satu Bulan",
-      "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
+      "duration_ms": 255327,
+      "name": "Tanpa Cinta",
+      "url": "https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG"
     },
     {
       "added_at": "2025-04-25 01:16:46",
@@ -57,7 +61,7 @@
       "url": "https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb"
     },
     {
-      "added_at": "2025-04-25 01:16:46",
+      "added_at": "2025-05-19 15:41:40",
       "album": {
         "name": "Melangkah",
         "url": "https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov"
@@ -66,31 +70,27 @@
         {
           "name": "Lyodra",
           "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
         }
       ],
-      "duration_ms": 213549,
-      "name": "Jangan Pernah Kembali",
-      "url": "https://open.spotify.com/track/4liHGe5HApRR21pCMkImM2"
+      "duration_ms": 267826,
+      "name": "Sampaikan Rindu",
+      "url": "https://open.spotify.com/track/2bRNul3hyw1PSb7HoYLVPY"
     },
     {
       "added_at": "2025-04-25 01:16:46",
       "album": {
-        "name": "Usai",
-        "url": "https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8"
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Usai",
-      "url": "https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll"
+      "duration_ms": 200476,
+      "name": "Satu Bulan",
+      "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
     },
     {
       "added_at": "2025-04-25 01:16:46",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
     },
     {
+      "added_at": "2025-05-19 15:37:13",
+      "album": {
+        "name": "Mati Satu Tak Tumbuh Lagi",
+        "url": "https://open.spotify.com/album/3c1TKSbv7UARypYZsORhuD"
+      },
+      "artists": [
+        {
+          "name": "Barsena Bestandhi",
+          "url": "https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i"
+        }
+      ],
+      "duration_ms": 279329,
+      "name": "Mati Satu Tak Tumbuh Lagi",
+      "url": "https://open.spotify.com/track/0y3PdaJSMjd5cgA3BVfLut"
+    },
+    {
       "added_at": "2025-04-25 01:16:46",
       "album": {
         "name": "Mencintaimu (From: 2nd Miracle in Cell No.7)",
@@ -195,22 +211,6 @@
     {
       "added_at": "2025-04-25 01:16:46",
       "album": {
-        "name": "Ombak Melankolia",
-        "url": "https://open.spotify.com/album/3tUlp1dHxXKiMLGd06rle0"
-      },
-      "artists": [
-        {
-          "name": "Marcello Tahitoe",
-          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
-        }
-      ],
-      "duration_ms": 395572,
-      "name": "Terlupakan",
-      "url": "https://open.spotify.com/track/2gpeYCyGm0UzxdjFYSQlhg"
-    },
-    {
-      "added_at": "2025-04-25 01:16:46",
-      "album": {
         "name": "Still The One",
         "url": "https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN"
       },
@@ -225,24 +225,20 @@
       "url": "https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV"
     },
     {
-      "added_at": "2025-04-25 01:16:46",
+      "added_at": "2025-05-19 15:37:13",
       "album": {
-        "name": "Sebelum Merayakan",
-        "url": "https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si"
+        "name": "Menunggu Cinta",
+        "url": "https://open.spotify.com/album/4ecnKnN2cmEjuFaRrJKEx0"
       },
       "artists": [
         {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
-        },
-        {
-          "name": "Elsa Japasal",
-          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
+          "name": "Aqeela Calista",
+          "url": "https://open.spotify.com/artist/5viTsV4BwI62jNF7ERhK4r"
         }
       ],
-      "duration_ms": 218214,
-      "name": "Menunggu Giliran",
-      "url": "https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq"
+      "duration_ms": 209776,
+      "name": "Menunggu Cinta",
+      "url": "https://open.spotify.com/track/0ZSt7rN9ILFOL23axrgfAJ"
     },
     {
       "added_at": "2025-04-25 01:16:46",
@@ -309,32 +305,20 @@
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
-      "added_at": "2025-04-25 01:16:46",
+      "added_at": "2025-05-19 15:44:22",
       "album": {
-        "name": "Apa Artinya Aku",
-        "url": "https://open.spotify.com/album/58887aaSwwaOePaJQr6NHP"
+        "name": "Waktu Dan Perhatian",
+        "url": "https://open.spotify.com/album/4sUNf3OPxdj6EJAbGVtG0p"
       },
       "artists": [
         {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        },
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Ziva Magnolya",
-          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+          "name": "Rimar",
+          "url": "https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Apa Artinya Aku",
-      "url": "https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg"
+      "duration_ms": 293500,
+      "name": "Waktu Dan Perhatian",
+      "url": "https://open.spotify.com/track/0Bsl6c8yEqyiAsmXB8p0H6"
     },
     {
       "added_at": "2025-04-25 01:16:46",
@@ -667,18 +651,18 @@
     {
       "added_at": "2025-04-25 01:16:46",
       "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+        "name": "Usai",
+        "url": "https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8"
       },
       "artists": [
         {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 242640,
-      "name": "Aku Yang Tersakiti",
-      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+      "duration_ms": 217200,
+      "name": "Usai",
+      "url": "https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll"
     },
     {
       "added_at": "2025-04-25 01:16:46",
@@ -695,6 +679,22 @@
       "duration_ms": 268946,
       "name": "Ku Dengannya Kau Dengan Dia",
       "url": "https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U"
+    },
+    {
+      "added_at": "2025-04-25 01:16:46",
+      "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Aku Yang Tersakiti",
+      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "added_at": "2025-04-25 01:16:46",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-04-25 01:16:46",
       "album": {
-        "name": "Saat Kau Telah Mengerti",
-        "url": "https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 290751,
-      "name": "Saat Kau Telah Mengerti",
-      "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
-    },
-    {
-      "added_at": "2025-04-25 01:16:46",
-      "album": {
         "name": "Tutur Batin",
         "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 215591,
       "name": "Tutur Batin",
       "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
+    },
+    {
+      "added_at": "2025-04-25 01:16:46",
+      "album": {
+        "name": "Saat Kau Telah Mengerti",
+        "url": "https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 290751,
+      "name": "Saat Kau Telah Mengerti",
+      "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
     },
     {
       "added_at": "2025-04-25 01:16:46",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-04-25 01:16:46",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 408288,
-      "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
-      "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
-    },
-    {
-      "added_at": "2025-04-25 01:16:46",
-      "album": {
         "name": "Sialnya, Hidup Harus Tetap Berjalan",
         "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2025-04-25 01:16:46",
       "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 408288,
+      "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
+      "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
+    },
+    {
+      "added_at": "2025-04-25 01:16:46",
+      "album": {
         "name": "NaFF",
         "url": "https://open.spotify.com/album/1L71H6xIQtJTpL0rf3W4wN"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 309360,
       "name": "Terendap Laraku",
       "url": "https://open.spotify.com/track/75oKENo18qceQGUKA7fZGc"
-    },
-    {
-      "added_at": "2025-04-25 01:16:46",
-      "album": {
-        "name": "Jiwa Yang Bersedih",
-        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 278219,
-      "name": "Jiwa Yang Bersedih",
-      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     }
   ],
   "unique_name": "Generasi Galau",

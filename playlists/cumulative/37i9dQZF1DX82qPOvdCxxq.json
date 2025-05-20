@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Sarah Juers | Artwork: Dana Shine",
+  "description": "Celebrating 10 years of the best new music by independent artists! Cover: LOVKN | Artwork: Dana Shine",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 189913,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0J9zGbLSeAZGT4tSLQR0A6"
@@ -454,6 +454,50 @@
       "duration_ms": 123036,
       "name": "Aloha Goodbye",
       "url": "https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z"
+    },
+    {
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/06SKCWr66xMMVLApkl4w5a"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206727,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/4tTHSkuwvOuTsdRQeQ92bn"
+    },
+    {
+      "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/6hh0icjQ17hVcPqqRXH6hD"
+      },
+      "artists": [
+        {
+          "name": "C4 Crotona",
+          "url": "https://open.spotify.com/artist/1WlJORCWCG2F0TBI4sReri"
+        },
+        {
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+        },
+        {
+          "name": "Reece Lache\u2019",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151059,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/0lNQ252bzMhPYqbgk7PVp5"
     },
     {
       "album": {
@@ -1020,7 +1064,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 174720,
       "name": "Better",
       "url": "https://open.spotify.com/track/3pcDkBjxmptIfrGqYzL5CB"
@@ -1519,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Cascade View",
+        "url": "https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165382,
+      "name": "Cascade View",
+      "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
+    },
+    {
+      "album": {
         "name": "catch my breath",
         "url": "https://open.spotify.com/album/5MeBqq87lVOHbbWvx45dTM"
       },
@@ -1711,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Cold Case",
+        "url": "https://open.spotify.com/album/2VRAxAsoDKs9ukW0OrFp2O"
+      },
+      "artists": [
+        {
+          "name": "IVG MUSIC",
+          "url": "https://open.spotify.com/artist/7FJYZvGsgrLtcXVxj8lXjc"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/4aV92cIDfxNE7fH9ZYlWyy"
+    },
+    {
+      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/6V9BKbaGCtz7zyhxNJ1c3u"
       },
@@ -1726,6 +1806,42 @@
       "duration_ms": 380316,
       "name": "Collide",
       "url": "https://open.spotify.com/track/6teXAe3jjyrye9rcpKgvSp"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy"
+      },
+      "artists": [
+        {
+          "name": "Haynza",
+          "url": "https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159804,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4"
+    },
+    {
+      "album": {
+        "name": "COMFORTER",
+        "url": "https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "COMFORTER",
+      "url": "https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F"
     },
     {
       "album": {
@@ -1929,6 +2045,28 @@
     },
     {
       "album": {
+        "name": "DANCING SHOES",
+        "url": "https://open.spotify.com/album/6EQVCLJXuuo1pwYUFV4xWA"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "DANCING SHOES",
+      "url": "https://open.spotify.com/track/7g5ke136OU63HesVoxDIkM"
+    },
+    {
+      "album": {
         "name": "Beautiful Songs About Difficult Things",
         "url": "https://open.spotify.com/album/6TvUBFhAcDH1u8L6dV8web"
       },
@@ -2034,6 +2172,28 @@
       "duration_ms": 173253,
       "name": "Died For You",
       "url": "https://open.spotify.com/track/0d7KJz83m6DcuymWGgfxtm"
+    },
+    {
+      "album": {
+        "name": "DIME T\u00da",
+        "url": "https://open.spotify.com/album/6akmdpjZUnNgrJVymUeTCJ"
+      },
+      "artists": [
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
+        },
+        {
+          "name": "Ellis Henry",
+          "url": "https://open.spotify.com/artist/289M0ZLgdClwb6gOpfj9K1"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "DIME T\u00da",
+      "url": "https://open.spotify.com/track/5aLORzg3abwlYhmvWZpfJ1"
     },
     {
       "album": {
@@ -3072,7 +3232,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 147988,
       "name": "FUNNY",
       "url": "https://open.spotify.com/track/5dUEw9YLflCgGZ7Nqaq36F"
@@ -3583,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Hallow Eyes",
+        "url": "https://open.spotify.com/album/5LSWsHuk8QaXykpgPVYmqa"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Hallow Eyes",
+      "url": "https://open.spotify.com/track/3Xn0g503GnpyGYYJhfAho5"
+    },
+    {
+      "album": {
         "name": "HANDSOME",
         "url": "https://open.spotify.com/album/5RjvQ5jnWPU6vfKlmOOV18"
       },
@@ -3594,7 +3772,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 136235,
       "name": "HANDSOME",
       "url": "https://open.spotify.com/track/2ejBR6LD44tmz0QUCgsug3"
@@ -3656,6 +3834,24 @@
       "duration_ms": 337078,
       "name": "He's Good",
       "url": "https://open.spotify.com/track/4hF3On53aWSczZG4hwV3Yu"
+    },
+    {
+      "album": {
+        "name": "Heal Sofie",
+        "url": "https://open.spotify.com/album/0Vsro0WynKaCp5rXvwCYpc"
+      },
+      "artists": [
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130282,
+      "name": "Heal Sofie",
+      "url": "https://open.spotify.com/track/3qcc6rVvMDfumoQPVpeyS9"
     },
     {
       "album": {
@@ -4014,7 +4210,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 152328,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1jawzxPaw3zvbVIMY7q5zN"
@@ -4116,7 +4312,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 150521,
       "name": "HOLY GHOST",
       "url": "https://open.spotify.com/track/66VssiAfLQjB7HEZG2Zhaj"
@@ -4304,7 +4500,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 316146,
       "name": "hurricanes and harbor lights",
       "url": "https://open.spotify.com/track/19UnaG8f0mSNPzRyIokgFd"
@@ -4518,7 +4714,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 201857,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/2nU2moLrkMrkWZeKazp1Zy"
@@ -4875,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Isaiah",
+        "url": "https://open.spotify.com/album/4Ess1eEsUbNE2kfigFod4q"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "Isaiah",
+      "url": "https://open.spotify.com/track/6iSnzwuE1yjEbrb4Eg8Z1K"
+    },
+    {
+      "album": {
         "name": "It Is Done",
         "url": "https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q"
       },
@@ -5168,7 +5382,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 167449,
       "name": "Just Hold On",
       "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
@@ -5392,7 +5606,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 209456,
       "name": "Life After Death",
       "url": "https://open.spotify.com/track/6VPHgruRgdMhy7aHKG2yqT"
@@ -5566,6 +5780,24 @@
       "duration_ms": 202784,
       "name": "Little Too Late",
       "url": "https://open.spotify.com/track/5jaPOOhbMhnT9KeGFGC4Nr"
+    },
+    {
+      "album": {
+        "name": "Living A Lie",
+        "url": "https://open.spotify.com/album/3evZXh7wgiDKqPVWkc0i6Z"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Living A Lie",
+      "url": "https://open.spotify.com/track/1fxFu9KMbb30G5Csk01BJj"
     },
     {
       "album": {
@@ -5854,7 +6086,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 482000,
       "name": "MAN OF SORROWS",
       "url": "https://open.spotify.com/track/0hDU1vEhq1UgyHTwsDH8zd"
@@ -6835,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "One Thing (Prelude)",
+        "url": "https://open.spotify.com/album/1yoaZaQOv9X92fUVquRVO8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310150,
+      "name": "One Thing (Prelude)",
+      "url": "https://open.spotify.com/track/6PJXF8vseXwF7vSfJUXeIq"
+    },
+    {
+      "album": {
         "name": "FLOURiSH",
         "url": "https://open.spotify.com/album/4yP1HKs0aymj4qP4CVhbHW"
       },
@@ -7144,6 +7394,24 @@
       "duration_ms": 146086,
       "name": "praise I",
       "url": "https://open.spotify.com/track/5XlB5ww0OHT5Ct2sNDsG9j"
+    },
+    {
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6XKnHLSnKFxgTT5Pmrl0kh"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203978,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1Y8gh35V82l4IaZkJ1P3f5"
     },
     {
       "album": {
@@ -8325,6 +8593,24 @@
     },
     {
       "album": {
+        "name": "SOMETIME",
+        "url": "https://open.spotify.com/album/3EVfzhpYLVPbqhvbN7R4E0"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178252,
+      "name": "SOMETIME",
+      "url": "https://open.spotify.com/track/2dpyYp2a4HJj5UhdzS14dB"
+    },
+    {
+      "album": {
         "name": "Song In The Room",
         "url": "https://open.spotify.com/album/46rXmAu0vGY3QyoxmqTIMx"
       },
@@ -8970,7 +9256,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 169090,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/3k2B3s2bW0GT1Hw6Vao3th"
@@ -9195,6 +9481,24 @@
     },
     {
       "album": {
+        "name": "Time of Day",
+        "url": "https://open.spotify.com/album/2RcNFyV7kqGYemlix9KllY"
+      },
+      "artists": [
+        {
+          "name": "Nick Corbett",
+          "url": "https://open.spotify.com/artist/3o2JUrVqorcQoqv905b4Im"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114125,
+      "name": "Time of Day",
+      "url": "https://open.spotify.com/track/1pAMsoomEFmCZuU3j6q61F"
+    },
+    {
+      "album": {
         "name": "To Be Praised",
         "url": "https://open.spotify.com/album/1kDBvA26XeOWoJe9qTKqHz"
       },
@@ -9357,6 +9661,24 @@
     },
     {
       "album": {
+        "name": "TU SILENCIO",
+        "url": "https://open.spotify.com/album/04miqK0q5TlloHo6jWw3E1"
+      },
+      "artists": [
+        {
+          "name": "Obyone",
+          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "TU SILENCIO",
+      "url": "https://open.spotify.com/track/6Q27DOgK1wAQXJsIrw8S5I"
+    },
+    {
+      "album": {
         "name": "Don y Tarea",
         "url": "https://open.spotify.com/album/5DxYervhhIqAlGD0inVbbi"
       },
@@ -9480,6 +9802,24 @@
       "duration_ms": 235897,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/5b0TJbToMUrAkuy8XCMwin"
+    },
+    {
+      "album": {
+        "name": "VEGAS",
+        "url": "https://open.spotify.com/album/3WB7YTMJOYnop4wXww48Yi"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128494,
+      "name": "VEGAS",
+      "url": "https://open.spotify.com/track/3Y7vNBNQuMV2fkX7LHguW7"
     },
     {
       "album": {
@@ -10282,7 +10622,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 169787,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/3wvWdSDQSNlyof2evfER3t"

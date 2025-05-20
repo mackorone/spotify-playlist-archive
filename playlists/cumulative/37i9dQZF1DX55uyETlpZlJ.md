@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-504 songs - 1 day 4 hr 11 min
+505 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Anthe](https://open.spotify.com/track/1JFrwtDTpvyDPxd16Aka5e) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/2awtb7BzShaE9da7sMqPjr) | 4:34 | 2023-08-16 | 2024-02-17 |
 | [Anthe](https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn) | 4:34 | 2023-08-16 | 2024-01-06 |
 | [Anu Anuvaagi](https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/5C10KZmpA0P1MR1eiGxSgc) | 3:02 | 2023-06-16 | 2023-07-25 |
+| [Anu Anuvaagi](https://open.spotify.com/track/1m9TOMR1oF6bF46p0Z8XgD) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/6yzd9SBgrbdniHZcrHwSAk) | 3:04 | 2025-05-19 |  |
 | [Arere](https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/2NAKOi8TeqzEJZDcwdaP61) | 3:58 | 2023-10-06 | 2024-01-07 |
 | [Arere](https://open.spotify.com/track/5e7ESBZeOLQCbqtvWaS7Y2) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/6s8OIlhZixQ2D9IsZUBrRm) | 3:58 | 2023-10-06 | 2024-02-17 |
 | [Ariyade Maadida Thappu](https://open.spotify.com/track/3MvcoixOyjIyPyRZDrfMEU) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Ariyade Maadida Thappu](https://open.spotify.com/album/0wGaiqGfcqO0CMR1tLMGNR) | 4:14 | 2025-02-11 |  |

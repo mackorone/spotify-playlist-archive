@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 153975,
       "name": "Held in Light",
       "url": "https://open.spotify.com/track/3OYAsyTRj1WTiqbGlaEUCf"
@@ -11885,6 +11885,24 @@
     },
     {
       "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/54OZnDVk4YawbMjQ2PrHsT"
+      },
+      "artists": [
+        {
+          "name": "Sam Blom",
+          "url": "https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154605,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/4uLqEM1L4VhcTAnpKpkd3H"
+    },
+    {
+      "album": {
         "name": "Steps ahead",
         "url": "https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0"
       },
@@ -13102,7 +13120,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 159374,
       "name": "Topics",
       "url": "https://open.spotify.com/track/2PU57NQKyVL3rj7aukAF4x"

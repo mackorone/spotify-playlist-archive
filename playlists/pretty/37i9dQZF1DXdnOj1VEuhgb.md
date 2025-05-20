@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Organize x ERAY067 x Mansur
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,561 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,602 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
 | 49 | [Kanıtlandık](https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kanıtlandık](https://open.spotify.com/album/17lncZtNv43ABznkL46Eia) | 2:36 |
 
-Snapshot ID: `aCZV2gAAAAD8ZHvK/HeesVVtgJ9bGB1l`
+Snapshot ID: `aCr3+wAAAABlvamsjO1zzoHMGDp5VVLY`

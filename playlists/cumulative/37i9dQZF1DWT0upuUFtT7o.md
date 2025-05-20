@@ -2,7 +2,7 @@
 
 ### [ Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks from independent artists & labels\. Cover: Camille Keller
+> Celebrating 10 years of the best new indie music from independent artists\. Cover: Camille Keller
 
 3,231 songs - 7 day 10 hr 40 min
 
@@ -65,7 +65,7 @@
 | [a million messages](https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF) | [Nashon](https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi) | [a million messages](https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8) | 3:27 | 2023-03-15 | 2023-04-13 |
 | [A Portrait of Sylvie Vartan](https://open.spotify.com/track/5XYhmtCzx9CWwSYGTLaToY) | [The Natvral](https://open.spotify.com/artist/778uB313OhX0eUP382KULu) | [A Portrait of Sylvie Vartan](https://open.spotify.com/album/74DtztKaYlAI20AKsCWkjN) | 3:19 | 2022-03-16 | 2022-04-13 |
 | [A Stitch In Time](https://open.spotify.com/track/3B66jk36KF24lpTAVukU9T) | [Midi Memory](https://open.spotify.com/artist/67c577KTE235yIneE18N6o) | [Far Gone and Out](https://open.spotify.com/album/5Gn8kDRcKggF0eVLhbkGA1) | 3:01 | 2024-01-17 | 2024-02-29 |
-| [A\-Lister](https://open.spotify.com/track/7GRPnTVWiFqlC3EAvFiKvY) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [A\-Lister](https://open.spotify.com/album/6tprOLk7H0tCHRZEj2nKFR) | 3:25 | 2025-05-13 |  |
+| [A\-Lister](https://open.spotify.com/track/7GRPnTVWiFqlC3EAvFiKvY) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [A\-Lister](https://open.spotify.com/album/6tprOLk7H0tCHRZEj2nKFR) | 3:25 | 2025-05-13 | 2025-05-20 |
 | [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 | 2023-03-29 | 2023-05-11 |
 | [Abyss](https://open.spotify.com/track/07BCkoZW66cM9nQhOsKPSr) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Abyss](https://open.spotify.com/album/4WC7YAk1hPsSL4hEeNz18l) | 2:26 | 2021-09-22 | 2022-01-13 |
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-12-01 | 2022-01-13 |

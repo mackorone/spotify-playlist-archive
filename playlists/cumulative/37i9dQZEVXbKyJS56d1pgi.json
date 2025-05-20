@@ -4680,7 +4680,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
@@ -8014,7 +8014,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 222612,
       "name": "Dia de Jogo",
       "url": "https://open.spotify.com/track/75fMooJ7uRJAvRT5vBzxoU"
@@ -17670,7 +17670,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 211860,
       "name": "Luxemburgo",
       "url": "https://open.spotify.com/track/1yjYtmNf1DpfQMjBpVy5rg"
@@ -18930,7 +18930,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 159999,
       "name": "Meu Carro nao tem Porta Luva - Remastered 2024",
       "url": "https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc"
@@ -19962,7 +19962,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -20564,7 +20564,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 251906,
       "name": "M\u00e1gico Sporting",
       "url": "https://open.spotify.com/track/6mWdXKsie9xAEsNv5NAsay"
@@ -21436,7 +21436,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 144457,
       "name": "N\u00c3O ERA LOVE",
       "url": "https://open.spotify.com/track/6lrQgEPTuOKyvn4bQJuaRU"
@@ -32750,7 +32750,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 219760,
       "name": "Vou continuar",
       "url": "https://open.spotify.com/track/7I83T3YEHN1IbToCu3btAQ"
@@ -32944,6 +32944,24 @@
       "duration_ms": 188833,
       "name": "Wandered To LA (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh"
+    },
+    {
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164998,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
     },
     {
       "album": {
@@ -33416,7 +33434,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

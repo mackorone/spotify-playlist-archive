@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 254869,
+  "num_followers": 254885,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfRgAAAAACT5pdfMWKK2T0BHYB7Yua9",
+  "snapshot_id": "aCkjAAAAAADMS8gX4FLnSu/AmFYYJV4c",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura",
-        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "I Gotsta Get Paid",
-      "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 173266,
       "name": "Waitin' for the Bus (2006 Remaster)",
       "url": "https://open.spotify.com/track/2zNkzCAijAuCYWzxKJeYO2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Futura",
+        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "I Gotsta Get Paid",
+      "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chrome Smoke & BBQ: The ZZ Top Box",
-        "url": "https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9"
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 283533,
-      "name": "Viva Las Vegas - 2003 Remaster",
-      "url": "https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL"
+      "duration_ms": 261453,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+        "name": "Chrome Smoke & BBQ: The ZZ Top Box",
+        "url": "https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 261453,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
+      "duration_ms": 283533,
+      "name": "Viva Las Vegas - 2003 Remaster",
+      "url": "https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Chartreuse",
-      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tejas",
         "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 212026,
       "name": "Stages",
       "url": "https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Futura (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Chartreuse",
+      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
     },
     {
       "added_at": null,

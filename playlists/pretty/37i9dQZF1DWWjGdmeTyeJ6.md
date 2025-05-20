@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 ### [Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6)
 
-> The best new music by independent artists and labels\. Cover artist: Emma\-Jean Thackray
+> Celebrating 10 years of the best new music by independent artists and labels\. Cover: Emma\-Jean Thackray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,775 likes - 243 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,771 likes - 243 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 242 | [Fall For Anything](https://open.spotify.com/track/0WZcigQlh9IxY6iMowOng2) | [Meyru](https://open.spotify.com/artist/4keWylzqUIJiaFfq6Ox0nB) | [Fall For Anything](https://open.spotify.com/album/2liS6TadQQ0x3OTgIqmrIA) | 3:51 |
 | 243 | [East Side Screamer](https://open.spotify.com/track/0WkFeasMq9WN2VBTUj1TkZ) | [Graham Hunt](https://open.spotify.com/artist/3cdxdVJIA1FE4oMT85haWb) | [East Side Screamer](https://open.spotify.com/album/0eWFJztglbFer39fs5XbrB) | 2:18 |
 
-Snapshot ID: `aCYWxQAAAACItPXbm2f5o5F53OaTKEVv`
+Snapshot ID: `aCtuTQAAAACrox2yKVfMZTuomwhOSiTl`

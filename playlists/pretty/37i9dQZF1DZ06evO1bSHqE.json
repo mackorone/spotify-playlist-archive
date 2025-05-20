@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 904156,
+  "num_followers": 904336,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfRgAAAAACOsJXiofhfEye0ucE+hcJr",
+  "snapshot_id": "aCkjAAAAAACrdi6D4MSwvu879a1/agb3",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: My Prerogative",
-        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "My Prerogative",
-      "url": "https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Britney (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 186533,
       "name": "I Love Rock 'N' Roll",
       "url": "https://open.spotify.com/track/29viePXNqWUw1cxqzOcuOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits: My Prerogative",
+        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "My Prerogative",
+      "url": "https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR"
     },
     {
       "added_at": null,

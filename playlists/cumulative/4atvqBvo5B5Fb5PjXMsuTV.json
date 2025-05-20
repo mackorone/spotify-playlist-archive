@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 May 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 May 13:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -20809,6 +20809,24 @@
     },
     {
       "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/2pLF47SOE8fRwUy31Wesl6"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219561,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/6cLd2xZirorZbZY5500XDA"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -28774,7 +28792,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 188967,
       "name": "Forever (71943509)",
       "url": "https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz"
@@ -58238,7 +58256,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 166306,
       "name": "Orphans",
       "url": "https://open.spotify.com/track/5JkBPvybcxRB9F6Y1OWYxY"
@@ -70956,7 +70974,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 101408,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/4oSo1Wtu73wqf8YxerTiV4"
@@ -76498,6 +76516,24 @@
       "duration_ms": 131311,
       "name": "Teen Heartbreak",
       "url": "https://open.spotify.com/track/5Qo3V9WDGb8eqCZtCgvJMw"
+    },
+    {
+      "album": {
+        "name": "Teenage dreamer",
+        "url": "https://open.spotify.com/album/1rYjMsboL3IQLEOfJrr55w"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143874,
+      "name": "Teenage dreamer",
+      "url": "https://open.spotify.com/track/2NMAQs3JdA5wAlS9zc3Vu0"
     },
     {
       "album": {

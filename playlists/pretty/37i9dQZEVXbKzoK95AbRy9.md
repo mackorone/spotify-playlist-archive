@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,078 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,115 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS) | [Vitor Santana](https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ) | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w) | 4:49 |
 | 50 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 
-Snapshot ID: `L71PeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L76g+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

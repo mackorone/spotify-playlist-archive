@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tyler Braden
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,302 likes - 215 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,342 likes - 215 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

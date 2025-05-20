@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa\_9WSXQAGcMj9SpxUMJQ">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,611 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,611 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 6 | [Gooi Dit Af](https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Gooi Dit Af](https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc) | 2:57 |
 | 7 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
 | 8 | [Tolgevang](https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Tolgevang](https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc) | 2:40 |
-| 9 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 |
+| 9 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
 | 10 | [Die Hele Nag](https://open.spotify.com/track/32mG7p0lEzV1Uqk8HvHBKY) | [DxD](https://open.spotify.com/artist/7Leion5vRfpcrWvaksfIW5), [CampusMr007](https://open.spotify.com/artist/1gQAWDtAOTxgw8DqGTqF29), [Galx\-M](https://open.spotify.com/artist/3oCnyaGXgbCHSTqaKtJ0F1) | [Die Hele Nag](https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6) | 3:29 |
 | 11 | [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \(Remix\)](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 |
-| 12 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
+| 12 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 |
 | 13 | [Tittewyt](https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Tittewyt](https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx) | 3:38 |
 | 14 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
 | 15 | [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 47 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
 | 48 | [Praat meer bollie](https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4) | [Brasse Vannie Kaap](https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un), [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF) | [Praat meer bollie](https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN) | 4:09 |
 | 49 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
-| 50 | [SYS N BADDIE](https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba) | [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [SYS N BADDIE](https://open.spotify.com/album/7AimRndL52aehc62FKMAft) | 2:07 |
+| 50 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 |
 
 Snapshot ID: `aBR+vQAAAACyu3jd6jPRPR633al3Mqjd`

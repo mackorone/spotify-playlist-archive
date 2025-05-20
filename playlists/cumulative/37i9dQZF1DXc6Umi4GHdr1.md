@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-428 songs - 19 hr 0 min
+430 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Misspent Life](https://open.spotify.com/track/3ktxKAEJ3WvNezNl00O041) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Misspent Life](https://open.spotify.com/album/4dFszxldPJd0l36xuAXPu2) | 2:48 | 2022-12-09 | 2024-07-18 |
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
 | [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 | 2023-11-24 | 2024-11-07 |
+| [Momentum](https://open.spotify.com/track/6pJEW3nfVUJYxbRNuh4C7J) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Momentum](https://open.spotify.com/album/6xFXFv4lZwa3xhhhm57qVb) | 2:30 | 2025-05-19 |  |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Moondust](https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Moondust](https://open.spotify.com/album/1qZvjFoXmGVvCTWNd9YPef) | 2:09 | 2022-12-09 | 2024-06-07 |
 | [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
@@ -435,6 +436,7 @@
 | [You](https://open.spotify.com/track/3zEaOi0tey7BFPnr2lPtzL) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI) | [Snow](https://open.spotify.com/album/47LYgd993iWAisa3vGEPMu) | 1:13 | 2022-09-09 | 2023-08-26 |
 | [You And I](https://open.spotify.com/track/5O4RUMAcxxW5wp2xSZgJGA) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [You And I](https://open.spotify.com/album/52j0T9y4wXx64YmnUCMGSK) | 2:33 | 2024-05-10 |  |
 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-26 | 2023-06-16 |
+| [Your own smile](https://open.spotify.com/track/5pPmqjnWRVcV24EGIUaovd) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Your own smile](https://open.spotify.com/album/6A8DW7V7cmKYWTUo9nUmSM) | 2:34 | 2025-05-19 |  |
 | [Zakinthos](https://open.spotify.com/track/4rSB71Pvov9PAzvPu3MdtI) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Zakinthos](https://open.spotify.com/album/4Kd4BkMXME0FB5GsPHKAko) | 2:41 | 2024-01-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

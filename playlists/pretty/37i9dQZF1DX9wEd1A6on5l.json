@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 90554,
+  "num_followers": 90626,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-05-16 04:27:03",
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 152544,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
+    },
+    {
+      "added_at": "2025-05-16 04:27:03",
+      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 157756,
       "name": "JUJU (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
-    },
-    {
-      "added_at": "2025-05-16 04:27:03",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 152544,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
       "added_at": "2025-05-16 04:27:03",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-05-16 04:27:03",
       "album": {
-        "name": "Jujupiano La Presido",
-        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Richiemusic",
-          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
-        }
-      ],
-      "duration_ms": 129231,
-      "name": "Jujupiano",
-      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
-    },
-    {
-      "added_at": "2025-05-16 04:27:03",
-      "album": {
         "name": "Gimme Your Love",
         "url": "https://open.spotify.com/album/5HyN0UpkYplYLLbcu5n3S2"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 172035,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
+    },
+    {
+      "added_at": "2025-05-16 04:27:03",
+      "album": {
+        "name": "Jujupiano La Presido",
+        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Richiemusic",
+          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
+        }
+      ],
+      "duration_ms": 129231,
+      "name": "Jujupiano",
+      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
     },
     {
       "added_at": "2025-05-16 04:27:03",

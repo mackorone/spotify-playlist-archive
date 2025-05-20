@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,800 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,815 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [iPhone 12](https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Trap de Quebra](https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0) | 2:47 |
 | 50 | [DEPOIS DO BAILE](https://open.spotify.com/track/2j15gcfNgGBgfvjQXCTqhg) | [FyeBwoii](https://open.spotify.com/artist/1TqnOc6Peow4jowVNp4DZm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:00 |
 
-Snapshot ID: `aCfRgAAAAACrt9XAmFK+5HaIh8WWNsIp`
+Snapshot ID: `aCkjAAAAAABnnAwX22udgeuNH2zkYQa1`

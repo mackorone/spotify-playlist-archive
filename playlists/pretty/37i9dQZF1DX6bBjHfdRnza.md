@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Kotiēr\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,051 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,092 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Pesadão](https://open.spotify.com/track/5e43krT4xSgcaFvnxNC00J) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4), [Shuga](https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE) | [Pesadão](https://open.spotify.com/album/54aqaVNIfHMguULs5Cdt4i) | 3:16 |
 | 100 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
 
-Snapshot ID: `aCTLCAAAAACdJfBf2PljjPyRAvhgagNj`
+Snapshot ID: `aCtZyQAAAADQFHEEUtw2dSjKeWzd05Zf`

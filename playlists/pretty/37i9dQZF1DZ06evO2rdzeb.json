@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 15265,
+  "num_followers": 15293,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfRgAAAAAC4q9rU9pQwtglYYhLrcG3w",
+  "snapshot_id": "aCkjAAAAAAAF+eWvOmQgJbp3Xy4kvFHN",
   "tracks": [
     {
       "added_at": null,
@@ -331,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "happiness (live)",
-        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 208180,
-      "name": "happiness - live",
-      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
+      "duration_ms": 188666,
+      "name": "A Better Time to Meet",
+      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
     },
     {
       "added_at": null,
@@ -363,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "happiness (live)",
+        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 188666,
-      "name": "A Better Time to Meet",
-      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
+      "duration_ms": 208180,
+      "name": "happiness - live",
+      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
     },
     {
       "added_at": null,

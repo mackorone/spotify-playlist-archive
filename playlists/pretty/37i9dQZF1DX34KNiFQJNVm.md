@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem DENNIS com Luísa Sonza e Kenia Os, Mc IG, J\. Eskine e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083,000 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083,044 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 75 | [Ritmada da Billie Eilish](https://open.spotify.com/track/0fNX1aGyHoLpcIt4OojLA9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Rose da Treta](https://open.spotify.com/artist/4RNE8Ro4jtQIn1wb3apo4L), [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Ritmada da Billie Eilish](https://open.spotify.com/album/5P5juOy7bsICfh3D3dpJXs) | 2:51 |
 | 76 | [Surtação](https://open.spotify.com/track/0ZW2p35WjzN8OQf2QnaySu) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Sartori](https://open.spotify.com/artist/6s5hbTMBdS8VIeff523SOk), [DJ M1beats](https://open.spotify.com/artist/1wBku3wDujjbt9dLvJXTHt) | [Surtação](https://open.spotify.com/album/61ksu6sHiMm8EZRYP2HgPb) | 2:52 |
 | 77 | [BROTEI NO BAILE](https://open.spotify.com/track/4f9fz6bgbrdtsl2CHy9Nrh) | [DJ AZIN](https://open.spotify.com/artist/1rw1jDrOlds1ktwgsYTgJN), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Lucy](https://open.spotify.com/artist/5PqgbobzXPA5PZUkuhVrDN) | [NÃO É REMIX](https://open.spotify.com/album/6EbtDsZsk9ZXs3ejPdhyzL) | 2:01 |
-| 78 | [Mussarela](https://open.spotify.com/track/0FtAI4jpQ0jkooYrUbpkvV) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [Mussarela](https://open.spotify.com/album/7kT1flqf5FRpmqS4rZN3WQ) | 2:36 |
+| 78 | [Mussarela](https://open.spotify.com/track/0FtAI4jpQ0jkooYrUbpkvV) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [KOSTA](https://open.spotify.com/artist/3wyruz219YVh90qRnzFBTY) | [Mussarela](https://open.spotify.com/album/7kT1flqf5FRpmqS4rZN3WQ) | 2:36 |
 | 79 | [Bala](https://open.spotify.com/track/6cuVMT669LLP4AfocnkZMQ) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Bala](https://open.spotify.com/album/22iyjQK3XfR0zudflmq6XO) | 3:15 |
 | 80 | [Surf](https://open.spotify.com/track/1bKAAk7flDIrFcCZyhw8qO) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Surf](https://open.spotify.com/album/1pH6OY9IYNusyWnrVFer7z) | 2:49 |
 | 81 | [O GRITO NEGRO](https://open.spotify.com/track/5bZjsB628Xbizvz8BMgMvG) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Iky Castilho](https://open.spotify.com/artist/0tPhrxjPlrVSzdn8zdRJYV) | [NUVENS & OVELHAS NEGRAS](https://open.spotify.com/album/2SRkd0YSAkRTpTtxOAHryX) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 | 100 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 
-Snapshot ID: `aCiiNQAAAACDF98k6vl2Yj6mvemHID4b`
+Snapshot ID: `AAAAABIL8rZoltv7x91E0Q59WF4LSlOJ`

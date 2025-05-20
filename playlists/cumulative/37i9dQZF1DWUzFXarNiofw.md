@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: GIVĒON
 
-3,881 songs - 8 day 11 hr 16 min
+3,882 songs - 8 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,6 +779,7 @@
 | [Darkside](https://open.spotify.com/track/4uxiBHb7nMuGMm0sKo1ImT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds And Pearls \(Super Deluxe Edition\)](https://open.spotify.com/album/7yS8FoMCF2XSiJK2DWYYci) | 5:33 | 2023-10-20 | 2023-11-04 |
 | [day 1](https://open.spotify.com/track/5gDbLqOku5V86tfcqi60nc) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Sacred Timeline](https://open.spotify.com/album/5gNTY7xT6ALMhzEUChjZMi) | 4:00 | 2023-04-14 | 2023-06-03 |
 | [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 | 2023-11-04 |
+| [Day One](https://open.spotify.com/track/4lmKJY3DL551jHx4vYh8VO) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Day One](https://open.spotify.com/album/3sxbmfvOkXIEyl4cmd39Ox) | 2:50 | 2025-05-19 |  |
 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 | 2022-07-29 | 2022-09-24 |
 | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG) | 2:47 | 2024-09-13 | 2024-10-26 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-19 | 2023-06-24 |

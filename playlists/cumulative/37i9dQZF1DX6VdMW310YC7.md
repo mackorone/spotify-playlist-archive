@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,766 songs - 5 day 0 hr 25 min
+1,767 songs - 5 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Divinity \- filous Remix](https://open.spotify.com/track/5EEb0Vm8xUKjpwH2jlftOl) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Divinity \(filous Remix\)](https://open.spotify.com/album/14i5IIywwM8fMuuI87M4Ap) | 4:07 | 2020-05-18 | 2020-07-03 |
 | [DJs Gotta Dance More](https://open.spotify.com/track/30HLXV5dIVOlrp2ncsUyjn) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [DJs Gotta Dance More](https://open.spotify.com/album/4IhHOv33cZ5J14gdrGbSoF) | 4:12 | 2020-05-18 | 2021-01-11 |
 | [Do I Go](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Do I Go](https://open.spotify.com/album/4SJrqffwVOdXAhuzl1subk) | 3:34 | 2023-10-20 | 2023-12-10 |
+| [Do It All Again](https://open.spotify.com/track/3th9QWkO5Rn0HbD0v4E8mT) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [hey](https://open.spotify.com/album/3HLrOVIjvjuFcaUikX5jWH) | 3:18 | 2025-05-16 |  |
 | [Do It Like You](https://open.spotify.com/track/5h1Gi50T9QxVfzvIF8vciC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Do It Like You](https://open.spotify.com/album/4PKH86wn7Gw4iel2WD564k) | 3:10 | 2020-05-18 | 2020-07-18 |
 | [Do You Feel The Same? \- OCULA Remix](https://open.spotify.com/track/588upfdUtSJ3Mvsqvyqzhs) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Do You Feel The Same? \(OCULA Remix\)](https://open.spotify.com/album/6wdkY0pX5shDrKlGRZX1Gw) | 3:52 | 2023-02-17 | 2023-02-19 |
 | [Do You Feel The Same? \- OCULA Remix](https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Do You Feel The Same? \(OCULA Remix\)](https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L) | 3:52 | 2023-03-03 | 2024-03-23 |
@@ -1560,7 +1561,7 @@
 | [The Rest of My Days](https://open.spotify.com/track/4ABiRDaBGg0hHeAWeAEcNq) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [The Rest of My Days](https://open.spotify.com/album/3mW3G4u6bGp4TMRLzhHjFW) | 3:13 | 2020-07-18 | 2020-10-09 |
 | [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-12-16 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
-| [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 |  |
+| [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 | 2025-05-20 |
 | [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 |  |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |

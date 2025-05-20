@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-829 songs - 1 day 12 hr 2 min
+830 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2025-03-19 |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2022-04-05 | 2023-03-10 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-08 | 2024-06-15 |
-| [Held in Light](https://open.spotify.com/track/3OYAsyTRj1WTiqbGlaEUCf) | [Elias Valley](https://open.spotify.com/artist/4TbkywGYWEQjRwVYsgUDMV) | [Held in Light](https://open.spotify.com/album/6uA6wyX1M4DGD9DIn9acVK) | 2:33 | 2025-03-05 |  |
+| [Held in Light](https://open.spotify.com/track/3OYAsyTRj1WTiqbGlaEUCf) | [Elias Valley](https://open.spotify.com/artist/4TbkywGYWEQjRwVYsgUDMV) | [Held in Light](https://open.spotify.com/album/6uA6wyX1M4DGD9DIn9acVK) | 2:33 | 2025-03-05 | 2025-05-20 |
 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2022-04-22 | 2023-03-10 |
 | [Heritage](https://open.spotify.com/track/0E4hN2dSQj8WtGSKPmg7VC) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Heritage](https://open.spotify.com/album/6WsamjZL8938pfC4VsIIjH) | 2:20 | 2022-10-28 | 2024-04-05 |
@@ -666,6 +666,7 @@
 | [Squares](https://open.spotify.com/track/2S7tKTNzlT6uNDOMQwXTTb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Squares](https://open.spotify.com/album/7CdcOB80Mr91dRp6tsv9B4) | 3:06 | 2024-12-10 |  |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2023-05-13 |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2021-12-08 | 2022-04-06 |
+| [Staying In](https://open.spotify.com/track/4uLqEM1L4VhcTAnpKpkd3H) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Staying In](https://open.spotify.com/album/54OZnDVk4YawbMjQ2PrHsT) | 2:34 | 2025-05-19 |  |
 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
 | [Stilla](https://open.spotify.com/track/2yPOn4HIWksnWp6g6yOTDj) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Stilla](https://open.spotify.com/album/5aF8QIEgX26Lky64XDJAcS) | 2:23 | 2022-07-01 | 2022-07-29 |
 | [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 | 2025-01-07 |  |
@@ -733,7 +734,7 @@
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 | 2024-05-24 |
 | [Together Again](https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Together Again](https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc) | 2:31 | 2024-06-28 | 2024-09-26 |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-23 | 2023-03-10 |
-| [Topics](https://open.spotify.com/track/2PU57NQKyVL3rj7aukAF4x) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Topics](https://open.spotify.com/album/4Zli7lW3EBBe6FiSfddjHD) | 2:39 | 2025-05-13 |  |
+| [Topics](https://open.spotify.com/track/2PU57NQKyVL3rj7aukAF4x) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Topics](https://open.spotify.com/album/4Zli7lW3EBBe6FiSfddjHD) | 2:39 | 2025-05-13 | 2025-05-20 |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 | 2024-04-19 |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Tranquil Meadows](https://open.spotify.com/track/7dTpIquru8lsVAWllrWcDx) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Tranquil Meadows](https://open.spotify.com/album/4qPQaIIy186DJ1Z0mz84nY) | 2:08 | 2024-01-12 |  |

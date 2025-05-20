@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Cycle of life",
+        "url": "https://open.spotify.com/album/3I1YuLm2qyawlvZU435v9u"
+      },
+      "artists": [
+        {
+          "name": "Surishtha Sehgal",
+          "url": "https://open.spotify.com/artist/4LQFQVbXDEpZ8DAmvLnc4F"
+        },
+        {
+          "name": "Kabir Sehgal",
+          "url": "https://open.spotify.com/artist/5774Y2zUQIEwj306T1nc27"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Cycle of life",
+      "url": "https://open.spotify.com/track/27wTCpHSqaCYk5GNfgfcMe"
+    },
+    {
+      "album": {
         "name": "De-stress For Deep Rest Guided Sleep Meditation",
         "url": "https://open.spotify.com/album/2TUj24FZPbXNOlf8AeVuND"
       },

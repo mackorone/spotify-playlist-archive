@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,098 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,100 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 57 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
 | 58 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 |
 | 59 | [You Can't See for Lookin' \- Live](https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 5:48 |
-| 60 | [You're On My Mind \- Anniversary – Live](https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Anniversary – The Live Album](https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t) | 4:14 |
-| 61 | [I Heard It Through the Grapevine \- Live](https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live in Montreux 1980](https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D) | 6:08 |
+| 60 | [I Heard It Through the Grapevine \- Live](https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live in Montreux 1980](https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D) | 6:08 |
+| 61 | [You're On My Mind \- Anniversary – Live](https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Anniversary – The Live Album](https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t) | 4:14 |
 | 62 | [Don't Play That Song \- Live at Fillmore West, San Francisco, February 5, 1971](https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Live at Fillmore West](https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc) | 3:17 |
 | 63 | [Fallin' \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/5vURZwuyDYghDT37phhUME) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 5:45 |
 | 64 | [Hey Laura \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 3:40 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 94 | [Chain of Fools \- Live at the Olympia Theatre, Paris, May 7, 1968](https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha In Paris \(Live\)](https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz) | 2:52 |
 | 95 | [Love & Happiness \- Live](https://open.spotify.com/track/0MBkQKu5au3kGJ5LykLWok) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 6:16 |
 | 96 | [Look Up To The Sky \- Live](https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Live In NYC](https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU) | 4:03 |
-| 97 | [Hold On, I'm Comin' \- Live in London](https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Stax/Volt Revue: Live In London, Vol\. 1](https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66) | 3:55 |
-| 98 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 |
+| 97 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 |
+| 98 | [Hold On, I'm Comin' \- Live in London](https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Stax/Volt Revue: Live In London, Vol\. 1](https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66) | 3:55 |
 | 99 | [Strange Fruit](https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Compact Jazz \- Nina Simone](https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o) | 3:33 |
 | 100 | [Dr\. Feelgood \(Love Is Serious Business\) \- Live at the Olympia Theatre, Paris, May 7, 1968](https://open.spotify.com/track/1wNTVn4fnAd5Iyt1eT2Wy8) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha In Paris \(Live\)](https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz) | 4:12 |
 

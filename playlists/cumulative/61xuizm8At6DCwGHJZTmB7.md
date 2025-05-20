@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-613 songs - 2 day 11 hr 37 min
+614 songs - 2 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Freedom In This House](https://open.spotify.com/track/2BV5pEtMBcXOO3aYWsa7Cw) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Freedom In This House](https://open.spotify.com/album/6DNczZAAopHOhAmRToH1yI) | 3:40 | 2024-10-18 |  |
 | [Fresh Fire \- Live](https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Pneuma \(Live\)](https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k) | 5:55 | 2023-12-01 | 2024-04-19 |
 | [Fresh Wind \- Studio](https://open.spotify.com/track/5bCBMKuaHNpRCuPPVKtzlk) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [David Ware](https://open.spotify.com/artist/0hta3inDwefmP7JjYEY33c) | [Fresh Wind \(Studio\)](https://open.spotify.com/album/03UDrSsFdOPtQsmvyfjaDW) | 4:33 | 2022-02-17 | 2022-07-14 |
+| [Full Surrender](https://open.spotify.com/track/6SQpB4z4lHDP3a1TayluWC) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Full Surrender](https://open.spotify.com/album/6zUCruEK6fqLN15zMKHWwN) | 5:31 | 2025-05-19 |  |
 | [Gethsemane \- Live](https://open.spotify.com/track/73D27LOrdLgupsaVo8V8Um) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc), [Zach Johnson](https://open.spotify.com/artist/4pTMvrRvcRMeh3zMiqE39l) | [Long Live The King \(Deluxe / Live\)](https://open.spotify.com/album/3zDHOKRTTQA6mxBlj2vHpV) | 5:30 | 2023-12-01 | 2024-04-19 |
 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 | 2022-02-17 | 2022-03-16 |
 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 | 2022-10-31 | 2023-12-14 |

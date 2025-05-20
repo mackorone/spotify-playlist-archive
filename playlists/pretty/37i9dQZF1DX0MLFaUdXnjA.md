@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842,206 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,199 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 16 | [love like this \- A COLORS SHOW](https://open.spotify.com/track/2yHTPXP7bVF03FMkrHPQfa) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [love like this \- A COLORS SHOW](https://open.spotify.com/album/2dpFgKfSkdchrSTGSsbjHb) | 4:32 |
 | 17 | [Castle](https://open.spotify.com/track/4B6irprsslV13IM1nr0QoR) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Castle](https://open.spotify.com/album/4Xlh9COlVebZI24fodiVSq) | 3:11 |
 | 18 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 |
-| 19 | [i’ll have a good life darling, but it won’t be with you.](https://open.spotify.com/track/1OUr12AxnPCO9dMDrPUzSk) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [if i could stop the time, \(may 2024\-may 2025\)](https://open.spotify.com/album/24GiMxV1o2xyt5MXPrqjsh) | 3:46 |
+| 19 | [i’ll have a good life darling, but it won’t be with you.](https://open.spotify.com/track/1OUr12AxnPCO9dMDrPUzSk) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [if i could just stop the time, \(may 2024\-may 2025\)](https://open.spotify.com/album/24GiMxV1o2xyt5MXPrqjsh) | 3:46 |
 | 20 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 |
 | 21 | [Dance with Somebody](https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Western Pleasure](https://open.spotify.com/album/0OpIBOinRqswFLHCaWoO8C) | 3:32 |
 | 22 | [ring my bell](https://open.spotify.com/track/5pX5ZWRsPdzJPL22dajuIP) | [country girl](https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [ring my bell](https://open.spotify.com/album/1io4H0laNnkC6jEsTdQdh4) | 2:16 |

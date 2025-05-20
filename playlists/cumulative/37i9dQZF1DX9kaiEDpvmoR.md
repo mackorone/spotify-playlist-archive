@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-363 songs - 20 hr 51 min
+364 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-08-16 |
 | [Möt mig i Gamla Stan \(Swing Version\)](https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Se mig bara för den jag är](https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh) | 3:06 | 2024-06-27 | 2024-08-23 |
-| [Nattvarden](https://open.spotify.com/track/1IjMd90FeQohKCBHQw51DE) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Nattvarden](https://open.spotify.com/album/2AwHOKdct7NhCOyvVLeczR) | 4:32 | 2025-05-15 |  |
+| [Nattvarden](https://open.spotify.com/track/1IjMd90FeQohKCBHQw51DE) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Nattvarden](https://open.spotify.com/album/2AwHOKdct7NhCOyvVLeczR) | 4:32 | 2025-05-15 | 2025-05-20 |
 | [Need You](https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Need You](https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0) | 3:14 | 2024-06-27 | 2024-08-30 |
 | [No More Blues](https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 5:46 | 2024-10-10 | 2025-04-25 |
 | [No More You](https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [No More You](https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq) | 2:56 | 2024-10-10 | 2025-04-25 |
@@ -277,6 +277,7 @@
 | [Silverregn](https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Silverregn / Återvänd till mig](https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95) | 5:54 | 2025-01-23 |  |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 |  |
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 | 2025-05-16 |
+| [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt) | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe) | 4:31 | 2025-05-19 |  |
 | [Sol, vind och vatten](https://open.spotify.com/track/0Dl6aAece1roeWExwDV6Xs) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1) | [Sol, vind och vatten](https://open.spotify.com/album/2tKNEji5t3NPjriC1WXijr) | 3:16 | 2024-06-27 | 2024-08-09 |
 | [Sol, vind och vatten](https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Sol, vind och vatten](https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg) | 3:38 | 2024-06-27 | 2024-08-30 |
 | [Solen går aldrig ner](https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Solen går aldrig ner](https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT) | 2:40 | 2024-06-27 | 2024-08-16 |

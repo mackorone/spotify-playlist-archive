@@ -4,7 +4,7 @@
 
 > 
 
-862 songs - 2 day 19 hr 49 min
+863 songs - 2 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 | 2020-07-23 |  |
 | [Acqua Minerale](https://open.spotify.com/track/4HDQijE0ZTtAM2kud3RUqM) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Fa Niente](https://open.spotify.com/album/45o0JtSekR90PAsU1X6cuS) | 3:48 | 2018-07-27 |  |
 | [Adome Nyueto](https://open.spotify.com/track/4JxUuQvXNpSWOZloyLpqVU) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/5geXl28rgMnrOjqvEgBBdi) | 5:26 | 2023-01-09 |  |
-| [Adome Nyueto](https://open.spotify.com/track/56q0Qovx0AZjocKjyNnKDm) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/3zUEkykK3sqOpdOPohc05W) | 5:26 | 2025-02-13 |  |
+| [Adome Nyueto](https://open.spotify.com/track/56q0Qovx0AZjocKjyNnKDm) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/3zUEkykK3sqOpdOPohc05W) | 5:26 | 2025-02-13 | 2025-05-20 |
 | [Adome Nyueto \- Bosq Edit](https://open.spotify.com/track/3FLHEkgWc8p8L2nLCHyOwR) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Togo Soul 70](https://open.spotify.com/album/0xDHxhQYu9suFRiToCMDPk) | 8:12 | 2025-02-13 |  |
 | [Africa \(My No\. 1\)](https://open.spotify.com/track/4o3nPaw09L3mdIQIRRZi1q) | [General Ehi Duncan](https://open.spotify.com/artist/7AcVYXKD86pBTIEEEGpTge), [The Africa Army Express](https://open.spotify.com/artist/4I8C9PXQQUAgDtBvGAwfJs) | [Africa \(My No\. 1\)](https://open.spotify.com/album/6XqRp5lQzxHTkJnCyPQGWO) | 5:29 | 2023-01-23 |  |
 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 | 2020-07-13 |  |
@@ -208,6 +208,7 @@
 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 | 2021-01-16 |  |
 | [Disco Hai Disco](https://open.spotify.com/track/6kKOHE4ME847ZU5ISUbkDU) | [Vinod Pandit](https://open.spotify.com/artist/33HIufJRd1nsY47zXtEhRx) | [Jhoomo Re Jhoomo](https://open.spotify.com/album/2k3qpxiRCNY7jyYSTIu5WF) | 4:24 | 2020-12-09 |  |
 | [Disco Hi \- Life](https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx) | 9:00 | 2020-07-28 |  |
+| [Djapana \(Sunset Dreaming\) \- Radio Mix](https://open.spotify.com/track/1YttlfnjcVeG8SN7leXjbm) | [Yothu Yindi](https://open.spotify.com/artist/5sHPYevv4ykaH79HIHqBDP) | [Tribal Voice](https://open.spotify.com/album/24taI9xwSptP27Nm9RJRvD) | 3:58 | 2025-05-19 |  |
 | [Djougou Toro](https://open.spotify.com/track/4pd0I5UlznqLhEKYDbpqPi) | [Volta Jazz](https://open.spotify.com/artist/7tr837m0bWZnXajwk9XqJI) | [Air Volta](https://open.spotify.com/album/1EvHC1dyyR441gd6dv2AK5) | 5:30 | 2023-10-18 |  |
 | [Do Bay Lan Main](https://open.spotify.com/track/6TL6uoZ5Dywzqrcq6Vh9fB) | [Patrick Saint\-Eloi](https://open.spotify.com/artist/4oxkuGlVLX6wq2RBTEdcSs) | [Misik Ce Lanmou](https://open.spotify.com/album/59N1cW1k1paZAvw9EpTTQo) | 3:43 | 2020-09-23 |  |
 | [Dom Dom Kurşunu](https://open.spotify.com/track/6SP1lQvoVxsd7YzBsQYRvh) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Kar Yağar](https://open.spotify.com/album/2cDJJQS2Mir5qRKVLooIdc) | 4:53 | 2023-03-21 |  |

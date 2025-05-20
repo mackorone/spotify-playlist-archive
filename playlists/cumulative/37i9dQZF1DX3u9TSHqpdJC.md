@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music from new, independent artists\.  Cover: Kaleb Cohen\. Artwork by Paola Saliby
+> Celebrating 10 years of the best new pop music from new, independent artists\.  Cover: Kaleb Cohen\. Artwork by Paola Saliby
 
 3,999 songs - 8 day 11 hr 35 min
 

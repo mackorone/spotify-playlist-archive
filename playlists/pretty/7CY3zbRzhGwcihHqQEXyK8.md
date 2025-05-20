@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 641 songs - 1 day 8 hr 53 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 644 songs - 1 day 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -649,5 +649,8 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 639 | [Owo You're So Warm](https://open.spotify.com/track/5LJtWXdSKpvSqC7rpMzlbc) | [Senzawa](https://open.spotify.com/artist/2iXAFUDVjc12Gea585uitg) | [Owo You're So Warm](https://open.spotify.com/album/0KGGQYurZVGFGiIthqpC2e) | 1:03 |
 | 640 | [Girl A](https://open.spotify.com/track/7urddi7J2M0GwbYK5kH2T9) | [Will Stetson](https://open.spotify.com/artist/4DzC4sTTWf2juzeeMiFB8O) | [Girl A](https://open.spotify.com/album/0jzWW6gvFbX4biBrOqgrBw) | 4:02 |
 | 641 | [Grump It](https://open.spotify.com/track/4Dll52TVxAXPcoS0s82Flv) | [Xzevious](https://open.spotify.com/artist/5wv4kmwCWPMh6HAGb4LvA5) | [Grump It](https://open.spotify.com/album/4AKpf8IN3nLMiTOJxGcn9R) | 4:00 |
+| 642 | [Back Stabber \(E\)](https://open.spotify.com/track/1mu8sDJ19HKGg9Q4GyXdiZ) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [Back Stabber \(E\)](https://open.spotify.com/album/379H4BbNEdUtK3GrPlY3EV) | 2:33 |
+| 643 | [Discord Mod](https://open.spotify.com/track/4qhzjEgV9tziHne1hhvOwf) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [Discord Mod](https://open.spotify.com/album/3DvpeRumDhhttjRSlGaf57) | 2:49 |
+| 644 | [ALIEN](https://open.spotify.com/track/2EEp44O4xezj1BmrMGRPvh) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [ALIEN](https://open.spotify.com/album/6gGBBnCivtdZAKcWVzPgTk) | 3:08 |
 
-Snapshot ID: `AAABl7e+X0HFEwZkxlZXixRlEj8336Tk`
+Snapshot ID: `AAABmsfekjluHQSo7vrbYwI0v4OeydRF`

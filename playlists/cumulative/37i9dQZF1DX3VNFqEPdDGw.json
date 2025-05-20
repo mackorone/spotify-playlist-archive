@@ -485,6 +485,32 @@
     },
     {
       "album": {
+        "name": "Back To 80's",
+        "url": "https://open.spotify.com/album/2pSkh2kf4st7lrDguYmEWn"
+      },
+      "artists": [
+        {
+          "name": "Amantej Hundal",
+          "url": "https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        },
+        {
+          "name": "Gill Saab Music",
+          "url": "https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Back To 80's",
+      "url": "https://open.spotify.com/track/3ecRlherNaepMXp6gQSKYG"
+    },
+    {
+      "album": {
         "name": "Baddlan De Kaalje (From \"Chal Mera Putt\" Soundtrack)",
         "url": "https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO"
       },
@@ -5338,7 +5364,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 200000,
       "name": "Tag Karke",
       "url": "https://open.spotify.com/track/3Bldx8QLX1D6xMwCXuQyDw"

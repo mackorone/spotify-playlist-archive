@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 235355,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj"
@@ -3526,6 +3526,32 @@
       "duration_ms": 163500,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe"
+    },
+    {
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/3YvUQyqpSdmi8YME9BLRaU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Levit",
+          "url": "https://open.spotify.com/artist/6BCP0ZHBzZDyhgjg6Lmj2e"
+        },
+        {
+          "name": "UnderWater Project",
+          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
+        },
+        {
+          "name": "L!LY",
+          "url": "https://open.spotify.com/artist/78dzc9jtm3rsK2ID1burVY"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/17Yg8QW4SDwjvmHikrrOre"
     },
     {
       "album": {

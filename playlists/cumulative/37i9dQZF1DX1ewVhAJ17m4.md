@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Avril Lavigne & Simple Plan
 
-494 songs - 1 day 0 hr 41 min
+495 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Denent](https://open.spotify.com/track/3Vt3KkESJwfVyIJmB5Gcx0) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Denent](https://open.spotify.com/album/0rIM5fJXyZXGL27qoaqeuu) | 3:08 | 2022-08-25 | 2022-10-07 |
 | [Dial Tone](https://open.spotify.com/track/5C915u7Dqs82VDnWrqr9cS) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Dial Tone](https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH) | 2:39 | 2025-02-21 |  |
 | [Dial Tones X \(feat\. Holding Absence\)](https://open.spotify.com/track/7HlHHdXN8RJMdAA2Ujbwju) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Lucas Woodland](https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t) | [Dial Tones X \(feat\. Holding Absence\)](https://open.spotify.com/album/1phetcHx7smJTwJsuN8hqN) | 3:17 | 2025-02-21 | 2025-04-23 |
-| [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 | 2025-02-21 |  |
+| [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 | 2025-02-21 | 2025-05-20 |
 | [Did It Again](https://open.spotify.com/track/4FXIE9hlvdvOkL2ftXG3d9) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Did It Again](https://open.spotify.com/album/4ht8qqsxp0kyPjKFT1ycdo) | 3:57 | 2022-07-04 | 2022-08-19 |
 | [Don't Be Racist](https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Don't Be Racist](https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj) | 3:13 | 2022-07-18 | 2022-08-19 |
 | [Don't Cut Your Hair](https://open.spotify.com/track/4afcRSxkvKPlZDoBRwTuv7) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Don't Cut Your Hair](https://open.spotify.com/album/4AesOaNA7EgCBV8pIbBa01) | 2:21 | 2023-03-10 | 2024-01-12 |
@@ -271,6 +271,7 @@
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-14 |  |
 | [Light Switch](https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Light Switch](https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35) | 3:08 | 2022-07-04 | 2023-07-07 |
 | [Like I'm Okay](https://open.spotify.com/track/4z7m5fHKANtRtr8CGnckLd) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Like I'm Okay](https://open.spotify.com/album/1wYkIgcLpMG9DggdMQw62n) | 2:49 | 2022-09-29 | 2022-11-13 |
+| [Lost in the Moment](https://open.spotify.com/track/3luVbWbFdZ0MCddvdRtU1I) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Been Here Before \(Side A\)](https://open.spotify.com/album/63rdxeNhfAmNo0w35rppQt) | 2:49 | 2025-05-15 |  |
 | [love bombs](https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [love bombs](https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2) | 3:25 | 2024-11-18 | 2025-02-15 |
 | [Love Bumps \(feat\. Pouya\)](https://open.spotify.com/track/3n0JNGdzWj8fPlSV19mFN1) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [Love Bumps \(feat\. Pouya\)](https://open.spotify.com/album/10MpTsKSnmXOtQhRRGEyTN) | 2:47 | 2023-08-10 | 2024-02-18 |
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 | 2022-03-01 |

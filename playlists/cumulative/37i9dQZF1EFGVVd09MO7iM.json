@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/6xN7mbvwOgZgQfKbjYjQnF"
+      },
+      "artists": [
+        {
+          "name": "OR3O",
+          "url": "https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242774,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/3wHBCK8Ogp82xWYWbVg7Ri"
+    },
+    {
+      "album": {
         "name": "All Eyes on Me",
         "url": "https://open.spotify.com/album/0tAKfVFOX2SzLTlTsegGZm"
       },

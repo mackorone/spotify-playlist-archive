@@ -1661,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Forget Tonight (ft. Tyler Hubbard)",
+        "url": "https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "Forget Tonight (ft. Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF"
+    },
+    {
+      "album": {
         "name": "Friday Night",
         "url": "https://open.spotify.com/album/3nDSqKrO5YcHjZzT2q7HO5"
       },

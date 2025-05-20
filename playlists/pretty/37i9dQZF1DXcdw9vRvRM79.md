@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdw9vRvRM79.md) - [plain]
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,336 likes - 151 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,436 likes - 151 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdw9vRvRM79.md) - [plain]
 | 150 | [Mauve \- Sound Bath](https://open.spotify.com/track/4mpCBB279BFXz8tYMUYAxb) | [Cécile Theroux](https://open.spotify.com/artist/2t2cTHZOCw0iz30wBxeTyh) | [Mauve \- Sound Bath](https://open.spotify.com/album/2m6fFcCrm7rz3vo4k4TgRJ) | 2:06 |
 | 151 | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/track/1mRrap2H5etyXZaOXRRCRc) | [Nayanni](https://open.spotify.com/artist/2dx6xmAZP2n29B0nf6uh3J) | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/album/5nrwQhD3xxOrnXjmZZccth) | 3:02 |
 
-Snapshot ID: `aCcwkAAAAAB3fF0ixsCUfGzTM2GMzweg`
+Snapshot ID: `aCcwkAAAAAC94i/2qpnfBLqel9l8UXqb`

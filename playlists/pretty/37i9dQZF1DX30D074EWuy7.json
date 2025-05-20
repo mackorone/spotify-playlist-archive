@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
-  "num_followers": 32682,
+  "num_followers": 32688,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Quando le canzoni finiscono",
         "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Citt\u00e0 Futura",
-        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 284804,
-      "name": "Citt\u00e0 Futura",
-      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "New Game Plus",
         "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
       },
@@ -839,34 +839,18 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+        "name": "Citt\u00e0 Futura",
+        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
       },
       "artists": [
         {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
         }
       ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Another Day with Another Sun",
-      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
+      "duration_ms": 284804,
+      "name": "Citt\u00e0 Futura",
+      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -887,6 +871,38 @@
       "duration_ms": 388854,
       "name": "Estate",
       "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Another Day with Another Sun",
+      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -919,22 +935,6 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1107,6 +1107,38 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Oltreoceano",
+        "url": "https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5"
+      },
+      "artists": [
+        {
+          "name": "Collettivo Immaginario",
+          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
+        },
+        {
+          "name": "Nicol\u00f2 Masetto",
+          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
+        },
+        {
+          "name": "Alberto Lincetto",
+          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
+        },
+        {
+          "name": "Tommaso Cappellato",
+          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
+        },
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 199639,
+      "name": "Fine Di Un'Era",
+      "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
@@ -1244,22 +1276,6 @@
       "added_at": "2025-05-16 08:06:21",
       "album": {
         "name": "Gigi",
-        "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 183125,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
       "artists": [
@@ -1299,34 +1315,18 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Oltreoceano",
-        "url": "https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5"
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
       },
       "artists": [
         {
-          "name": "Collettivo Immaginario",
-          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
-        },
-        {
-          "name": "Nicol\u00f2 Masetto",
-          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
-        },
-        {
-          "name": "Alberto Lincetto",
-          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
-        },
-        {
-          "name": "Tommaso Cappellato",
-          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
-        },
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
         }
       ],
-      "duration_ms": 199639,
-      "name": "Fine Di Un'Era",
-      "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
+      "duration_ms": 183125,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "So In Love",
-        "url": "https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "That Old Black Magic",
-      "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 292720,
       "name": "Le Tue Mani",
       "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "That Old Black Magic",
+      "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Planisfero",
         "url": "https://open.spotify.com/album/7Mqlor2B60Fqi79kmj072f"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Dualism",
+        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
+      },
+      "artists": [
+        {
+          "name": "N\u0101dt Orchestra",
+          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Dualism",
-        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
-      },
-      "artists": [
-        {
-          "name": "N\u0101dt Orchestra",
-          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
     },
     {
       "added_at": "2025-05-16 08:06:21",

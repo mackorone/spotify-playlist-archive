@@ -2,7 +2,7 @@
 
 ### [Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6)
 
-> The best new music by independent artists and labels\. Cover artist: Emma\-Jean Thackray
+> Celebrating 10 years of the best new music by independent artists and labels\. Cover: Emma\-Jean Thackray
 
 8,234 songs - 18 day 14 hr 9 min
 

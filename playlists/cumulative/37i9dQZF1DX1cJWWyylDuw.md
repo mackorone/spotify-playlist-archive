@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Shadow of Intent
 
-654 songs - 1 day 18 hr 22 min
+655 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Confounder](https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Confounder](https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5) | 4:21 | 2025-05-02 |  |
 | [Consistent Suffering](https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Feral](https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe) | 3:31 | 2023-06-16 | 2024-02-10 |
 | [Creators Conscience](https://open.spotify.com/track/1abb8ARLTeyvmFOTisjUbY) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dawn](https://open.spotify.com/album/4ZKxfg7g7Px3eWCee5UPEw) | 3:29 | 2021-12-17 | 2022-03-12 |
-| [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-05-06 |  |
+| [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-05-06 | 2025-05-20 |
 | [Cryogenesis](https://open.spotify.com/track/1V0oIGML0KMNw9NM7EbiNu) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Cryogenesis](https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U) | 4:27 | 2021-12-17 | 2022-07-29 |
 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-04-29 | 2025-05-10 |
 | [Cursed](https://open.spotify.com/track/35AnnRbyLg8Kpx90pV4XWI) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Cursed](https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI) | 4:09 | 2022-04-29 | 2022-07-27 |
@@ -597,6 +597,7 @@
 | [To Encompass and Eclipse](https://open.spotify.com/track/7ptg9ibcbnFjiyb4vhWNWj) | [A Trust Unclean](https://open.spotify.com/artist/7BpPtda3uaFST4caaxN2ys) | [To Encompass and Eclipse](https://open.spotify.com/album/6nEkcu3T2DCcZ9cOW7BlKr) | 4:10 | 2021-12-17 | 2022-02-01 |
 | [To the Hellfire](https://open.spotify.com/track/0O26gtfjuscAOnQobjNPPL) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [To the Hellfire](https://open.spotify.com/album/2QiAGEjud0j28idKQdsQwL) | 6:09 | 2023-08-16 |  |
 | [Told Off With a Sawed Off](https://open.spotify.com/track/3FVEOta1nxKKoHLW2h3r9q) | [Autumn Lies Buried](https://open.spotify.com/artist/49t9eEicrIvGlCRCsbW1KH) | [Told Off With a Sawed Off](https://open.spotify.com/album/5LmfIpIAzJjnIDgrLaN2fN) | 2:52 | 2025-05-09 |  |
+| [TOMB OF THE TORMENTOR](https://open.spotify.com/track/59PZ0aXCk6Chs3E3VSYtlL) | [Hate Within](https://open.spotify.com/artist/27sOHU1c3NaMHTtN5vEVMv) | [TOMB OF THE TORMENTOR](https://open.spotify.com/album/34APkPckxMDZnJOL5TO2Nx) | 3:34 | 2025-05-19 |  |
 | [Torturous Symphony \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/1JBgzewSLIcqFwpBmq1XP0) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Torturous Symphony \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/6Q8AVnb0T0sesNOqXODHVH) | 3:03 | 2024-10-18 | 2025-05-16 |
 | [Total Protonic Reversal](https://open.spotify.com/track/69lvjewaJxRQloAi5j7hma) | [Killitorous](https://open.spotify.com/artist/0aiK7nPFPKzrpv3R3pWOIw) | [Total Protonic Reversal](https://open.spotify.com/album/5Jf0ykUIAgOPZpSWTzCfOT) | 3:50 | 2021-12-31 | 2022-07-28 |
 | [Tower of Torsos](https://open.spotify.com/track/6RCgSGMboHdokG852OILQm) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Tower of Torsos](https://open.spotify.com/album/2bPi3VonAP6mtglL6iKtfX) | 3:29 | 2023-06-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Shub.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,382 likes - 28 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,389 likes - 28 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 27 | [Rock The Boat](https://open.spotify.com/track/6HQ3ntsL6fpe3s4WLeW17i) | [Stella Standingbear](https://open.spotify.com/artist/5AyaQq63U3Zym36xcT7120) | [Rock The Boat](https://open.spotify.com/album/7yRUuQmhK9JTmwPS2eTZZo) | 2:27 |
 | 28 | [where do we go?](https://open.spotify.com/track/6UoZFinSpXFeZu1dgJMRLX) | [Natasha Fisher](https://open.spotify.com/artist/644igyu4xfNmbD8r0SJmGJ) | [where do we go?](https://open.spotify.com/album/1ZU9PwAu241pxnKihotrLv) | 2:37 |
 
-Snapshot ID: `aCa4XgAAAAAZqlxm5lFavZ5Ad/6wI35W`
+Snapshot ID: `AAAAALn7Wg6qwBJFCDuvMexdo4xDYJ7q`

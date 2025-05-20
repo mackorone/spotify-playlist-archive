@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM?si=wEfaCt5MSqSzxgQT6UQ4Mg">Morgan Wallen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,028 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,039 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

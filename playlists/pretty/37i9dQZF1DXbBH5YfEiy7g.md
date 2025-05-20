@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=3c0OFN54STCLGyLFtRdkgg">Lebo Sekgobela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,127 likes - 100 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,212 likes - 100 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

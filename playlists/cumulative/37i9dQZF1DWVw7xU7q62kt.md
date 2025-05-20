@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-523 songs - 1 day 0 hr 4 min
+524 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [blues clues](https://open.spotify.com/track/6dE8byiQs38hPetenI2Zuh) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [blues clues](https://open.spotify.com/album/1W6RhFLzgRCMbVOVhwI08P) | 2:24 | 2024-11-29 | 2025-04-09 |
 | [Bookmark](https://open.spotify.com/track/2acdBTC96mqesyon9dUX9N) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Bookmark](https://open.spotify.com/album/3WNAvM5T5SncMavJOl0A23) | 1:59 | 2025-02-03 |  |
 | [Brasília](https://open.spotify.com/track/5RBWTP54Eu5K5EwpwarymG) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Brasília](https://open.spotify.com/album/2bD9vff8Vo78VlzyNu4Luj) | 1:46 | 2024-09-13 |  |
-| [Breeze](https://open.spotify.com/track/4Hf8Dzr69UplutFptqGLs0) | [Maajjyyn](https://open.spotify.com/artist/2FFQrnhVGwSpSELR5dfG39) | [Breeze](https://open.spotify.com/album/4FYso3anLawE5xBWbGoMu9) | 2:58 | 2025-05-16 |  |
+| [Breeze](https://open.spotify.com/track/4Hf8Dzr69UplutFptqGLs0) | [Maajjyyn](https://open.spotify.com/artist/2FFQrnhVGwSpSELR5dfG39) | [Breeze](https://open.spotify.com/album/4FYso3anLawE5xBWbGoMu9) | 2:58 | 2025-05-16 | 2025-05-20 |
 | [Brush](https://open.spotify.com/track/2dM72ks3NiGCaCG2clUigk) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Brush](https://open.spotify.com/album/0fED8Ta5z3ZZ4PhSh4ojCt) | 4:43 | 2025-04-18 | 2025-05-03 |
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 | 2024-08-24 |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 | 2024-09-15 |
@@ -472,6 +472,7 @@
 | [The Portal](https://open.spotify.com/track/18S4fMwB1dE6dgjLZXlL79) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [The Portal](https://open.spotify.com/album/7tXAy7j7gTTOkvChmnplAt) | 2:34 | 2024-08-23 | 2024-10-05 |
 | [The Rain](https://open.spotify.com/track/3OGSUXjjmV3Nf9F8IgScfI) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Shoganai](https://open.spotify.com/artist/2ye57fswWGmqTjYVUNxH9X) | [The Rain](https://open.spotify.com/album/7DPQ8dSpEogHEaTNpmwarp) | 3:10 | 2025-05-02 |  |
 | [The Road Ends Here](https://open.spotify.com/track/1YAFhTLsFCBrOTxm2kIrje) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [The Road Ends Here](https://open.spotify.com/album/0ycy8md7dKU4mmETlUmcVL) | 2:14 | 2025-04-11 |  |
+| [The Start of Something New](https://open.spotify.com/track/4yX8YNUdCdxMpujziFkQsq) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [The Start of Something New](https://open.spotify.com/album/39iK92ccFFjt6iqwLJxxHJ) | 2:05 | 2025-05-16 |  |
 | [The Sunrise Fool](https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Sunrise Fool](https://open.spotify.com/album/3aF7jsWfr5K70XL0tV0ca6) | 2:54 | 2024-10-25 | 2024-11-16 |
 | [The Thought Of You](https://open.spotify.com/track/2XDGo6fLUZffz3qDG2KK6R) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Brothers In Arms](https://open.spotify.com/album/7vXHQJOYzE2EyT25auM7NO) | 2:44 | 2025-05-09 |  |
 | [The Winds Of Change](https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [The Winds Of Change](https://open.spotify.com/album/6eZYiqVq6c8FhlScZMpNZi) | 2:42 | 2024-12-13 |  |

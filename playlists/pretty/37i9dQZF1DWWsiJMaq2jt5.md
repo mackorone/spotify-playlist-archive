@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6VQUyaRqUl5BCTJS0cCEki">KIWI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,022 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,024 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 2 | [Tattoo \- Spotify Singles](https://open.spotify.com/track/3OOl2L4LrjlRRSMDzIpua8) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Tattoo \- Spotify Singles](https://open.spotify.com/album/4aISMGKmjSm9b6uWlmpGef) | 2:33 |
 | 3 | [Rosa](https://open.spotify.com/track/4UITcoh4mQLg8tO7yaESei) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Rosa](https://open.spotify.com/album/5F5Ilkyfab6F7WTGu3BmX4) | 2:52 |
 | 4 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
-| 5 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |
+| 5 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |
 | 6 | [Trudno jest być sobą](https://open.spotify.com/track/1Zq9x1dBs8dd9pCWsnbzmA) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Trudno jest być sobą](https://open.spotify.com/album/6NSbh4AAYRM31FJW8ernFl) | 3:45 |
 | 7 | [Bucket list](https://open.spotify.com/track/5rhwoZ4ODqBk0LkGGzfbqH) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Bucket list](https://open.spotify.com/album/4ztNpXZOcXsVBVzrpS4Ijn) | 3:04 |
 | 8 | [Dzwonisz](https://open.spotify.com/track/6f0jOhp2WuvDXGUFYAzDRb) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Dzwonisz](https://open.spotify.com/album/2mL2OPLHnpGw8IT5WC20Xg) | 3:23 |

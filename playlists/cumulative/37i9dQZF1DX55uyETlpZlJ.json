@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Anu Anuvaagi",
+        "url": "https://open.spotify.com/album/6yzd9SBgrbdniHZcrHwSAk"
+      },
+      "artists": [
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Anu Anuvaagi",
+      "url": "https://open.spotify.com/track/1m9TOMR1oF6bF46p0Z8XgD"
+    },
+    {
+      "album": {
         "name": "Arere",
         "url": "https://open.spotify.com/album/2NAKOi8TeqzEJZDcwdaP61"
       },

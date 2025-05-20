@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-304 songs - 12 hr 59 min
+305 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/track/34UvnbEnip6vYcw5cFBL1b) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/album/3flhd8RWYlUoPWE6w7pPg3) | 2:38 | 2022-09-23 |  |
 | [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 | 2025-05-13 |  |
 | [Achernar](https://open.spotify.com/track/4DQ6sxGcPuxSK8OXHj9XGG) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Achernar](https://open.spotify.com/album/3gOzubq8SyEtBXXwv92594) | 2:22 | 2021-12-09 | 2024-04-20 |
-| [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 | 2025-04-22 |  |
+| [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 | 2025-04-22 | 2025-05-20 |
 | [Aime\-moi](https://open.spotify.com/track/5iI350s8GGBvluinhZoxgK) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Langue d'amour](https://open.spotify.com/album/5eGWf5z5kCZ8LL6KHEoer0) | 2:26 | 2022-12-16 |  |
 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 | 2024-06-07 |  |
 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 | 2022-07-01 | 2023-01-20 |
@@ -35,6 +35,7 @@
 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 | 2024-12-17 |  |
 | [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 | 2025-03-05 |  |
 | [Benvenuto A Casa](https://open.spotify.com/track/0fnUE554KVoU50jWIVp83X) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Benvenuto A Casa](https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa) | 1:45 | 2023-01-20 | 2023-08-26 |
+| [Beyond the Blue](https://open.spotify.com/track/2I7ZoXTC9RWJka1rpLcxZF) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Beyond the Blue](https://open.spotify.com/album/2UjDmSX3lUFvgEPrtd8mY7) | 2:23 | 2025-05-19 |  |
 | [Beyond This Chapter](https://open.spotify.com/track/2y9KLiNyaEAyViL5JOEFYI) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Beyond This Chapter](https://open.spotify.com/album/19rvv5E7HnKyS4g8XZxm8T) | 2:24 | 2025-04-22 | 2025-04-30 |
 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 |  |
 | [Blue Sky Within](https://open.spotify.com/track/3J0KOnk8DvN6eWvNbsqp2w) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Blue Sky Within](https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg) | 3:06 | 2022-08-19 | 2024-07-18 |
@@ -210,7 +211,7 @@
 | [Remember Yesterday](https://open.spotify.com/track/7IMwaA8RH2Rkmz8B8DhIf3) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Remember Yesterday](https://open.spotify.com/album/2QwaFDwr9RmEiAeDKBEUP5) | 2:16 | 2025-03-25 |  |
 | [Remembrances](https://open.spotify.com/track/2Thhi4klSQgjxMoY81vttZ) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Remembrances](https://open.spotify.com/album/1qeu1P1tTnPlb7wMdEA2Ea) | 2:23 | 2024-10-23 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-22 |  |
-| [Resting Shore](https://open.spotify.com/track/66MW13mxvP3JPwqmEyUdBd) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Resting Shore](https://open.spotify.com/album/49ou81TvIutVbtZ46RpkO6) | 3:38 | 2025-04-16 |  |
+| [Resting Shore](https://open.spotify.com/track/66MW13mxvP3JPwqmEyUdBd) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Resting Shore](https://open.spotify.com/album/49ou81TvIutVbtZ46RpkO6) | 3:38 | 2025-04-16 | 2025-05-20 |
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2022-09-16 |  |
 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 | 2022-12-09 |  |
 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 | 2021-12-09 | 2024-05-24 |
@@ -254,7 +255,7 @@
 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 | 2023-06-02 | 2023-08-26 |
 | [Star light, Star Bright](https://open.spotify.com/track/3KNTLFza8pBNlWGrJ8UhrW) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Star light, Star Bright](https://open.spotify.com/album/6HKVpUdjXbjEA86lsiYHgG) | 1:38 | 2022-10-07 | 2023-08-26 |
 | [Stay a Little Longer](https://open.spotify.com/track/2HA7JNfGdwljcMvHDQNc9c) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stay a Little Longer](https://open.spotify.com/album/3GNRZg9Kjaz4nlyS4gM6yF) | 2:12 | 2025-05-13 |  |
-| [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 | 2025-01-28 |  |
+| [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 | 2025-01-28 | 2025-05-20 |
 | [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-03 | 2024-11-27 |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2021-12-09 | 2023-04-29 |
 | [Suaves voces](https://open.spotify.com/track/4cBUGJbBfC8PN8Bbv1aE8P) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Suaves voces](https://open.spotify.com/album/5UpeiNsZzH4sAkoYjwTan0) | 3:12 | 2021-12-09 |  |

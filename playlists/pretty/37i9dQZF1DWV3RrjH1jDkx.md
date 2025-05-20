@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Metropolen, AVGVSTVS & FRAM og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,910 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,907 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 35 | [Jaja Fåkk det](https://open.spotify.com/track/5WAvW0HH3DD2vVfEPy50bD) | [LULI](https://open.spotify.com/artist/2Wqwtkm8lQ71vQvJrjauiA) | [Jaja Fåkk det](https://open.spotify.com/album/3OLAR9hXhwRiQwUJCN65ZM) | 3:34 |
 | 36 | [Brokenhearted](https://open.spotify.com/track/4S7jZg43skkD2YqLa31URQ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Brokenhearted](https://open.spotify.com/album/2XBqdcw1rora7B6t3qPAsE) | 2:32 |
 | 37 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
-| 38 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Carrie Keller](https://open.spotify.com/artist/2Rl5lh15RzvEg0eEzfhzJQ) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
+| 38 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
 | 39 | [bye](https://open.spotify.com/track/53ysk1V4Bf6pQMYGN3LSQA) | [MARI](https://open.spotify.com/artist/6Qda4oVRMWJl7Ri8ZTCgfq) | [bye](https://open.spotify.com/album/1bxvbvrIxobDCfjy34ZAEL) | 2:11 |
 | 40 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 |
 | 41 | [Sjelden vare](https://open.spotify.com/track/6PGv6rMdWgrlTm3oNRGmYp) | [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [Sjelden vare](https://open.spotify.com/album/433OVXcX6CNB5tSJwROiIH) | 6:37 |

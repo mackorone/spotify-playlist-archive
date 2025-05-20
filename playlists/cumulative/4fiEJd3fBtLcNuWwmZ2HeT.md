@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-291 songs - 16 hr 32 min
+292 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [IYAIYAYO](https://open.spotify.com/track/0RzMtWTt0opphQlWu6xFia) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [IYAIYAYO](https://open.spotify.com/album/2pVRQa9yI8HfEWGl2CF782) | 2:51 | 2024-08-08 |  |
 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2024-01-24 |  |
 | [JINGO JUNGLE](https://open.spotify.com/track/1unlscICXb88LMbFxlMlWy) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID ベストアルバム「MUSEUM\-THE BEST OF MYTH & ROID\-」](https://open.spotify.com/album/3VBaCgrD7i77Y0P3wiOol1) | 3:49 | 2023-03-28 |  |
+| [just saying, the body is honest.](https://open.spotify.com/track/4z1O8W35JfmFjPlD9KYvid) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [just saying, the body is honest.](https://open.spotify.com/album/7grI8AGOeBtLLcmSPFHqvp) | 2:23 | 2025-05-20 |  |
 | [Karma](https://open.spotify.com/track/2s0UNcumDtAj7rKPZ4zjeO) | [달의하루](https://open.spotify.com/artist/6qAno6xjJxkwEdWMNFCUap) | [Karma](https://open.spotify.com/album/21roL9Zk29chd89R6G70lL) | 4:31 | 2024-01-22 |  |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2023-12-03 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-02 |  |

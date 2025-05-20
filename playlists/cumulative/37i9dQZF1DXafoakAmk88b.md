@@ -4,13 +4,14 @@
 
 > New indie from black artists driving the current\. Cover: Love Spells
 
-516 songs - 1 day 3 hr 14 min
+517 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$$$$](https://open.spotify.com/track/2qpaF08CjieNZtUU4DmfTi) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [$$$$](https://open.spotify.com/album/0JcZZ5rceNRasPUJA3Zyvv) | 2:30 | 2023-08-09 | 2023-08-22 |
 | [\*sigh\* Nevermind](https://open.spotify.com/track/3vHMtkPfqTmmciY9g4xz28) | [Asiatica](https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw) | [\*sigh\* Nevermind](https://open.spotify.com/album/0GZcu5Gt3CCy1bzUIXBjsD) | 2:59 | 2022-06-17 | 2022-11-12 |
 | [17suns](https://open.spotify.com/track/0UCZd39helCanZAlsWbrR1) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 2:41 | 2023-06-07 | 2023-08-22 |
+| [2 Good](https://open.spotify.com/track/6onTSGUlM6RTH6wfePrDPd) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Before You Go](https://open.spotify.com/album/5w1CiB6umzBpiB6FjYWxVX) | 3:26 | 2025-05-14 |  |
 | [27](https://open.spotify.com/track/3B17oqXg7jkh4FGZslnYuz) | [deem spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [DaVionne](https://open.spotify.com/artist/0kQVtbYXplOdbRNlQ3RBOE) | [27](https://open.spotify.com/album/30Oj6ILCdT5poO5w2IIJQR) | 4:44 | 2023-02-01 | 2023-03-04 |
 | [9 lives](https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:27 | 2023-08-09 | 2023-11-18 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-06-07 | 2024-02-06 |
@@ -401,7 +402,7 @@
 | [Save U](https://open.spotify.com/track/2MYsu9WonImaW3MdHglZgt) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Save U](https://open.spotify.com/album/7ukhtKaWKEgAhRuqzhHpny) | 2:24 | 2023-06-07 | 2023-08-22 |
 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 | 2024-08-16 |  |
 | [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 | 2024-10-25 |  |
-| [Seeing Stars](https://open.spotify.com/track/5bibSmheVJMxhCEBMwORvm) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Seeing Stars](https://open.spotify.com/album/74O2qiOcoWXGqBQKOtwXBw) | 3:44 | 2025-05-14 |  |
+| [Seeing Stars](https://open.spotify.com/track/5bibSmheVJMxhCEBMwORvm) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Seeing Stars](https://open.spotify.com/album/74O2qiOcoWXGqBQKOtwXBw) | 3:44 | 2025-05-14 | 2025-05-20 |
 | [Selfish Soul](https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:22 | 2022-10-03 | 2024-05-05 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 | 2022-10-04 |
 | [Selfish...](https://open.spotify.com/track/75rgxmX8w67Af5EgyQiyaa) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [See You Soon](https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L) | 3:14 | 2022-02-18 | 2022-11-12 |

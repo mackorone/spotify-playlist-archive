@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Eu Não Mudo](https://open.spotify.com/track/7yAmk5ou4RMHXOvPs17FJ8) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 6:27 |
 | 2 | [A Força da Oração](https://open.spotify.com/track/7BCC2NuYcVhq48ejBd3NhR) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:14 |
-| 3 | [Só de Joelhos](https://open.spotify.com/track/2YYOOkMhzMGuY3k5DUMTCv) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 3:21 |
-| 4 | [A Peleja Não É Tua](https://open.spotify.com/track/296T1cQUbUpaUfHtWs3Kv6) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 6:12 |
+| 3 | [A Peleja Não É Tua](https://open.spotify.com/track/296T1cQUbUpaUfHtWs3Kv6) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 6:12 |
+| 4 | [Só de Joelhos](https://open.spotify.com/track/2YYOOkMhzMGuY3k5DUMTCv) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 3:21 |
 | 5 | [Seu Nome É Já](https://open.spotify.com/track/6iVx6RDpiry5IH70sxQuVW) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 5:18 |
 | 6 | [Josafá](https://open.spotify.com/track/04QYbuGut4VNmroMyfL09V) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Josafá](https://open.spotify.com/album/58EWdC7GrBS7hrR2YOsmwW) | 5:28 |
 | 7 | [Tristezas e Alegrias](https://open.spotify.com/track/4SghGLK19UubbFV7aL7u7U) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 8:59 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Glorifique & Exalte a Ele](https://open.spotify.com/track/6Z56KObDNMmrqr5G4BFb2b) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Glorifique & Exalte a Ele](https://open.spotify.com/album/3tUFOrv3WONr57J4La7Bw9) | 5:38 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AbxxgAAAAAAsyKLxdzoGUPdiFlanblv7`
+Snapshot ID: `Abx3XAAAAABpFZlGBfnNO4GHT/bjXk8M`

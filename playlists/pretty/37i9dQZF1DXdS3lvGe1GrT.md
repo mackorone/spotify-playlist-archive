@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: pencil
+> Celebrating 10 years of the best new folk music from independent artists\. Cover: pencil
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,423 likes - 120 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,437 likes - 120 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 119 | [nothing holy is free](https://open.spotify.com/track/2L6346dUqtqPvXj0CbthlR) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [NOTHING HOLY IS FREE](https://open.spotify.com/album/7s8ZJyK9Zqz1YTTFZnwmno) | 4:07 |
 | 120 | [People Pleaser](https://open.spotify.com/track/4Rlce9looQ3MZkHC9Kjp8k) | [yeemz](https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a) | [People Pleaser](https://open.spotify.com/album/2t4RXcsXzAkT85rWJ1ShTK) | 4:05 |
 
-Snapshot ID: `aCSt9gAAAABYoQXU9ATzqZDCvh0ZGae/`
+Snapshot ID: `aCt1dQAAAAC0scfKk8d+VKk60L2gmrS9`

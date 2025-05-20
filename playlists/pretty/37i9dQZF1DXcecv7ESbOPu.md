@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Avicii, Rihanna, Y4ska och Lola Young med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,708 likes - 103 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,714 likes - 103 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 44 | [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 |
 | 45 | [Medicin](https://open.spotify.com/track/67GvcYcFauHiTEsLRxGtgl) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Medicin](https://open.spotify.com/album/5cka2ltHcvjCM5loz8snRl) | 3:38 |
 | 46 | [gravity](https://open.spotify.com/track/72kcPs8t3495lUbaPDPC53) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [gravity](https://open.spotify.com/album/13HQljmotbgEd2MrxyBrh3) | 3:04 |
-| 47 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Carrie Keller](https://open.spotify.com/artist/2Rl5lh15RzvEg0eEzfhzJQ) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
+| 47 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
 | 48 | [SISTA WIVES \- from the Short Film "Red Clay"](https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SISTA WIVES \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng) | 2:29 |
 | 49 | [Apaga la luz](https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Apaga la luz](https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf) | 3:23 |
 | 50 | [Mitt vackraste felsteg](https://open.spotify.com/track/6cO9yPqaCClf1zhObaLJh6) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Mitt vackraste felsteg](https://open.spotify.com/album/4qq53wdKELAFTfM8t5C6Zb) | 3:57 |

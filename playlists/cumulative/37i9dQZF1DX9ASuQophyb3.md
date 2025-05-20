@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Ece Seçkin
 
-220 songs - 11 hr 10 min
+221 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Ufak Ufak \( Prodüktör Genco Arı \)](https://open.spotify.com/track/7xMnDtpd1mYUnQz3kJPiz3) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Genco Arı](https://open.spotify.com/artist/58PCTeH2HDJNLkLwAwEeMu) | [Ufak Ufak \( Prodüktör Genco Arı \)](https://open.spotify.com/album/7ymv9rExQjWkW0QfrVMoJ4) | 3:09 | 2024-10-24 | 2024-11-08 |
 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 | 2024-07-25 | 2024-11-08 |
 | [Uyku Tutmadı](https://open.spotify.com/track/4mOQHgIFAcVlUGg0AGA8uC) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Uyku Tutmadı](https://open.spotify.com/album/5M5tXuytQD7ExX5P2k9kRL) | 4:23 | 2025-02-27 | 2025-03-28 |
+| [Vaktimiz Dar Sevgilim](https://open.spotify.com/track/61J7Zh1Nj0vCive6SKdy7O) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Bir Yol Bu](https://open.spotify.com/album/2OAJgY6y0u5IIRJES9mP03) | 4:54 | 2025-05-19 |  |
 | [Yaban Çiçeğim](https://open.spotify.com/track/13R7NdClDXi78isqTa5rGz) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Serkan Tınmaz](https://open.spotify.com/artist/4G9rX9BsjllB6a5s9uCiEC) | [Yaban Çiçeğim](https://open.spotify.com/album/3XlCLUB5N1pxPq7AgnGkCW) | 2:43 | 2024-09-05 | 2024-11-01 |
 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 | 2024-07-02 | 2025-02-07 |
 | [Yan](https://open.spotify.com/track/5E8s6ZlPAJFWYUqTbVLFdT) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Kırık Gitar](https://open.spotify.com/album/0qSzMyV6UO95NJf3QvMOju) | 2:57 | 2025-04-24 | 2025-05-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,797 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,793 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 74 | [Vegas Days](https://open.spotify.com/track/2GihXKy7Y9dF3JEs33p4db) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Vegas Days](https://open.spotify.com/album/3iDz7wS8M2d2rZDSoRKqxj) | 3:27 |
 | 75 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 
-Snapshot ID: `Z5xY7AAAAABzW/9I+7ZOas1uuBI1kV7g`
+Snapshot ID: `Z5xY7AAAAAAKlueU/3hpZG+1ojb0r1ud`

@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-454 songs - 1 day 2 hr 45 min
+455 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Casimir Pulaski Day](https://open.spotify.com/track/1u1YU1LE0FWHFOHpR2iXua) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 5:53 | 2022-03-25 | 2022-04-09 |
 | [Casimir Pulaski Day](https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:53 | 2022-07-04 | 2024-04-19 |
 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 | 2022-03-25 | 2022-04-12 |
-| [Certeza \- Acústico](https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Certeza](https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC) | 2:48 | 2021-12-24 |  |
+| [Certeza \- Acústico](https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Certeza](https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC) | 2:48 | 2021-12-24 | 2025-05-20 |
 | [Chega Perto Não](https://open.spotify.com/track/6VzZTOA70oSUQaebn68Fus) | [VENVS](https://open.spotify.com/artist/2ocUyV60vAnpvfuqszD3XG) | [Chega Perto Não](https://open.spotify.com/album/5xzHKXLiEDK1dSAbfzY5o7) | 2:39 | 2021-12-24 | 2022-04-17 |
 | [Cheiro de Filho](https://open.spotify.com/track/6Ty26C5oLsOS68yA5ZCk6g) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Cheiro de Filho](https://open.spotify.com/album/6Dd5l22ypthxlfnivU7lHj) | 2:26 | 2021-12-24 | 2022-07-29 |
 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 | 2022-04-06 | 2025-02-22 |
@@ -303,6 +303,7 @@
 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2022-03-25 | 2023-01-14 |
 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 | 2021-12-24 |  |
 | [Partir Também É Chegar](https://open.spotify.com/track/6Mo1CszOMxtXuncoYOU8iS) | [Caio Castelo](https://open.spotify.com/artist/5eyIJxpaSvR7Y8Fzy7sJbi) | [Pontes de Vidro Parte 3](https://open.spotify.com/album/3hoG8eaqfYXf5zEAu9MwtD) | 3:26 | 2021-12-24 | 2022-07-01 |
+| [Passageiro](https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Passageiro](https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm) | 3:39 | 2025-05-16 |  |
 | [Patience](https://open.spotify.com/track/3XptGKSVHtyxRRPM6Dctzt) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [The Fine Line Between Loneliness and Solitude](https://open.spotify.com/album/40ZpoXG20W4Uffh71cvWgp) | 5:32 | 2022-02-11 | 2022-05-11 |
 | [Pausa e Solidão](https://open.spotify.com/track/2SKMIBw0pbQ7L5IKsjGLSC) | [Wem](https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd) | [Pausa e Solidão](https://open.spotify.com/album/3iLWGvBZbDCTIAvKpCFHKq) | 2:16 | 2022-01-21 | 2022-07-11 |
 | [Peito Aberto](https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Coisas de Viver](https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc) | 3:11 | 2025-02-22 | 2025-03-14 |

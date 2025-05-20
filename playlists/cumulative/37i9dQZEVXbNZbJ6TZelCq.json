@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 131977,
       "name": "Anglia",
       "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
@@ -4738,7 +4738,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 184000,
       "name": "Bine Ai Venit in Balcani",
       "url": "https://open.spotify.com/track/66bHSTuQi0ncFmqEvS9E6x"
@@ -14522,7 +14522,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 197481,
       "name": "GENTLEMAN",
       "url": "https://open.spotify.com/track/1Tx80ydwLcig0Nerf1yyIA"
@@ -18830,7 +18830,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 173538,
       "name": "Jeleu - From \"Candidatul Perfect\" The Movie",
       "url": "https://open.spotify.com/track/0f8WNnOzO1K8NXuWkSdX2m"
@@ -30122,7 +30122,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 190101,
       "name": "RECE PE JOS",
       "url": "https://open.spotify.com/track/59daBSOgtz9mzhNz76hDrZ"
@@ -40122,6 +40122,24 @@
       "duration_ms": 182045,
       "name": "Vorbeste lumea",
       "url": "https://open.spotify.com/track/6ATqZFNmkf3njuq6zH9XaF"
+    },
+    {
+      "album": {
+        "name": "Votati cu cap nu cu CUR",
+        "url": "https://open.spotify.com/album/7HzScDDj1N1WKESedmfcU4"
+      },
+      "artists": [
+        {
+          "name": "Martha Logue",
+          "url": "https://open.spotify.com/artist/3ZSVcs52Hpp5Or0WIuU25g"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "Votati cu cap nu cu CUR",
+      "url": "https://open.spotify.com/track/4usok2xT3qRr47sqIOjhMn"
     },
     {
       "album": {

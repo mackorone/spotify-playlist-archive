@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,909 likes - 125 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,973 likes - 125 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 124 | [Heartbreaker \- Original Mix](https://open.spotify.com/track/2bQX4uvdWdEI3leqLNavLp) | [Nacho Scoppa](https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA) | [Deeperfect Summer Stuff](https://open.spotify.com/album/1QoLYjaCi6Yt4TnnDg1jH9) | 3:36 |
 | 125 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 
-Snapshot ID: `aCa4YwAAAAANPX2lqg5Z7/RGBsECSS+T`
+Snapshot ID: `aCa4YwAAAAABV9FApEChwg5J4bL/4JyB`

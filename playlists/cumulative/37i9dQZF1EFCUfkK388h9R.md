@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-56 songs - 2 hr 54 min
+57 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Basket](https://open.spotify.com/track/2En7vhcwb15kFzza0prsWm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:08 | 2024-03-21 |  |
 | [By Now](https://open.spotify.com/track/4NTAmq5vf3cXuKZIDV94w1) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [By Now](https://open.spotify.com/album/6B37u4rJJZX3nLtGb95X8g) | 3:06 | 2024-03-21 |  |
 | [Candy Kiss](https://open.spotify.com/track/5KrJaDiB7WKUrkPOWUuxJp) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:21 | 2024-03-21 |  |
+| [City Girl](https://open.spotify.com/track/1Sbf8qBXp24byps3CtiONg) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:04 | 2025-05-19 |  |
 | [Daddy](https://open.spotify.com/track/2h7m83VVpLkLRGF6VMMRk8) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu), [ylxr](https://open.spotify.com/artist/5vVyWmLFzqYJph1MThgf5d) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 2:32 | 2024-03-21 |  |
 | [Death Is in the Air](https://open.spotify.com/track/7xwDVTZBWVCFfBig0vSeMU) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Death Is in the Air](https://open.spotify.com/album/2bIFB2pGDgyVrVWrQpA8GG) | 3:23 | 2024-03-21 |  |
 | [Duress](https://open.spotify.com/track/3uAOCXwvc6LZUPlu3fiXto) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:00 | 2024-03-21 |  |

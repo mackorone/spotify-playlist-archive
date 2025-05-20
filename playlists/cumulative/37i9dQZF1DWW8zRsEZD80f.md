@@ -4,7 +4,7 @@
 
 > Sácale provecho a este tiempo en casa\. Encuentra contenido de educación y entretenimiento para niños.
 
-10 songs - 1 hr 17 min
+10 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Danilo tiene visitas \| Veterinario \| Profesiones Asombrosas \| Cuentos para niños](https://open.spotify.com/episode/1hGP0DEMX6qMbinxx6JBoi) | [Cuentos Increíbles](https://open.spotify.com/show/5E34gr7EYqEuBxJLjpRVNv) | [Cuentos Increíbles](https://open.spotify.com/album/5E34gr7EYqEuBxJLjpRVNv) | 7:36 | 2023-04-03 |  |
 | [El Monstruo de las Faltas](https://open.spotify.com/episode/1Psk9SIiel40n91asil9Sy) | [Pequehistorias](https://open.spotify.com/show/6KO9n0r0kheSTuc7VJ6s9N) | [Pequehistorias](https://open.spotify.com/album/6KO9n0r0kheSTuc7VJ6s9N) | 4:59 | 2023-04-03 |  |
 | [Fruits & Vegetables](https://open.spotify.com/episode/3SakcmNMj9JuM0iZ4ck9Gg) | [Mi Loco Profesor de Inglés](https://open.spotify.com/show/4TrXjBqH968z6HWrMIVo03) | [Mi Loco Profesor de Inglés](https://open.spotify.com/album/4TrXjBqH968z6HWrMIVo03) | 7:03 | 2023-04-03 |  |
-| [La Margarita enamorada, cuento para niños](https://open.spotify.com/episode/3SdfzOSHYw4eduSV9Sp2u9) | [Cuentos para el Alma, pequeñas grandes historias...](https://open.spotify.com/show/2kTGtxzzzOppOzw0EfeAlG) | [Cuentos para el Alma, pequeñas grandes historias...](https://open.spotify.com/album/2kTGtxzzzOppOzw0EfeAlG) | 2:41 | 2023-04-03 |  |
+| [La Margarita enamorada, cuento para niños](https://open.spotify.com/episode/3SdfzOSHYw4eduSV9Sp2u9) | [Cuentos para el Alma, pequeñas grandes historias...](https://open.spotify.com/show/2kTGtxzzzOppOzw0EfeAlG) | [Cuentos para el Alma, pequeñas grandes historias...](https://open.spotify.com/album/2kTGtxzzzOppOzw0EfeAlG) | 4:03 | 2023-04-03 |  |
 | [La noche estrellada de Van Gogh 109 \| Cuentos Infantiles \| Personajes históricos](https://open.spotify.com/episode/581j5n0SRSEGxdvV1Xz7EA) | [Había Una Vez by Naran Xadul \| Cuentos Infantiles](https://open.spotify.com/show/2dQROSMuwFhQzpiFWCgvTo) | [Había Una Vez by Naran Xadul \| Cuentos Infantiles](https://open.spotify.com/album/2dQROSMuwFhQzpiFWCgvTo) | 9:00 | 2023-04-03 |  |
 | [Perséfone, el nacimiento de la primavera](https://open.spotify.com/episode/4PWW17jf4eMQFVQXzzFI2Z) | [MITOS Y LEYENDAS](https://open.spotify.com/show/6EWZSaPIMuBUEE8S84EbpT) | [MITOS Y LEYENDAS](https://open.spotify.com/album/6EWZSaPIMuBUEE8S84EbpT) | 15:38 | 2023-04-03 |  |
 | [Semana de los Trabalenguas: Viernes \- La bruja desbruja al brujo Matutino \(20\-11\-2020\)](https://open.spotify.com/episode/1GLbcZ242pzh6qxlecxU7q) | [Mordelones](https://open.spotify.com/show/5AQ1TobR5N3Anq9dQIoQ8I) | [Mordelones](https://open.spotify.com/album/5AQ1TobR5N3Anq9dQIoQ8I) | 2:19 | 2023-04-03 |  |

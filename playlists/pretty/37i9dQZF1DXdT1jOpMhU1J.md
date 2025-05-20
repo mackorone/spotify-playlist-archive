@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,881 likes - 288 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,886 likes - 288 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 287 | [My Secret Wish](https://open.spotify.com/track/5ttv70TBURkZ54Nr2FkFnx) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [My Secret Wish](https://open.spotify.com/album/0v01ijITebOBbKVJkhjXKz) | 1:33 |
 | 288 | [The Sweetest Dream](https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [The Sweetest Dream](https://open.spotify.com/album/2HW02tpcHyD9OoNoG3Up1t) | 1:57 |
 
-Snapshot ID: `Z/PkuQAAAACDJY14PZkToU0jF51ekqvZ`
+Snapshot ID: `AAAAAGvMyFxiQ2JZZKQa7L2DoOY0U5uR`

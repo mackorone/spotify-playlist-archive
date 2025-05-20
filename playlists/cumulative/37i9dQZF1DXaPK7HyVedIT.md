@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, Future Skies
 
-617 songs - 1 day 10 hr 1 min
+617 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 | 2024-02-09 | 2024-05-25 |
 | [Brighter Days \(feat\. Dajae\) \- Alok Remix](https://open.spotify.com/track/3FzWWTFUHhLpmEkwxNMGkw) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Ruddek](https://open.spotify.com/artist/0Mu5RMSse8xbWBS54MLRoj), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Brighter Days \(feat\. Dajae\) \[Alok Remix\]](https://open.spotify.com/album/6Z9Pd13qK610S1vCeIgowS) | 2:45 | 2025-04-11 |  |
 | [Bron Bron](https://open.spotify.com/track/2BcdzkJwckG25nk6PAYlqu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bron Bron](https://open.spotify.com/album/0RarRuW8t6Q3oRPZYFapDt) | 2:37 | 2023-07-21 | 2023-10-07 |
-| [Burugudum](https://open.spotify.com/track/4deY3ALshu0QMAeGSCJkEo) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Victor Alc](https://open.spotify.com/artist/7EFV6WDiCud4RtQWpdvK0E) | [Burugudum](https://open.spotify.com/album/6pIEb8jLJt7EYk0x47mAOH) | 4:44 | 2025-02-28 |  |
+| [Burugudum](https://open.spotify.com/track/4deY3ALshu0QMAeGSCJkEo) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Victor Alc](https://open.spotify.com/artist/7EFV6WDiCud4RtQWpdvK0E) | [Burugudum](https://open.spotify.com/album/6pIEb8jLJt7EYk0x47mAOH) | 3:26 | 2025-02-28 |  |
 | [Butterfly](https://open.spotify.com/track/0spZaLbosDjnQEMjLLD3ZN) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Butterfly](https://open.spotify.com/album/0lGTkeVpNooN2Ses8sUkWc) | 2:50 | 2024-03-29 | 2024-04-13 |
 | [By My Sound](https://open.spotify.com/track/3OLSqCky5z1PgdPtb502oB) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [GIÔGIÔ](https://open.spotify.com/artist/0YmhJD6tfoeU0PcX0yyamW) | [By My Sound](https://open.spotify.com/album/0PrGIml8db9piXqG7xVrKA) | 2:22 | 2023-07-21 | 2023-07-29 |
 | [By Your Side](https://open.spotify.com/track/1pe2jATGX8qxh2rwg1HEa8) | [Agguiar](https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV), [Susan Schaum](https://open.spotify.com/artist/2E0X2U9kEdu3KeNmjwkBI0), [AfterMoon Inc.](https://open.spotify.com/artist/7K7ykCmYnWSlRsnIJ68McC) | [By Your Side](https://open.spotify.com/album/3kSPYrdSnEh8a9f5vyLZXC) | 3:27 | 2023-12-01 | 2024-04-06 |

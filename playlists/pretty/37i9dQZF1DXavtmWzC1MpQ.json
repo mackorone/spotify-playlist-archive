@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 150667,
+  "num_followers": 150767,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "3D Audio Textures of Birds & Water",
-        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Close to the River, Birds Watching",
-      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
         "name": "Nature Hideout",
         "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 192000,
       "name": "Nature Night-time",
       "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
+        "name": "3D Audio Textures of Birds & Water",
+        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Close to the River, Birds Watching",
+      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
         "name": "Forest Bird Sounds Vol. 1",
         "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 154552,
       "name": "Moment Of Peace (Forest Birds)",
       "url": "https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Healing Rainforest",
-        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
       },
       "artists": [
         {
-          "name": "Manaus",
-          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Walking In The Rainforest",
-      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
+      "duration_ms": 183028,
+      "name": "Distant Thunder in the East of the City",
+      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
+        "name": "Healing Rainforest",
+        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
       },
       "artists": [
         {
-          "name": "Naturalis",
-          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
         }
       ],
-      "duration_ms": 183028,
-      "name": "Distant Thunder in the East of the City",
-      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
+      "duration_ms": 208000,
+      "name": "Walking In The Rainforest",
+      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
     },
     {
       "added_at": "2025-02-18 15:28:48",

@@ -5001,6 +5001,24 @@
     },
     {
       "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/3sxbmfvOkXIEyl4cmd39Ox"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/4lmKJY3DL551jHx4vYh8VO"
+    },
+    {
+      "album": {
         "name": "DAY PARTY",
         "url": "https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG"
       },

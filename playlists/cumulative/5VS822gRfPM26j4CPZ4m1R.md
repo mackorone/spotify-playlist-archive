@@ -4,7 +4,7 @@
 
 > Playlist
 
-592 songs - 1 day 11 hr 5 min
+593 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Untitled '91](https://open.spotify.com/track/3j8fm28UQktcWDqpFFM8lc) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 4:03 | 2023-10-25 |  |
 | [Used To](https://open.spotify.com/track/4yYrtrVvfEoIopwt2hD2Dw) | [j.paul](https://open.spotify.com/artist/0klHZ1ixAXRq6KIJIMYtXO) | [Used To](https://open.spotify.com/album/6Vuy3IGCcNQLn2wcMqEE8u) | 2:16 | 2024-11-12 |  |
 | [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2023-10-25 |  |
+| [Venice In Vegas](https://open.spotify.com/track/4e3SbftWWthMLLC2NiLxsR) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Venice In Vegas](https://open.spotify.com/album/6LvqM78DSiJhlF7qgiTDSg) | 3:59 | 2025-05-19 |  |
 | [Venom](https://open.spotify.com/track/6tOXN6lgvMPkM41LsYexAL) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Venom](https://open.spotify.com/album/1jgZfbSUG9VhlcYxr7kvCT) | 2:20 | 2023-10-25 |  |
 | [Vertebrae](https://open.spotify.com/track/5bImEFz89tnLPQXiDc3M9d) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Vertebrae](https://open.spotify.com/album/0m3GTqifxN8YEua3vACYD2) | 2:57 | 2023-10-25 |  |
 | [Videos](https://open.spotify.com/track/6WfhESsVWT1JiZ59ynEtS1) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Videos](https://open.spotify.com/album/4VAsSrZ0Z1RJKZxpRvCnJp) | 4:24 | 2023-10-25 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-527 songs - 1 day 1 hr 42 min
+528 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [My Thing](https://open.spotify.com/track/7w4AVHX30XFZpAqfbTYwcf) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [My Thing](https://open.spotify.com/album/4tbbX4leGDkZXfDEcIwwvM) | 2:24 | 2022-04-01 | 2022-07-11 |
 | [Nasty](https://open.spotify.com/track/1zpyPYZmz9iLrLVOGZUhc7) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Nasty](https://open.spotify.com/album/1kOCGGRmgqx8wSLlBshsCA) | 2:32 | 2024-03-01 | 2024-04-19 |
 | [Naughty](https://open.spotify.com/track/78mKxouHttqRkAl7IeyRiU) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Naughty](https://open.spotify.com/album/3mf7MC0yHgoEM4f4dfHZuL) | 2:36 | 2024-03-01 | 2024-04-19 |
-| [Never Be The One](https://open.spotify.com/track/10r5LCyAwyyAcXDk3tSJGo) | [Wonbeat & Purpose](https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb) | [Never Be The One](https://open.spotify.com/album/4ZdN8rIiR7cqspFPLhGwRC) | 3:05 | 2025-04-04 |  |
+| [Never Be The One](https://open.spotify.com/track/10r5LCyAwyyAcXDk3tSJGo) | [Wonbeat & Purpose](https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb) | [Never Be The One](https://open.spotify.com/album/4ZdN8rIiR7cqspFPLhGwRC) | 3:05 | 2025-04-04 | 2025-05-20 |
 | [NEVER STOPPIN'](https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Nouni](https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww) | [NEVER STOPPIN'](https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg) | 2:23 | 2024-11-08 |  |
 | [New Transition](https://open.spotify.com/track/44r1pQrd6IshgUFKGE1YrJ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [New Transition](https://open.spotify.com/album/5EixwwR5Qh4COnnrfIME3i) | 2:49 | 2022-04-01 | 2022-07-23 |
 | [Night Rider](https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:35 | 2023-08-11 | 2023-11-30 |
@@ -461,6 +461,7 @@
 | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/album/55iVqhNXuBbgvx21VTDgdW) | 2:57 | 2021-10-29 | 2022-12-17 |
 | [Strut \- Sofi Tukker Remix](https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Strut \(Sofi Tukker Remix\)](https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J) | 3:09 | 2021-10-29 | 2022-09-17 |
 | [Summertime](https://open.spotify.com/track/1CvHcYXfsJAtr5AQJEtaOW) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Ocean Roses](https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4) | [Summertime](https://open.spotify.com/album/0uhU246gSttDlBpz5OnQCS) | 2:16 | 2021-10-29 | 2022-02-02 |
+| [SWEAT](https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [SWEAT](https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43) | 2:39 | 2025-05-16 |  |
 | [Switchblade](https://open.spotify.com/track/6TYgNHU24Cyqs3nsnJ8W8A) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Switchblade](https://open.spotify.com/album/4CR2mkqYixGmR0lU71R1dr) | 2:51 | 2021-10-29 | 2022-07-29 |
 | [Take A Chance](https://open.spotify.com/track/2Xf6k7niuuyfY1aiHTe52d) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Take A Chance](https://open.spotify.com/album/0uBardGEMaVtAwXv8lsKYP) | 3:40 | 2022-04-01 | 2022-04-20 |
 | [Take Me Away](https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Take Me Away](https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe) | 3:02 | 2022-02-25 | 2023-09-23 |

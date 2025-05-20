@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: MISTER MEYERS Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,967 likes - 113 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,975 likes - 113 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 112 | [Tried To Tell You](https://open.spotify.com/track/5SErJmcvHKbHZJYe0ofLif) | [Shanaia Gomez](https://open.spotify.com/artist/5EtZxgXZdFjFu0ZdkAn6TV) | [Tried To Tell You](https://open.spotify.com/album/2Yq277XVKUVRHTEBEHg8Mn) | 3:50 |
 | 113 | [$till Out$ide](https://open.spotify.com/track/50K4soCCryOZ1fH5n3hr8Q) | [Hazy Jay](https://open.spotify.com/artist/4Nt59ZEnPWSF0y8Hn7JoSi) | [$till Out$ide](https://open.spotify.com/album/3FrEWl6HZWzLn5tX19rg78) | 2:45 |
 
-Snapshot ID: `aCYPiwAAAADWtlCiKN8BNaXEAdbDV35m`
+Snapshot ID: `aCqyNQAAAADKACx4Wnolihx8aI3r0SL8`

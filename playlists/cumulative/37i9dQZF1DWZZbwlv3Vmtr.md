@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,029 songs - 1 day 15 hr 52 min
+1,031 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [BeeBee](https://open.spotify.com/track/1APRMRY3p7oIrTXyz8bPlL) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [AH!](https://open.spotify.com/album/3CJUmAUUbRelP6pnBkYMyS) | 3:12 | 2022-11-25 | 2024-03-08 |
 | [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 2:03 | 2022-04-15 | 2022-10-29 |
 | [behind the hill](https://open.spotify.com/track/4ymiPIQcRZgppsh4ocLfps) | [kenshin kai](https://open.spotify.com/artist/62UDyIYUmhoCAVbC8huIyS) | [behind the hill](https://open.spotify.com/album/5xQO5k3msz12al8SmyxZQv) | 2:12 | 2022-04-15 | 2025-05-04 |
+| [benchside](https://open.spotify.com/track/1O2SCulKc5Yf6yKJwkz2oV) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [benchside](https://open.spotify.com/album/3NrrgGz64V2xLxJyuICCGX) | 2:10 | 2025-05-16 |  |
 | [Between The Lines](https://open.spotify.com/track/0xu4nHvp3S4wVFc685Z9EY) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Between The Lines](https://open.spotify.com/album/6cG45DQCdR1QBumoTWSkDf) | 2:02 | 2022-04-15 | 2023-07-20 |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-04-15 | 2022-07-08 |
 | [Beyond the Wall](https://open.spotify.com/track/6QmeLL9H7bxKFXLMgC9Ahq) | [broom closets](https://open.spotify.com/artist/3kHiM40W851Qz0Jen3lx68) | [Beyond the Wall](https://open.spotify.com/album/6o4txGwPNZb9OK54sEeOh8) | 2:05 | 2022-04-15 | 2024-06-29 |
@@ -295,7 +296,7 @@
 | [Forever](https://open.spotify.com/track/7mgyF0MVvFzvWhrGlR3YUn) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/1LM5SvKdVqLsFa1T3di8x2) | 1:58 | 2022-11-11 | 2023-11-17 |
 | [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 |  |
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
-| [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
+| [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 | 2025-05-20 |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-15 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
@@ -437,7 +438,7 @@
 | [Kickflip](https://open.spotify.com/track/30Viqy8zblL4VuZLSFaEGL) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Kickflip](https://open.spotify.com/album/7lD2UGzFinJkFF7IpS3Vjl) | 1:50 | 2022-12-09 | 2023-10-06 |
 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-15 | 2022-05-27 |
 | [Knox U](https://open.spotify.com/track/4STt3ABfGPhaT0OhKRKanc) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Knox U](https://open.spotify.com/album/2OIOLhlLiMhZM0YHnTfTpy) | 2:40 | 2022-04-15 |  |
-| [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2022-11-11 |  |
+| [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2022-11-11 | 2025-05-20 |
 | [koko](https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [koko](https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ) | 2:29 | 2024-10-25 |  |
 | [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-01-13 | 2025-05-11 |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-15 | 2022-06-25 |
@@ -940,6 +941,7 @@
 | [Troddin](https://open.spotify.com/track/3Oa0UO0zfKhdxNcHmLrHkO) | [LoFinga](https://open.spotify.com/artist/2KZlWqMCvoXIGnLKjfS3jz), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Troddin](https://open.spotify.com/album/5qoDrb9kFVsXYJNoWwi4Se) | 2:30 | 2022-05-13 | 2023-11-17 |
 | [Tropical Getaway](https://open.spotify.com/track/2P2viSJbMTHTapFmk7sAfb) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/7mTl9iwpIv9dov6F9YU440) | 2:36 | 2022-10-14 | 2022-11-06 |
 | [Tropical Getaway](https://open.spotify.com/track/3ZLsiAI1wMmG5FEtJ8yjwl) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/0s9K9GMT5Sk6tdKUTYoDCS) | 2:36 | 2022-10-28 | 2023-10-20 |
+| [true story](https://open.spotify.com/track/3jXAxzSWwe9p7Su33zbKUO) | [zoemoon.](https://open.spotify.com/artist/4p3SsPKnaomOEyJ42L21Yd) | [true story](https://open.spotify.com/album/2WqNuu9YdJAqUwxbYE92D6) | 2:08 | 2025-05-16 |  |
 | [Try Again](https://open.spotify.com/track/7wrXYrhwg4MfjowXE87GsW) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 2:42 | 2022-04-15 | 2022-05-20 |
 | [tubulars](https://open.spotify.com/track/2FDXqN9DvsbafzQjp0e32T) | [rob aspen](https://open.spotify.com/artist/51acBWR9xEgFguEAEj3jqV) | [tubulars](https://open.spotify.com/album/43cQfbyKgAQ6wNLs45gPcr) | 1:50 | 2022-04-15 | 2022-05-27 |
 | [turkish coffee](https://open.spotify.com/track/0wx7syOwfp8llgB9GtDZKm) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Fnatic Island Vol\. 1](https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO) | 2:03 | 2022-11-11 |  |

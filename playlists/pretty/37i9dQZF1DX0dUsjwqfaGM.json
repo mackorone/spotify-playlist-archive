@@ -1,6 +1,6 @@
 {
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: \u00c1nh S\u00e1ng AZA",
-  "num_followers": 3016,
+  "num_followers": 3015,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-05-15 13:30:35",
       "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 222593,
-      "name": "Th\u00e0nh ph\u1ed1 ph\u00eda \u0110\u00f4ng",
-      "url": "https://open.spotify.com/track/23v3rSWUt4YqbyH8BHoYWs"
-    },
-    {
-      "added_at": "2025-05-15 13:30:35",
-      "album": {
         "name": "t\u00e2m tr\u00ed lang thang",
         "url": "https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 237931,
       "name": "t\u00e2m tr\u00ed lang thang",
       "url": "https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG"
+    },
+    {
+      "added_at": "2025-05-15 13:30:35",
+      "album": {
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 222593,
+      "name": "Th\u00e0nh ph\u1ed1 ph\u00eda \u0110\u00f4ng",
+      "url": "https://open.spotify.com/track/23v3rSWUt4YqbyH8BHoYWs"
     },
     {
       "added_at": "2025-05-15 13:30:35",
@@ -219,22 +219,18 @@
     {
       "added_at": "2025-05-15 13:30:35",
       "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+        "name": "AZA",
+        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
       },
       "artists": [
         {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        },
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+          "name": "\u00c1nh S\u00e1ng AZA",
+          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
         }
       ],
-      "duration_ms": 178952,
-      "name": "Cho ph\u00e9p t\u00f4i m\u1eddi anh m\u1ed9t ly",
-      "url": "https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA"
+      "duration_ms": 209523,
+      "name": "USO",
+      "url": "https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7"
     },
     {
       "added_at": "2025-05-15 13:30:35",
@@ -255,18 +251,22 @@
     {
       "added_at": "2025-05-15 13:30:35",
       "album": {
-        "name": "AZA",
-        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
       },
       "artists": [
         {
-          "name": "\u00c1nh S\u00e1ng AZA",
-          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         }
       ],
-      "duration_ms": 209523,
-      "name": "USO",
-      "url": "https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7"
+      "duration_ms": 178952,
+      "name": "Cho ph\u00e9p t\u00f4i m\u1eddi anh m\u1ed9t ly",
+      "url": "https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA"
     },
     {
       "added_at": "2025-05-15 13:30:35",
@@ -831,6 +831,26 @@
     {
       "added_at": "2025-05-15 13:30:35",
       "album": {
+        "name": "ON MY WAY",
+        "url": "https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw"
+      },
+      "artists": [
+        {
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        },
+        {
+          "name": "M NAIVE",
+          "url": "https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "ON MY WAY",
+      "url": "https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT"
+    },
+    {
+      "added_at": "2025-05-15 13:30:35",
+      "album": {
         "name": "U Can Call Me (feat. TINLE)",
         "url": "https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 185515,
       "name": "B\u1ea1ch Nguy\u1ec7t Quang",
       "url": "https://open.spotify.com/track/5eR0WC8y4VLeRQouyV0tIW"
-    },
-    {
-      "added_at": "2025-05-15 13:30:35",
-      "album": {
-        "name": "ON MY WAY",
-        "url": "https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw"
-      },
-      "artists": [
-        {
-          "name": "GUrbane",
-          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
-        },
-        {
-          "name": "M NAIVE",
-          "url": "https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "ON MY WAY",
-      "url": "https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT"
     },
     {
       "added_at": "2025-05-15 13:30:35",

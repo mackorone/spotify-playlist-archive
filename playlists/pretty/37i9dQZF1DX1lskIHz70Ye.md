@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,258 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,272 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 3 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
 | 4 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 |
 | 5 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
-| 6 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
-| 7 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 |
+| 6 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 |
+| 7 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
 | 8 | [Peacemaker](https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Peacemaker](https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV) | 2:57 |
-| 9 | [Antiques](https://open.spotify.com/track/5Ma7R5NkweVB9H39IfxVjm) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Antiques](https://open.spotify.com/album/47Y0BDt1BR8iuRLwBiOfzG) | 3:16 |
-| 10 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
-| 11 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
+| 9 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
+| 10 | [Antiques](https://open.spotify.com/track/5Ma7R5NkweVB9H39IfxVjm) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Antiques](https://open.spotify.com/album/47Y0BDt1BR8iuRLwBiOfzG) | 3:16 |
+| 11 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
 | 12 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
 | 13 | [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 |
 | 14 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 80 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 |
 | 81 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
 
-Snapshot ID: `aCMQ8gAAAABGDHd1x9ACFSHthhACRZlr`
+Snapshot ID: `aCtU3AAAAAAr3UiGrMcFDFmfE5XxUOjk`

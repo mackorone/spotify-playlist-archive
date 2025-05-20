@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover: Gaidaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,350 likes - 132 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,368 likes - 132 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Maria Becerra & Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,585 likes - 160 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,619 likes - 160 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

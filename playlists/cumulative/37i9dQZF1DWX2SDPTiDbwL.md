@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-115 songs - 7 hr 23 min
+116 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3, En la mar ay una torre](https://open.spotify.com/track/2rUQEZRYsBXUmWCX6Ma1Le) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/5hnPw4Ot20xORxUYTUMmLO) | 2:14 | 2024-04-05 |  |
 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 | 2023-09-01 | 2024-04-19 |
 | [Aranjuez](https://open.spotify.com/track/51rgkP5QNQ304AqCmqPW36) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Utopia](https://open.spotify.com/album/2PhxV6j84KRNIXW2YAyy51) | 4:30 | 2023-09-01 |  |
+| [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 | 2025-05-19 |  |
 | [Armadillo](https://open.spotify.com/track/36JpFEFDkvfZsaTo3iTaqK) | [Jim Stubblefield](https://open.spotify.com/artist/4Sw0O1oVtVbEuWrp87J1zr) | [Inspiracion](https://open.spotify.com/album/4saoCGtkL3Dml00VZjq2yf) | 3:05 | 2023-09-01 |  |
 | [Armando's Market](https://open.spotify.com/track/5UPAXt1seYfboXQnCtfmp9) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Allegro](https://open.spotify.com/album/3fyihTZwvK90KJfDrt0OlF) | 4:25 | 2023-09-01 |  |
 | [Armonía](https://open.spotify.com/track/270JY1ly4zCgF7xuJPXCUC) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:07 | 2023-09-01 | 2024-04-19 |

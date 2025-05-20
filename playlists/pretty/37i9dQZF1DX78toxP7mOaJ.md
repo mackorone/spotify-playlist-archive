@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock & alternative from independent artists every Wednesday\. Cover: xiao xiao
+> Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,244 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,225 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [It Will Get Worse](https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [It Will Get Worse](https://open.spotify.com/album/6ydter6esbJmAV73fIR8sD) | 2:53 |
 | 100 | [All in My Head](https://open.spotify.com/track/1SSmqeUuvwT3oFUn47PTtd) | [Over Under](https://open.spotify.com/artist/1eTNgJMyODOGBZpcDsWXwe) | [All in My Head](https://open.spotify.com/album/1RYxv8zz8Gy2IN6Riwm9Si) | 3:05 |
 
-Snapshot ID: `aCQVWgAAAAAVsjHBFMKymBNaxgqWIcD7`
+Snapshot ID: `aCt1NwAAAAB5DAAjn7uN4iKzq2EyS6dk`

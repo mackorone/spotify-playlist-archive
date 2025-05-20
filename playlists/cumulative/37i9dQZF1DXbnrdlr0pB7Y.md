@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-115 songs - 5 hr 53 min
+116 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anita](https://open.spotify.com/track/2bFCZbUVSciR3EYIhx3phY) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:06 | 2023-12-15 |  |
 | [Apaixonar](https://open.spotify.com/track/5Ib0qJa6M6DXzjwbZB7CKo) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Apaixonar](https://open.spotify.com/album/03axOJ5rnB6C91PKcnLyWA) | 2:18 | 2023-12-15 |  |
 | [Arequipa](https://open.spotify.com/track/4mFUWVQGq8nwxxJGI0vnry) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Arequipa](https://open.spotify.com/album/03Ih2VbB5wtxXGRKfga0QE) | 2:31 | 2024-07-18 | 2024-07-30 |
+| [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 | 2025-05-19 |  |
 | [Bajo El Mismo Cielo](https://open.spotify.com/track/6hluJpykHbHa8hJgRmeXvl) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Bajo El Mismo Cielo](https://open.spotify.com/album/0yCZPuSsHsDR7i9PIwKiJn) | 2:10 | 2024-07-18 | 2024-07-30 |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2023-12-15 |  |
 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 | 2023-12-15 |  |

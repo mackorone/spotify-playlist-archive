@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,007,782 likes - 246 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,010,993 likes - 246 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gentle Breeze](https://open.spotify.com/track/06SiO72LbLmswjSfIAvv2u) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Gentle Breeze](https://open.spotify.com/album/6RKESqDqgHpOD7CYFvm9e4) | 2:32 |
-| 2 | [Stellato](https://open.spotify.com/track/721zBWLOEm3JBH9NBzKYun) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Stellato](https://open.spotify.com/album/1mErN17rW1lahhfIZZNWHc) | 2:25 |
-| 3 | [Contemplation](https://open.spotify.com/track/0TCfCt0mpEBjwc5QPu1NJD) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Contemplation](https://open.spotify.com/album/1OXWerQvvKN5ZqmKlpCPXN) | 2:52 |
-| 4 | [Veille\-sommeil](https://open.spotify.com/track/2PrMG5oidZr7m7Ay0kKU7X) | [Aunne](https://open.spotify.com/artist/3jfNU0jKzzDazZOxMU8wXc) | [Veille\-sommeil](https://open.spotify.com/album/4qRRcFAh3qNFCxzGyFDck9) | 2:30 |
-| 5 | [Silver Shadow](https://open.spotify.com/track/4NkoscxEk5YNjX0tyIjFi0) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Silver Shadow](https://open.spotify.com/album/0rbIcwpWK5pBK4epofQEH7) | 2:41 |
-| 6 | [Morning Meditation](https://open.spotify.com/track/1wsHIWc5negUXcEJ7Uiom3) | [Willian Mcgrow](https://open.spotify.com/artist/4K2nKDCPEtBoPLVPC3j2tT) | [Morning Meditation](https://open.spotify.com/album/6JsqydIIPrsyhiz7QX1opW) | 2:31 |
-| 7 | [Solitaire](https://open.spotify.com/track/1cX4n0rto2WCQilz6dlPke) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Solitaire](https://open.spotify.com/album/5RlTOPhCNBnnPmps3A8WIg) | 2:25 |
-| 8 | [Libra](https://open.spotify.com/track/1bw407cZ1vYRTA2dOxbI6P) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Libra](https://open.spotify.com/album/1CSqAzeW67iYRwvWEtn8f9) | 2:47 |
-| 9 | [Aftermath](https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [Aftermath](https://open.spotify.com/album/53tixewrtqDSq5qlHCZYCG) | 2:34 |
-| 10 | [Floran](https://open.spotify.com/track/25XtFPJw8TvUIoTG9WrcCX) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Floran](https://open.spotify.com/album/6eCg30mt3levi3ENA9BeBN) | 2:08 |
-| 11 | [Strands](https://open.spotify.com/track/4wy9zHLsUrAjKxDuHJXC3g) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Strands](https://open.spotify.com/album/35yrajalPiDCu4MVS2B3px) | 2:52 |
-| 12 | [Restful Ease](https://open.spotify.com/track/2h31m60oGwh8ivc90435Sv) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Restful Ease](https://open.spotify.com/album/7uf0kuVQiwA5voLUxHSUZH) | 2:54 |
-| 13 | [Ascendant](https://open.spotify.com/track/6Di72er06ZXHWWJBX5YiRE) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Ascendant](https://open.spotify.com/album/4AEh2VTcwWWO7qccXCXTA0) | 2:32 |
-| 14 | [Pathways](https://open.spotify.com/track/1lv9Nq4FHQmqJUn6Zx4kZn) | [Quiescent State](https://open.spotify.com/artist/7kDDYKZcymPZjsZPFflsuJ) | [Pathways](https://open.spotify.com/album/3CDI17mN6Q22UOmMiKxtv6) | 3:00 |
-| 15 | [Auburn Dreams](https://open.spotify.com/track/05nO4ezwPTgT2lER2inrDm) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Auburn Dreams](https://open.spotify.com/album/2rzJHWB3B5cYRQR2E9r24x) | 2:47 |
-| 16 | [Serendipity](https://open.spotify.com/track/02p3WZ1xuy6mUvduB0uWxJ) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Serendipity](https://open.spotify.com/album/1n7yXOi5YBPsWcdGeJYn3i) | 3:18 |
-| 17 | [Misty Daydreams](https://open.spotify.com/track/3YkKb4NZ1117eyqxwcOwNo) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Misty Daydreams](https://open.spotify.com/album/0HXUyMxvykmkzwL5m2W2EJ) | 2:18 |
-| 18 | [Indelible memories](https://open.spotify.com/track/2mbtFsiulvUpsYhjlAEC7F) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Indelible memories](https://open.spotify.com/album/0G5WbyloIlVWCAHCEJ6OcT) | 2:57 |
-| 19 | [Sea Whispers](https://open.spotify.com/track/3oSH4255HrKKOJOA8k0H6G) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Sea Whispers](https://open.spotify.com/album/32ioZkFFp2rCAmUqCsV29m) | 2:43 |
-| 20 | [Moonbeams](https://open.spotify.com/track/3aCa4sP97l2ZJ3mNLzvjbK) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Moonbeams](https://open.spotify.com/album/5jenJhaLXMBFCAJhxQ6vPW) | 3:24 |
-| 21 | [Aurora](https://open.spotify.com/track/6S1vnOTF3PTClJyPKPrFX2) | [Florian Porterfield](https://open.spotify.com/artist/0ck4CEetTquq0U1qFIlIEV) | [Aurora](https://open.spotify.com/album/68yss0U1CTiEAlWmwb8eOJ) | 2:49 |
+| 1 | [Aurora](https://open.spotify.com/track/6S1vnOTF3PTClJyPKPrFX2) | [Florian Porterfield](https://open.spotify.com/artist/0ck4CEetTquq0U1qFIlIEV) | [Aurora](https://open.spotify.com/album/68yss0U1CTiEAlWmwb8eOJ) | 2:49 |
+| 2 | [Gentle Breeze](https://open.spotify.com/track/06SiO72LbLmswjSfIAvv2u) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Gentle Breeze](https://open.spotify.com/album/6RKESqDqgHpOD7CYFvm9e4) | 2:32 |
+| 3 | [Stellato](https://open.spotify.com/track/721zBWLOEm3JBH9NBzKYun) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Stellato](https://open.spotify.com/album/1mErN17rW1lahhfIZZNWHc) | 2:25 |
+| 4 | [Contemplation](https://open.spotify.com/track/0TCfCt0mpEBjwc5QPu1NJD) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Contemplation](https://open.spotify.com/album/1OXWerQvvKN5ZqmKlpCPXN) | 2:52 |
+| 5 | [Veille\-sommeil](https://open.spotify.com/track/2PrMG5oidZr7m7Ay0kKU7X) | [Aunne](https://open.spotify.com/artist/3jfNU0jKzzDazZOxMU8wXc) | [Veille\-sommeil](https://open.spotify.com/album/4qRRcFAh3qNFCxzGyFDck9) | 2:30 |
+| 6 | [Silver Shadow](https://open.spotify.com/track/4NkoscxEk5YNjX0tyIjFi0) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Silver Shadow](https://open.spotify.com/album/0rbIcwpWK5pBK4epofQEH7) | 2:41 |
+| 7 | [Morning Meditation](https://open.spotify.com/track/1wsHIWc5negUXcEJ7Uiom3) | [Willian Mcgrow](https://open.spotify.com/artist/4K2nKDCPEtBoPLVPC3j2tT) | [Morning Meditation](https://open.spotify.com/album/6JsqydIIPrsyhiz7QX1opW) | 2:31 |
+| 8 | [Restful Ease](https://open.spotify.com/track/2h31m60oGwh8ivc90435Sv) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Restful Ease](https://open.spotify.com/album/7uf0kuVQiwA5voLUxHSUZH) | 2:54 |
+| 9 | [Solitaire](https://open.spotify.com/track/1cX4n0rto2WCQilz6dlPke) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Solitaire](https://open.spotify.com/album/5RlTOPhCNBnnPmps3A8WIg) | 2:25 |
+| 10 | [Libra](https://open.spotify.com/track/1bw407cZ1vYRTA2dOxbI6P) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Libra](https://open.spotify.com/album/1CSqAzeW67iYRwvWEtn8f9) | 2:47 |
+| 11 | [Aftermath](https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [Aftermath](https://open.spotify.com/album/53tixewrtqDSq5qlHCZYCG) | 2:34 |
+| 12 | [Floran](https://open.spotify.com/track/25XtFPJw8TvUIoTG9WrcCX) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Floran](https://open.spotify.com/album/6eCg30mt3levi3ENA9BeBN) | 2:08 |
+| 13 | [Strands](https://open.spotify.com/track/4wy9zHLsUrAjKxDuHJXC3g) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Strands](https://open.spotify.com/album/35yrajalPiDCu4MVS2B3px) | 2:52 |
+| 14 | [Auburn Dreams](https://open.spotify.com/track/05nO4ezwPTgT2lER2inrDm) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Auburn Dreams](https://open.spotify.com/album/2rzJHWB3B5cYRQR2E9r24x) | 2:47 |
+| 15 | [Ascendant](https://open.spotify.com/track/6Di72er06ZXHWWJBX5YiRE) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Ascendant](https://open.spotify.com/album/4AEh2VTcwWWO7qccXCXTA0) | 2:32 |
+| 16 | [Pathways](https://open.spotify.com/track/1lv9Nq4FHQmqJUn6Zx4kZn) | [Quiescent State](https://open.spotify.com/artist/7kDDYKZcymPZjsZPFflsuJ) | [Pathways](https://open.spotify.com/album/3CDI17mN6Q22UOmMiKxtv6) | 3:00 |
+| 17 | [Serendipity](https://open.spotify.com/track/02p3WZ1xuy6mUvduB0uWxJ) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Serendipity](https://open.spotify.com/album/1n7yXOi5YBPsWcdGeJYn3i) | 3:18 |
+| 18 | [Misty Daydreams](https://open.spotify.com/track/3YkKb4NZ1117eyqxwcOwNo) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Misty Daydreams](https://open.spotify.com/album/0HXUyMxvykmkzwL5m2W2EJ) | 2:18 |
+| 19 | [Indelible memories](https://open.spotify.com/track/2mbtFsiulvUpsYhjlAEC7F) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Indelible memories](https://open.spotify.com/album/0G5WbyloIlVWCAHCEJ6OcT) | 2:57 |
+| 20 | [Sea Whispers](https://open.spotify.com/track/3oSH4255HrKKOJOA8k0H6G) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Sea Whispers](https://open.spotify.com/album/32ioZkFFp2rCAmUqCsV29m) | 2:43 |
+| 21 | [Moonbeams](https://open.spotify.com/track/3aCa4sP97l2ZJ3mNLzvjbK) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Moonbeams](https://open.spotify.com/album/5jenJhaLXMBFCAJhxQ6vPW) | 3:24 |
 | 22 | [Lacquer](https://open.spotify.com/track/3GZGRv578sQ6ekJvZJV3V5) | [Holzer](https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy) | [Lacquer](https://open.spotify.com/album/7CmalDEdbq4rmzSh5Zvf3f) | 3:05 |
 | 23 | [Pastel](https://open.spotify.com/track/28S9nPXe5CHoore3WVs6mR) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Pastel](https://open.spotify.com/album/4SkDV7qzvsWQHYdJV4N9Wb) | 2:18 |
 | 24 | [The Shape of Us](https://open.spotify.com/track/5ybpe4Bu6QJHgzUNbIzkPJ) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [The Shape of Us](https://open.spotify.com/album/3oU4a8IN6hvTScEWGiKMZp) | 2:57 |
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 245 | [Borealis Dance](https://open.spotify.com/track/07epRPpNzsmF4v83FRM5pW) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Borealis Dance](https://open.spotify.com/album/28uzaAcwabOGIPLFuOeBup) | 2:58 |
 | 246 | [Cantus Serenus](https://open.spotify.com/track/2ZDghOcBlT8i8kma1eubl8) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Cantus Serenus](https://open.spotify.com/album/0VCtLIJZJjnlJiYQOGR3T0) | 3:14 |
 
-Snapshot ID: `aCSXWgAAAAA//iPiPmrDMLsuIx+Eze2K`
+Snapshot ID: `aCstbQAAAABWIwV24lzlKYZm/CnVaTKP`

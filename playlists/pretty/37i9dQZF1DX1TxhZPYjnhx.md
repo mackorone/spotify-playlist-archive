@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,587 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,585 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 75 | [take cover!](https://open.spotify.com/track/2cKhEB4vaUu70ZHmoEIpQx) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [take cover!](https://open.spotify.com/album/3gNRNAzdwAK5kvYdrShpgm) | 1:55 |
 | 76 | [Utopia Reimagined: Let Go](https://open.spotify.com/track/5tsBBGOm4Wwhl2DAEQzTUY) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Utopia Reimagined: Let Go](https://open.spotify.com/album/6S78tYqOwVqdpGgJeTtZHq) | 3:25 |
 | 77 | [spelling bee](https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/1AFQW8SO3gppdkZC8XPxP8) | 3:04 |
-| 78 | [i’ll have a good life darling, but it won’t be with you.](https://open.spotify.com/track/1OUr12AxnPCO9dMDrPUzSk) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [if i could stop the time, \(may 2024\-may 2025\)](https://open.spotify.com/album/24GiMxV1o2xyt5MXPrqjsh) | 3:46 |
+| 78 | [i’ll have a good life darling, but it won’t be with you.](https://open.spotify.com/track/1OUr12AxnPCO9dMDrPUzSk) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [if i could just stop the time, \(may 2024\-may 2025\)](https://open.spotify.com/album/24GiMxV1o2xyt5MXPrqjsh) | 3:46 |
 | 79 | [Looking Back](https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Looking Back](https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h) | 3:55 |
 | 80 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 81 | [Tired](https://open.spotify.com/track/1D3B2JlVierm8SoKsSxQ8s) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Tired](https://open.spotify.com/album/5rA3SyvNJjX4R2GUF6OWdX) | 2:41 |

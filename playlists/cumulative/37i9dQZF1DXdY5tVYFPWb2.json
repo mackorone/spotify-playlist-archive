@@ -3665,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Blessings of the Sun",
+        "url": "https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e"
+      },
+      "artists": [
+        {
+          "name": "\u70cf\u514e -uto-",
+          "url": "https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281257,
+      "name": "Goes On",
+      "url": "https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja"
+    },
+    {
+      "album": {
         "name": "Next Destination",
         "url": "https://open.spotify.com/album/4iczsnS9GVykkEwh5LpufO"
       },
@@ -6114,7 +6132,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 192115,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"

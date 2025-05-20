@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-231 songs - 11 hr 53 min
+232 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 | 2024-06-07 |  |
 | [Hero](https://open.spotify.com/track/08EDi0A3IRyNO6gQqTeHiG) | [Evermore](https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ) | [Follow The Sun](https://open.spotify.com/album/5m2vLCSE7zvvuMHKJwjSx5) | 4:01 | 2024-06-07 |  |
 | [Hers](https://open.spotify.com/track/2ZUlMGnl6yzd0JVepz9w7N) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:53 | 2024-06-07 |  |
-| [History Repeats](https://open.spotify.com/track/0ucLZT4jED0aWgnIAiRbvn) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/6ohj3dFAJb2R2HlEwQPtjH) | 3:46 | 2024-06-07 |  |
+| [History Repeats](https://open.spotify.com/track/0ucLZT4jED0aWgnIAiRbvn) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/6ohj3dFAJb2R2HlEwQPtjH) | 3:46 | 2024-06-07 | 2025-05-20 |
+| [History Repeats](https://open.spotify.com/track/7dFsoGLprht6qoV6Y2Gnxr) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/3Ysi1w1iJIABWUiIachiNv) | 3:46 | 2025-05-19 |  |
 | [hole in the bottle](https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:35 | 2024-06-07 |  |
 | [I Eat Boys](https://open.spotify.com/track/2DdBoqYiuaGWIHwSkiY3VR) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:42 | 2024-06-07 |  |
 | [I Feel Like Dancing](https://open.spotify.com/track/3d2J1W0Msqt6z0TkF0ywLk) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:38 | 2024-06-07 |  |

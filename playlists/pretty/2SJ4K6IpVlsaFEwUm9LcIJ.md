@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,021 likes - 18 songs - 1 hr 9 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,025 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 16 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 17 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 |
 | 18 | [When You Love Someone](https://open.spotify.com/track/37LXvMkc6YhGGEoTQn6CHi) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 7:11 |
+| 19 | [Rocket Pad](https://open.spotify.com/track/52nZnaomb0Vavol25LLI77) | [The Apples In Stereo](https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP) | [Science Faire](https://open.spotify.com/album/7I7KK97MsFovIsNBGixCbm) | 3:09 |
+| 20 | [I'm Really Flagging \(or I Trusted U\)](https://open.spotify.com/track/52RQcaMJ3DdN3Uyfs4a19r) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Ben Vince](https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV) | [Belly Up](https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa) | 3:02 |
+| 21 | [ber3ft](https://open.spotify.com/track/5HiL7kT2F6vtzGuBEhxrQc) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0) | [ber3ft](https://open.spotify.com/album/4Vls2ltBHw9qeDJzap7xCs) | 1:37 |
+| 22 | [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 |
 
-Snapshot ID: `AAAMbrvlZQBnmDy8vUSg1s9QH42mBDKE`
+Snapshot ID: `AAAMdJFUKKD/fa/Ss1EjcUGF4KXZtv4U`

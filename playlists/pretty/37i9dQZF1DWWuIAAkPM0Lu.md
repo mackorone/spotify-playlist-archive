@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag, og ny musik fra MØ, Volbeat, Pil og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,256 likes - 109 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,266 likes - 109 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 5 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 |
 | 6 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 |
 | 7 | [Dooh](https://open.spotify.com/track/4EK8xKRJqpLgBLyLq9Rxat) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d), [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI), [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Ny Nostalgi](https://open.spotify.com/album/6ArTHkVx7bso7dixY2gda0) | 2:33 |
-| 8 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Carrie Keller](https://open.spotify.com/artist/2Rl5lh15RzvEg0eEzfhzJQ) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
+| 8 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
 | 9 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 10 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 |
 | 11 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 |

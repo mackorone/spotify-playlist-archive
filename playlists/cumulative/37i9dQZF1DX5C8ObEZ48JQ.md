@@ -4,7 +4,7 @@
 
 > The best new independent African artists\.  Cover:  <a href="https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP?si=CErSKGvTR\_mgnktBgLJAWA">Babble Hume</a>\. Artwork: Isu Kim.
 
-1,306 songs - 2 day 17 hr 22 min
+1,307 songs - 2 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Burn 4 U Remix \(feat\. Langa Mavuso\)](https://open.spotify.com/track/7h93lz8qZ17NwXs7cwj2tx) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [The Other Side \(Deluxe\)](https://open.spotify.com/album/14OOdWpb5n0hieJVjYvkOK) | 4:40 | 2024-04-03 | 2024-05-02 |
 | [Burning Alive](https://open.spotify.com/track/29XEPxiXlZGqMmz1In5vfZ) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Burning Alive](https://open.spotify.com/album/145DDg7Xly3ptDqXGCODEz) | 2:30 | 2022-09-02 | 2022-10-01 |
 | [Burst My Brain \(BMB\)](https://open.spotify.com/track/2JIGmaJbJ8GPXAsFs2EcBc) | [Timi Martins](https://open.spotify.com/artist/0eQrfPUjzTCTeDfZ7dca4I) | [Burst My Brain \(BMB\)](https://open.spotify.com/album/4E0RABL9yWzbDn0aHAx9Aj) | 2:20 | 2023-02-22 | 2023-03-30 |
+| [Buya](https://open.spotify.com/track/4TyDCqlFCpCiWbLc5ZjdiK) | [UGugu Ndlovu](https://open.spotify.com/artist/0MlUbBL1AYtFNaO724Mky4), [P K A](https://open.spotify.com/artist/4r2MSMvLJind3ACX1b6aPC) | [Buya](https://open.spotify.com/album/4Ug7iG1CtaLtK1w2TTpF8X) | 3:18 | 2025-05-19 |  |
 | [Buya Embo](https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf) | [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Buya Embo](https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV) | 2:50 | 2023-06-05 | 2023-06-28 |
 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 | 2024-06-04 | 2024-07-03 |
 | [Call me](https://open.spotify.com/track/1QKDgsgXpsHJTERipVT6QM) | [Becky Sangolo](https://open.spotify.com/artist/52kS7lROR8LPVR3QerVMpx) | [Call Me](https://open.spotify.com/album/5LosDjiqVD7TyLQRhJ5GIY) | 2:18 | 2024-10-04 | 2024-11-07 |

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-616 songs - 1 day 16 hr 52 min
+617 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Break of Dawn](https://open.spotify.com/track/4kDVpUSD89ekHthAEAoxaI) | [Bruut 99](https://open.spotify.com/artist/3UidWDUg2sJXEC082bnbHc) | [Break Of Dawn](https://open.spotify.com/album/1dUtenrYFrFy1VBjn2dvxM) | 2:52 | 2025-03-20 |  |
 | [Bring It](https://open.spotify.com/track/08TT6T9qJ90dg1XffEGG8d) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Renato S](https://open.spotify.com/artist/2M9nsWRUhhvYvfZmOYgTwZ) | [Bring It](https://open.spotify.com/album/5wLprLYTiAT0n8mkt76Shp) | 2:06 | 2022-04-14 | 2022-07-29 |
 | [Bring The Heat](https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Bring The Heat](https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK) | 2:37 | 2023-05-25 | 2024-09-13 |
+| [Bumaye](https://open.spotify.com/track/6S3rsvPKi3Ott975IiX6uM) | [Harvee](https://open.spotify.com/artist/1FLgCYPTBcH24x0uoSyGj0) | [Funky Pills EP](https://open.spotify.com/album/0jecp2tQw667mrgK0ikhIV) | 3:34 | 2025-05-19 |  |
 | [Bummer Paradise](https://open.spotify.com/track/5qw3cMMFW1RQnUJgrlnJ6w) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [H2O](https://open.spotify.com/album/3NnIy6ztlNs1iSoRFOCEH2) | 4:51 | 2024-03-14 | 2024-04-10 |
 | [Burnin' Up](https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Burnin' Up](https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM) | 2:38 | 2023-07-14 | 2024-09-13 |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2022-04-14 | 2024-03-01 |
@@ -300,7 +301,7 @@
 | [Jumpin'](https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Jumpin'](https://open.spotify.com/album/0HkIYDIdHJCSQYl8xJeZlu) | 2:35 | 2022-04-14 | 2023-11-06 |
 | [Jumpin' \- Wh0 Remix](https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Jumpin' \(Wh0 Remix\)](https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P) | 2:59 | 2022-09-19 | 2024-08-31 |
 | [Jungle Trip \- Edit](https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:41 | 2022-05-05 | 2023-10-07 |
-| [Just Keep On \- Edit](https://open.spotify.com/track/6Z4HZLJok0U4gc6zDTcdUr) | [Mirko & Meex](https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1) | [Just Keep On \(Edit\)](https://open.spotify.com/album/149eKsEz1fCCAV0VJBmh9X) | 3:15 | 2024-09-12 |  |
+| [Just Keep On \- Edit](https://open.spotify.com/track/6Z4HZLJok0U4gc6zDTcdUr) | [Mirko & Meex](https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1) | [Just Keep On \(Edit\)](https://open.spotify.com/album/149eKsEz1fCCAV0VJBmh9X) | 3:15 | 2024-09-12 | 2025-05-20 |
 | [Just Stay The Night](https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Just Stay The Night](https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC) | 3:12 | 2025-03-20 |  |
 | [Just Us \- Radio Edit](https://open.spotify.com/track/63GyZaNNNigHM47t7eaGzA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0sRdvqJBu6iFNtwaW7ORIk) | 3:35 | 2022-04-14 | 2022-07-29 |
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-12-03 |  |

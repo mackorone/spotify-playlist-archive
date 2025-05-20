@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Jamie McDonald
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,557 likes - 74 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,590 likes - 74 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 14 | [Sold](https://open.spotify.com/track/6SvOaMxOZGqSt9qjnZPlo7) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [I Miss You](https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv) | 2:44 |
 | 15 | [My Cry](https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm) | [Auraè](https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM) | [My Cry](https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL) | 3:20 |
 | 16 | [Don't Look Back](https://open.spotify.com/track/4hmnJthluGArwABUPB3y0h) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [Healing Era](https://open.spotify.com/album/22ZxohN6gpVLLbSmLgnrLf) | 1:58 |
-| 17 | [Believe In Jesus](https://open.spotify.com/track/5RfgNwME6tabAIZoGYmE1N) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [DOE](https://open.spotify.com/artist/1JzASUWJ9y5iyEWnhraQyH) | [Believe In Jesus](https://open.spotify.com/album/5alY3owcfE9O76JLK8tXZ9) | 2:58 |
+| 17 | [Believe In Jesus](https://open.spotify.com/track/5RfgNwME6tabAIZoGYmE1N) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Believe In Jesus](https://open.spotify.com/album/5alY3owcfE9O76JLK8tXZ9) | 2:58 |
 | 18 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sparrøw](https://open.spotify.com/artist/3ffS9GLH3Amh8S5UHFnpwn) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 |
 | 19 | [Shepherd](https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Shepherd](https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD) | 2:15 |
 | 20 | [Never](https://open.spotify.com/track/2W8kyKAU55gILytez9HLBA) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Never](https://open.spotify.com/album/6if6baS5jKWHQs7OmmmrxH) | 2:38 |

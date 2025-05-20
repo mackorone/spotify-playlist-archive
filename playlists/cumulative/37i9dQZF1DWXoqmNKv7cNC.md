@@ -4,7 +4,7 @@
 
 > ¡Mujeres mexicanas a todo volumen! Yeri Mua en portada 💚
 
-1,362 songs - 3 day 2 hr 19 min
+1,363 songs - 3 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,7 +788,7 @@
 | [Mismo Amor](https://open.spotify.com/track/6X3cE3eveZi7VGpvZyNxZy) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/5e3dSyeSBjthMeTcNJ6VBF) | 3:18 | 2023-06-07 | 2023-07-06 |
 | [Mismo Amor](https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:18 | 2023-11-29 | 2024-03-12 |
 | [Mode Blue](https://open.spotify.com/track/2WVGeyPTNjxV7b8wYX7N3v) | [Montana Regur](https://open.spotify.com/artist/4SjdzZAK4ak8ytyTyJC41d), [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M) | [Mode Blue](https://open.spotify.com/album/6wkZBISORqxk0OdKKIOxWO) | 2:23 | 2024-05-01 | 2024-06-06 |
-| [Modo Antidepresivo](https://open.spotify.com/track/56x01c0Drtlmd7e0t6G97r) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Modo Antidepresivo](https://open.spotify.com/album/1qYRyF4r6pla84M5LYJy8K) | 2:11 | 2025-05-08 |  |
+| [Modo Antidepresivo](https://open.spotify.com/track/56x01c0Drtlmd7e0t6G97r) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Modo Antidepresivo](https://open.spotify.com/album/1qYRyF4r6pla84M5LYJy8K) | 2:11 | 2025-05-08 | 2025-05-20 |
 | [Mojito](https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mojito](https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk) | 2:53 | 2022-09-07 | 2022-10-06 |
 | [MONEY](https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:14 | 2022-08-03 | 2023-01-05 |
 | [Money Lovin'](https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Money Lovin'](https://open.spotify.com/album/3qJ7wk5r8r0e3pPo5snnwL) | 2:45 | 2024-09-04 | 2024-10-03 |
@@ -796,6 +796,7 @@
 | [Moradiva](https://open.spotify.com/track/4BTVAYvVZUwNDSrB2s1Pj8) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Moradiva](https://open.spotify.com/album/0w72lmf6YBUWcZSJ42imIv) | 3:12 | 2023-06-07 | 2023-07-06 |
 | [MORE](https://open.spotify.com/track/0qyGXVhCHaHvCa7BNKlYg5) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:07 | 2024-12-04 | 2025-02-06 |
 | [Morena Mía](https://open.spotify.com/track/0khtbTGV5xIjp0Oi5ataCQ) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 4:20 | 2022-09-07 | 2022-10-06 |
+| [Morrita \(Tinker Bell\)](https://open.spotify.com/track/02Bxsp041UthLeiY1SkkTy) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [Morrita \(Tinker Bell\)](https://open.spotify.com/album/1OwFb1Mv0LHhwOGyXqdiRZ) | 2:49 | 2025-05-19 |  |
 | [Mr\. Carisma](https://open.spotify.com/track/6Xp4kUqr2npPU1ZYvyVnGW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:51 | 2022-05-04 | 2022-06-01 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 | 2024-08-07 | 2024-09-05 |
 | [Mucho](https://open.spotify.com/track/1I3d3CDrbwcCiexzWeVBkB) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Give Me Love](https://open.spotify.com/album/6rm5qg96X13AqCyFjP3Pam) | 2:07 | 2024-05-01 | 2024-06-06 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: SUPER BEAVER",
-  "num_followers": 296714,
+  "num_followers": 296724,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-05-13 15:00:19",
       "album": {
-        "name": "KiLLKiSS",
-        "url": "https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p"
-      },
-      "artists": [
-        {
-          "name": "Ave Mujica",
-          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
-        }
-      ],
-      "duration_ms": 208772,
-      "name": "KiLLKiSS",
-      "url": "https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn"
-    },
-    {
-      "added_at": "2025-05-13 15:00:19",
-      "album": {
         "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
         "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 190866,
       "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
       "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
+    },
+    {
+      "added_at": "2025-05-13 15:00:19",
+      "album": {
+        "name": "KiLLKiSS",
+        "url": "https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "duration_ms": 208772,
+      "name": "KiLLKiSS",
+      "url": "https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn"
     },
     {
       "added_at": "2025-05-13 15:00:19",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-05-13 15:00:19",
       "album": {
-        "name": "BRING YOUR BOARD!!",
-        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
+        "name": "mild days",
+        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 199826,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+      "duration_ms": 188613,
+      "name": "mild days",
+      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
     }
   ],
   "unique_name": "Big in Japan",

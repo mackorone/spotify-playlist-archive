@@ -3427,6 +3427,28 @@
     },
     {
       "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/4Ug7iG1CtaLtK1w2TTpF8X"
+      },
+      "artists": [
+        {
+          "name": "UGugu Ndlovu",
+          "url": "https://open.spotify.com/artist/0MlUbBL1AYtFNaO724Mky4"
+        },
+        {
+          "name": "P K A",
+          "url": "https://open.spotify.com/artist/4r2MSMvLJind3ACX1b6aPC"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Buya",
+      "url": "https://open.spotify.com/track/4TyDCqlFCpCiWbLc5ZjdiK"
+    },
+    {
+      "album": {
         "name": "Buya Embo",
         "url": "https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV"
       },

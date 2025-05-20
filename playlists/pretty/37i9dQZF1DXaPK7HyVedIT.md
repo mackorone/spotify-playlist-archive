@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, Future Skies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,837 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,659 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 50 | [Turn It Up](https://open.spotify.com/track/3MASY75KCPRGj58vTGiFsT) | [Mark State](https://open.spotify.com/artist/1Ownlen2OBmNYzXPruk73Q), [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Antiart](https://open.spotify.com/artist/17SD0Xzm6tdJm6mQXo4fPG) | [Turn It Up](https://open.spotify.com/album/6vOKgtKHuaa07ULkjuaFZe) | 2:03 |
 | 51 | [Don't Go Away \- Edit](https://open.spotify.com/track/7nF3iK80qv2twUtP8ITCrb) | [Mary Olivetti](https://open.spotify.com/artist/23kb4zi6EJe9OsuSSR6Gth) | [Don't Go Away](https://open.spotify.com/album/6YdHrddRxVCUOeuq80axdl) | 4:39 |
 | 52 | [STORM](https://open.spotify.com/track/5JtSFo0nU8IypydsU29Khu) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Alija](https://open.spotify.com/artist/4iGQCEqv5O2JPlcfyhkxEV), [Jesus Luz](https://open.spotify.com/artist/5SRrRUx9kNNtPhAwWSJPGr) | [STORM](https://open.spotify.com/album/66NEaEMfcGSCsb8togLiBD) | 2:30 |
-| 53 | [Burugudum](https://open.spotify.com/track/4deY3ALshu0QMAeGSCJkEo) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Victor Alc](https://open.spotify.com/artist/7EFV6WDiCud4RtQWpdvK0E) | [Burugudum](https://open.spotify.com/album/6pIEb8jLJt7EYk0x47mAOH) | 4:44 |
+| 53 | [Burugudum](https://open.spotify.com/track/4deY3ALshu0QMAeGSCJkEo) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Victor Alc](https://open.spotify.com/artist/7EFV6WDiCud4RtQWpdvK0E) | [Burugudum](https://open.spotify.com/album/6pIEb8jLJt7EYk0x47mAOH) | 3:26 |
 | 54 | [All Night](https://open.spotify.com/track/5q70NzpSB223xTobKCFOA4) | [Carol Fávero](https://open.spotify.com/artist/07C0sQMH55r5E8RqMpDlyd) | [All Night](https://open.spotify.com/album/69SKR3UdCr44Qp9IN9jLV6) | 3:34 |
 | 55 | [Brasileirinha \(GoodTimes Mix\)](https://open.spotify.com/track/0v7Wol4NzsvR6FtTrkDUGA) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L) | [Brasileirinha \(GoodTimes Mix\)](https://open.spotify.com/album/4niKshYWG6kbAni5JxsyQz) | 5:05 |
 | 56 | [Eventide](https://open.spotify.com/track/2gjvB3yJw9toGYfsdDXrFg) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Eventide](https://open.spotify.com/album/2OkJhrj1cXGzsJI0dFDOzk) | 7:00 |

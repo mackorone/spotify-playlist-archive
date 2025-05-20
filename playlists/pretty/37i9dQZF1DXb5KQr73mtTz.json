@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 18995,
+  "num_followers": 19010,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-05-19 02:40:10",
       "album": {
+        "name": "In your heart",
+        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "In your heart",
+      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
+    },
+    {
+      "added_at": "2025-05-19 02:40:10",
+      "album": {
         "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 255373,
       "name": "The Road",
       "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
-    },
-    {
-      "added_at": "2025-05-19 02:40:10",
-      "album": {
-        "name": "In your heart",
-        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
-      },
-      "artists": [
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "In your heart",
-      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
     },
     {
       "added_at": "2025-05-19 02:40:10",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-05-19 02:40:10",
       "album": {
-        "name": "Couldn't Sleep",
-        "url": "https://open.spotify.com/album/4sZn1Pnu33dotSQkLxsDbN"
-      },
-      "artists": [
-        {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Couldn't Sleep",
-      "url": "https://open.spotify.com/track/0v3sEZxO7KG6GUR9Sb7RYs"
-    },
-    {
-      "added_at": "2025-05-19 02:40:10",
-      "album": {
         "name": "STAR",
         "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 261850,
       "name": "How about you",
       "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
+    },
+    {
+      "added_at": "2025-05-19 02:40:10",
+      "album": {
+        "name": "Couldn't Sleep",
+        "url": "https://open.spotify.com/album/4sZn1Pnu33dotSQkLxsDbN"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Couldn't Sleep",
+      "url": "https://open.spotify.com/track/0v3sEZxO7KG6GUR9Sb7RYs"
     },
     {
       "added_at": "2025-05-19 02:40:10",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-05-19 02:40:10",
       "album": {
-        "name": "\uc77c\uae30",
-        "url": "https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ"
-      },
-      "artists": [
-        {
-          "name": "Park So Eun",
-          "url": "https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG"
-        }
-      ],
-      "duration_ms": 303911,
-      "name": "\uc77c\uae30",
-      "url": "https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0"
-    },
-    {
-      "added_at": "2025-05-19 02:40:10",
-      "album": {
         "name": "last night",
         "url": "https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-05-19 02:40:10",
       "album": {
+        "name": "\uc77c\uae30",
+        "url": "https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ"
+      },
+      "artists": [
+        {
+          "name": "Park So Eun",
+          "url": "https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG"
+        }
+      ],
+      "duration_ms": 303911,
+      "name": "\uc77c\uae30",
+      "url": "https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0"
+    },
+    {
+      "added_at": "2025-05-19 02:40:10",
+      "album": {
         "name": "Jeongnyeon: The Star is Born, Pt. 3 : Spring days pass (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 201320,
       "name": "Spring days pass",
       "url": "https://open.spotify.com/track/1WACArKm987xYhEAiuetlx"
+    },
+    {
+      "added_at": "2025-05-19 02:40:10",
+      "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "something",
+      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
     },
     {
       "added_at": "2025-05-19 02:40:10",
@@ -803,34 +819,18 @@
     {
       "added_at": "2025-05-19 02:40:10",
       "album": {
-        "name": "something",
-        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
+        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
       },
       "artists": [
         {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
         }
       ],
-      "duration_ms": 218360,
-      "name": "something",
-      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
-    },
-    {
-      "added_at": "2025-05-19 02:40:10",
-      "album": {
-        "name": "Letter",
-        "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
-      },
-      "artists": [
-        {
-          "name": "Baek A",
-          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Letter",
-      "url": "https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl"
+      "duration_ms": 212000,
+      "name": "Dimly",
+      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

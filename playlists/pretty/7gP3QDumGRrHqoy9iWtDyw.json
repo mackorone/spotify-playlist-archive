@@ -1,13 +1,137 @@
 {
   "description": "",
-  "num_followers": 22598,
+  "num_followers": 22601,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJhbQzpiNjXqr0FHlIl/pbD/a9JTAI",
+  "snapshot_id": "AAAJjYj1YVyhxUfCGwetP1UOdxNV+zZt",
   "tracks": [
+    {
+      "added_at": "2025-05-19 11:59:01",
+      "album": {
+        "name": "Suspect",
+        "url": "https://open.spotify.com/album/2gw6asMoga2yc9BRn4Ryxb"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 134545,
+      "name": "Suspect",
+      "url": "https://open.spotify.com/track/0zZ8UcJq2jSg9uZxoG39nI"
+    },
+    {
+      "added_at": "2025-05-19 11:59:35",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/1RAJoecOjUn6PXv4lgbpWn"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "FDVM",
+          "url": "https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl"
+        }
+      ],
+      "duration_ms": 143809,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/14xvWVgTJB1riVzvP3TOVY"
+    },
+    {
+      "added_at": "2025-05-19 12:00:15",
+      "album": {
+        "name": "Tootsie Pop",
+        "url": "https://open.spotify.com/album/5WX2ezXljLgIEVOrqUp513"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Tootsie Pop",
+      "url": "https://open.spotify.com/track/6iEcJOCsj7rmmJmOO3s7Ok"
+    },
+    {
+      "added_at": "2025-05-19 12:01:12",
+      "album": {
+        "name": "Can\u2019t Get No Love",
+        "url": "https://open.spotify.com/album/6CimO5ETB81efn4AvQIi4C"
+      },
+      "artists": [
+        {
+          "name": "Mat.Joe",
+          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 182793,
+      "name": "Can\u2019t Get No Love",
+      "url": "https://open.spotify.com/track/0UcZabJMyHgdPMxoXGT4nc"
+    },
+    {
+      "added_at": "2025-05-19 12:01:41",
+      "album": {
+        "name": "Four Your Head",
+        "url": "https://open.spotify.com/album/5CbtpBe4TJn60qdRdxHrPt"
+      },
+      "artists": [
+        {
+          "name": "REBRN",
+          "url": "https://open.spotify.com/artist/3GHKSLV8K79xY8Z6TASqqz"
+        }
+      ],
+      "duration_ms": 318198,
+      "name": "For Your Head",
+      "url": "https://open.spotify.com/track/0c4CuqmYMWHCux5CcSlROY"
+    },
+    {
+      "added_at": "2025-05-19 12:01:59",
+      "album": {
+        "name": "Got The Funk",
+        "url": "https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Capri",
+          "url": "https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z"
+        }
+      ],
+      "duration_ms": 184130,
+      "name": "Got The Funk",
+      "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
+    },
+    {
+      "added_at": "2025-05-19 12:03:00",
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 179887,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
+    },
     {
       "added_at": "2025-03-16 07:58:20",
       "album": {

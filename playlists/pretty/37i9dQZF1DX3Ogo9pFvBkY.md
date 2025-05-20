@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,242 likes - 189 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,290 likes - 189 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 188 | [Breaking Silence](https://open.spotify.com/track/4380dhBofsUcbAwa2UqBMc) | [Sounding Cosmos](https://open.spotify.com/artist/57cTypsKxiOGCYx2AbCHkn) | [Breaking Silence](https://open.spotify.com/album/4FH4IHc9VxPs19eX0oagVT) | 3:20 |
 | 189 | [Supernus](https://open.spotify.com/track/1s4VSiybT9ffhJmkKihPW9) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Supernus](https://open.spotify.com/album/538Y2jVTlI7GhGmS7UoLJL) | 3:12 |
 
-Snapshot ID: `aCMtngAAAABDVpxym61e6wo78sTbkMBs`
+Snapshot ID: `aCMtngAAAABSQJfhFD5euY76y5j8STXy`

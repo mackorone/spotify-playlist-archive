@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-414 songs - 21 hr 49 min
+415 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Don't Forget My Love](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:19 | 2022-07-08 | 2024-04-19 |
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-25 |  |
 | [Don't Stop Lovin'](https://open.spotify.com/track/62Bd3M4RpuJ6zR2KCW1LGX) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Don't Stop Lovin'](https://open.spotify.com/album/75v2SGfaNYOISwpbxsEvSN) | 2:13 | 2025-03-21 | 2025-04-05 |
-| [Don’t Forget My Love](https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don’t Forget My Love](https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8) | 3:19 | 2022-04-01 |  |
+| [Don’t Forget My Love](https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don’t Forget My Love](https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8) | 3:19 | 2022-04-01 | 2025-05-20 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/5JBtWpLoGO62gb5vax505b) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:36 | 2022-03-25 | 2025-02-15 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 | 2022-07-08 | 2023-01-11 |
 | [Drive](https://open.spotify.com/track/6fpvMHuOB3C9SCrtMGzJaO) | [Meynberg](https://open.spotify.com/artist/59a0J35YbYHfojR8iIpzuX), [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94), [Little Venice](https://open.spotify.com/artist/3CO23gK5THkoucYiRmPMAo) | [Drive](https://open.spotify.com/album/6A9gHWgB9CKqlPxdz0Y66u) | 2:39 | 2021-10-29 | 2022-03-26 |
@@ -375,6 +375,7 @@
 | [The Same](https://open.spotify.com/track/7pDwkFUYmSisnMIfniEiRT) | [Bomberjak](https://open.spotify.com/artist/6I9HpPprmcAGdLosyfDf3c) | [The Same](https://open.spotify.com/album/29t020aL0b4CRSv6P5XDUs) | 2:36 | 2021-10-29 | 2022-07-29 |
 | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/track/3ArDS1f0uJjaotIuIkg2cJ) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [Emily Sander](https://open.spotify.com/artist/3mysMigndcBXvVgkpa7gvc) | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/album/3wgPs3nwytZ4mIXHuy9Z1L) | 3:34 | 2021-10-29 | 2022-08-20 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-03-15 |  |
+| [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-16 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/61CmIx1hiRH7VRcNb5cCY8) | [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn), [Vi Anabella Kara](https://open.spotify.com/artist/6UI6PW7WI2jz4SF5xllpgI) | [Thinkin Bout You](https://open.spotify.com/album/3OO0NdnFvAPzcVrJ9aBBF3) | 2:34 | 2021-10-29 | 2022-07-04 |
 | [Thinking Of You](https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg) | [Thinking Of You](https://open.spotify.com/album/5HtjTfGf1F8wSr1HATgKEF) | 2:32 | 2022-04-08 | 2022-05-21 |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-04-29 | 2022-11-09 |

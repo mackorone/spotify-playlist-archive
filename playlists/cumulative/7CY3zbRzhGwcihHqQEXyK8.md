@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-671 songs - 1 day 10 hr 56 min
+674 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Airplane of Love \- Rayman Rave Edit](https://open.spotify.com/track/7bdOGDXlmUMtCglLvTs7AO) | [Clubsukkerz](https://open.spotify.com/artist/4wOgluklbKiD4wgIbhRUod), [Mad Loki](https://open.spotify.com/artist/7FXWC2rb2f7sCgngKT90pR), [Chisandra](https://open.spotify.com/artist/2NupKrbbR4eVA4iKTyIzgd), [Rayman Rave](https://open.spotify.com/artist/68k7oHbNM3MuYr4YVvZ8AH) | [Harmony Destruction](https://open.spotify.com/album/3HefRXrgVp99odTv5bS050) | 3:38 | 2024-12-15 |  |
 | [Akwa Okuku Onye Ugwo Ego](https://open.spotify.com/track/6GuSmB3pmRQQP0CGebQOeD) | [Chief Michael Udegbi](https://open.spotify.com/artist/3W0x36BDUIKq6dDB5KnhZc) | [Akwa Okuku Onye Ugwo Ego](https://open.spotify.com/album/6zOnEVBYfqzKH8twZq714S) | 7:00 | 2024-12-15 |  |
 | [Alaskan](https://open.spotify.com/track/5D4NHvNdofXr1ydLUTV5LD) | [Blurain](https://open.spotify.com/artist/1qoYHtGe1GYUzFpoRIse8y) | [What Life Really Means](https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv) | 3:25 | 2024-12-15 |  |
+| [ALIEN](https://open.spotify.com/track/2EEp44O4xezj1BmrMGRPvh) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [ALIEN](https://open.spotify.com/album/6gGBBnCivtdZAKcWVzPgTk) | 3:08 | 2025-05-19 |  |
 | [Alien Workshop](https://open.spotify.com/track/1mCfrJZCNP2M9QS45HL6GJ) | [Breaded Beans](https://open.spotify.com/artist/5pQVwAPuspOhZ4SMJDgctF) | [Alien Workshop](https://open.spotify.com/album/43MK7UoCwCDHtxVOJXnFrE) | 1:00 | 2024-12-15 |  |
 | [all 4s for u](https://open.spotify.com/track/6l4NAA9LJ2k9VZtPpORXtM) | [foxxlust](https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco) | [sparkle dog anthem ii](https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY) | 2:59 | 2024-12-16 |  |
 | [All a Dream](https://open.spotify.com/track/1k1QLIZcERm3H58AyWNenA) | [chocolatemilk](https://open.spotify.com/artist/1hkysiRXqdGDnldkRW5vaL) | [cacti spines](https://open.spotify.com/album/5ZETI5hLnZRRZGZVv7wIrk) | 3:11 | 2024-12-15 |  |
@@ -65,6 +66,7 @@
 | [Awkward](https://open.spotify.com/track/74yIuvdVLoO0IQcsCNk5kS) | [Breaded Beans](https://open.spotify.com/artist/5pQVwAPuspOhZ4SMJDgctF) | [Awkward](https://open.spotify.com/album/0WQvQnsiqbJZS5lyyc8Ejb) | 4:05 | 2024-12-15 |  |
 | [back 2 hell](https://open.spotify.com/track/7kJzFWVGFgJqPDNpWfvz7L) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [kamikaze's endless](https://open.spotify.com/artist/7k3CYBOdj2p7mSf9vxtz7J), [Slxxpy](https://open.spotify.com/artist/0f2iFjl0mjn7fXYr3Z5rRV) | [Beautiful Narcissism](https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP) | 4:19 | 2024-12-27 |  |
 | [Back On That Act](https://open.spotify.com/track/5r7RfkzOVZ7fvfPEAHZJbe) | [Lil Majo](https://open.spotify.com/artist/2KE59bPqiPq9Z1Z9B4gtOM) | [Whole Lotta Red V2](https://open.spotify.com/album/0LAxkfHP9eqYPULAXaglWY) | 2:50 | 2024-12-15 |  |
+| [Back Stabber \(E\)](https://open.spotify.com/track/1mu8sDJ19HKGg9Q4GyXdiZ) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [Back Stabber \(E\)](https://open.spotify.com/album/379H4BbNEdUtK3GrPlY3EV) | 2:33 | 2025-05-19 |  |
 | [Back to the Bando](https://open.spotify.com/track/1BQYH2JiEm4tzCytgjT3u7) | [Baskem](https://open.spotify.com/artist/03FChCYZ6EtklEGk5MKcje) | [Unleashed](https://open.spotify.com/album/4fu9h1LOb9MDVSikHhXW2Z) | 3:39 | 2024-12-15 |  |
 | [bad girl \#imdyingwhenicu](https://open.spotify.com/track/4JO75A8y8muhRTryx0Qnl8) | [Yoru Tsuki](https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq) | [top secret mixtape](https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU) | 2:07 | 2024-12-16 |  |
 | [Bad People](https://open.spotify.com/track/71Q16re7s5AN4wdAYvcBQh) | [Corey Feldman](https://open.spotify.com/artist/1hzKfT0k54Cn1HgxoOTZP9) | [Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic](https://open.spotify.com/album/1HulL4NikuGieoJQUBJJL9) | 4:29 | 2024-12-15 |  |
@@ -146,6 +148,7 @@
 | [Diet Coke](https://open.spotify.com/track/52NaQbSMyRkVJ9VIdRAhc1) | [television archives](https://open.spotify.com/artist/52Nc32sj7qMGMa7pHJjj5W) | [Diet Coke](https://open.spotify.com/album/3ubPsQRdmdS6sRA5sNNXDf) | 4:31 | 2024-12-15 |  |
 | [Dinosaur](https://open.spotify.com/track/1TLIvkg4RfXL4NerGdPIUi) | [Ace Creator](https://open.spotify.com/artist/2BEtzhPN4vFiJPjOJUhG0c) | [Dinosaur EP](https://open.spotify.com/album/0I8lNUH9c3zM1EaNzPXfx3) | 3:30 | 2024-12-15 |  |
 | [DIRTY30](https://open.spotify.com/track/4CU7DpI4LDzSMDMR8WjRnE) | [XS](https://open.spotify.com/artist/10UawrPV0my8LFrW8rCWNs) | [JUICY](https://open.spotify.com/album/4TGrpub813gIR3z7YGXnJQ) | 1:58 | 2024-12-15 |  |
+| [Discord Mod](https://open.spotify.com/track/4qhzjEgV9tziHne1hhvOwf) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [Discord Mod](https://open.spotify.com/album/3DvpeRumDhhttjRSlGaf57) | 2:49 | 2025-05-19 |  |
 | [Disgusting \- Abstractgenesis Remix](https://open.spotify.com/track/6YgqyxiiSgeo26UuExlkc3) | [6arelyhuman](https://open.spotify.com/artist/4VLu2Pdhs6iOKbxGNjrEJ3), [Abstractgenesis](https://open.spotify.com/artist/0UU9vko97MlnafXmL1DEmO) | [RemixMe](https://open.spotify.com/album/0fTFZAiYb5KO3A6dud9g6a) | 2:07 | 2024-12-16 |  |
 | [Divine Justice \(Lucian's Theme\)](https://open.spotify.com/track/2FRzbDjBoXMXJJZCau5EfO) | [Xtha](https://open.spotify.com/artist/7CINZTW4RTKs0n2fAvIoqq) | [Divine Justice \(Lucian's Theme\)](https://open.spotify.com/album/0VSVlMB3doMN5aJIO6ZV74) | 3:10 | 2024-12-15 |  |
 | [Do Not Disturb](https://open.spotify.com/track/2Z8Lt4VLIrjeKG6ABUC9AD) | [Wolficide](https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk) | [Good Morning, Wolficide](https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N) | 2:08 | 2024-12-16 |  |

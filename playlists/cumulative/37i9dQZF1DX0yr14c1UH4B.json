@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Billboards",
+        "url": "https://open.spotify.com/album/3D3atcKKmfYoZFJMz6qED8"
+      },
+      "artists": [
+        {
+          "name": "Tragic Sasha",
+          "url": "https://open.spotify.com/artist/13POEdcy38kG2ZzQD6PnTB"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137243,
+      "name": "Billboards",
+      "url": "https://open.spotify.com/track/0Sg9XLAL4tKezeuwnu4itl"
+    },
+    {
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2CpO7mfSFWxw1CxoQRoDSF"
       },

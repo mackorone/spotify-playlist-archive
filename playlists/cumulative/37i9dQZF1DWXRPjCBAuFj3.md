@@ -4,7 +4,7 @@
 
 > Il rap è uno sport competitivo 🔥 Cover: Lacrim
 
-766 songs - 1 day 16 hr 9 min
+767 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-09-06 | 2023-09-29 |
 | [Late to the Party](https://open.spotify.com/track/4nOr5Mas8g2cF5CfTHZfpY) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Late to the Party](https://open.spotify.com/album/0TsOm4E0XQe80Pu9LATE21) | 3:16 | 2022-05-13 | 2022-07-29 |
 | [Latest Trends](https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Latest Trends](https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu) | 2:38 | 2022-05-10 | 2024-01-19 |
-| [Law N Order](https://open.spotify.com/track/5Oqatx4PVy1jS6cKrSEASp) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Law N Order](https://open.spotify.com/album/4jNKm7j89w9FTfVK7cOVkZ) | 3:12 | 2025-04-04 |  |
+| [Law N Order](https://open.spotify.com/track/5Oqatx4PVy1jS6cKrSEASp) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Law N Order](https://open.spotify.com/album/4jNKm7j89w9FTfVK7cOVkZ) | 3:12 | 2025-04-04 | 2025-05-20 |
 | [Leave Me Alone](https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:23 | 2024-11-28 |  |
 | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/album/1O90Qra7WiVZIaT4oHKSTU) | 3:42 | 2023-02-21 | 2023-03-04 |
 | [Legacy](https://open.spotify.com/track/0kZLYZ9qpZrQYedUMI7s58) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Legacy](https://open.spotify.com/album/2EGoU6wx7retxKjClGyaxA) | 2:11 | 2024-10-25 | 2024-11-29 |
@@ -632,6 +632,7 @@
 | [Smurk Carter](https://open.spotify.com/track/3DFkDKoILOZ3an5oJzKDNZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Smurk Carter](https://open.spotify.com/album/0VSgeOD7TUUPesGNwaLadN) | 3:37 | 2023-11-10 | 2024-01-19 |
 | [Socials](https://open.spotify.com/track/4lXM4G3waswwheaVOhKPKZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Socials](https://open.spotify.com/album/3wIFD68W3eGHj0Yx5C8I4r) | 2:45 | 2024-03-01 | 2024-06-01 |
 | [Solo Mi Madre](https://open.spotify.com/track/22LPuqKITi7z503Yj6XbX2) | [daviid\_328](https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP) | [Solo Mi Madre](https://open.spotify.com/album/4KS1K2A4w3ZvER8S9n765m) | 3:20 | 2023-11-30 | 2023-12-02 |
+| [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 | 2025-05-15 |  |
 | [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 | 2024-07-19 |
 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-05-10 | 2023-07-02 |
 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 | 2024-02-16 | 2024-08-02 |

@@ -2683,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160281,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
+    },
+    {
+      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
       },
@@ -6431,6 +6449,28 @@
     },
     {
       "album": {
+        "name": "Translation",
+        "url": "https://open.spotify.com/album/2eORe6u9TPXYisYshyXVeH"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220659,
+      "name": "GIRL LIKE ME",
+      "url": "https://open.spotify.com/track/2vBET2pmrQqafaS6zIaYta"
+    },
+    {
+      "album": {
         "name": "Give Them Hell",
         "url": "https://open.spotify.com/album/0JQR3TIiQmA6XcrsuIarlF"
       },
@@ -6780,7 +6820,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -11737,6 +11777,28 @@
     },
     {
       "album": {
+        "name": "New Day Will Rise",
+        "url": "https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05d1\u05dc \u05e8\u05e4\u05d0\u05dc",
+          "url": "https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk"
+        },
+        {
+          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "New Day Will Rise",
+      "url": "https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8"
+    },
+    {
+      "album": {
         "name": "New Jeans (Jersey Club)",
         "url": "https://open.spotify.com/album/1wBQYqY0qKX34aKGflqHeD"
       },
@@ -11966,7 +12028,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 116052,
       "name": "No Gletcher Gang 2",
       "url": "https://open.spotify.com/track/0nXNsOS6gKYKS6pdoTBeHR"
@@ -13840,7 +13902,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -14317,6 +14379,42 @@
     },
     {
       "album": {
+        "name": "SERVING",
+        "url": "https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR"
+      },
+      "artists": [
+        {
+          "name": "Miriana Conte",
+          "url": "https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "SERVING - Eurovision Official Version",
+      "url": "https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW"
+    },
+    {
+      "album": {
+        "name": "SERVING KANT",
+        "url": "https://open.spotify.com/album/2Jir3xrdLJ34ZLY9lgzCRw"
+      },
+      "artists": [
+        {
+          "name": "Miriana Conte",
+          "url": "https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "SERVING KANT",
+      "url": "https://open.spotify.com/track/7IAtKdU3e9wZFC8Cd8TLr1"
+    },
+    {
+      "album": {
         "name": "sexisdeath",
         "url": "https://open.spotify.com/album/0dlsySXCDVNlodQOx7moa6"
       },
@@ -14660,7 +14758,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
@@ -15580,7 +15678,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 172979,
       "name": "starly - Slowed",
       "url": "https://open.spotify.com/track/2ao4kVf8DsGghi3mUGaVEr"
@@ -15736,6 +15834,24 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "album": {
+        "name": "Strobe Lights",
+        "url": "https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF"
+      },
+      "artists": [
+        {
+          "name": "Red Sebastian",
+          "url": "https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Strobe Lights",
+      "url": "https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV"
     },
     {
       "album": {
@@ -19198,7 +19314,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 199972,
       "name": "\u0431\u0435\u0437 \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/2d2C4YGXudzgQvZwdVH3SI"
@@ -21674,7 +21790,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 96025,
       "name": "\u0434\u0443\u0448\u0430 - Speed up",
       "url": "https://open.spotify.com/track/2Jy9LJ2YwkQZrKTrCfTZPf"
@@ -26578,7 +26694,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 113615,
       "name": "\u041f\u043e\u0448\u043b\u0430\u044f \u0411\u043b\u043e\u043d\u0434\u0438\u043d\u043a\u0430",
       "url": "https://open.spotify.com/track/2d6MCmrnn9EuB8Dw4A86UJ"

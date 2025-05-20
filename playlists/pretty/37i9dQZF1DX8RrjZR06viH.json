@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ren er her!\u2600\ufe0f\n",
-  "num_followers": 94465,
+  "num_followers": 94477,
   "original_name": "V\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "Somebody Else - Spotify Singles",
-        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 300341,
-      "name": "Somebody Else - Spotify Singles",
-      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
-    },
-    {
-      "added_at": "2025-05-08 22:00:32",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 292093,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2025-05-08 22:00:32",
+      "album": {
+        "name": "Somebody Else - Spotify Singles",
+        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 300341,
+      "name": "Somebody Else - Spotify Singles",
+      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
     },
     {
       "added_at": "2025-05-08 22:00:32",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "Her vil e v\u00e6r",
-        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "Her vil e v\u00e6r",
-      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
-    },
-    {
-      "added_at": "2025-05-08 22:00:32",
-      "album": {
         "name": "So cool",
         "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 222546,
       "name": "So cool",
       "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
+    },
+    {
+      "added_at": "2025-05-08 22:00:32",
+      "album": {
+        "name": "Her vil e v\u00e6r",
+        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "Her vil e v\u00e6r",
+      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
     },
     {
       "added_at": "2025-05-08 22:00:32",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
+        "name": "Sommer i Norge",
+        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 169248,
+      "name": "Sommer i Norge",
+      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
+    },
+    {
+      "added_at": "2025-05-08 22:00:32",
+      "album": {
         "name": "i'm in the corner, alone",
         "url": "https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv"
       },
@@ -1047,22 +1067,18 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "Sommer i Norge",
-        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
       "artists": [
         {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 169248,
-      "name": "Sommer i Norge",
-      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2025-05-08 22:00:32",
@@ -1079,22 +1095,6 @@
       "duration_ms": 229079,
       "name": "Silver Heart",
       "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
-    },
-    {
-      "added_at": "2025-05-08 22:00:32",
-      "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2025-05-08 22:00:32",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "How did I let this get so serious?",
-        "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 174935,
-      "name": "Hospitals",
-      "url": "https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6"
-    },
-    {
-      "added_at": "2025-05-08 22:00:32",
-      "album": {
         "name": "Oh Love (Acoustic)",
         "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "B\u00f8lger",
-        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
-      },
-      "artists": [
-        {
-          "name": "3TOS",
-          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
-        }
-      ],
-      "duration_ms": 133875,
-      "name": "B\u00f8lger",
-      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
-    },
-    {
-      "added_at": "2025-05-08 22:00:32",
-      "album": {
         "name": "Adore",
         "url": "https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6"
       },
@@ -1423,6 +1391,38 @@
       "duration_ms": 198333,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
+    },
+    {
+      "added_at": "2025-05-08 22:00:32",
+      "album": {
+        "name": "How did I let this get so serious?",
+        "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 174935,
+      "name": "Hospitals",
+      "url": "https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6"
+    },
+    {
+      "added_at": "2025-05-08 22:00:32",
+      "album": {
+        "name": "B\u00f8lger",
+        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
+      },
+      "artists": [
+        {
+          "name": "3TOS",
+          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
+        }
+      ],
+      "duration_ms": 133875,
+      "name": "B\u00f8lger",
+      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
     },
     {
       "added_at": "2025-05-08 22:00:32",

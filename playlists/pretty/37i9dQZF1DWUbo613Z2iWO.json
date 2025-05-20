@@ -1,12 +1,12 @@
 {
   "description": "R&B of the moment by the artists of the future. Cover:  DAMEDAME*",
-  "num_followers": 55210,
+  "num_followers": 55223,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCdAsQAAAAB1LoZ/cUe635SNWLbGo+Oi",
+  "snapshot_id": "aCtuAAAAAAB51WI0acu86c9GpqlmwoIW",
   "tracks": [
     {
       "added_at": "2025-05-16 04:00:37",
@@ -135,6 +135,22 @@
       "duration_ms": 96048,
       "name": "What I Gotta Do",
       "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
+    },
+    {
+      "added_at": "2025-05-19 17:44:32",
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/3sxbmfvOkXIEyl4cmd39Ox"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/4lmKJY3DL551jHx4vYh8VO"
     },
     {
       "added_at": "2025-05-09 04:00:22",

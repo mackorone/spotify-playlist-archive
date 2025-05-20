@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 486795,
+  "num_followers": 486802,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Cold Summers EP",
-        "url": "https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj"
-      },
-      "artists": [
-        {
-          "name": "Crepes",
-          "url": "https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "Cold Summers",
-      "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Stained Glass Curtain",
@@ -1109,20 +1093,20 @@
       "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Spice It Up",
-        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+        "name": "Cold Summers EP",
+        "url": "https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj"
       },
       "artists": [
         {
-          "name": "Surf Trash",
-          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+          "name": "Crepes",
+          "url": "https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh"
         }
       ],
-      "duration_ms": 146651,
-      "name": "Spice It Up",
-      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
+      "duration_ms": 174080,
+      "name": "Cold Summers",
+      "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 120476,
       "name": "Mammoth Surf",
       "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Spice It Up",
+        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "duration_ms": 146651,
+      "name": "Spice It Up",
+      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
     },
     {
       "added_at": "2024-10-11 04:00:00",

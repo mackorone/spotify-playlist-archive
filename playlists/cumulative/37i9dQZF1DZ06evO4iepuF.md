@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-87 songs - 2 hr 47 min
+88 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [crying in the club](https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crying in the club](https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS) | 2:03 | 2024-12-14 | 2025-05-08 |
 | [crystal spray \- Remastered](https://open.spotify.com/track/5e31ls6AAuRNkcEGmSGcMX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crystal spray \(Remastered\)](https://open.spotify.com/album/5d5yLJ4vUxUG74VRYnae95) | 1:57 | 2024-12-16 |  |
 | [damn beautiful](https://open.spotify.com/track/2eRjZFtoYEiVFf4IPUD8n0) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:14 | 2025-05-15 | 2025-05-19 |
-| [Death At Your Expense](https://open.spotify.com/track/6ukpi5r6LknK5r7Eftq83b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:23 | 2024-12-14 |  |
+| [Death At Your Expense](https://open.spotify.com/track/6ukpi5r6LknK5r7Eftq83b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:23 | 2024-12-14 | 2025-05-20 |
 | [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 | 2024-12-14 |  |
 | [dissociated fantasy](https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [dissociated fantasy](https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y) | 1:52 | 2024-12-14 | 2025-05-16 |
 | [double hue](https://open.spotify.com/track/2NwZEiDaTW90Eh4mlsUvPR) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:23 | 2025-01-31 | 2025-03-26 |
@@ -95,5 +95,6 @@
 | [when has healthy ever been my priority \- Remake Version](https://open.spotify.com/track/3R2YwDsdxwNwaxVLKbY5Hi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [when has healthy ever been my priority](https://open.spotify.com/album/3gGsuSxZerzUF3ZcMwjk87) | 1:40 | 2024-12-14 |  |
 | [WIN WIN WIN](https://open.spotify.com/track/6eeRIbNpBDu98MRRUHl6ID) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 | 2025-03-22 |  |
 | [world full of strings](https://open.spotify.com/track/1MyMaopZKXuMNcXGDpHjAu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:09 | 2025-01-30 | 2025-02-12 |
+| [you still live in my veins](https://open.spotify.com/track/7427blkGwSdUTdimGaLW93) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:07 | 2025-05-20 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

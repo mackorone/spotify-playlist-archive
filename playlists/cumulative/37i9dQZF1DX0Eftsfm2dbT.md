@@ -2,9 +2,9 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> POP YOURS開催まであと5日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: NENE
+> POP YOURS開催まであと4日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Daichi Yamamoto
 
-1,636 songs - 3 day 11 hr 32 min
+1,637 songs - 3 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1495,6 +1495,7 @@
 | [どON](https://open.spotify.com/track/6RVVkxX67l3hPtJf3ggO2J) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [どON](https://open.spotify.com/album/0by9AYORdrbUgLMvDKA0T2) | 3:38 | 2025-04-15 |  |
 | [なかいま](https://open.spotify.com/track/1ynoMADPj3gOfU4HCrhT4L) | [LIBRO](https://open.spotify.com/artist/0GkJMOLrKbRiOreBfbpyER), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [なかいま](https://open.spotify.com/album/4h38kWXkpACY7QPMGBFhqU) | 4:21 | 2025-05-16 |  |
 | [なんで](https://open.spotify.com/track/2fdhxvdf9dEWyU0PUAnhfT) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [なんで](https://open.spotify.com/album/6waXnbQlyr6BKp2AHXSxC8) | 4:48 | 2024-05-07 | 2024-05-15 |
+| [なんとかなるさ](https://open.spotify.com/track/1okUPp53P1lvQCeZUXdbHi) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Secure](https://open.spotify.com/album/1b7Z0j7nuYbAkTwrTrNK1i) | 2:58 | 2025-05-19 |  |
 | [なんとも思ってねぇ](https://open.spotify.com/track/3ZaWOwApiSBHtQMcHB0qU7) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [なんとも思ってねぇ](https://open.spotify.com/album/3nFQn0Q02t4LOgV7I5DFiu) | 4:36 | 2024-07-09 | 2024-09-27 |
 | [はなみずき](https://open.spotify.com/track/7948ExjfwLSjUcAom8MoRM) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [はなみずき](https://open.spotify.com/album/37HyGAIq25i8vaFTz3cFoZ) | 4:30 | 2024-03-12 | 2024-06-19 |
 | [ふと思う](https://open.spotify.com/track/5mgmrqd9aS1ALhz9LtwQYX) | [GOTIT](https://open.spotify.com/artist/2WpoGvKZpFZmgrGbbNEoxR), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [SOUL CUT'S](https://open.spotify.com/album/0ROF6yQrqunA38QXeGTaCq) | 4:31 | 2023-12-20 | 2024-02-07 |
@@ -1511,7 +1512,7 @@
 | [オレたちが気になる](https://open.spotify.com/track/5uk6OoObDUbDbvsbfVKlnu) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/6SNvmlEdCEpJgUMGOiCokh) | 3:23 | 2023-12-20 | 2023-12-23 |
 | [カナデ](https://open.spotify.com/track/12f1Jpu5Xrcl7JVwmAf1uz) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [カナデ](https://open.spotify.com/album/6rvvgIw4mLNYG6M4xE49Vn) | 4:23 | 2023-11-28 | 2024-01-31 |
 | [カリスマ](https://open.spotify.com/track/5UFg1r0PEjZ3KN4lhN89TK) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-02-12 | 2025-03-18 |
-| [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 | 2025-05-18 |  |
+| [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 | 2025-05-18 | 2025-05-20 |
 | [キミは僕](https://open.spotify.com/track/12PVe4gkPEYQNLQQymQIbU) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [キミは僕](https://open.spotify.com/album/35EcbOyflIhCuOoJeB8fjI) | 3:16 | 2024-04-09 | 2024-05-08 |
 | [コンクリートサバンナ](https://open.spotify.com/track/76fLF0kLJ0mV7xTQqUHQZy) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc) | [コンクリートサバンナ](https://open.spotify.com/album/3IFfDQyuO9RYAv3Zk4ZNOE) | 3:16 | 2024-08-28 | 2024-09-11 |
 | [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 | 2024-02-06 | 2024-02-08 |

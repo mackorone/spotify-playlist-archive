@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 May 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 May 13:04 UTC.
 
-4,764 songs - 11 day 1 hr 7 min
+4,766 songs - 11 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1090,6 +1090,7 @@
 | [Diddy Kong](https://open.spotify.com/track/0QmoKc6R4KMLOq5zbcm9Yt) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV) | [Diddy Kong](https://open.spotify.com/album/37WUyghuCDyS0iI93qeW50) | 2:13 | 2024-10-30 | 2024-11-02 |
 | [DIE FOR ME](https://open.spotify.com/track/0qKKAOF4kezKlvtyYyv12C) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DIE FOR ME](https://open.spotify.com/album/1rlrlI6iBRK1WV7KZaEhtA) | 3:26 | 2024-08-23 | 2024-08-29 |
 | [Die For The Party](https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Die For The Party](https://open.spotify.com/album/7hEV7T7NjXra4EtsUGuVKZ) | 2:33 | 2024-09-20 | 2024-09-26 |
+| [Die For You](https://open.spotify.com/track/6cLd2xZirorZbZY5500XDA) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Die For You](https://open.spotify.com/album/2pLF47SOE8fRwUy31Wesl6) | 3:39 | 2025-05-19 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 | 2024-08-23 |
 | [Dies Irae](https://open.spotify.com/track/56zVJmHbhDxM1izT6A4p64) | [Synestia](https://open.spotify.com/artist/5q6QQFwE4elu0q1HA10HTb) | [Dies Irae](https://open.spotify.com/album/4l6hMYETnY8w5ta1m4h8yx) | 4:44 | 2025-02-06 | 2025-02-13 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-09 | 2024-08-14 |
@@ -1505,7 +1506,7 @@
 | [Foreclosure](https://open.spotify.com/track/3qpySDNXf86isiB0I4tr6h) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Foreclosure](https://open.spotify.com/album/7poB9nXfbOkjEwRFJaw8iK) | 2:54 | 2024-05-08 | 2024-05-10 |
 | [Foreign Spies](https://open.spotify.com/track/6cjortdbUAfAY5dyX17kEM) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Foreign Spies / Zero Sum](https://open.spotify.com/album/61qHOXEBFrlwPIWts51B4p) | 4:48 | 2024-08-28 | 2024-08-31 |
 | [Forever](https://open.spotify.com/track/6xt6eAojW9RW6di1PDr5xo) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa), [Kno](https://open.spotify.com/artist/0MtwkPOEcTLxNL7uxz74rr), [Deacon The Villain](https://open.spotify.com/artist/6qlhXMid54OjWtCZlBOFfb) | [Forever](https://open.spotify.com/album/2I6P9viaEC8z8ZldjQuzWD) | 3:06 | 2024-09-10 | 2024-09-13 |
-| [Forever \(71943509\)](https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Forever \(71943509\)](https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt) | 3:08 | 2025-05-12 |  |
+| [Forever \(71943509\)](https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Forever \(71943509\)](https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt) | 3:08 | 2025-05-12 | 2025-05-20 |
 | [Forever Cold](https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Forever Cold](https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc) | 4:43 | 2024-11-08 | 2024-11-14 |
 | [Forever glow](https://open.spotify.com/track/4i29W1LZWr2j2lpodvhPyh) | [尾丸ポルカ](https://open.spotify.com/artist/4lnAamuhZv4tmgOMryoB73) | [Forever glow](https://open.spotify.com/album/4pmqjZyPSwAISm97j4Ud8r) | 3:41 | 2024-08-17 | 2024-08-23 |
 | [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 | 2024-10-30 | 2024-11-02 |
@@ -3037,7 +3038,7 @@
 | [Order Up](https://open.spotify.com/track/2LHXiCbjINmIwvE3HRlfTi) | [LongestSoloEver](https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca), [Glitch Whisper](https://open.spotify.com/artist/1Jhi8R6zNodyhHadhC9IDe), [McGwire](https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7) | [Order Up](https://open.spotify.com/album/4kAFTrDqSJLr0dkg4NVgLQ) | 3:28 | 2024-12-14 | 2024-12-21 |
 | [ORIGAMI](https://open.spotify.com/track/1AjrBHMsEAF5vw5xcosZ4T) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [ORIGAMI](https://open.spotify.com/album/6uJhLRRLYDFeT5hLpenPrt) | 4:25 | 2024-07-07 | 2024-07-10 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-07 | 2025-01-18 |
-| [Orphans](https://open.spotify.com/track/5JkBPvybcxRB9F6Y1OWYxY) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Orphans](https://open.spotify.com/album/4UgekyYsBXavssBjlcaRA6) | 2:46 | 2025-05-09 |  |
+| [Orphans](https://open.spotify.com/track/5JkBPvybcxRB9F6Y1OWYxY) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Orphans](https://open.spotify.com/album/4UgekyYsBXavssBjlcaRA6) | 2:46 | 2025-05-09 | 2025-05-20 |
 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 | 2024-11-07 | 2024-11-09 |
 | [Oscillator](https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Oscillator](https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW) | 4:00 | 2024-08-09 | 2024-08-14 |
 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/17ZkGa33xEBbsWpgSqRNLM) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/0JyoNvP2toqt8hWKfuYcaX) | 2:55 | 2024-10-31 | 2024-11-02 |
@@ -3698,7 +3699,7 @@
 | [Soft Glow](https://open.spotify.com/track/2KZsN4rkEtuL35yGuRsfr5) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Soft Glow](https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF) | 3:43 | 2024-06-05 | 2024-06-07 |
 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2024-09-06 | 2024-09-11 |
 | [Soft Spot](https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot](https://open.spotify.com/album/5huqwJ6gDBbuyjNOOVOTrP) | 3:24 | 2024-09-12 | 2024-09-14 |
-| [SOLD OUT](https://open.spotify.com/track/4oSo1Wtu73wqf8YxerTiV4) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [SOLD OUT](https://open.spotify.com/album/55vTWKWqRLNYoJoEzDEU2h) | 1:41 | 2025-05-09 |  |
+| [SOLD OUT](https://open.spotify.com/track/4oSo1Wtu73wqf8YxerTiV4) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [SOLD OUT](https://open.spotify.com/album/55vTWKWqRLNYoJoEzDEU2h) | 1:41 | 2025-05-09 | 2025-05-20 |
 | [Soldier In The Army Of Love](https://open.spotify.com/track/43zPNC1Ba7FTKH6ixOsdtB) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army Of Love](https://open.spotify.com/album/5W8zfj8FM6UqJMxl6yXGnA) | 2:58 | 2024-06-28 | 2024-07-03 |
 | [Solitude of the Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude of the Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-09 | 2024-07-11 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-26 | 2024-09-28 |
@@ -3986,6 +3987,7 @@
 | [TED TALK](https://open.spotify.com/track/5vwWnJKW3aw1UrD1u7fvOG) | [demahjiae](https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [TED TALK](https://open.spotify.com/album/5rE2Bsd0oB0nb6iYtajzIO) | 1:43 | 2024-05-25 | 2024-05-29 |
 | [teddy boi freestyle](https://open.spotify.com/track/60PsESIXkhOXCVVVqwDBBP) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA) | [teddy boi freestyle](https://open.spotify.com/album/44qA9VOk01kVr5zBmEr9ER) | 2:06 | 2024-07-10 | 2024-07-12 |
 | [Teen Heartbreak](https://open.spotify.com/track/5Qo3V9WDGb8eqCZtCgvJMw) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Teen Heartbreak](https://open.spotify.com/album/7qm9tv1Pn9EkYcfxXwIH7t) | 2:11 | 2024-06-20 | 2024-06-22 |
+| [Teenage dreamer](https://open.spotify.com/track/2NMAQs3JdA5wAlS9zc3Vu0) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Teenage dreamer](https://open.spotify.com/album/1rYjMsboL3IQLEOfJrr55w) | 2:23 | 2025-05-19 |  |
 | [Teeth](https://open.spotify.com/track/1ybOlmKRzBKyXSqfijAxmU) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Teeth](https://open.spotify.com/album/0duWDt5Ya2IS8kXApMXdI4) | 2:37 | 2024-09-13 | 2024-09-18 |
 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 | 2025-02-20 | 2025-03-01 |
 | [Telenovela](https://open.spotify.com/track/3eSNnf8880O0DONvxYaFTp) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Telenovela](https://open.spotify.com/album/1Q5JipjRZaKHd0bffGDWgV) | 2:34 | 2025-04-28 | 2025-05-03 |

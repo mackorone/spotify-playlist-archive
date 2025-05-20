@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Deep Dish
 
-1,412 songs - 3 day 3 hr 20 min
+1,413 songs - 3 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,6 +862,7 @@
 | [On My Mind](https://open.spotify.com/track/1Pk2uI83Kn27uZrl8Ftkup) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [On My Mind](https://open.spotify.com/album/5XTrhUxnjd147ibNZfUtcY) | 2:55 | 2024-05-23 | 2024-10-19 |
 | [On My Mind](https://open.spotify.com/track/4Q56uPgwSvIUsKpozEGVGl) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [On My Mind](https://open.spotify.com/album/2bzr5gCAFG5fTt2ypK06pf) | 2:22 | 2022-06-09 | 2023-04-21 |
 | [On The Beach \- Eli Brown Remix](https://open.spotify.com/track/2mHsfuHrY40djfLRFVxCm2) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [On The Beach \(Eli Brown Remix\)](https://open.spotify.com/album/1LCjO7MbI7HFAdce5VxnCN) | 3:29 | 2022-12-08 | 2023-02-24 |
+| [On the Top of the World \(YMCA\)](https://open.spotify.com/track/5Um54VXuOZAjXr9ueivAJX) | [Walter Taieb](https://open.spotify.com/artist/67h9I9xLu9KPydQoldwCyL), [Diva Surprise](https://open.spotify.com/artist/2NNWNxOuPe4BQQCkLCL2H2) | [On the Top of the World \(YMCA\)](https://open.spotify.com/album/14zr0kvm55jt5jddDvdQzS) | 2:48 | 2025-05-19 |  |
 | [One Desire](https://open.spotify.com/track/6mgRmeQctQ6bwHloEX81sq) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Tuccillo](https://open.spotify.com/artist/6EIy9BdHGGzEPbasqwMabi), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [King Street: Beat Match](https://open.spotify.com/album/1rw7qjn9LyPkblXSspxSt9) | 4:40 | 2024-04-11 | 2024-10-19 |
 | [One Last Call](https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [One Last Call](https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei) | 2:38 | 2023-12-07 | 2024-05-03 |
 | [One Last Dance](https://open.spotify.com/track/0Hnc0jttkDLoTsSR2nqtx5) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Armada Music Year Mix 2022, Vol\. 1](https://open.spotify.com/album/71medK8B0OS8y3wz95AFEi) | 3:04 | 2022-12-08 | 2023-05-05 |

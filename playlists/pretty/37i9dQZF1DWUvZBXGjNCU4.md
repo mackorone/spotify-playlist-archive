@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,406 likes - 139 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,415 likes - 139 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,19 +19,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 9 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 |
 | 10 | [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 |
 | 11 | [A While Ago](https://open.spotify.com/track/13K4xmriBBK1oYv7CpSZF1) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [A While Ago](https://open.spotify.com/album/14ZJ6P0xP8RQYZS48y3qyj) | 2:55 |
-| 12 | [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 |
-| 13 | [Albufeira](https://open.spotify.com/track/2QImm2wZ3TqJIeIbVep6sr) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Albufeira](https://open.spotify.com/album/0XhNEzxemDBZfzRIvsFYU6) | 2:24 |
-| 14 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 |
+| 12 | [Albufeira](https://open.spotify.com/track/2QImm2wZ3TqJIeIbVep6sr) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Albufeira](https://open.spotify.com/album/0XhNEzxemDBZfzRIvsFYU6) | 2:24 |
+| 13 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 |
+| 14 | [Renascer](https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Renascer](https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h) | 3:33 |
 | 15 | [Stonehaven](https://open.spotify.com/track/3vt0Y1KJwaEzaDOF4shO2i) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Stonehaven](https://open.spotify.com/album/0yasqdzEzBoL89mK1NnyVw) | 2:27 |
-| 16 | [Seamless Change](https://open.spotify.com/track/5YFp36gVYMSr7gbBJCjiUM) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Seamless Change](https://open.spotify.com/album/7s1JYXjuX0MSzrM3eVzsWI) | 2:19 |
+| 16 | [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 |
 | 17 | [Between Us](https://open.spotify.com/track/0JGz1xrm1yj88x4Y6qdG0U) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Between Us](https://open.spotify.com/album/0SPgzK9Kg76KbZvzQyQX0T) | 2:40 |
-| 18 | [A Place to Rest](https://open.spotify.com/track/1WtOUuq0KJmZPauKfhLHtw) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [A Place to Rest](https://open.spotify.com/album/4XtjjoZREkxadMdGSyEgfI) | 2:39 |
-| 19 | [Renascer](https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Renascer](https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h) | 3:33 |
-| 20 | [Just Between Us](https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Just Between Us](https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5) | 2:06 |
-| 21 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
-| 22 | [The Lightkeeper](https://open.spotify.com/track/38XWOlV96eIYhww3A1f7I8) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Lightkeeper](https://open.spotify.com/album/3DZemnOhS2gzVyogZmGD15) | 2:17 |
-| 23 | [The House on the Hill](https://open.spotify.com/track/4xJU5iTln7c6i4GkX33yRm) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [The House on the Hill](https://open.spotify.com/album/6fM8Bwsk1I19TujeBYRFWI) | 2:31 |
-| 24 | [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 |
+| 18 | [Just Between Us](https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Just Between Us](https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5) | 2:06 |
+| 19 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
+| 20 | [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 |
+| 21 | [The Lightkeeper](https://open.spotify.com/track/38XWOlV96eIYhww3A1f7I8) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Lightkeeper](https://open.spotify.com/album/3DZemnOhS2gzVyogZmGD15) | 2:17 |
+| 22 | [The House on the Hill](https://open.spotify.com/track/4xJU5iTln7c6i4GkX33yRm) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [The House on the Hill](https://open.spotify.com/album/6fM8Bwsk1I19TujeBYRFWI) | 2:31 |
+| 23 | [Song For The Unspoken](https://open.spotify.com/track/4nh3IgTCBMCYXs5A1uIjEX) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Song For The Unspoken](https://open.spotify.com/album/5dLZ9DE1EwAi9rqWgcn60t) | 1:59 |
+| 24 | [South Side](https://open.spotify.com/track/0SajjB6LU6j4sLCFc4dGgP) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [South Side](https://open.spotify.com/album/0WOlYMDfxVZrV4tnjnwCIb) | 2:51 |
 | 25 | [Unanchored](https://open.spotify.com/track/163bwlnpGFSj3TCCFk2rT1) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Unanchored](https://open.spotify.com/album/5kR8Q9cvTarslNQpAw8ayJ) | 2:35 |
 | 26 | [Mindset](https://open.spotify.com/track/4KGyiKKDpKNGcn46Nbz5qj) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Mindset](https://open.spotify.com/album/402gxdke8XzhCG8MKkXT4b) | 2:25 |
 | 27 | [At a Glance](https://open.spotify.com/track/0ohcThy8ktuaj2QoGfiROC) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [At a Glance](https://open.spotify.com/album/10T5DllHUZDAkwudvT9QUV) | 2:28 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 29 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 |
 | 30 | [Serenade of the Pines](https://open.spotify.com/track/4j5AE4ET1c63FQY28xGBkM) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Serenade of the Pines](https://open.spotify.com/album/6AWJhJV5UVVbzHwW3S5L2j) | 2:43 |
 | 31 | [Fall Afresh](https://open.spotify.com/track/0ZEHv8Yv3IHdicQojugv7V) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [Fall Afresh](https://open.spotify.com/album/6Kaj5MHZXfSH7kGRrGhBpq) | 3:59 |
-| 32 | [Relief](https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Relief](https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq) | 2:44 |
-| 33 | [Slowly Rising](https://open.spotify.com/track/6uQxV9Y845sCOJju5miIXy) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Slowly Rising](https://open.spotify.com/album/23blTYLSSf3L1bGPNBVVnM) | 2:16 |
-| 34 | [South Side](https://open.spotify.com/track/0SajjB6LU6j4sLCFc4dGgP) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [South Side](https://open.spotify.com/album/0WOlYMDfxVZrV4tnjnwCIb) | 2:51 |
+| 32 | [Seamless Change](https://open.spotify.com/track/5YFp36gVYMSr7gbBJCjiUM) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Seamless Change](https://open.spotify.com/album/7s1JYXjuX0MSzrM3eVzsWI) | 2:19 |
+| 33 | [Relief](https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Relief](https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq) | 2:44 |
+| 34 | [Slowly Rising](https://open.spotify.com/track/6uQxV9Y845sCOJju5miIXy) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Slowly Rising](https://open.spotify.com/album/23blTYLSSf3L1bGPNBVVnM) | 2:16 |
 | 35 | [Impulses](https://open.spotify.com/track/3kmBJdeCOtTSRpbkfhJJcR) | [Bo Svensson](https://open.spotify.com/artist/6zWJx2jK0mRPBJEWMWyGTQ) | [Impulses](https://open.spotify.com/album/5bVqWoBoZ3OFiUkgF9Dgs1) | 2:07 |
 | 36 | [Endgame](https://open.spotify.com/track/6EyZTUkXVvaoT8ZkAEck4E) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Endgame](https://open.spotify.com/album/5IwXI2UHldpAqroGqKUEKT) | 2:36 |
 | 37 | [Brooke's Path](https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Brooke's Path](https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh) | 3:04 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 138 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
 | 139 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 
-Snapshot ID: `aCMobQAAAADSBq73sajwD0msj8BeNNVn`
+Snapshot ID: `aCtF8AAAAACWvyi+760pVSBB6CZkodZI`

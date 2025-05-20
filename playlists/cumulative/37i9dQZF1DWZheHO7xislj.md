@@ -4,7 +4,7 @@
 
 > Selection of soul music for the perfect romantic dinner.
 
-488 songs - 1 day 7 hr 29 min
+490 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [C.R.E.A.M.](https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Enter The 37th Chamber](https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5) | 2:54 | 2023-06-27 |  |
 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:02 | 2023-01-09 | 2023-06-28 |
 | [Caravan of Love](https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:41 | 2023-01-09 | 2023-06-28 |
+| [Carry My Name](https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Time Is A Thief](https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c) | 3:47 | 2025-05-19 |  |
 | [Caught Up In the Rapture](https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Jazzy Soul](https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I) | 4:10 | 2023-01-09 | 2023-06-28 |
 | [Cherish](https://open.spotify.com/track/4gjIpRYh26lwooGb2EIbef) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The 50 Greatest Songs](https://open.spotify.com/album/02BqgvQgdF71E6QcOjKpAp) | 3:54 | 2024-04-16 | 2024-07-30 |
 | [Cherish \- Single Version](https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:58 | 2023-01-09 | 2024-04-19 |
@@ -95,7 +96,7 @@
 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 | 2023-06-27 | 2024-06-26 |
 | [Crumbs Off The Table](https://open.spotify.com/track/4VjFt8o94AMF8UGP0KTMjq) | [Glass House](https://open.spotify.com/artist/4fuMi2l7TS729CITHR9Zub) | [Crumbs Off The Table](https://open.spotify.com/album/3XFYVHtA3vWhEUuqXBxuED) | 2:49 | 2023-01-09 | 2023-06-28 |
 | [Crystal Ball \(In the Cupboard\)](https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Marbles](https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE) | 3:12 | 2023-06-27 | 2024-04-19 |
-| [Crystal Ball \(In The Cupboard\)](https://open.spotify.com/track/4jUqJwXGM8MFkjGXbkcdkM) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Marbles](https://open.spotify.com/album/6HmPOmQbYaMUtjJ8C7AcUc) | 3:12 | 2025-02-10 |  |
+| [Crystal Ball \(In The Cupboard\)](https://open.spotify.com/track/4jUqJwXGM8MFkjGXbkcdkM) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Marbles](https://open.spotify.com/album/6HmPOmQbYaMUtjJ8C7AcUc) | 3:12 | 2025-02-10 | 2025-05-20 |
 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 | 2023-01-09 | 2023-06-28 |
 | [Defence](https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Defence EP](https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0) | 4:39 | 2025-02-10 |  |
 | [Demise \- Radio Edit](https://open.spotify.com/track/5I4Pd5lxfocsnQbTx5itEF) | [Wouter Hamel](https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0) | [De Zwarte Lijst](https://open.spotify.com/album/4mb8ZVI5MmAApY7909j5YK) | 3:54 | 2025-02-10 |  |
@@ -145,7 +146,7 @@
 | [Gun](https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Reflections](https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng) | 3:59 | 2023-06-27 |  |
 | [Hang On In There Baby \- Single Version](https://open.spotify.com/track/1ivc91R5yqk0aE7cjFovWe) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Music For Dancing](https://open.spotify.com/album/4hAufDdyxop196UgXDAMni) | 3:21 | 2023-01-09 | 2023-06-28 |
 | [Hard Times](https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM) | [Baby Huey](https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv) | [The Baby Huey Story: The Living Legend](https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T) | 3:23 | 2023-06-27 |  |
-| [Harlem](https://open.spotify.com/track/1Rw5xHOtxzB1MH186j5ICU) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean On Me: The Collection](https://open.spotify.com/album/2cKG9ycT87RUYUZfuAbThV) | 3:20 | 2025-02-10 |  |
+| [Harlem](https://open.spotify.com/track/1Rw5xHOtxzB1MH186j5ICU) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean On Me: The Collection](https://open.spotify.com/album/2cKG9ycT87RUYUZfuAbThV) | 3:20 | 2025-02-10 | 2025-05-20 |
 | [Harlem](https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:23 | 2023-06-27 | 2024-04-19 |
 | [Harvest for the World, Pt\. 1 \- Single Version](https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 3:31 | 2023-01-09 | 2023-06-28 |
 | [Have A Heart](https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Boss Man](https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK) | 3:10 | 2023-01-09 | 2025-03-14 |
@@ -258,6 +259,7 @@
 | [Listening Man](https://open.spotify.com/track/7vnn5LUUHthfsRkSufLXA0) | [The Bees](https://open.spotify.com/artist/6XiSck3QPuXk7ho6zlDz3P) | [The Festivals Album](https://open.spotify.com/album/7FMaHwR4ZzxxJjIdaB7fus) | 4:47 | 2024-04-16 |  |
 | [Little Bit of Feel Good](https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 4:02 | 2024-04-16 |  |
 | [Little Bit of Feel Good](https://open.spotify.com/track/28jg9LDVwisxGNGN8Wl2UD) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/1tLJLTMFumKOyXQ9Cwnb0g) | 4:02 | 2023-06-27 | 2024-04-19 |
+| [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 | 2025-05-19 |  |
 | [Long Weekend](https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Say That To Say This](https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq) | 4:07 | 2023-06-27 | 2024-02-08 |
 | [Look at the Smile](https://open.spotify.com/track/4BqC9W4fV9irOrKgStgKYr) | [Pacific Express](https://open.spotify.com/artist/5zUYeKreM9Lo7fCqxM60Bv), [Jonathan Bulter](https://open.spotify.com/artist/1PQxSbYThsQ8jXoxUUQOMW) | [Anthology\. Pt\. 2](https://open.spotify.com/album/7uxSrZ7tpDC4D04BQWUb21) | 3:17 | 2023-01-09 | 2023-06-28 |
 | [Love And Happiness](https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 5:03 | 2024-07-08 |  |

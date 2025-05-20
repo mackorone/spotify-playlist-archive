@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,179 likes - 196 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,206 likes - 196 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 195 | [Sycamore Tree](https://open.spotify.com/track/5fuREHlXV6wSWawIdCOUsu) | [Kathryn Bostic](https://open.spotify.com/artist/3HhAT8exMwAyeAB8rdOkw2) | [The Supremes at Earl's All\-You\-Can\-Eat \(Original Soundtrack\)](https://open.spotify.com/album/1gv66WkidHzyBv5ZKOCYve) | 1:10 |
 | 196 | [Freedom](https://open.spotify.com/track/5cd2i4wZI7Qi8KVfW2H8wQ) | [Lucas Vidal](https://open.spotify.com/artist/6MerhqnpjjeEbjZydltdlS) | [The Deliverance \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4gyGqyk3kCY9J139QNMLXW) | 1:47 |
 
-Snapshot ID: `aCa4UgAAAABxKuAaaXnLPb1GbIgO/10M`
+Snapshot ID: `AAAAAFmGZa4IdvYTQn3BLNrykro4owcL`

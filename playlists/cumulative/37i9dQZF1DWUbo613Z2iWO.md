@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover:  DAMEDAME\*
 
-1,266 songs - 2 day 16 hr 16 min
+1,267 songs - 2 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Dangerous](https://open.spotify.com/track/3fKSm7Bq45k4iUAlFTmfNO) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [Triggered, But Here](https://open.spotify.com/album/1TS7QegPT8foyilN65QNSU) | 3:28 | 2024-11-15 | 2024-12-14 |
 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 | 2024-05-24 | 2024-12-14 |
 | [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 | 2023-10-07 |
+| [Day One](https://open.spotify.com/track/4lmKJY3DL551jHx4vYh8VO) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Day One](https://open.spotify.com/album/3sxbmfvOkXIEyl4cmd39Ox) | 2:50 | 2025-05-19 |  |
 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 | 2022-07-29 | 2023-01-21 |
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2023-01-20 | 2023-03-11 |
 | [Daydream](https://open.spotify.com/track/2BhPOrPs64hlIiKHDfYUQR) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Daydream](https://open.spotify.com/album/3tzUohsQuxMekbz1BN1P6G) | 2:16 | 2025-04-18 |  |

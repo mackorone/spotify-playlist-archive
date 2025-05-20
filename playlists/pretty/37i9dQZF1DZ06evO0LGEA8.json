@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 279346,
+  "num_followers": 279466,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfRgAAAAACPrBrZjMtvxQOliCq0Vu38",
+  "snapshot_id": "aCkjAAAAAABhdVk+vbHsjKqyZRM6I1pU",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Yo",
-        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
+        "name": "De Vuelta a las Andadas",
+        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
       },
       "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 205403,
-      "name": "Que Se Yo",
-      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
+      "duration_ms": 221583,
+      "name": "Mi Clero",
+      "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
     },
     {
       "added_at": null,
@@ -179,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vuelta a las Andadas",
-        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
+        "name": "Que Se Yo",
+        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
       },
       "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 221583,
-      "name": "Mi Clero",
-      "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
+      "duration_ms": 205403,
+      "name": "Que Se Yo",
+      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 210076,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal Ejemplo, Vol. 3",
         "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 300300,
       "name": "Amor al Arte",
       "url": "https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Como la Espuma",
-      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Fumando",
         "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 330500,
       "name": "A Ti Mi Dama",
       "url": "https://open.spotify.com/track/6eOLT7ugIriFbbFYZVzh8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Como la Espuma",
+      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,308 likes - 48 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,433 likes - 48 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 47 | [Set the Controls for the Heart of the Sun \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4Ik6MZgx9KiJpslsXJBn1j) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 10:29 |
 | 48 | [Mademoiselle Nobs \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4ybAw525VM4O7FelMjxi7K) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 1:49 |
 
-Snapshot ID: `aCfRgAAAAAAg87ivrqrz0mUjdib5wc3S`
+Snapshot ID: `aCkjAAAAAADJOc4oNdjmIrVPCJfVkCQ4`

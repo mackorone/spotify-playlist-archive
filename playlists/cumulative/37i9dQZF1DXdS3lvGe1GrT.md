@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: pencil
+> Celebrating 10 years of the best new folk music from independent artists\. Cover: pencil
 
 1,680 songs - 4 day 4 hr 3 min
 

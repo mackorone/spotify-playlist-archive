@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 287 songs - 16 hr 15 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 288 songs - 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,5 +295,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 285 | [Flowerphagia](https://open.spotify.com/track/5xXCEamnhAvk9MJ7ICTNVT) | [Rakuen Shigai](https://open.spotify.com/artist/53wF30ZI8e4E9GHFLKCkNh) | [Flowerphagia](https://open.spotify.com/album/0foScpAXLbKDO82farKNyL) | 2:57 |
 | 286 | [\_\_\_\_\_\_](https://open.spotify.com/track/0NjGohOFKKxpJLLAovsEtO) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\_\_\_\_\_\_](https://open.spotify.com/album/2XgpdopvOJdcBC9Oq3xtCE) | 2:21 |
 | 287 | [A Little Sly](https://open.spotify.com/track/2ATyWYSGQCmVLPPQQ7lNzG) | [Saica](https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5) | [A Little Sly](https://open.spotify.com/album/2aFR7ecyJ3eAXDk5I8Z3NS) | 2:01 |
+| 288 | [just saying, the body is honest.](https://open.spotify.com/track/4z1O8W35JfmFjPlD9KYvid) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [just saying, the body is honest.](https://open.spotify.com/album/7grI8AGOeBtLLcmSPFHqvp) | 2:23 |
 
-Snapshot ID: `AAAJBfVkbtLezIwdfQq0xtpZWbARs3iw`
+Snapshot ID: `AAAJBv8LXYonU773xUuCRCRSX/8ySAUx`

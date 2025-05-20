@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Amygdala.",
-  "num_followers": 26868,
+  "num_followers": 26885,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
+        "name": "Huellas",
+        "url": "https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9",
+          "url": "https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "Huellas",
+      "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
         "name": "Catafalco",
         "url": "https://open.spotify.com/album/7jnV68FUuHlh11SIonJmmh"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 164722,
       "name": "Catafalco",
       "url": "https://open.spotify.com/track/3fJ0ARIzQ9hn2IbUs7tdls"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "Huellas",
-        "url": "https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF"
-      },
-      "artists": [
-        {
-          "name": "Yacar\u00e9",
-          "url": "https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "Huellas",
-      "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Si me quieres o si no",
-        "url": "https://open.spotify.com/album/1RwmbDa7JJOzzr1FRwTQz4"
-      },
-      "artists": [
-        {
-          "name": "The Killer Barbies",
-          "url": "https://open.spotify.com/artist/56yLECeTwcGv8OoIS9ycwP"
-        }
-      ],
-      "duration_ms": 175438,
-      "name": "Si me quieres o si no",
-      "url": "https://open.spotify.com/track/6UAcqX3SVd0rEJF7ki11Vd"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
         "name": "La gran renuncia",
         "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 146132,
       "name": "La gran renuncia",
       "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "Si me quieres o si no",
+        "url": "https://open.spotify.com/album/1RwmbDa7JJOzzr1FRwTQz4"
+      },
+      "artists": [
+        {
+          "name": "The Killer Barbies",
+          "url": "https://open.spotify.com/artist/56yLECeTwcGv8OoIS9ycwP"
+        }
+      ],
+      "duration_ms": 175438,
+      "name": "Si me quieres o si no",
+      "url": "https://open.spotify.com/track/6UAcqX3SVd0rEJF7ki11Vd"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
       },
       "artists": [
         {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
         }
       ],
-      "duration_ms": 193621,
-      "name": "ojal\u00e1",
-      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
+      "duration_ms": 137344,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "ojal\u00e1",
+      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
         "name": "Al Dente",
         "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 120000,
       "name": "Al Dente",
       "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
-      },
-      "artists": [
-        {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
-        }
-      ],
-      "duration_ms": 137344,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Ponzano",
-        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+        "name": "4 Impulsos M\u00e1s",
+        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Erin Memento",
+          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
         }
       ],
-      "duration_ms": 144308,
-      "name": "Ponzano",
-      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
+      "duration_ms": 207124,
+      "name": "4 Impulsos M\u00e1s",
+      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1415,22 +1415,6 @@
       "duration_ms": 228181,
       "name": "Tu desd\u00e9n",
       "url": "https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "4 Impulsos M\u00e1s",
-        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
-      },
-      "artists": [
-        {
-          "name": "Erin Memento",
-          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
-        }
-      ],
-      "duration_ms": 207124,
-      "name": "4 Impulsos M\u00e1s",
-      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1483,6 +1467,22 @@
       "duration_ms": 199426,
       "name": "Voy a morir sola",
       "url": "https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "Ponzano",
+        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 144308,
+      "name": "Ponzano",
+      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
+        "name": "Dando gracias",
+        "url": "https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3"
+      },
+      "artists": [
+        {
+          "name": "Oh! Marlene",
+          "url": "https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM"
+        }
+      ],
+      "duration_ms": 215272,
+      "name": "Dando gracias",
+      "url": "https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
         "name": "Tu No Te Quieres Matar",
         "url": "https://open.spotify.com/album/2HhH3TO0zHIUxw33rhfFXk"
       },
@@ -1563,38 +1579,6 @@
       "duration_ms": 186114,
       "name": "Tu No Te Quieres Matar",
       "url": "https://open.spotify.com/track/6cFITamYQzo5D47zmXgw2O"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "Tripitir",
-        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "Tripitir",
-      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "Huella de ti",
-        "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
-      },
-      "artists": [
-        {
-          "name": "Kokoshca",
-          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Huella de ti",
-      "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Dando gracias",
-        "url": "https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3"
+        "name": "Huella de ti",
+        "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
       },
       "artists": [
         {
-          "name": "Oh! Marlene",
-          "url": "https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM"
+          "name": "Kokoshca",
+          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
         }
       ],
-      "duration_ms": 215272,
-      "name": "Dando gracias",
-      "url": "https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX"
+      "duration_ms": 197253,
+      "name": "Huella de ti",
+      "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "Tripitir",
+        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "Tripitir",
+      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
     },
     {
       "added_at": "2025-05-15 22:00:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,349 likes - 188 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,375 likes - 188 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 187 | [Stay](https://open.spotify.com/track/7lZYzGYEEIFEIZef12LwOp) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Stay](https://open.spotify.com/album/6AJX7VLAe7oPNCJnjHGuih) | 2:31 |
 | 188 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 |
 
-Snapshot ID: `aCL+jAAAAAASd7kATndUj2ykQKBC4sji`
+Snapshot ID: `aCL+jAAAAABODifnBgHUZ1ZO78UnU7lK`

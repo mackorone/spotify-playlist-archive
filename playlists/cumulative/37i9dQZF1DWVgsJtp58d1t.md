@@ -4,7 +4,7 @@
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ"> Aminé </a>
 
-4,630 songs - 9 day 18 hr 20 min
+4,631 songs - 9 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3329,6 +3329,7 @@
 | [RESPECT](https://open.spotify.com/track/0eZk3lHzNSjJ9I5YAs26VQ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 2](https://open.spotify.com/album/4gxh0RuP5wCl7QzWuPRHQX) | 2:54 | 2024-11-22 | 2024-12-05 |
 | [restless](https://open.spotify.com/track/4Rgf41ic8OWW0Ah19yQAVC) | [Finding Neo](https://open.spotify.com/artist/1cCSaRtUGbb4ox3zMhqfPh) | [no man is an island](https://open.spotify.com/album/3lVVg98XNvwy64Kz22i1Qq) | 4:08 | 2022-04-08 | 2022-05-21 |
 | [Revenge](https://open.spotify.com/track/6FLvm4tT3QcTSIA4thfbut) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 4:14 | 2024-08-31 | 2024-09-07 |
+| [REVIVAL](https://open.spotify.com/track/4KVWHxyhzSgBgOGJ6w6RXW) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [ARCSTRUMENTALS 3](https://open.spotify.com/album/1EDd8dIur7WDoadtie5EZG) | 2:58 | 2025-05-19 |  |
 | [Rewind It](https://open.spotify.com/track/6mwu4F96qQlAWFU2lgy6E8) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc), [Jarrel the Young](https://open.spotify.com/artist/6JxB2H6EYCPWF4bEwuQ3uv) | [Rewind It](https://open.spotify.com/album/4pUNDU81EXj6KsRYZmZOzW) | 2:58 | 2022-04-15 | 2022-04-29 |
 | [Rey Mysterio](https://open.spotify.com/track/5lMANswgAGvs6C8lUIQHxH) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Rey Mysterio](https://open.spotify.com/album/06qkxi5dRtOx8Wtzu0XSc5) | 2:26 | 2022-09-30 | 2022-10-15 |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-15 | 2023-11-11 |
@@ -3658,7 +3659,7 @@
 | [Smurk Carter](https://open.spotify.com/track/3DFkDKoILOZ3an5oJzKDNZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Smurk Carter](https://open.spotify.com/album/0VSgeOD7TUUPesGNwaLadN) | 3:37 | 2023-11-10 | 2023-11-30 |
 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 | 2022-10-07 | 2022-10-29 |
 | [SNAKE EYES](https://open.spotify.com/track/0mwGp38d0uilKSuH4PiGXz) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WORLD WIDE WHACK](https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq) | 2:38 | 2024-03-15 | 2024-03-23 |
-| [Snap My Finger \(feat\. PinkPantheress\)](https://open.spotify.com/track/5LyKocU0lhUBlXrFKDxbBO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:21 | 2025-05-16 |  |
+| [Snap My Finger \(feat\. PinkPantheress\)](https://open.spotify.com/track/5LyKocU0lhUBlXrFKDxbBO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:21 | 2025-05-16 | 2025-05-20 |
 | [Snapshot](https://open.spotify.com/track/3OGNxgX9pdG2mfWM9TEdqa) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Snapshot](https://open.spotify.com/album/14HpBUhCd5cIrAXDVRaQ0a) | 3:40 | 2024-05-17 | 2024-05-25 |
 | [Sneak](https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:59 | 2023-08-18 | 2023-10-28 |
 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 | 2022-10-21 | 2022-11-19 |

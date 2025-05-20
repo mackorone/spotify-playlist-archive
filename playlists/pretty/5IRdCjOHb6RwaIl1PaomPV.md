@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent &amp; friends\. Featuring new music from Varg2TM &amp; Dj Smokey, plus the latest cuts from MIKE DEAN, Devon Again, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,954 likes - 100 songs - 5 hr 24 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,951 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

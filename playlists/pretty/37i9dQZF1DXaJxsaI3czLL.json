@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135487,
+  "num_followers": 135498,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "DESIGN",
-        "url": "https://open.spotify.com/album/0QXiv0aGxKVLugiTD6Wfc4"
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
       },
       "artists": [
         {
-          "name": "lo-key design",
-          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 199113,
-      "name": "CAREFREE",
-      "url": "https://open.spotify.com/track/3F3ND4kdC19c5n08haZHnk"
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -559,18 +555,22 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+        "name": "DESIGN",
+        "url": "https://open.spotify.com/album/0QXiv0aGxKVLugiTD6Wfc4"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         }
       ],
-      "duration_ms": 187666,
-      "name": "\u706f\u53f0 (Live Session)",
-      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+      "duration_ms": 199113,
+      "name": "CAREFREE",
+      "url": "https://open.spotify.com/track/3F3ND4kdC19c5n08haZHnk"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "\u306f\u306a\u3088\u3069",
-        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
-      },
-      "artists": [
-        {
-          "name": "Natsuko Nisshoku",
-          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
-        }
-      ],
-      "duration_ms": 261282,
-      "name": "\u3084\u3048",
-      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
         "name": "YELLOW DANCER",
         "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 251066,
       "name": "\u591c",
       "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
+        "name": "\u306f\u306a\u3088\u3069",
+        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "duration_ms": 261282,
+      "name": "\u3084\u3048",
+      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "What are you looking for",
-        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 401173,
-      "name": "\u304a\u3042\u3044\u3053",
-      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
         "name": "Westbound EP",
         "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+        "name": "What are you looking for",
+        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+      "duration_ms": 401173,
+      "name": "\u304a\u3042\u3044\u3053",
+      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1231,6 +1215,22 @@
       "duration_ms": 287827,
       "name": "\u7a93",
       "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
         "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
         "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "\u5bdd\u8a00\u306e\u6642\u9593",
-        "url": "https://open.spotify.com/album/2EX58WObR8lLwJ27RUjEEP"
-      },
-      "artists": [
-        {
-          "name": "Kicell",
-          "url": "https://open.spotify.com/artist/5n0o8fBtnm15nMHwCOEa6O"
-        }
-      ],
-      "duration_ms": 290833,
-      "name": "\u5bdd\u8a00\u306e\u6642\u9593",
-      "url": "https://open.spotify.com/track/0U9xmgGV9t6KouPHqYNvwV"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
         "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
         "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+        "name": "\u5bdd\u8a00\u306e\u6642\u9593",
+        "url": "https://open.spotify.com/album/2EX58WObR8lLwJ27RUjEEP"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "Kicell",
+          "url": "https://open.spotify.com/artist/5n0o8fBtnm15nMHwCOEa6O"
         }
       ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
+      "duration_ms": 290833,
+      "name": "\u5bdd\u8a00\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/0U9xmgGV9t6KouPHqYNvwV"
     },
     {
       "added_at": "2025-02-28 16:00:14",

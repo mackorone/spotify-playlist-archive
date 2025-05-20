@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33285,
+  "num_followers": 33293,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-05-15 22:00:19",
       "album": {
-        "name": "The Fire Inside",
-        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "The Fire Inside",
-      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
-    },
-    {
-      "added_at": "2025-05-15 22:00:19",
-      "album": {
         "name": "Chase My Heart Away (Hero)",
         "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
       },
@@ -823,8 +807,24 @@
     {
       "added_at": "2025-05-15 22:00:19",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+        "name": "The Fire Inside",
+        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 215483,
+      "name": "The Fire Inside",
+      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
+    },
+    {
+      "added_at": "2025-05-15 22:00:19",
+      "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 194474,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2025-05-15 22:00:19",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock & alternative from independent artists every Wednesday\. Cover: xiao xiao
+> Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
 1,934 songs - 4 day 10 hr 50 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Soprano
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,043 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,046 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Eternel amoureux](https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Eternel amoureux](https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF) | 2:43 |
 | 50 | [Je t'aime](https://open.spotify.com/track/4qGzHySKdaIZGGTUy6um9z) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Balla Diabaté](https://open.spotify.com/artist/315I2IHM3SKeXen5SdTerA) | [Lamomali Totem](https://open.spotify.com/album/4VJJRtcT8tGXwxGkHq51Hy) | 3:21 |
 
-Snapshot ID: `aCbqEAAAAABhSOrAJjItKk4hYiskgh8r`
+Snapshot ID: `aCbqEAAAAAAUr1UFBb4/bjm7AHftPiZQ`

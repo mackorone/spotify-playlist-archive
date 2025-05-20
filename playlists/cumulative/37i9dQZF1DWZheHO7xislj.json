@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Time Is A Thief",
+        "url": "https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227058,
+      "name": "Carry My Name",
+      "url": "https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo"
+    },
+    {
+      "album": {
         "name": "Jazzy Soul",
         "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
       },
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 192226,
       "name": "Crystal Ball (In The Cupboard)",
       "url": "https://open.spotify.com/track/4jUqJwXGM8MFkjGXbkcdkM"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 200360,
       "name": "Harlem",
       "url": "https://open.spotify.com/track/1Rw5xHOtxzB1MH186j5ICU"
@@ -4610,6 +4628,24 @@
       "duration_ms": 242720,
       "name": "Little Bit of Feel Good",
       "url": "https://open.spotify.com/track/28jg9LDVwisxGNGN8Wl2UD"
+    },
+    {
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
       "album": {

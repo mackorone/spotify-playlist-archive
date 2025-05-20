@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Bessan Ismail
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,750 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,980 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [Nsitik Walla](https://open.spotify.com/track/4IQnD9cH2EYCLfW4xzENAz) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Nsitik Walla](https://open.spotify.com/album/5stqwsIhXlVW0foboQytUu) | 3:10 |
 | 50 | [سمرة وصغيرة](https://open.spotify.com/track/5NQOrWxcIL2Xh9I1SDoRmy) | [Mahfoud Almaher](https://open.spotify.com/artist/6Hc6rbR7BcGj4qxnBrfWd3) | [سمرة وصغيرة](https://open.spotify.com/album/0oLeiK4TOJ93hWGFxSrOhZ) | 3:19 |
 
-Snapshot ID: `AAAAAIRcbtnxdJcDCfhXhRLkH9Orx8XQ`
+Snapshot ID: `aCnYiwAAAAA/IaSK4FAGw2ANlL3sivTA`

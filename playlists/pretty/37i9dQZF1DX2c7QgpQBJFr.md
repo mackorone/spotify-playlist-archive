@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Joseph
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,119 likes - 120 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,129 likes - 120 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,22 +12,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 2 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
 | 3 | [NINA](https://open.spotify.com/track/7uLElasp3c9Q9iprdQiZ7f) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [NINA](https://open.spotify.com/album/286q43PjSnVCswMRFofJDm) | 3:10 |
 | 4 | [Umore marea](https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Umore marea](https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh) | 2:38 |
-| 5 | [Stamina](https://open.spotify.com/track/2ABnuR6MnlQpKFiPsJpVqq) | [LOWRAH](https://open.spotify.com/artist/2JDox6TzjUdGSIaFPPCa1d) | [Stamina](https://open.spotify.com/album/0NcwgDwdINubbzZGnWTR5l) | 2:25 |
-| 6 | [Notte](https://open.spotify.com/track/46dCukq7AyyqqBvazNBFso) | [Luzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/5RQApnooaH6s8Aqw4Chp9V) | 3:47 |
-| 7 | [T’ARREPIGLIE](https://open.spotify.com/track/2FKT20BUZGm5aQiWJLDyCA) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [T’ARREPIGLIE](https://open.spotify.com/album/5xrzkb2dBEEtUrc4RgYIwt) | 2:22 |
-| 8 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
-| 9 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
-| 10 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
-| 11 | [UN POSTO NUOVO](https://open.spotify.com/track/6gHqzNylTKgd2QcPsVgQZE) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [SP57](https://open.spotify.com/album/1KgbsghZgWMiXOZBeffgJr) | 2:24 |
-| 12 | [Come capita](https://open.spotify.com/track/3mpBmi3DgUkvvfGyoNilnu) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Lontano da qui](https://open.spotify.com/album/4it8zQZNDxseNGZqgfEyH6) | 2:50 |
-| 13 | [La Tua Amica Più Cara](https://open.spotify.com/track/2JHbvtRvFkl6ptw57o5QCW) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [La Tua Amica Più Cara](https://open.spotify.com/album/5k9YwWkCXdNRYSwIcVtg3V) | 3:01 |
-| 14 | [Batticuore](https://open.spotify.com/track/7JkwDSroJk0cw9p1Q3VlDe) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Batticuore](https://open.spotify.com/album/0MwE0hjww0qCzjNy23IdGD) | 2:40 |
-| 15 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
-| 16 | [AUTODISTRUZIONE](https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [AUTODISTRUZIONE](https://open.spotify.com/album/2SpbiNy06VmEH0RUKTiMhb) | 3:54 |
-| 17 | [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 |
-| 18 | [Onitsuka Brown](https://open.spotify.com/track/6fX5AQ32hJ19TzExdeKSYi) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Onitsuka Brown](https://open.spotify.com/album/6e3kHhcWsFiZ61D4Ik1vvw) | 2:53 |
-| 19 | [Serenata Funky \(feat\. Vale LP\)](https://open.spotify.com/track/2LzAtdzc8PQ4efqa13Vqw9) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG), [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Moderno Italian Touch](https://open.spotify.com/album/1pWfQBZ8mHKWTaOPpq5eNl) | 3:24 |
-| 20 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 |
+| 5 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
+| 6 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 |
+| 7 | [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 |
+| 8 | [Serenata Funky \(feat\. Vale LP\)](https://open.spotify.com/track/2LzAtdzc8PQ4efqa13Vqw9) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG), [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Moderno Italian Touch](https://open.spotify.com/album/1pWfQBZ8mHKWTaOPpq5eNl) | 3:24 |
+| 9 | [Onitsuka Brown](https://open.spotify.com/track/6fX5AQ32hJ19TzExdeKSYi) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Onitsuka Brown](https://open.spotify.com/album/6e3kHhcWsFiZ61D4Ik1vvw) | 2:53 |
+| 10 | [Stamina](https://open.spotify.com/track/2ABnuR6MnlQpKFiPsJpVqq) | [LOWRAH](https://open.spotify.com/artist/2JDox6TzjUdGSIaFPPCa1d) | [Stamina](https://open.spotify.com/album/0NcwgDwdINubbzZGnWTR5l) | 2:25 |
+| 11 | [T’ARREPIGLIE](https://open.spotify.com/track/2FKT20BUZGm5aQiWJLDyCA) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [T’ARREPIGLIE](https://open.spotify.com/album/5xrzkb2dBEEtUrc4RgYIwt) | 2:22 |
+| 12 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
+| 13 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
+| 14 | [UN POSTO NUOVO](https://open.spotify.com/track/6gHqzNylTKgd2QcPsVgQZE) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [SP57](https://open.spotify.com/album/1KgbsghZgWMiXOZBeffgJr) | 2:24 |
+| 15 | [Come capita](https://open.spotify.com/track/3mpBmi3DgUkvvfGyoNilnu) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Lontano da qui](https://open.spotify.com/album/4it8zQZNDxseNGZqgfEyH6) | 2:50 |
+| 16 | [La Tua Amica Più Cara](https://open.spotify.com/track/2JHbvtRvFkl6ptw57o5QCW) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [La Tua Amica Più Cara](https://open.spotify.com/album/5k9YwWkCXdNRYSwIcVtg3V) | 3:01 |
+| 17 | [Batticuore](https://open.spotify.com/track/7JkwDSroJk0cw9p1Q3VlDe) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Batticuore](https://open.spotify.com/album/0MwE0hjww0qCzjNy23IdGD) | 2:40 |
+| 18 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
+| 19 | [AUTODISTRUZIONE](https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [AUTODISTRUZIONE](https://open.spotify.com/album/2SpbiNy06VmEH0RUKTiMhb) | 3:54 |
+| 20 | [Notte](https://open.spotify.com/track/46dCukq7AyyqqBvazNBFso) | [Luzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/5RQApnooaH6s8Aqw4Chp9V) | 3:47 |
 | 21 | [Briciole](https://open.spotify.com/track/16Q0PRfYWUokXZe3zZaDRv) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [Briciole](https://open.spotify.com/album/0tFbrC0a4sGq00hBJN2jwQ) | 2:53 |
 | 22 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 |
 | 23 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 119 | [si balla](https://open.spotify.com/track/74BwSf4chWpIK1Je1yY4mq) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [si balla](https://open.spotify.com/album/11cUhiW285mUK0BP6cjNVJ) | 3:16 |
 | 120 | [mille porte chiuse](https://open.spotify.com/track/2jdCN97QYgTZzsooK5TNLJ) | [Elex](https://open.spotify.com/artist/4j4Lzob5lrhowmGN5HKZWe) | [mille porte chiuse](https://open.spotify.com/album/6wzGmBfqYKz0DNOe8loeCe) | 2:27 |
 
-Snapshot ID: `aCZkKgAAAACbzaEuQ1jq3io0soZmcYil`
+Snapshot ID: `aCsMvAAAAAAftugDWd0YLrpQ6GsnGXDe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Rihanna, Morgan Wallen, Tate McRae, Cyril, Linkin Park, Dom Dolla + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,186 likes - 114 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,211 likes - 114 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 113 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 |
 | 114 | [alive](https://open.spotify.com/track/7cBQeXeyXxLkKper9J4yXS) | [st.sinner](https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G) | [alive](https://open.spotify.com/album/3FlzecT4g8ifzrDHbAL3Ov) | 3:01 |
 
-Snapshot ID: `aCa4SwAAAACdXnUKDtF/k1Ki6ua6guUY`
+Snapshot ID: `AAAAACXVXTaqJAzzQ2gtpdmOuOmpz9fk`

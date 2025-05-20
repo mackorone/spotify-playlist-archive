@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Kali Uchis
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,843 likes - 136 songs - 7 hr 26 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,838 likes - 136 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

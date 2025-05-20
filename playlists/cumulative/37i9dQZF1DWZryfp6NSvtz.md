@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Wolf Alice.
 
-8,588 songs - 20 day 8 hr 34 min
+8,589 songs - 20 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 | 2023-10-20 | 2023-10-28 |
 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 | 2023-04-09 |
 | [73%](https://open.spotify.com/track/5yxtUFA68Lw2quH4LzzQ99) | [Algiers](https://open.spotify.com/artist/58WFmcqNmejE2IpVIna43o) | [73%](https://open.spotify.com/album/1LClqZqM1YrB454pux236O) | 2:37 | 2023-02-10 | 2023-02-18 |
-| [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 | 2025-04-25 |  |
+| [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 | 2025-04-25 | 2025-05-20 |
 | [777](https://open.spotify.com/track/32T66P2JPhtWih0uh4EsCY) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [777](https://open.spotify.com/album/1Kvan76tJlcyct8V6awYkZ) | 2:37 | 2022-12-09 | 2022-12-17 |
 | [777](https://open.spotify.com/track/2LQ4b1UBcrg4APJXQKcXm2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [777](https://open.spotify.com/album/4paNAckfQ8CYaX3RXlxBQ1) | 3:23 | 2025-03-07 | 2025-03-15 |
 | [81 Tonnes](https://open.spotify.com/track/45X2Oew48LzoTigtwQ5axt) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [81 Tonnes](https://open.spotify.com/album/3g1RYqFhHKypcYSibeWFoS) | 4:00 | 2023-12-08 | 2023-12-16 |
@@ -6863,6 +6863,7 @@
 | [Starting Over](https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Starting Over](https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2) | 3:14 | 2025-01-31 | 2025-02-08 |
 | [STASH](https://open.spotify.com/track/0w93qDDVJDngfD1QtH4Ys3) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [STASH](https://open.spotify.com/album/3DGx5VZmX7Bg4sjA3kAoTV) | 3:03 | 2024-01-26 | 2024-02-03 |
 | [State of Disrepair](https://open.spotify.com/track/13iYqg2UKxw8AGa1KDdOgT) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [State of Disrepair](https://open.spotify.com/album/4N9uly3Yv9OGClyq6dXbQw) | 3:19 | 2025-04-18 | 2025-04-26 |
+| [State Of Hawaii](https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [State Of Hawaii](https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h) | 4:15 | 2025-05-20 |  |
 | [State of Mind](https://open.spotify.com/track/0YVdOpuH9zsSK2kIVzyCc2) | [Ben Gillies](https://open.spotify.com/artist/0gTHS3bd46X6RA57hTv6AH) | [State of Mind](https://open.spotify.com/album/140X4UQ5siuUi309cOQQ6Y) | 3:18 | 2023-09-22 | 2023-09-30 |
 | [State of Mind](https://open.spotify.com/track/3cmPgHfpLYPmFQNLlERzB1) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [State of Mind](https://open.spotify.com/album/128BpwiWqLrVUMR1bl4h2j) | 4:31 | 2022-11-25 | 2022-12-03 |
 | [State of the Union](https://open.spotify.com/track/1Ngcg8YWXXlhsf6KRQzLuw) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 2:50 | 2023-08-04 | 2023-08-12 |

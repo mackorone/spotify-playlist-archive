@@ -4815,6 +4815,28 @@
     },
     {
       "album": {
+        "name": "Esporte de Contato",
+        "url": "https://open.spotify.com/album/4PGQmUm37EMcpY56pXGprr"
+      },
+      "artists": [
+        {
+          "name": "Bonsai",
+          "url": "https://open.spotify.com/artist/0Gvwv9jx63T1jbtHrLpBI3"
+        },
+        {
+          "name": "CIANO",
+          "url": "https://open.spotify.com/artist/7xfrZYCbn3ZaoEi3q3X2qc"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108230,
+      "name": "Esporte de Contato",
+      "url": "https://open.spotify.com/track/0SqkCmE3XAIJ7VSanrqnjk"
+    },
+    {
+      "album": {
         "name": "Estreito",
         "url": "https://open.spotify.com/album/0GpMpV1rKwJiRT9yYuI1lq"
       },
@@ -13280,7 +13302,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 117500,
       "name": "Solta Minha Blusa",
       "url": "https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Sing Again3'\. \(JTBC  '싱어게인3'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,316 likes - 255 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,319 likes - 255 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 254 | [Destiny \- Live](https://open.spotify.com/track/527kJDCPcOWRVJekhnSV71) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Famous Singers \(From The "JTBC" TV Show\) Pt.10 \[Live\]](https://open.spotify.com/album/2R0Srd0yJCXZEtsrnIBDTA) | 4:17 |
 | 255 | [Dear J \- Live](https://open.spotify.com/track/3ABLE5Of2B4sbyHMGIye0d) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers \(From The "JTBC" TV Show\) Pt.10 \[Live\]](https://open.spotify.com/album/2R0Srd0yJCXZEtsrnIBDTA) | 4:21 |
 
-Snapshot ID: `AAAAANmRePPSFQxkarq5DpDPYbQxjw5O`
+Snapshot ID: `Za9sCAAAAACZK8GaCKURPxIDswWF1xAa`

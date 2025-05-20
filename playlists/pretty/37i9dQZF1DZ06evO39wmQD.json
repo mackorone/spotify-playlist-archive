@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3099,
+  "num_followers": 3100,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfRgAAAAACmYFB71foipMUtVnz4pjDk",
+  "snapshot_id": "aCkjAAAAAAC1XhLqfUyIan3alhJgyFlA",
   "tracks": [
     {
       "added_at": null,
@@ -290,11 +290,23 @@
         {
           "name": "Jaquel Spivey",
           "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        },
+        {
+          "name": "Angourie Rice",
+          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
+        },
+        {
+          "name": "Tim Meadows",
+          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
         }
       ],
-      "duration_ms": 68692,
-      "name": "A Cautionary Tale",
-      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
+      "duration_ms": 285221,
+      "name": "Revenge Party",
+      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
     },
     {
       "added_at": null,
@@ -382,23 +394,11 @@
         {
           "name": "Jaquel Spivey",
           "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        },
-        {
-          "name": "Angourie Rice",
-          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
-        },
-        {
-          "name": "Tim Meadows",
-          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
         }
       ],
-      "duration_ms": 285221,
-      "name": "Revenge Party",
-      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
+      "duration_ms": 68692,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
     },
     {
       "added_at": null,
@@ -459,18 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+        "name": "Glorious (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
       },
       "artists": [
         {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 167590,
-      "name": "Born for This",
-      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
+      "duration_ms": 147952,
+      "name": "Glorious - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
     },
     {
       "added_at": null,
@@ -495,26 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
       },
       "artists": [
         {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 147952,
-      "name": "Glorious - Rise Cast Version",
-      "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
+      "duration_ms": 167590,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
-        }
-      ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whispering (Rise Cast Version)",
         "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 211013,
       "name": "Whispering - Rise Cast Version",
       "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
+        }
+      ],
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: MEOVV\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,047 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,041 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Window](https://open.spotify.com/track/7M1gpGs02cJj7JFfmySamc) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [OTL](https://open.spotify.com/album/1MN1yMya6brnvDopCX2f5y) | 2:54 |
 | 50 | [ZNTZL](https://open.spotify.com/track/3uKpX4ZtaQ0ZslTPpc4kRL) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [94\-24 +1](https://open.spotify.com/album/3UjYTwZtOSekvKHgjM7ByQ) | 1:29 |
 
-Snapshot ID: `aCG4qQAAAACDR5Tba4KK5p0gwDVpQg35`
+Snapshot ID: `aCG4qQAAAAAtIkcCV5YiHv0O1CcmIdqM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Sebastian Yatra, Lola Indigo, Guitarricadelafuente, FERNANDOCOSTA con Lia Kali y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,930 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,942 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 69 | [Outside](https://open.spotify.com/track/1PiLGoIdjH3qKNXphnxuVc) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Tesfa Williams](https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6), [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20) | [Outside](https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV) | 4:02 |
 | 70 | [POV](https://open.spotify.com/track/1GjNAa3EmyJCyFprMWxwHn) | [grauu](https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH) | [POV](https://open.spotify.com/album/2laK4l5Ahxy0sUtBiqLqkz) | 2:43 |
 
-Snapshot ID: `aCbvZAAAAACaT/k9xwyJvPX34e5F1aCE`
+Snapshot ID: `aCrhSwAAAAAAb9NW3hLnXM3VK+lVovnk`

@@ -2,7 +2,7 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> POP YOURS開催まであと5日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: lilbesh ramko
+> POP YOURS開催まであと4日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tokyo世界
 
 951 songs - 1 day 19 hr 58 min
 
@@ -544,7 +544,7 @@
 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 | 2024-01-30 | 2024-03-06 |
 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 | 2024-02-01 |
 | [Next One](https://open.spotify.com/track/0uZTN9Q9GTVTuolAQ9lNXR) | [Luka Hatakeyama](https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy), [Kotaro Takaki](https://open.spotify.com/artist/3HufT5Dj9H5YGsy6reFzjg), [ZETTON](https://open.spotify.com/artist/2ANelKZy7C4j2ZYy1cEbPW) | [Next One](https://open.spotify.com/album/664zCUuW5wOOAKCdngHFdx) | 2:21 | 2024-10-23 | 2024-12-11 |
-| [nichijou:loopmania](https://open.spotify.com/track/680941jGFEU6BykwJaCi0A) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:16 | 2025-05-18 |  |
+| [nichijou:loopmania](https://open.spotify.com/track/680941jGFEU6BykwJaCi0A) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:16 | 2025-05-18 | 2025-05-20 |
 | [NIGHT DŌTONBORI](https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ) | [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d), [Yuki Namba](https://open.spotify.com/artist/1JWIHaz1I1QsNp3e789p4J) | [Ambivert Pt\. 2](https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH) | 2:23 | 2023-12-07 | 2023-12-20 |
 | [night time friends](https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [night time friends](https://open.spotify.com/album/1EwLfKRYRLYkLlJhBT0WHP) | 2:22 | 2025-04-22 |  |
 | [Nightmare](https://open.spotify.com/track/2rXdHhhMR5KsW3pqwvl8nO) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [In the Midst](https://open.spotify.com/album/4QT2lSpsyIm7gcwvdCMTRA) | 3:21 | 2024-08-07 | 2024-08-09 |

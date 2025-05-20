@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-565 songs - 23 hr 53 min
+567 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-04-28 | 2023-06-23 |
 | [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 | 2022-09-09 | 2024-10-16 |
 | [Brume Silencieuse](https://open.spotify.com/track/0G4v5eDVkTMUmdn5VWqbEM) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [Brume Silencieuse](https://open.spotify.com/album/2PY9afUqaVNeCgrHjBjdjw) | 2:21 | 2022-06-17 | 2024-04-05 |
+| [By Lantern’s Glow](https://open.spotify.com/track/3VCkapIuOx7uTIkkWfzea8) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [By Lantern’s Glow](https://open.spotify.com/album/2i7v1obeNGoTG9OoMmWOIS) | 2:19 | 2025-05-19 |  |
 | [By your Bedside](https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By your Bedside](https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3) | 1:49 | 2023-04-28 | 2023-06-23 |
 | [Calida Brisa](https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Calida Brisa](https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp) | 1:55 | 2023-06-09 | 2023-09-14 |
 | [Calma](https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Calma](https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr) | 2:01 | 2024-03-29 |  |
@@ -247,7 +248,7 @@
 | [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 | 2023-06-22 |  |
 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 | 2023-04-28 | 2023-06-23 |
 | [Jardim do Sanhos](https://open.spotify.com/track/5nG1fgUDpAhD6vHkMzvMYj) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Jardim do Sanhos](https://open.spotify.com/album/1JOtzNZElA13WhFttvVm5h) | 2:51 | 2024-03-29 | 2024-05-25 |
-| [Jardin Echoes](https://open.spotify.com/track/7DUHNgICKEoHX8AovfPjSR) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Jardin Echoes](https://open.spotify.com/album/7D2xhg9paf59ZToqcg7mNj) | 2:23 | 2025-05-13 |  |
+| [Jardin Echoes](https://open.spotify.com/track/7DUHNgICKEoHX8AovfPjSR) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Jardin Echoes](https://open.spotify.com/album/7D2xhg9paf59ZToqcg7mNj) | 2:23 | 2025-05-13 | 2025-05-20 |
 | [Keep a light](https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Hummingbird](https://open.spotify.com/album/66irZ4PKxClHMK8K2lmGHV) | 2:21 | 2023-05-19 |  |
 | [Kijkduin](https://open.spotify.com/track/63FOGV0xczvau1Ke14CnBw) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:39 | 2022-06-17 | 2023-02-25 |
 | [King's Cross](https://open.spotify.com/track/3CSM7adhRTYXlZFMVFcgjI) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [King's Cross](https://open.spotify.com/album/1MnC5vpGHMLa08YijzVp6K) | 2:32 | 2024-03-08 | 2024-05-25 |
@@ -382,13 +383,14 @@
 | [Por Cierto](https://open.spotify.com/track/6GxkZ3N4wZ8vasrQ32WeGx) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Por Cierto](https://open.spotify.com/album/1l2eYMCekxAnbam8PHtbwA) | 2:28 | 2023-01-06 | 2024-01-12 |
 | [Port Blair](https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Port Blair](https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd) | 2:34 | 2022-10-07 | 2024-05-25 |
 | [Porte moi](https://open.spotify.com/track/4A6k2vAHalGrOKobg3yxna) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Porte moi](https://open.spotify.com/album/24kciXvVVsVoNmEm1qRv8z) | 2:10 | 2022-12-09 | 2024-07-18 |
-| [Porto Cervo](https://open.spotify.com/track/7GxkKrjP9Mt8Wizi0YmjfX) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Porto Cervo](https://open.spotify.com/album/0CpRpMXCgd0TvUup9IoPz2) | 2:39 | 2024-05-10 |  |
+| [Porto Cervo](https://open.spotify.com/track/7GxkKrjP9Mt8Wizi0YmjfX) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Porto Cervo](https://open.spotify.com/album/0CpRpMXCgd0TvUup9IoPz2) | 2:39 | 2024-05-10 | 2025-05-20 |
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-06-17 | 2023-05-20 |
 | [Portobello Road](https://open.spotify.com/track/0ClM18qxHioIY0hT6PkxAv) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Portobello Road](https://open.spotify.com/album/4GEqERwesA2Vsnx6Vhq4Ms) | 2:28 | 2024-02-02 |  |
 | [Post for Mike](https://open.spotify.com/track/7u9DJQwaQsBxPQK8bZtVBh) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Post for Mike](https://open.spotify.com/album/0FwJmmmyBhWsa7PW9Z8r5y) | 2:13 | 2024-11-06 |  |
 | [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:16 | 2022-11-18 | 2023-08-25 |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 | 2023-09-08 |
 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 | 2024-05-24 |  |
+| [Promise](https://open.spotify.com/track/28WsjxgjNUnDQXNEBMop7t) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Promise](https://open.spotify.com/album/2MfDNepXa2wpt2hSy0Qfv6) | 2:14 | 2025-05-19 |  |
 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 | 2022-06-17 | 2024-05-10 |
 | [Puigmal](https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Open Waters](https://open.spotify.com/album/2EpNqhccApxUDtlgGcg9AT) | 2:19 | 2023-01-06 | 2025-01-14 |
 | [Pula](https://open.spotify.com/track/47vqZMWpeufV6u5XuwebuV) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Pula](https://open.spotify.com/album/2BwpxMCDdu29bukyVGNCwi) | 3:01 | 2024-05-10 |  |
@@ -470,7 +472,7 @@
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-19 |  |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Summer Rain](https://open.spotify.com/track/3M2tYT2LyJi8tISX7j1pbI) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Summer Rain](https://open.spotify.com/album/7wvfO96xIIFvY8ShoZjatX) | 3:02 | 2024-10-09 |  |
-| [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 | 2025-04-29 |  |
+| [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 | 2025-04-29 | 2025-05-20 |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-09-02 | 2023-05-20 |
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-09 | 2024-05-25 |
 | [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 | 2023-11-24 |
@@ -526,7 +528,7 @@
 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 | 2024-05-25 |
 | [Two Years of Solitude](https://open.spotify.com/track/5xjHdFsOlRgdnu6RJTqpwV) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:25 | 2022-06-17 | 2023-09-08 |
 | [Una Nueva Frontera](https://open.spotify.com/track/6pMVwNAVEW1zABrAAKY5sD) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Una Nueva Frontera](https://open.spotify.com/album/7BXWsrOKF9NG5HNerJ8MpB) | 1:57 | 2022-07-01 | 2023-09-14 |
-| [Under the Moon’s Shadow](https://open.spotify.com/track/0cgQ0VpEcGY1iUijg0LKm5) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Under the Moon’s Shadow](https://open.spotify.com/album/4hsdYu6wi7VxKhvIMratxW) | 2:43 | 2025-05-13 |  |
+| [Under the Moon’s Shadow](https://open.spotify.com/track/0cgQ0VpEcGY1iUijg0LKm5) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Under the Moon’s Shadow](https://open.spotify.com/album/4hsdYu6wi7VxKhvIMratxW) | 2:43 | 2025-05-13 | 2025-05-20 |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2023-06-23 |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2022-06-17 | 2022-09-09 |
 | [Une Nuit](https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Une Nuit](https://open.spotify.com/album/0a8HzDay7HoUoQ4TCCIis2) | 2:15 | 2022-06-17 | 2023-09-08 |

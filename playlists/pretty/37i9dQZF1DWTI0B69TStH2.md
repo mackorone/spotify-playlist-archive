@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:2SlZJko0OpkOSKoZzoMkta">Klaudia Marzec</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,080 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,084 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 45 | [maj](https://open.spotify.com/track/72p7tEf4cTsRHDAu9DJZEa) | [IVO](https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [maj](https://open.spotify.com/album/4Ns4V2lqnLDOSfiCMbzSkz) | 3:33 |
 | 46 | [BABEL](https://open.spotify.com/track/4sjgLBdo6735JMa2JJloOD) | [Wiater](https://open.spotify.com/artist/5UDAR3ouwzQY34hZrqNqxH) | [BABEL](https://open.spotify.com/album/3U8zZ07jMXTvMmbJW35LJB) | 3:48 |
 | 47 | [Z Tobą](https://open.spotify.com/track/6G1pQH9lz2AMPZHkf72McX) | [Magda Luba](https://open.spotify.com/artist/4ujTwsZ2wJQUlyeUYhnkpi) | [Z Tobą](https://open.spotify.com/album/47de9ufudVK4468xgwOGM2) | 3:40 |
-| 48 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |
+| 48 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |
 | 49 | [Don't Look](https://open.spotify.com/track/0XXvf3xK0c0v9gd5kYhwwl) | [Duxius](https://open.spotify.com/artist/6Dy5qLD5AEFFuC5K0SfaG9), [Konrad Słoka](https://open.spotify.com/artist/0xNLMoGxtyykrSEvBpwdPa) | [Don't Look](https://open.spotify.com/album/1XQjDOGSQajrQVtqv11Kuq) | 4:05 |
 | 50 | [i like your style](https://open.spotify.com/track/5C4vF08eVx4jq7UF9YL1qg) | [Safario](https://open.spotify.com/artist/38Ge46KyPYGGh1Bv6KULSD) | [i like your style](https://open.spotify.com/album/4oEfynwEm6F7Vabx33rnzb) | 2:36 |
 | 51 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [żal mi tamtych nocy i dni](https://open.spotify.com/track/6tCf14AIIjO3xTBGqQm2A5) | [krem](https://open.spotify.com/artist/0yCBLSwNzvZWxuxc8P1qIV) | [żal mi tamtych nocy i dni](https://open.spotify.com/album/7N37VSIude2hKME7rcIZqQ) | 3:52 |
 | 100 | [zabierz mnie na skraj](https://open.spotify.com/track/72W7xkmN5UETuTrdHBe9eX) | [Promyki](https://open.spotify.com/artist/4y2gAgEWSOw7AG93lm9dGq) | [zabierz mnie na skraj](https://open.spotify.com/album/6MrRhG8iBofK0BKTFX5jtO) | 1:42 |
 
-Snapshot ID: `aCPA5AAAAABGUO9cG/F8U3KpABDp30Wg`
+Snapshot ID: `aCrmIQAAAAALNuHmU9wVoDaOKos3aJ1v`

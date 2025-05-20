@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 231173,
       "name": "Danza Del Millonario",
       "url": "https://open.spotify.com/track/5Neo4H7Ga2xsuQEdn0OR5P"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 261320,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/2uSqTiy3miF53sbu2hboWe"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 203360,
       "name": "Kung Fu Chino",
       "url": "https://open.spotify.com/track/50jN87mwewKtbersd7RMxg"
@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Los Magn\u00edficos del ...",
+        "url": "https://open.spotify.com/album/612K8CPTqTRuoERSofG7ZK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aroma De Huarochir\u00ed",
+          "url": "https://open.spotify.com/artist/2ElN9nFy57WGAMrKmx9E3m"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "La Foto",
+      "url": "https://open.spotify.com/track/7anKzfSm6UJdjC5oFLrWpR"
+    },
+    {
+      "album": {
         "name": "Tesoros Escondidos: Infopesa Hidden Gems",
         "url": "https://open.spotify.com/album/5GBJlKCOmQqbZs4n6GWI5c"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 185560,
       "name": "La Selva en Carnaval",
       "url": "https://open.spotify.com/track/2T1Y38ip3ftCfFjtRDbakM"
@@ -812,7 +830,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 302602,
       "name": "Lamento en la Selva",
       "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-20",
       "duration_ms": 319706,
       "name": "Popcorn Andino",
       "url": "https://open.spotify.com/track/411ZgpZys4vAs0nvDolXhr"

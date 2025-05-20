@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,507 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,489 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 98 | [Ghost](https://open.spotify.com/track/6rPmWz9aoFcSqYMoxeMwuD) | [Delivery Service](https://open.spotify.com/artist/2ldcalEDsVntItKFwQgy4W) | [Ghost](https://open.spotify.com/album/7ncGRefKCkvmqtxPKuw1EM) | 3:46 |
 | 99 | [lose her](https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [kissing under an \(almost\) full moon](https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ) | 4:10 |
 
-Snapshot ID: `aCa4SwAAAAD0f15hpOkoZBOZBOWHF7Kj`
+Snapshot ID: `AAAAACkTz/eyAQfPo7n3uW9RefleTijY`

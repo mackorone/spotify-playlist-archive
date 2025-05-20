@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,528,729 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,527,131 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [very little effort](https://open.spotify.com/track/1PpumpPUEhoXvXO950nIHh) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:16 |
 | 75 | [Big Dreams](https://open.spotify.com/track/6d5F8T8SS44UMB2Nz8IMGe) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 3:11 |
 
-Snapshot ID: `AAAAAFvEad+QLtlrpreaxz+4Lqr/hojc`
+Snapshot ID: `aCa4TQAAAACbOleYqDMxHljK6ZynvmPZ`

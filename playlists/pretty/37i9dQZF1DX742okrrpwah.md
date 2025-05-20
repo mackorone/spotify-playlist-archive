@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Damiano David, Rihanna et Aya Nakamura x Joé Dwèt Filé au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,609 likes - 104 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,576 likes - 104 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 53 | [Repo Man](https://open.spotify.com/track/7vI08htFEStbX7PkVhZC7a) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Repo Man](https://open.spotify.com/album/2dlVw20ada4YRodv07jKQL) | 2:55 |
 | 54 | [ENCORE](https://open.spotify.com/track/0WIlFSPf7ed0lmQwKnLcx3) | [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD) | [ENCORE](https://open.spotify.com/album/4SP2jQkUWYs1qwpQtC6U6X) | 2:15 |
 | 55 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
-| 56 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Carrie Keller](https://open.spotify.com/artist/2Rl5lh15RzvEg0eEzfhzJQ) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
+| 56 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
 | 57 | [DAKAR](https://open.spotify.com/track/2ore2NdbOusRzUf8Rx6hRe) | [KLM](https://open.spotify.com/artist/51IIEUubMmZPCLqgGCSvgn) | [DAKAR](https://open.spotify.com/album/19rKveWLafntzeE4hTJIin) | 2:54 |
 | 58 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
 | 59 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |

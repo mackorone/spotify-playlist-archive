@@ -1,13 +1,33 @@
 {
   "description": "Chris Lake with the ID we've been waiting for!",
-  "num_followers": 208185,
+  "num_followers": 208246,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCZj+wAAAACVykb3uHaSqT5nnNQ09PVK",
+  "snapshot_id": "aCrdRwAAAABgsfUMDINCDfC3Vmwe5YlD",
   "tracks": [
+    {
+      "added_at": "2025-05-19 07:27:03",
+      "album": {
+        "name": "X-Rated",
+        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "X-Rated",
+      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
     {
       "added_at": "2025-05-15 22:00:27",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,134 likes - 63 songs - 3 hr 33 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,135 likes - 63 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 52 | [Marama \(Moon & Stars\)](https://open.spotify.com/track/5dVw9ZFGFuNuKQrl7Lh9xi) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki), [Saskia Lie\-Atjam](https://open.spotify.com/artist/6KnfZXg7Cg5eIMMLHy7TNJ) | [Marama \(Moon & Stars\)](https://open.spotify.com/album/3Uz5kXthMmPqTxdJwwKT17) | 3:51 |
 | 53 | [Disco Bobby](https://open.spotify.com/track/6aC2YeY1KmAvxaezZBfrh4) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Hever Jara](https://open.spotify.com/artist/6ge3BssssRfg9RGsndmWoA) | [Disco Bobby](https://open.spotify.com/album/5gPexTPhykTa6rgRWD54YO) | 2:22 |
 | 54 | [Hold On](https://open.spotify.com/track/6IzGDXZJpMLZDIRlrQuQc0) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Hold On](https://open.spotify.com/album/0W2q9C3kxFeChVSRvIFyxG) | 2:27 |
-| 55 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Carrie Keller](https://open.spotify.com/artist/2Rl5lh15RzvEg0eEzfhzJQ) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
+| 55 | [YES, PLEASE](https://open.spotify.com/track/3dW4qgABaGirPq8JbfRc0F) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce) | [HYPEBEAST](https://open.spotify.com/album/1s9SwNmlL7FgvtYfsYCP1a) | 2:13 |
 | 56 | [Need You Tonight](https://open.spotify.com/track/3z5osZWLr93wXQ4W2nJncs) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Need You Tonight EP](https://open.spotify.com/album/1YfvqyDu5D8KhhSIImLVwx) | 3:45 |
 | 57 | [Hold On](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Hold On](https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd) | 2:59 |
 | 58 | [Madness](https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Madness](https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73) | 2:38 |

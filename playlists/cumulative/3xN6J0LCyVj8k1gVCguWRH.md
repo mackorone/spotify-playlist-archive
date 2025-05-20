@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,926 songs - 11 day 11 hr 59 min
+4,929 songs - 11 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Clouds](https://open.spotify.com/track/7MCiJ15OnhI3qX7BnN3cQK) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Clouds](https://open.spotify.com/album/2nReVASJSJeVGf18GNbrM0) | 3:51 | 2024-06-14 | 2024-06-26 |
 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 | 2024-02-14 | 2024-02-26 |
 | [cloudynight](https://open.spotify.com/track/711CL9VKYRgAZwCm5kQ8wM) | [The Artist Ren](https://open.spotify.com/artist/2hRgsNuAo7lhUqmrl25WD5) | [cloudynight](https://open.spotify.com/album/3Yhto188w6UDqwMsEx9ZKe) | 2:50 | 2024-12-05 | 2024-12-20 |
+| [CLOVER](https://open.spotify.com/track/41R2bEqF0LBPAsp70uzT8M) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/2HHPMLMMpg3ZqpsQzKIxrI) | 3:10 | 2025-05-19 |  |
 | [Clubbin'](https://open.spotify.com/track/11rbqaiMgVC354axdYVgYI) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Clubbin'](https://open.spotify.com/album/5A1DlN7SHxiJrGin4eEm2m) | 3:00 | 2021-07-05 | 2021-07-12 |
 | [Coast Road](https://open.spotify.com/track/0vpDuO6obZOOdaUlFwn7N5) | [Vanishing Shores](https://open.spotify.com/artist/4o1hUb6mX2C3QpeF8r8lzX) | [Coast Road](https://open.spotify.com/album/2LL7WOuWVqmc88XlZl0n9M) | 3:30 | 2024-12-19 | 2025-03-23 |
 | [Cobarde](https://open.spotify.com/track/7yJpMTN7blW9XxApJ1LJEp) | [Alfred Gomez, Jr.](https://open.spotify.com/artist/1DuojCouhr2ERyP9ItCrmr) | [La Reina Peinandose](https://open.spotify.com/album/5t7H8jFkIKzZmQaknkUWix) | 3:30 | 2024-03-15 | 2024-03-29 |
@@ -1508,6 +1509,7 @@
 | [Follow Me To The Bathroom](https://open.spotify.com/track/5K9uKDr9FoFqX256NO1Spo) | [StopKaren](https://open.spotify.com/artist/1xaK3S0aooWWfQnxWYbkCz) | [Follow Me To The Bathroom](https://open.spotify.com/album/4NYcNjz2kMhq6OBrtGPG9V) | 2:36 | 2024-08-24 | 2024-09-05 |
 | [Follow You](https://open.spotify.com/track/5rp3zLyEAL3P6kqWK7QA0R) | [The Sultan](https://open.spotify.com/artist/5T41RBybGyziQJ8ImxjomX) | [Follow You](https://open.spotify.com/album/1dEqiCFtzaEVJpEK7xrwkM) | 2:21 | 2025-04-16 | 2025-04-28 |
 | [FONDA ON THE ROOF](https://open.spotify.com/track/2JfCe2B4MSLuXHsPfXVwTn) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [FONDA ON THE ROOF](https://open.spotify.com/album/33X7GECPoaOkejvJgD1f0j) | 2:34 | 2020-10-29 | 2020-11-23 |
+| [Fool For A Lie](https://open.spotify.com/track/7ciEoBuKgpUeUsmCYPNtls) | [Brynja Rán](https://open.spotify.com/artist/4ru6DsYY6QIegPYyD0AZOt) | [Fool For A Lie](https://open.spotify.com/album/3GBfIxPK7AzlSTfhBTXphp) | 2:49 | 2025-05-19 |  |
 | [Fool for You](https://open.spotify.com/track/6zOW2qJlrALfG1TTk5yKc1) | [Mariannie](https://open.spotify.com/artist/3NqchMmoxqZRQ6cFNjtPOx) | [Fool for You](https://open.spotify.com/album/4zt0muBCWjK6XoOFRzDRa8) | 3:53 | 2024-02-22 | 2024-03-05 |
 | [Fool's Gold](https://open.spotify.com/track/4DlZJSsJ2uVsiyBAYLp46z) | [DALE](https://open.spotify.com/artist/06wUJg0I0A4Eda5TxDqxvF) | [Fool's Gold](https://open.spotify.com/album/6HlgxuyeOCJRLvhe3DSimo) | 3:21 | 2021-12-04 | 2021-12-19 |
 | [Fool's Gold](https://open.spotify.com/track/1xlRZDn96eaHYNt7LF6FRA) | [Shio](https://open.spotify.com/artist/1ovnSGf7vzCpqI3om27rXz) | [Fool's Gold](https://open.spotify.com/album/4yZb49Gi9LRssLX6xv5m9z) | 3:30 | 2024-04-12 | 2024-04-24 |
@@ -2180,7 +2182,7 @@
 | [into the blackhole](https://open.spotify.com/track/62dIc92wJsmNNEiMYTmDjG) | [HOAX](https://open.spotify.com/artist/2B2EixNjepQtd6N3mDcNnh) | [into the blackhole](https://open.spotify.com/album/6LlKO61OUeroUHZIBxM5gu) | 3:17 | 2024-01-05 | 2024-01-23 |
 | [Into The Flames](https://open.spotify.com/track/5Kgtpti157zHU7bYZUKS2e) | [Kristy Chmura](https://open.spotify.com/artist/3l7JwmihcDqo1yccXUf5cl) | [Into The Flames](https://open.spotify.com/album/4Tr3oGNkmbpXrcZXAD0G1F) | 4:19 | 2025-03-29 | 2025-04-10 |
 | [Into the Heart](https://open.spotify.com/track/189mmnEksomXk86AvZ8kwk) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Into the Heart](https://open.spotify.com/album/2SAqHunL22wnXnwEIKmF8L) | 4:41 | 2021-02-06 | 2021-02-16 |
-| [Into the Sun](https://open.spotify.com/track/5UB8QzMC1sdyIumZPPC5xF) | [Phony Bedtime](https://open.spotify.com/artist/3nWUmcAlYlZicvf5HovsyI) | [Into the Sun](https://open.spotify.com/album/6AqqPo5X6qlDed1yiVeCuJ) | 4:06 | 2025-05-06 |  |
+| [Into the Sun](https://open.spotify.com/track/5UB8QzMC1sdyIumZPPC5xF) | [Phony Bedtime](https://open.spotify.com/artist/3nWUmcAlYlZicvf5HovsyI) | [Into the Sun](https://open.spotify.com/album/6AqqPo5X6qlDed1yiVeCuJ) | 4:06 | 2025-05-06 | 2025-05-20 |
 | [Into The Wild](https://open.spotify.com/track/7mnuBuSAUe1UUErw1dTgrM) | [Ken Norton](https://open.spotify.com/artist/36UPwl8VFSHwng6c2ysgDS) | [Into The Wild](https://open.spotify.com/album/7E4xarHovJ7zjVBrlyMJLu) | 2:17 | 2021-12-10 | 2021-12-27 |
 | [INTOXICATED](https://open.spotify.com/track/75tQhhigB2RmUfn3oPhkOI) | [DosiRo](https://open.spotify.com/artist/78Y3oUHXPqMiKsIB4RgePP) | [INTOXICATED](https://open.spotify.com/album/1pZu75gXgMI4nwbMYoHZoj) | 2:43 | 2024-03-10 | 2024-03-18 |
 | [Intuition](https://open.spotify.com/track/4laRXYXMuAsRmSzFFtSf7n) | [R E L](https://open.spotify.com/artist/1esV1Kbjb2mU2NuxzRDQ0D) | [Intuition](https://open.spotify.com/album/3cB9HMKRix6RXelhkfiLMO) | 3:21 | 2024-02-04 | 2024-02-16 |
@@ -4168,6 +4170,7 @@
 | [Teeth](https://open.spotify.com/track/3RHOJj7elCCF1ZDSb2Wql9) | [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A), [Ricky Bakken](https://open.spotify.com/artist/2KaPiBST3SmBLVOFiXAHt7), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG) | [Teeth](https://open.spotify.com/album/4vQQ7QLspJRHFxmLcaqxa8) | 3:53 | 2021-09-25 | 2021-10-11 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-05-05 | 2021-07-12 |
 | [Teleport](https://open.spotify.com/track/0Sl0DTpE41cXFwblnBt1UN) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/7H4nESb8FK8bqb7g1e5x0I) | 3:45 | 2022-09-06 | 2022-09-23 |
+| [Tell Me](https://open.spotify.com/track/4RPawykzCoBTIErppIOR25) | [Exta](https://open.spotify.com/artist/4tBdj6QpmWL84PRMmsPyLr) | [Tell Me](https://open.spotify.com/album/1zlss8nywCRYqYzlG6aFsf) | 2:50 | 2025-05-19 |  |
 | [Tell Me Everything](https://open.spotify.com/track/08yk0Ru7MajIvDNctERJGh) | [Jen Island](https://open.spotify.com/artist/08WAACfymiH4j2TBhLZtOV) | [Tell Me Everything](https://open.spotify.com/album/6RXftW0t8XuNWpuYP0buYV) | 3:14 | 2023-07-11 | 2023-07-21 |
 | [TELL ME THE TRUTH](https://open.spotify.com/track/5fyTcx9WHr0QgpghnrQ1nQ) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [WIP](https://open.spotify.com/album/0hKz3eJCUgQKXDf8AOBGSv) | 3:01 | 2024-10-18 | 2024-10-30 |
 | [Tell Me, Tell Me](https://open.spotify.com/track/0RG7Q9LdBk5pGqtwmzOckd) | [Soulah the Legend](https://open.spotify.com/artist/4eSjv2NrpwpUEbtVUJc4QA) | [Tell Me, Tell Me](https://open.spotify.com/album/0Zd09ukj28is6KgjNdbw60) | 3:14 | 2024-03-02 | 2024-03-15 |
@@ -4511,7 +4514,7 @@
 | [uprobablyforgotusbynow](https://open.spotify.com/track/0RgDMO9DOz3eozfcixyc7V) | [Sophie Said](https://open.spotify.com/artist/0uhGoYlsroDbyn3GvupHas), [Mollie Edsell](https://open.spotify.com/artist/6dFJm191lF7fUlZtHTQSso) | [uprobablyforgotusbynow](https://open.spotify.com/album/4Vu0jblfzcVKJoMvT3TyMa) | 3:15 | 2024-09-20 | 2024-10-01 |
 | [Upstream](https://open.spotify.com/track/6DqRFfV44ULigLeWT2LIJe) | [Julia Poorman](https://open.spotify.com/artist/199jpIBM5kC5bffHQjmsN3) | [Upstream](https://open.spotify.com/album/52gxEIXY8wExpCeVc1kFpc) | 3:23 | 2023-04-07 | 2023-04-30 |
 | [ur Love](https://open.spotify.com/track/01W5WozKg4erCEN7PNQZar) | [haks](https://open.spotify.com/artist/6FXKS5R7VtpGugMIrd7727) | [ur Love](https://open.spotify.com/album/1SVeATwnhbdMbpz56SwgDg) | 3:46 | 2023-04-01 | 2023-04-23 |
-| [Urban Cowboy](https://open.spotify.com/track/0eDQ1JYHNMJ8ijyr9QqGsG) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Urban Cowboy](https://open.spotify.com/album/58tzGaQOnEIISSvr4QPKMI) | 3:32 | 2025-05-06 |  |
+| [Urban Cowboy](https://open.spotify.com/track/0eDQ1JYHNMJ8ijyr9QqGsG) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Urban Cowboy](https://open.spotify.com/album/58tzGaQOnEIISSvr4QPKMI) | 3:32 | 2025-05-06 | 2025-05-20 |
 | [Urge](https://open.spotify.com/track/5HgrVsoix0n6x47Pq51XwT) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Urge](https://open.spotify.com/album/7boHAUIfgFWrZYVATAuXVn) | 2:14 | 2021-08-18 | 2021-09-05 |
 | [US](https://open.spotify.com/track/74zFXe3DiGIokkW4jKX626) | [Louis Burt](https://open.spotify.com/artist/0RXdz6K7iDJxYZaBqZJp6D) | [US](https://open.spotify.com/album/3nrFanqUZ7mTWEKkeOwwdN) | 3:17 | 2022-08-12 | 2022-08-28 |
 | [Us Two](https://open.spotify.com/track/3KFu7F825zP2DdDSsc0sFy) | [MENA](https://open.spotify.com/artist/06C7gYgsrQxKKMoVqyndzM) | [She Knows \- EP](https://open.spotify.com/album/4XjaTYmy2Afe6TyRBKaqr7) | 3:39 | 2019-12-28 | 2020-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1glCKAkR9ej.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Plaqueboymax
 
-[Spotify](https://open.spotify.com/user/spotify) - 581 likes - 34 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 699 likes - 34 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1glCKAkR9ej.md) - [plain]
 | 33 | [Outro](https://open.spotify.com/track/3WNO3T1OP7YkTg36xp6WYm) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [B4TM](https://open.spotify.com/album/5awR6t5bgOdiMljXuBicgi) | 2:03 |
 | 34 | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz) | 4:35 |
 
-Snapshot ID: `aCJHBgAAAADgIZPrs5ApbJJzr3SWQrAq`
+Snapshot ID: `aCJHBgAAAACwMruYSI5/nmdHsc+NvsiQ`

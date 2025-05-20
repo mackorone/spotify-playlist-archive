@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists every Wednesday\. Cover: DIESECT
+> Celebrating 10 years of the best new heavy music from independent artists\. Cover: DIESECT
 
 270 songs - 15 hr 56 min
 

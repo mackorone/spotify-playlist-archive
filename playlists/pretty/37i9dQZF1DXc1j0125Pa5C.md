@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Darlan
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,847 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,851 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 |
 | 75 | [Gamação Danada / Bem Melhor Que Você](https://open.spotify.com/track/5YxD04nZSCoTYKMzLqes2C) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Neguinho Da Beija Flor](https://open.spotify.com/artist/799vto7KXqGNiIYGCiEFa1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Empretecendo](https://open.spotify.com/album/3mWOmZ4NXi9iXyu46qZxf9) | 3:53 |
 
-Snapshot ID: `aCaqeAAAAABFcO0stuRZGqSmkPxAuEUU`
+Snapshot ID: `aCaqeAAAAAByoGQP4BV9datdjrbsaXGC`

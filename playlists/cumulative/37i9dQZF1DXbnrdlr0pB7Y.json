@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Aria de Primavera",
+        "url": "https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6"
+      },
+      "artists": [
+        {
+          "name": "Lex Quirk",
+          "url": "https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140880,
+      "name": "Aria de Primavera",
+      "url": "https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX"
+    },
+    {
+      "album": {
         "name": "Bajo El Mismo Cielo",
         "url": "https://open.spotify.com/album/0yCZPuSsHsDR7i9PIwKiJn"
       },

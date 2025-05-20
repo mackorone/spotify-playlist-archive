@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 40 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 |
 | 41 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 |
 | 42 | [Rouge](https://open.spotify.com/track/5Lq8jAdhc69KzkrRoc2pjB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [Rouge](https://open.spotify.com/album/208eaI6RT7zPv6lcM2ivII) | 2:28 |
-| 43 | [Cruel Intention](https://open.spotify.com/track/7daaWAY97rcxTkSvuEIxLw) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Cruel Intention](https://open.spotify.com/album/0dUQGioQuV6VpUj9mzhkMV) | 3:58 |
-| 44 | [Fast Lane](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Fast Lane](https://open.spotify.com/album/5HCQ1g5WrQuojo1eRv8FP6) | 2:00 |
+| 43 | [Fast Lane](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Fast Lane](https://open.spotify.com/album/5HCQ1g5WrQuojo1eRv8FP6) | 2:00 |
+| 44 | [Cruel Intention](https://open.spotify.com/track/7daaWAY97rcxTkSvuEIxLw) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Cruel Intention](https://open.spotify.com/album/0dUQGioQuV6VpUj9mzhkMV) | 3:58 |
 | 45 | [Gold](https://open.spotify.com/track/6GiUUbLouPiQglWFawWdpI) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Gold](https://open.spotify.com/album/5FnLDxa3uXueONAYV41Zpp) | 2:18 |
 | 46 | [We Are the Misfits](https://open.spotify.com/track/0DL6GTZ1WRIzIc5ciS6dzX) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [We Are the Misfits](https://open.spotify.com/album/5qoB0JB5ZLQS1VJs8YesPY) | 2:53 |
 | 47 | [Modern Melancholia](https://open.spotify.com/track/3brEzLUzMaCtfcSKrKqyIg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:12 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 123 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 124 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbxxigAAAABeQcszx3GsM/01oudDk3BD`
+Snapshot ID: `Abx3XAAAAABSYJaiJSm0oe/G/rmp+yx+`

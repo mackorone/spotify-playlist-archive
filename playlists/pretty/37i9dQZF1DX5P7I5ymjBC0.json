@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Rishab Rikhiram Sharma",
-  "num_followers": 77371,
+  "num_followers": 77412,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-04-22 04:30:00",
       "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Amjad Sabri",
+          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "duration_ms": 717190,
+      "name": "Rang",
+      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2025-04-22 04:30:00",
+      "album": {
         "name": "Coke Studio Season 10: Episode 2",
         "url": "https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 461580,
       "name": "Sayonee",
       "url": "https://open.spotify.com/track/4cIDTwm3FFPpIm6AFJNvhL"
-    },
-    {
-      "added_at": "2025-04-22 04:30:00",
-      "album": {
-        "name": "Coke Studio: Season 9",
-        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
-      },
-      "artists": [
-        {
-          "name": "Amjad Sabri",
-          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 717190,
-      "name": "Rang",
-      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
     },
     {
       "added_at": "2025-04-22 04:30:00",
@@ -995,6 +995,30 @@
     {
       "added_at": "2025-04-22 04:30:00",
       "album": {
+        "name": "Labon Se Baat - The Ghazal",
+        "url": "https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 311371,
+      "name": "Labon Se Baat - The Ghazal",
+      "url": "https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M"
+    },
+    {
+      "added_at": "2025-04-22 04:30:00",
+      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -1007,34 +1031,6 @@
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
-    },
-    {
-      "added_at": "2025-04-22 04:30:00",
-      "album": {
-        "name": "Bawla (feat. Khan Brothers) [Maati S1]",
-        "url": "https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh"
-      },
-      "artists": [
-        {
-          "name": "Mikey McCleary",
-          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        },
-        {
-          "name": "Sushant Divgikar",
-          "url": "https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8"
-        },
-        {
-          "name": "Parth Parekh",
-          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
-        },
-        {
-          "name": "Khan Brothers",
-          "url": "https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4"
-        }
-      ],
-      "duration_ms": 180782,
-      "name": "Bawla (feat. Khan Brothers) [Maati S1]",
-      "url": "https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht"
     }
   ],
   "unique_name": "Fusion Finds",

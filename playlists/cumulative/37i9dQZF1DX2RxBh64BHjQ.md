@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0HRGx78eQaMqoHoopLfi2h">Chuckyy</a>
 
-2,322 songs - 4 day 7 hr 13 min
+2,323 songs - 4 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Deadicated](https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Deadicated](https://open.spotify.com/album/6NaFv2sq5u2mDT2R8rA7E2) | 3:21 | 2023-02-10 | 2023-03-18 |
 | [Dealing](https://open.spotify.com/track/7gJfu7BEgfbdszFiADftbV) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Dealing](https://open.spotify.com/album/0aqo4nH7KpeA05hXJNa81h) | 2:44 | 2022-08-12 | 2022-09-17 |
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-03 | 2022-02-19 |
+| [Decisions](https://open.spotify.com/track/5OcjT1l4EgeG1D4DlUf7e5) | [Big Ro6](https://open.spotify.com/artist/4Jucp7VkE23J0DndVXzJGM) | [Decisions](https://open.spotify.com/album/6wkFf5UQIfV0XNEBqMszK4) | 3:01 | 2025-05-19 |  |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-28 | 2023-06-17 |
 | [Deep End](https://open.spotify.com/track/4VX9BbRWlXlaB0J6DRpzOo) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9) | 2:26 | 2024-05-17 | 2024-08-10 |
 | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz) | 2:11 | 2022-07-15 | 2022-09-10 |

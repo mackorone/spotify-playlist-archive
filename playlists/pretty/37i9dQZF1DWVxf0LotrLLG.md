@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,851 likes - 174 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,868 likes - 174 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Real Lies
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,069 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,087 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 39 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 40 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
 | 41 | [Rush \(Missing Out On Me\)](https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Purient](https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh) | [Rush \(Missing Out On Me\)](https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg) | 2:24 |
-| 42 | [The Mirror](https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [The Mirror](https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO) | 2:53 |
-| 43 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
+| 42 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
+| 43 | [The Mirror](https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [The Mirror](https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO) | 2:53 |
 | 44 | [Put Your Love On Me \(feat\. Henry Camamile\)](https://open.spotify.com/track/3vgDmz3zXSanBA52SeTmtD) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe), [Henry Camamile](https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB) | [Put Your Love On Me \(feat\. Henry Camamile\)](https://open.spotify.com/album/2nQZyTRC7ckSchCSdvL9Vg) | 3:19 |
 | 45 | [The Person You’d Like To Be](https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [The Person You’d Like To Be](https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ) | 3:17 |
 | 46 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |

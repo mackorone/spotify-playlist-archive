@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 112996,
+  "num_followers": 113014,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Esirinim",
+      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
         "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
         "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "ultrapop",
-        "url": "https://open.spotify.com/album/0thtDIEtYW3boH2VL9M9uw"
-      },
-      "artists": [
-        {
-          "name": "Birileri",
-          "url": "https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR"
-        }
-      ],
-      "duration_ms": 238453,
-      "name": "ultrapop",
-      "url": "https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Sana Ne Dedi Zaman",
         "url": "https://open.spotify.com/album/1Y0DAdqgQt6XDjKyXQVuFO"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+        "name": "ultrapop",
+        "url": "https://open.spotify.com/album/0thtDIEtYW3boH2VL9M9uw"
       },
       "artists": [
         {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+          "name": "Birileri",
+          "url": "https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Esirinim",
-      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
+      "duration_ms": 238453,
+      "name": "ultrapop",
+      "url": "https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz"
     },
     {
       "added_at": "2024-07-08 08:26:10",

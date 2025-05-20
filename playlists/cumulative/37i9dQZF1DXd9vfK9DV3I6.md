@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-311 songs - 22 hr 43 min
+312 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [El Baz](https://open.spotify.com/track/6w8jzsmcF4iYQPNAaBff1F) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Back2B](https://open.spotify.com/artist/6kMMLk9ZluESEiPOltXo4d), [Aziz Ozouss](https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K) | [Tayri EP](https://open.spotify.com/album/4WTRhimmsPFphkxvJygJ7K) | 4:26 | 2023-09-21 | 2023-10-24 |
 | [El Hawa](https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr), [Hayam Mansour](https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6) | [El Hawa](https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T) | 5:47 | 2022-01-03 |  |
 | [El Hob](https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c) | [Pharonic Electronic](https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA) | [El Hob](https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw) | 3:34 | 2024-02-20 |  |
+| [El Youm](https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [El Youm](https://open.spotify.com/album/5AVlQTQdIN8aoDBYGP3lAV) | 3:01 | 2025-05-19 |  |
 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 | 2023-02-01 |  |
 | [End of All Hopes](https://open.spotify.com/track/5RfWujDfoDdKIF70rsqo6N) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [End of All Hopes](https://open.spotify.com/album/5n6HG1bX4f2JT9lgXKps8P) | 3:15 | 2023-03-03 | 2023-07-05 |
 | [Enta Omry Remix 2022](https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Enta Omry Remix 2022](https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG) | 4:38 | 2022-06-27 | 2024-04-19 |
@@ -256,7 +257,7 @@
 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2022-02-24 |  |
 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 | 2020-10-18\* |  |
 | [Salat Ala Nabina \- Radio Edit](https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Salat Ala Nabina](https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq) | 3:38 | 2020-10-18\* | 2023-08-19 |
-| [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 | 2021-07-31 |  |
+| [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 | 2021-07-31 | 2025-05-20 |
 | [Sapana](https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI) | [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ), [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Buddha Bar \(by Sahalé & Ravin\)](https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX) | 4:44 | 2023-09-11 |  |
 | [Schhh](https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh](https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1) | 3:05 | 2020-10-18\* | 2023-12-09 |
 | [Schhh \(feat\. Irina Rimes\)](https://open.spotify.com/track/5OUdPlYOMsAxozx02nsnj0) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh \(feat\. Irina Rimes\)](https://open.spotify.com/album/7pkAN4GdpvAqbowYk3lelp) | 3:05 | 2023-12-04 | 2024-04-19 |

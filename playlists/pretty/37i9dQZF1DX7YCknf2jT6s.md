@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 ### [State of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s)
 
-> New jazz for open minds\. Cover: Joshua Redman
+> New jazz for open minds\. Cover: Béla Fleck, Edmar Castañeda & Antonio Sánchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,233 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,267 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Emmet’s Blues](https://open.spotify.com/track/4oewd0Mm4mvlHHA2hLY4td) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Emmet's Blues](https://open.spotify.com/album/36MVRpKXE5ecXxwOqxKADG) | 3:20 |
 | 100 | [Ofafrii](https://open.spotify.com/track/2FpbV6zmzihAGz5JepkYoX) | [Out Of/Into](https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU) | [Motion I](https://open.spotify.com/album/4lT8g8vcE3uQEVX5yNLeCd) | 7:47 |
 
-Snapshot ID: `aCa4WAAAAAC9wF1TiNwWn10ImUqATWVi`
+Snapshot ID: `aCtERAAAAADz+GqsOjN9Mi6gwnzg9TK9`

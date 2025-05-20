@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfRgAAAAAC9jLhXGluk5mXi/iupd0pt",
+  "snapshot_id": "aCkjAAAAAAAKlLCV+w7Y+Be9iNaCkpvq",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 223875,
-      "name": "Chrome Neon Jesus",
-      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
+      "duration_ms": 227820,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
     },
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+        "name": "Still Love (Deluxe)",
+        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
       },
       "artists": [
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "S.A. Martinez",
+          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
+      "duration_ms": 191323,
+      "name": "Dark Sky",
+      "url": "https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd"
     },
     {
       "added_at": null,
@@ -384,9 +388,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 227820,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
+      "duration_ms": 223875,
+      "name": "Chrome Neon Jesus",
+      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
     },
     {
       "added_at": null,
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love (Deluxe)",
-        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
       },
       "artists": [
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "S.A. Martinez",
-          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 191323,
-      "name": "Dark Sky",
-      "url": "https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd"
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
     },
     {
       "added_at": null,
