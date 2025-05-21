@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb39rhYOQBVZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb39rhYOQBVZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb39rhYOQBVZ)
 
-### [Viva Latino Billion Streams Club](https://open.spotify.com/playlist/37i9dQZF1DXb39rhYOQBVZ)
+### [Viva Latino: Most Streamed](https://open.spotify.com/playlist/37i9dQZF1DXb39rhYOQBVZ)
 
 > Legendary <a href="https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva?si=96ddec9640844dda">Latin</a> songs that have reached \(or are close to\) the 1 billion streams milestone!
 

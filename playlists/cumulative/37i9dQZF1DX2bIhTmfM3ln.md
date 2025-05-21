@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-760 songs - 1 day 13 hr 2 min
+761 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Abena](https://open.spotify.com/track/0MFTUz8gD3n8tqbJ2YWAmo) | [CN Amazing](https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC) | [Abena](https://open.spotify.com/album/4TBDpYlWBBUmzfkNNVhILy) | 2:54 | 2024-03-15 | 2024-05-03 |
 | [Abena](https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [757](https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4) | 2:22 | 2024-05-17 | 2024-07-06 |
 | [Active](https://open.spotify.com/track/5vyReRL7ZOhGs54ZGgQmVy) | [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Active](https://open.spotify.com/album/1RAUH3q6reqayy2beMhTQI) | 2:58 | 2024-06-28 | 2024-06-30 |
-| [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-22 |  |
+| [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-22 | 2025-05-21 |
 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 | 2024-10-18 |  |
 | [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-12 | 2024-11-22 |
 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 | 2024-02-13 | 2024-02-16 |
@@ -118,6 +118,7 @@
 | [Bye](https://open.spotify.com/track/2t1f9HDMwlhP8Zs0yks1Ic) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Del Beast](https://open.spotify.com/album/2orK7VUcUbUgzFtt0WItUq) | 2:15 | 2024-04-12 | 2024-07-03 |
 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 | 2024-05-24 | 2024-07-01 |
 | [Calabash](https://open.spotify.com/track/38fddB34U8mv6ID4jcvndR) | [Looking for Avala](https://open.spotify.com/artist/0ze3oqXaudUaJP8HBRuJJ1) | [Calabash](https://open.spotify.com/album/13lvpRxnYYnWZWgdnMVrRv) | 2:36 | 2023-01-27 | 2023-02-04 |
+| [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 | 2025-05-16 |  |
 | [CALENDAR \(with Moliy\)](https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CALENDAR \(with Moliy\)](https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc) | 3:02 | 2024-04-05 | 2024-05-03 |
 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 | 2024-06-28 | 2024-10-01 |
 | [Call My Phone](https://open.spotify.com/track/2Buv3NUP63ckzuKMouDGC6) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Call My Phone](https://open.spotify.com/album/4uYnTUhUNGcIt61Qt9j3yw) | 2:17 | 2023-03-03 | 2023-03-18 |

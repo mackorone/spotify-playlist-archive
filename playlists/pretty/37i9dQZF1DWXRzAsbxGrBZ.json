@@ -1,6 +1,6 @@
 {
   "description": "Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 86853,
+  "num_followers": 86994,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "aCZkBwAAAAATzIF6PQo5p+3bgwvsLEld",
   "tracks": [
+    {
+      "added_at": "2025-05-15 22:00:39",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        },
+        {
+          "name": "Tesfa Williams",
+          "url": "https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6"
+        },
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1PiLGoIdjH3qKNXphnxuVc"
+    },
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
@@ -35,30 +59,6 @@
       "duration_ms": 404210,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/3Sl5PAV2BxRAbTDdjcGOxs"
-    },
-    {
-      "added_at": "2025-05-15 22:00:39",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV"
-      },
-      "artists": [
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        },
-        {
-          "name": "Tesfa Williams",
-          "url": "https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6"
-        },
-        {
-          "name": "T.Williams",
-          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/1PiLGoIdjH3qKNXphnxuVc"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -411,30 +411,18 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Against All Odds",
-        "url": "https://open.spotify.com/album/5nUlwT3wtONm8n3j5YQfJh"
+        "name": "5PM",
+        "url": "https://open.spotify.com/album/787yhs27T4Dlpm5tpS78Pw"
       },
       "artists": [
         {
-          "name": "Earful Soul",
-          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
-        },
-        {
-          "name": "Poizen",
-          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
-        },
-        {
-          "name": "Shino Kikai",
-          "url": "https://open.spotify.com/artist/6JSU7gW4qNCnKJ2Twfy5jk"
-        },
-        {
-          "name": "NtoMusica",
-          "url": "https://open.spotify.com/artist/7JlErV6ZjUdULnC01bNbGw"
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
         }
       ],
-      "duration_ms": 495980,
-      "name": "Ngiqonyiwe",
-      "url": "https://open.spotify.com/track/18HzlQU9ydu2TifcFwNYAO"
+      "duration_ms": 395128,
+      "name": "5PM",
+      "url": "https://open.spotify.com/track/63bDqRt1omBYPQzfOK3Con"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -459,18 +447,30 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "5PM",
-        "url": "https://open.spotify.com/album/787yhs27T4Dlpm5tpS78Pw"
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/5nUlwT3wtONm8n3j5YQfJh"
       },
       "artists": [
         {
-          "name": "LaTique",
-          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+        },
+        {
+          "name": "Poizen",
+          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
+        },
+        {
+          "name": "Shino Kikai",
+          "url": "https://open.spotify.com/artist/6JSU7gW4qNCnKJ2Twfy5jk"
+        },
+        {
+          "name": "NtoMusica",
+          "url": "https://open.spotify.com/artist/7JlErV6ZjUdULnC01bNbGw"
         }
       ],
-      "duration_ms": 395128,
-      "name": "5PM",
-      "url": "https://open.spotify.com/track/63bDqRt1omBYPQzfOK3Con"
+      "duration_ms": 495980,
+      "name": "Ngiqonyiwe",
+      "url": "https://open.spotify.com/track/18HzlQU9ydu2TifcFwNYAO"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -563,26 +563,26 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Hornbill",
-        "url": "https://open.spotify.com/album/7268InxY1DaSpSWFVJOTiS"
+        "name": "Nyuku EP",
+        "url": "https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx"
       },
       "artists": [
         {
-          "name": "Earful Soul",
-          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
         },
         {
-          "name": "Poizen",
-          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
         },
         {
-          "name": "Deep Essentials",
-          "url": "https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO"
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
         }
       ],
-      "duration_ms": 433098,
-      "name": "Hornbill",
-      "url": "https://open.spotify.com/track/0i9ah34nxsEZfIPY1znLvs"
+      "duration_ms": 305274,
+      "name": "Mawelele",
+      "url": "https://open.spotify.com/track/0oARCmXr4Ov0Rb7TcJYUnu"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -639,26 +639,26 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Nyuku EP",
-        "url": "https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx"
+        "name": "Hornbill",
+        "url": "https://open.spotify.com/album/7268InxY1DaSpSWFVJOTiS"
       },
       "artists": [
         {
-          "name": "LaTique",
-          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
         },
         {
-          "name": "Chronical Deep",
-          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+          "name": "Poizen",
+          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
         },
         {
-          "name": "Leandra.Vert",
-          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+          "name": "Deep Essentials",
+          "url": "https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO"
         }
       ],
-      "duration_ms": 305274,
-      "name": "Mawelele",
-      "url": "https://open.spotify.com/track/0oARCmXr4Ov0Rb7TcJYUnu"
+      "duration_ms": 433098,
+      "name": "Hornbill",
+      "url": "https://open.spotify.com/track/0i9ah34nxsEZfIPY1znLvs"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -695,30 +695,26 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Ear II Heart",
-        "url": "https://open.spotify.com/album/33pN1Vmweyf74rBtDekWLy"
+        "name": "Nyuku EP",
+        "url": "https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx"
       },
       "artists": [
         {
-          "name": "Earful Soul",
-          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
         },
         {
-          "name": "George Lesley",
-          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
         },
         {
-          "name": "Poizen",
-          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
-        },
-        {
-          "name": "YOUNG NATOR",
-          "url": "https://open.spotify.com/artist/4eze3lhRuiEoQHH1ToKdS4"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         }
       ],
-      "duration_ms": 419490,
-      "name": "Ziyakhala (feat. Poizen, Young Nator)",
-      "url": "https://open.spotify.com/track/2KENx1Uwvh6yL1L07uJh69"
+      "duration_ms": 312857,
+      "name": "Nyuku",
+      "url": "https://open.spotify.com/track/09NBJKI7cAb5i9tuOLebTd"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -743,26 +739,30 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Nyuku EP",
-        "url": "https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx"
+        "name": "Ear II Heart",
+        "url": "https://open.spotify.com/album/33pN1Vmweyf74rBtDekWLy"
       },
       "artists": [
         {
-          "name": "LaTique",
-          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
         },
         {
-          "name": "Chronical Deep",
-          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
         },
         {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+          "name": "Poizen",
+          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
+        },
+        {
+          "name": "YOUNG NATOR",
+          "url": "https://open.spotify.com/artist/4eze3lhRuiEoQHH1ToKdS4"
         }
       ],
-      "duration_ms": 312857,
-      "name": "Nyuku",
-      "url": "https://open.spotify.com/track/09NBJKI7cAb5i9tuOLebTd"
+      "duration_ms": 419490,
+      "name": "Ziyakhala (feat. Poizen, Young Nator)",
+      "url": "https://open.spotify.com/track/2KENx1Uwvh6yL1L07uJh69"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/6SiYRYrg5AJtMpBvZ4hiTh"
+      },
+      "artists": [
+        {
+          "name": "Kaynine Deep",
+          "url": "https://open.spotify.com/artist/4GkyqPWF2na8Mojf10WS4g"
+        }
+      ],
+      "duration_ms": 424800,
+      "name": "Mama Fatima",
+      "url": "https://open.spotify.com/track/4YGKovxMJqx6L6B9Sg3yMY"
+    },
+    {
+      "added_at": "2025-05-15 22:00:39",
+      "album": {
         "name": "Love Is in the Air",
         "url": "https://open.spotify.com/album/4afBE0GdWEKiQGIRjde6GQ"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/6SiYRYrg5AJtMpBvZ4hiTh"
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
       },
       "artists": [
         {
-          "name": "Kaynine Deep",
-          "url": "https://open.spotify.com/artist/4GkyqPWF2na8Mojf10WS4g"
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
         }
       ],
-      "duration_ms": 424800,
-      "name": "Mama Fatima",
-      "url": "https://open.spotify.com/track/4YGKovxMJqx6L6B9Sg3yMY"
+      "duration_ms": 471724,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/3lnywexmmGZM6epAOYeGIS"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -1471,18 +1487,22 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+        "name": "Falling outta love often",
+        "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
       },
       "artists": [
         {
-          "name": "Sculptured Music",
-          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
         }
       ],
-      "duration_ms": 471724,
-      "name": "The Message",
-      "url": "https://open.spotify.com/track/3lnywexmmGZM6epAOYeGIS"
+      "duration_ms": 261428,
+      "name": "Falling outta love often - Radio Edit",
+      "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -1503,26 +1523,6 @@
       "duration_ms": 431259,
       "name": "Mashigo",
       "url": "https://open.spotify.com/track/6jUtlh19XJy7qzVbteiSwg"
-    },
-    {
-      "added_at": "2025-05-15 22:00:39",
-      "album": {
-        "name": "Falling outta love often",
-        "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
-      },
-      "artists": [
-        {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 261428,
-      "name": "Falling outta love often - Radio Edit",
-      "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "Good Vibes Only E.P",
-        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
-      },
-      "artists": [
-        {
-          "name": "Nastic Groove",
-          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
-        }
-      ],
-      "duration_ms": 353701,
-      "name": "You've Been Missing Me",
-      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
-    },
-    {
-      "added_at": "2025-05-15 22:00:39",
-      "album": {
         "name": "Dark Knight",
         "url": "https://open.spotify.com/album/6q1mQlsE1vy90DUeQlRKRq"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 391523,
       "name": "Ko Mafifing",
       "url": "https://open.spotify.com/track/46iR1U52EKPyrakvl8IzeS"
+    },
+    {
+      "added_at": "2025-05-15 22:00:39",
+      "album": {
+        "name": "Good Vibes Only E.P",
+        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
+      },
+      "artists": [
+        {
+          "name": "Nastic Groove",
+          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
+        }
+      ],
+      "duration_ms": 353701,
+      "name": "You've Been Missing Me",
+      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
     },
     {
       "added_at": "2025-05-15 22:00:39",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-05-15 22:00:39",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/2yeB5zVSHY9j17c5aHQKVS"
-      },
-      "artists": [
-        {
-          "name": "Gabbana",
-          "url": "https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX"
-        }
-      ],
-      "duration_ms": 462716,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/0jWuUt2H3aXrQFLeD35FVd"
-    },
-    {
-      "added_at": "2025-05-15 22:00:39",
-      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R"
       },
@@ -1647,6 +1631,30 @@
       "duration_ms": 384124,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW"
+    },
+    {
+      "added_at": "2025-05-15 22:00:39",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/6EmeH4g6wfJdrs8UsgpmRe"
+      },
+      "artists": [
+        {
+          "name": "D.General",
+          "url": "https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l"
+        },
+        {
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
+        },
+        {
+          "name": "V.Underground",
+          "url": "https://open.spotify.com/artist/4OuzOxUUiPZBhHWyYqTPRq"
+        }
+      ],
+      "duration_ms": 461705,
+      "name": "Shifted Blame",
+      "url": "https://open.spotify.com/track/7Cibk0qF9vFYo9GWXnCt0j"
     },
     {
       "added_at": "2025-05-15 22:00:39",

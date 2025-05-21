@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Bossman Dlow and Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,716 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,774 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 34 | [Nothing To Cry About](https://open.spotify.com/track/3xPrDOx37XhsDXTG8oWc4U) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Built Different \(Deluxe\)](https://open.spotify.com/album/1qOwMIpYZ6Cu0kcMxO3HHE) | 2:43 |
 | 35 | [Giannis Remix](https://open.spotify.com/track/5xL9W7jjSWUYqFizzN29Rp) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Giannis Remix](https://open.spotify.com/album/4KQ8bZDQDaG7ipj1ZQKVGu) | 2:53 |
 | 36 | [Dirty Money](https://open.spotify.com/track/211g6posYmEX5oXVeOrm6p) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Dirty Money](https://open.spotify.com/album/59kkdb76A7Ckc1OEcUpJpw) | 2:06 |
-| 37 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Toy Story](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
+| 37 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
 | 38 | [Microwave](https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Orange Tape](https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU) | 1:47 |
 | 39 | [Wassam \(feat\. NLE Choppa\)](https://open.spotify.com/track/6iYbG42oeIBoLOV0WI5PPb) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [One of a Kind](https://open.spotify.com/album/3iPGEV3ekMnLrw72BnBrqZ) | 3:08 |
 | 40 | [Texas \(Remix\) \[feat\. Lil’ Keke & Paul Wall\]](https://open.spotify.com/track/7qi60HP2NgPXXfpmBDx9oT) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Texas \(Remix\) \[feat\. Lil’ Keke & Paul Wall\]](https://open.spotify.com/album/0qaNSPiDxR0Pi5vILnK4Q5) | 3:12 |

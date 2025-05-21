@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-388 songs - 15 hr 35 min
+390 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 | 2025-02-19 |  |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-15 | 2025-04-10 |
 | [Back to you](https://open.spotify.com/track/58fIHb9sDH1QCsVLRBaUVq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Back to you](https://open.spotify.com/album/3OpMdkUcg1dq1JBc60ZVwz) | 2:20 | 2023-05-15 |  |
+| [Bagatelle](https://open.spotify.com/track/0aQU6LlCHEpzCPMV6P9wSr) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Bagatelle](https://open.spotify.com/album/1MgdAWw1nfS5B7WJkPY11S) | 2:54 | 2025-05-20 |  |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2021-06-27 | 2022-07-29 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/6kvjFChxzePaNR3WOr5krg) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/7HYUrYCfTTILVubFZtXFUf) | 2:06 | 2022-07-05 | 2023-05-16 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/7fd6mJ63YjCPjK7rBNBbIo) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/36RdEKMjHKzSwTbpThbEw0) | 2:06 | 2022-07-05 | 2022-11-13 |
@@ -121,6 +122,7 @@
 | [Ein kurzer Augenblick](https://open.spotify.com/track/5RblS5gGs0nfWBKk153KCN) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Ein kurzer Augenblick](https://open.spotify.com/album/2p8wMElkJei2CSNDEda1GW) | 2:20 | 2023-05-15 |  |
 | [Ellipse](https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Ellipse](https://open.spotify.com/album/3wPhguvaKQPIdvmoc5bkVW) | 2:28 | 2023-05-15 |  |
 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 | 2023-05-15 |  |
+| [Ember](https://open.spotify.com/track/7yZcjQGSDcKdxAmxJ7rvqd) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Ember](https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38) | 2:44 | 2025-05-20 |  |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
 | [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-05-15 | 2023-10-05 |
 | [Evergreen](https://open.spotify.com/track/633YySlXq6qxSdCLFovXdv) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Evergreen](https://open.spotify.com/album/0znHYudTgnbzsCCfjqCxNj) | 3:45 | 2021-06-27 | 2023-05-16 |
@@ -176,7 +178,7 @@
 | [IX...like a calm and careless morning](https://open.spotify.com/track/5TLKoeFcSwM19cqypqC0cK) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [THE \(HE\)ART OF US](https://open.spotify.com/album/6NAg8FBuYOMmoKN7orCqcI) | 2:14 | 2023-07-24 | 2024-04-19 |
 | [IX...like a calm and careless morning](https://open.spotify.com/track/7ocJrYaBSpfFmj5CrMxsrA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:14 | 2023-06-19 | 2023-07-27 |
 | [IX...like a calm and careless morning](https://open.spotify.com/track/7qdYmvnXg7STSS9rxlBOQR) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [IX...like a calm and careless morning](https://open.spotify.com/album/4qgS3tewxI4dUg1Ckv5Z4U) | 2:14 | 2023-05-15 |  |
-| [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-02-19 |  |
+| [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-02-19 | 2025-05-21 |
 | [Julia \(Gatwick Airport\)](https://open.spotify.com/track/5JgV5PLrfGUOE0fEhR6wiW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:59 | 2021-06-27 | 2023-05-16 |
 | [July Nights](https://open.spotify.com/track/0z5lgOqdWID9iAH5fxITk5) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Nights](https://open.spotify.com/album/6aFOBMvSiEbkGTPCUAYwmw) | 1:35 | 2021-06-27 | 2023-05-16 |
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-05-15 |  |

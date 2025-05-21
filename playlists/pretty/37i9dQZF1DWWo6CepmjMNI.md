@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Something Sweet
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,816 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,821 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 5 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
 | 6 | [Still Be Her \(TH.Version\)](https://open.spotify.com/track/2lGYLGdo5GYhoUD5N0uiB2) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Still Be Her \(TH.Version\)](https://open.spotify.com/album/6PhK1QVT9UiuCHeVV4vkGh) | 5:25 |
 | 7 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 |
-| 8 | [กาลบันทึก](https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL) | [CHANDAGE](https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv), [Sarawit Doungngam](https://open.spotify.com/artist/1hgGmFZ1SJkxLxNpbQPHtd) | [กาลบันทึก](https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0) | 4:52 |
+| 8 | [กาลบันทึก](https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL) | [CHANDAGE](https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv) | [กาลบันทึก](https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0) | 4:52 |
 | 9 | [ลมร้อน \(Blow Away\)](https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ลมร้อน \(Blow Away\)](https://open.spotify.com/album/23KgslqlvgoquZW8f7MNfc) | 5:08 |
 | 10 | [ดั่งการถูกฝัง\(Unreal Catacomb\)](https://open.spotify.com/track/31Joa4uMV4huGmglEDtDdq) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [ดั่งการถูกฝัง\(Unreal Catacomb\)](https://open.spotify.com/album/33yd6qAl1Xi79gjB6IcARA) | 6:05 |
 | 11 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |

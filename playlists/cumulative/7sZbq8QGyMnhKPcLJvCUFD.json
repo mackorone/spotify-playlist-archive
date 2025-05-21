@@ -7345,6 +7345,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/53MP6iUg5uw3OFWwY32cGR"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0hDaKYsiOvAnZPxAIGxrmq"
+    },
+    {
+      "album": {
         "name": "LET THEM HAVE IT",
         "url": "https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P"
       },

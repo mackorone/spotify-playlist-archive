@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5bfa\u4e45\u4fdd\u4f36\u77e2",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Alter Ego",
   "name": "Modern Jazz Japan",
   "tracks": [
     {
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 297010,
       "name": "China Girl",
       "url": "https://open.spotify.com/track/2Wt2CcSsjOyHiVGekE46Pw"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 533760,
       "name": "Day 1",
       "url": "https://open.spotify.com/track/1k75rxQyqIuitzhLndCxKe"
@@ -1606,6 +1606,24 @@
       "duration_ms": 138412,
       "name": "Death by Glamour (with Jacob Koller)",
       "url": "https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw"
+    },
+    {
+      "album": {
+        "name": "3\u00d73",
+        "url": "https://open.spotify.com/album/71XFsx5nXao1DJ5DY9k02t"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322773,
+      "name": "Decade of Decadence",
+      "url": "https://open.spotify.com/track/3ofL9RisfvItfSvpUy7QN1"
     },
     {
       "album": {
@@ -2076,6 +2094,28 @@
       "duration_ms": 553685,
       "name": "Face To Face - Live at 100BAN Hall, Kobe, 2022",
       "url": "https://open.spotify.com/track/2KDNxWVhoKrb0eD3I1rRlH"
+    },
+    {
+      "album": {
+        "name": "Fall (feat.Shinpei Ruike)",
+        "url": "https://open.spotify.com/album/3PwfmA3fnPu10cybU9S5dL"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5ba4\u97ff",
+          "url": "https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0"
+        },
+        {
+          "name": "Shinpei Ruike",
+          "url": "https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 654933,
+      "name": "Fall - feat.Shinpei Ruike",
+      "url": "https://open.spotify.com/track/2XGxo0fRxLfI6NRSIRbsY0"
     },
     {
       "album": {
@@ -3864,6 +3904,10 @@
         {
           "name": "Takuya Kuroda",
           "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "Corey King",
+          "url": "https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc"
         }
       ],
       "date_added": "2025-03-04",
@@ -4921,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "Ri:ng",
+        "url": "https://open.spotify.com/album/310atXDhjjKBNxP5rTVt8U"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264986,
+      "name": "Ri:ng",
+      "url": "https://open.spotify.com/track/0Kv39zmy409KWK8xZ3xpVs"
+    },
+    {
+      "album": {
         "name": "Run&Gun",
         "url": "https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT"
       },
@@ -5656,7 +5718,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 218673,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o"
@@ -6554,7 +6616,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 223100,
       "name": "URAH",
       "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
@@ -7164,7 +7226,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 310264,
       "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
       "url": "https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey"

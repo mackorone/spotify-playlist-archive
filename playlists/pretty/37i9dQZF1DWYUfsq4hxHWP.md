@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Tyler Nance, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,237 likes - 195 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,259 likes - 195 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 194 | [Sugarhoney](https://open.spotify.com/track/3ONx2rNlKkn0k1jFLwq8ys) | [Heartwreckers](https://open.spotify.com/artist/5tLHZ7VEXOqL26DGh3OC3Z) | [Sugarhoney](https://open.spotify.com/album/3b7hI8N1eQdnpoD8pBcQDL) | 3:08 |
 | 195 | [Curveball](https://open.spotify.com/track/0d2FxAQZvc1XjIKrXxKk3j) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Curveball](https://open.spotify.com/album/0rJNuvG3wIyPXHnqfmoWpf) | 3:25 |
 
-Snapshot ID: `aCe7kgAAAABS3NqvatiAVzpvY9t9sF1k`
+Snapshot ID: `aCzNfAAAAAAsaHHQq894Wrja1GIk5goc`

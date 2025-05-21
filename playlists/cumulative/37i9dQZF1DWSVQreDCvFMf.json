@@ -2989,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "Kidlat",
+        "url": "https://open.spotify.com/album/3EjMtnIERkGojDYYjZc2uL"
+      },
+      "artists": [
+        {
+          "name": "Plume",
+          "url": "https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220453,
+      "name": "Kidlat",
+      "url": "https://open.spotify.com/track/6utifKVIx7dSUzD8D7ivW2"
+    },
+    {
+      "album": {
         "name": "Kilala",
         "url": "https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN"
       },

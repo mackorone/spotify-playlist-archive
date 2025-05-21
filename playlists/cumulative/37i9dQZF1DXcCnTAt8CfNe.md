@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-391 songs - 18 hr 36 min
+396 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2021-12-09 | 2024-11-29 |
 | [For the time being](https://open.spotify.com/track/1vpxWzr6wT0YNgk69ChHRC) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [For the time being](https://open.spotify.com/album/6boBl25GLI2idhwiKeIqW1) | 2:54 | 2024-04-04 | 2025-01-10 |
 | [Frid](https://open.spotify.com/track/6CgkDd7PJVghkT2gDA3EJ5) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Frid](https://open.spotify.com/album/0bgm25oNFNBYOznSIykkvB) | 2:19 | 2025-03-19 |  |
+| [Fuchsia I \- ambient version](https://open.spotify.com/track/2hMriKAhXJ0g3qf5Puky8c) | [Martin Pedersen](https://open.spotify.com/artist/0A9ePRXl8h3OR5mNskKwsT), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Fuchsia I \(ambient version\)](https://open.spotify.com/album/2kSUMCnde1qEKWbl0SMdl6) | 2:45 | 2025-05-20 |  |
 | [Gentle Night](https://open.spotify.com/track/70mDYH59Vd9ipZFg7BmLvk) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Golden Hour](https://open.spotify.com/album/5XYFdD3nM3F5A1WlIB8o8Z) | 2:52 | 2021-12-09 |  |
 | [Gentle Vortex](https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Gentle Vortex](https://open.spotify.com/album/1OwRPJ3z2iVdITKiGfoxor) | 2:35 | 2025-01-09 | 2025-03-05 |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2021-12-09 | 2025-02-11 |
@@ -265,6 +266,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-12-09 |  |
 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 | 2025-03-19 |  |
 | [Reflection](https://open.spotify.com/track/2UBZ84n2wNnQJmSwZgyV9m) | [n.i.g.h.t](https://open.spotify.com/artist/2GyMdvV1PHqJFIet45Hobk) | [Reflection](https://open.spotify.com/album/1w7Q6LXwYTvhWNdt6ZQuXS) | 2:59 | 2024-04-04 | 2024-09-06 |
+| [Reflections Of The Night](https://open.spotify.com/track/6zupaOniKyBMDFDnimL7qx) | [Gian Moran](https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4) | [Reflections Of The Night](https://open.spotify.com/album/5GYDz9TMoTAIVdQEZ8Pp4M) | 2:24 | 2025-05-20 |  |
 | [Refurnishing](https://open.spotify.com/track/2baK2YeXyKKinyceIk2ewm) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Refurnishing](https://open.spotify.com/album/1saYEt5YGjj3cwskkpw7e3) | 2:43 | 2024-06-10 | 2025-02-11 |
 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 | 2021-12-09 | 2025-01-10 |
 | [Requiem for Reem](https://open.spotify.com/track/4YffSCjHWir1igvZR0LRMN) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [The Breadline / Requiem For Reem](https://open.spotify.com/album/7y6xKQOJFt9jnm4yfU9SEG) | 2:51 | 2025-03-04 |  |
@@ -351,6 +353,7 @@
 | [The Garden](https://open.spotify.com/track/2OaoXYurShXZuFU5hmUva6) | [Vita Menzer](https://open.spotify.com/artist/42qLi1hQmxw9USs3HEfXVV) | [The Garden](https://open.spotify.com/album/45dL7k8Mvl17qNTwRdE1OO) | 2:27 | 2021-12-09 | 2024-11-29 |
 | [The Gathering Dusk](https://open.spotify.com/track/3uSV4d8Opejd6aCx0Phoaq) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [The Gathering Dusk](https://open.spotify.com/album/0ZYhSA0Te716xYjqTRXhbw) | 3:19 | 2025-03-19 |  |
 | [The Grass](https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv) | [Brandon Cason](https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt) | [The Grass](https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX) | 2:37 | 2021-12-09 |  |
+| [The Hours After Midnight](https://open.spotify.com/track/6wftiKm5d0wRxTDr5doOJL) | [Izzi Dunn](https://open.spotify.com/artist/3UZ6XGvkHtSbiVRfRF7eqz) | [The Hours After Midnight](https://open.spotify.com/album/4f6kFgxxnpt6UHzF6SZDHA) | 4:30 | 2025-05-20 |  |
 | [The Inner Landscape](https://open.spotify.com/track/1jb2tLUKTYvgMmwixWgNhz) | [René Sturgess](https://open.spotify.com/artist/5gEyAqENfIITIqk0dUaPUm) | [The Inner Landscape](https://open.spotify.com/album/2ETYQYNIFwwExTjgVDMNWA) | 2:55 | 2021-12-09 | 2024-12-13 |
 | [The Last Light](https://open.spotify.com/track/5Q6tpNCQsROJYtUDbZfG5U) | [Gulminya](https://open.spotify.com/artist/60OXiiKVILw7mjGg6M6x1v) | [The Last Light](https://open.spotify.com/album/5qa4tRbKnDOAbSWFQwFGoh) | 2:35 | 2025-01-09 |  |
 | [The Light Is Still There \- Peter Sandberg Remix](https://open.spotify.com/track/2DZNHwQHjsAExRxTlX98so) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Light Is Still There \(Peter Sandberg Remix\)](https://open.spotify.com/album/1rjqWLySW3sTl0tmWqK0LS) | 3:23 | 2025-04-10 |  |
@@ -365,6 +368,7 @@
 | [Tiny Elephants](https://open.spotify.com/track/0bF7Po3DHoTqcigWwgd2Xi) | [Early Still](https://open.spotify.com/artist/1X8eNRUXvH2xbJmounFJcY) | [Four Thoughts](https://open.spotify.com/album/0lHuEa5WgDqEa6nSyl1Bi4) | 2:46 | 2021-12-09 | 2022-08-16 |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2021-12-09 | 2025-01-10 |
 | [Transparency](https://open.spotify.com/track/1dzuUe9zsLpy2Ly7Zp2dWD) | [Adam Waldau](https://open.spotify.com/artist/1m8n33vsOT7I7sBgn1s4sz) | [Everlasting](https://open.spotify.com/album/1TnUFxpG8VW7GrAJLV7u3Y) | 2:59 | 2022-10-07 | 2025-03-05 |
+| [Travelling In The Night](https://open.spotify.com/track/7fBzqz99iycW5glAi4hkFY) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Travelling In The Night](https://open.spotify.com/album/5OQRcmI7sIiylU0AWs6tiH) | 2:42 | 2025-05-20 |  |
 | [Truce](https://open.spotify.com/track/4ilZS94Ju9fdhWbI6wvbHX) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Paradise & Truce](https://open.spotify.com/album/58crVNlt3FezfMYSh3gYyU) | 2:54 | 2022-02-18 |  |
 | [Twilight](https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Twilight](https://open.spotify.com/album/6DqVZ8vsZhFFBMQ5VY9nMe) | 2:44 | 2022-03-21 | 2022-12-24 |
 | [Ujjayi](https://open.spotify.com/track/5O2NkxIBlzW6KaxfcPkroz) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Ujjayi](https://open.spotify.com/album/1DSSFfEypTfcTXnEIqKs9C) | 2:31 | 2021-12-09 |  |
@@ -395,6 +399,7 @@
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2021-12-09 | 2025-01-30 |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-09 | 2022-10-15 |
 | [Wishes](https://open.spotify.com/track/7giuPZOPDPkpNOeVjC56rm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 3:04 | 2021-12-09 | 2024-09-06 |
+| [Within Us, Without Us](https://open.spotify.com/track/5i6xT5TruUCIIzYElcX4w7) | [Izzi Dunn](https://open.spotify.com/artist/3UZ6XGvkHtSbiVRfRF7eqz) | [The Hours After Midnight](https://open.spotify.com/album/4f6kFgxxnpt6UHzF6SZDHA) | 3:24 | 2025-05-20 |  |
 | [Yael](https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Occo](https://open.spotify.com/album/04kUJ5taRxFums5i4QWO8h) | 3:03 | 2023-03-10 |  |
 | [Yellow Sky \- Remix](https://open.spotify.com/track/3TLlEb1wke6lJTwCZutq52) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Yellow Sky \- Remix](https://open.spotify.com/album/0YgwqMPyCPRBIlGnkIEkSv) | 2:24 | 2021-12-22 | 2023-01-28 |
 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 | 2021-12-09 | 2024-08-22 |

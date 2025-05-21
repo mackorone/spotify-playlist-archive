@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Béla Fleck, Edmar Castañeda & Antonio Sánchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,267 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,275 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 56 | [Blues Symphony: V\. Big City Breaks](https://open.spotify.com/track/0jLXzDk25xRg9EGe2ATfG1) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Detroit Symphony Orchestra](https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4), [Jader Bignamini](https://open.spotify.com/artist/27MS5gSpSKijOAFJ3PhXIX) | [Marsalis: Blues Symphony](https://open.spotify.com/album/0fTJMgJD49Spi9tdn7z2Qe) | 4:28 |
 | 57 | [Come Alive](https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Come Alive](https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB) | 2:51 |
 | 58 | [Hungarian Dance No\. 1](https://open.spotify.com/track/4hkSWsvKxfPwf1GI1NKJWT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02), [Lukas Traxel](https://open.spotify.com/artist/0FOqf6DjkWNBn62GJDd3So), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Hungarian Dance No\. 1](https://open.spotify.com/album/1hE84HzioHqqTTGkdFXBev) | 8:14 |
-| 59 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 |
+| 59 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Corey King](https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 |
 | 60 | [Summer Storm](https://open.spotify.com/track/4MavE9rVfFnxO1sNDd238T) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Summer Storm](https://open.spotify.com/album/7pWR39Dnv4LvhJkLF0TOm1) | 4:06 |
 | 61 | [Though My Eyes Go To Sleep, My Heart Does Not Forget You](https://open.spotify.com/track/1dnou2LA1vOfvmtnX4BLK3) | [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [A Paradise In The Hold](https://open.spotify.com/album/3UHpYF4WdoHZkCD4fSz6ig) | 8:35 |
 | 62 | [Alchemy](https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Alchemy](https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0HRGx78eQaMqoHoopLfi2h">Chuckyy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,806,531 likes - 101 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,806,612 likes - 101 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 24 | [Billie Jean](https://open.spotify.com/track/3Kz373RINbFfB4Rvth18hs) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Billie Jean](https://open.spotify.com/album/1g2qspriqd79KOJOYjw6GB) | 2:40 |
 | 25 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 |
 | 26 | [Dark Nights \- remix](https://open.spotify.com/track/05mU8pZ5AIaxyC45dteVyv) | [Kocky Ka](https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Dark Nights \(remix\)](https://open.spotify.com/album/0tbHsvCdo1QM1sHUqgFZEx) | 4:20 |
-| 27 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Toy Story](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
+| 27 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
 | 28 | [Feël no wayz \(Yeat mix\)](https://open.spotify.com/track/7vE1GgXmR1XUGblvNStFcV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Feël no wayz \(Yeat mix\)](https://open.spotify.com/album/4nCa4szVj059uBQNreGmUu) | 3:50 |
 | 29 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 |
 | 30 | [Florida Boy \(Remix\) \[feat\. Wiz Khalifa\]](https://open.spotify.com/track/3nEHFW3blx4vPYOqLVI6g0) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Florida Boy \(Remix\) \[feat\. Wiz Khalifa\]](https://open.spotify.com/album/1VmfwVMSRoaTCuOYcXZkOF) | 2:53 |

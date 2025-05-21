@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,335 songs - 3 day 19 hr 12 min
+1,336 songs - 3 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1310,6 +1310,7 @@
 | [White Science](https://open.spotify.com/track/20uWNggVIdMpdFNVXZi9iR) | [John FM](https://open.spotify.com/artist/0vscEUhV9isTMclPcVz7zr), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [White Science](https://open.spotify.com/album/7hZUXZMBt4I2mHzWXubUt9) | 4:13 | 2022-09-14 | 2022-10-13 |
 | [White T\-Shirt](https://open.spotify.com/track/7bUjLEuq1GDEnAuvRbatQv) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [White T\-Shirt](https://open.spotify.com/album/54MrtY4c4tPpDtJIx9d02l) | 1:45 | 2023-07-12 | 2023-09-07 |
 | [Whizz Kids](https://open.spotify.com/track/2fsvVkilWkNwnkD7mI3P37) | [Y Dail](https://open.spotify.com/artist/6T9JiCJWBompfb0R2KJZKI) | [Whizz Kids](https://open.spotify.com/album/4yygSaoyTJz4OPiXt0z4Jt) | 3:19 | 2022-12-14 | 2023-02-09 |
+| [Wild Fields](https://open.spotify.com/track/4hHEp3wA5T8sEJAkCSuRVF) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [Wild Fields](https://open.spotify.com/album/0PBFlh8JPVW5jHjGinKIKN) | 4:05 | 2025-05-20 |  |
 | [Will Get Fooled Again \- Katie Dey Cover](https://open.spotify.com/track/30KHZE5UtVAFZKLCLVXydi) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc) | [Will Get Fooled Again \(Katie Dey Cover\)](https://open.spotify.com/album/0MNe5TZRA9xKuyoQ9aITYJ) | 3:17 | 2022-07-21 | 2022-09-15 |
 | [Will Logic](https://open.spotify.com/track/5tjxHRNIBmmYlEYBmzAOdw) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:17 | 2023-06-28 | 2023-08-10 |
 | [Willow, Pine and Oak](https://open.spotify.com/track/7KFN7Y3LkVbHoGL4g4meeA) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Keeping Secrets Will Destroy You](https://open.spotify.com/album/527BUPjoqgyblvo1NL9Te9) | 3:44 | 2023-08-11 | 2023-10-19 |

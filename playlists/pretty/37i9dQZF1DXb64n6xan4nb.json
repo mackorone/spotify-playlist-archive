@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 34326,
+  "num_followers": 34347,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Love, deep longing",
+        "url": "https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/33E9Bj65ASz6dOPF4uZYc0"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "It's love",
+      "url": "https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Exhibition 2",
         "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 230240,
       "name": "sweet little kitty",
       "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Love, deep longing",
-        "url": "https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX"
-      },
-      "artists": [
-        {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/33E9Bj65ASz6dOPF4uZYc0"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "It's love",
-      "url": "https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -783,38 +783,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\ud130\ubcf4 HISTORY",
-        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "\ud68c\uc0c1",
-      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Third Eye",
-        "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
-      },
-      "artists": [
-        {
-          "name": "cherryfilter",
-          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "flying duck",
-      "url": "https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Lovers in Paris (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
       },
@@ -827,6 +795,22 @@
       "duration_ms": 249352,
       "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
       "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\ud130\ubcf4 HISTORY",
+        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "\ud68c\uc0c1",
+      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -863,6 +847,22 @@
       "duration_ms": 213707,
       "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Third Eye",
+        "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
+      },
+      "artists": [
+        {
+          "name": "cherryfilter",
+          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "flying duck",
+      "url": "https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
@@ -995,34 +1011,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
         }
       ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
-        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 226998,
-      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
-      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
+      "duration_ms": 193227,
+      "name": "\uc88b\uc544 \uc88b\uc544",
+      "url": "https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1043,18 +1043,38 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Remake Romantic 2",
-        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
+        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
       },
       "artists": [
         {
-          "name": "Seo Young Eun",
-          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 193227,
-      "name": "\uc88b\uc544 \uc88b\uc544",
-      "url": "https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69"
+      "duration_ms": 226998,
+      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
+      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        },
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "\uadf8\ub140\uac00 \ub098\ub97c \ubcf4\ub124\u2026",
+      "url": "https://open.spotify.com/track/4L7ZGqlOvxosBp2nPypxzK"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1155,22 +1175,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+        "name": "Soul Free",
+        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        },
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
         }
       ],
-      "duration_ms": 210666,
-      "name": "\uadf8\ub140\uac00 \ub098\ub97c \ubcf4\ub124\u2026",
-      "url": "https://open.spotify.com/track/4L7ZGqlOvxosBp2nPypxzK"
+      "duration_ms": 272386,
+      "name": "\uc815\ub9d0 \uc0ac\ub791\ud588\uc744\uae4c",
+      "url": "https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1187,22 +1203,6 @@
       "duration_ms": 228780,
       "name": "What if",
       "url": "https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Soul Free",
-        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "\uc815\ub9d0 \uc0ac\ub791\ud588\uc744\uae4c",
-      "url": "https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Love Is Time Sixth Sense",
-        "url": "https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 302942,
-      "name": "\uadf8\ub300\ub294 \ub208\ubb3c\uacb9\ub2e4",
-      "url": "https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 182693,
       "name": "17171771",
       "url": "https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Love Is Time Sixth Sense",
+        "url": "https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 302942,
+      "name": "\uadf8\ub300\ub294 \ub208\ubb3c\uacb9\ub2e4",
+      "url": "https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Wind, The Sea, The Rain",
-        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Y",
         "url": "https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 244386,
       "name": "Y (feat.BUMZU)",
       "url": "https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "The Wind, The Sea, The Rain",
+        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Rusted Love",
-        "url": "https://open.spotify.com/album/40qmiVHSRqP78RbDJ8Y8n4"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 358226,
-      "name": "\uc0ac\ub791\uc740 \uc544\ud504\ub824\uace0 \ud558\ub294 \uac70\uc8e0",
-      "url": "https://open.spotify.com/track/12cLqyHjFWZg1As1pP7C1w"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 269731,
       "name": "Butterfly Grave (2015)",
       "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "The Rusted Love",
+        "url": "https://open.spotify.com/album/40qmiVHSRqP78RbDJ8Y8n4"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 358226,
+      "name": "\uc0ac\ub791\uc740 \uc544\ud504\ub824\uace0 \ud558\ub294 \uac70\uc8e0",
+      "url": "https://open.spotify.com/track/12cLqyHjFWZg1As1pP7C1w"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Mc The Max - Solitude Love\u2026",
-        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 284656,
-      "name": "\ud574\ubc14\ub77c\uae30\ub3c4\uac00\ub054\ubaa9\uc774\uc544\ud504\uc8e0",
-      "url": "https://open.spotify.com/track/5wuAv1WFV6mL8dm0UXSzEv"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 278401,
       "name": "\ub0a0 \uc704\ud55c \uc774\ubcc4",
       "url": "https://open.spotify.com/track/6qSe6I8DAKMiRoGpOQtX7C"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Mc The Max - Solitude Love\u2026",
+        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 284656,
+      "name": "\ud574\ubc14\ub77c\uae30\ub3c4\uac00\ub054\ubaa9\uc774\uc544\ud504\uc8e0",
+      "url": "https://open.spotify.com/track/5wuAv1WFV6mL8dm0UXSzEv"
     },
     {
       "added_at": "2022-06-13 13:22:46",

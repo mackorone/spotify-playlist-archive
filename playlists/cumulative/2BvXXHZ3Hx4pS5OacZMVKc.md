@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-385 songs - 20 hr 8 min
+386 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Left Me Blind](https://open.spotify.com/track/0ZXez5k07IUuihbR6xfFOp) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [VØNH](https://open.spotify.com/artist/3nhrNgCYhDD8CBBXMMfOmX), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Left Me Blind](https://open.spotify.com/album/7kwOiP8O8sPf9J9YhZuQOa) | 3:32 | 2022-02-03 | 2023-08-11 |
 | [Left My Heart In Pain](https://open.spotify.com/track/5KRUbXmtHonDgN19ScJP8f) | [Mike Vallas](https://open.spotify.com/artist/3bBb1wCpTPxl3KRfb2UbJb), [Jagsy](https://open.spotify.com/artist/7wu8XR5hwRbOweUONPzNvL), [quaggin](https://open.spotify.com/artist/3AXJeDxC23fvkNuq8EoFtn) | [Left My Heart In Pain](https://open.spotify.com/album/20S33NxeR5mzAbMaBcETdI) | 2:37 | 2023-08-10 |  |
 | [Legacy](https://open.spotify.com/track/5DQGSJOG1JUchaZBd4zaie) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Benix](https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr) | [Legacy](https://open.spotify.com/album/5210iXJgapheYbxuz2pGxk) | 2:39 | 2022-02-03 | 2023-08-11 |
+| [Let Go](https://open.spotify.com/track/0hDaKYsiOvAnZPxAIGxrmq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Let Go](https://open.spotify.com/album/53MP6iUg5uw3OFWwY32cGR) | 3:01 | 2025-05-20 |  |
 | [Let Me Go](https://open.spotify.com/track/0cHPVbLV0pfOgridbUjt3f) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Let Me Go](https://open.spotify.com/album/2oTdGhBXY6j7uVXjKnKyyh) | 2:40 | 2022-02-03 | 2022-09-15 |
 | [Let Me Go](https://open.spotify.com/track/746DfbvhbS6fVbNrmHA9Ni) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Let Me Go](https://open.spotify.com/album/4jLPNWR09M73a4u2uKTL08) | 3:08 | 2023-08-10 |  |
 | [LET THEM HAVE IT](https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [LET THEM HAVE IT](https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P) | 2:19 | 2023-02-07 |  |

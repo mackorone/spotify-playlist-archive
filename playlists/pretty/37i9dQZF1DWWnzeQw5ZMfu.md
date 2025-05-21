@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 39 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 |
 | 40 | [The Man \- Live From Paris](https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Man \(Live From Paris\)](https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA) | 3:39 |
 
-Snapshot ID: `aAHOYAAAAADjxZIgz4L4jet6ktedEyrV`
+Snapshot ID: `AAAAABWj+KLDGNPYTR+3om2+cKndT3yU`

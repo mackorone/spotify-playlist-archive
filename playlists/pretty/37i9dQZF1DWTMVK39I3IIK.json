@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Dahlin",
-  "num_followers": 46505,
+  "num_followers": 46502,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-05-15 22:00:26",
       "album": {
+        "name": "Carry-On Bag",
+        "url": "https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 218530,
+      "name": "Carry-On Bag",
+      "url": "https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0"
+    },
+    {
+      "added_at": "2025-05-15 22:00:26",
+      "album": {
         "name": "Lige Meget Hvor Langt Du Er",
         "url": "https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA"
       },
@@ -623,6 +639,22 @@
     {
       "added_at": "2025-05-15 22:00:26",
       "album": {
+        "name": "P\u00e6n",
+        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 190300,
+      "name": "P\u00e6n",
+      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
+    },
+    {
+      "added_at": "2025-05-15 22:00:26",
+      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
       },
@@ -635,6 +667,26 @@
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
+    },
+    {
+      "added_at": "2025-05-15 22:00:26",
+      "album": {
+        "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
+        "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        },
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "duration_ms": 152714,
+      "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
+      "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
     },
     {
       "added_at": "2025-05-15 22:00:26",
@@ -667,42 +719,6 @@
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
-    },
-    {
-      "added_at": "2025-05-15 22:00:26",
-      "album": {
-        "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
-        "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        },
-        {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
-        }
-      ],
-      "duration_ms": 152714,
-      "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
-      "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
-    },
-    {
-      "added_at": "2025-05-15 22:00:26",
-      "album": {
-        "name": "Carry-On Bag",
-        "url": "https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm"
-      },
-      "artists": [
-        {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        }
-      ],
-      "duration_ms": 218530,
-      "name": "Carry-On Bag",
-      "url": "https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0"
     },
     {
       "added_at": "2025-05-15 22:00:26",
@@ -755,22 +771,6 @@
     {
       "added_at": "2025-05-15 22:00:26",
       "album": {
-        "name": "P\u00e6n",
-        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 190300,
-      "name": "P\u00e6n",
-      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
-    },
-    {
-      "added_at": "2025-05-15 22:00:26",
-      "album": {
         "name": "S\u00e5dan nogen som os",
         "url": "https://open.spotify.com/album/15PAmqov9dExYI5756SSfl"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-05-15 22:00:26",
       "album": {
-        "name": "A thousand lies",
-        "url": "https://open.spotify.com/album/11xRSNFhiIlci4YT9rXrBc"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 251665,
-      "name": "A thousand lies",
-      "url": "https://open.spotify.com/track/3g0lxrU7wv7j64QLAt2Krc"
-    },
-    {
-      "added_at": "2025-05-15 22:00:26",
-      "album": {
         "name": "Hvad Skulle Jeg G\u00f8re Uden Dig",
         "url": "https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2025-05-15 22:00:26",
       "album": {
-        "name": "G\u00e5 Itu",
-        "url": "https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7"
+        "name": "A thousand lies",
+        "url": "https://open.spotify.com/album/11xRSNFhiIlci4YT9rXrBc"
       },
       "artists": [
         {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 214787,
-      "name": "G\u00e5 Itu",
-      "url": "https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P"
+      "duration_ms": 251665,
+      "name": "A thousand lies",
+      "url": "https://open.spotify.com/track/3g0lxrU7wv7j64QLAt2Krc"
     },
     {
       "added_at": "2025-05-15 22:00:26",
@@ -875,6 +859,22 @@
       "duration_ms": 149761,
       "name": "Vores Forhandling",
       "url": "https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI"
+    },
+    {
+      "added_at": "2025-05-15 22:00:26",
+      "album": {
+        "name": "G\u00e5 Itu",
+        "url": "https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7"
+      },
+      "artists": [
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 214787,
+      "name": "G\u00e5 Itu",
+      "url": "https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P"
     },
     {
       "added_at": "2025-05-15 22:00:26",
@@ -907,6 +907,22 @@
       "duration_ms": 169043,
       "name": "Fri mand",
       "url": "https://open.spotify.com/track/5FAAsjvJYsNE64tbNwTPT9"
+    },
+    {
+      "added_at": "2025-05-15 22:00:26",
+      "album": {
+        "name": "Oktobernat",
+        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Oktobernat",
+      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
     },
     {
       "added_at": "2025-05-15 22:00:26",
@@ -995,22 +1011,6 @@
       "duration_ms": 190394,
       "name": "S\u00e6son",
       "url": "https://open.spotify.com/track/65Nq6t6JmdfVOf2IIkCIgX"
-    },
-    {
-      "added_at": "2025-05-15 22:00:26",
-      "album": {
-        "name": "Oktobernat",
-        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Oktobernat",
-      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
     },
     {
       "added_at": "2025-05-15 22:00:26",

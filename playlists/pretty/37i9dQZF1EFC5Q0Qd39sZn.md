@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,934 likes - 571 songs - 1 day 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,937 likes - 571 songs - 1 day 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -406,8 +406,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 396 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
 | 397 | [Don't Look at Me That Way](https://open.spotify.com/track/3mncIcc50tSkfOLwubXzwU) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:50 |
 | 398 | [Ciego De Amor](https://open.spotify.com/track/3zw3qgkrA4E4yENZ5YYDt3) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Si Te Vas](https://open.spotify.com/album/5rP5Gjl6YbGNBsQeahKUdq) | 4:07 |
-| 399 | [Little Bit of Rain](https://open.spotify.com/track/57G8FtfGzLgF1bk4jorrSt) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Little Bit of Rain](https://open.spotify.com/album/2pVrRMz1lQGGOhfZSJQNm8) | 2:46 |
-| 400 | [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 |
+| 399 | [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 |
+| 400 | [Little Bit of Rain](https://open.spotify.com/track/57G8FtfGzLgF1bk4jorrSt) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Little Bit of Rain](https://open.spotify.com/album/2pVrRMz1lQGGOhfZSJQNm8) | 2:46 |
 | 401 | [I Heart U](https://open.spotify.com/track/45QmJ4Wgoes2KaQVEeQNpV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:22 |
 | 402 | [Pleasure Or Pain](https://open.spotify.com/track/1qtvhltHHmeFqnz0T3BOoW) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 4:06 |
 | 403 | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/track/2vR4pJKdFMt2Mqk3j9ZPOI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/album/5cXDAJMKRcHtGdoVAHxIfc) | 3:21 |
@@ -516,8 +516,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 506 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 |
 | 507 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 |
 | 508 | [Spanish Guitar](https://open.spotify.com/track/78xZmv0VetvNAslUqlggdx) | [Ultra Band](https://open.spotify.com/artist/4EcDwU1AjqKHYuytqo9DJ6) | [Essência Feminina Internacional](https://open.spotify.com/album/4PwuhuWIirjtB4voJXG8ew) | 4:46 |
-| 509 | [I Confess \- 12" Dance Mix](https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Hot On the Trail \(Expanded Edition\)](https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl) | 5:02 |
-| 510 | [Como Olvidarte](https://open.spotify.com/track/5KGwj6UJUl9IrXvSJT9in0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [30 Exitos Insuperables](https://open.spotify.com/album/3dDQTasjfvYmoXwPcIj5To) | 4:04 |
+| 509 | [Como Olvidarte](https://open.spotify.com/track/5KGwj6UJUl9IrXvSJT9in0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [30 Exitos Insuperables](https://open.spotify.com/album/3dDQTasjfvYmoXwPcIj5To) | 4:04 |
+| 510 | [I Confess \- 12" Dance Mix](https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Hot On the Trail \(Expanded Edition\)](https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl) | 5:02 |
 | 511 | [Tha Erthi I Stigmi](https://open.spotify.com/track/1jDo9nKix9y305VlicOFu9) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Ola Kala](https://open.spotify.com/album/39GdeRL0leLnxKMP2zom9w) | 4:03 |
 | 512 | [Your Obsession](https://open.spotify.com/track/1zQkpt3TuwduNZrQ4U0T07) | [Joanna](https://open.spotify.com/artist/509TH9RYrGomXzXwSVeaQP) | [This Crazy Life](https://open.spotify.com/album/36w2dambPh1D43TPTPoKRY) | 3:49 |
 | 513 | [Healing Hands](https://open.spotify.com/track/45S5Lg9vVbT4algYHRk97K) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [On & On](https://open.spotify.com/album/5F5bq9xgTMfKk9F1gzNsZh) | 6:08 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 571 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Abx3PgAAAAADf2DUlepC59YMsnExgaiG`
+Snapshot ID: `Abx8ywAAAABmHycEvx+ox+rKkx3jFfR4`

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 937918,
+  "num_followers": 937872,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,26 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 159090,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -967,6 +967,30 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "JAI RYU",
+          "url": "https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh"
+        }
+      ],
+      "duration_ms": 166048,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
         "name": "Fool Me",
         "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
       },
@@ -1035,26 +1059,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1075,18 +1079,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/51wiwpo6ZoXNiYX4KagKuh"
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
       "artists": [
         {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
         }
       ],
-      "duration_ms": 198047,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2QOadE17eoDQSzXWcfCSJD"
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1131,6 +1139,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/51wiwpo6ZoXNiYX4KagKuh"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        }
+      ],
+      "duration_ms": 198047,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2QOadE17eoDQSzXWcfCSJD"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
         "name": "Feel The Beat",
         "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
       },
@@ -1151,26 +1175,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Goodies - Knock2 Remix",
-        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Goodies - Knock2 Remix",
-      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1187,6 +1191,26 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "Goodies - Knock2 Remix",
+        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Goodies - Knock2 Remix",
+      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1275,30 +1299,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi"
-      },
-      "artists": [
-        {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        },
-        {
-          "name": "JAI RYU",
-          "url": "https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh"
-        }
-      ],
-      "duration_ms": 166048,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 177187,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1351,26 +1367,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Feel the Bassline",
-        "url": "https://open.spotify.com/album/5ZIsHaXkXxrURV8lW4dIRK"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 200848,
-      "name": "Feel the Bassline",
-      "url": "https://open.spotify.com/track/3wv4n8Kz5xFfCcHxs1toDl"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Bass Down Low",
         "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
       },
@@ -1403,6 +1399,26 @@
       "duration_ms": 180480,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "Feel the Bassline",
+        "url": "https://open.spotify.com/album/5ZIsHaXkXxrURV8lW4dIRK"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 200848,
+      "name": "Feel the Bassline",
+      "url": "https://open.spotify.com/track/3wv4n8Kz5xFfCcHxs1toDl"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
         "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
       },
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
         }
       ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1835,22 +1839,18 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
         }
       ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-05-16 04:00:36",
       "album": {
-        "name": "Bass Is Pumpin'",
-        "url": "https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bass Is Pumpin'",
-      "url": "https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
         "name": "Cathedral (Piece Of Me) [feat. JEN]",
         "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 148809,
       "name": "Cathedral (Piece Of Me) [feat. JEN]",
       "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "Bass Is Pumpin'",
+        "url": "https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bass Is Pumpin'",
+      "url": "https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J"
     }
   ],
   "unique_name": "Shuffle Syndrome",

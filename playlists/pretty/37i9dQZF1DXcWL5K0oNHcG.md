@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Don Glori\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,154 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,178 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [NEEDLES OF ICE](https://open.spotify.com/track/0sATZkD4WYoplr7f0aTsKx) | [Outside World](https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ) | [NEEDLES OF ICE](https://open.spotify.com/album/4XsOqDAuyula3HyzsSUzja) | 4:32 |
 | 50 | [Njia](https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Njia](https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w) | 1:53 |
 
-Snapshot ID: `AAAAADQAE/jYHovBHprfLEIk7ERsnHy4`
+Snapshot ID: `aCSTGwAAAACaPWEfNlIeI6cGfNd2sx9s`

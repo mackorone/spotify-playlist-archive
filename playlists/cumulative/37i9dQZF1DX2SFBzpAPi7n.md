@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: JEONG SEWOON\(정세운\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Tuesday Beach Club\) \(핫한 국내 록 음악을 만나보세요!\)
 
-954 songs - 2 day 10 hr 15 min
+955 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,7 +793,7 @@
 | [The beauty of acceptance](https://open.spotify.com/track/7BrzmSCRaZ0GJv2Q0kAQUc) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [The beauty of acceptance](https://open.spotify.com/album/7mpeNqcw76RzWz70HGgUUB) | 4:33 | 2023-01-02 | 2023-01-26 |
 | [The Beginning Of Love](https://open.spotify.com/track/6TLBrPRXUFnfctV0oY3Whg) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [The Beginning Of Love](https://open.spotify.com/album/5vukvcOETpOnGnpRS52Wcd) | 3:36 | 2024-12-23 | 2025-03-07 |
 | [The boy of June](https://open.spotify.com/track/3ayELZnkl36t100LdVnF20) | [igloobay](https://open.spotify.com/artist/4C8KZvLXUzzR2lFY580ATb) | [The boy of June](https://open.spotify.com/album/2nU6gOokfzK3iXpJm7m4Ny) | 3:35 | 2022-07-04 | 2022-07-09 |
-| [The Clockwork Whirl](https://open.spotify.com/track/41zMQtyFKnSrevslXxQpxN) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [The Clockwork Whirl](https://open.spotify.com/album/5zod3cJbuUbfQfUmUVS1YE) | 3:15 | 2025-05-15 |  |
+| [The Clockwork Whirl](https://open.spotify.com/track/41zMQtyFKnSrevslXxQpxN) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [The Clockwork Whirl](https://open.spotify.com/album/5zod3cJbuUbfQfUmUVS1YE) | 3:15 | 2025-05-15 | 2025-05-21 |
 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 | 2024-10-31 | 2024-12-24 |
 | [The forgotten memories](https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The forgotten memories \(Hear Me: Our Summer X Shin Ye\-Young\)](https://open.spotify.com/album/4KrTuQA0afak61oe3V5ZjB) | 3:45 | 2024-11-06 | 2025-01-02 |
 | [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 | 2024-03-21 | 2024-05-10 |
@@ -896,6 +896,7 @@
 | [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 | 2025-01-08 | 2025-04-12 |
 | [winter dance](https://open.spotify.com/track/2Mx0neWJtuAfBy830NavHa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [winter dance](https://open.spotify.com/album/6rUp3SNTFjtPD9dRtwreYJ) | 3:22 | 2024-12-02 | 2025-01-31 |
 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 | 2022-04-12 |  |
+| [Wish](https://open.spotify.com/track/0gQZQVfbC3sYddHIrnidp4) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Wish](https://open.spotify.com/album/7ncMzzIhPqCPaAVRwtrgkl) | 3:51 | 2025-05-20 |  |
 | [Wish You Luck](https://open.spotify.com/track/4QZgdQ4CILVuz6NNDAkwns) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [clover \#2](https://open.spotify.com/album/7ze7Ge9MMVxBZmEZPosVQ2) | 3:34 | 2025-01-30 | 2025-03-18 |
 | [Wishlist](https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:11 | 2022-04-12 | 2024-11-07 |
 | [Wolf](https://open.spotify.com/track/3UcdoC9ncaGdjzgpNaQivP) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 4:07 | 2022-04-22 | 2022-07-23 |

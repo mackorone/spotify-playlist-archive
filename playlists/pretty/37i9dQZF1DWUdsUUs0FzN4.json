@@ -1,6 +1,6 @@
 {
   "description": "C\u00e1mara mi amor si ya se la sabe que es recio melecio, es peg\u00e1ndonos como chetos a la muela \ud83e\udd75",
-  "num_followers": 19231,
+  "num_followers": 19236,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "Aplaude",
         "url": "https://open.spotify.com/album/50YaeruYkphtAlXEDYUgmG"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 171789,
       "name": "Aplaude",
       "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "Tiempos de Plan B",
-        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Tiempos de Plan B",
-      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "Hora de Salir",
+        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Hora de Salir",
+      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "SUELTA",
         "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 163800,
       "name": "SUELTA",
       "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "Hora de Salir",
-        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Hora de Salir",
-      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
-        "name": "Mi Plan",
-        "url": "https://open.spotify.com/album/77bkQC8g40qW1R5riKU7u6"
-      },
-      "artists": [
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "Mi Plan",
-      "url": "https://open.spotify.com/track/5OLKpFQjpjS0mNzr23wvh4"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
         "name": "ME GUSTA",
         "url": "https://open.spotify.com/album/3HNqyB10NeGik7ZP4QSj4G"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 135352,
       "name": "ME GUSTA",
       "url": "https://open.spotify.com/track/60sKzWUNVvZ0QeX5tcgnlp"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
+        "name": "Mi Plan",
+        "url": "https://open.spotify.com/album/77bkQC8g40qW1R5riKU7u6"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "Mi Plan",
+      "url": "https://open.spotify.com/track/5OLKpFQjpjS0mNzr23wvh4"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "Los M\u00e1s Sueltos",
+        "url": "https://open.spotify.com/album/6z5JvXAOoXcpQjveskhcP1"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Los M\u00e1s Sueltos",
+      "url": "https://open.spotify.com/track/1Bip0jAZEmRaOBQzEy5vfx"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "333 (Remix)",
         "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 155930,
       "name": "333 - Remix",
       "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "Los M\u00e1s Sueltos",
-        "url": "https://open.spotify.com/album/6z5JvXAOoXcpQjveskhcP1"
-      },
-      "artists": [
-        {
-          "name": "Joss ML",
-          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
-        },
-        {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Los M\u00e1s Sueltos",
-      "url": "https://open.spotify.com/track/1Bip0jAZEmRaOBQzEy5vfx"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "Baja Sube Sube",
+        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 211404,
+      "name": "Baja Sube Sube",
+      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "TWERKEO RKT",
         "url": "https://open.spotify.com/album/72dlNopuug1kuDmezUtfW2"
       },
@@ -2071,26 +2091,6 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
-        "name": "Baja Sube Sube",
-        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 211404,
-      "name": "Baja Sube Sube",
-      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
         "name": "A Mover Ese Booty",
         "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
       },
@@ -2107,6 +2107,30 @@
       "duration_ms": 157347,
       "name": "A Mover Ese Booty",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+      },
+      "artists": [
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -2143,30 +2167,6 @@
       "duration_ms": 244000,
       "name": "Noche Obscura (feat. Nayar, Riko Mix, Alberto Producer)",
       "url": "https://open.spotify.com/track/4ev0CfZNYRsC57aZ9gXhjn"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "DDD (Don Dimadon)",
-        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
-      },
-      "artists": [
-        {
-          "name": "TUNDER",
-          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 185281,
-      "name": "DDD (Don Dimadon)",
-      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
     },
     {
       "added_at": "2025-05-09 06:00:10",

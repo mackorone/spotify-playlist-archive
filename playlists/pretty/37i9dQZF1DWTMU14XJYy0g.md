@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Indios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,121 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,115 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Estrelas](https://open.spotify.com/track/4Fx2kqAeOMDXPaZ9HRAtiB) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:15 |
 | 100 | [Me Vuelvo Cada Día Más Loca \- Spotify Singles](https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Spotify Singles](https://open.spotify.com/album/2QXNLeJ8qqihAdeMSELu4W) | 2:40 |
 
-Snapshot ID: `aCaqMgAAAABV55PeiNxKM2jXTIhXpYJy`
+Snapshot ID: `aCaqMgAAAACjGdJRl5OPJY/02m6cdh0c`

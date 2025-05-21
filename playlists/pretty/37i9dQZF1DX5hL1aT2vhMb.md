@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Jess Gillam
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,856 likes - 102 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,872 likes - 102 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 101 | [Fast Blue Village 2](https://open.spotify.com/track/2fPmv1kyWASSfUCJtNSpTN) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Del Sol Quartet](https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH) | [Zia: Del Sol String Quartet](https://open.spotify.com/album/4Rlj5EPG9bKOoSqYt4NwwV) | 5:16 |
 | 102 | [Piano Concerto in A Minor, Op\. 7: I\. Allegro maestoso](https://open.spotify.com/track/1xjlnTE8zHrkjN9CaD9RkW) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Holly Mathieson](https://open.spotify.com/artist/56qjv2Db78qW3EIeRbv1oA) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 6:11 |
 
-Snapshot ID: `Z8sW6QAAAABOtxu7M4O03lN+QOHvqvIZ`
+Snapshot ID: `AAAAACukAcgIFL3qgmKvdxJQJWbOQZoc`

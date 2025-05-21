@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 귀궁 \(The Haunted Palace\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,050 songs - 2 day 15 hr 46 min
+1,051 songs - 2 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Long Night](https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.13](https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS) | 3:09 | 2022-06-28 | 2022-10-08 |
 | [A Man In Yellow Shirt \(Drama Live Ver\)](https://open.spotify.com/track/17zzvZnljn5Y9VBwIt3erK) | [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti), [Chae Won Bin](https://open.spotify.com/artist/3NSZzukyqYMM6qI9fvYZeh) | [Who Is She OST Part.5](https://open.spotify.com/album/6bQDwfQulzCjPxOiQdnfe0) | 3:07 | 2025-01-21 |  |
 | [A moment with you](https://open.spotify.com/track/0gVYpQ8WwiOwTzeI5wn7F0) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [The Queen Who Crowns OST Part.4](https://open.spotify.com/album/676bv8XJFYQU1OKqgp0QrP) | 3:24 | 2025-02-10 |  |
-| [A New Chapter](https://open.spotify.com/track/0a4LeoAZXqrAkyZzyi4WHA) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Sorry Not Sorry OST Part 1](https://open.spotify.com/album/5NlleCH2jOKKIDgXtC0F5z) | 3:08 | 2024-12-17 |  |
+| [A New Chapter](https://open.spotify.com/track/0a4LeoAZXqrAkyZzyi4WHA) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Sorry Not Sorry OST Part 1](https://open.spotify.com/album/5NlleCH2jOKKIDgXtC0F5z) | 3:08 | 2024-12-17 | 2025-05-21 |
 | [A New Day](https://open.spotify.com/track/7eJ1UaqLEkTKdsVIcwJTFR) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [No Gain No Love, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/4vNpHi679iueEqs9rNBVXF) | 3:20 | 2024-09-20 | 2025-02-11 |
 | [A season of us](https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/1bWCEocci2kyEpWLdOjVRW) | 3:54 | 2022-06-13 | 2022-08-19 |
 | [A Song For You](https://open.spotify.com/track/2rZ9DFCQ1BvqGhEpwZY4xU) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [TwinkIing Watermelon \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07) | 3:54 | 2023-10-10 | 2024-04-24 |
@@ -808,6 +808,7 @@
 | [Steps](https://open.spotify.com/track/5TrW0Wt3O0xThI4Pk7CzBi) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [My Military Valentine OST Part.4](https://open.spotify.com/album/4XjWfuocVDLv57lgRYWGeR) | 3:23 | 2024-09-20 | 2025-02-08 |
 | [Still](https://open.spotify.com/track/7bvw9MygklDI1i5hYEPMF7) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Still \(Payback X A+B\)](https://open.spotify.com/album/6BNiGAJPUw97hzTvuE9sfJ) | 3:39 | 2023-02-24 | 2023-07-18 |
 | [Still here](https://open.spotify.com/track/69r9DFmi5uStx44buSi0sm) | [Kang Asol](https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3XQXgsluskowvlFGZIKTQ7) | 3:51 | 2022-02-16 | 2022-05-04 |
+| [Still love you](https://open.spotify.com/track/0KcX5Xeu72Kwg90mRU0Xw9) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Second Shot at Love, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/2IP0HcIpAzKw2aEhJWAhY8) | 4:00 | 2025-05-20 |  |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-06-02 | 2023-11-03 |
 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 | 2022-08-18 | 2023-01-04 |
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-06-02 | 2023-11-03 |

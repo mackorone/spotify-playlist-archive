@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists\.  Cover:  <a href="https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP?si=CErSKGvTR\_mgnktBgLJAWA">Babble Hume</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ?si=fPcAVBB1RvOpUivoUfj1lA">Boyd</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,601 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,633 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Marigold](https://open.spotify.com/track/4e4BDHvDpHMqQtPdiX1qCT) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:19 |
+| 1 | [Blurry Nights](https://open.spotify.com/track/0v7L4PS0CV3DXo2ZsD2eG9) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Blurry Nights](https://open.spotify.com/album/1wNbteaYJV9QaCixwcdfQA) | 3:11 |
 | 2 | [Bossa Nova](https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Bossa Nova](https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR) | 3:15 |
-| 3 | [Blurry Nights](https://open.spotify.com/track/0v7L4PS0CV3DXo2ZsD2eG9) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Blurry Nights](https://open.spotify.com/album/1wNbteaYJV9QaCixwcdfQA) | 3:11 |
+| 3 | [Marigold](https://open.spotify.com/track/4e4BDHvDpHMqQtPdiX1qCT) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:19 |
 | 4 | [My Rider](https://open.spotify.com/track/3yt9iLc09aR4wCsK6Jn6IY) | [HEVI](https://open.spotify.com/artist/5RkgtRF8H76YcZoWInG9Z4) | [Hevi](https://open.spotify.com/album/3SLCfZi43xfkkBRmrNd8mY) | 3:03 |
 | 5 | [Hear My Voice](https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Hear My Voice](https://open.spotify.com/album/5delMUtBzP4fopPU2iwu49) | 2:31 |
 | 6 | [Stick With You \(feat\. Nana Atta & Rhea Blek\)](https://open.spotify.com/track/2U3qc1MebhRjkXu2mmaAFF) | [Jazzy June](https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI), [TeabagCC](https://open.spotify.com/artist/6sW4QFrM1ffIRAQRHC4wZy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Rhea Blek](https://open.spotify.com/artist/58yGlR6nBYMqbJUypZD5E4) | [Starting V](https://open.spotify.com/album/6mrRJOqPqptakFX2UOICAs) | 3:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 64 | [Lost in You](https://open.spotify.com/track/3QpO4jfMeOBVPbZdnoV1xl) | [Lixine Vela](https://open.spotify.com/artist/1RdD1lvTBf7jrGQgGZ2tEV) | [Lost in You](https://open.spotify.com/album/74F7R3AQ0bTq0hVxLvhXKf) | 3:15 |
 | 65 | [SANTI'S APARTMENT](https://open.spotify.com/track/51aFMn0QVwiLKR0WOKWZo0) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [SANTI'S APARTMENT](https://open.spotify.com/album/7BIrpmQHhceuOXy4p3qgYN) | 2:36 |
 
-Snapshot ID: `aCsTnwAAAAAFxcGyWQjJcXKMo1VRgH78`
+Snapshot ID: `aC0JgAAAAADYlepc1o+O7NS2UArYcf/H`

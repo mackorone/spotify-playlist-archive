@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists\.  Cover:  <a href="https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP?si=CErSKGvTR\_mgnktBgLJAWA">Babble Hume</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ?si=fPcAVBB1RvOpUivoUfj1lA">Boyd</a>\. Artwork: Isu Kim.
 
 1,307 songs - 2 day 17 hr 25 min
 

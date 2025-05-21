@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Matt Maltese
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,320 likes - 151 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,279 likes - 151 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

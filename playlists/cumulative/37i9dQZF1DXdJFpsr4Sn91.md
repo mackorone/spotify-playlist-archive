@@ -2,7 +2,7 @@
 
 ### [Nousussa](https://open.spotify.com/playlist/37i9dQZF1DXdJFpsr4Sn91)
 
-> Nousussa olevat hitit\. Kannessa KAJ.
+> Nousussa olevat hitit\. Kannessa euroviisuvoittaja JJ.
 
 720 songs - 1 day 11 hr 56 min
 

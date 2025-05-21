@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1018,
+  "num_followers": 1024,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Sweet Memory",
         "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
-      },
-      "artists": [
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 270271,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+      },
+      "artists": [
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Absent",
-        "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
-      },
-      "artists": [
-        {
-          "name": "Liam Thomas",
-          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Absent",
-      "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "ENCLOSURE",
         "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 259805,
       "name": "ENCLOSURE",
       "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "'I Wanted More' EP",
+        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 333694,
+      "name": "I Wanted More",
+      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
+      },
+      "artists": [
+        {
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Mercury Remixes",
         "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 207304,
       "name": "Violet - DJ Python Remix",
       "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "'I Wanted More' EP",
-        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 333694,
-      "name": "I Wanted More",
-      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
     },
     {
       "added_at": "2023-08-31 14:00:00",

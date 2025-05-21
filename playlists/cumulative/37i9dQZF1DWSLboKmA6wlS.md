@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: ZIYEN\. Artwork: Isu Kim
+> ร่วมฉลอง 10 ปี Fresh Finds เพลย์ลิสต์ ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: ZIYEN\. Artwork: Isu Kim
 
 2,103 songs - 5 day 12 hr 16 min
 
@@ -473,7 +473,7 @@
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2023-05-12 | 2023-06-03 |
 | [กาลครั้งหนึ่งก่อนถึงวันสุดท้าย](https://open.spotify.com/track/5oEZ8HfEwZyq9TmmpjaTR7) | [airri](https://open.spotify.com/artist/0ONn2t3TFHAtVr6K6E8apo) | [no more pastel.](https://open.spotify.com/album/2dsjDTb8G6BIxNNlNbWp5q) | 4:36 | 2024-05-31 | 2024-06-15 |
 | [กาลคิดถึง](https://open.spotify.com/track/4wwfZbIT0DEttRd7672ja2) | [BYMY](https://open.spotify.com/artist/0JoK1fnSGue4Nlc8FkQz7h) | [กาลคิดถึง](https://open.spotify.com/album/5KNlxtNApPVKf5vIMwGSYC) | 5:33 | 2024-10-25 | 2024-11-02 |
-| [กาลบันทึก](https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL) | [CHANDAGE](https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv), [Sarawit Doungngam](https://open.spotify.com/artist/1hgGmFZ1SJkxLxNpbQPHtd) | [กาลบันทึก](https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0) | 4:52 | 2025-05-15 |  |
+| [กาลบันทึก](https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL) | [CHANDAGE](https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv) | [กาลบันทึก](https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0) | 4:52 | 2025-05-15 |  |
 | [กำลังดี](https://open.spotify.com/track/0AFbbxmliu882sAhQ1s0p7) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [กำลังดี](https://open.spotify.com/album/0KeoAAWwaI8JbX4PuYAzki) | 3:35 | 2023-05-26 | 2023-07-15 |
 | [กีฬา](https://open.spotify.com/track/69v0moOjUOx8pxdRtchmHl) | [Buzzbas](https://open.spotify.com/artist/3rQM6M6GhxvXb3aev0zjDE), [911 Korn](https://open.spotify.com/artist/3pXgJj2cnpIJ3DOwW8XwWh) | [กีฬา](https://open.spotify.com/album/1S5rfrfvP21tvudoowVl0M) | 3:10 | 2024-01-12 | 2024-02-17 |
 | [กี่ล้านนาที](https://open.spotify.com/track/2ImLPBis2Am3HiPl6o6vp3) | [What’s Up](https://open.spotify.com/artist/3AUD1TFqkzC77R9QwGXQhE) | [กี่ล้านนาที](https://open.spotify.com/album/51KUxdj1CRnOMZ0YymqNKl) | 4:13 | 2023-10-20 | 2023-11-09 |

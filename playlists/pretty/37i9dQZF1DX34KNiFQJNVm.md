@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem DENNIS com Luísa Sonza e Kenia Os, Mc IG, J\. Eskine e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083,044 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083,088 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 7 | [Vagalume](https://open.spotify.com/track/6p1Uhb2GzliVjcotsdlA4z) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C) | [Vagalume](https://open.spotify.com/album/38qL1UpGjCdJrOS8Ezk85h) | 2:21 |
 | 8 | [Vou Começar a Não Prestar \- Ao Vivo](https://open.spotify.com/track/2dm6qo9N8XFCBCvQEHT1m9) | [Theuzinho](https://open.spotify.com/artist/5S7nhltEOIHhyXPETyKewy), [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8) | [A Favela Ta Gostosa 2.0 \(Ao Vivo\)](https://open.spotify.com/album/7dyxAJNkNfnmjbqjyRz4ov) | 3:12 |
 | 9 | [Vagabundo das Antigas](https://open.spotify.com/track/7MMtpRqPlmH4O2kmYlD4ie) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Vagabundo das Antigas](https://open.spotify.com/album/4CK3BUEy1odNSAwQIriPJj) | 2:47 |
-| 10 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
+| 10 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
 | 11 | [Papo Reto](https://open.spotify.com/track/2wUm2AXr6rf7A8k4caSnxR) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [KIDHAFF](https://open.spotify.com/artist/3uIdakCvva0TpojHbkB31c), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Papo Reto](https://open.spotify.com/album/3DwOAHUPvkdNwPVqz3lPqC) | 2:45 |
 | 12 | [LEALL On The Radar Freestyle](https://open.spotify.com/track/5DRm1n1Fe5pzIdjEmXDdoC) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [LEALL On The Radar Freestyle](https://open.spotify.com/album/2BBWkxsTEBQFTNYesaDQeG) | 2:58 |
 | 13 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 | 100 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 
-Snapshot ID: `AAAAABIL8rZoltv7x91E0Q59WF4LSlOJ`
+Snapshot ID: `aCiiNQAAAACDF98k6vl2Yj6mvemHID4b`

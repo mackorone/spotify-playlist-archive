@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Nyoman Paul,  Lola Young hingga Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,581 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,604 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 10 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 | 11 | [Frenemy \(feat\. VIDI\)](https://open.spotify.com/track/1PGt7c1YzOK5GiKjNp5IH1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Frenemy](https://open.spotify.com/album/1ZZkhyBrbAmKlhyhFbC4hn) | 3:06 |
 | 12 | [something about you](https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [something about you](https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra) | 4:17 |
-| 13 | [Layar \(Original Soundtrack From "Siapa Dia"\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack From "Siapa Dia"\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 |
+| 13 | [Layar \(Original Soundtrack"Siapa Dia.."\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack "Siapa Dia.."\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 |
 | 14 | [stuck like this](https://open.spotify.com/track/2knkY4o3G9nBAYXXZE9hbP) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [come home](https://open.spotify.com/album/3HW2JHHdicMtnOC0Jtt30I) | 3:34 |
 | 15 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
 | 16 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 |

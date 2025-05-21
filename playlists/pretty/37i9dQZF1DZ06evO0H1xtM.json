@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 341141,
+  "num_followers": 341269,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCkjAAAAAAACeky+wPwq/I9iVf6xo2Oc",
+  "snapshot_id": "aCp0gAAAAAC+Bs9GW62T1kfyAzuNEh/v",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigan Atentos",
-        "url": "https://open.spotify.com/album/3pTXNK0qJ0YHwekN3k73JZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 306538,
-      "name": "Sigan Atentos",
-      "url": "https://open.spotify.com/track/4BRyqWvTTL74cJSpYKBZAz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigan Atentos",
+        "url": "https://open.spotify.com/album/3pTXNK0qJ0YHwekN3k73JZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 306538,
+      "name": "Sigan Atentos",
+      "url": "https://open.spotify.com/track/4BRyqWvTTL74cJSpYKBZAz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 168576,
       "name": "Me Haces Tan Bien",
       "url": "https://open.spotify.com/track/5NkAVF1k2tAmNdsFw4qVnM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duele Tu Abandono (En Vivo)",
-        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Duele Tu Abandono (En Vivo)",
-      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duele Tu Abandono (En Vivo)",
+        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Duele Tu Abandono (En Vivo)",
+      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 195608,
       "name": "La Sand\u00eda",
       "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mismo De La Vida Ruina",
-        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
     },
     {
       "added_at": null,
@@ -895,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subiendo De Nivel",
-        "url": "https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh"
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
       },
       "artists": [
         {
@@ -904,9 +888,29 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 110784,
-      "name": "Tu No Eres Lo Que Quer\u00eda",
-      "url": "https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt"
+      "duration_ms": 200411,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170484,
+      "name": "El Postre",
+      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
     },
     {
       "added_at": null,
@@ -931,22 +935,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
+        "name": "Subiendo De Nivel",
+        "url": "https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh"
       },
       "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 170484,
-      "name": "El Postre",
-      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
+      "duration_ms": 110784,
+      "name": "Tu No Eres Lo Que Quer\u00eda",
+      "url": "https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

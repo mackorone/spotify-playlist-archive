@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-96 songs - 4 hr 7 min
+97 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Forward Prayers](https://open.spotify.com/track/7CMlAUGf2BpDEkOAY0UrnI) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Forward Prayers](https://open.spotify.com/album/6N53ce95G64ep6Aq0aKnwm) | 2:56 | 2025-02-21 |  |
 | [Gateway to peace](https://open.spotify.com/track/0rVB2OiZHIxZifUVllP2iV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Gateway to peace](https://open.spotify.com/album/6McNuhNx2BztWLtb1wcJhW) | 2:04 | 2025-04-04 |  |
 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 | 2024-11-19 |  |
+| [Glimpses of Glory](https://open.spotify.com/track/3SMEMrh3Z2OaMHRNJSvvlE) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Glimpses of Glory](https://open.spotify.com/album/3lySba71h9HDrTlIKA1aMo) | 2:37 | 2025-05-20 |  |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/6j9sxrPzicPYaesxdlRVME) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Go Tell It on the Mountain](https://open.spotify.com/album/3o3acoQ0WWOiGG2j7rKeAN) | 2:35 | 2024-11-06 | 2024-11-20 |
 | [Go, Tell It on the Mountain](https://open.spotify.com/track/41gAeCFzMwTpI4tj8YKFew) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Go, Tell It on the Mountain](https://open.spotify.com/album/75iDlwqkGkNZEbMzTfUw0d) | 2:10 | 2024-11-19 |  |
 | [Goodness of God](https://open.spotify.com/track/5gtNXKWhY49TGnw7ODrvVM) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Goodness of God](https://open.spotify.com/album/79k3a3N8fkcRI7m11bGhFZ) | 2:38 | 2025-05-14 |  |
@@ -56,7 +57,7 @@
 | [I Need Thee Every Hour \- Piano](https://open.spotify.com/track/5bN7njfcG2B2WvtcD27Qqh) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Hymns of the Lord](https://open.spotify.com/album/1ku5bURxOqNFicICMmdN74) | 2:32 | 2024-03-20 |  |
 | [I Surrender All](https://open.spotify.com/track/1Hk1qNA1BZRWfLZ3TIYdLn) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [I Surrender All](https://open.spotify.com/album/4bjGbFrwdlWRcb17Lw1NH2) | 2:10 | 2024-03-20 | 2025-03-05 |
 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 | 2024-03-20 | 2025-03-05 |
-| [In Christ Alone](https://open.spotify.com/track/2OFB7zEQGMzwA9o0GWi4L5) | [Ivory Gospel](https://open.spotify.com/artist/3pFauni8fnHnLzziMVuDPD) | [In Christ Alone](https://open.spotify.com/album/5PdWLoUSCqXuxFiyfnWyb2) | 2:27 | 2025-05-14 |  |
+| [In Christ Alone](https://open.spotify.com/track/2OFB7zEQGMzwA9o0GWi4L5) | [Ivory Gospel](https://open.spotify.com/artist/3pFauni8fnHnLzziMVuDPD) | [In Christ Alone](https://open.spotify.com/album/5PdWLoUSCqXuxFiyfnWyb2) | 2:27 | 2025-05-14 | 2025-05-21 |
 | [In Your Arms](https://open.spotify.com/track/1Y0jvSloelDbT0ZjuFF3oW) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 | 2024-03-20 |  |
 | [It Is Well \- Piano](https://open.spotify.com/track/2z1QBKfCirxoWJThnqS2bz) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Hymns for Peaceful Worship \(Piano\)](https://open.spotify.com/album/77vQP2RuGopRyvz9ghXhxG) | 3:26 | 2024-03-20 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/1Kc0OhfFyjHoiz29EfsCpt) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [It Is Well With My Soul](https://open.spotify.com/album/6ZGY5ovF3mCqfisQkrckYL) | 3:11 | 2025-04-29 |  |

@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 261311,
       "name": "A Clear Path",
       "url": "https://open.spotify.com/track/3nGPxRTbi8628ZshMRjuQo"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 596119,
       "name": "Ellipsoid",
       "url": "https://open.spotify.com/track/2KfQdB1IzvRQFNdB7RbTua"
@@ -2197,13 +2197,13 @@
     },
     {
       "album": {
-        "name": "Extended Play No 1",
+        "name": "Twin Color (Extended Play No. 1)",
         "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
       },
       "artists": [
         {
-          "name": "Twin Color",
-          "url": "https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0"
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
       "date_added": "2023-12-12",

@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance music by independent artists and labels, featuring Kotiēr\. Artwork by Rewina Beshue.
+> Celebrating 10 years of the best new dance music by independent artists and labels, featuring Kotiēr\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,092 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,143 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lēthē](https://open.spotify.com/track/4FV6uJYX6isPiMi9NSbL9a) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Static Soul](https://open.spotify.com/album/13UtAcMnEWkdrlDFIoEnJx) | 4:44 |
-| 2 | [Hellraiser](https://open.spotify.com/track/1LrO7orroMDMJzhPpN3a0D) | [Osmosis Jones](https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n) | [POP DA MOLLY](https://open.spotify.com/album/1TXvsTyMh2T2ByKf8qflvA) | 5:26 |
+| 2 | [spontaneous combustion!](https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [spontaneous combustion!](https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B) | 5:42 |
 | 3 | [Bring The Funk Back](https://open.spotify.com/track/2GWrlPQcDAwmNWfRQ3p4my) | [Nigel Hey](https://open.spotify.com/artist/1cPQM2gu0JiwizeLoo9Edt) | [Bring The Funk Back EP](https://open.spotify.com/album/4uuvhkwgrUOsV5zAVHN7jM) | 2:46 |
 | 4 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 5 | [All The Ladies](https://open.spotify.com/track/2QF5OiI1KWDl3etuKnj69m) | [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd), [Katie Holmes\-Smith](https://open.spotify.com/artist/3cjrth6or1jSY1WDPb4Max) | [All The Ladies](https://open.spotify.com/album/0vpYDxBfCV5KtC0neF0YMD) | 3:35 |
-| 6 | [spontaneous combustion!](https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [spontaneous combustion!](https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B) | 5:42 |
-| 7 | [ON MY MIND](https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [ON MY MIND](https://open.spotify.com/album/5SKTcJXX90jtoBy0FD78oQ) | 4:32 |
-| 8 | [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 |
-| 9 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
-| 10 | [Your Number](https://open.spotify.com/track/76dczlC6Owr273cCpKPnxS) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Your Number](https://open.spotify.com/album/7AdQ2h9ZTPHVVZEtVM08Be) | 3:01 |
-| 11 | [MISSILE](https://open.spotify.com/track/3lcBSOCXxwv73BTsqJAthH) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [MISSILE](https://open.spotify.com/album/64ao6VKyVrXKlExMqEABOl) | 2:23 |
-| 12 | [Feel The Same](https://open.spotify.com/track/2IuWL6gGz4Xch9STYdFxm2) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Feel The Same](https://open.spotify.com/album/33PKFeLmCxfXZcRaLPKfs1) | 1:55 |
-| 13 | [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 |
+| 6 | [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 |
+| 7 | [Hellraiser](https://open.spotify.com/track/1LrO7orroMDMJzhPpN3a0D) | [Osmosis Jones](https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n) | [POP DA MOLLY](https://open.spotify.com/album/1TXvsTyMh2T2ByKf8qflvA) | 5:26 |
+| 8 | [ON MY MIND](https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [ON MY MIND](https://open.spotify.com/album/5SKTcJXX90jtoBy0FD78oQ) | 4:32 |
+| 9 | [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 |
+| 10 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
+| 11 | [Your Number](https://open.spotify.com/track/76dczlC6Owr273cCpKPnxS) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Your Number](https://open.spotify.com/album/7AdQ2h9ZTPHVVZEtVM08Be) | 3:01 |
+| 12 | [MISSILE](https://open.spotify.com/track/3lcBSOCXxwv73BTsqJAthH) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [MISSILE](https://open.spotify.com/album/64ao6VKyVrXKlExMqEABOl) | 2:23 |
+| 13 | [Feel The Same](https://open.spotify.com/track/2IuWL6gGz4Xch9STYdFxm2) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Feel The Same](https://open.spotify.com/album/33PKFeLmCxfXZcRaLPKfs1) | 1:55 |
 | 14 | [Deep In My Soul](https://open.spotify.com/track/67P8gf3dsZ9pK72GPcxXno) | [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd) | [Deep In My Soul](https://open.spotify.com/album/6aEztid0k8M1whcWZvBRYF) | 3:10 |
 | 15 | [Be With You](https://open.spotify.com/track/5LRJ0Rv5qCZSXPu98SBEN1) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Be With You](https://open.spotify.com/album/3NrjPRb96WbJS1fcJFreml) | 3:03 |
 | 16 | [Worldwide Dance](https://open.spotify.com/track/0AGN7pbCnVkLZJOLlpiClW) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [Worldwide Dance](https://open.spotify.com/album/39Z4G5QG3HHfJBYwZD01Tf) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Pesadão](https://open.spotify.com/track/5e43krT4xSgcaFvnxNC00J) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4), [Shuga](https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE) | [Pesadão](https://open.spotify.com/album/54aqaVNIfHMguULs5Cdt4i) | 3:16 |
 | 100 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
 
-Snapshot ID: `aCtZyQAAAADQFHEEUtw2dSjKeWzd05Zf`
+Snapshot ID: `AAAAALVnzVNj3fCiPV4b8zmh6y4sv/D7`

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance music by independent artists and labels, featuring Kotiēr\. Artwork by Rewina Beshue.
+> Celebrating 10 years of the best new dance music by independent artists and labels, featuring Kotiēr\. Artwork by Rewina Beshue.
 
 2,855 songs - 7 day 21 hr 43 min
 

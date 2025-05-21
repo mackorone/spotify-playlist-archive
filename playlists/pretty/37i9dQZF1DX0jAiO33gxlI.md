@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Akashi Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,920 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,908 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Encarando os Fatos](https://open.spotify.com/track/3ZkX6XW4bNPU1Flkg2S8hP) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Rodrigo Zin](https://open.spotify.com/artist/71s3pi3yFhYB1P40dmRm1J) | [Encarando os Fatos](https://open.spotify.com/album/0w2Q8CH48rnkQ8rU6ARVqT) | 2:23 |
 | 2 | [O GRITO NEGRO](https://open.spotify.com/track/5bZjsB628Xbizvz8BMgMvG) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Iky Castilho](https://open.spotify.com/artist/0tPhrxjPlrVSzdn8zdRJYV) | [NUVENS & OVELHAS NEGRAS](https://open.spotify.com/album/2SRkd0YSAkRTpTtxOAHryX) | 3:17 |
-| 3 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
+| 3 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
 | 4 | [Coração Negro](https://open.spotify.com/track/4Hh5BJRrIRI0BnnVOB3iSy) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Coração Negro](https://open.spotify.com/album/1Ce1EEQ0NLRST9LzsgboXH) | 3:46 |
 | 5 | [Perfil \#103 \- Crônicas de um 38](https://open.spotify.com/track/0nK9pGU5iLR39vWAqIDdf2) | [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [DuaL021](https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Perfil \#103 \- Crônicas de um 38](https://open.spotify.com/album/3CmTmrbuZG9EqMoloeu4Zv) | 2:18 |
 | 6 | [Orgulho](https://open.spotify.com/track/5FbPqLWAA1eqZb1ECzRgrR) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Jet Lag](https://open.spotify.com/album/488ZRPJek8DfgllUaaHcps) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [INTACTO](https://open.spotify.com/track/4nHUCWOiLYfJxJuNSEeFjf) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Dj Ricch](https://open.spotify.com/artist/25KGYwgmC5Y1BE7MYaV2AF) | [INTACTO](https://open.spotify.com/album/2O2Hm7i2J5gEqJ3IrHh0Xe) | 2:56 |
 | 75 | [2025](https://open.spotify.com/track/04ZgYfHSGjJcoL7ynLXbLu) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Maunatrack](https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY) | [2025](https://open.spotify.com/album/07XdFCewnvnuvjD0vWF777) | 2:41 |
 
-Snapshot ID: `AAAAAFndNebgE2Js4xhe7Dyu0yB0f15V`
+Snapshot ID: `aCdmsgAAAACDlaTWzQCzZIGkuaQgNzjD`

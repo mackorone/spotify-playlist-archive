@@ -2,9 +2,9 @@
 
 ### [Furry Radio](https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ)
 
-> All songs made for furs, by furs\.  Request @ spotify.furrest.net
+> All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-345 songs - 18 hr 16 min
+346 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [changes](https://open.spotify.com/track/6Uupikwilql6TppeZPKZql) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida II](https://open.spotify.com/album/653nMZvSNpCmCkjqb5k7tM) | 5:46 | 2024-08-15 |  |
 | [Chatting](https://open.spotify.com/track/1h346SoBer9poh6xDUN8VJ) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Bun Bakery Jams](https://open.spotify.com/album/0jqawai6WtvvNr5KopOWgA) | 1:33 | 2024-03-06 |  |
 | [Chemicals](https://open.spotify.com/track/4L1HEkwQW2OEbN3g1rHbio) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [russelbuck](https://open.spotify.com/album/2bgUsX7DFr4VdUB35TMoUP) | 2:47 | 2023-06-27 |  |
+| [CHIPCRUSH](https://open.spotify.com/track/1oaG4aYIMQwt8Q6nbJejAX) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [la.la.thc](https://open.spotify.com/artist/4W1YH9rAlkSEFpIPAevqeZ) | [CHIPCRUSH](https://open.spotify.com/album/4ihkCUw40mGKUsiYE5Zi4i) | 2:30 | 2025-05-20 |  |
 | [Circuit Bent](https://open.spotify.com/track/314vr3XssUuliX2QAb5GvY) | [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN) | [Circuit Bent](https://open.spotify.com/album/6T2tskWsZCC8KK5np7e5mK) | 3:55 | 2024-11-18 |  |
 | [Close To Me](https://open.spotify.com/track/0EPmZRJ9Z8N2Dm9g43ofwX) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Close To Me](https://open.spotify.com/album/19MyXPg4jNlPDBThiHIsZU) | 3:02 | 2023-06-14 |  |
 | [Coins](https://open.spotify.com/track/0J9wF4zP5OXxTbDR6h6E2A) | [Cyberhound](https://open.spotify.com/artist/0B15suDyWUUrMTXJNUJ5gH), [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [New Life \(2023 Re\-Mastered\)](https://open.spotify.com/album/2wfRlV996ToEkRXFRPNDK8) | 2:48 | 2023-11-17 |  |
@@ -330,7 +331,7 @@
 | [trail](https://open.spotify.com/track/6P3FopPSVuqeuKxtkHQzFQ) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [trail](https://open.spotify.com/album/78oCCp2iWSo3zxfllN4JBE) | 2:20 | 2024-04-15 |  |
 | [Trash Talkin'](https://open.spotify.com/track/3kBzzYNNR5T6QRQD7FN6ST) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Trash Talkin'](https://open.spotify.com/album/2eW2mOSWttJQ6of9FhEd26) | 3:43 | 2023-06-14 |  |
 | [turn tail](https://open.spotify.com/track/0ZF8y0kcVWFts8QqL4cZDA) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 3:58 | 2025-05-10 |  |
-| [Unleashed](https://open.spotify.com/track/3o4nIl4q6Rpcm2PNvKhBJT) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 5:56 | 2024-02-10 |  |
+| [Unleashed](https://open.spotify.com/track/3o4nIl4q6Rpcm2PNvKhBJT) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 5:56 | 2024-02-10 | 2025-05-21 |
 | [UNMARKETABLE](https://open.spotify.com/track/1GXQG1drYNjW9EmZ60RkLY) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [AQUASINE](https://open.spotify.com/artist/77ncj3o51Ng6KaJCp5wTiG) | [UNMARKETABLE](https://open.spotify.com/album/3jG4mLZZsaBBaMVNCKMQkl) | 2:06 | 2024-05-28 |  |
 | [Voices in my head](https://open.spotify.com/track/47q6JbwiwqxIud1FcbbCDm) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Chapter 2](https://open.spotify.com/album/0EWerXaZCXA5KmMfEKJN2x) | 2:41 | 2024-07-14 |  |
 | [Wag My Tail](https://open.spotify.com/track/706eKOKkaHuRjxd25q1WZo) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Wag My Tail](https://open.spotify.com/album/2sBXtD2bY1FaiXTzIft4qB) | 3:56 | 2023-11-22 |  |

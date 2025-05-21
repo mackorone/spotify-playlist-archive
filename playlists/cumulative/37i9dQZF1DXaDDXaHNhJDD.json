@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aadharanjali (From \"Romancham\")",
+        "url": "https://open.spotify.com/album/0giwKCfbM9L9h0TjoUnctO"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149278,
+      "name": "Aadharanjali",
+      "url": "https://open.spotify.com/track/1h819b9tDPeqf9oKltPQ2Q"
+    },
+    {
+      "album": {
         "name": "Aadharanjali (From \"Romancham) - Single",
         "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
       },
@@ -343,6 +365,32 @@
     },
     {
       "album": {
+        "name": "Angu Vaana Konilu (From \"ARM\")",
+        "url": "https://open.spotify.com/album/5lM0AnBxOAUfK5TrBstfzp"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Angu Vaana Konilu - From \"ARM\"",
+      "url": "https://open.spotify.com/track/0xpeiTGSEchBhqrjDuIcSS"
+    },
+    {
+      "album": {
         "name": "Oru Murai Vanthu Paarthaya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5YA1WXdaMqAwKsrZRTjY3V"
       },
@@ -626,6 +674,32 @@
       "duration_ms": 344791,
       "name": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
       "url": "https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej"
+    },
+    {
+      "album": {
+        "name": "Dhurooha Manthahasame (From \"Sookshmadarshini\")",
+        "url": "https://open.spotify.com/album/39Ffgbe1WFfcZLd0wXDEmg"
+      },
+      "artists": [
+        {
+          "name": "Christo Xavier",
+          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
+        },
+        {
+          "name": "Ahi Ajayan",
+          "url": "https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH"
+        },
+        {
+          "name": "Mu.Ri",
+          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212794,
+      "name": "Dhurooha Manthahasame - From \"Sookshmadarshini\"",
+      "url": "https://open.spotify.com/track/05EpQNTKhOlX6NBI5h8RPJ"
     },
     {
       "album": {
@@ -1322,7 +1396,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 323179,
       "name": "Jeevamshamayi (From \"Theevandi\")",
       "url": "https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh"
@@ -2849,6 +2923,36 @@
     },
     {
       "album": {
+        "name": "Neon Ride (From \"Officer On Duty\")",
+        "url": "https://open.spotify.com/album/0lSIMeXjsUG2HA4AqdKBkj"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        },
+        {
+          "name": "Ramya RamC",
+          "url": "https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191808,
+      "name": "Neon Ride (From \"Officer On Duty\")",
+      "url": "https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X"
+    },
+    {
+      "album": {
         "name": "Aanandam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1LclXEFqKkhF2S481SsAWs"
       },
@@ -3228,7 +3332,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 218000,
       "name": "Ormakal",
       "url": "https://open.spotify.com/track/1SH16L7jBwGX7pR7oLlSs8"
@@ -3264,7 +3368,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 294230,
       "name": "Oru Nokku",
       "url": "https://open.spotify.com/track/3F9NfQgG5O5YQjDnzUZen9"
@@ -3530,7 +3634,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 277346,
       "name": "Parayuvaan - From \"Ishq\"",
       "url": "https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC"

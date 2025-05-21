@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 251933,
       "name": "Bordet",
       "url": "https://open.spotify.com/track/1ydZsp49q1GrFLPdhRwBsy"
@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 160281,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
@@ -11194,7 +11194,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -11212,7 +11212,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -12082,7 +12082,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 174860,
       "name": "Fanga av ein stormvind",
       "url": "https://open.spotify.com/track/0GssNPAI7NSbi1aaThO3EX"
@@ -13704,7 +13704,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/1V9NWjMX2GRy0exAEGicsC"
@@ -13730,7 +13730,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
@@ -15466,7 +15466,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 196692,
       "name": "Haien Kommer (Sharkdog)",
       "url": "https://open.spotify.com/track/2sbvNhKsY8OUEwlbZb7hXV"
@@ -17317,6 +17317,28 @@
     },
     {
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0iLFxyZjphKuf9uRhH8ZYR"
+      },
+      "artists": [
+        {
+          "name": "Skinny E",
+          "url": "https://open.spotify.com/artist/1CqWkWQNLlKQQzSZoeGIyx"
+        },
+        {
+          "name": "Profet",
+          "url": "https://open.spotify.com/artist/6DmKzHScgUcytGBBOfxxL5"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128906,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/6X5vRcLJF84ExOzbE1ZydU"
+    },
+    {
+      "album": {
         "name": "Norwegian Colours",
         "url": "https://open.spotify.com/album/4kj5swQwMcPO94P5t4seP9"
       },
@@ -18390,7 +18412,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 109800,
       "name": "H\u00e5ller Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq"
@@ -19442,7 +19464,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 180314,
       "name": "ICH KOMME",
       "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
@@ -28016,7 +28038,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 179624,
       "name": "New Day Will Rise",
       "url": "https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8"
@@ -37284,6 +37306,24 @@
     {
       "album": {
         "name": "Svagare \u00e4n jag",
+        "url": "https://open.spotify.com/album/3U4sFMdlJoBoZO5rDH1ioK"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/4TVloA4i5e0c4h4sqiEnxu"
+    },
+    {
+      "album": {
+        "name": "Svagare \u00e4n jag",
         "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
       },
       "artists": [
@@ -37294,7 +37334,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 187076,
       "name": "Svagare \u00e4n jag",
       "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
@@ -39590,7 +39630,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 221205,
       "name": "Til Dovre Faller",
       "url": "https://open.spotify.com/track/4yELWDJ3J0sH4UCprBdvH3"
@@ -40462,6 +40502,28 @@
       "duration_ms": 174986,
       "name": "Turn\u00e9",
       "url": "https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv"
+    },
+    {
+      "album": {
+        "name": "Tusen sp\u00e4nn",
+        "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Tusen sp\u00e4nn",
+      "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
       "album": {

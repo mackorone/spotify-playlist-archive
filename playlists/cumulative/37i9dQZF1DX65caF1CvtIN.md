@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-246 songs - 10 hr 54 min
+248 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Clouds like birds](https://open.spotify.com/track/6XvQ90cDCjLdeaQGrqciuh) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Clouds like birds](https://open.spotify.com/album/4oYnziQxx6W6qndNYE4B9W) | 2:18 | 2025-02-18 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-08-03 | 2025-01-22 |
 | [Comfort](https://open.spotify.com/track/0sCMgZyQFYjDblnzNvAn6z) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Comfort](https://open.spotify.com/album/2NySZwUwASnooDPJMVuCrU) | 2:37 | 2024-10-07 |  |
+| [Contradictions](https://open.spotify.com/track/3paUjcpKJ910PnpxZJIZfE) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Contradictions](https://open.spotify.com/album/58woFKp3lFRTgRlFvfFh5B) | 3:03 | 2025-05-20 |  |
 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 | 2025-01-21 | 2025-04-29 |
 | [Cure Me](https://open.spotify.com/track/29bBm6109p8lSuPxk5DhIj) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Cure Me](https://open.spotify.com/album/4yErhA9EXftYt51OBRUk88) | 2:46 | 2022-12-06 |  |
 | [Dancing the twelve](https://open.spotify.com/track/2yDIfosvpcbhKj3liMHZov) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Dancing the twelve](https://open.spotify.com/album/2UTmoOVrkHOflkHZH7Nx6S) | 2:38 | 2022-08-03 | 2025-04-29 |
@@ -116,6 +117,7 @@
 | [Island II](https://open.spotify.com/track/2vUY8WL94C9ortPW7AwwEE) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sol Novo](https://open.spotify.com/album/3JWpVOW9aj9y5eoMaUFbFN) | 2:23 | 2022-08-03 | 2025-01-15 |
 | [IV](https://open.spotify.com/track/06SriN75l1KQP34fJwGINe) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [IV](https://open.spotify.com/album/3TARj7IOjOntqhX7UEkACi) | 2:00 | 2022-08-03 | 2025-01-22 |
 | [Je m'amoure de cette sensation](https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Je m'amoure de cette sensation](https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8) | 2:31 | 2023-01-26 |  |
+| [Just This Moment](https://open.spotify.com/track/37Tr5q6ySaPvAt6zrRo7qG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Just This Moment](https://open.spotify.com/album/0Fh6shU6TT9Mb855NhUuGB) | 2:33 | 2025-05-20 |  |
 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 | 2022-08-03 | 2025-04-29 |
 | [La Montaña Y El Valle](https://open.spotify.com/track/2d62e3sDHNXzd7A3SyMuwZ) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [La Montaña Y El Valle](https://open.spotify.com/album/3viGBYvVCdpU6u44iHGdDM) | 2:21 | 2025-03-07 |  |
 | [Lament](https://open.spotify.com/track/20p6ToTwOlMsocEiFtQm1I) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Lament](https://open.spotify.com/album/5D9OH4oMw2vOC5rSCbJbvZ) | 2:10 | 2022-10-24 |  |

@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
 
-1,545 songs - 3 day 14 hr 55 min
+1,547 songs - 3 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,6 +882,7 @@
 | [My Youth](https://open.spotify.com/track/2O8pQEw1iv65v9Rqqs494T) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [TIME](https://open.spotify.com/album/6hTGLdEK5YkDInHmItiQQf) | 3:47 | 2022-03-17 | 2022-04-21 |
 | [Naksan Park](https://open.spotify.com/track/48xtAdnr3wrZoFbTIyiFe6) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Naksan Park](https://open.spotify.com/album/7G3tBOCWksNcNucngkE04Q) | 2:28 | 2022-06-09 | 2022-06-19 |
 | [narodo \(feat\. Ivwan\)](https://open.spotify.com/track/1aV4n8oijIobGLnCVM4lrI) | [SoulMilK](https://open.spotify.com/artist/2dXAG5AlkdYlscgf2ZuyA9), [ivwan](https://open.spotify.com/artist/3fI6eZ96RQ6rmmgQZziHM9) | [narodo \(feat\. Ivwan\)](https://open.spotify.com/album/78jYuqKftX0PMogLsk7jYg) | 2:34 | 2023-06-01 | 2023-09-21 |
+| [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-20 |  |
 | [Nemesis](https://open.spotify.com/track/7KeLAE9mYMxgChZyQZwdk1) | [Mozzy](https://open.spotify.com/artist/0Tmqntchso1zF9rXtsZMay) | [Nemesis](https://open.spotify.com/album/3zQ2iakBbDvc1gxAwIcrex) | 2:58 | 2023-05-01 | 2023-07-27 |
 | [Nest](https://open.spotify.com/track/0dXbhqDOQ8Q8RNI8TTbUst) | [e\_so](https://open.spotify.com/artist/1KsLHf4SObKZZUWrENllYL) | [e\_so](https://open.spotify.com/album/0kdNHvY1wYSEAFg8TjW2Jy) | 2:53 | 2022-11-07 | 2023-02-01 |
 | [Never Give Up](https://open.spotify.com/track/5Ac0FmCmJCU2BXFI5QF7Cv) | [이어보이](https://open.spotify.com/artist/5GOWh1RVfbDoYTuy48Ifro) | [Two Sides](https://open.spotify.com/album/36Krs4jlSgHVQDbJptBdwH) | 2:40 | 2022-01-24 | 2022-03-03 |
@@ -1175,7 +1176,7 @@
 | [Stay \(Feat\. amin\)](https://open.spotify.com/track/1gYqYDbYQuuFFcfVSo0aLg) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Stay \(Feat\. amin\)](https://open.spotify.com/album/6XcdNgatOlaJ5EspniDp7x) | 2:48 | 2023-09-20 | 2024-03-22 |
 | [Stay \(Prod\. DAUL\)](https://open.spotify.com/track/3yK9Ogqib9SUDUhFLH79Wm) | [Evy](https://open.spotify.com/artist/44OgeGpGaQMX5KtmK4kTbN) | [Stay](https://open.spotify.com/album/2wQSS9wBUj62VWsVgahFxt) | 2:40 | 2022-06-18 | 2022-07-05 |
 | [STAY BY MY SIDE](https://open.spotify.com/track/6CZ7OF3UeUCHWEjihi8QjY) | [veanii](https://open.spotify.com/artist/5ZdRpsx2LkNxgbbJIBVR21) | [STAY BY MY SIDE](https://open.spotify.com/album/2QX7Wf1NePYOeGVmRv5COZ) | 2:25 | 2024-03-08 | 2024-08-02 |
-| [Stay Calm](https://open.spotify.com/track/42b4FuHhzeh7YmXoBdGcww) | [미래](https://open.spotify.com/artist/2KYWKQ4JtQwTpoHKPjHHxF) | [Stay Calm](https://open.spotify.com/album/6JmnzmTJWA3UplZbe00nU1) | 2:52 | 2025-02-14 |  |
+| [Stay Calm](https://open.spotify.com/track/42b4FuHhzeh7YmXoBdGcww) | [미래](https://open.spotify.com/artist/2KYWKQ4JtQwTpoHKPjHHxF) | [Stay Calm](https://open.spotify.com/album/6JmnzmTJWA3UplZbe00nU1) | 2:52 | 2025-02-14 | 2025-05-21 |
 | [Stay out of my way](https://open.spotify.com/track/3UUAZ33WAzNHXlyGpa3q8B) | [Boi Brown](https://open.spotify.com/artist/5c3gpcbxU6J8ZNrJT2DwPY) | [Stay out of my way](https://open.spotify.com/album/0oA5hVaq3wCOpjJhNpjtth) | 2:32 | 2024-08-02 | 2025-02-04 |
 | [stereo \(feat\. Gist\)](https://open.spotify.com/track/23liweQ8hFWh5szU6TnbVb) | [Lil Sunder11](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW), [GIST\(윤현선\)](https://open.spotify.com/artist/5dnSklPcejwtwQ2zc5a7Dn) | [stereo \(feat\. Gist\)](https://open.spotify.com/album/3xqUW3HstppGwDwJDCl1P8) | 3:04 | 2022-06-09 | 2022-06-19 |
 | [STFU](https://open.spotify.com/track/5ia2Ihww0bMReuETu3Ls6l) | [Doyi Lee](https://open.spotify.com/artist/742wJhj5O0JPal4qG8twAX) | [STFU](https://open.spotify.com/album/23SkoG0lAoRpBabhA82hqI) | 3:00 | 2021-12-02 | 2022-01-11 |
@@ -1429,6 +1430,7 @@
 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 | 2023-09-20 | 2024-03-22 |
 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 | 2022-10-02 | 2023-02-01 |
 | [window](https://open.spotify.com/track/1TUTaj5t7Ghv5iamv5Nqnd) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [window](https://open.spotify.com/album/1h8rLkHTOrBSanTPipIFwo) | 3:47 | 2023-11-14 | 2024-05-03 |
+| [Windows](https://open.spotify.com/track/0xRttor4u8kuCuXxSilrWe) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:48 | 2025-05-20 |  |
 | [Wings](https://open.spotify.com/track/2X9h9oIzIjv82bTLYDIvjQ) | [LETO](https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ) | [Wings](https://open.spotify.com/album/6BnVGBspQY6A12s8mXHqSS) | 3:59 | 2025-02-28 |  |
 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 | 2024-01-08 | 2025-01-21 |
 | [WINTER FLOWER](https://open.spotify.com/track/24MIIiuBemcfY8Grr1Q61x) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF) | [On My Way To You](https://open.spotify.com/album/1CpZGP4dij7YWzaCm5GjJS) | 1:32 | 2023-01-30 | 2023-04-01 |
@@ -1458,7 +1460,7 @@
 | [You and I \(feat\. mim\)](https://open.spotify.com/track/0xgRkmsLjVwNjVmueozY3F) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [You and I](https://open.spotify.com/album/4ANnofgM2nEwB87GCbkWMS) | 3:03 | 2022-08-19 | 2022-10-15 |
 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 | 2022-07-04 | 2022-08-19 |
 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 | 2022-10-02 | 2023-02-01 |
-| [YOU DON'T \(feat\. Khundi Panda\)](https://open.spotify.com/track/7iCr8kBlXUOw5n4NcsnSX4) | [zoey](https://open.spotify.com/artist/1Y4L6WaAjUcEEGGhPJFGXf), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [NE MAEUM](https://open.spotify.com/album/6oWYVQIN4OVDbfhvFOFaaj) | 3:05 | 2025-02-14 |  |
+| [YOU DON'T \(feat\. Khundi Panda\)](https://open.spotify.com/track/7iCr8kBlXUOw5n4NcsnSX4) | [zoey](https://open.spotify.com/artist/1Y4L6WaAjUcEEGGhPJFGXf), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [NE MAEUM](https://open.spotify.com/album/6oWYVQIN4OVDbfhvFOFaaj) | 3:05 | 2025-02-14 | 2025-05-21 |
 | [You Erase Me](https://open.spotify.com/track/2EK0Oo72mbDGmAqhh9VT4e) | [ClaD](https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t) | [You Erase Me](https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB) | 3:01 | 2022-05-11 | 2022-06-19 |
 | [You Got Me!](https://open.spotify.com/track/6B1vrCSVFidsGxmkh3AIaT) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [You Got Me!](https://open.spotify.com/album/5MCJt3IDjvtGQcbxdEpnCH) | 3:18 | 2022-05-02 | 2022-06-10 |
 | [You have done well](https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A) | [이정민](https://open.spotify.com/artist/7jgBLUmhwwTsywCJfcztkC) | [You have done well](https://open.spotify.com/album/12HCGXiulJ1v7cJz5hcXUA) | 3:05 | 2023-01-11 | 2023-02-09 |

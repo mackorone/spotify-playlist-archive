@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Fajar Noor
+> Merayakan 10 tahun Fresh Finds, temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Fajar Noor
 
 [Spotify](https://open.spotify.com/user/spotify) - 63,960 likes - 106 songs - 6 hr 40 min
 
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 105 | [A Rare Fortune](https://open.spotify.com/track/6FMiPuKCk2AjAluIdjVBfE) | [Filton](https://open.spotify.com/artist/0HMDdc7qrCwfWwI2t71Y9X) | [A Rare Fortune](https://open.spotify.com/album/7u6V9lhuDyv5gxNN22s36B) | 2:32 |
 | 106 | [Why Can't I](https://open.spotify.com/track/708BdnMg1aK9c2N9kbHOt0) | [The Goddess of Miracle](https://open.spotify.com/artist/2dapbC2L36PP6WvmIW4jPm) | [Why Can't I](https://open.spotify.com/album/4KkDKE0J0RBaweGBKNV4fg) | 2:52 |
 
-Snapshot ID: `aCq0SQAAAACeHasUTea4jEBMvSafnlvi`
+Snapshot ID: `aCvpOAAAAACtRooSzyqyd4EdnlbIag3w`

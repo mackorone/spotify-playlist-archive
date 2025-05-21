@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Sami G, Badd G
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,971 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,980 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 43 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 |
 | 44 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 45 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
-| 46 | [ÎNCĂ ÎN VIAȚĂ](https://open.spotify.com/track/75Ds4kLHnZo50h3RE5BGjZ) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs) | [ÎNCĂ ÎN VIAȚĂ](https://open.spotify.com/album/4TFgO0KRB7ZlrMvz8JTCeU) | 3:44 |
+| 46 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
 | 47 | [Shot](https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [BAZOOKA](https://open.spotify.com/artist/5VF7pRN0tgUIRWjsVmnpY1), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Shot](https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE) | 3:48 |
-| 48 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
+| 48 | [ÎNCĂ ÎN VIAȚĂ](https://open.spotify.com/track/75Ds4kLHnZo50h3RE5BGjZ) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs) | [ÎNCĂ ÎN VIAȚĂ](https://open.spotify.com/album/4TFgO0KRB7ZlrMvz8JTCeU) | 3:44 |
 | 49 | [POVESTEA NOASTRA](https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [POVESTEA NOASTRA](https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd) | 3:46 |
 | 50 | [Am Zis Ceva](https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Am Zis Ceva](https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY) | 4:07 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón con Beetlejuice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,446 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,460 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 74 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 | 75 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
 
-Snapshot ID: `ZxrhwgAAAAAQAiJgQ6uFc99HCgiMA9zj`
+Snapshot ID: `AAAAACdXxAwRPhF4GFG2O6k8EpeMJYCD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Katteyes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,635 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,638 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 2 | [Convéncete \(Remix\)](https://open.spotify.com/track/4OA8RnYn0HIQMBDgIFnrJu) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Convéncete \(Remix\)](https://open.spotify.com/album/4tmbV9VHWjdlaDu1YK3yQO) | 3:28 |
 | 3 | [Así Soy](https://open.spotify.com/track/3ZTd26yeOXIAnXwkTJjifV) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [Así Soy](https://open.spotify.com/album/5UaLXLldJkPjdjsjm6zaZ5) | 2:03 |
 | 4 | [www.hotxulito.com](https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:21 |
-| 5 | [TONINI](https://open.spotify.com/track/0rYGGxF4VitfzCyw3zmhlN) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [TONINI](https://open.spotify.com/album/53QbHt39FFQ8O27HrWlnCr) | 2:12 |
+| 5 | [LIMPIATE ADIKTA](https://open.spotify.com/track/4oKyMskkHElqwWExL18XDR) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [LIMPIATE ADIKTA](https://open.spotify.com/album/16tkJk6H52E1Sz1MB1Prso) | 2:28 |
 | 6 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 |
 | 7 | [acaramelada](https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [acaramelada](https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9) | 2:34 |
 | 8 | [FICA PAPI](https://open.spotify.com/track/6qFJRXEdL4DYDhle6D2hsq) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [FICA PAPI](https://open.spotify.com/album/1fiww3hEVjJUeU2tL43sFO) | 2:25 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
 | 12 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
 | 13 | [España](https://open.spotify.com/track/1tBpI4LbFaRNwBfvY4gucR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [España](https://open.spotify.com/album/2IzWxuy73g719MUV8mmntz) | 2:45 |
-| 14 | [LIMPIATE ADIKTA](https://open.spotify.com/track/4oKyMskkHElqwWExL18XDR) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [LIMPIATE ADIKTA](https://open.spotify.com/album/16tkJk6H52E1Sz1MB1Prso) | 2:28 |
+| 14 | [TONINI](https://open.spotify.com/track/0rYGGxF4VitfzCyw3zmhlN) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [TONINI](https://open.spotify.com/album/53QbHt39FFQ8O27HrWlnCr) | 2:12 |
 | 15 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
 | 16 | [Volar](https://open.spotify.com/track/6TTrUdM6iRVzeruzdfC9yZ) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Ober](https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC), [BABYBOOM](https://open.spotify.com/artist/0kpa0ItmkgbH1HlSmyAosL) | [Volar](https://open.spotify.com/album/6Nehd9XhkZFYsIJwuOUWEH) | 3:29 |
 | 17 | [CIERRO LOS OJOS](https://open.spotify.com/track/3eTm0jYwUO0tFAPDoWxKU3) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol2\. EL OJO DE MI FRENTE](https://open.spotify.com/album/1bwYAzwTb5drWveYL6eXyU) | 4:18 |

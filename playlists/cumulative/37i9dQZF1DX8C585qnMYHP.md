@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
+> Celebrating 10 years of the best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
 2,028 songs - 6 day 14 hr 13 min
 

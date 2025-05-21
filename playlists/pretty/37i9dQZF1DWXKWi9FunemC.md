@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,045 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,178 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 42 | [Stay Close](https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V) | [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [Stay Close](https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN) | 3:14 |
 | 43 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 |
 | 44 | [Satisfied](https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Satisfied](https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0) | 4:09 |
-| 45 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
-| 46 | [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 |
-| 47 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
+| 45 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
+| 46 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
+| 47 | [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 |
 | 48 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 49 | [Open My Eyes](https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [The Antidote](https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3) | 3:51 |
 | 50 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 66 | [Foolish & Ruined](https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Foolish & Ruined](https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK) | 4:59 |
 | 67 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 |
 | 68 | [I Need You](https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV) | [Momentum Music](https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt) | [I Need You](https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA) | 6:27 |
-| 69 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
-| 70 | [You Never Break a Promise](https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [You Never Break a Promise](https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA) | 5:37 |
+| 69 | [You Never Break a Promise](https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [You Never Break a Promise](https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA) | 5:37 |
+| 70 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
 | 71 | [Better Plan](https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Better Plan](https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i) | 3:58 |
 | 72 | [Let Go](https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ) | [Faith Rose](https://open.spotify.com/artist/364y53omHupjImsnsOJkpp) | [Let Go](https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz) | 3:49 |
 | 73 | [Go With Me](https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Go With Me](https://open.spotify.com/album/4At1FoRpKILlQScRac9B65) | 4:25 |

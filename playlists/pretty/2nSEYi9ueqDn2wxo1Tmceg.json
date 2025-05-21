@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd_waLOSAXrA\">Panda Bear</a>",
-  "num_followers": 66487,
+  "num_followers": 66443,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQo6QYIRoe2fofrc+mAMR04x2BSokJ",
+  "snapshot_id": "AAAQpYaoW+ou1b13PT1cFl+wIA40qFvk",
   "tracks": [
+    {
+      "added_at": "2025-05-20 14:46:47",
+      "album": {
+        "name": "Wild Fields",
+        "url": "https://open.spotify.com/album/0PBFlh8JPVW5jHjGinKIKN"
+      },
+      "artists": [
+        {
+          "name": "These New Puritans",
+          "url": "https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Wild Fields",
+      "url": "https://open.spotify.com/track/4hHEp3wA5T8sEJAkCSuRVF"
+    },
     {
       "added_at": "2025-05-14 13:57:19",
       "album": {

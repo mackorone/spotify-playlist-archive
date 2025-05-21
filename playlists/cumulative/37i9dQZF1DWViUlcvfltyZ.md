@@ -4,7 +4,7 @@
 
 > Rock e punk dall'Italia 🎸 Ricche Le Mura in cover
 
-1,472 songs - 3 day 9 hr 44 min
+1,473 songs - 3 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1169,6 +1169,7 @@
 | [Seduci](https://open.spotify.com/track/0CPsIehtiLTUnI85XGB4qP) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:19 | 2023-10-23 | 2023-12-01 |
 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 | 2023-06-08 | 2023-12-06 |
 | [sei mare](https://open.spotify.com/track/6k9kIVoWSqvX1fbRxC9u6O) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [sei mare](https://open.spotify.com/album/7h8rBhrelNiun9jG1wWzVn) | 2:56 | 2024-03-14 | 2024-06-07 |
+| [sei ore](https://open.spotify.com/track/6jRosOK5OnF3Cm75Ti1f2Y) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [sei ore](https://open.spotify.com/album/2ZMaIMhaaAc4N7WDn4Bj4c) | 3:20 | 2025-05-20 |  |
 | [SELLOUT](https://open.spotify.com/track/5asgUMWlD2FfHIH8Jio5Wx) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [SELLOUT](https://open.spotify.com/album/4PkBqatSXwHCtXeNBVS7b8) | 2:08 | 2024-06-13 | 2024-11-01 |
 | [Sempre](https://open.spotify.com/track/5EZm5cuNdnu04Cso8fuojN) | [Riviera](https://open.spotify.com/artist/1Nbb0ut912InpuiKmLNShD) | [Sempre](https://open.spotify.com/album/7He15zqCOeaFWGNRzS8M7x) | 2:32 | 2024-04-18 | 2024-08-02 |
 | [Sento Un Morso Dolce](https://open.spotify.com/track/7gMFVhNWLrVRjiMQ9Pwth5) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Habitat](https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC) | 3:28 | 2023-11-23 | 2024-01-19 |

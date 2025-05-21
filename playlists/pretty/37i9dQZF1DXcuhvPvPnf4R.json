@@ -483,6 +483,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 256133,
       "name": "On To The Next One",
       "url": "https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS"
     },
     {
       "added_at": "2022-10-01 16:43:03",

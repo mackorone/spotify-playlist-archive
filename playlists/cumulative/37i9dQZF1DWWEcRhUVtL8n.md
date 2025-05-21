@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Kilo Kish
 
-2,118 songs - 4 day 16 hr 4 min
+2,119 songs - 4 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-06-07 |  |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-21 | 2022-04-09 |
 | [A Warning](https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [A Warning](https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD) | 3:34 | 2024-05-10 | 2024-06-01 |
+| [A\-Lister](https://open.spotify.com/track/7GRPnTVWiFqlC3EAvFiKvY) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [A\-Lister](https://open.spotify.com/album/6tprOLk7H0tCHRZEj2nKFR) | 3:25 | 2025-05-19 |  |
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-05-08 | 2022-04-20 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-11-07 | 2022-12-10 |
 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 | 2023-09-08 | 2024-01-27 |
@@ -1394,7 +1395,7 @@
 | [On This Love](https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [On This Love](https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd) | 2:49 | 2025-05-02 |  |
 | [One Good Reason](https://open.spotify.com/track/6WXeA4DuQ9l5OnDtmoUCrg) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 3:14 | 2020-10-13\* | 2020-11-20 |
 | [One Minute](https://open.spotify.com/track/1ukoQmzrdk1L9sfbX81xPT) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [One Minute](https://open.spotify.com/album/3EyN8ULbGWbt3uxHNDOp2Y) | 3:28 | 2020-10-16 | 2021-05-26 |
-| [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 |  |
+| [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 | 2025-05-21 |
 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 | 2022-06-17 | 2022-10-15 |
 | [One More Weekend](https://open.spotify.com/track/5CXCo9MJFpjFLkEFKaMz19) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/17tA1j7iaCKHDjXhW2cpkI) | 2:22 | 2020-10-16 | 2022-07-29 |
 | [One Star](https://open.spotify.com/track/3RlnNTs9Cot4M1qL2C9gi4) | [deryk](https://open.spotify.com/artist/1KSypwyEwU6tlZtOm9wbXj) | [One Star](https://open.spotify.com/album/1NYKBc54X3dTdcmdmyuY0I) | 3:47 | 2020-10-13\* | 2020-11-10 |
@@ -1524,7 +1525,7 @@
 | [Queen](https://open.spotify.com/track/4rPzJZqLHE1b5rx6WbFvqe) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/6RGVxi5a7hDGRSEnG1U0xt) | 3:16 | 2021-01-21 | 2021-04-03 |
 | [Questions](https://open.spotify.com/track/7eZbwMtoH1s7EyM4tcv7ol) | [Slum Sociable](https://open.spotify.com/artist/0J626PVezyRujeAfXAssnH) | [Questions](https://open.spotify.com/album/3MlH6vb6JJA0Di965nxvvo) | 3:19 | 2021-03-08 | 2021-03-17 |
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-01-21 | 2022-07-06 |
-| [R.I.P.](https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [R.I.P.](https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk) | 3:04 | 2025-03-28 |  |
+| [R.I.P.](https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [R.I.P.](https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk) | 3:04 | 2025-03-28 | 2025-05-21 |
 | [Rabbit Hole](https://open.spotify.com/track/5D1aJfnGGdU0WjfV2pQ9fm) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/4rjqU4oEnDvjUkhqSJ69oI) | 2:59 | 2020-12-12 | 2021-02-25 |
 | [Races](https://open.spotify.com/track/0QTBPKcT0vvXRRNFTznWy6) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Races](https://open.spotify.com/album/26TS76G6SM9VnQEAWXZTcO) | 2:13 | 2023-02-17 | 2023-02-27 |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-25 | 2023-04-01 |
@@ -1904,7 +1905,7 @@
 | [The Woman I Am](https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S) | 3:13 | 2022-04-08 | 2022-06-03 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 | 2022-10-13 |
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2022-10-07 | 2023-04-01 |
-| [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 | 2025-03-02 |
+| [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 |  |
 | [There’s No Insurance For a Broken Heart](https://open.spotify.com/track/24vHN1HCkhlQ0t29PTmagg) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [There’s No Insurance For a Broken Heart](https://open.spotify.com/album/11xaAjghIJoQpxUAV1UuqH) | 3:23 | 2020-11-20 | 2021-01-15 |
 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 | 2023-06-30 | 2024-03-30 |
 | [These Drugs](https://open.spotify.com/track/03GpiUeYPwWFTvZu3feZLi) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [These Drugs](https://open.spotify.com/album/7t8UQuMOTv223ioJh3KVKA) | 4:02 | 2021-03-01 | 2021-05-22 |

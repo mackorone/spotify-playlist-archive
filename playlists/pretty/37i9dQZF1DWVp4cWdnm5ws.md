@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2025\. Cover: JERGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,507 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,522 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 43 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 |
 | 44 | [Mailap](https://open.spotify.com/track/19qY0adCmXoYTRfZoA0P2f) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Mailap](https://open.spotify.com/album/2B0dFSFQiQYxQPVrNHzyIV) | 3:08 |
 
-Snapshot ID: `AAAAADB7D0jXSNIAuia2WzfeUlEjn+tW`
+Snapshot ID: `aCa50wAAAAA8uuYc2yfHpdUmiJqeORnq`

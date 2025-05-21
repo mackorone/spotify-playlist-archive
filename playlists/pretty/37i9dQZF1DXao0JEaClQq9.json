@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: caroline x Caroline Polachek",
-  "num_followers": 1683436,
+  "num_followers": 1683255,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
     },
     {
-      "added_at": "2025-03-14 04:03:08",
-      "album": {
-        "name": "Sword",
-        "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 146504,
-      "name": "Sword",
-      "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
-    },
-    {
       "added_at": "2025-03-07 00:26:16",
       "album": {
         "name": "Dummy",
@@ -639,6 +623,22 @@
       "duration_ms": 293200,
       "name": "Wandering Star",
       "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
+    },
+    {
+      "added_at": "2025-03-14 04:03:08",
+      "album": {
+        "name": "Sword",
+        "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 146504,
+      "name": "Sword",
+      "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
     },
     {
       "added_at": "2025-03-07 00:26:16",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
+      "added_at": "2025-03-07 00:26:16",
+      "album": {
+        "name": "Becoming X",
+        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
+      },
+      "artists": [
+        {
+          "name": "Sneaker Pimps",
+          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "6 Underground",
+      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
+    },
+    {
       "added_at": "2025-05-02 17:59:20",
       "album": {
         "name": "Alone (Four Tet Remix)",
@@ -779,22 +795,6 @@
       "duration_ms": 376279,
       "name": "Alone - Four Tet Remix",
       "url": "https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe"
-    },
-    {
-      "added_at": "2025-03-07 00:26:16",
-      "album": {
-        "name": "Becoming X",
-        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
-      },
-      "artists": [
-        {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "6 Underground",
-      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
     },
     {
       "added_at": "2025-03-07 00:26:16",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2025-03-07 00:26:16",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 245124,
-      "name": "Fly To You (feat. Grimes and Dido)",
-      "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
-    },
-    {
-      "added_at": "2025-03-07 00:26:16",
-      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 177900,
       "name": "4am",
       "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
+    },
+    {
+      "added_at": "2025-03-07 00:26:16",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 245124,
+      "name": "Fly To You (feat. Grimes and Dido)",
+      "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
     },
     {
       "added_at": "2025-03-07 00:26:16",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-03-07 00:26:16",
       "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
+      "added_at": "2025-03-07 00:26:16",
+      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 196021,
       "name": "Chama",
       "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
-    },
-    {
-      "added_at": "2025-03-07 00:26:16",
-      "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2025-03-07 00:26:16",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk"
     },
     {
-      "added_at": "2025-03-07 00:26:16",
-      "album": {
-        "name": "Eusexua",
-        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
-    },
-    {
       "added_at": "2025-03-21 04:00:57",
       "album": {
         "name": "The King Of Limbs",
@@ -1323,6 +1307,22 @@
       "duration_ms": 290067,
       "name": "Give Up The Ghost",
       "url": "https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2"
+    },
+    {
+      "added_at": "2025-03-07 00:26:16",
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
       "added_at": "2025-03-07 00:26:16",

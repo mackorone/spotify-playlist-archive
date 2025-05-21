@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,875 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,947 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 20 | [Here Is Your Song](https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [Here Is Your Song](https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U) | 5:40 |
 | 21 | [Freetown](https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn) | [Freetown](https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU) | 6:29 |
 | 22 | [Aware](https://open.spotify.com/track/2kp6AKfu0JauDqwqTBSSVP) | [Symphonix](https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm) | [Aware](https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu) | 3:54 |
-| 23 | [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 |
-| 24 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 |
+| 23 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 |
+| 24 | [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 |
 | 25 | [Sympathize](https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Davee](https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2), [Ela](https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj) | [Sympathize](https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk) | 5:08 |
 | 26 | [Nova Sinfonia](https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Nova Sinfonia](https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ) | 4:28 |
 | 27 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |

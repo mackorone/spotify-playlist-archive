@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Claire Javier\. Artwork: Isu Kim.
+> Celebrating 10 years of  unearthing your new favourite artists\. Cover: Claire Javier\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,980 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,979 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 74 | [Strangers Again](https://open.spotify.com/track/0Iwu8lHKV5DDCRJGxGIzI1) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Torrivicks](https://open.spotify.com/artist/3YXGWOx06esydR0tODSQne) | [Strangers Again](https://open.spotify.com/album/6bGhQ8CDYmpyFKaBCdiaOY) | 2:50 |
 | 75 | [Reach](https://open.spotify.com/track/3s8mvuuVW20B84qmwAH0mz) | [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD) | [Reach](https://open.spotify.com/album/1dBqgQcwuDCyqWpxKAliX7) | 3:34 |
 
-Snapshot ID: `aCqykwAAAACgrEVdIrlL43Pt8h7viWsY`
+Snapshot ID: `aCvrYgAAAABztoItiK1gVS1s4mYPadLV`

@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "By Your Side (Crushology 101 OST Part.4)",
+        "url": "https://open.spotify.com/album/70cfev45DG06SUDKef1eHM"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0PCHcxzHaTNwTICqX0ieTR"
+    },
+    {
+      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd"
       },
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 179560,
       "name": "Down (with george)",
       "url": "https://open.spotify.com/track/0Gt3PSw9P0WCs1Pj93Fr4D"
@@ -3120,6 +3138,24 @@
       "duration_ms": 177831,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
+    },
+    {
+      "album": {
+        "name": "ONLY YOU",
+        "url": "https://open.spotify.com/album/4YsiDDJNhCtOi2nm2zUXQl"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "ONLY YOU",
+      "url": "https://open.spotify.com/track/6qAkUuKYOfkBfuQzkxMANO"
     },
     {
       "album": {
@@ -5250,7 +5286,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 256104,
       "name": "\ub450 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/2aBO4JJfhy7BPx7wLlrxDu"

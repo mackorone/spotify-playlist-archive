@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,454 likes - 136 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,498 likes - 136 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 67 | [Good Love](https://open.spotify.com/track/7tQDyHipuEhExPOL3Nsqd2) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:45 |
 | 68 | [Pourquoi pourquoi](https://open.spotify.com/track/6gkx8l7K8s3QnNPvn4NK2D) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Un air de fête](https://open.spotify.com/album/6aC1mqsvVn1bDIwzCkg6xG) | 3:54 |
 | 69 | [Burning Drums of Fire](https://open.spotify.com/track/5gAiOysjJ192QDeQhaV2Gr) | [C.J\. & Co.](https://open.spotify.com/artist/3GLYbk7uvqWbJtZJRgod5D) | [USA Disco](https://open.spotify.com/album/2buVgAKcdH12MPuLdT2Ueg) | 5:18 |
-| 70 | [Running After Time](https://open.spotify.com/track/6Ze1KjkyRV74oUdK55QOYy) | [Tonique & Man](https://open.spotify.com/artist/0VRNWCQvrknFfHJbSGQH8H), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 3:47 |
+| 70 | [Running After Time](https://open.spotify.com/track/6Ze1KjkyRV74oUdK55QOYy) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 3:47 |
 | 71 | [Feel That Show](https://open.spotify.com/track/6lr7cNk0W3VNhp2LCwut0U) | [The George Kaplan Conspiracy](https://open.spotify.com/artist/1oghnjbVNJIYKnNhV3Y5cR) | [Recollected Memories](https://open.spotify.com/album/7zKNyfOAofayv8jZj4Jlcn) | 5:22 |
 | 72 | [Sambossa](https://open.spotify.com/track/22Su42U81pFYBhIOMY0fE8) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy) | [Sambossa](https://open.spotify.com/album/2kFc4I5U5YRbOWlbfsSBIn) | 3:28 |
 | 73 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 |

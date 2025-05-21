@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,432 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,550 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 38 | [Baby You Got It](https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Baby You Got It](https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N) | 2:08 |
 | 39 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 40 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
-| 41 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
-| 42 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
+| 41 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
+| 42 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
 | 43 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
 | 44 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
 | 45 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 104 | [Porque Te Quiero](https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo) | [La Mission](https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG), [Orlando Torriente](https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno) | [Songs from La Mission \(Original Motion Soundtrack\)](https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ) | 4:11 |
 | 105 | [Daddy's Home](https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI) | [Shep And The Limelites](https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf) | [All the Hits and More](https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc) | 2:54 |
 | 106 | [Confessin a Feeling](https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis) | [Sly, Slick & Wicked](https://open.spotify.com/artist/1OXS79e5AMBp2DKWcCbOUp) | [Super Slow Jams Vol\. 2 \(Live\)](https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i) | 6:54 |
-| 107 | [Talk To Me](https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN) | [Sunny & The Sunglows](https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O) | [All Time Favorites: Sunny & the Sunglows](https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2) | 2:44 |
-| 108 | [Those Oldies But Goodies Remind Me Of You](https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I) | [Little Caesar & the Romans](https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX) | [Blue Eyes Crying In the Rain](https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC) | 2:59 |
+| 107 | [Those Oldies But Goodies Remind Me Of You](https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I) | [Little Caesar & the Romans](https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX) | [Blue Eyes Crying In the Rain](https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC) | 2:59 |
+| 108 | [Talk To Me](https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN) | [Sunny & The Sunglows](https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O) | [All Time Favorites: Sunny & the Sunglows](https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2) | 2:44 |
 | 109 | [Angel Baby \(Spanglish\)](https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [The Chicano Alliance](https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1) | 3:34 |
 | 110 | [The One Who Really Loves You \- Album Version / Mono](https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Smash Hits Of '62](https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh) | 2:23 |
 | 111 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 |

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Cover: Neffa",
-  "num_followers": 46263,
+  "num_followers": 46278,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "The Island Chainsaw Massacre",
+        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 220682,
+      "name": "Il senso dell'odio",
+      "url": "https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 159095,
       "name": "DOPE BOY",
       "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "The Island Chainsaw Massacre",
-        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 220682,
-      "name": "Il senso dell'odio",
-      "url": "https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -491,22 +491,26 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Non Dormire",
-        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
+        "name": "CVLT - HELLRAISERS",
+        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
       },
       "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
         {
           "name": "Noyz Narcos",
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 231266,
-      "name": "Butterfly Knife",
-      "url": "https://open.spotify.com/track/4vYvY3M4ZtJrS03KqtjYUv"
+      "duration_ms": 213269,
+      "name": "RAP MONEY (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/4KyZqiE5MDR7gZNThBWjg0"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -518,11 +522,19 @@
         {
           "name": "Dani Faiv",
           "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        },
+        {
+          "name": "Strage",
+          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
         }
       ],
-      "duration_ms": 129634,
-      "name": "AMORE + ODIO (intro) \u2013 Prod. ENRI",
-      "url": "https://open.spotify.com/track/3QrYhApVP7DlcOmEghyYzS"
+      "duration_ms": 147096,
+      "name": "NO ROCKSTAR (feat. Marte) \u2013 Prod. Strage",
+      "url": "https://open.spotify.com/track/7CbDLCAlOWOyNZSstF7zB9"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -603,6 +615,26 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "Non Dormire",
+        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Butterfly Knife",
+      "url": "https://open.spotify.com/track/4vYvY3M4ZtJrS03KqtjYUv"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "CVLT - HELLRAISERS",
         "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
       },
@@ -614,35 +646,11 @@
         {
           "name": "Noyz Narcos",
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 213269,
-      "name": "RAP MONEY (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/4KyZqiE5MDR7gZNThBWjg0"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Verano Zombie",
-      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
+      "duration_ms": 110262,
+      "name": "HELLRAISERS",
+      "url": "https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -654,35 +662,11 @@
         {
           "name": "Dani Faiv",
           "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        },
-        {
-          "name": "Strage",
-          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
         }
       ],
-      "duration_ms": 147096,
-      "name": "NO ROCKSTAR (feat. Marte) \u2013 Prod. Strage",
-      "url": "https://open.spotify.com/track/7CbDLCAlOWOyNZSstF7zB9"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "Acqua",
-        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 160021,
-      "name": "KO",
-      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
+      "duration_ms": 129634,
+      "name": "AMORE + ODIO (intro) \u2013 Prod. ENRI",
+      "url": "https://open.spotify.com/track/3QrYhApVP7DlcOmEghyYzS"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -699,6 +683,22 @@
       "duration_ms": 270293,
       "name": "Non Piove",
       "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 160021,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -771,22 +771,22 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "CVLT - HELLRAISERS",
-        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
           "name": "Noyz Narcos",
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
         }
       ],
-      "duration_ms": 110262,
-      "name": "HELLRAISERS",
-      "url": "https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44"
+      "duration_ms": 220960,
+      "name": "Verano Zombie",
+      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 205186,
       "name": "Da 1k In Su (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Era Tutto Un Sogno",
-        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Tutti Contenti (feat. Salmo)",
-      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "Sacrosanto (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Om2nAPw1pT9BiK4vj1SDD"
       },
@@ -1747,6 +1727,26 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "Era Tutto Un Sogno",
+        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Tutti Contenti (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "Teoria Del Contrario",
         "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
       },
@@ -1767,8 +1767,8 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Il Mio Paese Se Ne Frega 2025",
-        "url": "https://open.spotify.com/album/5iwvr2befXYvnXKnWwAHaK"
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
       },
       "artists": [
         {
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Il Mio Paese Se Ne Frega 2025",
-      "url": "https://open.spotify.com/track/0xf8uvBuvU4DbbOwdvcOIW"
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "Rapper Italiano",
+        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Rapper italiano",
+      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/6VVD71oavp8sjPNOaM5wga"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 207000,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/71o9zwLbYX7LZUOHnyGhWz"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "Rapper Italiano",
-        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Rapper italiano",
-      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -1919,6 +1919,38 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "La realt\u00e0, la lealt\u00e0 e lo scontro",
+        "url": "https://open.spotify.com/album/77F6IMqIvxFouMNQcbT2A1"
+      },
+      "artists": [
+        {
+          "name": "Lou X",
+          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
+        }
+      ],
+      "duration_ms": 287240,
+      "name": "E la sagra continua",
+      "url": "https://open.spotify.com/track/4goADPUvaTxCHH1MuozXt7"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Il Mio Paese Se Ne Frega 2025",
+        "url": "https://open.spotify.com/album/5iwvr2befXYvnXKnWwAHaK"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Il Mio Paese Se Ne Frega 2025",
+      "url": "https://open.spotify.com/track/0xf8uvBuvU4DbbOwdvcOIW"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "VIA DI QUA",
         "url": "https://open.spotify.com/album/4bsKhpUCfltaHwdCaymR6c"
       },
@@ -1939,38 +1971,6 @@
       "duration_ms": 220298,
       "name": "VIA DI QUA",
       "url": "https://open.spotify.com/track/3EY1CmcI2rt5gheR50GfJ3"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "La realt\u00e0, la lealt\u00e0 e lo scontro",
-        "url": "https://open.spotify.com/album/77F6IMqIvxFouMNQcbT2A1"
-      },
-      "artists": [
-        {
-          "name": "Lou X",
-          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
-        }
-      ],
-      "duration_ms": 287240,
-      "name": "E la sagra continua",
-      "url": "https://open.spotify.com/track/4goADPUvaTxCHH1MuozXt7"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 264689,
-      "name": "Note killer",
-      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 264689,
+      "name": "Note killer",
+      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "THE ALMIGHTY BIRDS 2: THE STORM SEASON",
-        "url": "https://open.spotify.com/album/57eE9ttRzKa4mNj5XxuFt3"
-      },
-      "artists": [
-        {
-          "name": "Aleaka",
-          "url": "https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1"
-        },
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "GOD MODE",
-      "url": "https://open.spotify.com/track/2CzwAb3UNCd76bDIPshZsg"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -2319,6 +2299,26 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "THE ALMIGHTY BIRDS 2: THE STORM SEASON",
+        "url": "https://open.spotify.com/album/57eE9ttRzKa4mNj5XxuFt3"
+      },
+      "artists": [
+        {
+          "name": "Aleaka",
+          "url": "https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "GOD MODE",
+      "url": "https://open.spotify.com/track/2CzwAb3UNCd76bDIPshZsg"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "Parole",
         "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
       },
@@ -2331,6 +2331,30 @@
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Beat Coin",
+        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
+      },
+      "artists": [
+        {
+          "name": "DJ Gengis",
+          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Sembra un film",
+      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2359,30 +2383,6 @@
       "duration_ms": 204120,
       "name": "FLOW SUI GRADINI #15 (Badman) [feat. Ensi & Jack The Smoker]",
       "url": "https://open.spotify.com/track/2PEaAW2l39LLfoJD1UBNnI"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "Beat Coin",
-        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
-      },
-      "artists": [
-        {
-          "name": "DJ Gengis",
-          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        }
-      ],
-      "duration_ms": 187415,
-      "name": "Sembra un film",
-      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2479,18 +2479,26 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Jazzhighlanders",
-        "url": "https://open.spotify.com/album/0nvz1OPqpbRIXTWvr1Py8d"
+        "name": "IDDU",
+        "url": "https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL"
       },
       "artists": [
         {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        },
+        {
+          "name": "Lenor",
+          "url": "https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK"
         }
       ],
-      "duration_ms": 162496,
-      "name": "Jazzhighlanders",
-      "url": "https://open.spotify.com/track/3JkiGQZYOwGYrRB2stg9e5"
+      "duration_ms": 160365,
+      "name": "Peri Peri",
+      "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2523,30 +2531,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "IDDU",
-        "url": "https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL"
-      },
-      "artists": [
-        {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
-        },
-        {
-          "name": "Lenor",
-          "url": "https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK"
-        }
-      ],
-      "duration_ms": 160365,
-      "name": "Peri Peri",
-      "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "Disco Inverno",
         "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 189346,
       "name": "Aeroplani",
       "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Jazzhighlanders",
+        "url": "https://open.spotify.com/album/0nvz1OPqpbRIXTWvr1Py8d"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 162496,
+      "name": "Jazzhighlanders",
+      "url": "https://open.spotify.com/track/3JkiGQZYOwGYrRB2stg9e5"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2611,6 +2611,30 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
+        "name": "Rosso Fuoco",
+        "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Rosso Fuoco",
+      "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
         "name": "Pineapple",
         "url": "https://open.spotify.com/album/0fHCSCS4gFHgxzZhSaOVpD"
       },
@@ -2635,30 +2659,6 @@
       "duration_ms": 139950,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/7f4cnNLzZVgDKq34TERDIA"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
-        "name": "Rosso Fuoco",
-        "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Brava Gente",
-          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Rosso Fuoco",
-      "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2795,26 +2795,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Polvere (Director's cut)",
-        "url": "https://open.spotify.com/album/42MvJQeal6vjs0kmvWeFnp"
-      },
-      "artists": [
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        },
-        {
-          "name": "Blo/B",
-          "url": "https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH"
-        }
-      ],
-      "duration_ms": 132087,
-      "name": "Nemmeno mille",
-      "url": "https://open.spotify.com/track/6fE39jwmDMgnfsfcT699dN"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "WOP",
         "url": "https://open.spotify.com/album/6kgk6VVGn3QjhqiZQsFRBk"
       },
@@ -2835,6 +2815,26 @@
       "duration_ms": 185553,
       "name": "Outfit Giancana",
       "url": "https://open.spotify.com/track/4GpAB6OC3odOR6lOldeqb8"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Polvere (Director's cut)",
+        "url": "https://open.spotify.com/album/42MvJQeal6vjs0kmvWeFnp"
+      },
+      "artists": [
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        },
+        {
+          "name": "Blo/B",
+          "url": "https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH"
+        }
+      ],
+      "duration_ms": 132087,
+      "name": "Nemmeno mille",
+      "url": "https://open.spotify.com/track/6fE39jwmDMgnfsfcT699dN"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Malastrada",
-        "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Malastrada",
-      "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "Da Luned\u00ec",
         "url": "https://open.spotify.com/album/2tF3ZODZYGhKnUsK4IIOOx"
       },
@@ -2959,6 +2943,22 @@
       "duration_ms": 191419,
       "name": "Da Luned\u00ec",
       "url": "https://open.spotify.com/track/0BqCEXSJXXtNGfiFcGZsx0"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Malastrada",
+        "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Malastrada",
+      "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
     },
     {
       "added_at": "2025-05-16 07:10:09",
@@ -3039,22 +3039,6 @@
     {
       "added_at": "2025-05-16 07:10:09",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 221806,
-      "name": "Cronache di resistenza - Hard to do",
-      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
-    },
-    {
-      "added_at": "2025-05-16 07:10:09",
-      "album": {
         "name": "Un giardino",
         "url": "https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ"
       },
@@ -3095,6 +3079,22 @@
       "duration_ms": 96000,
       "name": "A Fuoco Lento",
       "url": "https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW"
+    },
+    {
+      "added_at": "2025-05-16 07:10:09",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 221806,
+      "name": "Cronache di resistenza - Hard to do",
+      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
     }
   ],
   "unique_name": "Radici Hip-Hop",

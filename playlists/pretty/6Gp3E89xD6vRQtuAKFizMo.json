@@ -1,13 +1,137 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44137,
+  "num_followers": 44136,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaKjmRHY2V1jJ41ArOms3FeVndtlDB",
+  "snapshot_id": "AAAaLDQ7ubvSZg5uLLA8DHuoEuQgwyGd",
   "tracks": [
+    {
+      "added_at": "2025-05-20 20:10:01",
+      "album": {
+        "name": "Cooler Than Me (Headliner Remix Pack)",
+        "url": "https://open.spotify.com/album/1ZibgsjREYOBbckcmsY3ym"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/69swYFuX0uzCKStDGkpWwX"
+    },
+    {
+      "added_at": "2025-05-20 20:10:01",
+      "album": {
+        "name": "Cooler Than Me (Headliner Remix Pack)",
+        "url": "https://open.spotify.com/album/1ZibgsjREYOBbckcmsY3ym"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        }
+      ],
+      "duration_ms": 196307,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/0KLm3gUxIwhG0cEb26lBli"
+    },
+    {
+      "added_at": "2025-05-20 20:10:01",
+      "album": {
+        "name": "Cooler Than Me (Headliner Remix Pack)",
+        "url": "https://open.spotify.com/album/1ZibgsjREYOBbckcmsY3ym"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/6TI4fQ8CsFNSncdj67HZw7"
+    },
+    {
+      "added_at": "2025-05-20 20:10:01",
+      "album": {
+        "name": "Cooler Than Me (Headliner Remix Pack)",
+        "url": "https://open.spotify.com/album/1ZibgsjREYOBbckcmsY3ym"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 153160,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/5Y8wazZnQFhlO8zlxRWzNX"
+    },
+    {
+      "added_at": "2025-05-20 20:10:01",
+      "album": {
+        "name": "Cooler Than Me (Headliner Remix Pack)",
+        "url": "https://open.spotify.com/album/1ZibgsjREYOBbckcmsY3ym"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/5cRWlb7UHJjWnQpyf8bHDd"
+    },
+    {
+      "added_at": "2025-05-20 20:09:43",
+      "album": {
+        "name": "Leave The Light On (KVSH Remix)",
+        "url": "https://open.spotify.com/album/2ZjRhKYg2AMpV6pWN4Mdah"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 221194,
+      "name": "Leave The Light On - KVSH Remix",
+      "url": "https://open.spotify.com/track/4pRYl6YQlS5e22kYIxpBHZ"
+    },
     {
       "added_at": "2025-05-09 23:13:50",
       "album": {

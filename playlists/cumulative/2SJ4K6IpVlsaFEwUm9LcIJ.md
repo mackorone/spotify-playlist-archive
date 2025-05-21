@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-581 songs - 1 day 9 hr 32 min
+582 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Twenty Trees](https://open.spotify.com/track/0Gl6BDxRo6hr8zQ8l2ghu5) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 7:50 | 2025-01-26 | 2025-03-02 |
 | [Twist With The Morningstars](https://open.spotify.com/track/71rFIZt1BuPzrGwcTBJEJK) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 2:22 | 2024-06-28 | 2024-07-12 |
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-16 |  |
+| [Unfair](https://open.spotify.com/track/10ZQm8oJGYLJg0x8B0TPEZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 2:33 | 2025-05-20 |  |
 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 | 2024-03-25 | 2024-05-16 |
 | [Utopia and Visions](https://open.spotify.com/track/7tSGcD2FFsf2VaWWIaqcfN) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Tommy Koverhult](https://open.spotify.com/artist/6G3CmG2kj7vybt9ALhzyiQ), [Tommy Goldman](https://open.spotify.com/artist/68OM5HiKkUyArQ8MrzCRae), [Maffy Falay](https://open.spotify.com/artist/4muxcrIOP11n8diDu5aORG), [Tage Siven](https://open.spotify.com/artist/2x4pOElxVwwsFfUMqQbyx5), [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq) | [Organic Music Society](https://open.spotify.com/album/2ODX5qfcDBR0FaMJGhAZIs) | 6:33 | 2025-05-08 |  |
 | [Vampire in the Corner](https://open.spotify.com/track/6O6VDSgm7Cxrk7kIJhyIFo) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:22 | 2024-09-20 | 2024-11-14 |

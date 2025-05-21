@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Miso Extra
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,249 likes - 235 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,237 likes - 235 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

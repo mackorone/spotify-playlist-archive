@@ -788,13 +788,17 @@
         {
           "name": "Shaun Ryder",
           "url": "https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
         }
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244999,
-      "name": "DARE",
+      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
@@ -922,7 +926,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 358053,
       "name": "Digital Versicolor",
       "url": "https://open.spotify.com/track/5WQwLtyRifa7JQdaYHBHBO"
@@ -4622,7 +4626,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 291506,
       "name": "x-ray eyes",
       "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"

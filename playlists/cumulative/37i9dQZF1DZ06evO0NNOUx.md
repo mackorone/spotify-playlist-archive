@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 53 min
+61 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [back in](https://open.spotify.com/track/59BTpJpB5N2SyaRUX75Lw2) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [back in](https://open.spotify.com/album/2wIU5KsWr2qEXgpRoh66es) | 3:09 | 2025-04-09 | 2025-05-20 |
 | [BEAUTIFUL AS EVER](https://open.spotify.com/track/3sJVDXa0efAR4Eykjw75j5) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [nextseasons](https://open.spotify.com/artist/2aXULdbHoLRvVYKRfXodX5) | [BEAUTIFUL AS EVER](https://open.spotify.com/album/1S0dSacfIUmAoJOqRXe1GY) | 3:45 | 2025-04-09 | 2025-05-17 |
 | [BEAUTIFUL AS YOU](https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:59 | 2025-04-09 |  |
-| [CELEBRATION](https://open.spotify.com/track/1716cky8w4roZox3AyO1zh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CELEBRATION](https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU) | 2:41 | 2025-04-28 |  |
+| [CELEBRATION](https://open.spotify.com/track/1716cky8w4roZox3AyO1zh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CELEBRATION](https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU) | 2:41 | 2025-04-28 | 2025-05-21 |
 | [CELEBRATION](https://open.spotify.com/track/2YfSEfmGirtcp6C6ZcLelL) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CELEBRATION](https://open.spotify.com/album/08cA6Tv3pBYlwbJjUpFnn1) | 2:41 | 2025-04-21 | 2025-04-28 |
+| [CELEBRATION](https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:41 | 2025-05-21 |  |
 | [Come Thou Font](https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:21 | 2025-04-09 |  |
 | [CRAZY](https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:32 | 2025-04-09 |  |
 | [DIGGIN U](https://open.spotify.com/track/2oNudz3r9oFMt0FfREhFoM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:26 | 2025-04-09 |  |
@@ -64,7 +65,7 @@
 | [UPS & DOWNS](https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:41 | 2025-04-09 |  |
 | [what's the use?](https://open.spotify.com/track/0A2NUKgbIM6usESeRTk9Z4) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [what's the use?](https://open.spotify.com/album/1U1MhjyeQmkdR7zR5xppYq) | 2:21 | 2025-04-09 | 2025-04-22 |
 | [Why Not Me](https://open.spotify.com/track/5KKzX8oO0W8K93M4is7wqO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:26 | 2025-04-09 | 2025-05-15 |
-| [WOKE UP THIS MORNING](https://open.spotify.com/track/47oAWX8VTZjq6tAJAr6iv1) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:13 | 2025-05-16 |  |
+| [WOKE UP THIS MORNING](https://open.spotify.com/track/47oAWX8VTZjq6tAJAr6iv1) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:13 | 2025-05-16 | 2025-05-21 |
 | [WOKE UP THIS MORNING](https://open.spotify.com/track/5bbnUbsfEDJMPaBikdQ0eC) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [WOKE UP THIS MORNING](https://open.spotify.com/album/1DryWDxvfCpNw12WhdVSwQ) | 2:13 | 2025-05-07 | 2025-05-16 |
 | [Your Soul](https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 2:58 | 2025-04-09 |  |
 | [YOUR WAY'S BETTER](https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:18 | 2025-04-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 999,
+  "num_followers": 1005,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -203,8 +203,8 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 207906,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9"
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -315,8 +315,8 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
+      "duration_ms": 207906,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/7cDFsmUgTousyXecwsWnjr"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 280952,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0sfMc7DhDVGRuTvVb53s5v"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Believe (triple j Like A Version) [Cover Version]",
         "url": "https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197594,
       "name": "Believe (triple j Like A Version) - Cover Version",
       "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
-      },
-      "artists": [
-        {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Lost Friends",
         "url": "https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 225400,
       "name": "Edge Of Town",
       "url": "https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+      },
+      "artists": [
+        {
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Gossip",
-        "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
+        "name": "Blue Sky Blue",
+        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
       },
       "artists": [
         {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        },
-        {
-          "name": "The Messengers",
-          "url": "https://open.spotify.com/artist/3cSNDsEV7pFDmsEAQrmO1M"
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Leaps And Bounds",
-      "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
+      "duration_ms": 215786,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -987,18 +983,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Blue Sky Blue",
-        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
+        "name": "Gossip",
+        "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
       },
       "artists": [
         {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "The Messengers",
+          "url": "https://open.spotify.com/artist/3cSNDsEV7pFDmsEAQrmO1M"
         }
       ],
-      "duration_ms": 215786,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
+      "duration_ms": 203920,
+      "name": "Leaps And Bounds",
+      "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Wanderings Of The Avener",
-        "url": "https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy"
-      },
-      "artists": [
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        },
-        {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "You're My Window To The Sky",
-      "url": "https://open.spotify.com/track/0DpNBQAHa6S6GDZARSe9TF"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Chimney's Afire",
         "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
       },
@@ -1087,18 +1067,38 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Vantage Point",
-        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
       "artists": [
         {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
         }
       ],
-      "duration_ms": 179642,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
+      "duration_ms": 217000,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "You're My Window To The Sky",
+      "url": "https://open.spotify.com/track/0DpNBQAHa6S6GDZARSe9TF"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+        "name": "Vantage Point",
+        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
       },
       "artists": [
         {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
+      "duration_ms": 179642,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "LO LA RU",
-        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "God Forgot",
-      "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "See The Sun",
         "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 227978,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/3NHyJsVdN5YYyERIGQE1aC"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "LO LA RU",
+        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "God Forgot",
+      "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Feeler",
-        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "Bail Me Out",
-      "url": "https://open.spotify.com/track/7uOjc2bpeWSKhnqQKnPras"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 228587,
       "name": "California",
       "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
     }
   ],
   "unique_name": "Coast to Coast",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: TobyMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,589 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,713 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 74 | [I FEEL HOME](https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [I FEEL HOME](https://open.spotify.com/album/0VLOPfxc8lPX1d9zEzfDZM) | 3:23 |
 | 75 | [When I Found You](https://open.spotify.com/track/4szrZ5eNjkeoSKdpZ4ju73) | [Megan Danielle](https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx) | [When I Found You](https://open.spotify.com/album/0PfwHpCfZz0gELEcTOsfbd) | 3:53 |
 
-Snapshot ID: `aB3ILgAAAAC0MYczbYCSBETX1/cBDmlv`
+Snapshot ID: `aB3ILgAAAAAy35j+24G9UY5OhiUKFMoX`

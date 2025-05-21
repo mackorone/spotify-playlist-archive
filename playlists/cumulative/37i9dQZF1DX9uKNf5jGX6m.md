@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-882 songs - 1 day 19 hr 43 min
+885 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Awakening](https://open.spotify.com/track/7z6h9sgnoZQxUYoIDGBn2h) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Awakening](https://open.spotify.com/album/3GybZKjekAvH8YwQAO1kZE) | 3:04 | 2022-12-14 | 2023-08-11 |
 | [Awareness](https://open.spotify.com/track/2RBhMHPkJBQMrVTjqpwtbW) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 3:15 | 2021-12-21 | 2022-10-26 |
 | [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 | 2023-01-03 |  |
-| [Azure](https://open.spotify.com/track/5yhFMyyzQKl9w3D4oWXPPt) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Highlights](https://open.spotify.com/album/2VR51P4HVXyUxmeBLCGx7q) | 2:47 | 2023-08-11 |  |
+| [Azure](https://open.spotify.com/track/5yhFMyyzQKl9w3D4oWXPPt) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Highlights](https://open.spotify.com/album/2VR51P4HVXyUxmeBLCGx7q) | 2:47 | 2023-08-11 | 2025-05-21 |
 | [Aún](https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv) | [Didio Carrión](https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw) | [Aún](https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq) | 3:04 | 2022-02-09 | 2022-10-26 |
 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 | 2021-12-21 | 2022-07-29 |
 | [Balance](https://open.spotify.com/track/1U8UZakVZR7f2W3sQjQkkJ) | [Aksel Hvitfeldt](https://open.spotify.com/artist/5mDMUto7iSJACsjZ1JPSEr) | [Balance](https://open.spotify.com/album/0oj8dGBtrIhn12Y3IdHWvs) | 2:45 | 2022-06-22 | 2023-08-11 |
@@ -270,12 +270,13 @@
 | [Escape Gravity](https://open.spotify.com/track/0yyWxyeHt09K786RjTs6KH) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:51 | 2021-12-21 | 2022-08-12 |
 | [Esoteric](https://open.spotify.com/track/1CS8gyzijBq8WVr87aWQYk) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Esoteric](https://open.spotify.com/album/0CCa3J5cHdMNIBNiqFIQHv) | 2:43 | 2025-04-29 |  |
 | [Espacio de Tiempo](https://open.spotify.com/track/5LgCsBWN1tqi2wIobVWil7) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Espacio de Tiempo](https://open.spotify.com/album/17imW27IdjDTToP8dsDsg6) | 2:57 | 2022-05-31 | 2022-11-26 |
+| [Essence](https://open.spotify.com/track/2atmBNTofo4VJgt6oazd0S) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Essence](https://open.spotify.com/album/1y3ENUlEz2SQIO2ovnUMwv) | 2:42 | 2025-05-20 |  |
 | [Essence](https://open.spotify.com/track/1sab9eLTbZCDOHxFAnO00e) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 3:08 | 2021-12-21 | 2022-09-23 |
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2023-01-03 | 2025-05-08 |
 | [Eternity](https://open.spotify.com/track/1t4SmpsYd5S6XoCQN3p7vv) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Eternity](https://open.spotify.com/album/1nPhnAH9DfARfDIw1jwA1N) | 2:49 | 2023-06-20 |  |
 | [Eternity](https://open.spotify.com/track/1UuAqSrgWWlbRCLIvznmuX) | [Jan Seevers](https://open.spotify.com/artist/2Cz6NXkRr408IQNdwG0T32) | [Eternity](https://open.spotify.com/album/3qO5ILte0pTz4Q6q79AT7i) | 3:03 | 2022-06-22 | 2023-01-04 |
 | [Ethereal Requiem](https://open.spotify.com/track/0JjZi8EZaNdvOSq7cgMvQs) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Ethereal Requiem](https://open.spotify.com/album/41yPO40cJvvDZNo6xHMouU) | 3:15 | 2023-11-24 | 2024-10-03 |
-| [Ethereal Spaces Pt 2](https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ethereal Spaces Pt 2](https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC) | 8:10 | 2023-06-20 |  |
+| [Ethereal Spaces Pt 2](https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ethereal Spaces Pt 2](https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC) | 8:10 | 2023-06-20 | 2025-05-21 |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-22 | 2024-09-19 |
 | [Eunoia](https://open.spotify.com/track/7qpWLNqJUYQpoNtoZcTDaU) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Eunoia](https://open.spotify.com/album/3z0WSTyGVc6dBnnicvGOPI) | 4:33 | 2021-12-21 | 2022-07-29 |
 | [Evening Star](https://open.spotify.com/track/3FkjbZPxaCFNaZyYZ1jtmr) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Misty](https://open.spotify.com/album/4IDHmuncCMCsF288iMWXRN) | 3:03 | 2022-10-25 | 2024-07-27 |
@@ -437,7 +438,7 @@
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 | 2023-01-04 |
 | [Levitate](https://open.spotify.com/track/4tvw1HmpJfV333GUunASjB) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Levitate](https://open.spotify.com/album/15iFY9yp9b8rfVEsd47HE3) | 3:09 | 2022-05-31 | 2022-10-26 |
 | [Levitation](https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Levitation](https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J) | 2:36 | 2021-12-21 | 2022-10-26 |
-| [Levitation](https://open.spotify.com/track/7sDw7w9CNE4NXO30E7Hcr2) | [Rippness.](https://open.spotify.com/artist/1QxFVzh0whkoFwPgwxfmBx) | [Red Sky](https://open.spotify.com/album/3BwaHNXVmLZiqbKs8Gf4J8) | 3:10 | 2023-06-20 |  |
+| [Levitation](https://open.spotify.com/track/7sDw7w9CNE4NXO30E7Hcr2) | [Rippness.](https://open.spotify.com/artist/1QxFVzh0whkoFwPgwxfmBx) | [Red Sky](https://open.spotify.com/album/3BwaHNXVmLZiqbKs8Gf4J8) | 3:10 | 2023-06-20 | 2025-05-21 |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-01 | 2023-08-11 |
 | [Light As A Feather](https://open.spotify.com/track/6lKhRDUSTdoNrc7BruIDlT) | [The Oahus](https://open.spotify.com/artist/4Kn5Q0QdYY7k6oIJM2DGL3) | [Light As A Feather](https://open.spotify.com/album/2EKsbeZLKT0RiVSGUTKXMY) | 2:35 | 2021-12-21 | 2022-07-29 |
 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 | 2021-12-21 | 2022-08-12 |
@@ -557,6 +558,7 @@
 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-11-25 | 2023-11-25 |
 | [Orbital](https://open.spotify.com/track/44MJQRHs2cF4a66b8japWK) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Orbital](https://open.spotify.com/album/626mbaJYFXKPfkFZWi7KlU) | 2:50 | 2024-06-10 |  |
 | [Oscalated](https://open.spotify.com/track/09uALXIXXbw9TV31XtuMvk) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Call Of Nature](https://open.spotify.com/album/6w7ox31LekFkKOMQi8QnHK) | 3:12 | 2023-08-11 | 2025-02-15 |
+| [Oscillate](https://open.spotify.com/track/4oHHuxXiazheX9XhoaFhKf) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Oscillate](https://open.spotify.com/album/31WpS3EapHiEpN8G19xmS0) | 2:28 | 2025-05-20 |  |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-03-04 | 2024-07-27 |
 | [Owls](https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:26 | 2021-12-21 | 2022-07-29 |
 | [Owls](https://open.spotify.com/track/6PVUZBg7qJv94rC8EoWXrL) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 2:26 | 2022-07-28 | 2022-09-23 |
@@ -757,7 +759,7 @@
 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 | 2023-08-11 |  |
 | [Strength From Inside](https://open.spotify.com/track/3MC9nswECDn5zuqkFQG1sB) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:20 | 2021-12-21 | 2022-03-25 |
 | [Suaimhneas](https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Suaimhneas](https://open.spotify.com/album/08kGIhtbc1fnU0od3JgMiD) | 3:31 | 2021-12-21 | 2022-08-12 |
-| [Subtle Differences](https://open.spotify.com/track/69GDy41jbQGozpobU1DIP1) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Subtle Differences](https://open.spotify.com/album/4K6s5AARQXCadsFXPyTRA4) | 3:24 | 2023-02-09 |  |
+| [Subtle Differences](https://open.spotify.com/track/69GDy41jbQGozpobU1DIP1) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Subtle Differences](https://open.spotify.com/album/4K6s5AARQXCadsFXPyTRA4) | 3:24 | 2023-02-09 | 2025-05-21 |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2021-12-21 | 2022-04-22 |
 | [Sumargola](https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W) | [Afturkalla](https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ) | [Sumargola](https://open.spotify.com/album/1FhinixtO382WgvThtedas) | 3:31 | 2023-10-06 | 2024-09-19 |
 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 | 2022-11-25 | 2022-12-15 |
@@ -850,6 +852,7 @@
 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 | 2022-05-31 | 2024-09-19 |
 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2022-10-25 | 2024-12-03 |
 | [Villa Onieva](https://open.spotify.com/track/3ec9xaaV7mYDlki1e7unJS) | [Two Nighthawks](https://open.spotify.com/artist/2NLqaUdpQiy4muH1ZU8OoA) | [Villa Onieva](https://open.spotify.com/album/4NBR5FA5Mjny5cmtKgreUZ) | 2:58 | 2024-10-24 |  |
+| [Vindur Efni](https://open.spotify.com/track/7MAHynUNLiCEXmJFPfsFZj) | [Astra Sky](https://open.spotify.com/artist/3VpKQ8XUwdGp6vQ5QQ3ZbP) | [Vindur Efni](https://open.spotify.com/album/6t1wbs7UXo2sk3bI90qQ1K) | 2:21 | 2025-05-20 |  |
 | [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 | 2022-12-14 | 2024-10-25 |
 | [Vishram \- Sleep Version](https://open.spotify.com/track/7trOz2nilrr7ZWGnzQsraX) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Sleep Version](https://open.spotify.com/album/5vOajCeKyNwks56VYskW8Y) | 2:45 | 2022-08-11 | 2022-12-15 |
 | [Vishram \- Yoga Version](https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Yoga Version](https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi) | 2:45 | 2022-08-11 | 2023-01-21 |

@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN y Envidia Kotxina.",
-  "num_followers": 112091,
+  "num_followers": 112089,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
+        "name": "Versos de Rabia",
+        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
+      },
+      "artists": [
+        {
+          "name": "Discordia",
+          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Ke Felicidad!",
+      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
-        "name": "Versos de Rabia",
-        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
-      },
-      "artists": [
-        {
-          "name": "Discordia",
-          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Ke Felicidad!",
-      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
         "name": "Ahora soy un punkarra",
         "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 83452,
       "name": "Tonto Seguro",
       "url": "https://open.spotify.com/track/4RSAqCCEwc0nMjyaIentNZ"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Millones de Ojos Brillantes",
-        "url": "https://open.spotify.com/album/2Je8h40FWv1MFpufjGOwjt"
-      },
-      "artists": [
-        {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Millones de Ojos Brillantes",
-      "url": "https://open.spotify.com/track/4OXw1oU2FBVDD1T5GKIUb6"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "Se\u00f1oras y Se\u00f1ores (Versi\u00f3n 2025)",
         "url": "https://open.spotify.com/album/6n8jFEHH3I88WlusxDT0AM"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 212023,
       "name": "Se\u00f1oras y Se\u00f1ores - Versi\u00f3n 2025",
       "url": "https://open.spotify.com/track/5J3AWSKrW3RP55HMYtdyrd"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Millones de Ojos Brillantes",
+        "url": "https://open.spotify.com/album/2Je8h40FWv1MFpufjGOwjt"
+      },
+      "artists": [
+        {
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Millones de Ojos Brillantes",
+      "url": "https://open.spotify.com/track/4OXw1oU2FBVDD1T5GKIUb6"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Mi Pez es Tauro y Por Eso No Me Habla",
-        "url": "https://open.spotify.com/album/33nXcSHhT3h7D4XibQMtLv"
-      },
-      "artists": [
-        {
-          "name": "Glandes Glandes",
-          "url": "https://open.spotify.com/artist/1RTpZJ73YMjlNPqYbPjMMp"
-        }
-      ],
-      "duration_ms": 60933,
-      "name": "Mi Pez es Tauro y Por Eso No Me Habla",
-      "url": "https://open.spotify.com/track/7xmbjnlxS7l4zGz3AOI1q2"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "Ser Libre",
         "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 216250,
       "name": "Ser Libre",
       "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Mi Pez es Tauro y Por Eso No Me Habla",
+        "url": "https://open.spotify.com/album/33nXcSHhT3h7D4XibQMtLv"
+      },
+      "artists": [
+        {
+          "name": "Glandes Glandes",
+          "url": "https://open.spotify.com/artist/1RTpZJ73YMjlNPqYbPjMMp"
+        }
+      ],
+      "duration_ms": 60933,
+      "name": "Mi Pez es Tauro y Por Eso No Me Habla",
+      "url": "https://open.spotify.com/track/7xmbjnlxS7l4zGz3AOI1q2"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
-      },
-      "artists": [
-        {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "Yo Soy Aquel",
         "url": "https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 139998,
       "name": "Yo Soy Aquel",
       "url": "https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
+        "name": "Venganza",
+        "url": "https://open.spotify.com/album/5KXHPURnpmmbHoTbfGYSP8"
+      },
+      "artists": [
+        {
+          "name": "Velocidad Absurda",
+          "url": "https://open.spotify.com/artist/1tQApq8Z7Maz9Gls5VSqtD"
+        }
+      ],
+      "duration_ms": 152976,
+      "name": "Venganza",
+      "url": "https://open.spotify.com/track/7CjVqHc2nvksJ5h2k1Kd33"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
         "name": "DES0KUPA",
         "url": "https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI"
       },
@@ -1279,26 +1295,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        },
-        {
-          "name": "Maldito Matas",
-          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
-        }
-      ],
-      "duration_ms": 163002,
-      "name": "Inadaptados",
-      "url": "https://open.spotify.com/track/73bmsiR22Sa1chUSge1M9t"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "An\u00eds&Roll",
         "url": "https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K"
       },
@@ -1311,22 +1307,6 @@
       "duration_ms": 200470,
       "name": "Vendimia Rock",
       "url": "https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
-        "name": "Venganza",
-        "url": "https://open.spotify.com/album/5KXHPURnpmmbHoTbfGYSP8"
-      },
-      "artists": [
-        {
-          "name": "Velocidad Absurda",
-          "url": "https://open.spotify.com/artist/1tQApq8Z7Maz9Gls5VSqtD"
-        }
-      ],
-      "duration_ms": 152976,
-      "name": "Venganza",
-      "url": "https://open.spotify.com/track/7CjVqHc2nvksJ5h2k1Kd33"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1363,18 +1343,38 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3Nto07Udigz5f1Dpv8dnco"
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT"
       },
       "artists": [
         {
-          "name": "Af\u00f3nica Naranjo",
-          "url": "https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC"
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        },
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
         }
       ],
-      "duration_ms": 185583,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/582zJuJGv7vdEfG1lmmwZk"
+      "duration_ms": 163002,
+      "name": "Inadaptados",
+      "url": "https://open.spotify.com/track/73bmsiR22Sa1chUSge1M9t"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Golpe Tras Golpe",
+        "url": "https://open.spotify.com/album/78yDlOyEPoOHPLk504m3il"
+      },
+      "artists": [
+        {
+          "name": "Los Webelos",
+          "url": "https://open.spotify.com/artist/5jbMbHJ2oBy927oqGesw3k"
+        }
+      ],
+      "duration_ms": 76511,
+      "name": "Troglodita",
+      "url": "https://open.spotify.com/track/4AENgZYo1HWcHTrVYHRiaB"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Golpe Tras Golpe",
-        "url": "https://open.spotify.com/album/78yDlOyEPoOHPLk504m3il"
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3Nto07Udigz5f1Dpv8dnco"
       },
       "artists": [
         {
-          "name": "Los Webelos",
-          "url": "https://open.spotify.com/artist/5jbMbHJ2oBy927oqGesw3k"
+          "name": "Af\u00f3nica Naranjo",
+          "url": "https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC"
         }
       ],
-      "duration_ms": 76511,
-      "name": "Troglodita",
-      "url": "https://open.spotify.com/track/4AENgZYo1HWcHTrVYHRiaB"
+      "duration_ms": 185583,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/582zJuJGv7vdEfG1lmmwZk"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
+        "name": "Quiero Romper",
+        "url": "https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI"
+      },
+      "artists": [
+        {
+          "name": "Chicharrica",
+          "url": "https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
         "name": "Hace falta\u2026?",
         "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Su Falso Mundo - original",
-      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "Anda y Que Te Den",
         "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 224172,
       "name": "Anda y Que Te Den",
       "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Escapa!",
-        "url": "https://open.spotify.com/album/6MQUQgI1RKD4wHu2Qc16iU"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 163757,
-      "name": "Por ti",
-      "url": "https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "All Cayetanos Are Bastards",
-        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanco Del Jam\u00f3n",
-          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
-        }
-      ],
-      "duration_ms": 160034,
-      "name": "All Cayetanos Are Bastards",
-      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 151134,
       "name": "Humanos",
       "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Escapa!",
+        "url": "https://open.spotify.com/album/6MQUQgI1RKD4wHu2Qc16iU"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 163757,
+      "name": "Por ti",
+      "url": "https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

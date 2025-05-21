@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u771e\u540d\u5b50\u65b0",
+  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: THE CHARM PARK",
   "name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "tracks": [
     {
@@ -1230,6 +1230,24 @@
       "duration_ms": 233866,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/1tpk0IGfeMshahOQgQQWb5"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6gySKD56pHxrl1cVc8D0sj"
+      },
+      "artists": [
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215783,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2hqxjtnTVLVzVKuTcwclGO"
     },
     {
       "album": {
@@ -9763,7 +9781,7 @@
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 237663,
+      "duration_ms": 240664,
       "name": "\u66d6\u6627Blue",
       "url": "https://open.spotify.com/track/4emdiNIkXXHkHhWsEZtnuf"
     },
@@ -10176,7 +10194,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 173586,
       "name": "\u70cf\u74dc",
       "url": "https://open.spotify.com/track/1k6zAv3dXddw8Q8M3Afs6c"

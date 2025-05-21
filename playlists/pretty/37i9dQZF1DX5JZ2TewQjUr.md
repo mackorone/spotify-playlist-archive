@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Noisy Charlie
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: RowdyRoadie
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,202 likes - 133 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,200 likes - 133 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 132 | [Streets of Helsinki](https://open.spotify.com/track/5Nuje8nvNyMTr1rV73ZmtY) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Streets of Helsinki](https://open.spotify.com/album/7wocbT7ZB498TXgICEPrjQ) | 4:01 |
 | 133 | [綠島炸雞脾 Green Island Fried Chicken Leg \- Live at NTK](https://open.spotify.com/track/165o8sxURI9AvNtW23WUUp) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [牛頭角現場 Live at Ngau Tau Kok](https://open.spotify.com/album/2jgYOrxoPHh668hMB41gup) | 5:16 |
 
-Snapshot ID: `aCYPjAAAAABd6lgBocRjwmzZ/fT5cDpS`
+Snapshot ID: `aCwhVAAAAAC0qq8cgc8ah71AxpLY8zls`

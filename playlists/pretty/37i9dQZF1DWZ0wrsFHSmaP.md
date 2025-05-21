@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [South Summit \- Live](https://open.spotify.com/track/6npIytTUS8gd1IMNjm5Aed) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Make It Somewhere \(Live\)](https://open.spotify.com/album/0bztBFVEsiJbYJKdZrANCc) | 4:08 |
+| 1 | [South Summit \- Live](https://open.spotify.com/track/6npIytTUS8gd1IMNjm5Aed) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Make It Somewhere \(Live from Happy\)](https://open.spotify.com/album/0bztBFVEsiJbYJKdZrANCc) | 4:08 |
 | 2 | [Way Up](https://open.spotify.com/track/4iVtDkLB9g20svdICYKNyp) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Way Up](https://open.spotify.com/album/5WnzFQMZnCenPaMmkjQ7J1) | 2:33 |
 | 3 | [The Giver](https://open.spotify.com/track/07T9y4PUKm2qoz42MPyHdY) | [The Violet Summers](https://open.spotify.com/artist/1m5KM8MoMGAM6CcJV8cNo6) | [The Giver](https://open.spotify.com/album/3DGG6b86GWeehXpgAO1ZJj) | 2:50 |
 | 4 | [Calling Out Your Name](https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Calling Out Your Name](https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U) | 3:34 |

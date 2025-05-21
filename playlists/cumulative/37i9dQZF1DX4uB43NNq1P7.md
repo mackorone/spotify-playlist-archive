@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-131 songs - 5 hr 55 min
+132 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Forest Crystals](https://open.spotify.com/track/4mxhnZ0n3B4nw4ei4BiAIM) | [Sylvia McArther](https://open.spotify.com/artist/33hLKr1EfUrc14GnznVB21) | [Forest Crystals](https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h) | 2:53 | 2023-08-02 |  |
 | [Forever](https://open.spotify.com/track/4SgbKHpKU7lTvYxO6sWIrx) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Forever](https://open.spotify.com/album/3C8QFAmtEJsjJOA3CaVClA) | 2:22 | 2023-07-06 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-13 |  |
+| [Fortuna Violae](https://open.spotify.com/track/32wVcuOI8eRD7u7UIvFJE8) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Fortuna Violae](https://open.spotify.com/album/42SWXFnooJj6XmOXIMmhed) | 2:09 | 2025-05-20 |  |
 | [From beginning](https://open.spotify.com/track/3UoZfZtWIrpnRtmWvcHUeH) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [From beginning](https://open.spotify.com/album/39cthq8AcvMYXcrjV4S8QO) | 2:34 | 2023-03-13 |  |
 | [Good Morning World](https://open.spotify.com/track/3ShkZ3fmEFRrroSzVdpEta) | [Anthony Ashley\-Jones](https://open.spotify.com/artist/0TzCuBsid1h1aj7ZRSa8JX) | [Good Morning World](https://open.spotify.com/album/5e3dQZEGHwwoZJ4gmaVBiU) | 2:16 | 2023-03-13 |  |
 | [Goodnight Sweetheart](https://open.spotify.com/track/7Jyq4L2auipyWJcjuoZPp0) | [Sleep Music Library](https://open.spotify.com/artist/3v9yMkr1nwZz38R90u1lpW) | [Sleeping Music: Natural Rain Sounds with Calm Piano for Deep Sleep](https://open.spotify.com/album/1qnPXccqNlrJ9jg8m2bibq) | 2:01 | 2023-03-13 |  |

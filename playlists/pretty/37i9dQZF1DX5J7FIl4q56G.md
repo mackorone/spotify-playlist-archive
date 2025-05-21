@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Sleep Theory
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,249 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,279 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 99 | [Little Death](https://open.spotify.com/track/5CcdP6Gq2mH78hdAXxIVHC) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [Little Death](https://open.spotify.com/album/3Ew9Jg8AaIqSkMONOAPhKF) | 4:01 |
 | 100 | [Bloodbath](https://open.spotify.com/track/79AdYAlZd8nth7G8LQfPof) | [Vicious Rumors](https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3) | [Bloodbath](https://open.spotify.com/album/4FqK2NIyw1ux52zrK2LI26) | 3:57 |
 
-Snapshot ID: `aCa4TAAAAABe13hLKz4/5WIg5pHKWJHu`
+Snapshot ID: `aCa4TAAAAAD35oplVO4AxmZqfcxbjy/M`

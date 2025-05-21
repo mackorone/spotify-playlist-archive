@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 回聲樂團 \(Echo of Your Soul\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,155 likes - 81 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,157 likes - 81 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 74 | [See You Today](https://open.spotify.com/track/5xLfarKKwpnnOypIw5uS8n) | [CIIU](https://open.spotify.com/artist/2CwFC7mvNOoz9exAqCtlJ6) | [See You Today](https://open.spotify.com/album/1xImIx4wOJNJmyacxHAT3h) | 2:51 |
 | 75 | [你是不是也喜歡我呀](https://open.spotify.com/track/31EQynCoQ3lgJpzVRZ3zIh) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [你是不是也喜歡我呀](https://open.spotify.com/album/11vaozmZ6kNwho7D3PbvxY) | 4:48 |
 | 76 | [膽小鬼](https://open.spotify.com/track/5hsJVDFSHcD3BjPdYiGNa0) | [青井](https://open.spotify.com/artist/2Xs6HmQzPV5EhAtqZ8xVzP) | [膽小鬼](https://open.spotify.com/album/5LABrJzVRpcI4iDJJyYTxf) | 4:11 |
-| 77 | [心流](https://open.spotify.com/track/6RdnIJzrbkSjmh5dbqDEoj) | [氣氛休息室](https://open.spotify.com/artist/3RbZ8ZxCUTAV4zJFfkFtnH), [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [心流](https://open.spotify.com/album/75ShhvqKol38kFMue1C3WZ) | 3:11 |
+| 77 | [心流 \- 北流五週年音樂共創計畫](https://open.spotify.com/track/6RdnIJzrbkSjmh5dbqDEoj) | [氣氛休息室](https://open.spotify.com/artist/3RbZ8ZxCUTAV4zJFfkFtnH), [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [心流 \(北流五週年音樂共創計畫\)](https://open.spotify.com/album/75ShhvqKol38kFMue1C3WZ) | 3:11 |
 | 78 | [互累](https://open.spotify.com/track/3OqfaYOPapVMyhVS03uCPt) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [hue](https://open.spotify.com/artist/6Ahi2PpG3gEX5M1HuQiQGL) | [互累](https://open.spotify.com/album/6CuDAHQyTWEMxcp1l6DSrt) | 3:45 |
 | 79 | [不能再說曾經](https://open.spotify.com/track/4nyxV6Hr6uurZ0oiF1SUqf) | [Mango Street Papa 芒果街老爸](https://open.spotify.com/artist/7L3ELK3RL1ghTrhVo3dwS0) | [不能再說曾經](https://open.spotify.com/album/10G8ue6NZenDAeoJh65bqe) | 3:32 |
 | 80 | [遊子的懺悔](https://open.spotify.com/track/2Q8sAEstUYzoTf2TksonLQ) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ), [蒙捷文](https://open.spotify.com/artist/1V2T2QKA9HjUCCwkoc1BIO) | [遊子的懺悔](https://open.spotify.com/album/0GWM52M664nUl75QChicuc) | 4:40 |

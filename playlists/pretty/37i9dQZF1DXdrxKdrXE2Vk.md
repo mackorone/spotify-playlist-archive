@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: John Wilds
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,115 likes - 75 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,177 likes - 75 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

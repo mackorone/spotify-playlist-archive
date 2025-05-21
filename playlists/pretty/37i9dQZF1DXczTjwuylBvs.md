@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,274 likes - 117 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,323 likes - 117 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

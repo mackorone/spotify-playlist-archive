@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Glimpses of Glory",
+        "url": "https://open.spotify.com/album/3lySba71h9HDrTlIKA1aMo"
+      },
+      "artists": [
+        {
+          "name": "Joel Carrington",
+          "url": "https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157020,
+      "name": "Glimpses of Glory",
+      "url": "https://open.spotify.com/track/3SMEMrh3Z2OaMHRNJSvvlE"
+    },
+    {
+      "album": {
         "name": "Go Tell It on the Mountain",
         "url": "https://open.spotify.com/album/3o3acoQ0WWOiGG2j7rKeAN"
       },
@@ -884,7 +902,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 147714,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/2OFB7zEQGMzwA9o0GWi4L5"

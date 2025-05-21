@@ -876,7 +876,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 41821,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
@@ -1787,6 +1787,28 @@
     },
     {
       "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/27WRlhWtK9YHfJ7CZg7bcr"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Berta Rojas",
+          "url": "https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212714,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/7goBSpxmpMHxQQaAvbBDhl"
+    },
+    {
+      "album": {
         "name": "The Last of Us Part II (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
       },
@@ -1856,7 +1878,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 50077,
       "name": "The Settlement",
       "url": "https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh"

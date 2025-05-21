@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 167850,
       "name": "Azure",
       "url": "https://open.spotify.com/track/5yhFMyyzQKl9w3D4oWXPPt"
@@ -4726,6 +4726,24 @@
     {
       "album": {
         "name": "Essence",
+        "url": "https://open.spotify.com/album/1y3ENUlEz2SQIO2ovnUMwv"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162149,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/2atmBNTofo4VJgt6oazd0S"
+    },
+    {
+      "album": {
+        "name": "Essence",
         "url": "https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI"
       },
       "artists": [
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 490000,
       "name": "Ethereal Spaces Pt 2",
       "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
@@ -7742,7 +7760,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 190000,
       "name": "Levitation",
       "url": "https://open.spotify.com/track/7sDw7w9CNE4NXO30E7Hcr2"
@@ -9892,6 +9910,24 @@
       "duration_ms": 192000,
       "name": "Oscalated",
       "url": "https://open.spotify.com/track/09uALXIXXbw9TV31XtuMvk"
+    },
+    {
+      "album": {
+        "name": "Oscillate",
+        "url": "https://open.spotify.com/album/31WpS3EapHiEpN8G19xmS0"
+      },
+      "artists": [
+        {
+          "name": "Stillgarden",
+          "url": "https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148858,
+      "name": "Oscillate",
+      "url": "https://open.spotify.com/track/4oHHuxXiazheX9XhoaFhKf"
     },
     {
       "album": {
@@ -13506,7 +13542,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 204135,
       "name": "Subtle Differences",
       "url": "https://open.spotify.com/track/69GDy41jbQGozpobU1DIP1"
@@ -15166,6 +15202,24 @@
       "duration_ms": 178888,
       "name": "Villa Onieva",
       "url": "https://open.spotify.com/track/3ec9xaaV7mYDlki1e7unJS"
+    },
+    {
+      "album": {
+        "name": "Vindur Efni",
+        "url": "https://open.spotify.com/album/6t1wbs7UXo2sk3bI90qQ1K"
+      },
+      "artists": [
+        {
+          "name": "Astra Sky",
+          "url": "https://open.spotify.com/artist/3VpKQ8XUwdGp6vQ5QQ3ZbP"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Vindur Efni",
+      "url": "https://open.spotify.com/track/7MAHynUNLiCEXmJFPfsFZj"
     },
     {
       "album": {

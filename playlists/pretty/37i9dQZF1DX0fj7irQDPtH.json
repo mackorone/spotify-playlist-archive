@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 56689,
+  "num_followers": 56732,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Madre Tierra (Oye)",
+      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
         "name": "MultiViral",
         "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 215813,
       "name": "Ojos Color Sol (feat. Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Madre Tierra (Oye)",
-      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
     },
     {
       "added_at": "2024-07-13 01:11:49",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: CLAN QUEEN",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: yutori",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 221813,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/4erY5bBB0YdDwmf86WcV6G"
@@ -5742,6 +5742,24 @@
       "duration_ms": 140751,
       "name": "None",
       "url": "https://open.spotify.com/track/4xqWmfEouZBNGBQSSarHRi"
+    },
+    {
+      "album": {
+        "name": "Hertzmetre",
+        "url": "https://open.spotify.com/album/3CQYCsJdkKX5BYYUmtHrKY"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "NOT MUSIC",
+      "url": "https://open.spotify.com/track/2mWgz9OioFdwkzmhgCk88a"
     },
     {
       "album": {
@@ -10926,7 +10944,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 196850,
       "name": "\u30a8\u30ad\u30b9\u30c8\u30e9",
       "url": "https://open.spotify.com/track/1GzJQkdWo8v4v21K0mEhHG"
@@ -16624,7 +16642,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 241565,
       "name": "\u59cb\u307e\u308a\u306e\u5408\u56f3",
       "url": "https://open.spotify.com/track/4gKJN7M6VRCFBgRcp9ej7a"

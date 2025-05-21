@@ -4,7 +4,7 @@
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Lola Young
 
-562 songs - 1 day 6 hr 27 min
+563 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-16 |  |
 | [One Waking Dream](https://open.spotify.com/track/1aAiZ4TfzjmhM1iOrO3O13) | [Natt Buntita](https://open.spotify.com/artist/5WGEq3jNFjSRF4ACITjLwY) | [One Waking Dream](https://open.spotify.com/album/2pKAc510fNnEIE1KBVen4T) | 3:27 | 2025-05-16 |  |
 | [ooh la la](https://open.spotify.com/track/0QjnzOVvDG2yqR36J1HKdZ) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [ooh la la](https://open.spotify.com/album/2g2NrlQzd3Ad2jJFOMcykG) | 3:12 | 2024-12-13 | 2025-01-25 |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-05-20 |  |
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-25 | 2024-11-02 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2024-06-28 | 2024-08-03 |
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-25 | 2024-11-02 |
@@ -526,7 +527,7 @@
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-28 | 2024-09-28 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 |  |
 | [Vibin'](https://open.spotify.com/track/1JNyTBzuW5boU3PltBjTzp) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Vibin'](https://open.spotify.com/album/7A3GYpyF6MMplyxgKMo1nL) | 3:02 | 2024-08-16 | 2024-09-07 |
-| [Vulnerable](https://open.spotify.com/track/5G6sPdp9sDuvlJ62o98g12) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Vulnerable](https://open.spotify.com/album/5DLmQNebQS21OXsSK14ocV) | 3:26 | 2025-05-09 |  |
+| [Vulnerable](https://open.spotify.com/track/5G6sPdp9sDuvlJ62o98g12) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Vulnerable](https://open.spotify.com/album/5DLmQNebQS21OXsSK14ocV) | 3:26 | 2025-05-09 | 2025-05-21 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 | 2024-07-05 |
 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 | 2024-10-04 |  |
 | [Walk Out The Door](https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Walk Out The Door](https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE) | 3:48 | 2024-10-18 | 2024-11-16 |

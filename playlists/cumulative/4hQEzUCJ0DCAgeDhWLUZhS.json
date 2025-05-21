@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Dust On My Brain",
+        "url": "https://open.spotify.com/album/4ZxzVGsD6E2OM89NFe6rPH"
+      },
+      "artists": [
+        {
+          "name": "Bakers Eddy",
+          "url": "https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191586,
+      "name": "Dust On My Brain",
+      "url": "https://open.spotify.com/track/5E9l77EjYGfMEQvjCDc1qX"
+    },
+    {
+      "album": {
         "name": "Dying To Believe",
         "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
       },

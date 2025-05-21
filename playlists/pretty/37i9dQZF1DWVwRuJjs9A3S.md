@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: AKA lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,839 likes - 133 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,886 likes - 133 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

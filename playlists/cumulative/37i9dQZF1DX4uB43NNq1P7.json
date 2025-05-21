@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Fortuna Violae",
+        "url": "https://open.spotify.com/album/42SWXFnooJj6XmOXIMmhed"
+      },
+      "artists": [
+        {
+          "name": "Pietro Madigan",
+          "url": "https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129406,
+      "name": "Fortuna Violae",
+      "url": "https://open.spotify.com/track/32wVcuOI8eRD7u7UIvFJE8"
+    },
+    {
+      "album": {
         "name": "From beginning",
         "url": "https://open.spotify.com/album/39cthq8AcvMYXcrjV4S8QO"
       },

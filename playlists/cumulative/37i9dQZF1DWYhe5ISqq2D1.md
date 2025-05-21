@@ -2,9 +2,9 @@
 
 ### [ブルーにこんがらがって](https://open.spotify.com/playlist/37i9dQZF1DWYhe5ISqq2D1)
 
-> たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 眞名子新
+> たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: THE CHARM PARK
 
-630 songs - 1 day 15 hr 58 min
+631 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [EYES](https://open.spotify.com/track/2fsbu9lHlhON4zGVluUwBx) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [COMPASS](https://open.spotify.com/album/3CKj5rRl25mQqudkiPhFAN) | 3:13 | 2024-12-10 | 2025-01-08 |
 | [Fall in love with love](https://open.spotify.com/track/44wWccVhuDa6C2J5fgpDMi) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Fall in love with love](https://open.spotify.com/album/1XUl7BM0u5llngq8K5D8ky) | 3:09 | 2025-04-22 | 2025-05-07 |
 | [Fallin](https://open.spotify.com/track/1tpk0IGfeMshahOQgQQWb5) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Insomnia](https://open.spotify.com/album/3OWVzVs8Kkngnks5Or0WFZ) | 3:53 | 2024-07-02 | 2024-12-25 |
+| [Falling](https://open.spotify.com/track/2hqxjtnTVLVzVKuTcwclGO) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Falling](https://open.spotify.com/album/6gySKD56pHxrl1cVc8D0sj) | 3:35 | 2025-05-20 |  |
 | [Fantasy](https://open.spotify.com/track/5IHnVdMRz00edhaSfcw3wG) | [Kenichi Asai](https://open.spotify.com/artist/5Gm55pqgmqzj8QbaHQTCFd) | [OVER HEAD POP](https://open.spotify.com/album/6VvZ51e6CXGQR0vo9rVwc2) | 3:53 | 2024-10-08 | 2024-11-13 |
 | [Feel Like This](https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Feel Like This](https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW) | 3:48 | 2024-12-10 | 2025-04-06 |
 | [FLAG](https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [FLAG](https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td) | 4:36 | 2024-12-24 | 2025-03-12 |
@@ -545,7 +546,7 @@
 | [春嵐](https://open.spotify.com/track/2gRT6NEsJC8JoaA1C444TF) | [二本柳 亮](https://open.spotify.com/artist/3rvgGE1GmlE5zSr5lKtW6Z) | [I am Ours](https://open.spotify.com/album/0C3RNKOxe7gLvNwqEDoo4g) | 4:10 | 2025-04-08 | 2025-04-16 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-07-02 | 2024-12-25 |
 | [暗闇](https://open.spotify.com/track/6icfGil407y3ssfZpgjf9f) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 3:53 | 2025-05-13 |  |
-| [曖昧Blue](https://open.spotify.com/track/4emdiNIkXXHkHhWsEZtnuf) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [曖昧Blue](https://open.spotify.com/album/3jbh9OxCaU1UeuX1XmmWkm) | 3:57 | 2025-03-18 |  |
+| [曖昧Blue](https://open.spotify.com/track/4emdiNIkXXHkHhWsEZtnuf) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [曖昧Blue](https://open.spotify.com/album/3jbh9OxCaU1UeuX1XmmWkm) | 4:00 | 2025-03-18 |  |
 | [最&強](https://open.spotify.com/track/6vblHjZAX1mKmCCSbZfAET) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [最&強](https://open.spotify.com/album/77f7VBVt5VRwWyP4nUdswe) | 3:46 | 2025-04-22 |  |
 | [月面着陸計画 \- Moon Landing Plan](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-07 |  |
 | [朗朗](https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [朗朗](https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um) | 3:33 | 2025-01-07 | 2025-05-14 |
@@ -568,7 +569,7 @@
 | [火魅蟲](https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [火魅蟲](https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG) | 3:10 | 2024-12-24 | 2025-01-22 |
 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 | 2024-07-02 | 2024-12-04 |
 | [点滅する](https://open.spotify.com/track/6hMfeTHae3Z2UJQOzaRWDx) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [点滅する](https://open.spotify.com/album/5Iu2uCDS8T05BP2SrexYFr) | 4:59 | 2025-03-04 | 2025-03-12 |
-| [烏瓜](https://open.spotify.com/track/1k6zAv3dXddw8Q8M3Afs6c) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [烏瓜](https://open.spotify.com/album/7wDSLAVo8tWSfEasUHauco) | 2:53 | 2025-05-07 |  |
+| [烏瓜](https://open.spotify.com/track/1k6zAv3dXddw8Q8M3Afs6c) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [烏瓜](https://open.spotify.com/album/7wDSLAVo8tWSfEasUHauco) | 2:53 | 2025-05-07 | 2025-05-21 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2024-07-02 | 2024-12-25 |
 | [燈「独唱」](https://open.spotify.com/track/5S81ZEgJnL7htOyYRBPaF9) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [燈「独唱」](https://open.spotify.com/album/2o0ObU3yAIpgxumW5ewbGN) | 4:55 | 2024-10-08 | 2024-11-06 |
 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-18 |  |

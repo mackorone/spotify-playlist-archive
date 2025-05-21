@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297548,
+  "num_followers": 297532,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 228047,
-      "name": "YES IT IS",
-      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
-    },
-    {
-      "added_at": "2025-05-08 22:00:28",
-      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
+      "added_at": "2025-05-08 22:00:28",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 228047,
+      "name": "YES IT IS",
+      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
+        "name": "Cranes in the Sky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "Cranes in the Sky - Spotify Singles",
+      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
+    },
+    {
+      "added_at": "2025-05-08 22:00:28",
+      "album": {
         "name": "No One Else (feat. Jeremih)",
         "url": "https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 162240,
       "name": "No One Else (feat. Jeremih)",
       "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
-    },
-    {
-      "added_at": "2025-05-08 22:00:28",
-      "album": {
-        "name": "Cranes in the Sky (Spotify Singles)",
-        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "Cranes in the Sky - Spotify Singles",
-      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -879,22 +879,18 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
-        "name": "Fuck A Friendzone 2",
-        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
         }
       ],
-      "duration_ms": 145074,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
+      "duration_ms": 157606,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -915,18 +911,22 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
-        "name": "Fold",
-        "url": "https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG"
+        "name": "Fuck A Friendzone 2",
+        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
         }
       ],
-      "duration_ms": 157606,
-      "name": "Fold",
-      "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
+      "duration_ms": 145074,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/6hBKOBKupHmwdwcQQG4Iuc"
+      },
+      "artists": [
+        {
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
+        }
+      ],
+      "duration_ms": 211887,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/2Mt0oXSaPRQLjiSKYVzBsT"
+    },
+    {
+      "added_at": "2025-05-08 22:00:28",
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 235732,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
-    },
-    {
-      "added_at": "2025-05-08 22:00:28",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/6hBKOBKupHmwdwcQQG4Iuc"
-      },
-      "artists": [
-        {
-          "name": "Luna Mae",
-          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
-        }
-      ],
-      "duration_ms": 211887,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/2Mt0oXSaPRQLjiSKYVzBsT"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
-        "name": "Major Minor",
-        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
+        "name": "Can't Talk",
+        "url": "https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7"
       },
       "artists": [
         {
-          "name": "Donna Lugassy",
-          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
         }
       ],
-      "duration_ms": 149647,
-      "name": "Major Minor",
-      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
+      "duration_ms": 173500,
+      "name": "Can't Talk",
+      "url": "https://open.spotify.com/track/0DkYfF7kgFmwMA3G56W1js"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
-        "name": "Can't Talk",
-        "url": "https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7"
+        "name": "Major Minor",
+        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
       },
       "artists": [
         {
-          "name": "Ebony Winter",
-          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+          "name": "Donna Lugassy",
+          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Can't Talk",
-      "url": "https://open.spotify.com/track/0DkYfF7kgFmwMA3G56W1js"
+      "duration_ms": 149647,
+      "name": "Major Minor",
+      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
+        "name": "RICH PEOPLE PROBLEMS",
+        "url": "https://open.spotify.com/album/4ZFwvSZvKUDKkXmlP5s94y"
+      },
+      "artists": [
+        {
+          "name": "Kenrae",
+          "url": "https://open.spotify.com/artist/3KItEFAeVO2hK3WSSU36Zf"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "RICH PEOPLE PROBLEMS",
+      "url": "https://open.spotify.com/track/52HmUb7L6Sfe6PsTpXNLYS"
+    },
+    {
+      "added_at": "2025-05-08 22:00:28",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2025-05-08 22:00:28",
       "album": {
-        "name": "RICH PEOPLE PROBLEMS",
-        "url": "https://open.spotify.com/album/4ZFwvSZvKUDKkXmlP5s94y"
-      },
-      "artists": [
-        {
-          "name": "Kenrae",
-          "url": "https://open.spotify.com/artist/3KItEFAeVO2hK3WSSU36Zf"
-        }
-      ],
-      "duration_ms": 180495,
-      "name": "RICH PEOPLE PROBLEMS",
-      "url": "https://open.spotify.com/track/52HmUb7L6Sfe6PsTpXNLYS"
-    },
-    {
-      "added_at": "2025-05-08 22:00:28",
-      "album": {
         "name": "SHADES",
         "url": "https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 148317,
       "name": "Shades Prayer",
       "url": "https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH"
+    },
+    {
+      "added_at": "2025-05-08 22:00:28",
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC"
+      },
+      "artists": [
+        {
+          "name": "Yael Daila",
+          "url": "https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT"
+        }
+      ],
+      "duration_ms": 127718,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h"
     },
     {
       "added_at": "2025-05-08 22:00:28",
@@ -1467,22 +1483,6 @@
       "duration_ms": 144628,
       "name": "Happier Song",
       "url": "https://open.spotify.com/track/176QZKsUDHCf2Vp8wUZeI9"
-    },
-    {
-      "added_at": "2025-05-08 22:00:28",
-      "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC"
-      },
-      "artists": [
-        {
-          "name": "Yael Daila",
-          "url": "https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT"
-        }
-      ],
-      "duration_ms": 127718,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h"
     },
     {
       "added_at": "2025-05-08 22:00:28",

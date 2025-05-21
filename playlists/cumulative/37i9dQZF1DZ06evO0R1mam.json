@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4hlRGrFlgCSGjGbq4n5Qxm"
+    },
+    {
+      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 211880,
       "name": "Already Won - Live",
       "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"

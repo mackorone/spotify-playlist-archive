@@ -1801,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Azaleas",
+        "url": "https://open.spotify.com/album/2JAkCHflk8nudwOri0sd4f"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Azaleas",
+      "url": "https://open.spotify.com/track/6PMzXBoxCyQyaT6MuLKRRE"
+    },
+    {
+      "album": {
         "name": "9colors",
         "url": "https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T"
       },
@@ -9448,6 +9466,24 @@
       "duration_ms": 216813,
       "name": "I Miss You So Much",
       "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+    },
+    {
+      "album": {
+        "name": "I Miss You So Much",
+        "url": "https://open.spotify.com/album/6NzFiw1xQd5DWm3cJGhqmU"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "I Miss You So Much",
+      "url": "https://open.spotify.com/track/6JN2WrqaJaZkLnwh6r9ePU"
     },
     {
       "album": {
@@ -19958,7 +19994,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 248200,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/5kH47YANTpxd6fJbZecwJC"
@@ -20048,7 +20084,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 200173,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5Ep3YOn93Z5J2z4hjmxoN5"
@@ -22652,6 +22688,24 @@
       "duration_ms": 235693,
       "name": "To the ordinary you",
       "url": "https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD"
+    },
+    {
+      "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/13twQej8IAGbw2yNjJ4wmS"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/0Vm57FDy9ANofqxnweBSyN"
     },
     {
       "album": {
@@ -26014,7 +26068,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 230320,
       "name": "\uadf8\ub300\uac00 \ub0b4 \uc548\uc5d0 \ubc15\ud614\ub2e4(\uadf8\ub140 ver.) (Stuck with you)",
       "url": "https://open.spotify.com/track/1YgG9HQXxdWCM3kVpmzwE5"

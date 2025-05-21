@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-882 songs - 1 day 18 hr 49 min
+893 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 | 2023-04-06 | 2024-05-05 |
 | [Amorous Refutaion](https://open.spotify.com/track/7suHy6qnniaV2WRvoDjJGU) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Amorous Refutaion](https://open.spotify.com/album/0sJ5kalkQftNhCkgMnz121) | 2:24 | 2024-04-05 |  |
 | [Ancient Calm](https://open.spotify.com/track/61Nh3AZTeyO41688TfNmw7) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Ancient Calm](https://open.spotify.com/album/39muA5z5ivtLfO1qOnzOlI) | 2:50 | 2024-02-08 | 2025-02-05 |
+| [Andas](https://open.spotify.com/track/6eL4ra9UXGjQeUiscYgDQ7) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Andas](https://open.spotify.com/album/4gGM2KxStZemealz68WyLn) | 2:54 | 2025-05-20 |  |
 | [Anima](https://open.spotify.com/track/6KVq0Sno9siniuIte219d3) | [Dilandi](https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d) | [Anima](https://open.spotify.com/album/0f9BpqXUex7H8gJ2tAYucT) | 3:15 | 2024-11-06 |  |
 | [Animálico](https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Turtle tear](https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT) | 2:41 | 2024-05-20 |  |
 | [Antares](https://open.spotify.com/track/3PsBjzhmyOU2SRlQpozoc4) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Antares](https://open.spotify.com/album/2eDkjQZjSEWKZ6oZ1G60zb) | 3:03 | 2024-01-17 | 2024-03-07 |
@@ -112,6 +113,7 @@
 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2023-04-06 | 2024-02-09 |
 | [Better Rest](https://open.spotify.com/track/6PlSS5EqEsFslVqcNcHClm) | [Opal Skies](https://open.spotify.com/artist/0xrdCwjtVAWzIdto3Ww9a7) | [Better Rest](https://open.spotify.com/album/0ZMGKrnT4IIp9QQtMLRx77) | 3:31 | 2025-03-19 |  |
 | [Beyond](https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Beyond](https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ) | 2:30 | 2024-03-06 | 2024-07-16 |
+| [Biblical](https://open.spotify.com/track/11xf5IkmylbULIsAvLYYF1) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Biblical](https://open.spotify.com/album/4l6h2iLMvjbuUUH8LojTw8) | 3:00 | 2025-05-20 |  |
 | [Biome](https://open.spotify.com/track/6QQYZSV72dVzr8W7ek1egc) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Biome](https://open.spotify.com/album/4vyzokOwEmhcUbttBgyNpk) | 2:55 | 2024-01-17 | 2024-10-16 |
 | [Blackout](https://open.spotify.com/track/4y4ne3kG3X2BAyWTem6xC1) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Blackout](https://open.spotify.com/album/0QFZRAuhQSJG11e0xFLaqd) | 3:02 | 2024-03-20 | 2024-07-10 |
 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 | 2025-04-23 |  |
@@ -169,9 +171,11 @@
 | [Coherence](https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1) | [Distant Dreams](https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY) | [Coherence](https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14) | 3:04 | 2024-02-08 | 2024-07-16 |
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2023-04-06 | 2024-04-06 |
 | [Cold Nights](https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Cold Nights](https://open.spotify.com/album/389ancrSn0JTicvyxdpkIo) | 3:12 | 2024-03-20 | 2024-07-10 |
+| [Colours In The Stars](https://open.spotify.com/track/1z6CgMXZvXfC555B7buC3Z) | [Nimara](https://open.spotify.com/artist/7CXl2o7bsSWCVfw670J1TZ) | [Colours In The Stars](https://open.spotify.com/album/4PBp2aJIzdJjPSErAVhLBn) | 3:10 | 2025-05-20 |  |
 | [Cometus](https://open.spotify.com/track/1HfNNI811ZFISNkSV35niH) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Cometus](https://open.spotify.com/album/3xWEdXFlMJO5aqNMB0OEkb) | 2:29 | 2024-11-06 |  |
 | [Compassion](https://open.spotify.com/track/2mejNtx8hB6M56m4hs0bAh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:32 | 2023-04-06 | 2024-01-18 |
 | [Composed](https://open.spotify.com/track/07446huSYQMPjNyMMyAzSx) | [Genki Desu](https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp) | [Composed](https://open.spotify.com/album/378amdSHWpQPYO3mPFIrQ2) | 2:48 | 2024-02-08 | 2024-07-16 |
+| [Connect](https://open.spotify.com/track/5PaqIM0QfRRj3ue6YBuTZy) | [Revivo Wide](https://open.spotify.com/artist/43IhMvQXxJBfmuxfYsVBCD) | [Connect](https://open.spotify.com/album/4YEcQ7e2RYGFAH1ChJCHas) | 2:36 | 2025-05-20 |  |
 | [Connected](https://open.spotify.com/track/1vQ3tw9wuBOOezgkRH8lw2) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Connected](https://open.spotify.com/album/6ljX7J9ydYpuP1mjpIVlBQ) | 3:16 | 2024-04-05 | 2025-04-12 |
 | [Consequences](https://open.spotify.com/track/1HJI0bjrQZz5fikHmpLOC2) | [Bøyer](https://open.spotify.com/artist/6fpFvWUTUVJzShiuVCYE03) | [Consequences](https://open.spotify.com/album/2IyDRDPSirAYMvlFvQrKVL) | 3:01 | 2024-02-08 | 2024-07-16 |
 | [Consonance](https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Consonance](https://open.spotify.com/album/0yKguZ6t1oKjlFSDYkDuzF) | 3:02 | 2023-04-06 | 2024-03-07 |
@@ -200,6 +204,7 @@
 | [Deep rest](https://open.spotify.com/track/5TcqlIHwuNPh2Tcl6NgeJF) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Deep rest](https://open.spotify.com/album/2hYb3gWbv4ylpbYtlJpTkT) | 2:51 | 2024-09-11 |  |
 | [Deep Under](https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Deep Under](https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0) | 2:29 | 2024-10-15 |  |
 | [Deep Waters](https://open.spotify.com/track/2I4CdMdb7m5VSFjVtYBPLP) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Deep Waters](https://open.spotify.com/album/18MTNwzRQUk1HHTHI3k5Bf) | 2:42 | 2023-04-06 | 2024-01-18 |
+| [Deliberation](https://open.spotify.com/track/3UHGASHiHcHBKrpFYJjDzQ) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Deliberation](https://open.spotify.com/album/6xYi1ITp82glzOPxr61QDc) | 2:59 | 2025-05-20 |  |
 | [Delta](https://open.spotify.com/track/2f8XntdwMp79jR0H5OAsXx) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Delta](https://open.spotify.com/album/1XjbO2qB44WoiUEALnsOYP) | 3:01 | 2024-08-02 | 2024-08-31 |
 | [Demulcere](https://open.spotify.com/track/5X8xwH6pXJ9r6xzyFm7Vyc) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Demulcere](https://open.spotify.com/album/6He0HD7ZAhwrOFHWYUw7OE) | 3:24 | 2024-03-20 | 2024-07-10 |
 | [Der Vollmond](https://open.spotify.com/track/1FVXcGu5ZvVW0EoKvlTtUo) | [Sleepy Siberia](https://open.spotify.com/artist/3AYAU7uOh4OVXKHFP738WM) | [Der Vollmond](https://open.spotify.com/album/1Bs0JuPgvGsM0KSIaH8b3c) | 3:20 | 2024-08-14 | 2024-08-31 |
@@ -311,8 +316,10 @@
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2023-04-06 | 2023-11-11 |
 | [Finding Balance](https://open.spotify.com/track/6EYLhFMwnBecOODOAYMIih) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Finding Balance](https://open.spotify.com/album/0MTMQIvAHPe87bnBhw9e9p) | 2:53 | 2025-03-05 |  |
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2023-04-06 | 2024-01-18 |
+| [Fiori](https://open.spotify.com/track/7Gdmp799lJy1f6D0aiBxVU) | [Zeejo Report](https://open.spotify.com/artist/5bv9vgOeu93qvIFWgDBf9h) | [Fiori](https://open.spotify.com/album/5ffJG2GrI3jeSr34rAxLOB) | 2:38 | 2025-05-20 |  |
 | [Flashback](https://open.spotify.com/track/37VNAvc9lZC70FcViKcI6f) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Brightness](https://open.spotify.com/album/6mRVmuhkO5VClWaRgVHcCf) | 3:17 | 2023-04-06 | 2023-07-14 |
 | [flights](https://open.spotify.com/track/4myGizD4eC9nAaWgwZqdCd) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [flights](https://open.spotify.com/album/1aDSIQ5APF3fhrrGghC49A) | 2:47 | 2024-04-05 |  |
+| [Floating](https://open.spotify.com/track/6unPKdInA2YZscV21Q9zjz) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Floating](https://open.spotify.com/album/0WBOxVT2C5XA5q1R0Wlkbx) | 2:32 | 2025-05-20 |  |
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2023-04-06 | 2024-01-18 |
 | [Floran](https://open.spotify.com/track/25XtFPJw8TvUIoTG9WrcCX) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Floran](https://open.spotify.com/album/6eCg30mt3levi3ENA9BeBN) | 2:08 | 2025-03-19 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2023-04-06 | 2024-04-06 |
@@ -519,6 +526,7 @@
 | [Nebulas' Dream](https://open.spotify.com/track/740ni6xq5jo2hkMD4DY0NU) | [Medi Mindler](https://open.spotify.com/artist/2ltLAvYUvTFOgaovdZYUbr) | [Nebulas' Dream](https://open.spotify.com/album/5n9lxDLqna8693aboPBgok) | 2:55 | 2024-05-20 | 2025-04-12 |
 | [New Dreams](https://open.spotify.com/track/3ValCnZK88O0RDPaxm9kKh) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [New Dreams](https://open.spotify.com/album/2nRvp3oKkkOH6IvbcGZzLY) | 2:26 | 2024-02-08 | 2024-10-16 |
 | [Night Balance](https://open.spotify.com/track/63ceisvNCC6rnFThnZpzyW) | [Echoella](https://open.spotify.com/artist/2JuyhYpdLougs9BMiRdEtM) | [Night Balance](https://open.spotify.com/album/6f4uCXAOBOybl2GsBPVBeM) | 3:05 | 2024-01-17 | 2024-03-21 |
+| [Night Orchid](https://open.spotify.com/track/3mF4kP1RXVBG8jaFYLLe6W) | [Dream Agent](https://open.spotify.com/artist/3c38G2ko0FlIdDYqW0Xqx4) | [Night Orchid](https://open.spotify.com/album/01XBO3Sz7SHzAwDoqfUwGk) | 2:43 | 2025-05-20 |  |
 | [Night Owl](https://open.spotify.com/track/6t5yxl4OsdAYeA4zb4VjVe) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Night Owl](https://open.spotify.com/album/0lxf0AGwXuUcmMgge6RwJU) | 2:49 | 2024-02-08 | 2024-10-16 |
 | [Night Sky](https://open.spotify.com/track/1k7vD3V5JdcYYodfmkBANS) | [Aleksy Nowak](https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw) | [Night Sky](https://open.spotify.com/album/78aA74Ncr1sdYKEWxQGWMU) | 3:19 | 2024-07-22 |  |
 | [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 | 2024-02-27 | 2024-08-31 |
@@ -761,6 +769,7 @@
 | [Still Moon](https://open.spotify.com/track/019BTPndXWHWyntcFBe2ch) | [Evening River](https://open.spotify.com/artist/3wGGwYmEP3wlM4LtCk5ek0) | [Still Moon](https://open.spotify.com/album/2uXe9u5VBn7YJnVObvSZUM) | 2:27 | 2023-04-06 | 2024-01-18 |
 | [Stillheten](https://open.spotify.com/track/45NfL9LFXSj9WpuHkfixOR) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Stillheten](https://open.spotify.com/album/2UiL0eVQ2zO02S9vyxoCEZ) | 2:34 | 2023-04-06 | 2024-01-18 |
 | [Stillness](https://open.spotify.com/track/2m1mwt7rpkVeFN4o8RrMKl) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Stillness](https://open.spotify.com/album/04e5zYvYQvdyT5PPj73nsR) | 2:40 | 2024-10-15 |  |
+| [Stillwave](https://open.spotify.com/track/5vR1E5exxIKHSNjhThRU5X) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Stillwave](https://open.spotify.com/album/4BJtBzoKXi85430no9rkFl) | 2:51 | 2025-05-20 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2023-04-06 | 2024-01-18 |
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2023-04-06 | 2024-01-18 |
 | [Storm](https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Storm](https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU) | 2:36 | 2024-02-08 | 2024-07-16 |
@@ -769,6 +778,7 @@
 | [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-13 |  |
 | [Stundom](https://open.spotify.com/track/3zNKCknYLviNa5BAbjNHjI) | [Agnes Vidsjö](https://open.spotify.com/artist/41tdmj2pTCBWS8wXZfPZb5) | [Stundom](https://open.spotify.com/album/0Zo02Llji2KrVgbSqVnxbC) | 2:31 | 2025-03-19 |  |
 | [Sub Doze](https://open.spotify.com/track/1CpE5EAusisR4Lq6qUIpF0) | [Fort Sleep Sara](https://open.spotify.com/artist/0C9tWVAp9eusBbjWpfbmgg) | [Sub Doze](https://open.spotify.com/album/7yoPc6RtWlKfiDHXhxgvSG) | 3:10 | 2025-04-29 |  |
+| [Submission](https://open.spotify.com/track/2gFTkFPVNL3vgz4IAyBhVK) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Submission](https://open.spotify.com/album/4ZbwLoKctfjayExWu9KXG7) | 3:15 | 2025-05-20 |  |
 | [Sun Descending](https://open.spotify.com/track/2C67c8x43LXzoX71FdCUdd) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Sun Descending](https://open.spotify.com/album/7mtktubpUj4RsaMaokQamH) | 3:11 | 2024-02-08 | 2024-05-21 |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-04 | 2024-07-16 |
 | [Sunday Morning](https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Sunday Morning](https://open.spotify.com/album/7xv22kXgcqKHocBfCkaVry) | 2:26 | 2023-04-06 | 2024-01-18 |
@@ -828,6 +838,7 @@
 | [Twilight Reverie](https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Twilight Reverie](https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD) | 2:52 | 2024-12-12 |  |
 | [Twinkle](https://open.spotify.com/track/2ycdMVR5v21EEkfm08U9Of) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Twinkle](https://open.spotify.com/album/2RpPkM7oYQ2Zt0TEW7Hs1W) | 2:33 | 2024-01-17 | 2024-07-16 |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2023-04-06 | 2023-07-22 |
+| [Umbriel](https://open.spotify.com/track/4mSZpzFt69wTgX8GTC7lNQ) | [Leo Dey](https://open.spotify.com/artist/6wbtOyum4TJ4XUJ6y6yTbe) | [Umbriel](https://open.spotify.com/album/6NZddnueSSLCIFu1EhPtt3) | 2:44 | 2025-05-20 |  |
 | [Unavailable](https://open.spotify.com/track/3JvHEEbo89vp4EJw0PZMPJ) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Unavailable](https://open.spotify.com/album/7lVSPvGUyW0OFAxUpgNkmP) | 3:19 | 2023-04-06 | 2024-03-07 |
 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2023-04-06 | 2024-03-21 |
 | [Unfolded](https://open.spotify.com/track/0dTDnqM4UuT1RMQE2l915Y) | [Aca Malvina](https://open.spotify.com/artist/7H3SyQlYDmgYpQlmkm0rsO) | [Unfolded](https://open.spotify.com/album/3iMTy9vlz8gkjb3ZfqURa1) | 2:40 | 2023-04-06 | 2024-02-09 |

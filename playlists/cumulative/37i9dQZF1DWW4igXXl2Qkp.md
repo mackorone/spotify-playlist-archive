@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:02M8bIxB70TDLqRZGS5g3o">Younginsosleaze<br/></a>
+> Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:02M8bIxB70TDLqRZGS5g3o">Younginsosleaze<br/></a>
 
 1,768 songs - 3 day 4 hr 6 min
 
@@ -1456,7 +1456,7 @@
 | [STAYUP](https://open.spotify.com/track/0Az7X8Uj6QADxju2UzyRFo) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [STAYUP](https://open.spotify.com/album/1y0gDtxPjeKLu8qwOlfS5D) | 3:01 | 2025-03-12 | 2025-03-21 |
 | [Steezy](https://open.spotify.com/track/1DfWcuNN98dFB5m2oLdv0T) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Steezy](https://open.spotify.com/album/0yoIYo1go5qW9BJqQXDxZN) | 2:59 | 2022-09-28 | 2022-12-01 |
 | [STEP 2K25 \(with BabyChiefDoit\)](https://open.spotify.com/track/642qULKEwp9AJQ6YTxqrxj) | [Realbleeda](https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [STEP 2K25 \(with BabyChiefDoit\)](https://open.spotify.com/album/7chICcUeSMoJ2RKvdqFI2Y) | 2:36 | 2025-03-05 | 2025-03-29 |
-| [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Toy Story](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 | 2025-05-07 |  |
+| [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 | 2025-05-07 |  |
 | [Stickz & Stonez](https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Stickz & Stonez](https://open.spotify.com/album/2nDXO7UlMcjO51jAlyisu8) | 2:26 | 2023-05-24 | 2024-01-25 |
 | [Stiffly](https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [FANTASY CAMP](https://open.spotify.com/album/02RiJ9DIoxov4b6yvsiAHy) | 3:05 | 2023-05-25 | 2024-01-25 |
 | [Still Here](https://open.spotify.com/track/4vPYyvEP8LcMbco8Po2Xx0) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5) | [Still Here](https://open.spotify.com/album/4Hsjx6bCIcfCzSQW32Hhjh) | 3:02 | 2022-01-19 | 2022-03-03 |

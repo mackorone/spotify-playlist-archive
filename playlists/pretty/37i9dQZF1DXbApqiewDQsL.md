@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Bandi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,406 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,426 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Deseando Tus Besos](https://open.spotify.com/track/5zCRmNGqAIfEE1mCORWf5P) | [Grupo Disruptivo](https://open.spotify.com/artist/6yEf4UXLayV0LOj1wMk6CO) | [Deseando Tus Besos](https://open.spotify.com/album/36rfdfWJ2qjCufcjV8oJ9L) | 2:49 |
 | 50 | [No Eres Mi Guardian](https://open.spotify.com/track/6MDaoBVXFJUBQ5qt9svHnx) | [Yazmin Valenzuela](https://open.spotify.com/artist/1O12fY3QgxNuc0DNCcuFOD) | [No Eres Mi Guardian](https://open.spotify.com/album/5kDXO34Gldz6YpjCBMNHa9) | 2:44 |
 
-Snapshot ID: `aBSI5gAAAABtlKap/rXvIfL8XwDuNq3g`
+Snapshot ID: `aC1EwwAAAABp9+Y+JhwZUipPTaf+WQJZ`

@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 218507,
       "name": "Check One",
       "url": "https://open.spotify.com/track/7JI4W4fvPwzoPGcRSKYeHw"
@@ -5724,6 +5724,24 @@
       "duration_ms": 420779,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/1C5fCALinQbstDa0EFa14N"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/3nGbeVSKQU9ctUnBsdxDuS"
     },
     {
       "album": {
@@ -10486,8 +10504,8 @@
           "url": "https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS"
         },
         {
-          "name": "Am\u00e9",
-          "url": "https://open.spotify.com/artist/49U47kjd0r4fWDIVRAuzl9"
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
       "date_added": "2025-05-16",

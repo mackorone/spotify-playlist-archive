@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-924 songs - 1 day 22 hr 24 min
+925 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-12-16 | 2022-04-29 |
 | [OJOJOJ](https://open.spotify.com/track/1tm4w2K1EpRguWS0PuhnQh) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [OJOJOJ](https://open.spotify.com/album/7tpfGKlZ7BgyPRmbIeSnpu) | 1:54 | 2025-05-08 |  |
 | [Okej att dö](https://open.spotify.com/track/41ioFOtkaKOuvZbqzliDLT) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/4TeoJmi1z2YV3Xmlmx267Q) | 2:49 | 2024-04-25 | 2024-06-14 |
-| [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 |  |
+| [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-05-21 |
 | [Ole Dole Doff](https://open.spotify.com/track/0Pii5EXqXhPOTcX86zDxaW) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Ole Dole Doff](https://open.spotify.com/album/7tBDWD3QIoss32SnOEP63w) | 2:23 | 2024-10-10 | 2025-01-31 |
 | [Om igen](https://open.spotify.com/track/4zl1Y3QTIpY7JsChcrInbg) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Om igen](https://open.spotify.com/album/2xhXEZ6D4AX8b6ACfdyVNm) | 2:46 | 2024-05-23 | 2024-06-04 |
 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 | 2025-02-11 |  |
@@ -886,6 +886,7 @@
 | [Vågar](https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Vågar](https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3) | 2:38 | 2022-04-21 | 2022-05-27 |
 | [WAKA WAKA](https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 | 2023-05-02 | 2023-06-02 |
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-10 | 2024-11-29 |
+| [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-20 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-11 | 2023-11-18 |
 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 | 2023-11-17 | 2024-02-09 |
 | [Wavy Baby](https://open.spotify.com/track/43Pvyc1UNBDF9yHrwbyfRH) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [Wavy Baby](https://open.spotify.com/album/33rzuTJRX0CgBpaPUiW0e0) | 1:54 | 2025-03-06 | 2025-03-22 |

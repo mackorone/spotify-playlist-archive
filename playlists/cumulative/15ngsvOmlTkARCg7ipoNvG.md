@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,974 songs - 1 day 16 hr 1 min
+1,975 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1146,6 +1146,7 @@
 | [Mystical](https://open.spotify.com/track/3q50BfOOBzEOHovDvgSVp7) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Slow Rising Hope](https://open.spotify.com/album/05bFtzLqr4sBPsxne7idU8) | 1:02 | 2022-01-16 | 2024-01-30 |
 | [Mystical Sunset](https://open.spotify.com/track/7KbTxlftnLWpQxOLkM19Iy) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 1](https://open.spotify.com/album/1Dk8ujbZK0JWtk1h3A9sd1) | 1:02 | 2022-02-11 | 2024-01-30 |
 | [Nearing](https://open.spotify.com/track/2ElKOJGi6nnSmLopofzn63) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:25 | 2022-01-12 |  |
+| [Nearing Arr\. For Soft Piano](https://open.spotify.com/track/6I4KnEtMhur4yu50nQ4lMY) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Nearing Arr\. For Soft Piano](https://open.spotify.com/album/7EPxpvJjvvJWGiJzYNAT56) | 1:00 | 2025-05-20 |  |
 | [Nectar](https://open.spotify.com/track/2DwNGNM4db9yasxYP9Z0EG) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:05 | 2022-01-27 |  |
 | [Neptune](https://open.spotify.com/track/11B6jlsNsYaS7wUhSHLRsE) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:06 | 2022-01-12 |  |
 | [Never Alone](https://open.spotify.com/track/1hUXmSE044bYoZnPT8ZY4o) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [In Silence](https://open.spotify.com/album/1k8oBz5yBunH2xK8SwRL3V) | 1:10 | 2022-01-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: JESENN
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,303 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,324 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 13 | [Kata Kata](https://open.spotify.com/track/2AzoifKBHrbzI3WCrdEhZo) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 3:39 |
 | 14 | [Frenemy \(feat\. VIDI\)](https://open.spotify.com/track/1PGt7c1YzOK5GiKjNp5IH1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Frenemy](https://open.spotify.com/album/1ZZkhyBrbAmKlhyhFbC4hn) | 3:06 |
 | 15 | [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 |
-| 16 | [Layar \(Original Soundtrack From "Siapa Dia"\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack From "Siapa Dia"\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 |
+| 16 | [Layar \(Original Soundtrack"Siapa Dia.."\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack "Siapa Dia.."\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 |
 | 17 | [Bisakah?](https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I), [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Bisakah?](https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V) | 3:38 |
 | 18 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
 | 19 | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/0CuFj9vIjbq3skvGFlUQJf) | [Prince Poetiray](https://open.spotify.com/artist/4rRUtosj3LsgTt3bgwWPBF), [Quinn Salman](https://open.spotify.com/artist/4lkE7XFATsJcgz6aLp1tdP) | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/25MoRCFuUYjkqGKDS7KwlR) | 2:54 |

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 378124,
+  "num_followers": 378171,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-05-16 03:01:12",
       "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2025-05-16 03:01:12",
+      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 177535,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
-    },
-    {
-      "added_at": "2025-05-16 03:01:12",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2025-05-16 03:01:12",
@@ -823,18 +823,22 @@
     {
       "added_at": "2025-05-16 03:01:12",
       "album": {
-        "name": "M\u00edstico",
-        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
+        "name": "Sol da Meia-Noite",
+        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        },
+        {
+          "name": "Zeider",
+          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
         }
       ],
-      "duration_ms": 187459,
-      "name": "M\u00edstico",
-      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
+      "duration_ms": 209971,
+      "name": "Sol da Meia-Noite",
+      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
     },
     {
       "added_at": "2025-05-16 03:01:12",
@@ -855,22 +859,18 @@
     {
       "added_at": "2025-05-16 03:01:12",
       "album": {
-        "name": "Sol da Meia-Noite",
-        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
+        "name": "M\u00edstico",
+        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
       },
       "artists": [
         {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        },
-        {
-          "name": "Zeider",
-          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
         }
       ],
-      "duration_ms": 209971,
-      "name": "Sol da Meia-Noite",
-      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
+      "duration_ms": 187459,
+      "name": "M\u00edstico",
+      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
     },
     {
       "added_at": "2025-05-16 03:01:12",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-05-16 03:01:12",
       "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2025-05-16 03:01:12",
+      "album": {
         "name": "LEVE",
         "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 143023,
       "name": "LEVE",
       "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
-    },
-    {
-      "added_at": "2025-05-16 03:01:12",
-      "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2025-05-16 03:01:12",

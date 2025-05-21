@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Fajar Noor
+> Merayakan 10 tahun Fresh Finds, temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Fajar Noor
 
 4,628 songs - 11 day 19 hr 47 min
 

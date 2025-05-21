@@ -23079,7 +23079,7 @@
     },
     {
       "album": {
-        "name": "\u5fc3\u6d41",
+        "name": "\u5fc3\u6d41 (\u5317\u6d41\u4e94\u9031\u5e74\u97f3\u6a02\u5171\u5275\u8a08\u756b)",
         "url": "https://open.spotify.com/album/75ShhvqKol38kFMue1C3WZ"
       },
       "artists": [
@@ -23096,7 +23096,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191138,
-      "name": "\u5fc3\u6d41",
+      "name": "\u5fc3\u6d41 - \u5317\u6d41\u4e94\u9031\u5e74\u97f3\u6a02\u5171\u5275\u8a08\u756b",
       "url": "https://open.spotify.com/track/6RdnIJzrbkSjmh5dbqDEoj"
     },
     {
@@ -39758,12 +39758,12 @@
       },
       "artists": [
         {
-          "name": "Asiaboy \u7981\u85e5\u738b",
-          "url": "https://open.spotify.com/artist/13GpGsJPepoQrA2Xk7r0q5"
-        },
-        {
           "name": "Dtrue",
           "url": "https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2"
+        },
+        {
+          "name": "Asiaboy \u7981\u85e5\u738b",
+          "url": "https://open.spotify.com/artist/13GpGsJPepoQrA2Xk7r0q5"
         }
       ],
       "date_added": "2025-05-15",

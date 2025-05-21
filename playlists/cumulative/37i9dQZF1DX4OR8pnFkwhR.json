@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: AKASAKI",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: ziproom",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 316130,
       "name": "Back to Wild",
       "url": "https://open.spotify.com/track/6P80C1f9TlxG6l0gBBNUKP"
@@ -3767,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/3CIldykcwvve39f8kpa5hb"
+      },
+      "artists": [
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218526,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5ygTRRVgfZ6b5agLCxNiGa"
+    },
+    {
+      "album": {
         "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
         "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
       },
@@ -4836,7 +4854,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 159927,
       "name": "Dive",
       "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
@@ -7007,6 +7025,24 @@
     },
     {
       "album": {
+        "name": "Gimme some lovin'",
+        "url": "https://open.spotify.com/album/3t63Ed9PON8rwFjyz02lQG"
+      },
+      "artists": [
+        {
+          "name": "Wang Dang Doodle",
+          "url": "https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205609,
+      "name": "Gimme some lovin'",
+      "url": "https://open.spotify.com/track/1EA31mTasXuTA3hWILCxBT"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/78N2PusW7lbIHccjOsxzgC"
       },
@@ -7202,6 +7238,24 @@
       "duration_ms": 259456,
       "name": "Good day",
       "url": "https://open.spotify.com/track/1glWb1FkQ8VmnZDkOQm87n"
+    },
+    {
+      "album": {
+        "name": "Good Day's Song",
+        "url": "https://open.spotify.com/album/4HAgonUlMIfWjrS5uXwNGY"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u3068\u30e1",
+          "url": "https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163913,
+      "name": "Good Day's Song",
+      "url": "https://open.spotify.com/track/0CIBjBBiAjrmslbuwyYCtK"
     },
     {
       "album": {
@@ -7404,7 +7458,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 204960,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/6M2rg8tbIAzl8FEbTcu6fR"
@@ -14870,7 +14924,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 207096,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/6SmMxxyfp0KnQ09PrX7Jtb"
@@ -16783,6 +16837,24 @@
     },
     {
       "album": {
+        "name": "Sound Body",
+        "url": "https://open.spotify.com/album/4h1PrQAsqZ792z418t55bY"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158764,
+      "name": "Sound Body",
+      "url": "https://open.spotify.com/track/3hp7GJP9aRyWxkEyhe4XOI"
+    },
+    {
+      "album": {
         "name": "Soup",
         "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
       },
@@ -18338,6 +18410,32 @@
       "duration_ms": 194333,
       "name": "TIME",
       "url": "https://open.spotify.com/track/5QxVQtsN36qJXn1Iow3RFc"
+    },
+    {
+      "album": {
+        "name": "TIME (feat. MFS)",
+        "url": "https://open.spotify.com/album/0HV5q1uZKOy1UZOSaNPT7B"
+      },
+      "artists": [
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148524,
+      "name": "TIME (feat. MFS)",
+      "url": "https://open.spotify.com/track/1JLgk1V5LbfxQKvnFXec4g"
     },
     {
       "album": {
@@ -24965,6 +25063,24 @@
     },
     {
       "album": {
+        "name": "5g\u306e\u5e73\u548c",
+        "url": "https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215965,
+      "name": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1eiRefLrtxufPxIhtLAocB"
+    },
+    {
+      "album": {
         "name": "Dear DECADE,",
         "url": "https://open.spotify.com/album/2Q7v2wgfYIuZ2JoPa3Puhr"
       },
@@ -30570,7 +30686,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 204186,
       "name": "\u611b\u3068\u601d\u3063\u3066",
       "url": "https://open.spotify.com/track/681r5rka5UNdv525ZMhGw0"
@@ -30970,6 +31086,24 @@
       "duration_ms": 260109,
       "name": "\u6563\u6b69\u9053",
       "url": "https://open.spotify.com/track/4bEnMDDfHrfgnxb5ea8LBy"
+    },
+    {
+      "album": {
+        "name": "Hakko",
+        "url": "https://open.spotify.com/album/58qHbTGh1IbLqkemxWqeGQ"
+      },
+      "artists": [
+        {
+          "name": "Khaki",
+          "url": "https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552510,
+      "name": "\u6587\u660e\u5150",
+      "url": "https://open.spotify.com/track/0yKoAfF6FvyWbe0LGMoZxj"
     },
     {
       "album": {
@@ -34120,7 +34254,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 174007,
       "name": "\u88f8\u3001\u9053\u3059\u304c\u3089",
       "url": "https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI"
@@ -35272,7 +35406,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 282194,
       "name": "\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/65MyFesoLI2PBF8QVKMZwZ"

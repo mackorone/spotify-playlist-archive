@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-657 songs - 1 day 21 hr 4 min
+658 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Colors](https://open.spotify.com/track/6J3HNhDBIwEX11bX8hzx5u) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/3g8HE8pB8nq6DbHf71I2Wa) | 4:06 | 2024-05-31 | 2025-03-07 |
 | [Come Thru](https://open.spotify.com/track/4pqvS75dKklyFojdCEnUhy) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Thru](https://open.spotify.com/album/0CcKnCsAc1t837HQrCOBQp) | 3:29 | 2025-05-16 |  |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2024-05-31 | 2025-03-07 |
-| [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 | 2025-05-16 |  |
+| [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 | 2025-05-16 | 2025-05-21 |
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2025-05-16 |  |
 | [Cornmeal Dub](https://open.spotify.com/track/6O5AHUW4YsWsHnm7NPcsFs) | [Channel One](https://open.spotify.com/artist/0ylfJLpbBoxilmTeUXcRCx) | [Mad Professor Meets Channel One](https://open.spotify.com/album/2k8dbxyDw8nwHGKiY75y3n) | 3:57 | 2025-04-04 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2024-05-31 | 2025-03-07 |
@@ -435,6 +435,7 @@
 | [Needles and Pins](https://open.spotify.com/track/0yGEtWW1560pa3KHMzh0uc) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/09rvbOvN7ToOXX0CNlCJYF) | 2:11 | 2025-04-04 |  |
 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 | 2024-05-31 | 2025-03-07 |
 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2025-03-06 |  |
+| [Ninnog at Sea](https://open.spotify.com/track/5ZQoczksY0UmjzHYw9WxhF) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Rathlin from a Distance \| The Liquid Hour](https://open.spotify.com/album/53CPh1nkQmkuWTXMDuLj6x) | 3:36 | 2025-05-20 |  |
 | [No Excuses](https://open.spotify.com/track/4vhkCppuT8ep5JneFswhgc) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Family Only](https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk) | 3:42 | 2025-05-16 |  |
 | [No More](https://open.spotify.com/track/19SbzYzZRUA8L3GZnwjBsM) | [Josh Parkinson](https://open.spotify.com/artist/0ROQVBsPJtbUF13Bz5DgW2) | [No More](https://open.spotify.com/album/4JAuACWYLoq8fVgaJktgQi) | 5:32 | 2025-04-27 |  |
 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 | 2024-05-31 | 2025-03-07 |

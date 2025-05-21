@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,517 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,621 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 70 | [639 Hz Quantum Waves](https://open.spotify.com/track/0ZiAAJc1PHPMQSla7cvImN) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Open Mindset Solfeggio](https://open.spotify.com/album/75zQejIX7nzbkehdw3NwVh) | 3:00 |
 | 71 | [639 Hz Release](https://open.spotify.com/track/5YkziyomBXQS6Kh0Zhnm6H) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 |
 
-Snapshot ID: `aBDaIwAAAACzSsv/mpODxF5OryrOIlGq`
+Snapshot ID: `aBDaIwAAAAAJC/dXSdQd22tL6FbxYNrc`

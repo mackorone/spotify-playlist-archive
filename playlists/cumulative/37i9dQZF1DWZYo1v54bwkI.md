@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-394 songs - 19 hr 30 min
+396 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Quiet Lights](https://open.spotify.com/track/24AJr6RHcOOQG2dobtxFi4) | [Marzell Fischer](https://open.spotify.com/artist/0RzYpNqdYSyg9P4PtKlO1s) | [Quiet Lights](https://open.spotify.com/album/1nB1Z0e3yKPyXDlp5YLI4G) | 2:19 | 2022-07-15 | 2025-01-29 |
 | [Quiet Melodies](https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Quiet Melodies](https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc) | 2:43 | 2022-11-11 | 2025-05-14 |
 | [Quiet Stars](https://open.spotify.com/track/1OlQRV9bOuT0CGCNI225EP) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX) | 1:54 | 2022-07-15 | 2023-07-29 |
+| [Quietude](https://open.spotify.com/track/4iefI73u9sh2kf8BPVchW8) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Quietude](https://open.spotify.com/album/1lUtMD1IwmIaxMMc4KxHJu) | 2:50 | 2025-05-20 |  |
 | [Quietus](https://open.spotify.com/track/3vo0jSkhcbUBlow2Gw47c8) | [Samsura](https://open.spotify.com/artist/7aKOy0qVVn5ARHyQqj1XuU) | [Quietus](https://open.spotify.com/album/4E3DDQU315Lc2SfHjz3gHP) | 3:27 | 2024-07-12 | 2024-07-27 |
 | [Quite A Ways](https://open.spotify.com/track/2ASqUS3DbDDBxbnoFrYp1Q) | [Inez Wolde](https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu) | [Quite A Ways](https://open.spotify.com/album/5rCg7By2k4dFUxYXYVqX1b) | 2:28 | 2022-07-15 | 2024-12-04 |
 | [Rainfall](https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Rainfall](https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe) | 3:50 | 2022-07-15 | 2024-11-12 |
@@ -334,6 +335,7 @@
 | [Sleeping Giants](https://open.spotify.com/track/0J0KRxk1ccNI6SA3L0514v) | [Damien Monieu](https://open.spotify.com/artist/0e6TRegnf204V3t3TFftdA) | [Sleeping Giants](https://open.spotify.com/album/7FWW4gjaJs1FLnSNoUXYfv) | 2:27 | 2022-07-15 | 2023-06-17 |
 | [Slow Reverie](https://open.spotify.com/track/6RTHUD81n6DQae3PGWNrlH) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Slow Reverie](https://open.spotify.com/album/3zeHd2ekBpVIPdKxIrRgPv) | 3:42 | 2025-01-28 |  |
 | [Slumber](https://open.spotify.com/track/33KyZMzOl4ah74UBMr18kA) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Slumber](https://open.spotify.com/album/2SISMhtO0zydHwtHpV67yV) | 3:25 | 2023-10-02 | 2025-04-10 |
+| [Slö](https://open.spotify.com/track/1cX6G9nfff3suCdVODg8uN) | [Visual Flow](https://open.spotify.com/artist/1JWRuM0jwY2GwjWbCoMKCv) | [Slö](https://open.spotify.com/album/5qBHNq1nzqLjZ2L3pryNuR) | 2:42 | 2025-05-20 |  |
 | [Soft Corals](https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Soft Corals](https://open.spotify.com/album/5PStymsZrftcSxP5rO2hgF) | 3:12 | 2024-05-10 |  |
 | [Soft Orange](https://open.spotify.com/track/4ppEHoUyU8H9NH7tf1941Y) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Soft Orange](https://open.spotify.com/album/7pKK1FMRuAkgUkIO6zsGDt) | 2:44 | 2025-02-05 |  |
 | [Softly](https://open.spotify.com/track/4ATJwgo3RGDfGB3lH6cSHt) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Softly](https://open.spotify.com/album/56fpGJxpkY38AuKW4VAb55) | 2:17 | 2025-02-05 |  |

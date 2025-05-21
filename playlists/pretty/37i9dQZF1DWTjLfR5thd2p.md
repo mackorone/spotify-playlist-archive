@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,665 likes - 189 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,678 likes - 189 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,22 +22,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 12 | [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 |
 | 13 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
 | 14 | [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 |
-| 15 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 |
-| 16 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 |
-| 17 | [Fjord](https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fjord](https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs) | 2:37 |
-| 18 | [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 |
-| 19 | [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 |
-| 20 | [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 |
-| 21 | [Looking Back](https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Looking Back](https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U) | 2:14 |
-| 22 | [The light is there](https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [The light is there](https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2) | 2:03 |
-| 23 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 |
-| 24 | [Carried Away](https://open.spotify.com/track/6osYVNKzPnVM3k7y2SasZT) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Carried Away](https://open.spotify.com/album/2CbSr0PzBU4Yps8XWb8hGB) | 2:02 |
-| 25 | [White Road](https://open.spotify.com/track/5im9REzRM7HXHBgedv0lod) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [White Road](https://open.spotify.com/album/4CqT4Z5flLY2Kiy1a2oiMf) | 2:23 |
-| 26 | [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 |
-| 27 | [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 |
-| 28 | [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/0ndzscLaWk1qlkOZ0nRPYE) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 |
-| 29 | [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 |
-| 30 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
+| 15 | [Looking Back](https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Looking Back](https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U) | 2:14 |
+| 16 | [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 |
+| 17 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 |
+| 18 | [Fjord](https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fjord](https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs) | 2:37 |
+| 19 | [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 |
+| 20 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 |
+| 21 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 |
+| 22 | [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 |
+| 23 | [White Road](https://open.spotify.com/track/5im9REzRM7HXHBgedv0lod) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [White Road](https://open.spotify.com/album/4CqT4Z5flLY2Kiy1a2oiMf) | 2:23 |
+| 24 | [Evanesce](https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Evanesce](https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy) | 2:16 |
+| 25 | [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 |
+| 26 | [The light is there](https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [The light is there](https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2) | 2:03 |
+| 27 | [Carried Away](https://open.spotify.com/track/6osYVNKzPnVM3k7y2SasZT) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Carried Away](https://open.spotify.com/album/2CbSr0PzBU4Yps8XWb8hGB) | 2:02 |
+| 28 | [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 |
+| 29 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
+| 30 | [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 |
 | 31 | [Hvile \(Ps.4\)](https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Hvile \(Ps.4\)](https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm) | 2:25 |
 | 32 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
 | 33 | [Perdono](https://open.spotify.com/track/7jAhN8L7qmsoeLa6Wo8ItS) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Perdono](https://open.spotify.com/album/3l0o5eKMNP76OSjxFyi2ER) | 3:18 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 188 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 |
 | 189 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 |
 
-Snapshot ID: `aCRU+QAAAAA1BACCK5gVWVTH6YdqDiEw`
+Snapshot ID: `aCxzHQAAAABqsFagR0ItAdIPXM/MD0K4`

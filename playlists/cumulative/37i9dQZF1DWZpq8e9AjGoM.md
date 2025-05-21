@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-231 songs - 10 hr 6 min
+233 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2025-03-11 | 2025-04-17 |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2025-03-11 |  |
 | [Cat in the Window](https://open.spotify.com/track/26OrB2gpFnRjMe1km54hkw) | [Mia Brentano](https://open.spotify.com/artist/3v8vWzrqhEsmveIrEgWrrW), [Benyamin Nuss](https://open.spotify.com/artist/1VsZbYohHMAA3JiclOf4tt), [Billy Test](https://open.spotify.com/artist/3EME15RrKjq6bJPFc4zJkB) | [Mia Brentano´s Summerhouse](https://open.spotify.com/album/7Hln0PupqAkGSrbJntAn29) | 3:42 | 2025-03-11 |  |
-| [Celene by Candlelight](https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Celene by Candlelight](https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs) | 2:28 | 2025-05-02 |  |
+| [Celene by Candlelight](https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Celene by Candlelight](https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs) | 2:28 | 2025-05-02 | 2025-05-21 |
 | [Childhood Memories](https://open.spotify.com/track/62C9Rt07bfOSH1AKkty7WU) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Childhood Memories](https://open.spotify.com/album/2Eb9hZtded4wrEKI2IrQnc) | 2:25 | 2025-03-26 | 2025-05-03 |
 | [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 | 2025-03-11 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2025-03-11 |  |
@@ -111,6 +111,7 @@
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2025-03-11 | 2025-04-03 |
 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 | 2025-03-11 |  |
 | [Les couleurs du ciel](https://open.spotify.com/track/3nyasiaSCFSEfxEEYg4jpx) | [Évariste Lacroix](https://open.spotify.com/artist/0d5qOOMJckpL05pEN7aKhz) | [Les couleurs du ciel](https://open.spotify.com/album/7mrY9VkXPs93zAM44QbWjB) | 2:41 | 2025-03-11 |  |
+| [Letters to the Wind](https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [Letters to the Wind](https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp) | 2:44 | 2025-05-20 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2025-03-11 |  |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2025-03-11 |  |
 | [Little Boy](https://open.spotify.com/track/5vl7yLTgL1cpEmUqtMhk9n) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [Little Boy](https://open.spotify.com/album/70GsT9wbvO2cUu0lhKnuvQ) | 2:35 | 2025-03-11 |  |
@@ -186,7 +187,7 @@
 | [Small Steps](https://open.spotify.com/track/4C0fbA7KbgfmDcib7tefmH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Small Steps](https://open.spotify.com/album/29wAVFuaCeCjCePIaDK2vq) | 2:50 | 2025-03-11 |  |
 | [Small windows](https://open.spotify.com/track/54PMgKkErM6O1QUgV3Nk3Q) | [Lyla Lyons](https://open.spotify.com/artist/1QwrYOufNq8cKYVIs8ATy1) | [Small windows](https://open.spotify.com/album/2mNM2ui2bPCfElAWPlvl9U) | 2:49 | 2025-03-11 | 2025-04-03 |
 | [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 | 2025-03-11 |  |
-| [Sojourn](https://open.spotify.com/track/7FBcY1tXW5gAv8kF4nvYq6) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Sojourn](https://open.spotify.com/album/4wFSklfLWMiu8DlVvPD0nF) | 2:19 | 2025-04-04 |  |
+| [Sojourn](https://open.spotify.com/track/7FBcY1tXW5gAv8kF4nvYq6) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Sojourn](https://open.spotify.com/album/4wFSklfLWMiu8DlVvPD0nF) | 2:19 | 2025-04-04 | 2025-05-21 |
 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 | 2025-03-11 |  |
 | [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 | 2025-03-11 |  |
 | [Spring Around the Corner](https://open.spotify.com/track/5iQj8xPir1hT976PWF5Bea) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Spring Around the Corner](https://open.spotify.com/album/0Ry7qze8hAUuCLyT2aMqD1) | 2:10 | 2025-03-11 |  |
@@ -210,6 +211,7 @@
 | [Thoughts](https://open.spotify.com/track/2junWtiVGC2yG0lbpybRP2) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Thoughts](https://open.spotify.com/album/75joTFFYIbkf9BxF9RfowR) | 2:14 | 2025-03-28 |  |
 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2025-03-11 |  |
 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 | 2025-03-11 |  |
+| [Time Will Heal](https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Time Will Heal](https://open.spotify.com/album/2DrVkyMIctHhYWz0WU7Vfj) | 2:27 | 2025-05-20 |  |
 | [Tournesol](https://open.spotify.com/track/322iMyBTTUhTCGRttDs6CY) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Tournesol](https://open.spotify.com/album/4kGelfnVHpsto9BChtOtXl) | 2:13 | 2025-03-11 |  |
 | [Training Wheels](https://open.spotify.com/track/4SwoHJ6WZtsX4Uv9ro5BfH) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Training Wheels](https://open.spotify.com/album/5pBxsJkcluC0rriObZFAQ4) | 3:03 | 2025-03-11 |  |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2025-03-11 |  |

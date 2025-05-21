@@ -1,13 +1,81 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 May 13:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 May 03:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAR9sNf5KVvGJL7YaZavVR00ggNAORS",
+  "snapshot_id": "AAAR/hfwhI1BJnR+cQ5MgsfNNl2Q5bgc",
   "tracks": [
+    {
+      "added_at": "2025-05-20 18:04:41",
+      "album": {
+        "name": "God Is A Weapon",
+        "url": "https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 215444,
+      "name": "God Is A Weapon",
+      "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
+    },
+    {
+      "added_at": "2025-05-20 22:04:20",
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
+    },
+    {
+      "added_at": "2025-05-21 03:04:31",
+      "album": {
+        "name": "Transmuted Matter",
+        "url": "https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 256156,
+      "name": "Transmuted Matter",
+      "url": "https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf"
+    },
+    {
+      "added_at": "2025-05-20 18:04:41",
+      "album": {
+        "name": "Disintegrate",
+        "url": "https://open.spotify.com/album/1jzPMd5TByVC0cFlbvBCRI"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Disintegrate",
+      "url": "https://open.spotify.com/track/1AqYckXEV1wTzNlP437u8i"
+    },
     {
       "added_at": "2025-05-19 08:04:44",
       "album": {
@@ -257,6 +325,22 @@
       "url": "https://open.spotify.com/track/7FGEAhnzmuHhttUAEihnax"
     },
     {
+      "added_at": "2025-05-20 22:04:20",
+      "album": {
+        "name": "Infinity Of Horrors",
+        "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 254446,
+      "name": "Infinity Of Horrors",
+      "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
+    },
+    {
       "added_at": "2025-05-16 08:04:19",
       "album": {
         "name": "Green Day",
@@ -501,6 +585,22 @@
       "url": "https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf"
     },
     {
+      "added_at": "2025-05-20 13:04:42",
+      "album": {
+        "name": "superstitious / falling in love",
+        "url": "https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 187235,
+      "name": "superstitious",
+      "url": "https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"
+    },
+    {
       "added_at": "2025-05-16 13:04:16",
       "album": {
         "name": "MILLION PLACES",
@@ -735,94 +835,6 @@
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
-    },
-    {
-      "added_at": "2025-05-09 22:04:29",
-      "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
-    },
-    {
-      "added_at": "2025-05-10 13:04:24",
-      "album": {
-        "name": "YIPPEE-KI-YAY. (The Remixes)",
-        "url": "https://open.spotify.com/album/2Z6Tpm1TDQlMDMaq2YHqKP"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "YIPPEE-KI-YAY. (feat. T-Pain) - A. G. Cook Remix",
-      "url": "https://open.spotify.com/track/4fSQ3qt8dd6MS4lrumm2Ew"
-    },
-    {
-      "added_at": "2025-05-09 08:04:41",
-      "album": {
-        "name": "Self-Inflicted",
-        "url": "https://open.spotify.com/album/3tDWZZXcpKIKzX35WsqbVT"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 87377,
-      "name": "Self-Inflicted",
-      "url": "https://open.spotify.com/track/3nG2tQJ7wFJ72mfrYifTLP"
-    },
-    {
-      "added_at": "2025-05-09 08:04:41",
-      "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67"
-    },
-    {
-      "added_at": "2025-05-09 08:04:41",
-      "album": {
-        "name": "Apologies",
-        "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Apologies",
-      "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
     }
   ],
   "unique_name": "New Singles Now",

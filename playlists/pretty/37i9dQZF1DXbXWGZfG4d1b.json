@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24247,
+  "num_followers": 24251,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "duration_ms": 186059,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Muerde",
         "url": "https://open.spotify.com/album/3s4KfDYzx43oz29SdLdkAc"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 179428,
       "name": "Muerde",
       "url": "https://open.spotify.com/track/52UEFtf0kXBjjzCJgqsC19"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
-      },
-      "artists": [
-        {
-          "name": "El Club Audiovisual",
-          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
-        }
-      ],
-      "duration_ms": 186059,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Los Aires de Buenos Aires",
-        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
-      },
-      "artists": [
-        {
-          "name": "Todos los Martes",
-          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 277882,
-      "name": "Los Aires de Buenos Aires",
-      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Mi Verano Oscuro",
         "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 197005,
       "name": "Solo",
       "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Los Aires de Buenos Aires",
+        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
+      },
+      "artists": [
+        {
+          "name": "Todos los Martes",
+          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 277882,
+      "name": "Los Aires de Buenos Aires",
+      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "D\u00eda del Trabajador",
-        "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
       "artists": [
         {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 285176,
-      "name": "Eso no es Amor",
-      "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+        "name": "D\u00eda del Trabajador",
+        "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
         }
       ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+      "duration_ms": 285176,
+      "name": "Eso no es Amor",
+      "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "No Los Pueden Separar",
         "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 142147,
       "name": "No Los Pueden Separar",
       "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Lpm",
-        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
-      },
-      "artists": [
-        {
-          "name": "Babeblade",
-          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
-        }
-      ],
-      "duration_ms": 219881,
-      "name": "Lpm",
-      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
         "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Lpm",
+        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "duration_ms": 219881,
+      "name": "Lpm",
+      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Vandalismo Comparado",
         "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Mir\u00e1 mam\u00e1",
-        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 182056,
-      "name": "Mir\u00e1 mam\u00e1",
-      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/43lwpoOoIiRukN8WCCVn3k"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 160601,
       "name": "Navegando",
       "url": "https://open.spotify.com/track/5dlP6YPy7JaOIsqQ4jaNNn"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Mir\u00e1 mam\u00e1",
+        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 182056,
+      "name": "Mir\u00e1 mam\u00e1",
+      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "malas decisiones",
         "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 180989,
       "name": "malas decisiones",
       "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Que te iba a Decir",
+        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
+      },
+      "artists": [
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 381577,
+      "name": "Botas encontradas",
+      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Hipercandombe",
         "url": "https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 266862,
       "name": "Hipercandombe",
       "url": "https://open.spotify.com/track/0W3bp85BMhC5Gxb1s9JY7u"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Que te iba a Decir",
-        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
-      },
-      "artists": [
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 381577,
-      "name": "Botas encontradas",
-      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Donde nac\u00ed",
-        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 231270,
-      "name": "Donde nac\u00ed",
-      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "No digas que no te avis\u00e9",
         "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 186250,
       "name": "VOLVER A CERO",
       "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Vivo La Plata",
+        "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "El Dato - Vivo La Plata",
+      "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Pastillas",
         "url": "https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 196434,
       "name": "No Est\u00e1 Mal Volar",
       "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Vivo La Plata",
-        "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
-      },
-      "artists": [
-        {
-          "name": "Viva Elastico",
-          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "El Dato - Vivo La Plata",
-      "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
     },
     {
       "added_at": "2025-05-09 15:00:14",

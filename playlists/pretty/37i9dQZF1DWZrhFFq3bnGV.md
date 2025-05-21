@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,124 likes - 92 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,149 likes - 92 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 91 | [Don't You Worry](https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN) | [Reggie Pryor](https://open.spotify.com/artist/6Qyyfa0rATJXEpCQcfDosZ), [Jeremy Monteiro](https://open.spotify.com/artist/6k5z740XzUQCbtToofslkV) | [Don't You Worry](https://open.spotify.com/album/1aWfATwUsPr6m9QWpvHtc0) | 2:57 |
 | 92 | [Di Pusat Jakarta](https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/4xH2VwMdlg44P9P3qMnjjR) | 3:19 |
 
-Snapshot ID: `AAAAADv7uQhZSKbkCHSBdEm+0Dq5ijDN`
+Snapshot ID: `aB3+YgAAAAAE1T0Nq8hfWImL2SaHy7pg`

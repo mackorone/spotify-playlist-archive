@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "??? (ODD)",
+        "url": "https://open.spotify.com/album/4RXMT404HKJnWvOFI7CP4k"
+      },
+      "artists": [
+        {
+          "name": "Ki:X\u00c9",
+          "url": "https://open.spotify.com/artist/5iMLnfFHa26dIkW6KGiq3v"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160436,
+      "name": "??? (ODD)",
+      "url": "https://open.spotify.com/track/6fb41FxP9E93L2hBB3UYPB"
+    },
+    {
+      "album": {
         "name": "PSILOCYBIN",
         "url": "https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI"
       },
@@ -950,7 +968,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 197538,
       "name": "BOOM - Minit Remix, Bonus Track",
       "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 192380,
       "name": "BOP BOP! (Yves V Remix)",
       "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
@@ -3122,7 +3140,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 160000,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"

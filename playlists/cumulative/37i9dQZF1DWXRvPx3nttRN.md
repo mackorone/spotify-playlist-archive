@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-431 songs - 1 day 0 hr 21 min
+433 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Time Low \(Acoustic\)](https://open.spotify.com/track/33CE4nXLOB9O3lZTqawwow) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [All Time Low \(Acoustic\)](https://open.spotify.com/album/32fySVHCiE5LJdJvFo197h) | 2:52 | 2021-03-12 | 2024-04-02 |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2023-01-03 |  |
 | [As Long As You Love Me \- Acoustic Version](https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:41 | 2021-03-12 |  |
+| [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-05-20 |  |
 | [Back To You](https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Back To You](https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7) | 3:35 | 2021-03-12 | 2024-04-02 |
 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 | 2021-03-12 |  |
 | [Behind the Light](https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Ash & Stone](https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA) | 2:51 | 2022-04-22 | 2024-04-19 |
@@ -82,6 +83,7 @@
 | [Cosmic Empire \- Day 2 Demo / Take 1](https://open.spotify.com/track/3dbhRlMVh3tiz1NdBbMlTp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cosmic Empire/Run Of The Mill](https://open.spotify.com/album/47LKl381PkVTCkM3GD6U6w) | 2:09 | 2021-07-09 | 2022-07-29 |
 | [Cosmic Empire \- Day 2 Demo; Take 1](https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary;Super Deluxe\)](https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56) | 2:11 | 2022-12-29 | 2023-11-05 |
 | [Counting Stars \(Acoustic\) \[feat\. Corey Gray & Alexi Blue\]](https://open.spotify.com/track/6mq0Bv2ArWxlvP3BFZxSHq) | [Jake Coco](https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ), [Corey Gray](https://open.spotify.com/artist/6TKKVFCBfak1kInOPl7hCz), [Alexi Blue](https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34) | [Under the Covers, Vol\. 5](https://open.spotify.com/album/2M8WFkrGgKISu3jSXAtqLT) | 4:10 | 2021-03-12 | 2024-04-02 |
+| [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 | 2025-05-20 |  |
 | [Dear Future Husband](https://open.spotify.com/track/2OdpaewWP74b0lJ97gfWMz) | [Ali Brustofski](https://open.spotify.com/artist/6KxBixTtWRYyojmIvlFvjD), [Knots](https://open.spotify.com/artist/1ahs5FR9XUKc56ATCW371b) | [Dear Future Husband](https://open.spotify.com/album/2sfwHqwFlq2NQFXGyC6ULL) | 2:54 | 2021-03-12 | 2024-04-02 |
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2021-03-12 | 2024-04-02 |
 | [Domino](https://open.spotify.com/track/54nuYxhV4GzVa4fxj25Tm7) | [Chris Hordijk](https://open.spotify.com/artist/4ehTiskY9ukAe0Xug092L7) | [Acoustic Dance Sessions](https://open.spotify.com/album/5ra1FnP7de0jb5q47esf8u) | 3:49 | 2021-03-12 | 2024-04-02 |

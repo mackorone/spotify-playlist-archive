@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX673Mh4M9yQJ.md) - [plain]
 
 > The British sisters who paved the way for today's young stars to shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,610 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,643 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX673Mh4M9yQJ.md) - [plain]
 | 49 | [Rain or Shine](https://open.spotify.com/track/51TbglSR7W8J58a1Nuj46g) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [Silk & Steel](https://open.spotify.com/album/1gx61uExeAsGq4ioWKayJo) | 3:59 |
 | 50 | [Inner City Life](https://open.spotify.com/track/4BxurjVgqxoRzxJG98wgxz) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Return of the 90s](https://open.spotify.com/album/4lsQp3EEpwSUYNr6NHlKR5) | 3:17 |
 
-Snapshot ID: `Zrth4wAAAACJtz1cpow8VIiGQsPOirwQ`
+Snapshot ID: `Zrth4wAAAABYVJrnxNedkdUGc7lJBhki`

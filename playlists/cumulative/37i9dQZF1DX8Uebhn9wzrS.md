@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,321 songs - 3 day 16 hr 28 min
+2,322 songs - 3 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [A Little Bird Told Me](https://open.spotify.com/track/0ZXi3n1FhNbusnpDcnxLmA) | [Etchen](https://open.spotify.com/artist/3n5F1rL9ZHZIsYfX9DsT8R) | [WAVES](https://open.spotify.com/album/6AOwfXtb6LPoNa1fKcMunQ) | 1:17 | 2022-04-15 | 2022-07-01 |
 | [a little star strut](https://open.spotify.com/track/6o19S7pXUbxEz4PIdOr2LP) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [a little star strut](https://open.spotify.com/album/4jhB8uPd1UzqYCGeRVZIOJ) | 2:14 | 2023-04-20 | 2025-01-20 |
 | [a little sun nap](https://open.spotify.com/track/7AoV9qLAx0n2B6IOqUDXFh) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [a little sun nap](https://open.spotify.com/album/33ynMqo3XgRrfktrbuCrWy) | 2:28 | 2024-10-08 |  |
-| [A look inside](https://open.spotify.com/track/4eSOA9lMe36cIcq28nAFEh) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [A look inside](https://open.spotify.com/album/3JvBrdG7boz0zL3yTPrhaW) | 2:43 | 2024-10-18 | 2024-11-21 |
+| [A look inside](https://open.spotify.com/track/4eSOA9lMe36cIcq28nAFEh) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [A look inside](https://open.spotify.com/album/3JvBrdG7boz0zL3yTPrhaW) | 2:43 | 2024-10-18 |  |
 | [A Midsummer Dream](https://open.spotify.com/track/4we32LDFb3MRyVAOiIseqS) | [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [A Midsummer Dream](https://open.spotify.com/album/5HibmlP5d4rM5rRRHwqA2C) | 2:38 | 2022-10-28 | 2023-01-20 |
 | [A Night Out](https://open.spotify.com/track/24HOrMOXoDhw0s4uJVTmij) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [A Night Out](https://open.spotify.com/album/0dM0kJYP8ayl3bNnfEc8jA) | 2:17 | 2022-04-15 | 2022-07-01 |
 | [A Part of Everything](https://open.spotify.com/track/3sEQ7CcBmtQ2AgWBS33rld) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Idu](https://open.spotify.com/album/05A38ZREjoph5D68GHuPZp) | 1:51 | 2023-01-06 | 2023-04-04 |
@@ -637,7 +637,7 @@
 | [Everything you need](https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Everything you need](https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N) | 2:22 | 2023-10-27 | 2025-02-28 |
 | [Exhale](https://open.spotify.com/track/4pQUl96NzlzIgt9gJSN1Qg) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Exhale](https://open.spotify.com/album/4ZDOyfZij7YmgVhV2qucI6) | 2:16 | 2022-12-09 |  |
 | [Exklusive Mermaid](https://open.spotify.com/track/6YDbQEkfLBzaTKtY9zSmDp) | [Hurricana Life](https://open.spotify.com/artist/0Kcx1vBedIEV2q1zAbzeyk) | [Exklusive Mermaid](https://open.spotify.com/album/1RgNgfXKEUaV4cxCcYHUvy) | 1:43 | 2022-04-15 | 2023-08-18 |
-| [Exodus](https://open.spotify.com/track/5xYkz6G3qPgn5FnZgRgZAp) | [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Exodus / Lunar Lullaby](https://open.spotify.com/album/0qGXuyDWrYXdxcCPy2Koaa) | 2:12 | 2025-03-21 |  |
+| [Exodus](https://open.spotify.com/track/5xYkz6G3qPgn5FnZgRgZAp) | [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Exodus / Lunar Lullaby](https://open.spotify.com/album/0qGXuyDWrYXdxcCPy2Koaa) | 2:12 | 2025-03-21 | 2025-05-21 |
 | [Expected Events](https://open.spotify.com/track/7e2CntkyYlYKlTufrSOCGl) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Expected Events](https://open.spotify.com/album/0Pa7yL0dq62qlO7Y54mShy) | 2:36 | 2024-10-18 |  |
 | [Expensive](https://open.spotify.com/track/3IkWkgQIxh3Oe4RKH6SY8r) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Rush Hour](https://open.spotify.com/album/03zUkj89Tq0J7n7MFUWphs) | 2:01 | 2024-07-26 |  |
 | [Exploring Time](https://open.spotify.com/track/3384bG1DpYYZnQanvYS2rQ) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Exploring Time](https://open.spotify.com/album/3eF8x8rc3UvZJ5WRe9AdNk) | 1:44 | 2022-12-16 | 2024-12-21 |
@@ -1212,6 +1212,7 @@
 | [mackintosh's](https://open.spotify.com/track/0KCYNbModuo8QE8MEVJd5k) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [mackintosh's](https://open.spotify.com/album/3VSfmuvkLk5mnzU3ba9sTU) | 2:47 | 2022-12-09 | 2023-03-09 |
 | [made sense](https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [made sense](https://open.spotify.com/album/1oCcIComeA7TzX4oyler84) | 2:54 | 2024-02-02 |  |
 | [Madness](https://open.spotify.com/track/50A9vaLZvirlEPWi7BXGni) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f) | [Madness](https://open.spotify.com/album/75Stpm1OoeOz9uBYorBBam) | 2:45 | 2022-05-27 | 2022-11-12 |
+| [Magic Portal](https://open.spotify.com/track/5TAtNSXkDodhcFOb0Skdei) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Magic Portal](https://open.spotify.com/album/2kGZ6lMnDXrD6TbkVL16rM) | 2:11 | 2025-05-16 |  |
 | [Magical Nights](https://open.spotify.com/track/4u9KVdiNeuYUbWYhKhmVkZ) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [Magical Nights](https://open.spotify.com/album/4UfnGnuxonAuI8uLa1qafg) | 1:38 | 2022-11-11 | 2024-09-25 |
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2022-04-15 | 2022-08-19 |
 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-09-13 |  |
@@ -2322,7 +2323,7 @@
 | [Zen A.M.](https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Zen A.M.](https://open.spotify.com/album/2j59lkIwIxqO2VcqNQXb3l) | 2:00 | 2023-02-06 | 2023-09-29 |
 | [Zen Garden](https://open.spotify.com/track/1n67UFilzbUI9i8wsbyCYi) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Zen Garden](https://open.spotify.com/album/0kPvB9y4kz1T6LlUnxD3uE) | 2:08 | 2024-05-13 | 2024-06-18 |
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
-| [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 |  |
+| [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 | 2025-05-21 |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-08-23 |  |
 | [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 |  |
 | [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 | 2024-10-28 |

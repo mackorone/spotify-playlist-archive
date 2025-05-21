@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-597 songs - 2 day 1 hr 32 min
+598 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-17 | 2025-01-11 |
 | [My Lullaby for You](https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Bara Nova](https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf) | [Cyberpunk 2077: Radio, Vol\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) | 5:34 | 2021-12-08 | 2022-02-22 |
 | [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 | 2025-04-25 |  |
-| [Nations](https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 2](https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87) | 8:43 | 2024-04-12 |  |
+| [Nations](https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 2](https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87) | 8:43 | 2024-04-12 | 2025-05-21 |
 | [Natural Consequence](https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV) | [Catching A Whisper](https://open.spotify.com/album/0MCLZBM9I2Fx81ddskf4Zz) | 4:27 | 2021-12-08 | 2022-07-28 |
 | [Need Some Space](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need Some Space](https://open.spotify.com/album/5QPa9SE7V6Hhuaho9UKOKc) | 2:22 | 2024-09-20 |  |
 | [Never \(Colyn Remix\)](https://open.spotify.com/track/701hEuWyG1EZepbD5Qiu3r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/2fgej64OiBlYJdX6wMc7eb) | 3:37 | 2023-10-28 | 2024-04-13 |
@@ -437,6 +437,7 @@
 | [Robots With Soul Part 1 \- Original Mix](https://open.spotify.com/track/6VR7ss1z27BJr67VrL4hC6) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 7:59 | 2021-12-08 | 2022-07-29 |
 | [Robots With Soul Part 2 \- Original Mix](https://open.spotify.com/track/5y6CnB9Q3WDQvVG5rwoYZ1) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:54 | 2021-12-08 | 2022-07-29 |
 | [Robots With Soul Part 3 \- Original Mix](https://open.spotify.com/track/0Q93Bly24xaWk0WcqruOuD) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:20 | 2021-12-08 | 2022-07-26 |
+| [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 | 2025-05-16 |  |
 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 | 2021-12-08 | 2024-07-13 |
 | [Roots](https://open.spotify.com/track/2puKQ2WQoMrVcEf4LyvX2z) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Roots](https://open.spotify.com/album/3O54dMAezB6VzwCn6ZloER) | 3:51 | 2025-04-11 |  |
 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 | 2024-04-12 | 2025-03-10 |

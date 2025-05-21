@@ -4,7 +4,7 @@
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-90 songs - 6 hr 26 min
+91 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Jigidi Killaadi](https://open.spotify.com/track/6t7oTudS2q6OFVhCXHaL4x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Pattas](https://open.spotify.com/album/1qsm7UXvfm3vTGr1UFKaAH) | 3:38 | 2022-05-10 | 2024-04-30 |
 | [Jimikki Ponnu](https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 3:44 | 2022-12-31 |  |
 | [Kadhal Cricket \- Love \(Not Out\)](https://open.spotify.com/track/2M8ic65G0VLkS6nEY53Uex) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw) | [Thani Oruvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AOEe4UzP8MAtjwvzo2lcQ) | 3:33 | 2022-05-10 |  |
+| [Kanimaa \(From "Retro"\)](https://open.spotify.com/track/2JlzHPGIVaLNAppX1viq7f) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [The Indian Choral Ensemble](https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kanimaa \(From "Retro"\)](https://open.spotify.com/album/1YPMUwOzrovzylIkqNeepA) | 4:03 | 2025-05-20 |  |
 | [Kannamma](https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ispade Rajavum Idhaya Raniyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI) | 4:16 | 2022-05-10 |  |
 | [Kannum Kannum](https://open.spotify.com/track/42AfGpnwmz05M3SQ41Wp6Y) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Andrea](https://open.spotify.com/artist/30yi6GjoDDj0pVO9RB0MaG), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CTkAK5j0Omr7OQNGpXnDz) | 5:25 | 2022-05-18 | 2024-04-19 |
 | [Kannum Kannum](https://open.spotify.com/track/6Esfhrv1tnPshVMF0v3jus) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Andrea](https://open.spotify.com/artist/30yi6GjoDDj0pVO9RB0MaG), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4owziIuhZtBwnJ5b6RDk7Y) | 5:25 | 2022-05-18 | 2023-11-04 |

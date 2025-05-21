@@ -431,6 +431,28 @@
     },
     {
       "album": {
+        "name": "AMANATTU",
+        "url": "https://open.spotify.com/album/1u8MNiIXdIKpAoJ3gFZE2K"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        },
+        {
+          "name": "Carnival Crooks",
+          "url": "https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206331,
+      "name": "Amanattu",
+      "url": "https://open.spotify.com/track/1Bkaf0mflMvZRoUtKKrJrH"
+    },
+    {
+      "album": {
         "name": "Amma",
         "url": "https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ"
       },
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 302422,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/34TonGz5g4F0ZQ2fWPGNG6"

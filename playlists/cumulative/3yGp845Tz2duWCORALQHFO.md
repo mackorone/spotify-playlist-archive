@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,898 songs - 6 day 13 hr 19 min
+2,899 songs - 6 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1610,6 +1610,7 @@
 | [Me Miras](https://open.spotify.com/track/6DdhTDzFan70YCvFMva1FL) | [Malgado](https://open.spotify.com/artist/2NTdVWdRRJObCbXP581yg5), [Scissors](https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4) | [Me Miras](https://open.spotify.com/album/0XiomeQibsJy4HgbKhv2cP) | 3:03 | 2024-06-21 | 2024-06-29 |
 | [Meandri](https://open.spotify.com/track/2v4lLTEhrVbgo7JWoKvGS8) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Meandri](https://open.spotify.com/album/7gbktYfV9LObc7a7PtXmJH) | 4:27 | 2025-02-28 | 2025-03-08 |
 | [Meant To Be](https://open.spotify.com/track/0CSrYMvh3j8EvgXHqLC9eK) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [RKTKT](https://open.spotify.com/artist/5mnTbj2PC7pyMwa6Eerz2y) | [Meant To Be](https://open.spotify.com/album/1zFIfWGJ6D8H5Isysdo86G) | 3:29 | 2024-09-20 | 2024-09-27 |
+| [Mechanical Mindscape](https://open.spotify.com/track/7qQ8nqSOoC3brlVuHvQieP) | [TakT](https://open.spotify.com/artist/6R19JFl7psTx6wNMAMCQos), [Visceral Design](https://open.spotify.com/artist/4tpO0zfBPnybSWgVuvUhza) | [Mechanical Mindscape](https://open.spotify.com/album/1VwPkC4kSTDpWgN8tTYSBx) | 3:11 | 2025-05-20 |  |
 | [Meet Again](https://open.spotify.com/track/7wkpF9WoMdMR8XZPpu3lTK) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Shoreline](https://open.spotify.com/album/3CSAu9hFsNp31OvVBEaAs4) | 3:27 | 2024-08-30 | 2024-09-06 |
 | [Meet Her At The Love Parade](https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Meet Her At The Love Parade](https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK) | 2:48 | 2024-05-17 | 2024-05-25 |
 | [Meet Me In The Sky](https://open.spotify.com/track/72gYetmeDeGb0gaFQgnYaN) | [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Meet Me In The Sky](https://open.spotify.com/album/5W3uINcIRMh0ODP11up4Xf) | 2:42 | 2024-12-13 | 2024-12-20 |

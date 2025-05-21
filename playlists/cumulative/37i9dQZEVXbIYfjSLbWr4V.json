@@ -1806,6 +1806,24 @@
     {
       "album": {
         "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "album": {
+        "name": "Espresso Macchiato",
         "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
       },
       "artists": [
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 168014,
       "name": "NAME",
       "url": "https://open.spotify.com/track/0GGAbLItGQQ0ebKUISsAHW"
@@ -5681,6 +5699,24 @@
     },
     {
       "album": {
+        "name": "Tavo akys",
+        "url": "https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F"
+      },
+      "artists": [
+        {
+          "name": "Katarsis",
+          "url": "https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Tavo akys",
+      "url": "https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo"
+    },
+    {
+      "album": {
         "name": "PEEKABOO",
         "url": "https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi"
       },
@@ -7194,7 +7230,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 205932,
       "name": "\u0412\u044b\u0441\u0448\u0438\u0435 \u0441\u0438\u043b\u044b",
       "url": "https://open.spotify.com/track/3hUjy9lDw8tToNV6OumBvx"
@@ -8626,7 +8662,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 246073,
       "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR"
@@ -8698,7 +8734,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 182410,
       "name": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
@@ -11032,7 +11068,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 110168,
       "name": "\u0421\u0442\u0440\u0430\u0448\u043d\u044b\u0439 \u0441\u043e\u043d 2",
       "url": "https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G"

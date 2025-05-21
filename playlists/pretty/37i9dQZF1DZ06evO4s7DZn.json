@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 8444,
+  "num_followers": 8451,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCkjAAAAAAA+t7NneRu1jndCX8ela45U",
+  "snapshot_id": "aCp0gAAAAAAMLywPiEZZBzyMuSx3bQL9",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Frios Enemigos/noche de Banda - En Vivo",
-      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cari\u00f1o Donde Andaras",
         "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 301578,
       "name": "Yo Te Amo",
       "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Frios Enemigos/noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
     },
     {
       "added_at": null,

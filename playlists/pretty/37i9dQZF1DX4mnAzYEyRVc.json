@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sondaschule",
-  "num_followers": 60188,
+  "num_followers": 60224,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2025-04-11 06:00:09",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
         "name": "Salida 32",
         "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 187040,
       "name": "Salida 32",
       "url": "https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2025-04-11 06:00:09",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
-        "name": "Hard Band For Dead",
-        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "2-Tone Army",
-      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
+        "name": "Hard Band For Dead",
+        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "2-Tone Army",
+      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
     },
     {
       "added_at": "2025-04-11 06:00:09",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
-        "name": "Pancho",
-        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
-      },
-      "artists": [
-        {
-          "name": "Fast Food Orchestra",
-          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Pancho",
-      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
         "name": "Estacional",
         "url": "https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
+        "name": "Pancho",
+        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
+      },
+      "artists": [
+        {
+          "name": "Fast Food Orchestra",
+          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Pancho",
+      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
     },
     {
       "added_at": "2025-04-11 06:00:09",

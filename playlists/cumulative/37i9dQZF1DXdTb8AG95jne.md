@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 유다빈밴드\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-952 songs - 2 day 10 hr 4 min
+953 songs - 2 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [BEAUTY](https://open.spotify.com/track/0inDmDmSGkTRVqURPRqhVZ) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side D'](https://open.spotify.com/album/3DGVCqVjWMTUAdATGUoqYR) | 3:17 | 2022-03-31 | 2022-04-18 |
 | [been waiting](https://open.spotify.com/track/7Jkl4CQWdyUoimJKnLglf8) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [been waiting](https://open.spotify.com/album/7pEQJyIfqnRSLp75bPIMJ0) | 3:18 | 2022-04-12 | 2022-04-17 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2021-12-21 | 2022-07-22 |
-| [Best I Ever Had \(Feat\. Vincent Blue\)](https://open.spotify.com/track/45p2wCkqKM9tK71azx6609) | [EB](https://open.spotify.com/artist/370Xs2iZzYs6RSjSmtgmS5), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Best I Ever Had](https://open.spotify.com/album/3obrbXrfwc8oDmhTiJ5nDz) | 2:59 | 2025-04-22 |  |
+| [Best I Ever Had \(Feat\. Vincent Blue\)](https://open.spotify.com/track/45p2wCkqKM9tK71azx6609) | [EB](https://open.spotify.com/artist/370Xs2iZzYs6RSjSmtgmS5), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Best I Ever Had](https://open.spotify.com/album/3obrbXrfwc8oDmhTiJ5nDz) | 2:59 | 2025-04-22 | 2025-05-21 |
 | [Better Better](https://open.spotify.com/track/4BC3Yz9D5BS1APX5IP4ZP9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ma Lil Planet](https://open.spotify.com/album/0u9OtiNg7h34f5qc9VLVVn) | 3:10 | 2025-03-04 | 2025-04-11 |
 | [Better Me](https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 3:20 | 2022-03-31 | 2022-04-21 |
 | [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/track/6wgQeSCttPKaIRJgwK3EJn) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/album/0sUQyZG2rfJH6tASxHks3p) | 2:17 | 2025-04-03 | 2025-04-11 |
@@ -350,7 +350,7 @@
 | [How To Go On](https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [How To Go On](https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP) | 3:37 | 2024-05-16 | 2024-06-20 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2025-05-20 |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2024-11-07 |
 | [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-22 | 2025-04-11 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 | 2024-10-19 |
@@ -436,7 +436,7 @@
 | [Keep you there](https://open.spotify.com/track/0OU5FvDjS9tavAUK63xwcz) | [Penda](https://open.spotify.com/artist/0HTTljEZfygRWNhK4r8pzC) | [In the box](https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb) | 2:27 | 2022-03-31 | 2022-04-20 |
 | [King Carp](https://open.spotify.com/track/6Vy5hcBcUylOESHdetifDh) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Tales From A Wanderer](https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU) | 3:29 | 2024-11-29 | 2024-12-11 |
 | [Knife](https://open.spotify.com/track/4O04LPUW3X7m1R6SKenajy) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Knife](https://open.spotify.com/album/59ziHXG8JXVfWWAFSGVIa3) | 5:45 | 2024-04-30 | 2024-05-10 |
-| [Koh](https://open.spotify.com/track/46Lj7x56cblascUpt0gDIr) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1ALovj4cwwGaVMgXxEzO5G) | 4:56 | 2025-04-11 |  |
+| [Koh](https://open.spotify.com/track/46Lj7x56cblascUpt0gDIr) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1ALovj4cwwGaVMgXxEzO5G) | 4:56 | 2025-04-11 | 2025-05-21 |
 | [Koh](https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM) | 4:59 | 2021-12-12 | 2022-07-27 |
 | [Koh](https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF) | 4:59 | 2022-07-27 | 2023-09-03 |
 | [Koh](https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/7N391rPsSbIRYDqrI8xP2H) | 4:59 | 2023-09-18 | 2024-04-04 |
@@ -765,6 +765,7 @@
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-28 | 2023-04-19 |
 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 | 2023-07-17 | 2023-07-28 |
 | [Summer](https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Summer](https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0) | 3:01 | 2023-03-28 | 2023-08-17 |
+| [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 | 2025-05-21 |  |
 | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/track/0FBPTDfNG4uQX6Ysx8ZKEX) | [ZASMIIN](https://open.spotify.com/artist/0RjRLXt3YDQS3VWpqO7wB3), [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/album/3BFSGN4NiChDGcZ7hEj5RS) | 3:44 | 2022-05-02 | 2022-05-26 |
 | [SUNspot](https://open.spotify.com/track/5k67kGeFPOr0VL23qRs4MO) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [SUNspot](https://open.spotify.com/album/03xOGiHfyAGuem3wwaZx9h) | 3:02 | 2024-04-30 | 2024-05-10 |
 | [Supernova](https://open.spotify.com/track/5tR3DtTssLjT2pXuqeXopL) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [The Beginning](https://open.spotify.com/album/7vy3zY5P2Rht3IndB78A3H) | 3:58 | 2021-12-21 | 2022-07-01 |

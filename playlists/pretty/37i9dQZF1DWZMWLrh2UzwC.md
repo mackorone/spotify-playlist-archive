@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from XG, Lola Young, Laufey, Hazama, Bunga, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,359 likes - 111 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,361 likes - 111 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 15 | [stuck like this](https://open.spotify.com/track/2knkY4o3G9nBAYXXZE9hbP) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [come home](https://open.spotify.com/album/3HW2JHHdicMtnOC0Jtt30I) | 3:34 |
 | 16 | [Camera](https://open.spotify.com/track/5lKafQWiGp2qQc5KdUM7nU) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [Kuszanagi](https://open.spotify.com/artist/7G8U6CwUfY85f2PzV6rcTO) | [Camera](https://open.spotify.com/album/5XF8q7jHfvRsqwQ3VUSra8) | 3:03 |
 | 17 | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK) | 4:18 |
-| 18 | [Layar \(Original Soundtrack From "Siapa Dia"\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack From "Siapa Dia"\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 |
+| 18 | [Layar \(Original Soundtrack"Siapa Dia.."\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack "Siapa Dia.."\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 |
 | 19 | [Frenemy \(feat\. VIDI\)](https://open.spotify.com/track/1PGt7c1YzOK5GiKjNp5IH1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Frenemy](https://open.spotify.com/album/1ZZkhyBrbAmKlhyhFbC4hn) | 3:06 |
 | 20 | [Memori Kita](https://open.spotify.com/track/793eFZPmSzKDl0sQ0hWr0r) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [LUAP](https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd) | 2:49 |
 | 21 | [something about you](https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [something about you](https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra) | 4:17 |

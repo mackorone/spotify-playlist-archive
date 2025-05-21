@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Snow White.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,220 likes - 158 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,361 likes - 158 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

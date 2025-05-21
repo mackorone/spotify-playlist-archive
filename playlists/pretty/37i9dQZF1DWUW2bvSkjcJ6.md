@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Neue Musik von Abor & Tynna, Lola Young und mehr!
+> Neue Musik von Abor & Tynna, Rihanna, Lola Young und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,043 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,025 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 94 | [Merkst du schon was? \- Erobique Remix](https://open.spotify.com/track/4OteLm3whjqpabu3vPv0BN) | [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg), [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Erobique](https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH) | [Merkst du schon was? \(Erobique Remix\)](https://open.spotify.com/album/2fl5hlxmJ6HsWaeWep3BtJ) | 3:55 |
 | 95 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 
-Snapshot ID: `aCcBZwAAAABSM67oXDUdPIdYBUtjTXzB`
+Snapshot ID: `aCwYUQAAAACavnXdby20iqYjr5yjjwgd`

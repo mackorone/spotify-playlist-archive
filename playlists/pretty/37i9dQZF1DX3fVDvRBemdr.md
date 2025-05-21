@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Quido van de Graaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,185 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,193 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 |
 | 2 | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/track/0zAvWNPP6MAc9HpuMBimFN) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/album/7EY00eVW29RWAnSYG7dg32) | 3:27 |
-| 3 | [Je Hoeft Niet Altijd 6 Te Gooien](https://open.spotify.com/track/70Sp0UadiXctJcNdJRhGxK) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Je Hoeft Niet Altijd 6 Te Gooien](https://open.spotify.com/album/3gP7bCSFGTWcWyIWjTwgcj) | 2:57 |
-| 4 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 |
-| 5 | [La La Londen](https://open.spotify.com/track/6vK8TjfQSgfnh9prC5o6zZ) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [La La Londen](https://open.spotify.com/album/19PN5yABA6inimZOPKzRzR) | 2:28 |
-| 6 | [1000 vragen](https://open.spotify.com/track/1068pajBnU9TzDLktx4SVT) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [1000 vragen](https://open.spotify.com/album/2shhEsmp7pBWIdCzcS0sZR) | 2:46 |
-| 7 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
+| 3 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
+| 4 | [Je Hoeft Niet Altijd 6 Te Gooien](https://open.spotify.com/track/70Sp0UadiXctJcNdJRhGxK) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Je Hoeft Niet Altijd 6 Te Gooien](https://open.spotify.com/album/3gP7bCSFGTWcWyIWjTwgcj) | 2:57 |
+| 5 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 |
+| 6 | [La La Londen](https://open.spotify.com/track/6vK8TjfQSgfnh9prC5o6zZ) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [La La Londen](https://open.spotify.com/album/19PN5yABA6inimZOPKzRzR) | 2:28 |
+| 7 | [1000 vragen](https://open.spotify.com/track/1068pajBnU9TzDLktx4SVT) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [1000 vragen](https://open.spotify.com/album/2shhEsmp7pBWIdCzcS0sZR) | 2:46 |
 | 8 | [Van Den Haag Naar Amsterdam](https://open.spotify.com/track/34AtNp9YdYmwZaKv44tcxB) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Van Den Haag Naar Amsterdam](https://open.spotify.com/album/4a6MhTgIG7UBuzizpY0UlS) | 2:07 |
 | 9 | [Neem Nog Wat Drinken Van Mij](https://open.spotify.com/track/5A4D0fo5gOPkCg7gA6CBxp) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Neem Nog Wat Drinken Van Mij](https://open.spotify.com/album/4Vg4Aknpooi042CXmVvEAT) | 2:50 |
 | 10 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 74 | [Verboden Liefde](https://open.spotify.com/track/48xe6ZQrASG371JErqVAhP) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Verboden Liefde](https://open.spotify.com/album/59OMJfvjEpcDy3v529apUp) | 3:04 |
 | 75 | [Door Tot De Kater Komt](https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Door Tot De Kater Komt](https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM) | 2:57 |
 
-Snapshot ID: `aCZj/AAAAAAXPGmJqU8Qz0BEVg9okwVC`
+Snapshot ID: `aCxm/QAAAACwQWWhBOYdampHMAD0Tpc4`

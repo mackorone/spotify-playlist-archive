@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Bells Larsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,621 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,631 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 74 | [Pretty](https://open.spotify.com/track/4HQjjJIZnysvN2lxSj1oOt) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pretty](https://open.spotify.com/album/0p0uvSSSnejW1Dpv94bE1c) | 3:26 |
 | 75 | [Like I Need U](https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Like I Need U](https://open.spotify.com/album/50QPHuRFKiJF5WnEMwr0W7) | 3:25 |
 | 76 | [Tattoos](https://open.spotify.com/track/0NR4jLMmIeneNq7Sqb0dl7) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Grrrl](https://open.spotify.com/album/4hvxEQAFO3jloZtE54tLuV) | 3:48 |
-| 77 | [My Revival \- Remix](https://open.spotify.com/track/1VoalgX0Ld85Yb9GE8CPlq) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [My Revival \(Remix\)](https://open.spotify.com/album/4DMfwBh0AnnyxPDzPKsY4M) | 4:12 |
+| 77 | [My Revival \- Remix](https://open.spotify.com/track/1VoalgX0Ld85Yb9GE8CPlq) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [My Revival \(Remix\)](https://open.spotify.com/album/4DMfwBh0AnnyxPDzPKsY4M) | 4:12 |
 | 78 | [Rockabye](https://open.spotify.com/track/1yMzSOuuTWGG4HEGNJYqWE) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Rockabye](https://open.spotify.com/album/1KqHxx5Q7SHF9u7ws1up2v) | 2:30 |
 | 79 | [From This Moment On](https://open.spotify.com/track/0p6U7RhYhkbWXR0Rcyg65A) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [TJ Osborne](https://open.spotify.com/artist/6QiL03acy4FWqgWiS2sLhw) | [Smothered, Covered & Fried](https://open.spotify.com/album/1tPvOhlM7iBAQblo7CqfKl) | 3:53 |
 | 80 | [Back Pew](https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 88 | [One Night Stand](https://open.spotify.com/track/03Fi64wXt8BgCGyQNSEPL1) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Anniversary](https://open.spotify.com/album/3L2N9iWhyf3e3BeCJNXOSJ) | 3:29 |
 | 89 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 90 | [Saints of Nevada](https://open.spotify.com/track/3lD3yYeikZpXOgiQMBjxVo) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Saints of Nevada](https://open.spotify.com/album/4LZyPH2I3D7DHHibCFm7a7) | 4:05 |
-| 91 | [Backbone \(It's Not Over\)](https://open.spotify.com/track/6L77QB6rZLyevIGEJgqAmk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [BEACON](https://open.spotify.com/album/3BcbE7gsMcHMsvA6KzQNn7) | 3:09 |
+| 91 | [Backbone \(It's Not Over\)](https://open.spotify.com/track/6L77QB6rZLyevIGEJgqAmk) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [BEACON](https://open.spotify.com/album/3BcbE7gsMcHMsvA6KzQNn7) | 3:09 |
 | 92 | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 |
 | 93 | [Lua](https://open.spotify.com/track/3yMRB1octy4P6EoLzI9hu6) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Lua](https://open.spotify.com/album/4EnGYFpca9dwR5hxej1hjB) | 4:25 |
 | 94 | [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 |

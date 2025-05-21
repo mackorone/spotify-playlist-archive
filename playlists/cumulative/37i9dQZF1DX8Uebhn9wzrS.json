@@ -444,7 +444,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 163770,
       "name": "A look inside",
       "url": "https://open.spotify.com/track/4eSOA9lMe36cIcq28nAFEh"
@@ -11926,7 +11926,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 132613,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/5xYkz6G3qPgn5FnZgRgZAp"
@@ -22718,6 +22718,24 @@
       "duration_ms": 165398,
       "name": "Madness",
       "url": "https://open.spotify.com/track/50A9vaLZvirlEPWi7BXGni"
+    },
+    {
+      "album": {
+        "name": "Magic Portal",
+        "url": "https://open.spotify.com/album/2kGZ6lMnDXrD6TbkVL16rM"
+      },
+      "artists": [
+        {
+          "name": "Rainbows & Clouds",
+          "url": "https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131301,
+      "name": "Magic Portal",
+      "url": "https://open.spotify.com/track/5TAtNSXkDodhcFOb0Skdei"
     },
     {
       "album": {
@@ -43616,7 +43634,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 116883,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9"

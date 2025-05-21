@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,636 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,632 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Trem Love](https://open.spotify.com/track/18J80UBzRenZdUmeaAoRd1) | [Lord ADL](https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk), [Y4AN](https://open.spotify.com/artist/2OsxRuxAhOdJi6EfD9RX6b) | [O Amor Depois da Guerra II](https://open.spotify.com/album/46QGJx6uI4Q3p1ZC50RSck) | 3:37 |
 | 75 | [Só por Essa Noite](https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [Só por Essa Noite](https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr) | 2:51 |
 
-Snapshot ID: `AAAAAF2IxPBAXLHISJoh2D8DiS8QNQCk`
+Snapshot ID: `aBQ1fgAAAABI7NjsHcOF7KLY7wWjYjOS`

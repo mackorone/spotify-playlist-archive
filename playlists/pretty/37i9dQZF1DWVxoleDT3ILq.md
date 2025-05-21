@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto:Ciudad Nómade.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,971 likes - 103 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,958 likes - 103 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

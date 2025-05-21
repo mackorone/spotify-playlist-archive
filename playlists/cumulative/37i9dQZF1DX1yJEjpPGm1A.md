@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-62 songs - 4 hr 5 min
+63 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2024-12-19 |  |
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |
 | [I Knew I Love](https://open.spotify.com/track/6heT4iobgbs6RSYnen31L6) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/7BZMREZrMu97xEWX45kMPf) | 4:21 | 2024-12-19 |  |
-| [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2024-12-19 |  |
+| [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2024-12-19 | 2025-05-21 |
 | [Je T'aime](https://open.spotify.com/track/18m3QugKZFaKjoMbe8CyjL) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 4:21 | 2024-12-19 |  |
 | [Just the way we love](https://open.spotify.com/track/04dATUKqjH6pmWpgZaB2Ec) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Reply 1997 \- Love Story \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0puPQBUgmK9l1mWQYWKsdz) | 4:18 | 2025-04-22 |  |
 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 | 2024-12-19 |  |
@@ -46,6 +46,7 @@
 | [Propose Song](https://open.spotify.com/track/5bgwb5zurggKqjD3T5KUqS) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [The 5th Album Vol.2 \[Thank You\]](https://open.spotify.com/album/6vOCXDs4BlGMsSbbgFEgsI) | 4:11 | 2025-04-22 |  |
 | [Relieved](https://open.spotify.com/track/5u3r3vueI0mUATK5nsaTgw) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Songs Made of Wood](https://open.spotify.com/album/4aKVF4a4wkXMmS3HF4RVMx) | 3:32 | 2024-12-19 |  |
 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 | 2024-12-19 |  |
+| [Start of Forever](https://open.spotify.com/track/0JdokoPasRqRZFkhOIKkQb) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Start Of Forever](https://open.spotify.com/album/37EYZ2BkOugsdBBSPIcfbN) | 2:49 | 2025-05-20 |  |
 | [Stay Here](https://open.spotify.com/track/16WWIrC9dcqRlSgJznivG4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Stay Here](https://open.spotify.com/album/0cWt79wH1zZl7Qc5doi7sx) | 3:54 | 2024-12-19 |  |
 | [The Night I Miss You](https://open.spotify.com/track/09RSdKL22sHGrcidpL3g3d) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [The Night I Miss You](https://open.spotify.com/album/4EJBHjmepe24xKtaDKPNCi) | 4:58 | 2024-12-19 |  |
 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 | 2024-12-19 |  |

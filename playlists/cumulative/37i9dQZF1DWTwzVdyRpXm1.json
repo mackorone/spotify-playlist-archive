@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Afusic",
+  "description": "Best of South Asian Music. Cover: Shubh",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 200373,
       "name": "Chaleya",
       "url": "https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 233630,
       "name": "Choo Lo",
       "url": "https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb"
@@ -2358,6 +2358,44 @@
       "duration_ms": 208250,
       "name": "Chor",
       "url": "https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY"
+    },
+    {
+      "album": {
+        "name": "Chor Bazari Phir Se (From \"Bhool Chuk Maaf\")",
+        "url": "https://open.spotify.com/album/2RRNQt6IX9eN2iSH5iP2xH"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "Chor Bazari Phir Se (From \"Bhool Chuk Maaf\")",
+      "url": "https://open.spotify.com/track/00Ydicbcw4f2bp1Yh9SAVG"
     },
     {
       "album": {
@@ -3077,6 +3115,28 @@
     },
     {
       "album": {
+        "name": "Farebi",
+        "url": "https://open.spotify.com/album/2lLMatT2qeOr8RgY7Vq8VI"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234671,
+      "name": "Farebi",
+      "url": "https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V"
+    },
+    {
+      "album": {
         "name": "Farq hai",
         "url": "https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp"
       },
@@ -3250,6 +3310,28 @@
       "duration_ms": 213707,
       "name": "Gajanana",
       "url": "https://open.spotify.com/track/58pYOqfeO87Uk8zPHuOGBu"
+    },
+    {
+      "album": {
+        "name": "Galiyon Ke Ghalib",
+        "url": "https://open.spotify.com/album/5tq2xUgRpWZMZzyiniZ7Sl"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177446,
+      "name": "Galiyon Ke Ghalib",
+      "url": "https://open.spotify.com/track/3l8GKFbkD1dRhAmzw6fInB"
     },
     {
       "album": {
@@ -3950,7 +4032,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 212525,
       "name": "Illuminati",
       "url": "https://open.spotify.com/track/1a1xLj9W8libnO9PvJf6ao"
@@ -4352,10 +4434,36 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 277600,
       "name": "Jhol - Acoustic",
       "url": "https://open.spotify.com/track/0S7MLlU27WnE3bwCcDu6Pj"
+    },
+    {
+      "album": {
+        "name": "Jhol - Acoustic",
+        "url": "https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277600,
+      "name": "Jhol - Acoustic",
+      "url": "https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU"
     },
     {
       "album": {
@@ -5007,6 +5115,32 @@
     },
     {
       "album": {
+        "name": "Laal Pari (From \"Housefull 5\")",
+        "url": "https://open.spotify.com/album/3Z3pyPT3n8DtJyEtvAnm8L"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Alfaaz",
+          "url": "https://open.spotify.com/artist/1xHIVVHhwnuYe0uCAip33C"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256148,
+      "name": "Laal Pari (From \"Housefull 5\")",
+      "url": "https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis"
+    },
+    {
+      "album": {
         "name": "Lagda Nahi",
         "url": "https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP"
       },
@@ -5618,7 +5752,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 290571,
       "name": "Maaye (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/36y4YG4mYvZQcOzANthZCJ"
@@ -5716,6 +5850,24 @@
       "duration_ms": 198461,
       "name": "Main Kaise Kahoon",
       "url": "https://open.spotify.com/track/18yr5HRBIt4vz9SRNhfepK"
+    },
+    {
+      "album": {
+        "name": "Main Rahun (From \"Parwarish\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/25gVPoJgNIlNPGxOOij21C"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205727,
+      "name": "Main Rahun (From \"Parwarish\") [Original Motion Picture Soundtrack]",
+      "url": "https://open.spotify.com/track/0REdqbK0A99eKrYF66zSDO"
     },
     {
       "album": {
@@ -6034,7 +6186,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -6622,6 +6774,44 @@
       "duration_ms": 191239,
       "name": "Najaa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v"
+    },
+    {
+      "album": {
+        "name": "Nasha (From \"Raid 2\")",
+        "url": "https://open.spotify.com/album/1OwW24oDzqUSC0enuzl2dz"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Sumonto Mukherjee",
+          "url": "https://open.spotify.com/artist/6g6hYV0STvnWlu1NPD6pDy"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180033,
+      "name": "Nasha (From \"Raid 2\")",
+      "url": "https://open.spotify.com/track/67u2VDnIGjc9wYxSaUaUvt"
     },
     {
       "album": {
@@ -7968,7 +8158,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 182348,
       "name": "Saari Duniya Jalaa Denge",
       "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"
@@ -8826,7 +9016,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 197538,
       "name": "Suniyan Suniyan",
       "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
@@ -8856,6 +9046,24 @@
       "duration_ms": 187102,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4i6z4CQXt1HTGSjCJEquG6"
+    },
+    {
+      "album": {
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178244,
+      "name": "Supreme",
+      "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"
     },
     {
       "album": {
@@ -9315,6 +9523,36 @@
     },
     {
       "album": {
+        "name": "Teri Ramjhol Bole Gi (feat. Kay D & Aarohi Raghav)",
+        "url": "https://open.spotify.com/album/7fSSEqBQdN8dplcet7gsgQ"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Sheenam Katholic",
+          "url": "https://open.spotify.com/artist/5GSBzF7y5fq4zb27LQ2jZY"
+        },
+        {
+          "name": "Kay D",
+          "url": "https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm"
+        },
+        {
+          "name": "Aarohi Raghav",
+          "url": "https://open.spotify.com/artist/5oOf2Wv94U1v1wbaXyKi48"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Teri Ramjhol Bole Gi (feat. Kay D & Aarohi Raghav)",
+      "url": "https://open.spotify.com/track/3PWfXDaGLxwN9UJDHMEyKi"
+    },
+    {
+      "album": {
         "name": "The Last Ride",
         "url": "https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv"
       },
@@ -9484,7 +9722,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"

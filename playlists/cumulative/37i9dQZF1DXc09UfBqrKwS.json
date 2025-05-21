@@ -3245,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Duskveil",
+        "url": "https://open.spotify.com/album/3arZlYaEzG23SpaWDM9kwO"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Reverie",
+          "url": "https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "Duskveil",
+      "url": "https://open.spotify.com/track/5PHG6zIU3TVPkrhjxfIndk"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY"
       },
@@ -5870,6 +5888,24 @@
       "duration_ms": 181000,
       "name": "La Cascada",
       "url": "https://open.spotify.com/track/2WGKo3sflN4aUNtesZw4Py"
+    },
+    {
+      "album": {
+        "name": "Laomedeia",
+        "url": "https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B"
+      },
+      "artists": [
+        {
+          "name": "Indigo Moon",
+          "url": "https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171056,
+      "name": "Laomedeia",
+      "url": "https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za"
     },
     {
       "album": {
@@ -8660,7 +8696,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 167187,
       "name": "Relatively",
       "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
@@ -8804,7 +8840,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 188363,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/4CnoaUAoFwMgMd493tJmnv"
@@ -9906,6 +9942,24 @@
       "duration_ms": 170238,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/1duFJu4fsHT5qrtGGRbxhg"
+    },
+    {
+      "album": {
+        "name": "Somna",
+        "url": "https://open.spotify.com/album/0F5ugqecVnynFMBMd7gBgs"
+      },
+      "artists": [
+        {
+          "name": "Drift State",
+          "url": "https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182131,
+      "name": "Somna",
+      "url": "https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD"
     },
     {
       "album": {
@@ -11556,7 +11610,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 165336,
       "name": "Vita Tranquilla",
       "url": "https://open.spotify.com/track/6jB8Sln3EZcybYKOJJg77v"

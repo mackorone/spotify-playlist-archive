@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 106985,
+  "num_followers": 107047,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "Corridos Perrones 1",
+        "url": "https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Las Monjitas",
+      "url": "https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 190413,
       "name": "Juan Martha",
       "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "Los Corridos Del Millon",
-        "url": "https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e"
-      },
-      "artists": [
-        {
-          "name": "Los Incomparables De Tijuana",
-          "url": "https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "El Numero Uno",
-      "url": "https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Corridos Perrones 1",
-        "url": "https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I"
+        "name": "Los Corridos Del Millon",
+        "url": "https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e"
       },
       "artists": [
         {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+          "name": "Los Incomparables De Tijuana",
+          "url": "https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN"
         }
       ],
-      "duration_ms": 272466,
-      "name": "Las Monjitas",
-      "url": "https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e"
+      "duration_ms": 236160,
+      "name": "El Numero Uno",
+      "url": "https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "La Caspa Del Diablo-Corridos A Toda Ley",
-        "url": "https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD"
+        "name": "Narco Corridos",
+        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
       },
       "artists": [
         {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
-        },
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
         }
       ],
-      "duration_ms": 156160,
-      "name": "La Caspa Del Diablo",
-      "url": "https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7"
+      "duration_ms": 225426,
+      "name": "La Fiesta De Los Perrones",
+      "url": "https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -539,18 +535,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Narco Corridos",
-        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
+        "name": "La Caspa Del Diablo-Corridos A Toda Ley",
+        "url": "https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD"
       },
       "artists": [
         {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        },
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 225426,
-      "name": "La Fiesta De Los Perrones",
-      "url": "https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA"
+      "duration_ms": 156160,
+      "name": "La Caspa Del Diablo",
+      "url": "https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
-      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Con La Nueva Federaci\u00f3n",
         "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
       },
@@ -599,42 +583,6 @@
       "duration_ms": 139493,
       "name": "Comandos Del M.P (500 Balazos)",
       "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "15 Primeros Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "El Centenario",
-      "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "Nieves De Enero",
-        "url": "https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Anastasio Pacheco",
-      "url": "https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -655,6 +603,38 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "15 Primeros Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "El Centenario",
+      "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
+      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "El Hijo Del Viejo",
         "url": "https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 202733,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Nieves De Enero",
+        "url": "https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 208956,
+      "name": "Anastasio Pacheco",
+      "url": "https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "Contrabando En Los Huevos",
+        "url": "https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Contrabando En Los Huevos",
+      "url": "https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
-        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "El Moro De Cumpas",
-      "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Con Banda Y De Parranda",
         "url": "https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Contrabando En Los Huevos",
-        "url": "https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM"
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
       },
       "artists": [
         {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 271426,
-      "name": "Contrabando En Los Huevos",
-      "url": "https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr"
+      "duration_ms": 195744,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
     },
     {
       "added_at": "2024-11-18 18:28:40",

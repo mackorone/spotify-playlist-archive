@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > The women of All Things Go Music Festival are taking over EQUAL US! Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,529 likes - 48 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,536 likes - 48 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 47 | [Sweet](https://open.spotify.com/track/4loQPdrZajkHuZTI0Qrhx1) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Orion](https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl) | 2:54 |
 | 48 | [Sublime](https://open.spotify.com/track/360TFPz9VbmLrr3F0wzCVO) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Escaper](https://open.spotify.com/album/1DKZiCIxfbZB5I1p7JhXym) | 3:26 |
 
-Snapshot ID: `aAeg/gAAAADAchaj0Uy9AulMD5tLbmTJ`
+Snapshot ID: `aAeg/gAAAACuydiN0k9GarUkjQxMoQ7t`

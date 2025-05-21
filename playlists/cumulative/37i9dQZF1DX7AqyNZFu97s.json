@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK & Ireland. Cover: Liv Walker",
+  "description": "The best new music by independent artists in the UK & Ireland. Cover: Nyah Grace",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 150791,
       "name": "Adam & Steve",
       "url": "https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 127500,
       "name": "all types of\u2026",
       "url": "https://open.spotify.com/track/0U3RE6XHGfXE7R7u6uxzQE"
@@ -4898,6 +4898,24 @@
       "duration_ms": 158981,
       "name": "Big Mouth",
       "url": "https://open.spotify.com/track/5Q8jNjYVfiy3smJuSHOz0T"
+    },
+    {
+      "album": {
+        "name": "big mummy",
+        "url": "https://open.spotify.com/album/6gkfD2vxkd2RDn7jKovniR"
+      },
+      "artists": [
+        {
+          "name": "00ab",
+          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "big mummy",
+      "url": "https://open.spotify.com/track/6v4294G53llbLuc2viCUI9"
     },
     {
       "album": {
@@ -9188,7 +9206,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 194855,
       "name": "Come on",
       "url": "https://open.spotify.com/track/0gMEwvBz0tRjD4lqvRoeLM"
@@ -11521,6 +11539,28 @@
     },
     {
       "album": {
+        "name": "delicate",
+        "url": "https://open.spotify.com/album/46bEHtVvPR5qNXno0V4GI0"
+      },
+      "artists": [
+        {
+          "name": "ISABELLA",
+          "url": "https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q"
+        },
+        {
+          "name": "Izzi De-Rosa",
+          "url": "https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "delicate",
+      "url": "https://open.spotify.com/track/5FWlrizCZRw0Z43mgChwLZ"
+    },
+    {
+      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/4kSQIrXDwu5oqnU1e0ZCvx"
       },
@@ -11936,7 +11976,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 186896,
       "name": "DIFFERENTLY",
       "url": "https://open.spotify.com/track/4aabm2PiNsSWXzf8uoNmlq"
@@ -13132,6 +13172,24 @@
       "duration_ms": 199297,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/2BolPLQOOaeh0Eexuvu5Yg"
+    },
+    {
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/5Blo6YBsMmFCkgP1uw340k"
+      },
+      "artists": [
+        {
+          "name": "Nyah Grace",
+          "url": "https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197779,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/2yZ23sMHy3Mr0ngR4eRr8R"
     },
     {
       "album": {
@@ -16368,7 +16426,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 181554,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7CNG5ntGnIzOLPbQezgiaI"
@@ -19547,6 +19605,24 @@
     },
     {
       "album": {
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/54MudFjoNaAj0ExqzxctaF"
+      },
+      "artists": [
+        {
+          "name": "Taylr",
+          "url": "https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171760,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/3nmVo6Wnm8YvgosNQhuo70"
+    },
+    {
+      "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/7MPLdIGd9bOArCHAyeU9VA"
       },
@@ -22673,6 +22749,24 @@
     },
     {
       "album": {
+        "name": "I DON'T WANNA FISH",
+        "url": "https://open.spotify.com/album/1MokIHVCmfWzWzYkFfzCIg"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158651,
+      "name": "I DON'T WANNA FISH",
+      "url": "https://open.spotify.com/track/1uczFpoWLv0Xsh33V4DxSf"
+    },
+    {
+      "album": {
         "name": "i don't wanna grow up",
         "url": "https://open.spotify.com/album/35eU4reGkkeZpqFc2iA1mu"
       },
@@ -23934,7 +24028,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 232000,
       "name": "Ice and Blues",
       "url": "https://open.spotify.com/track/1iy6XgqJI3Q0KykN3BJrIG"
@@ -27472,7 +27566,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 285463,
       "name": "Let Dust Settle",
       "url": "https://open.spotify.com/track/2fwbrucqkOdToyPAWQ32Kn"
@@ -27556,6 +27650,24 @@
       "duration_ms": 138750,
       "name": "Let Me Fall",
       "url": "https://open.spotify.com/track/2bEso4XPpdXo9wZ0HibrmX"
+    },
+    {
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/3W6KU0JXAeC0CyX7tjssQg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Baker",
+          "url": "https://open.spotify.com/artist/4mywMzYbTPsM5gk6p28XJm"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/1RDFwUcWo6xNqadZs7LkVh"
     },
     {
       "album": {
@@ -35396,7 +35508,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 179268,
       "name": "Only Mine",
       "url": "https://open.spotify.com/track/4EMC2wUflNi4Gcwu2rfURq"
@@ -50645,6 +50757,24 @@
     },
     {
       "album": {
+        "name": "waiting",
+        "url": "https://open.spotify.com/album/0pxLFNx0VINj84JgWIsWR7"
+      },
+      "artists": [
+        {
+          "name": "Gorgeous Bully",
+          "url": "https://open.spotify.com/artist/2rTfAlIGCbL5KEsonGRCnt"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160975,
+      "name": "waiting",
+      "url": "https://open.spotify.com/track/0zskVnWQE6lkeBOyXbpbHV"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/3cPYEEZFuf6jz44SMyasLi"
       },
@@ -51498,7 +51628,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 239200,
       "name": "WEST",
       "url": "https://open.spotify.com/track/0y8b1XhYo5AE1bhdRNyzcu"

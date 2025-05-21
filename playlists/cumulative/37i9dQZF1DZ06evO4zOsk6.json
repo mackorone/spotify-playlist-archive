@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242973,
+      "name": "Salvaciones",
+      "url": "https://open.spotify.com/track/6mqRLhudFoEvO0mWGjVatH"
+    },
+    {
+      "album": {
         "name": "Libido en Vivo Coliseo Dib\u00f3s (En Vivo)",
         "url": "https://open.spotify.com/album/4inRORxjogX7v75jCwCusy"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 216816,
       "name": "Salvaciones (En Vivo)",
       "url": "https://open.spotify.com/track/2Mkc4hDegyejz9zobFxXkr"

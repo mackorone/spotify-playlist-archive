@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > A combatir el calor con rolitas frescas en compañía de RØZ y Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,321 likes - 63 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,403 likes - 63 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

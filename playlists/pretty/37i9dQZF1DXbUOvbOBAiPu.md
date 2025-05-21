@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Zwangere Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,484 likes - 105 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,485 likes - 105 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 46 | [Roadkill](https://open.spotify.com/track/6hk0rGDEUJaIpalHRQ3Q3s) | [Captain Kaiser](https://open.spotify.com/artist/5yhZlft69jL09YhavstJRn) | [Roadkill](https://open.spotify.com/album/2wgvVXs17KZf4laG54CoWs) | 2:57 |
 | 47 | [Jackie Brown](https://open.spotify.com/track/0PnHJQuKjngshNvRCqQQ14) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [44coles](https://open.spotify.com/artist/7vYH7d22N9KrhqGctm54Hm) | [Jackie Brown](https://open.spotify.com/album/0sSVHFZ6Kecftt6l4ahwIj) | 3:48 |
 | 48 | [All Night Long](https://open.spotify.com/track/0M7iyN0IM9IGFW87NlMkXP) | [Robert Abigail](https://open.spotify.com/artist/19XebWXDJ92dgKr1E4fn1O) | [All Night Long](https://open.spotify.com/album/2K06bcHq1G3RppRKQFAtTf) | 2:36 |
-| 49 | [Truly Madly Deeply](https://open.spotify.com/track/3bplHF4MCYkOaqTlmYi6fO) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [OLIVIA](https://open.spotify.com/artist/15MeRPxjXTlMes5rcxD2YY) | [Truly Madly Deeply](https://open.spotify.com/album/3gjbmjnlX3sLDtj1x5J6NX) | 2:25 |
+| 49 | [Truly Madly Deeply](https://open.spotify.com/track/3bplHF4MCYkOaqTlmYi6fO) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Truly Madly Deeply](https://open.spotify.com/album/3gjbmjnlX3sLDtj1x5J6NX) | 2:25 |
 | 50 | [Adieu Paris](https://open.spotify.com/track/32LDvHPd4N3gMoDMqUNWZy) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Adieu Paris](https://open.spotify.com/album/1Bt7ky5PJL4SnMEtjmmXdT) | 4:03 |
 | 51 | [Confession](https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Confession](https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw) | 2:46 |
 | 52 | [TOTO](https://open.spotify.com/track/3WfbkhFONApasnHyHkyNdg) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [TOTO](https://open.spotify.com/album/0ncjZp6tLDdsslXupYeD28) | 1:47 |

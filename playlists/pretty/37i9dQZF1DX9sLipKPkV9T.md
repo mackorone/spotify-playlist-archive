@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: מרגי
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,425 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,426 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 37 | [על הקצה](https://open.spotify.com/track/0tKRgdMUqAtsSGRQngIV1M) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [תדר 4](https://open.spotify.com/album/1kVo6voTgPVOh6IDV2zLOI) | 2:25 |
 | 38 | [נשמה טהורה](https://open.spotify.com/track/0aysOWkZY2NSRQ2OGPGNt8) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [נשמה טהורה](https://open.spotify.com/album/72lISFzzYObZb6qZmGgKkA) | 2:34 |
 | 39 | [רוקדת מול כולם](https://open.spotify.com/track/2zWY2CjhV02evs84a9Vm7q) | [Ivri Lider](https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רוקדת מול כולם](https://open.spotify.com/album/0sGZDCSzggus319uPIPu8G) | 3:30 |
-| 40 | [נכון](https://open.spotify.com/track/1lMF5eHbD8NJHiTl7Es6P3) | [Nofia](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q), [ ילד?](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [נכון](https://open.spotify.com/album/4p5owJauZxpHijdLugKPaF) | 3:21 |
+| 40 | [נכון](https://open.spotify.com/track/1lMF5eHbD8NJHiTl7Es6P3) | [Nofia](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q), [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [נכון](https://open.spotify.com/album/4p5owJauZxpHijdLugKPaF) | 3:21 |
 | 41 | [רוקד עם הפחד](https://open.spotify.com/track/0FmfIapcM2oc8mt9glRW5u) | [משה כורסיה](https://open.spotify.com/artist/2A6k5DwVzqael6S2FYKGZT) | [רוקד עם הפחד](https://open.spotify.com/album/2z2kEjxAMGJ1m6SG0ClaNo) | 3:21 |
 | 42 | [לדפוק ת'ראש](https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox), [רותם סלע](https://open.spotify.com/artist/6RHKnN409hmH8d8f2wGHk3), [דני קושמרו](https://open.spotify.com/artist/74Dnck8lIrte67p80UizJN), [אורי גבריאל](https://open.spotify.com/artist/3xIUNEwPWaEUSQUip0OQH0), [אסי ישראלוף](https://open.spotify.com/artist/6ECfOxlo1z5RwXCQqCR4ta) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:58 |
 | 43 | [יפה מבראשית](https://open.spotify.com/track/7guhFOyenW4kSJoCmtzbU2) | [Ron Buhnik](https://open.spotify.com/artist/0mFHr7lwZmiRqsuy6JCS2K) | [יפה מבראשית](https://open.spotify.com/album/6amYXROZVCFNHhjjcbLnQ5) | 2:46 |

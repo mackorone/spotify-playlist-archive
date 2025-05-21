@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: garbagepink
+> Celebrating 10 years of the best new music by independent artists in the Nordics\. Cover: garbagepink
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,622 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,633 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Shiba](https://open.spotify.com/track/6I0BSbYQsRsK2kj8oAePuW) | [Olga Myko](https://open.spotify.com/artist/2dLakvfiBcJx7FUznJn8ct) | [Shiba](https://open.spotify.com/album/6GJRwsLIkBoCHXQby8N9Oq) | 3:05 |
 | 100 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 |
 
-Snapshot ID: `aCtBDgAAAABlzoXCMwaofGLRAFa1u6FH`
+Snapshot ID: `aCwuCQAAAAA7UA2xsyIbg8fVejncxBjB`

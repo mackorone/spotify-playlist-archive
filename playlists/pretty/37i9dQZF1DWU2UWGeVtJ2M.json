@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 165845,
+  "num_followers": 165862,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "Different Ways",
-        "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
-      },
-      "artists": [
-        {
-          "name": "No Guidnce",
-          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
-        }
-      ],
-      "duration_ms": 208379,
-      "name": "Different Ways",
-      "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
         "name": "roundabout",
         "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 132931,
       "name": "roundabout",
       "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
+        "name": "Different Ways",
+        "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "duration_ms": 208379,
+      "name": "Different Ways",
+      "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
         "name": "Basement Grooves",
         "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 169142,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 183761,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC"
-      },
-      "artists": [
-        {
-          "name": "Arabelle",
-          "url": "https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC"
+      },
+      "artists": [
+        {
+          "name": "Arabelle",
+          "url": "https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 179523,
-      "name": "Cinema",
-      "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
         "name": "every scent",
         "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 179523,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
       },
@@ -1563,26 +1563,6 @@
       "duration_ms": 294186,
       "name": "Moments Like These",
       "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
-        "name": "untitled (what's it gonna be)",
-        "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
-      },
-      "artists": [
-        {
-          "name": "thecolorfractal",
-          "url": "https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu"
-        },
-        {
-          "name": "Gail Belmonte",
-          "url": "https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "untitled (what's it gonna be)",
-      "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1607,18 +1587,22 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+        "name": "untitled (what's it gonna be)",
+        "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
       },
       "artists": [
         {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+          "name": "thecolorfractal",
+          "url": "https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu"
+        },
+        {
+          "name": "Gail Belmonte",
+          "url": "https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ"
         }
       ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
+      "duration_ms": 250666,
+      "name": "untitled (what's it gonna be)",
+      "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1635,6 +1619,22 @@
       "duration_ms": 203946,
       "name": "If You Think It's Love",
       "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+      },
+      "artists": [
+        {
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
     },
     {
       "added_at": "2025-05-19 02:01:27",

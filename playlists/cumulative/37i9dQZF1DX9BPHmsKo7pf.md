@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Sami G
+> Cele mai de succes 50 de hituri în România\. Cover: Denis Ramniceanu
 
-169 songs - 8 hr 9 min
+171 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [ACTIVIST](https://open.spotify.com/track/2ApM2mZoLTVUSfLfKgTbRm) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Aspy](https://open.spotify.com/artist/2QmCKCIIK7RGzYOvC7nAZn), [candyboii](https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:22 | 2024-09-16 | 2024-10-01 |
 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 | 2025-04-23 |  |
 | [Africa](https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [Africa](https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys) | 2:25 | 2024-07-01 | 2024-08-27 |
-| [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-01 |  |
+| [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-01 | 2025-05-21 |
 | [ALL RED](https://open.spotify.com/track/3WQfLuSH0Az2tzVoCz6OCE) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/65TLpR9CjyYqBL8Os2pmlY) | 2:28 | 2024-09-23 | 2024-10-01 |
 | [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 | 2025-02-03 |  |
 | [Am un secret](https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Am un secret](https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV) | 2:50 | 2025-03-03 |  |
@@ -74,6 +74,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2024-11-19 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 | 2025-05-06 |
 | [Fana](https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Fana](https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg) | 2:38 | 2024-07-01 | 2024-10-22 |
+| [FARMACISTA](https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Z PRINT](https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso) | 2:22 | 2025-05-20 |  |
 | [FLY](https://open.spotify.com/track/0hknUmR1ujZ9DTV2BfjIhK) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [FLY](https://open.spotify.com/album/6SKsIwxPmmAjBeyhIjXCgb) | 3:18 | 2025-04-14 |  |
 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2024-12-09 | 2025-02-18 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-11-26 |
@@ -160,7 +161,7 @@
 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-30 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-07-01 | 2024-08-27 |
 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 | 2024-07-01 | 2024-07-09 |
-| [TORE UP](https://open.spotify.com/track/6oTZCn2Wp55AbjcmhkiOfk) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 2:06 | 2024-09-16 |  |
+| [TORE UP](https://open.spotify.com/track/6oTZCn2Wp55AbjcmhkiOfk) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 2:06 | 2024-09-16 | 2025-05-21 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-08 | 2024-07-23 |
 | [Triton](https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Rheda](https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct) | [Triton](https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0) | 2:08 | 2025-03-06 | 2025-04-24 |
 | [Turbo Orange](https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Turbo Orange](https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD) | 2:40 | 2024-11-05 | 2025-04-24 |
@@ -174,6 +175,7 @@
 | [WIFI](https://open.spotify.com/track/3XLotfWtdebR0qTmqiTzLX) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:40 | 2024-12-09 | 2025-03-25 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-18 | 2025-04-24 |
 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 | 2024-07-01 | 2025-02-11 |
+| [xcx](https://open.spotify.com/track/40kGVC92nyBYVfJth2qvm2) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [xcx](https://open.spotify.com/album/0bPVN6GHOdwegTxfiaBMb7) | 2:53 | 2025-05-20 |  |
 | [Yali, Yali](https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Yali, Yali](https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g) | 2:35 | 2024-08-26 | 2025-04-15 |
 | [Zi\-mi cine](https://open.spotify.com/track/4cZ0QPVw1oTZ48yML1k8wI) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Zi\-mi cine](https://open.spotify.com/album/6L97ViVxuQrKFtFFnLwBWV) | 2:21 | 2024-10-07 | 2025-02-18 |
 | [ZODIAC](https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [ZODIAC](https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN) | 3:16 | 2024-07-01 | 2024-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=BacpBS0UQ\-yiUJBbjWluvw>Lawrence Oyor</a> and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=m3mOemx7RUShdm7aPQjCFA>Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,343 likes - 89 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,354 likes - 89 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

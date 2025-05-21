@@ -324,8 +324,8 @@
       },
       "artists": [
         {
-          "name": "Ayoub Anbaoui et tawsen",
-          "url": "https://open.spotify.com/artist/4TfUcDtoh5zA70LEAtn9p3"
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
         }
       ],
       "date_added": "2023-04-17",
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Belbala",
+        "url": "https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm"
+      },
+      "artists": [
+        {
+          "name": "Douaa Lahyaoui",
+          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159661,
+      "name": "Belbala",
+      "url": "https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855"
+    },
+    {
+      "album": {
         "name": "BERRANI",
         "url": "https://open.spotify.com/album/1E6ZveeUUKohVOqgple86P"
       },
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 234293,
       "name": "BERRANI",
       "url": "https://open.spotify.com/track/5fRt5UJxP854arL5XEgL5l"
@@ -6627,6 +6645,28 @@
     },
     {
       "album": {
+        "name": "PENALTY",
+        "url": "https://open.spotify.com/album/67nkeu6axxVkXnqDnig9iQ"
+      },
+      "artists": [
+        {
+          "name": "Zaynab",
+          "url": "https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu"
+        },
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "PENALTY",
+      "url": "https://open.spotify.com/track/6K98YuYoefShCK5qIsPybL"
+    },
+    {
+      "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
       },
@@ -7606,6 +7646,24 @@
       "duration_ms": 199968,
       "name": "TABOUT",
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
+    },
+    {
+      "album": {
+        "name": "Taj Li Watani",
+        "url": "https://open.spotify.com/album/56draevXcdLxvpUM3arMyo"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Taj Li Watani",
+      "url": "https://open.spotify.com/track/0qkei2mL1oGzIQtPesLCoD"
     },
     {
       "album": {

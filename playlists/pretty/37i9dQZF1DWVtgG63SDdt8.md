@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Lecrae & Miles Minnick
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,424 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,444 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [The Name of Jesus](https://open.spotify.com/track/1A0iZtldObmskSY1G1FZwW) | [Warehouse Worship](https://open.spotify.com/artist/1u5xwOxetEbwUOsx5YRwXB), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Name of Jesus](https://open.spotify.com/album/4HNFtdNDZrRPfAs9pW4K3L) | 6:53 |
 | 100 | [Lifter of Men](https://open.spotify.com/track/1IxhyLPPM14RiMzlZEUEk4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Lifter of Men](https://open.spotify.com/album/5C76LCJUbI1vhNh8ghUBVQ) | 5:34 |
 
-Snapshot ID: `aCbq5QAAAACx70JX0rEFNtP+saXy6p6m`
+Snapshot ID: `aCbq5QAAAADdGSmLlgmz79ZfGi3ox5Ae`

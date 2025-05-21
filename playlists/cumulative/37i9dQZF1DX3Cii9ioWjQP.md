@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Crush\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-258 songs - 18 hr 12 min
+259 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [20](https://open.spotify.com/track/2msLuuR6McXi7HSDx8eQ53) | [OoOoot](https://open.spotify.com/artist/4fsY70sj9x9wBlLhea60If), [Soojung Kae](https://open.spotify.com/artist/0RSwmChSMmgD9CXYDuxb8s) | [변곡점\. 최규철 계수정 최노아](https://open.spotify.com/album/2AGZJLWlkTuR7Z3SngzpU1) | 16:24 | 2023-10-04 | 2024-11-07 |
 | [20th century peoples](https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [20th century peoples](https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8) | 3:37 | 2022-05-03 | 2023-02-08 |
 | [3월의 밤](https://open.spotify.com/track/3V1YH9HkdVyurldYIMZX8C) | [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [3월의 밤](https://open.spotify.com/album/7xmtGgNnp8RTrWUxVj6Onh) | 7:16 | 2022-05-03 | 2023-12-13 |
+| [42.195](https://open.spotify.com/track/6nUuwxafrzvFRJkw7Ex7ue) | [하이진](https://open.spotify.com/artist/0MnTD4EStdRv27mXXYiAJi) | [42.195](https://open.spotify.com/album/6X9zD7cwKg1kgLIkdXNezk) | 2:42 | 2025-05-20 |  |
 | [A Finite time](https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT) | [Heemin Chae](https://open.spotify.com/artist/4n6gUX8ldyO9nBHGPCnwKy) | [A Finite time](https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI) | 4:27 | 2023-07-19 | 2025-02-19 |
 | [A good thing](https://open.spotify.com/track/5wshBiqIBASdItBlwSN1PI) | [Yeseul Kim](https://open.spotify.com/artist/4u6LWxsANEMNmE1KJo49Ci) | [A good thing](https://open.spotify.com/album/6DkBOdtTIfMAdKl2JZ1wwk) | 5:28 | 2023-03-31 | 2024-11-07 |
 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 | 2024-01-19 | 2024-11-07 |
@@ -234,7 +235,7 @@
 | [Vacancy Hugs Time](https://open.spotify.com/track/2fOucbHur1VE47D1m5UCgB) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:52 | 2022-11-23 | 2024-09-20 |
 | [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 | 2022-05-18 | 2024-08-11 |
 | [Venice Calle](https://open.spotify.com/track/4BQtzBhik3F3bDeerVrHvZ) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/4DG9bbTsLTCZjc3FX3cLfM) | 3:40 | 2023-03-31 | 2024-04-19 |
-| [visitor](https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM) | [Jeon Jisun](https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R) | [visitor](https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva) | 3:40 | 2024-09-04 |  |
+| [visitor](https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM) | [Jeon Jisun](https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R) | [visitor](https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva) | 3:40 | 2024-09-04 | 2025-05-21 |
 | [Vulnerable Night](https://open.spotify.com/track/3N9goAiZWkx57SBr6exO5K) | [ORORA](https://open.spotify.com/artist/11x44zHKHZ8Yyg6qTzuUoE) | [Vulnerable Night](https://open.spotify.com/album/5RpHEJFgOObKgjlefX2Zsn) | 3:02 | 2025-05-07 |  |
 | [Waltz For Baby\(I\)](https://open.spotify.com/track/1VoJvHIlBEKwzDxpvvJhNB) | [Nokyung Lee](https://open.spotify.com/artist/4xK66lFkraZU5FaIO3dugT) | [A Child Is Born](https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq) | 3:43 | 2022-05-03 | 2022-05-19 |
 | [welcoming the moon trip](https://open.spotify.com/track/0PxQ9PisOytpkqMEngzDgk) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [welcoming the moon trip](https://open.spotify.com/album/2nfCnfYJrLPPYWAqmapxer) | 4:24 | 2023-02-07 | 2024-11-07 |

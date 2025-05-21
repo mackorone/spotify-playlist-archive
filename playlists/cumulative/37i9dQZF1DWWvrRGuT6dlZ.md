@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Claire Javier\. Artwork: Isu Kim.
+> Celebrating 10 years of  unearthing your new favourite artists\. Cover: Claire Javier\. Artwork: Isu Kim.
 
 995 songs - 2 day 6 hr 4 min
 

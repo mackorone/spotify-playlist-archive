@@ -4,7 +4,7 @@
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-129 songs - 8 hr 47 min
+130 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [あいくらふと](https://open.spotify.com/track/1jE7oyUD2V1jlB0Dat0OpB) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [あいくらふと](https://open.spotify.com/album/7KbV2xSeJaDP9BXC1jBTWe) | 3:30 | 2025-02-27 |  |
 | [あなたに](https://open.spotify.com/track/1gJ5uea5uL4DjH12o5Y3GB) | [ひーなー\(CV.鬼頭明里\)](https://open.spotify.com/artist/2sLgcsB91sV4RpYrUWBY53), [かーなー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/16zEQFZFTlfzyceqwJ1Ccy) | [「沖縄で好きになった子が方言すぎてツラすぎる」エンディングテーマ「あなたに」](https://open.spotify.com/album/17S1V070Wo47UCIoYemN3B) | 3:11 | 2025-01-30 |  |
 | [いい湯だな](https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [いい湯だな](https://open.spotify.com/album/51pzkf8OJNPjGHHN8uyqnW) | 2:11 | 2024-10-25 | 2024-12-03 |
+| [きときと](https://open.spotify.com/track/4NUFCzfamR4M5XDO0LrJEf) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [きときと](https://open.spotify.com/album/2zhEMy7aHyWr5xzgmATlfH) | 2:58 | 2025-05-21 |  |
 | [こまりわらい](https://open.spotify.com/track/2n3VVGO20mQskqGRUu4T1w) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp) | [こまりわらい](https://open.spotify.com/album/00DeFhBiMsWTraxBRxu7PZ) | 3:25 | 2024-11-05 | 2025-02-28 |
 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 | 2024-04-02 |  |
 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 | 2023-11-16 |  |
@@ -103,7 +104,7 @@
 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 | 2023-01-10 | 2023-10-19 |
 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2023-01-05 |  |
 | [プラチナ](https://open.spotify.com/track/2yNpUnDvlffYNdQMOvDMs3) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界2](https://open.spotify.com/album/2XzVEDVqPPB0raP9VL9dUU) | 4:32 | 2023-02-07 | 2023-02-09 |
-| [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 | 2023-01-05 |  |
+| [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 | 2023-01-05 | 2025-05-21 |
 | [僕が死のうと思ったのは](https://open.spotify.com/track/2NOIV90vZjJEzbKiJyGZiS) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [DEARS](https://open.spotify.com/album/3GGqCGjrUlzy4APUnK5tXs) | 6:22 | 2025-01-30 |  |
 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2024-04-02 | 2024-05-20 |
 | [原作者](https://open.spotify.com/track/3irzccxO2G1XkIOzDOAWmL) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.\(Special Edition\)](https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO) | 3:39 | 2023-11-14 | 2024-01-19 |

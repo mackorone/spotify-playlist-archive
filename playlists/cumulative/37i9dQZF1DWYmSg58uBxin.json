@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Walk Along the Seine",
+        "url": "https://open.spotify.com/album/6i64uiYslHoDvAmP9U2gLW"
+      },
+      "artists": [
+        {
+          "name": "Saverio Lobeone",
+          "url": "https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131048,
+      "name": "A Walk Along the Seine",
+      "url": "https://open.spotify.com/track/5X1UIUwfELwhImAfkIGfMD"
+    },
+    {
+      "album": {
         "name": "A82 (Cello Version)",
         "url": "https://open.spotify.com/album/0p7uwkvw1HTT6AL4KsIfT9"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 159113,
       "name": "Beyond The Glimmering Light",
       "url": "https://open.spotify.com/track/0Nz9A8EyeTvRo4WWFOLXeJ"
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 155595,
       "name": "Eternal Slumber",
       "url": "https://open.spotify.com/track/4LmDvBu7x3Udb2ntXcFyOy"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 193665,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 139007,
       "name": "Fractals",
       "url": "https://open.spotify.com/track/3v5mWnTuC51tA0jAXM7Guy"
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 145338,
       "name": "Hvile (Ps.4)",
       "url": "https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0"
@@ -2724,6 +2742,24 @@
       "duration_ms": 153768,
       "name": "Let It Be Us",
       "url": "https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh"
+    },
+    {
+      "album": {
+        "name": "Letters to the Wind",
+        "url": "https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fina",
+          "url": "https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164555,
+      "name": "Letters to the Wind",
+      "url": "https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL"
     },
     {
       "album": {
@@ -3332,7 +3368,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 189500,
       "name": "Nano",
       "url": "https://open.spotify.com/track/79A5Sj9fMnzbGyWAP80JvQ"
@@ -3660,7 +3696,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 156314,
       "name": "One Step",
       "url": "https://open.spotify.com/track/2VMyo3DKnrhEnnen8pktF1"
@@ -3696,7 +3732,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 139007,
       "name": "Only For A Moment",
       "url": "https://open.spotify.com/track/3Wya6bQjondLcUwePqEtqh"
@@ -4092,7 +4128,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
@@ -4200,7 +4236,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 158196,
       "name": "Sol Da Manh\u00e3",
       "url": "https://open.spotify.com/track/50N1j5jEo9Wj30rnG6OuIH"
@@ -5155,6 +5191,24 @@
     },
     {
       "album": {
+        "name": "Time Will Heal",
+        "url": "https://open.spotify.com/album/2DrVkyMIctHhYWz0WU7Vfj"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147944,
+      "name": "Time Will Heal",
+      "url": "https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ"
+    },
+    {
+      "album": {
         "name": "To Be Loved",
         "url": "https://open.spotify.com/album/6PaDNwaeFCp7ZI2opeGX8Q"
       },
@@ -5566,7 +5620,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 148187,
       "name": "Willow",
       "url": "https://open.spotify.com/track/32wkxIedt5jMtJnwTP9p1l"
@@ -5602,7 +5656,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 134909,
       "name": "Wkr\u00f3tce",
       "url": "https://open.spotify.com/track/4Tqc20K1sAMwYogL1wFW0R"

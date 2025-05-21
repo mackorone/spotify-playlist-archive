@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,857 likes - 86 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,883 likes - 85 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 3 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
 | 4 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
 | 5 | [Lost](https://open.spotify.com/track/3vVX3isRZBNkNm5MgGXlST) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Lost](https://open.spotify.com/album/7qh8ZeENbL9E9E0Ztsv2it) | 2:08 |
-| 6 | [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 |
+| 6 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
 | 7 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
-| 8 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
-| 9 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 |
+| 8 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 |
+| 9 | [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 |
 | 10 | [Oceans of dreams](https://open.spotify.com/track/4nuOT2R4KCUKaSPxWYWr0b) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Oceans of dreams](https://open.spotify.com/album/1S28M9KkO2lyyzMroR4JDW) | 2:14 |
-| 11 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 |
-| 12 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
-| 13 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 |
-| 14 | [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 |
-| 15 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 |
+| 11 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
+| 12 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 |
+| 13 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 |
+| 14 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 |
+| 15 | [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 |
 | 16 | [Static](https://open.spotify.com/track/7oJF6jlP5RJQbUsLFbgOQm) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Static](https://open.spotify.com/album/0OwS7VG7Wku96N4qN9TgA7) | 2:01 |
 | 17 | [Sunset From Beyond](https://open.spotify.com/track/3ds1T336lEcCzJw1CClUzQ) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Sunset From Beyond](https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg) | 2:30 |
 | 18 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
@@ -79,20 +79,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 69 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 70 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 |
 | 71 | [Contrarium](https://open.spotify.com/track/6tKXlqopEqZM7Z8CRsAJqv) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Contrarium](https://open.spotify.com/album/1mvbBV8QQiCehqTYFrnQFU) | 2:09 |
-| 72 | [New Beginning](https://open.spotify.com/track/1tAh9ygOksyZaC8IPdhICH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 3:05 |
-| 73 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 |
-| 74 | [reset](https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Reset](https://open.spotify.com/album/0BziJ3Vj6ktrJ9grdZuGtB) | 3:26 |
-| 75 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 |
-| 76 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 |
-| 77 | [Petrichor](https://open.spotify.com/track/1EMDRuTh2WI87CERjVNjHv) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Petrichor](https://open.spotify.com/album/4WqEA06Os0eeQwsizxLOPC) | 1:58 |
-| 78 | [Views Of Nature](https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi) | [Tiphaine Calvet](https://open.spotify.com/artist/1242qzkR8hc2Hv5AdHpiIU) | [Views Of Nature](https://open.spotify.com/album/5Xb5hY2GNbjDB6RGVD64kl) | 2:18 |
-| 79 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 |
-| 80 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 |
-| 81 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 |
-| 82 | [Keeping Secrets](https://open.spotify.com/track/6Gkl52QI2BIPzMvu3fF3AP) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keeping Secrets \(Ambient Version\)](https://open.spotify.com/album/1pcWYCCNfmYjogMKGZ92pU) | 2:16 |
-| 83 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 |
-| 84 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 |
-| 85 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
-| 86 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
+| 72 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 |
+| 73 | [reset](https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Reset](https://open.spotify.com/album/0BziJ3Vj6ktrJ9grdZuGtB) | 3:26 |
+| 74 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 |
+| 75 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 |
+| 76 | [Petrichor](https://open.spotify.com/track/1EMDRuTh2WI87CERjVNjHv) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Petrichor](https://open.spotify.com/album/4WqEA06Os0eeQwsizxLOPC) | 1:58 |
+| 77 | [Views Of Nature](https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi) | [Tiphaine Calvet](https://open.spotify.com/artist/1242qzkR8hc2Hv5AdHpiIU) | [Views Of Nature](https://open.spotify.com/album/5Xb5hY2GNbjDB6RGVD64kl) | 2:18 |
+| 78 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 |
+| 79 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 |
+| 80 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 |
+| 81 | [Keeping Secrets](https://open.spotify.com/track/6Gkl52QI2BIPzMvu3fF3AP) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keeping Secrets \(Ambient Version\)](https://open.spotify.com/album/1pcWYCCNfmYjogMKGZ92pU) | 2:16 |
+| 82 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 |
+| 83 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 |
+| 84 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
+| 85 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `aCRMGAAAAAAx7p5Z1obmFqbI0XhJOAjD`
+Snapshot ID: `aCxo5gAAAACqYGgjZhCfceR+zHPQZSWz`

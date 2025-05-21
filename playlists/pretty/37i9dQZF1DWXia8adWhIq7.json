@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Marcela Ta\u00eds",
-  "num_followers": 106789,
+  "num_followers": 106801,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,26 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
+        "name": "Aqui Vou Eu",
+        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
+      },
+      "artists": [
+        {
+          "name": "Ipalpha Nova",
+          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
+        },
+        {
+          "name": "NOVO CANTO",
+          "url": "https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Aqui Vou Eu",
+      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
         "name": "Flutuar",
         "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 214191,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
-        "name": "Aqui Vou Eu",
-        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
-      },
-      "artists": [
-        {
-          "name": "Ipalpha Nova",
-          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
-        },
-        {
-          "name": "NOVO CANTO",
-          "url": "https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Aqui Vou Eu",
-      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -607,22 +607,22 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
       },
       "artists": [
         {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         },
         {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
         }
       ],
-      "duration_ms": 279191,
-      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -651,38 +651,22 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
+        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
         },
         {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
-        "name": "Desacreditar Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "Desacreditar Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
+      "duration_ms": 279191,
+      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -699,6 +683,22 @@
       "duration_ms": 196306,
       "name": "\u00c9 de Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
+        "name": "Desacreditar Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 225068,
+      "name": "Desacreditar Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
         "name": "SOCORRO",
         "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
-      },
-      "artists": [
-        {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
         "name": "Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
         }
       ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
         "name": "Corre",
         "url": "https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 201600,
       "name": "Corre",
       "url": "https://open.spotify.com/track/78o7oJ7OoxRKJ5RMLh5Cwp"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
         "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
         "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 190023,
       "name": "Enganoso Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
-      },
-      "artists": [
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
     },
     {
       "added_at": "2025-02-21 15:59:40",

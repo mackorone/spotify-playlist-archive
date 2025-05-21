@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: María Peláe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,364 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,368 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 42 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 43 | [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 |
 | 44 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
-| 45 | [Pikete repetido](https://open.spotify.com/track/4Fcw2wlblAwaSEVmdJ8HgC) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Pikete repetido](https://open.spotify.com/album/0tTcg1zipWDJal7jqFE303) | 2:18 |
+| 45 | [Me lo invento](https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Me lo invento](https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj) | 3:15 |
 | 46 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
 | 47 | [ARTIFICIAL REMIX](https://open.spotify.com/track/3jsN5AUIThFnZ6V30i8SAz) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [ARTIFICIAL REMIX](https://open.spotify.com/album/3dA76HYyggLlh71ASxDhbW) | 2:49 |
 | 48 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 |
 | 49 | [Nublado](https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nublado](https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF) | 2:48 |
-| 50 | [PPA](https://open.spotify.com/track/3nRsBosgVvdLLGBGVADgQH) | [Paranoid 1966](https://open.spotify.com/artist/6GP540ZTiOPTz8uI76k43u) | [PPA](https://open.spotify.com/album/015lzPv1uzNDk6X1XM5iYE) | 2:11 |
+| 50 | [FANCY](https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [FANCY](https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH) | 2:23 |
 
 Snapshot ID: `aBqGhgAAAABhGF/tKBudaZWzwc6UzQou`

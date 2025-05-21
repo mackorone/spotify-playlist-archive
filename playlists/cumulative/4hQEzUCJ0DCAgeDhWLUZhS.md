@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-467 songs - 1 day 3 hr 18 min
+468 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 |  |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-01-21 | 2022-03-18 |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-03 |  |
+| [Dust On My Brain](https://open.spotify.com/track/5E9l77EjYGfMEQvjCDc1qX) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Dust On My Brain](https://open.spotify.com/album/4ZxzVGsD6E2OM89NFe6rPH) | 3:11 | 2025-05-20 |  |
 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 | 2021-10-29 |  |
 | [Ease My Mind](https://open.spotify.com/track/2pBRMZKqwdPrrMLZouj5yZ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Ease My Mind](https://open.spotify.com/album/4bdJvHMmM4nZ5VClRTVdqa) | 3:25 | 2021-11-19 |  |
 | [Elaborate Attractions](https://open.spotify.com/track/0Ky4U5952pryWGyCgAnl6b) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [1/2](https://open.spotify.com/album/1gysbgJ8ZrAqrWEgKHl5uN) | 3:06 | 2020-10-10\* | 2021-05-13 |

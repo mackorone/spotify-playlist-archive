@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-144 songs - 7 hr 8 min
+145 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Farmer Flex](https://open.spotify.com/track/0815EkSwweaxTgU3fcfCDZ) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Farmer Flex](https://open.spotify.com/album/6sBMQ4rT0sGjfLawVjbKxP) | 3:34 | 2024-09-09 | 2025-01-21 |
 | [Farraar](https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD) | [Addy B](https://open.spotify.com/artist/2AbdUtRz66AR1qNWEDnKhD), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Farraar](https://open.spotify.com/album/160URWYJYPC9W5VDj25Hoc) | 3:30 | 2023-08-30 | 2024-03-02 |
 | [Fitness](https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND) | [Gagan Haryanvi](https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Fitness \- Single](https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U) | 4:00 | 2023-10-03 | 2023-12-23 |
-| [Flex](https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Flex](https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod) | 3:06 | 2024-10-23 |  |
+| [Flex](https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Flex](https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod) | 3:06 | 2024-10-23 | 2025-05-21 |
 | [Gaadi Desiyan Ki](https://open.spotify.com/track/1bi3ume3cSnvQssluzdLG8) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/2pq8qaJMYuQI7VJqqHP7hD) | 2:37 | 2023-07-24 | 2024-04-19 |
 | [Gaadi Desiyan Ki](https://open.spotify.com/track/29LASRlIKyyLWdblS6EtHT) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/6AnLuEjSLhEfvvPyz4uspt) | 2:37 | 2024-04-17 | 2024-05-10 |
 | [Gaadi Nuye Chalegi](https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb) | [R Maan](https://open.spotify.com/artist/1I3EawcCTzAYZtonoobkuU), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Gaadi Nuye Chalegi](https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8) | 2:50 | 2023-07-24 | 2025-04-14 |
@@ -89,6 +89,7 @@
 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 | 2023-07-24 |  |
 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 | 2023-12-22 |  |
 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 | 2023-07-24 |  |
+| [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 | 2025-05-16 |  |
 | [Level](https://open.spotify.com/track/1a6S5ZjbivvNV4YsMzdwFw) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Level](https://open.spotify.com/album/4vQgA1reUgBBX5MiKoTgF0) | 2:37 | 2023-10-09 | 2023-11-10 |
 | [Lottery](https://open.spotify.com/track/42A2WoczSY0mIuryZKLgSp) | [Jaggi Nagar](https://open.spotify.com/artist/3a7N0IvnxFzrL1Xpy4olZy), [Shawn](https://open.spotify.com/artist/7AyhM12M2NRVrVWesXMq7P), [Montee Akanwali](https://open.spotify.com/artist/1reYxH1OEWqlblyCGwmqBR) | [Lottery](https://open.spotify.com/album/4MpdIGbhJ4wELGiscjivyF) | 2:34 | 2025-01-20 | 2025-05-19 |
 | [Manas Maar](https://open.spotify.com/track/6oV5XakaaQ2YMpk7hgEhxU) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn), [Manjeet Mor](https://open.spotify.com/artist/78slqekUy3ukaQNoEmrBWh), [Nidhi Negi](https://open.spotify.com/artist/2JVmFhx7dBCmJEnnRsxTIY) | [Manas Maar](https://open.spotify.com/album/0ZXdPbjmNMNCdCUoIJGiC4) | 2:29 | 2025-02-27 |  |

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-416 songs - 22 hr 15 min
+417 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Telephone](https://open.spotify.com/track/4Z14OEDS8ryZxcr2co4P9U) | [Louis LS](https://open.spotify.com/artist/3sN5oyOnNGOETUpAA50xYW) | [Telephone](https://open.spotify.com/album/14KtnblxrNmq7ToGOp0PBq) | 2:21 | 2024-05-14 | 2024-09-12 |
 | [Tell Me Something](https://open.spotify.com/track/7LRzmoO4nCxxWOh9oLiqFN) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Tell Me Something](https://open.spotify.com/album/5jgQXB2zG15VBgEOzGrdff) | 3:36 | 2024-02-20 | 2024-07-10 |
 | [Tenderness](https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f) | [Postcards](https://open.spotify.com/artist/4sYpDKlRs59ghPkLeg5kHe) | [Tenderness](https://open.spotify.com/album/0NlHvrJ3gwHFL4FcYY3HbC) | 2:42 | 2023-04-11 | 2023-04-27 |
-| [The Accident](https://open.spotify.com/track/53t2tLPXz8VL58tdIqtZUK) | [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [NASR](https://open.spotify.com/artist/7n2BhGadR70t9jaY7eeoeE) | [The Accident](https://open.spotify.com/album/0cHPUBfsTeJCcdX1Xt2n4c) | 5:02 | 2024-11-06 |  |
+| [The Accident](https://open.spotify.com/track/53t2tLPXz8VL58tdIqtZUK) | [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [NASR](https://open.spotify.com/artist/7n2BhGadR70t9jaY7eeoeE) | [The Accident](https://open.spotify.com/album/0cHPUBfsTeJCcdX1Xt2n4c) | 5:02 | 2024-11-06 | 2025-05-21 |
 | [The Storm](https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk) | [Interbellum](https://open.spotify.com/artist/4jKRYWPmm8hBIqRrD0wFbO) | [Our House Is Very Beautiful at Night](https://open.spotify.com/album/4FxKW6gUtwVVjXR843TLla) | 3:22 | 2023-04-11 | 2023-04-27 |
 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 | 2023-03-14 | 2023-05-24 |
 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 | 2022-09-20 | 2023-03-22 |
@@ -401,6 +401,7 @@
 | [الورود](https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [الورود](https://open.spotify.com/album/5lHlJTXmNbWAnk8D9kqDgO) | 2:22 | 2023-03-01 | 2023-03-14 |
 | [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-07 | 2023-03-15 |
 | [انا بعيد](https://open.spotify.com/track/7MaHcIjcqR7lGxmZDXAhDO) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [انا بعيد](https://open.spotify.com/album/4THTNtqBn0ux8S5GBBTDLg) | 3:34 | 2023-03-07 | 2023-05-24 |
+| [برقص عل احزان](https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [برقص عل احزان](https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw) | 1:52 | 2025-05-20 |  |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2022-09-20 | 2022-09-28 |
 | [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 | 2025-01-22 |  |
 | [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 |  |

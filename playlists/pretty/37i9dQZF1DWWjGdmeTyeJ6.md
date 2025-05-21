@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Emma\-Jean Thackray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,771 likes - 243 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,759 likes - 243 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

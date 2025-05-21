@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125316,
+  "num_followers": 125313,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUGTdr0uzzpmesZ4ZE77WVnMXwAvT7",
+  "snapshot_id": "AAAUG6DEgYE2aNhgkELYPBABxHkEaHva",
   "tracks": [
+    {
+      "added_at": "2025-05-20 15:49:47",
+      "album": {
+        "name": "Eucalyptus",
+        "url": "https://open.spotify.com/album/700EBo3VDkXqSssWGjCFMl"
+      },
+      "artists": [
+        {
+          "name": "Flexible Fire",
+          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
+        },
+        {
+          "name": "Dias Ridge",
+          "url": "https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Eucalyptus",
+      "url": "https://open.spotify.com/track/6Clt8DqNy7pvteaNfwSTDI"
+    },
+    {
+      "added_at": "2025-05-20 15:49:26",
+      "album": {
+        "name": "LIGHTSHOW",
+        "url": "https://open.spotify.com/album/79ZaRE4ev6xGaY1p4Tl5sn"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "duration_ms": 145054,
+      "name": "LIGHTSHOW",
+      "url": "https://open.spotify.com/track/4adPSM4awRZkMR24DmZ3gj"
+    },
     {
       "added_at": "2025-05-16 14:08:42",
       "album": {

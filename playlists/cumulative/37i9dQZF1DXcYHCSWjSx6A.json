@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "Good Bad Ugly [TAMIL]",
+        "url": "https://open.spotify.com/album/2HGpHw3UR9kqSeiVyjO0MC"
+      },
+      "artists": [
+        {
+          "name": "Darkkey",
+          "url": "https://open.spotify.com/artist/04RZUhq6dIFyX9eJYij92Q"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203053,
+      "name": "Ak - The Tiger",
+      "url": "https://open.spotify.com/track/6XyeIcCT97drM5lzi9Pq88"
+    },
+    {
+      "album": {
         "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
         "url": "https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt"
       },
@@ -512,7 +534,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 166372,
       "name": "Kadhal Psycho",
       "url": "https://open.spotify.com/track/5KAIBGTYKIYQ0OsSvUDQdU"
@@ -744,6 +766,32 @@
       "duration_ms": 254345,
       "name": "Naanga Vera Maari (From \"Valimai\")",
       "url": "https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X"
+    },
+    {
+      "album": {
+        "name": "Good Bad Ugly [TAMIL]",
+        "url": "https://open.spotify.com/album/2HGpHw3UR9kqSeiVyjO0MC"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Adhik Ravi Chandran",
+          "url": "https://open.spotify.com/artist/4Mc4AjHZb70VJsiV3BhWCu"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198101,
+      "name": "Og Sambavam",
+      "url": "https://open.spotify.com/track/0PUsbQjwaYos1H2zRHOaJD"
     },
     {
       "album": {
@@ -1450,7 +1498,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 236555,
       "name": "VIP Title Song",
       "url": "https://open.spotify.com/track/76KBWPw8On2hdcDz4jXXKR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,475 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,515 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 43 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 44 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 |
 | 45 | [Going On](https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Going On](https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P) | 2:38 |
-| 46 | [Closure](https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK) | [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Closure](https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1) | 4:19 |
-| 47 | [All Dancing Under The Same Sky](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 |
+| 46 | [My Vibe](https://open.spotify.com/track/7HFkxGzL9Opf1vMlaokRqC) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [honeygirl](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [My Vibe](https://open.spotify.com/album/4QrIXQCRIPqx2jLqUykSrY) | 2:41 |
+| 47 | [Closure](https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK) | [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Closure](https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1) | 4:19 |
 | 48 | [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/track/08C8eHg9dK6m3846bm3100) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo) | [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW) | 2:52 |
 | 49 | [Shining](https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light \(Deluxe Version\)](https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN) | 3:23 |
-| 50 | [My Vibe](https://open.spotify.com/track/7HFkxGzL9Opf1vMlaokRqC) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [honeygirl](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [My Vibe](https://open.spotify.com/album/4QrIXQCRIPqx2jLqUykSrY) | 2:41 |
+| 50 | [All Dancing Under The Same Sky](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 |
 | 51 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 |
 | 52 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
 | 53 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 55 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 |
 | 56 | [Dreaming Of You](https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Dreaming Of You](https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM) | 4:19 |
 | 57 | [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 |
-| 58 | [I Can't Forget You](https://open.spotify.com/track/4fxjNTmcKzS83xYigEC8cp) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [I Can't Forget You](https://open.spotify.com/album/22isBBRfzRQ2QuHDn00D8k) | 4:23 |
-| 59 | [may i have this dance](https://open.spotify.com/track/5Mrqn04grzdpucJgoYtqfs) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [may i have this dance](https://open.spotify.com/album/0hItfKP7cGQqLyQgoopNNw) | 3:02 |
+| 58 | [may i have this dance](https://open.spotify.com/track/5Mrqn04grzdpucJgoYtqfs) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [may i have this dance](https://open.spotify.com/album/0hItfKP7cGQqLyQgoopNNw) | 3:02 |
+| 59 | [I Can't Forget You](https://open.spotify.com/track/4fxjNTmcKzS83xYigEC8cp) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [I Can't Forget You](https://open.spotify.com/album/22isBBRfzRQ2QuHDn00D8k) | 4:23 |
 | 60 | [Everything In Its Right Place](https://open.spotify.com/track/746B9KoiVS1vOU7bqj2ayD) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Everything In Its Right Place](https://open.spotify.com/album/0qpueDQNULFJYh1eQJYKhH) | 5:22 |
 
 Snapshot ID: `aBqiiwAAAAAliBcRGrGsvit9nyPaRBQB`

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: garbagepink
+> Celebrating 10 years of the best new music by independent artists in the Nordics\. Cover: garbagepink
 
 1,068 songs - 2 day 8 hr 13 min
 

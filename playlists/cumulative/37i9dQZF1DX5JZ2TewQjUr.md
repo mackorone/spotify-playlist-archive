@@ -2,7 +2,7 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Noisy Charlie
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: RowdyRoadie
 
 1,420 songs - 3 day 8 hr 7 min
 

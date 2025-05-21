@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
 
-147 songs - 6 hr 20 min
+148 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-12 | 2024-02-21 |
 | [Sexiest Soul](https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [Sexiest Soul](https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd) | 2:26 | 2024-03-15 | 2024-06-01 |
 | [Shot Caller](https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Shot Caller](https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8) | 2:31 | 2023-12-01 | 2024-06-19 |
+| [SISTA WIVES \- from the Short Film "Red Clay"](https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SISTA WIVES \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng) | 2:29 | 2025-05-20 |  |
 | [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 | 2024-12-09 | 2025-03-05 |
 | [Slut](https://open.spotify.com/track/4y09z2lAF40PebZLUmFdNv) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu) | [Slut](https://open.spotify.com/album/3nAU88uRQbbuT5hlPBtom3) | 2:22 | 2023-08-11 | 2024-02-21 |
 | [Sneaky Link](https://open.spotify.com/track/4dPaEnjUaBjG3ukUHMeNDl) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [NyNy](https://open.spotify.com/artist/37ANmItcvVWbBEROrO5g33) | [Sneaky Link](https://open.spotify.com/album/66q0tnzglsn6fHdeDHF8T8) | 2:26 | 2023-07-24 | 2024-05-21 |

@@ -8061,6 +8061,28 @@
     },
     {
       "album": {
+        "name": "Cybernetic",
+        "url": "https://open.spotify.com/album/3S1Bumags0wKF9r8Qz6Z56"
+      },
+      "artists": [
+        {
+          "name": "Kieran San Jose",
+          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+        },
+        {
+          "name": "Stefan Andreas",
+          "url": "https://open.spotify.com/artist/6laD0TQXzg1mJ1OoevleWq"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "Cybernetic",
+      "url": "https://open.spotify.com/track/7xU7byffPdgBM2YTC7khO1"
+    },
+    {
+      "album": {
         "name": "D.A.N.C.E",
         "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
       },
@@ -8406,7 +8428,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 136190,
       "name": "Dance Machine",
       "url": "https://open.spotify.com/track/7LFnn4s6e9KoDVR0Zha2nt"
@@ -19378,7 +19400,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
@@ -24408,6 +24430,24 @@
       "duration_ms": 401933,
       "name": "Mine To Give",
       "url": "https://open.spotify.com/track/4MhtTGIHqEUzJ2tfKNDPyq"
+    },
+    {
+      "album": {
+        "name": "Mini Skirt",
+        "url": "https://open.spotify.com/album/4NpIh9I4emuBz2Y2cCeAHY"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/6jjrocWIjjUw4ar7RlguBQ"
     },
     {
       "album": {

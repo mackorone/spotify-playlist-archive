@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Walk Along the Seine",
+        "url": "https://open.spotify.com/album/6i64uiYslHoDvAmP9U2gLW"
+      },
+      "artists": [
+        {
+          "name": "Saverio Lobeone",
+          "url": "https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131048,
+      "name": "A Walk Along the Seine",
+      "url": "https://open.spotify.com/track/5X1UIUwfELwhImAfkIGfMD"
+    },
+    {
+      "album": {
         "name": "Abbotsbury",
         "url": "https://open.spotify.com/album/6xI5KVTGlWKNyeg2BCkx4e"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 146271,
       "name": "Breathe Easy",
       "url": "https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 127327,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0AZQYsPjwWB1Zd8KCRCp2m"
@@ -5326,6 +5344,24 @@
       "duration_ms": 185041,
       "name": "Time Passed",
       "url": "https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq"
+    },
+    {
+      "album": {
+        "name": "Time Will Heal",
+        "url": "https://open.spotify.com/album/2DrVkyMIctHhYWz0WU7Vfj"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147944,
+      "name": "Time Will Heal",
+      "url": "https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ"
     },
     {
       "album": {

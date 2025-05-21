@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 178636,
       "name": "From Another View",
       "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
@@ -8467,6 +8467,24 @@
     },
     {
       "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/1lUtMD1IwmIaxMMc4KxHJu"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/4iefI73u9sh2kf8BPVchW8"
+    },
+    {
+      "album": {
         "name": "Reasons For Being",
         "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
       },
@@ -9709,6 +9727,24 @@
     },
     {
       "album": {
+        "name": "Sl\u00f6",
+        "url": "https://open.spotify.com/album/5qBHNq1nzqLjZ2L3pryNuR"
+      },
+      "artists": [
+        {
+          "name": "Visual Flow",
+          "url": "https://open.spotify.com/artist/1JWRuM0jwY2GwjWbCoMKCv"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162869,
+      "name": "Sl\u00f6",
+      "url": "https://open.spotify.com/track/1cX6G9nfff3suCdVODg8uN"
+    },
+    {
+      "album": {
         "name": "Vast Surroundings",
         "url": "https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U"
       },
@@ -9972,7 +10008,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 147770,
       "name": "Sovande",
       "url": "https://open.spotify.com/track/1dJJWFg94Ogmq3aiILfwv8"
@@ -10260,7 +10296,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 217325,
       "name": "Sun After Rain",
       "url": "https://open.spotify.com/track/1rHaObkGQTKVEczgDrbREy"

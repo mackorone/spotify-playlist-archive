@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Doona ",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Chevon",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1512,10 +1512,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
+    },
+    {
+      "album": {
+        "name": "DUA\uff65RHYTHM",
+        "url": "https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "DUA\uff65RHYTHM",
+      "url": "https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 194573,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/5Ar1pSMJ6wG8zhWMeuYlJy"
@@ -4406,7 +4424,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 281624,
       "name": "RUMBLE",
       "url": "https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU"

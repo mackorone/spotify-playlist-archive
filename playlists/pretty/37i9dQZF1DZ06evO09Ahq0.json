@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 514056,
+  "num_followers": 514177,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCkjAAAAAABxJe1XlnqlzyYvI1CCnIZa",
+  "snapshot_id": "aCp0gAAAAACXmduCipJVdVeQoTDUJOJO",
   "tracks": [
     {
       "added_at": null,
@@ -204,7 +204,7 @@
       "added_at": null,
       "album": {
         "name": "Nightmare",
-        "url": "https://open.spotify.com/album/1kZNgA27ewArSfE17yog8U"
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 328386,
-      "name": "Danger Line",
-      "url": "https://open.spotify.com/track/5mbXd14GteojYPpciTLYDk"
+      "duration_ms": 326813,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa"
     },
     {
       "added_at": null,
@@ -268,7 +268,7 @@
       "added_at": null,
       "album": {
         "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+        "url": "https://open.spotify.com/album/1kZNgA27ewArSfE17yog8U"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 326813,
-      "name": "So Far Away",
-      "url": "https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa"
+      "duration_ms": 328386,
+      "name": "Danger Line",
+      "url": "https://open.spotify.com/track/5mbXd14GteojYPpciTLYDk"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounding The Seventh Trumpet",
-        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "Warmness On The Soul",
-      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds in the Rough",
         "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 285613,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounding The Seventh Trumpet",
+        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "Warmness On The Soul",
+      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
     },
     {
       "added_at": null,

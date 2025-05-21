@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Bagatelle",
+        "url": "https://open.spotify.com/album/1MgdAWw1nfS5B7WJkPY11S"
+      },
+      "artists": [
+        {
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174507,
+      "name": "Bagatelle",
+      "url": "https://open.spotify.com/track/0aQU6LlCHEpzCPMV6P9wSr"
+    },
+    {
+      "album": {
         "name": "Can't Be Replaced",
         "url": "https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi"
       },
@@ -290,6 +308,24 @@
       "duration_ms": 138000,
       "name": "Dream Currents",
       "url": "https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx"
+    },
+    {
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lull",
+          "url": "https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164756,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/7yZcjQGSDcKdxAmxJ7rvqd"
     },
     {
       "album": {

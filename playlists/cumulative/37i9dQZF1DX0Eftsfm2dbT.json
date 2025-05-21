@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "POP YOURS\u958b\u50ac\u307e\u3067\u3042\u30684\u65e5! // J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: Daichi Yamamoto",
+  "description": "POP YOURS\u958b\u50ac\u307e\u3067\u3042\u30683\u65e5! // J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: Elle Teresa, swetty",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "N.I.T.O.",
+        "url": "https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1"
+      },
+      "artists": [
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160568,
+      "name": "412",
+      "url": "https://open.spotify.com/track/2DbV4QmATThwgFEcY6VsqC"
+    },
+    {
+      "album": {
         "name": "\u89aa\u5b50\u661f",
         "url": "https://open.spotify.com/album/7GU3fQyllwpkTbOvCkb5al"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 150478,
       "name": "4AM (feat. D3adStock)",
       "url": "https://open.spotify.com/track/5ypkwGM8DGaMqTjeDddis5"
@@ -2316,10 +2334,48 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 333765,
       "name": "ASIAN STATE OF MIND",
       "url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S"
+    },
+    {
+      "album": {
+        "name": "Asobo (feat. Awich, MonyHorse, PETZ, JNKMN & kZm)",
+        "url": "https://open.spotify.com/album/7vPTy5MFRLzIVhCqRv2s6j"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202401,
+      "name": "Asobo (feat. Awich, MonyHorse, PETZ, JNKMN & kZm)",
+      "url": "https://open.spotify.com/track/3Xg49Os6ICrKw7QF0OOmdT"
     },
     {
       "album": {
@@ -6726,7 +6782,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 206776,
       "name": "Daydreamin' (feat. Gottz & 7)",
       "url": "https://open.spotify.com/track/1m1VTQzfhykhNqOMhRfCb2"
@@ -6752,7 +6808,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 199016,
       "name": "Daydreamin' - LIVE at TOKYO GARDEN THEATER",
       "url": "https://open.spotify.com/track/3A5t1utrWjEntrUnhcVxgd"
@@ -7949,6 +8005,28 @@
     },
     {
       "album": {
+        "name": "DOSHABURI (PAS TASTA Remix)",
+        "url": "https://open.spotify.com/album/13FVOSJLA7OHIN3A0Hy8Lr"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "DOSHABURI - PAS TASTA Remix",
+      "url": "https://open.spotify.com/track/3viw0dgiavzIFmsQeFsm3r"
+    },
+    {
+      "album": {
         "name": "DOSHABURI (Remix)",
         "url": "https://open.spotify.com/album/1niQ3Lv07r3c1hJiixXKKp"
       },
@@ -8328,6 +8406,24 @@
       "duration_ms": 267360,
       "name": "E:motion",
       "url": "https://open.spotify.com/track/1kLblIgRQlJsSKbvFXjGwB"
+    },
+    {
+      "album": {
+        "name": "Early Summer",
+        "url": "https://open.spotify.com/album/6IfwHf9buNwdjT8ceZJDLo"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168100,
+      "name": "Early Summer",
+      "url": "https://open.spotify.com/track/5rZcICNasYZHmI5b4KzKPU"
     },
     {
       "album": {
@@ -11864,7 +11960,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 149850,
       "name": "Haneda",
       "url": "https://open.spotify.com/track/7Jl9wzLvhB1lGceFLbQ762"
@@ -17490,7 +17586,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 187000,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6CLe2yX8UTEClxLwy02sTh"
@@ -17656,6 +17752,28 @@
       "duration_ms": 237272,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/2Zc7icahi8NN4Iw1jILcZz"
+    },
+    {
+      "album": {
+        "name": "Member (feat. ShowyRENZO)",
+        "url": "https://open.spotify.com/album/66shhhriR1vz2DBCunUVZe"
+      },
+      "artists": [
+        {
+          "name": "Ixtab",
+          "url": "https://open.spotify.com/artist/3fsX2HxtTDRmncdNQj5bBg"
+        },
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Member (feat. ShowyRENZO)",
+      "url": "https://open.spotify.com/track/1mqnncsZqdnpEYhr8AhpyP"
     },
     {
       "album": {
@@ -19768,6 +19886,24 @@
       "duration_ms": 244800,
       "name": "NEW DAY - 6.do & MARZY Remix",
       "url": "https://open.spotify.com/track/5BRLjsOWAhvJXvPip9bX3f"
+    },
+    {
+      "album": {
+        "name": "New Deal",
+        "url": "https://open.spotify.com/album/2VohHzJmRt2r4JUf4BlH8z"
+      },
+      "artists": [
+        {
+          "name": "Flat Line Classics",
+          "url": "https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "New Deal",
+      "url": "https://open.spotify.com/track/1QRgugkScWtGPz6xNSldKG"
     },
     {
       "album": {
@@ -26340,7 +26476,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 194772,
       "name": "Skyscraper and Francesca",
       "url": "https://open.spotify.com/track/7GA8sfnjmRbATXVi9wvNXl"
@@ -26934,6 +27070,24 @@
       "duration_ms": 246149,
       "name": "sotugyo",
       "url": "https://open.spotify.com/track/5Qy8wJBlfV8572Dzdj36xu"
+    },
+    {
+      "album": {
+        "name": "Sound Body",
+        "url": "https://open.spotify.com/album/4h1PrQAsqZ792z418t55bY"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158764,
+      "name": "Sound Body",
+      "url": "https://open.spotify.com/track/3hp7GJP9aRyWxkEyhe4XOI"
     },
     {
       "album": {
@@ -29122,6 +29276,32 @@
       "duration_ms": 129050,
       "name": "Till I Die",
       "url": "https://open.spotify.com/track/2PgVWDAKaw6QGcNtMQYJrK"
+    },
+    {
+      "album": {
+        "name": "TIME (feat. MFS)",
+        "url": "https://open.spotify.com/album/0HV5q1uZKOy1UZOSaNPT7B"
+      },
+      "artists": [
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148524,
+      "name": "TIME (feat. MFS)",
+      "url": "https://open.spotify.com/track/1JLgk1V5LbfxQKvnFXec4g"
     },
     {
       "album": {
@@ -32499,6 +32679,24 @@
     },
     {
       "album": {
+        "name": "Yeah Yeah Yeah",
+        "url": "https://open.spotify.com/album/18jK9TRkVAPIk6PVcCUzXG"
+      },
+      "artists": [
+        {
+          "name": "NORIKIYO",
+          "url": "https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242245,
+      "name": "Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/63gPQcPHQ5RKt33RUIOnb4"
+    },
+    {
+      "album": {
         "name": "YEAH!!",
         "url": "https://open.spotify.com/album/7HN4rVXrJ40DzW79qw1CS6"
       },
@@ -32774,7 +32972,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 197545,
       "name": "You Know What I Mean?",
       "url": "https://open.spotify.com/track/5V6zkWyDw2eLh0u0dHfbN1"
@@ -35463,6 +35661,28 @@
     },
     {
       "album": {
+        "name": "\u65b0\u3057\u3044\u53cb\u9054\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0U4BaXJCAdqGDS0SjuaHyZ"
+      },
+      "artists": [
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        },
+        {
+          "name": "DubbyMaple",
+          "url": "https://open.spotify.com/artist/2Y0nGXu6bM3bvR16LDbuKX"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158985,
+      "name": "\u65b0\u3057\u3044\u53cb\u9054\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/6hRVNat0GUcPM9dOXshp8N"
+    },
+    {
+      "album": {
         "name": "\u660e\u308b\u3044\u90e8\u5c4b",
         "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
       },
@@ -36068,7 +36288,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 151275,
       "name": "\u7d46 (feat. Search)",
       "url": "https://open.spotify.com/track/5GxoOyohHROqNZZzv3NTg4"

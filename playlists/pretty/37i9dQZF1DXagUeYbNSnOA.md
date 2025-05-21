@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels, featuring Matt Louis\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,430 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,433 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Arcoíris](https://open.spotify.com/track/2AyxrjNepxVARAfW65eE0X) | [Nono](https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p), [Molly 69](https://open.spotify.com/artist/5FdgZeqcYEgRmeJIWLMwYH), [ANDER](https://open.spotify.com/artist/5G93rBVfuixBTPO4BoHxvF) | [Arcoíris](https://open.spotify.com/album/5mBUOmesGlwmmpOkhIfrhg) | 2:44 |
 | 50 | [Día de Sol](https://open.spotify.com/track/2HM7nQ56ZXG5UncED9c1K7) | [Pierre Le Fonde](https://open.spotify.com/artist/4nE6eq3FpUv4I1YKkXyweK) | [Día de Sol](https://open.spotify.com/album/2QLWVmZrVoRjoJq1S97894) | 2:15 |
 
-Snapshot ID: `aCuKVwAAAAA9TAJP34doTyyu8Ra0F5KT`
+Snapshot ID: `aCuKVwAAAACljnhhJMet9gRBeSJhctbk`

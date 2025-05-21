@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Duskveil",
+        "url": "https://open.spotify.com/album/3arZlYaEzG23SpaWDM9kwO"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Reverie",
+          "url": "https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "Duskveil",
+      "url": "https://open.spotify.com/track/5PHG6zIU3TVPkrhjxfIndk"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY"
       },
@@ -4362,6 +4380,24 @@
       "duration_ms": 184800,
       "name": "Ethereal Echoes",
       "url": "https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s"
+    },
+    {
+      "album": {
+        "name": "Ethereal Waves",
+        "url": "https://open.spotify.com/album/2QTKxexNGpnwGtfo82Mu6Z"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Ethereal Waves",
+      "url": "https://open.spotify.com/track/1Nct3sYCWShQT1AxaRmIOz"
     },
     {
       "album": {
@@ -7436,7 +7472,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 171940,
       "name": "Miravar",
       "url": "https://open.spotify.com/track/5iEcnvMT4iEPjDihzlq4Ns"
@@ -9132,7 +9168,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 185000,
       "name": "Quiet",
       "url": "https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7"

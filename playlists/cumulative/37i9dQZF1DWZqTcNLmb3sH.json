@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Firefly",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Sarala Subbarao",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -1104,6 +1104,32 @@
       "duration_ms": 243271,
       "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
+    },
+    {
+      "album": {
+        "name": "Agnyathavasi Theme Song (From \"Agnyathavasi\")",
+        "url": "https://open.spotify.com/album/4SMPCvGLF3G8YtN3yyq6l7"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Narayan Sharma",
+          "url": "https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271269,
+      "name": "Agnyathavasi Theme Song (From \"Agnyathavasi\")",
+      "url": "https://open.spotify.com/track/7qpRDfziOXmDFkvHMoxPT9"
     },
     {
       "album": {
@@ -6262,7 +6288,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 253089,
       "name": "Change Over - From \"Kandor Mane Kathe\"",
       "url": "https://open.spotify.com/track/06vzzVDheqGf9y7mj9FtBp"
@@ -16912,7 +16938,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 268480,
       "name": "Kaddhukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
       "url": "https://open.spotify.com/track/2PHeUj9CAvzmy6iC4tMQ07"
@@ -19456,6 +19482,32 @@
       "duration_ms": 231801,
       "name": "Let's Go Savari",
       "url": "https://open.spotify.com/track/6B4GVbWZ0AQlRUvn09dVt1"
+    },
+    {
+      "album": {
+        "name": "Let's Live This Moment (From \"Junior\")(Kannada)",
+        "url": "https://open.spotify.com/album/3DRWsBa1euuVy7cXVLwAek"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Pavan Bhat",
+          "url": "https://open.spotify.com/artist/5LrMAdiDw5Z1vv0J8Ik42T"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246553,
+      "name": "Let's Live This Moment (From \"Junior\")(Kannada)",
+      "url": "https://open.spotify.com/track/7b6XrluVCNlmtee5EoX3Cf"
     },
     {
       "album": {
@@ -24730,7 +24782,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 201040,
       "name": "Nanna Iniyana Neleya (From \"Sanju Weds Geetha 2\")",
       "url": "https://open.spotify.com/track/54XTt4EXbxQz8D5VJHi7wI"
@@ -31467,6 +31519,32 @@
     },
     {
       "album": {
+        "name": "Rangoli (From \"Sarala Subbarao\")",
+        "url": "https://open.spotify.com/album/5Hem7oTNC4elcTlwnpe56p"
+      },
+      "artists": [
+        {
+          "name": "B.Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239291,
+      "name": "Rangoli (From \"Sarala Subbarao\")",
+      "url": "https://open.spotify.com/track/2DQKzsl3tAzEo2uhQZ23yz"
+    },
+    {
+      "album": {
         "name": "Rasika Baaro (From \"Mr. Bachelor\")",
         "url": "https://open.spotify.com/album/1taXgVueqWwlC9HFFvmYVT"
       },
@@ -33912,10 +33990,36 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 236000,
       "name": "Singleagiddhe Nannu (From \"Kuchuku\")",
       "url": "https://open.spotify.com/track/39u9HzPxlVyzJ4WI0RQKAA"
+    },
+    {
+      "album": {
+        "name": "Sleepless Anthem (From \"Nidradevi Next Door\")",
+        "url": "https://open.spotify.com/album/0hvcW91Oybyux12pK5VWNB"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Gubbi",
+          "url": "https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3"
+        },
+        {
+          "name": "Saif Khan",
+          "url": "https://open.spotify.com/artist/2jNhDikr3JvlvU1wFCKAun"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194670,
+      "name": "Sleepless Anthem (From \"Nidradevi Next Door\")",
+      "url": "https://open.spotify.com/track/32R9RAZ2CqPSoBGW4tx7xV"
     },
     {
       "album": {

@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "harunone",
+        "url": "https://open.spotify.com/album/1s3ZPjmQ7ZX6UOrIh4W43w"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "harunone",
+      "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
+    },
+    {
+      "album": {
         "name": "Have a nice day",
         "url": "https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 175693,
       "name": "Have a nice day",
       "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
@@ -2193,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Message",
+        "url": "https://open.spotify.com/album/46CtRn5cgpV5xkTQ7xIb5u"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245253,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/7zcxUs7fDG2YPyYmbVDQlO"
+    },
+    {
+      "album": {
         "name": "\u9b42\u306e\u30cf\u30a4\u30a6\u30a7\u30a4",
         "url": "https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N"
       },
@@ -2696,6 +2732,32 @@
       "duration_ms": 158000,
       "name": "Refrain",
       "url": "https://open.spotify.com/track/2pK4IIWrmy0HoPeJK7ITSK"
+    },
+    {
+      "album": {
+        "name": "RENDEZVOUS (feat. hard life)",
+        "url": "https://open.spotify.com/album/6KeUu57PZdCQyJVU4A4iSG"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        },
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185999,
+      "name": "RENDEZVOUS - feat. hard life",
+      "url": "https://open.spotify.com/track/7IW75vzcw6xcJUIQBBEbfe"
     },
     {
       "album": {
@@ -4952,7 +5014,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 203846,
       "name": "\u30cd\u30aa\u30f3\u3092\u6d88\u3057\u3066",
       "url": "https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50"
@@ -6250,7 +6312,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 194319,
       "name": "\u732b\u306b\u30b8\u30a7\u30e9\u30b7\u30fc",
       "url": "https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S"

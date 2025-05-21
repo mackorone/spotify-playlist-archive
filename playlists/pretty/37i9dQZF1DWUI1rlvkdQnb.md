@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,238 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,233 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 99 | [Sense of Peace](https://open.spotify.com/track/2gjP5Kqd1L7WN0jWmbrL5e) | [Keanna Elsdon](https://open.spotify.com/artist/7aCTQb9ffSuNsbwJJbpxz3) | [Sense of Peace](https://open.spotify.com/album/1HcOJv7VSB3YeDJG0vTeqO) | 2:24 |
 | 100 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 |
 
-Snapshot ID: `aBoCrwAAAAAVZtBHLyeBFeoOkGuReSb/`
+Snapshot ID: `aBoCrwAAAACqZPBNOIwjtJMY4SY5LMRt`

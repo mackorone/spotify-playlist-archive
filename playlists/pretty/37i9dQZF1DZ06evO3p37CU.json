@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22165,
+  "num_followers": 22164,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCkjAAAAAABWIX4n4cGAMkiiVgI7os16",
+  "snapshot_id": "aCp0gAAAAAA+Ez1+8Ib+X2yyEqv2pjcZ",
   "tracks": [
     {
       "added_at": null,
@@ -1095,6 +1095,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Gun 3",
+        "url": "https://open.spotify.com/album/05abH0jre9UAK7UW7iQWb1"
+      },
+      "artists": [
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "duration_ms": 198759,
+      "name": "Good Cookin'",
+      "url": "https://open.spotify.com/track/5iRMsXRUuPWZwIrBaua5EY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -1131,34 +1159,6 @@
       "duration_ms": 240288,
       "name": "ALL EYES ON ME",
       "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Gun 3",
-        "url": "https://open.spotify.com/album/05abH0jre9UAK7UW7iQWb1"
-      },
-      "artists": [
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        }
-      ],
-      "duration_ms": 198759,
-      "name": "Good Cookin'",
-      "url": "https://open.spotify.com/track/5iRMsXRUuPWZwIrBaua5EY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb?si=gmJBL\-MmTzm0J\_kHtB\_Dug"> Naomi Sharon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,572 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,581 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

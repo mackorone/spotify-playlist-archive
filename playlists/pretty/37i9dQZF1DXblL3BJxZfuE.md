@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblL3BJxZfuE.md) - [plain]
 
 > Enjoy music from "Sound! Euphonium"! /「響け！ユーフォニアム」の楽曲を１つのプレイリストに。©武田綾乃・宝島社／『響け！』製作委員会2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,333 likes - 82 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,340 likes - 82 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblL3BJxZfuE.md) - [plain]
 | 81 | [Golden Halo](https://open.spotify.com/track/0EzDjAr37jop7pZer5M70Z) | [高坂麗奈 \(CV.安済知佳\)](https://open.spotify.com/artist/4FQEbStLFFjDH2TLg8ygCv) | [TVアニメ『響け！ユーフォニアム』キャラクターソング Vol.4](https://open.spotify.com/album/1iVp33p1vDOHc6Ddp6isit) | 4:11 |
 | 82 | [北宇治四重奏 第4番 トランペット](https://open.spotify.com/track/5f9bQfxWGZo98Z1V3n3BW0) | [松田彬人](https://open.spotify.com/artist/4M3dmIzlttQpX4aiJwb2z1) | [TVアニメ『響け！ユーフォニアム』キャラクターソング Vol.4](https://open.spotify.com/album/1iVp33p1vDOHc6Ddp6isit) | 4:12 |
 
-Snapshot ID: `ZumZcAAAAAAnGA4xkXao4p/dFjmP03N9`
+Snapshot ID: `ZumZcAAAAACapfyFYYj2rcVhzFFd4IZB`

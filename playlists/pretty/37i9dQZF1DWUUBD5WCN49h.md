@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Sam Opuku
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,868 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,876 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [GOLIATH](https://open.spotify.com/track/5cI5ynzXU4SsRql9dKYnmR) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/12BoH0Ap35t0UyiuSXTMQC) | 2:34 |
 | 70 | [Heartbreak](https://open.spotify.com/track/4Ra86g92ZKzJmK2tgEGJyG) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [MOONFLOWER](https://open.spotify.com/album/6CawYzSZtNzU5MvmuzbQnR) | 2:31 |
 
-Snapshot ID: `AAAAAD5f4Sfo2iBQejNArn7wYNcUyZ8E`
+Snapshot ID: `aCbpawAAAAAHMiHfMcugjcgua4odfXaM`

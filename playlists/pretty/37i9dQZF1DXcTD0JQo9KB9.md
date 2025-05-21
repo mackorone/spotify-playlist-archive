@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,285 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,282 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 81 | [先哭為敬](https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 4:10 |
 | 82 | [Ciao](https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Ciao](https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69) | 4:33 |
 | 83 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 |
-| 84 | [粉碎糖果屋 \(feat\. Serrini\)](https://open.spotify.com/track/0EwBRXPsODlGonGQ67mFAb) | [per se](https://open.spotify.com/artist/4MR8lE0GqFrysJi3s18woQ) | [粉碎糖果屋 \(feat\. Serrini\)](https://open.spotify.com/album/3xPMNI8eSk1EnirLWixS9l) | 4:40 |
+| 84 | [粉碎糖果屋 \(feat\. Serrini\)](https://open.spotify.com/track/0EwBRXPsODlGonGQ67mFAb) | [PER SE](https://open.spotify.com/artist/4MR8lE0GqFrysJi3s18woQ) | [粉碎糖果屋 \(feat\. Serrini\)](https://open.spotify.com/album/3xPMNI8eSk1EnirLWixS9l) | 4:40 |
 | 85 | [生](https://open.spotify.com/track/2jvSY489LEysR7h3vK3L4t) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [生](https://open.spotify.com/album/0eRcJrxg7A7b6SAg38oHuv) | 4:24 |
 | 86 | [對得起自己](https://open.spotify.com/track/0dbKKEitEKGPpgY7qOFwpe) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [對得起自己](https://open.spotify.com/album/0AJaOR1rvOB4ttpkSenHRF) | 4:20 |
 | 87 | [我想行開下](https://open.spotify.com/track/1gqiMq3X8QPXNhPrGULUZL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [我想行開下](https://open.spotify.com/album/6t5kaD0AQppsm06nKToYGq) | 2:29 |

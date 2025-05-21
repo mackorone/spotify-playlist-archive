@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4MLFX9OXy9ncfBlTfei9Ok.md) - [plain]
 
 > &quot;Sleep is the best meditation.&quot; \-Dalai Lama
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 34 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 34 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,198 likes - 70 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,194 likes - 70 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 10 | [Rock With You](https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Rock With You](https://open.spotify.com/album/3znUwosEsjcKgqoMlUMVl6) | 4:50 |
 | 11 | [Lazarus](https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o) | 5:17 |
 | 12 | [Tokyo Daydream](https://open.spotify.com/track/6WLnZc1eXIoGy6VOzkEV3l) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [1978: Revenge of The Dragon](https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh) | 3:48 |
-| 13 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 |
+| 13 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Corey King](https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 |
 | 14 | [Isolado](https://open.spotify.com/track/6WgEiSVlBR64Vyxvao2GWv) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Isolado](https://open.spotify.com/album/1hPlIKE57pxB2vJ5WdnslT) | 4:55 |
 | 15 | [WE ARE](https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [WE ARE](https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr) | 4:01 |
 | 16 | [Unwind \[Feat\. Melanie Charles\]](https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Unwind \[Feat\. Melanie Charles\]](https://open.spotify.com/album/2jWjJILBlCqfA2PCPgZNPQ) | 3:58 |

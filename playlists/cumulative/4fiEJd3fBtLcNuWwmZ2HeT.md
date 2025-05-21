@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-292 songs - 16 hr 35 min
+297 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:47 | 2024-04-26 |  |
 | [completion](https://open.spotify.com/track/4cMiyKkRtjzglIfBQtWEzH) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [completion](https://open.spotify.com/album/6el6qm4djpKHsw5hoAwDZo) | 2:09 | 2025-02-18 |  |
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-05-02 |  |
+| [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 | 2025-05-20 |  |
 | [curtain call](https://open.spotify.com/track/24NKOHv5J6YUXfYbHUEEhg) | [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [yowanecity](https://open.spotify.com/artist/7tZujezUi8x3PLTW0E0nyr) | [curtain call](https://open.spotify.com/album/4KKlVYEQF5TqfhPQHA9bAR) | 3:19 | 2024-07-01 |  |
 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2023-11-20 |  |
 | [Dance In The Game](https://open.spotify.com/track/7kSYwyMv5dnc5aORNwZb15) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ZAQPOT](https://open.spotify.com/album/623vd5so8U7NFy7tFWmTgV) | 3:28 | 2023-10-07 |  |
@@ -57,6 +58,7 @@
 | [Envy Cat Walk](https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j) | [RIB](https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY) | [Rib On](https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD) | 3:43 | 2025-01-06 |  |
 | [FACT](https://open.spotify.com/track/4jYHYJFTi1QkBobUMC7kf7) | [常闇トワ](https://open.spotify.com/artist/0XZGQi9wNsE1z9L0AWhC82) | [FACT](https://open.spotify.com/album/6rftPCSznoXjxmJxsHk5zM) | 3:15 | 2024-04-08 |  |
 | [FAILURE GIRL \- MARETU Remix](https://open.spotify.com/track/1ggbMRzwjDZQC0kvdjD97A) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [MARETU](https://open.spotify.com/artist/5xyAdpFAdfuMpS3uRXKPpB) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:04 | 2024-09-12 |  |
+| [Fibber](https://open.spotify.com/track/1QuRsBr1YF54MkQqVudKef) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:02 | 2025-05-20 |  |
 | [Flashback](https://open.spotify.com/track/3xgWtkf7PUlIS7e2B7823x) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Ken Ken](https://open.spotify.com/artist/37q3VtYOmP8b94tbw8HiPI) | [SAMURAI SESSIONS vol.2](https://open.spotify.com/album/25q33Q6yrlWEeUd3FYfAXg) | 3:00 | 2024-03-30 | 2025-04-09 |
 | [Flicker](https://open.spotify.com/track/2xkfXjYKy3IIh2jy42SHMC) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [Flicker](https://open.spotify.com/album/0zbiEqttHyOelGd2SkUUAA) | 3:14 | 2024-04-08 |  |
 | [Flowerphagia](https://open.spotify.com/track/5xXCEamnhAvk9MJ7ICTNVT) | [Rakuen Shigai](https://open.spotify.com/artist/53wF30ZI8e4E9GHFLKCkNh) | [Flowerphagia](https://open.spotify.com/album/0foScpAXLbKDO82farKNyL) | 2:57 | 2025-04-28 |  |
@@ -86,6 +88,7 @@
 | [Instant death](https://open.spotify.com/track/6rKylVi61F1yekVG19hVE0) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Instant death](https://open.spotify.com/album/23LZUfEMmcstJAVP0WS0Mz) | 2:25 | 2024-07-23 |  |
 | [Into The Night](https://open.spotify.com/track/2vwzbB62VEfzCARNu9Nrrm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:19 | 2023-01-29 |  |
 | [It's Going Down Now](https://open.spotify.com/track/3w8v6xU26DY0LiQr3QAFjl) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/0ou89XjahTvTUm8mJu8go6) | 3:06 | 2024-03-29 |  |
+| [It's Tokyo](https://open.spotify.com/track/3qcLn1kuZC9jnfRgOaKYDo) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I loved you](https://open.spotify.com/album/1OUxyuiiD0G2f6aY9QUOKp) | 4:31 | 2025-05-20 |  |
 | [IWANUGA HANA](https://open.spotify.com/track/4TXFWrMDYdVsL7ybwSfpyO) | [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [IWANUGA HANA](https://open.spotify.com/album/7w1otGJpChYzALoYRuXqvT) | 2:47 | 2024-08-06 |  |
 | [IYAIYAYO](https://open.spotify.com/track/0RzMtWTt0opphQlWu6xFia) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [IYAIYAYO](https://open.spotify.com/album/2pVRQa9yI8HfEWGl2CF782) | 2:51 | 2024-08-08 |  |
 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2024-01-24 |  |
@@ -98,6 +101,7 @@
 | [L'Étoile D'afrique \- \#18](https://open.spotify.com/track/1xHDxvqZduPRMqOCdiAKNZ) | [VDYCD](https://open.spotify.com/artist/6ZtfvZofStC4xF34rNriyY) | [L'Étoile D'afrique \- \#18](https://open.spotify.com/album/6FTxbDk1yg57rx0hLnAgx0) | 1:45 | 2023-04-01 |  |
 | [L.L.L.](https://open.spotify.com/track/44MCNFwV5AuEpm7iaTLTCA) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:36 | 2023-03-28 |  |
 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2023-01-29 |  |
+| [Lepido](https://open.spotify.com/track/480iwKxMnM5sZsP8FjE1Y2) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:39 | 2025-05-20 |  |
 | [like a ghost \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46) | [sato noco](https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV), [Kaai Yuki](https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn) | [like a ghost](https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h) | 2:54 | 2025-04-16 |  |
 | [Like an idiot](https://open.spotify.com/track/27j5sGsWlhwNtHz5gY5bMB) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Like an idiot](https://open.spotify.com/album/2jEG6sJvdmgYS4UzSDiE7m) | 2:10 | 2024-01-22 |  |
 | [Los! Los! Los!](https://open.spotify.com/track/4M5WCAgpMCbBYwaQerEkMo) | [ターニャ・デグレチャフ\(CV:悠木碧\)](https://open.spotify.com/artist/6swJSqM6NMF0u3kslRDRwu) | [TVアニメ「幼女戦記」エンディングテーマ「Los! Los! Los!」](https://open.spotify.com/album/3zfMMMTn2pp4sd2a7wln92) | 3:37 | 2024-06-10 |  |
@@ -131,6 +135,7 @@
 | [Pink](https://open.spotify.com/track/5KI8zXj9lxLr1goQoGYaIA) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Pink](https://open.spotify.com/album/51KEnPmInGx4cXyBIISzgj) | 3:42 | 2022-11-11 |  |
 | [PINK](https://open.spotify.com/track/3KhODlXNFUONL8CdqEmd1d) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [BIPOLAR](https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9) | 2:56 | 2023-10-23 |  |
 | [Por Que](https://open.spotify.com/track/7hNdWx6prYB4xmpG25eTAT) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L) | [Realidades](https://open.spotify.com/album/5grCaFumwBjBTbEgxKwqLm) | 4:48 | 2024-11-30 | 2024-12-03 |
+| [prayer](https://open.spotify.com/track/03MAoBUO3pCOc9uCgZalQ9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:20 | 2025-05-20 |  |
 | [QUEEN OF THE NIGHT](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [QUEEN OF THE NIGHT](https://open.spotify.com/album/6kKMUex64mP35JZpbRp3Ma) | 2:44 | 2024-04-06 |  |
 | [R.I.P\. Gossip Sea](https://open.spotify.com/track/7xz8uuhmnW80qujTXrtX2N) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [Gossip Sea](https://open.spotify.com/album/2shWfyRGHT8C3k5NeygiWU) | 3:39 | 2022-11-11 |  |
 | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/track/5vR8dVVGrEBYoso2InjuKo) | [ミコ吉](https://open.spotify.com/artist/1Q9WuPC9wFV6V8BBeR7GEF), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/album/3d2gch75FvpDfumKzaojoo) | 4:48 | 2023-11-27 |  |

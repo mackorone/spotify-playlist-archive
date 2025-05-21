@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats for feel\-good vibes and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,095 likes - 218 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,168 likes - 218 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

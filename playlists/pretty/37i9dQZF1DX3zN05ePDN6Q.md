@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Djonga
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,449 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,504 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/track/5F5OBG4FrorY2IQq84JJjK) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/album/2sQRCpcBHg9oMYJy5OX336) | 2:41 |
 | 75 | [4Shared](https://open.spotify.com/track/1FtxkSEWNOwtdorukGFriM) | [nabru](https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3), [Gvtx](https://open.spotify.com/artist/6Wg2pw6C5LRx9l3AuG3hmo) | [Desenredo](https://open.spotify.com/album/5cWvA8DnZO6AZRN58ycxJn) | 2:30 |
 
-Snapshot ID: `AAAAACprTYZvLPEnU5rfVOGHkb/w+CRY`
+Snapshot ID: `aCtFkQAAAAC+7xgAfCn8Vg+SytSf67G6`

@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-667 songs - 1 day 8 hr 13 min
+670 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Dreamwalker](https://open.spotify.com/track/52ahkUIhePPGiz4lvI4Ah9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Dreamwalker](https://open.spotify.com/album/3tWedrnHrVXerXmF2Euion) | 2:48 | 2024-03-20 |  |
 | [Dreyma](https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Dreyma](https://open.spotify.com/album/1Y6RbEzGoaZptjqC2vF6YQ) | 2:47 | 2025-03-19 |  |
 | [Droplets](https://open.spotify.com/track/1LUljKZFZcHctU5OBMqFmG) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Droplets](https://open.spotify.com/album/4jztVXUzJmvVITmF509pPu) | 2:50 | 2025-01-22 |  |
+| [Duskveil](https://open.spotify.com/track/5PHG6zIU3TVPkrhjxfIndk) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Duskveil](https://open.spotify.com/album/3arZlYaEzG23SpaWDM9kwO) | 3:04 | 2025-05-20 |  |
 | [Dust](https://open.spotify.com/track/3P8JdN7l1cFkcMVkJHOHhF) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Dust](https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY) | 2:56 | 2023-03-31 | 2024-02-09 |
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2023-03-31 | 2024-02-09 |
 | [Eclipsar](https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Eclipsar](https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l) | 3:21 | 2024-02-08 | 2025-03-22 |
@@ -334,6 +335,7 @@
 | [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 | 2023-05-19 | 2025-02-05 |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2023-03-31 | 2024-02-09 |
 | [La Cascada](https://open.spotify.com/track/2WGKo3sflN4aUNtesZw4Py) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bella Unión](https://open.spotify.com/album/2zfjHiF04uCEQEBMrrp6aX) | 3:01 | 2023-03-31 | 2023-12-09 |
+| [Laomedeia](https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Laomedeia](https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B) | 2:51 | 2025-05-20 |  |
 | [Latitude](https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt) | [Niranja](https://open.spotify.com/artist/05na68HA7aLe286zVkDg7B) | [Latitude](https://open.spotify.com/album/3FrqjMioXMdod4NEdio5cA) | 2:28 | 2025-01-08 |  |
 | [Les dormeurs](https://open.spotify.com/track/7ygS19lO68LzUmz355qp3S) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Les dormeurs](https://open.spotify.com/album/5EJzEhMPzGxDBIrpsK9Rwt) | 2:21 | 2024-07-15 | 2025-04-17 |
 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 | 2023-03-31 | 2024-02-09 |
@@ -488,7 +490,7 @@
 | [Reflective moments](https://open.spotify.com/track/4cmuVNLXezTGcr03kewBP1) | [Graphite Sounds](https://open.spotify.com/artist/2rBTSkY7hIHfya4L45hFS1) | [Reflective moments](https://open.spotify.com/album/5Rdv5powZMQVSLB6Lc1uui) | 3:10 | 2024-01-13 | 2025-04-10 |
 | [Reflective Soul](https://open.spotify.com/track/5QmzQQc8KDk2MlisuDVuHe) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Reflective Soul](https://open.spotify.com/album/0P0JfeM65KQwpxYzwCCXd0) | 3:28 | 2024-05-20 | 2025-03-20 |
 | [Relaksohuni](https://open.spotify.com/track/2iXFZRMJCWCkLd8hrm8GmO) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Relaksohuni](https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ) | 3:02 | 2023-03-31 | 2024-03-21 |
-| [Relatively](https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Relatively](https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t) | 2:47 | 2024-07-09 |  |
+| [Relatively](https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Relatively](https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t) | 2:47 | 2024-07-09 | 2025-05-21 |
 | [Relaxed Mind](https://open.spotify.com/track/20A3nwNDQ7cEiqJdQqXHdi) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [Relaxed Mind](https://open.spotify.com/album/4hstfomwyvw149vheXWQZ5) | 3:02 | 2024-01-13 | 2025-05-11 |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2023-03-31 | 2024-02-09 |
 | [Remember](https://open.spotify.com/track/0bttaA5qKqByzkEofsVyK1) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Remember](https://open.spotify.com/album/0gbRDLp9hPUtVjDnBTdw1F) | 2:29 | 2025-03-19 |  |
@@ -496,7 +498,7 @@
 | [Repose](https://open.spotify.com/track/6s5TgRuS940qXdSCR2Lyos) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Repose](https://open.spotify.com/album/4SoElGs3LwzLZK4s7kuy5A) | 2:55 | 2024-07-09 |  |
 | [Reserve](https://open.spotify.com/track/4AIVJN4gesqZ91UzHxSzqm) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Reserve](https://open.spotify.com/album/4MZFlQf43WsdCsHGaVD0Ko) | 3:02 | 2024-01-13 | 2025-05-11 |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2023-03-31 | 2024-05-05 |
-| [Resonance](https://open.spotify.com/track/4CnoaUAoFwMgMd493tJmnv) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Resonance](https://open.spotify.com/album/5cFREqcRe3ruyXTHLnM1EA) | 3:08 | 2025-02-14 |  |
+| [Resonance](https://open.spotify.com/track/4CnoaUAoFwMgMd493tJmnv) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Resonance](https://open.spotify.com/album/5cFREqcRe3ruyXTHLnM1EA) | 3:08 | 2025-02-14 | 2025-05-21 |
 | [Resort To Nature](https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ) | [Relaxatron](https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d) | [Resort To Nature](https://open.spotify.com/album/3cfeMFlrZhj48l1V1kpr3c) | 2:58 | 2024-05-20 | 2025-05-11 |
 | [Respective](https://open.spotify.com/track/4CFdKTed1DOl04HkT5yFl9) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Respective](https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku) | 2:57 | 2024-11-05 |  |
 | [Response](https://open.spotify.com/track/1yNQpzSyigQQ91TLZHutvB) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Response](https://open.spotify.com/album/0evxd5kXADFYIhiYRQ1p7e) | 3:24 | 2024-07-09 | 2025-05-11 |
@@ -558,6 +560,7 @@
 | [Solsten](https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Solsten](https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB) | 3:32 | 2024-07-09 |  |
 | [Solstice Waves](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Solstice Waves](https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk) | 2:48 | 2024-07-22 | 2025-05-11 |
 | [Somehow](https://open.spotify.com/track/1duFJu4fsHT5qrtGGRbxhg) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Somehow](https://open.spotify.com/album/1zAHjeiIhu46tI4gSnhslp) | 2:50 | 2025-01-22 |  |
+| [Somna](https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Somna](https://open.spotify.com/album/0F5ugqecVnynFMBMd7gBgs) | 3:02 | 2025-05-20 |  |
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 |  |
 | [Somnisonic](https://open.spotify.com/track/5AQQYMkVL7216ZVuPytjwL) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Somnisonic](https://open.spotify.com/album/09sd9ZHGWdZn4fgFOTta4D) | 2:22 | 2024-01-13 | 2024-07-16 |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-31 | 2024-03-21 |
@@ -648,7 +651,7 @@
 | [Vila](https://open.spotify.com/track/0jyK7saNqvRSHlp0HU00z3) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Återhämtning](https://open.spotify.com/album/5JmOVXdiaiknwkK3JHyiev) | 3:48 | 2023-03-31 | 2024-02-09 |
 | [vindur](https://open.spotify.com/track/6cJq37QktSAzv6bdUq0Bdc) | [Atli Þórirsson](https://open.spotify.com/artist/7JhDZrYjtUBmTG4j61iIr4) | [vindur](https://open.spotify.com/album/7Kq9BZt3SVPSMHYcIRkeKy) | 2:33 | 2023-03-31 | 2023-05-20 |
 | [Visuals](https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Visuals](https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi) | 2:58 | 2024-09-13 |  |
-| [Vita Tranquilla](https://open.spotify.com/track/6jB8Sln3EZcybYKOJJg77v) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Vita Tranquilla](https://open.spotify.com/album/3ZsMmRjVpTqGWjWjhdZxcL) | 2:45 | 2024-03-06 |  |
+| [Vita Tranquilla](https://open.spotify.com/track/6jB8Sln3EZcybYKOJJg77v) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Vita Tranquilla](https://open.spotify.com/album/3ZsMmRjVpTqGWjWjhdZxcL) | 2:45 | 2024-03-06 | 2025-05-21 |
 | [Vorsichtig](https://open.spotify.com/track/7li6Hcl94re5MW3TRMSGJi) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Vorsichtig](https://open.spotify.com/album/71YZz16qh5yA50FQNp5mGs) | 3:16 | 2023-03-31 | 2024-05-05 |
 | [warm waters](https://open.spotify.com/track/1zlWipeU5RJL4zBmFtpycD) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [warm waters](https://open.spotify.com/album/62BmqH6il5lGqPPMTx9Ysh) | 3:06 | 2024-01-13 | 2024-07-16 |
 | [Warszawa](https://open.spotify.com/track/7hwGHD71FJFBXu1iUDYTYf) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Warszawa](https://open.spotify.com/album/6PPYEFKKva6PMGl5XJWFIB) | 2:50 | 2023-03-31 | 2024-02-09 |

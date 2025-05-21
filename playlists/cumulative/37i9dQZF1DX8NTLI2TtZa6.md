@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-568 songs - 1 day 0 hr 20 min
+570 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 | 2021-12-07 | 2024-04-04 |
 | [Awakening](https://open.spotify.com/track/7IwHCgH4i9MiJxT7jEhZ31) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Awakening](https://open.spotify.com/album/5oaWGoZ0WMSEQolzeQzeer) | 2:02 | 2023-09-11 |  |
 | [Babirusa](https://open.spotify.com/track/1imHuSNiRo2ePp7BQZrGCO) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Babirusa](https://open.spotify.com/album/5Z7SPXUfQWmok6CTmNXfLM) | 2:32 | 2021-12-07 | 2022-03-02 |
+| [Bagatelle](https://open.spotify.com/track/0aQU6LlCHEpzCPMV6P9wSr) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Bagatelle](https://open.spotify.com/album/1MgdAWw1nfS5B7WJkPY11S) | 2:54 | 2025-05-20 |  |
 | [Balinese rain](https://open.spotify.com/track/02Ht4crdM7PkMpYU3FLS2X) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Balinese rain](https://open.spotify.com/album/0QUr11dedtEYKwXAbdMnCd) | 2:10 | 2023-05-03 | 2024-03-20 |
 | [Ballad](https://open.spotify.com/track/0I3MZaEMddQfkUjRTEYWA2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 2:51 | 2022-12-22 | 2025-04-10 |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 | 2025-04-10 |
@@ -142,6 +143,7 @@
 | [Eclipse](https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Eclipse](https://open.spotify.com/album/2tFttOMbr6jYqnsulIqdAy) | 2:17 | 2021-12-07 | 2022-05-21 |
 | [Eclipse](https://open.spotify.com/track/5nbWpY8HpQSdqWbPBWmJ8j) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Sketches For Piano](https://open.spotify.com/album/0goZUsZwzGvX8oWFnF6e1z) | 2:17 | 2023-06-27 |  |
 | [Elevation](https://open.spotify.com/track/741SePkge5anOObH5JLG5r) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Elevation](https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4) | 3:20 | 2023-11-20 |  |
+| [Ember](https://open.spotify.com/track/7yZcjQGSDcKdxAmxJ7rvqd) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Ember](https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38) | 2:44 | 2025-05-20 |  |
 | [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-13 |  |
 | [Emerald](https://open.spotify.com/track/6Y6xWTWRzij8b6qcRbOnDh) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Emerald](https://open.spotify.com/album/5nkbs2eOGUOuSGkMd2nmfR) | 2:42 | 2021-12-07 | 2023-04-19 |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2021-12-07 | 2023-05-10 |

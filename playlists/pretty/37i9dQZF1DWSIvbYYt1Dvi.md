@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > stefanie metendo marcha e AULAS \- maat tb é porque eu rimo pt2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,634 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,501 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 13 | [FOME](https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:42 |
 | 14 | [SKYLINE](https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [SKYLINE](https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k) | 3:18 |
 | 15 | [Cartier Santos Dumont](https://open.spotify.com/track/173oBdI5W1ucG1MUdAMsor) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM) | [Cartier Santos Dumont](https://open.spotify.com/album/3QXwSeMoEEnD8QHNjfFfG4) | 2:24 |
-| 16 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
+| 16 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
 | 17 | [BOOMBAP PERFEITO](https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Grafiteh](https://open.spotify.com/artist/1mZKPF3NjGsiwsnGi9zE4r), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [BOOMBAP PERFEITO](https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu) | 2:48 |
 | 18 | [O Que nos Impede](https://open.spotify.com/track/57mrvEzP3BktSJNQd55pMm) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O Que nos Impede](https://open.spotify.com/album/5fUaKKY6VcPHPelirgfIcu) | 2:46 |
 | 19 | [GRÉCIA](https://open.spotify.com/track/66WeFkFXdWoDaKgk8SrnBs) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 3:42 |

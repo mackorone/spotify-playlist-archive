@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Celebrating 10 years of the best new folk music from independent artists\. Cover: pencil
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,437 likes - 120 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,460 likes - 120 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

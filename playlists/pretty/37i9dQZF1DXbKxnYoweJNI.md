@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 忒修斯 \(Theseus\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,795 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,801 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 10 | [EXX](https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [EXX](https://open.spotify.com/album/4tjS7UM9uRgqw6MBvfqkIS) | 2:20 |
 | 11 | [23/17](https://open.spotify.com/track/6WE1SUfXxG41NqW9jPHfti) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [23/17](https://open.spotify.com/album/0XDi5fRCWYTNZg9H2g1AUD) | 3:33 |
 | 12 | [NONO](https://open.spotify.com/track/34K7NvVX6Jw0AzT7hQpQ9X) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [NONO](https://open.spotify.com/album/4dfs3xvlI6Z8fQK4m3dTn7) | 2:51 |
-| 13 | [重生之道](https://open.spotify.com/track/0NoF5goDQTr1106yVAxcHa) | [Asiaboy 禁藥王](https://open.spotify.com/artist/13GpGsJPepoQrA2Xk7r0q5), [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [重生之道](https://open.spotify.com/album/3a52chnJiXkwDZaDpiejnA) | 2:27 |
+| 13 | [重生之道](https://open.spotify.com/track/0NoF5goDQTr1106yVAxcHa) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2), [Asiaboy 禁藥王](https://open.spotify.com/artist/13GpGsJPepoQrA2Xk7r0q5) | [重生之道](https://open.spotify.com/album/3a52chnJiXkwDZaDpiejnA) | 2:27 |
 | 14 | [Drill的爛flow](https://open.spotify.com/track/5kk5vizghciH8fLIz8tXDJ) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [Drill的爛flow](https://open.spotify.com/album/24vFJ50ne3z0xtxTVfV89M) | 2:26 |
 | 15 | [Calling you](https://open.spotify.com/track/4j7QbY66Spx4CmTdWI0GDJ) | [王泰翔2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa), [AcRoss](https://open.spotify.com/artist/6B1Wv7BlRtTN8OoVNyL6sC) | [Calling you](https://open.spotify.com/album/0bLnKPcAOMcgk4zlubpURF) | 3:02 |
 | 16 | [你不必無時無刻維持完美的笑容](https://open.spotify.com/track/5JzLl572jAl0KqpOMeGnkM) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [你不必無時無刻維持完美的笑容](https://open.spotify.com/album/5egVRMjkYM12VkPCAUTVnM) | 3:43 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 88 | [再看一眼 \(電影《搜查瑠公圳》主題曲\)](https://open.spotify.com/track/5dIDPNPuE9SaOVWVzKc0uh) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [再看一眼 \(電影《搜查瑠公圳》主題曲\)](https://open.spotify.com/album/76okffJ67Y0cZWcsplsD1Q) | 4:17 |
 | 89 | [說了不再愛你這種謊](https://open.spotify.com/track/2qwPTqR0nAoeGogcpWkhWY) | [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV) | [說了不再愛你這種謊](https://open.spotify.com/album/46HRCXOsH3Ex2DihDxm5Xk) | 2:34 |
 | 90 | [Litchi Red](https://open.spotify.com/track/0rCaItAeve5mL7mQzDqLD9) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Litchi Red](https://open.spotify.com/album/0otNdk9nGnf02BgnjWdSH6) | 3:06 |
-| 91 | [心流](https://open.spotify.com/track/6RdnIJzrbkSjmh5dbqDEoj) | [氣氛休息室](https://open.spotify.com/artist/3RbZ8ZxCUTAV4zJFfkFtnH), [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [心流](https://open.spotify.com/album/75ShhvqKol38kFMue1C3WZ) | 3:11 |
+| 91 | [心流 \- 北流五週年音樂共創計畫](https://open.spotify.com/track/6RdnIJzrbkSjmh5dbqDEoj) | [氣氛休息室](https://open.spotify.com/artist/3RbZ8ZxCUTAV4zJFfkFtnH), [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [心流 \(北流五週年音樂共創計畫\)](https://open.spotify.com/album/75ShhvqKol38kFMue1C3WZ) | 3:11 |
 | 92 | [相信自己相信自己相信自己](https://open.spotify.com/track/7vYOhhgIK5KNPXVcoM1jUP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [相信自己相信自己相信自己](https://open.spotify.com/album/4CIdGWnaU5tsdbptNCIUIV) | 4:20 |
 | 93 | [別人的夢](https://open.spotify.com/track/2K6eiVlOtuI1XD7EQ1M3bg) | [Lennerd](https://open.spotify.com/artist/1k262uxFEei0Hjh3Z4WRdd) | [別人的夢](https://open.spotify.com/album/2H91fRdt7LnwIUY4GS2pUS) | 4:05 |
 | 94 | [WoMen](https://open.spotify.com/track/5gvfApb3OGVo6ibsgCDFiC) | [OK Wang](https://open.spotify.com/artist/3DkGkjw7GwIs62GBM297cM) | [WoMen](https://open.spotify.com/album/6Si722Z1182SQ11I8zA88m) | 4:04 |

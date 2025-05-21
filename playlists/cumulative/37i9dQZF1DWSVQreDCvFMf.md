@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jenzen Guino
 
-378 songs - 23 hr 45 min
+379 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Kasama](https://open.spotify.com/track/1qA0gniLfP4RIRmVTEe1eM) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Chito Miranda](https://open.spotify.com/artist/72VBk3SEsEFPF948CmkHT4) | [Kasama](https://open.spotify.com/album/2t6TUKXucrJSErtNohifVu) | 4:19 | 2024-10-04 | 2025-03-01 |
 | [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-17 | 2024-11-09 |
 | [KAYA](https://open.spotify.com/track/277gaYbG6eV6WneuUQj2yu) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KAYA](https://open.spotify.com/album/6orgKZ9bVEiQU6unyNX1Gg) | 5:35 | 2025-01-31 | 2025-04-16 |
+| [Kidlat](https://open.spotify.com/track/6utifKVIx7dSUzD8D7ivW2) | [Plume](https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk) | [Kidlat](https://open.spotify.com/album/3EjMtnIERkGojDYYjZc2uL) | 3:40 | 2025-05-20 |  |
 | [Kilala](https://open.spotify.com/track/2wzn9QDSMkZHuxXi7xzHr0) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kilala](https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN) | 4:31 | 2025-03-28 |  |
 | [kiss](https://open.spotify.com/track/4WoFk6eYCFzln1TlbmY9kB) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [kiss](https://open.spotify.com/album/00soTzV3z8l97RY0Z26l69) | 2:40 | 2024-11-08 | 2025-02-01 |
 | [KPG](https://open.spotify.com/track/0kFjcEbZKRy6IjtUTmNvC3) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [KPG](https://open.spotify.com/album/4jkjJKgRMRsjhgNbE6Ij8K) | 3:14 | 2024-11-11 | 2025-02-01 |

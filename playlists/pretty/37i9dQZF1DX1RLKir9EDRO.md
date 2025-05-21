@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler\. Kapak: Ilgaz Altın Çizim: Isu Kim
+> Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: Ilgaz Altın Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,464 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,464 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 6 | [İçimden Geçenler](https://open.spotify.com/track/4rz0yzVZSdlOAk7i14dJNg) | [Gizli Geçit](https://open.spotify.com/artist/35tnYESdG3jdd51pSwVg9U) | [İçimden Geçenler](https://open.spotify.com/album/1ZQxAZlirGnem25ZiDwN7E) | 4:01 |
 | 7 | [Erenköy/Kazasker](https://open.spotify.com/track/0NBgK927zx6sjS94ffWTgR) | [vicotüco](https://open.spotify.com/artist/4U7K9tHdYMndwq8Dvbv9vX) | [Erenköy/Kazasker](https://open.spotify.com/album/765n6Rqcy18fxVw9XOWPlZ) | 3:50 |
 | 8 | [BBK](https://open.spotify.com/track/2ip0MAJnmGkB6cjSt7jr5R) | [Filozof Kedi](https://open.spotify.com/artist/0UkVXKhMnHC9NkqkC7QimK) | [BBK](https://open.spotify.com/album/4MPAKZQvUKmSMP5ykxmzLK) | 3:07 |
-| 9 | [Along The Wind](https://open.spotify.com/track/4NmTFkdBWTYZ9Crh1OvzKp) | [Eriç](https://open.spotify.com/artist/3lOTkw5UMASA20SlYr8fHZ) | [Yerli Yersiz](https://open.spotify.com/album/28KkDUrw03df80t57pFLYe) | 2:31 |
+| 9 | [Yüksek Bir Yerden Atlamak](https://open.spotify.com/track/2uFj7GwOzZkVvwKu3LXh5T) | [Eriç](https://open.spotify.com/artist/3lOTkw5UMASA20SlYr8fHZ) | [Yerli Yersiz](https://open.spotify.com/album/28KkDUrw03df80t57pFLYe) | 3:27 |
 | 10 | [Göçebe](https://open.spotify.com/track/4EU7jxVHXwoWFihT2dBJaR) | [Kaan Kök](https://open.spotify.com/artist/1ioN6PsFpOcBF1mx74Onfg) | [Göçebe](https://open.spotify.com/album/1OI0ldoHPWHk5us5KPLRvx) | 3:48 |
 | 11 | [Kaç Kez](https://open.spotify.com/track/4Dx0P6WSVT0EpqNdtVQT9T) | [LOFT](https://open.spotify.com/artist/6NHxzfazWsFenPFdZfjf3j) | [Kaç Kez](https://open.spotify.com/album/1zrPIGlWfchPqZaGmR0cBT) | 2:51 |
 | 12 | [Gelmişi Geçmişi](https://open.spotify.com/track/2ndBtvcj8PVlymDEEvnUUw) | [bodes](https://open.spotify.com/artist/6TfzPXVRRzCJq0euMymU3I) | [Gelmişi Geçmişi](https://open.spotify.com/album/4Khwxa4LofNZXiYU5J6rWp) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [son defa](https://open.spotify.com/track/3X5zaluRDzaXdK8TxnphqV) | [Gece Üç Gibi](https://open.spotify.com/artist/2jO4VEwrbReJEEmQ7gViGP) | [son defa](https://open.spotify.com/album/6WX1nPgOZJmWxUrufJIuWI) | 3:23 |
 | 75 | [BNG](https://open.spotify.com/track/1XiIqbHZld1FrvOxm2er2J) | [Gizem Duman](https://open.spotify.com/artist/7CwBX1ov1EbdYm7VPxTkkQ) | [BNG](https://open.spotify.com/album/06HawAWqvBy2rMirHOiKii) | 3:16 |
 
-Snapshot ID: `aCpKbwAAAAC8yX6G4w5aRk4zc+6NeoF7`
+Snapshot ID: `aCydsgAAAADRtV1T8YNmIwrCdPgj3R2Q`

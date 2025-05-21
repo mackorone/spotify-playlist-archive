@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/15wD5DzfOIRx7QnJKDLtav.md) - [plain]
 
 > Your guide to what's hot in Austin, TX during South By Southwest 2017\. Cover: <a href="spotify:artist:4NZvixzsSefsNiIqXn0NDe">Maggie Rogers</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,052 likes - 62 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,051 likes - 62 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/15wD5DzfOIRx7QnJKDLtav.md) - [plain]
 | 26 | [Keep Running](https://open.spotify.com/track/5k42EV7nhmL2CrfX4z2CKe) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Keep Running](https://open.spotify.com/album/1Jyd3dY3EmPJuJiZx01qaC) | 3:19 |
 | 27 | [Thinking About You](https://open.spotify.com/track/6MWfLm5mekBlDaWUzUJvhU) | [Andreas Moss](https://open.spotify.com/artist/2g6nfqSFo2cPVrafnW85jm) | [Thinking About You](https://open.spotify.com/album/69riaQOgAPqRNZLly8otNM) | 3:56 |
 | 28 | [Shutter Island](https://open.spotify.com/track/5CXTbOAOiWVTrPTr34VhzV) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Shutter Island](https://open.spotify.com/album/7GrrKydjXc48x0YiWVHTOP) | 3:07 |
-| 29 | [home](https://open.spotify.com/track/3sh0NSn2Eq1ERtTRmITZze) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [home](https://open.spotify.com/album/3XBbLXqzg1tqNFhHMtxFuT) | 3:33 |
+| 29 | [home](https://open.spotify.com/track/3sh0NSn2Eq1ERtTRmITZze) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [home](https://open.spotify.com/album/3XBbLXqzg1tqNFhHMtxFuT) | 3:33 |
 | 30 | [No Scrubs \(feat\. Jon Santana\)](https://open.spotify.com/track/1GLzCv2crATQgyUGdN94c3) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh), [Jon Santana](https://open.spotify.com/artist/05XxXeBmy0Kge0WdgDfj05) | [No Scrubs \(feat\. Jon Santana\)](https://open.spotify.com/album/5as05Dv2Svm5DJzh3gzKfX) | 3:34 |
 | 31 | [She Said](https://open.spotify.com/track/0Sgu2kKr8M0uuqKygi2wrH) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/11vjbOVFGoGXWFQF5PwzUN) | 3:44 |
 | 32 | [Sticky Leaves](https://open.spotify.com/track/0k0x7PyNIxm8mwagibyumc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Paris 12](https://open.spotify.com/album/5mqNIM3ezLBo9BEYdL1DIA) | 3:52 |

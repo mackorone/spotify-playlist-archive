@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: BOYNEXTDOOR)",
+  "description": "Future K-Pop hits! (Cover: tripleS)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1032,6 +1032,24 @@
       "duration_ms": 330480,
       "name": "Ape Freestyle - Spotify Singles",
       "url": "https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k"
+    },
+    {
+      "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176735,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/53bnkcyDpei0ZlC30au1t7"
     },
     {
       "album": {
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 221346,
       "name": "CINEMA (Lee Know & Seungmin)",
       "url": "https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy"
@@ -15940,7 +15958,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 141309,
       "name": "PIPE DOWN",
       "url": "https://open.spotify.com/track/1y42u9UuJJvlSS61zv9eux"
@@ -19335,6 +19353,24 @@
     },
     {
       "album": {
+        "name": "Stargazers",
+        "url": "https://open.spotify.com/album/3UENaS6UmhRQ5blgKC8JQ5"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL"
+    },
+    {
+      "album": {
         "name": "Starry Night (prod. dress)",
         "url": "https://open.spotify.com/album/5LveI3wQQYc6XddckFhFzN"
       },
@@ -21251,6 +21287,24 @@
     },
     {
       "album": {
+        "name": "To Reach You",
+        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158680,
+      "name": "To Reach You",
+      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
+    },
+    {
+      "album": {
         "name": "TODAY (Feat. Kim Mi Jeong)",
         "url": "https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN"
       },
@@ -22498,7 +22552,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 160109,
       "name": "Wakey Wakey",
       "url": "https://open.spotify.com/track/2FzUD2fJDnR8uEaBtZIN20"

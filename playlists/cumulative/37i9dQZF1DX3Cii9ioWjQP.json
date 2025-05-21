@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "42.195",
+        "url": "https://open.spotify.com/album/6X9zD7cwKg1kgLIkdXNezk"
+      },
+      "artists": [
+        {
+          "name": "\ud558\uc774\uc9c4",
+          "url": "https://open.spotify.com/artist/0MnTD4EStdRv27mXXYiAJi"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162411,
+      "name": "42.195",
+      "url": "https://open.spotify.com/track/6nUuwxafrzvFRJkw7Ex7ue"
+    },
+    {
+      "album": {
         "name": "A Finite time",
         "url": "https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI"
       },
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 220000,
       "name": "visitor",
       "url": "https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM"

@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-421 songs - 18 hr 24 min
+422 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Emotions](https://open.spotify.com/track/24eO42UatAgYeRjP48aqPW) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Behind Closed Eyes](https://open.spotify.com/album/7KHRhdc2vH5PYWFzjZdZa4) | 1:55 | 2022-05-20 | 2025-04-17 |
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-05-20 |  |
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2022-05-20 | 2024-03-26 |
+| [Evanesce](https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Evanesce](https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy) | 2:16 | 2025-05-20 |  |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2022-05-20 | 2025-05-03 |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2022-05-20 | 2025-05-03 |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-05-20 |  |
@@ -225,7 +226,7 @@
 | [Moontalk](https://open.spotify.com/track/1a8Vb0yblKsHzkDnyNttxe) | [Raphael Azalea](https://open.spotify.com/artist/2dXSgyqHAuBy36201Q7B7H) | [Moontalk](https://open.spotify.com/album/1eBHDhxNaq47Uh6omiAS0p) | 3:17 | 2022-05-20 | 2024-04-10 |
 | [Moving Forward](https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Moving Forward](https://open.spotify.com/album/49wTfncMF0lOpFyYZsmkVu) | 2:06 | 2022-05-20 | 2025-02-25 |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-05-20 | 2025-04-17 |
-| [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/0ndzscLaWk1qlkOZ0nRPYE) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 | 2023-07-25 |  |
+| [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/0ndzscLaWk1qlkOZ0nRPYE) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 | 2023-07-25 | 2025-05-21 |
 | [My Day](https://open.spotify.com/track/2D9iOaCe7y3H8pBmrhQrrA) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Soft Mallets](https://open.spotify.com/album/6C3wCA6fepDNa4wfcnP7ro) | 2:39 | 2022-05-20 | 2024-04-10 |
 | [My Random Heart](https://open.spotify.com/track/2W2fS1W731q3EomZSZEsnI) | [Dana Meijer](https://open.spotify.com/artist/7B9SANiyRivfQLmWiCzmm1) | [My Random Heart](https://open.spotify.com/album/3jYXkP5n4sRnu1fVdifW9Q) | 2:26 | 2022-05-20 | 2025-05-03 |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2022-05-20 | 2025-05-03 |

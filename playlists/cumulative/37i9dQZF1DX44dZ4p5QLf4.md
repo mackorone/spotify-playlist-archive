@@ -2,7 +2,7 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> New releases in modern soul\. Cover: Noa Lauryn
+> New releases in modern soul\. Cover: JONES
 
 544 songs - 1 day 7 hr 43 min
 

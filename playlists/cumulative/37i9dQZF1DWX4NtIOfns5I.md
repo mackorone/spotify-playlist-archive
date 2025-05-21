@@ -4,7 +4,7 @@
 
 > Meet Ken Pomeroy ❊
 
-512 songs - 1 day 6 hr 15 min
+513 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Persimmon](https://open.spotify.com/track/5k4k6yqihuv3mcgXzDISKQ) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Fruit For Flies](https://open.spotify.com/album/09XjI8xRCkYwwQouWsarak) | 2:49 | 2024-09-03 | 2025-03-13 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-10-12 |
 | [Please Be Rude](https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz) | 3:00 | 2024-05-10 | 2024-08-27 |
+| [Please Don’t Cry](https://open.spotify.com/track/6wAUFWRFSJyHv1GDfeg3Ha) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Please Don't Cry](https://open.spotify.com/album/33xhr16dci2QCoUzllBBdC) | 3:34 | 2025-05-20 |  |
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-05 | 2024-02-24 |
 | [Please Please Please \- Acoustic](https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1) | 3:01 | 2024-06-21 | 2024-10-12 |
 | [Poison](https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [Poison](https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2) | 3:25 | 2025-02-07 | 2025-05-03 |

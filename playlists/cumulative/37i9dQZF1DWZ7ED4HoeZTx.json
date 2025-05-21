@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "\u304d\u3068\u304d\u3068",
+        "url": "https://open.spotify.com/album/2zhEMy7aHyWr5xzgmATlfH"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178946,
+      "name": "\u304d\u3068\u304d\u3068",
+      "url": "https://open.spotify.com/track/4NUFCzfamR4M5XDO0LrJEf"
+    },
+    {
+      "album": {
         "name": "\u3053\u307e\u308a\u308f\u3089\u3044",
         "url": "https://open.spotify.com/album/00DeFhBiMsWTraxBRxu7PZ"
       },
@@ -1830,7 +1852,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 336880,
       "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"

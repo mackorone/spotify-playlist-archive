@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0t5sCAa21rb3bjm4Yl7xDv.md) - cumulative - [plain](/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv)
 
-### [Summer Pop Hits](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
+### [Pop Girl Summer](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Kali Uchis
+> pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
 531 songs - 1 day 4 hr 3 min
 

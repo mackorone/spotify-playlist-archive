@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,025 likes - 22 songs - 1 hr 21 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,027 likes - 23 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 20 | [I'm Really Flagging \(or I Trusted U\)](https://open.spotify.com/track/52RQcaMJ3DdN3Uyfs4a19r) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Ben Vince](https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV) | [Belly Up](https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa) | 3:02 |
 | 21 | [ber3ft](https://open.spotify.com/track/5HiL7kT2F6vtzGuBEhxrQc) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0) | [ber3ft](https://open.spotify.com/album/4Vls2ltBHw9qeDJzap7xCs) | 1:37 |
 | 22 | [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 |
+| 23 | [Unfair](https://open.spotify.com/track/10ZQm8oJGYLJg0x8B0TPEZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 2:33 |
 
-Snapshot ID: `AAAMdJFUKKD/fa/Ss1EjcUGF4KXZtv4U`
+Snapshot ID: `AAAMdTVvNyuAA2UBhJec40hbxC1nDvff`

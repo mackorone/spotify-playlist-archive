@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Teen Jesus and the Jean Teasers
 
-3,265 songs - 7 day 6 hr 8 min
+3,266 songs - 7 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1511,6 +1511,7 @@
 | [Jump Out The Window](https://open.spotify.com/track/7Iz0L7uevtSSUMtmOOMSUk) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Jump Out The Window](https://open.spotify.com/album/4xHcu0JaCYcKsF0OQtyNPl) | 4:09 | 2022-03-04 | 2022-03-12 |
 | [Jump Out The Window](https://open.spotify.com/track/7ymntzkTCP4hq3PjTMmnbU) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Sometimes Y](https://open.spotify.com/album/0ZFqRtDxJIX8qHgQMAeJuT) | 4:09 | 2022-03-11 | 2022-05-28 |
 | [Jump Sit Stand March](https://open.spotify.com/track/2ZMgRFr3RP0KhiR3v7Hoso) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Emily Armstrong](https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC) | [Jump Sit Stand March](https://open.spotify.com/album/0Zjc78WqYnNFoJTbTryE5Y) | 3:51 | 2024-05-31 | 2024-06-29 |
+| [june](https://open.spotify.com/track/6PBJfoq40a8gsUULbn0oyG) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [june](https://open.spotify.com/album/3cJDOznDVbYVwk8XwzYPfn) | 2:48 | 2025-05-20 |  |
 | [junkie](https://open.spotify.com/track/2WIWwLS7IOl3GzQmr1GJSb) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/6XnFiwvPC1UBH9ZRkfb94q) | 2:39 | 2022-04-22 | 2022-06-04 |
 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 | 2023-06-30 | 2023-07-29 |
 | [jupiter](https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [DIVE](https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP) | 3:02 | 2024-09-27 | 2024-11-16 |

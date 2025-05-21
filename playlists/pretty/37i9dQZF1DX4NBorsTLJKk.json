@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 34842,
+  "num_followers": 34846,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u7fca\u5f80\u60c5\u6df1",
-        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
-      },
-      "artists": [
-        {
-          "name": "E-Jun Lee",
-          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "\u51b0\u96e8",
-      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u5927\u96e8\u904e\u5f8c",
         "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 247164,
       "name": "\u5927\u96e8\u904e\u5f8c",
       "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u7fca\u5f80\u60c5\u6df1",
+        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
+      },
+      "artists": [
+        {
+          "name": "E-Jun Lee",
+          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "\u51b0\u96e8",
+      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u611b\u5728\u96e8\u5b63",
-        "url": "https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u6620\u9999",
-          "url": "https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW"
-        }
-      ],
-      "duration_ms": 166304,
-      "name": "\u611b\u5728\u96e8\u5b63",
-      "url": "https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 264834,
       "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u611b\u5728\u96e8\u5b63",
+        "url": "https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u6620\u9999",
+          "url": "https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW"
+        }
+      ],
+      "duration_ms": 166304,
+      "name": "\u611b\u5728\u96e8\u5b63",
+      "url": "https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u660e\u660e",
-        "url": "https://open.spotify.com/album/1KBfGXDPEzKDyxNp04oIbP"
-      },
-      "artists": [
-        {
-          "name": "xumingming",
-          "url": "https://open.spotify.com/artist/7JM5mZKgSaGtDNvnJVuUc2"
-        }
-      ],
-      "duration_ms": 267078,
-      "name": "\u5979\u5728\u96e8\u5929\u60f3\u4ed6",
-      "url": "https://open.spotify.com/track/2zXrVSkLy7GoW2RcpLHnkV"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u611b\u60c5\u591a\u60f1\u6cb3",
         "url": "https://open.spotify.com/album/3Xme6uZQDSAC2YprsffzLB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 356520,
       "name": "\u9031\u672b\u4e0b\u96e8",
       "url": "https://open.spotify.com/track/5iYoWmLl00G3DRufnvzCGN"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u660e\u660e",
+        "url": "https://open.spotify.com/album/1KBfGXDPEzKDyxNp04oIbP"
+      },
+      "artists": [
+        {
+          "name": "xumingming",
+          "url": "https://open.spotify.com/artist/7JM5mZKgSaGtDNvnJVuUc2"
+        }
+      ],
+      "duration_ms": 267078,
+      "name": "\u5979\u5728\u96e8\u5929\u60f3\u4ed6",
+      "url": "https://open.spotify.com/track/2zXrVSkLy7GoW2RcpLHnkV"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u5c0f\u773e\u60c5\u4eba",
-        "url": "https://open.spotify.com/album/3JaRf6oM6IzAKdWhoPXls0"
+        "name": "\u6469\u767b\u60b2\u5287",
+        "url": "https://open.spotify.com/album/5RceUqTiztLNmT5IXwZZEX"
       },
       "artists": [
         {
-          "name": "Phil Lam",
-          "url": "https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV"
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
         }
       ],
-      "duration_ms": 221693,
-      "name": "\u96e8\u843d\u5927\u5730",
-      "url": "https://open.spotify.com/track/7cPm7ahWmHu3csfMWWxM6h"
+      "duration_ms": 111935,
+      "name": "\u73fe\u5728\u6b63\u5728\u4e0b\u96e8\uff0c\u4f46\u662f\u4f60\u4e0d\u5728",
+      "url": "https://open.spotify.com/track/6Y2F3Iwa1ZMI9cJT4Y1bVw"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

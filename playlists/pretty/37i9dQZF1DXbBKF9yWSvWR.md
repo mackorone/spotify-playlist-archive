@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Lézard
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,061 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,052 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
-| 2 | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/track/0wykjPfPa7YNXqohSzlsJ7) | [Lézard](https://open.spotify.com/artist/71OpeN8Riy5gGtmqlSYfVH) | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/album/3apSekdGAf1nGm25bTEUSA) | 2:59 |
-| 3 | [Satellites \(feat\. Nana Adjoa\)](https://open.spotify.com/track/5k2JzYwLTRldm9h7VjP5KU) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Leave What You Know](https://open.spotify.com/album/2RGzwkYdAQwdd23PNh8sxc) | 3:38 |
-| 4 | [Ken Ness](https://open.spotify.com/track/4dHD9elSqv5DW4VbIcVzey) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Ken Ness](https://open.spotify.com/album/4Tf8ZEL2esrZ7JclvS6FWi) | 2:45 |
-| 5 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 1 | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/track/0wykjPfPa7YNXqohSzlsJ7) | [Lézard](https://open.spotify.com/artist/71OpeN8Riy5gGtmqlSYfVH) | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/album/3apSekdGAf1nGm25bTEUSA) | 2:59 |
+| 2 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 3 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
+| 4 | [Satellites \(feat\. Nana Adjoa\)](https://open.spotify.com/track/5k2JzYwLTRldm9h7VjP5KU) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Leave What You Know](https://open.spotify.com/album/2RGzwkYdAQwdd23PNh8sxc) | 3:38 |
+| 5 | [Ken Ness](https://open.spotify.com/track/4dHD9elSqv5DW4VbIcVzey) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Ken Ness](https://open.spotify.com/album/4Tf8ZEL2esrZ7JclvS6FWi) | 2:45 |
 | 6 | [Emo Song](https://open.spotify.com/track/1EAciAN6W2LWDqwonSKpZ6) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Emo Song](https://open.spotify.com/album/57eDLXzpt2x9Mu5uBZ0eFj) | 6:38 |
 | 7 | [Living Alone](https://open.spotify.com/track/3RF1l5qJWDol6cjs3Y9W6S) | [Lip Service](https://open.spotify.com/artist/44UntARhhznzcmUuns8h9s) | [Living Alone](https://open.spotify.com/album/03Y3XmLwjT5GQeZxxCtCtR) | 2:52 |
 | 8 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
 | 100 | [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 |
 
-Snapshot ID: `AAAAAJtIF9mjZYlbnGVzRMsrzciudLN9`
+Snapshot ID: `aCxdLAAAAAC6mgNddzr16o/11uF7JYIm`

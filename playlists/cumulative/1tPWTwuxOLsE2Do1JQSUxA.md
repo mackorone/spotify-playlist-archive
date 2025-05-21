@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-393 songs - 1 day 0 hr 14 min
+394 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Another Love \(Tom Odell\) \- slowed down](https://open.spotify.com/track/3LO3fkXAyzyhKjfx0IBhCh) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [another love / heal \- slowed down + sped up](https://open.spotify.com/album/2KcysSqOaNpjk5tzQVhkre) | 4:44 | 2023-02-16 | 2023-09-13 |
 | [Another Love \(Zwette Remix\) \[Radio Edit\]](https://open.spotify.com/track/0AhrgQlnppyE66RRi3eD25) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0) | [Ultra Dance](https://open.spotify.com/album/4GIaim1dlXAaPVPi8IRZzM) | 3:36 | 2023-11-09 | 2024-06-18 |
 | [Another Love \- Zwette Edit](https://open.spotify.com/track/5snyhxAh55A2wlNRH7VVZJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0) | [Another Love \(Zwette Edit\)](https://open.spotify.com/album/3Bi2XO3N9AL5f7VvVmyVna) | 6:34 | 2021-04-17 | 2023-04-04 |
+| [Another Sad Love Song](https://open.spotify.com/track/52Qu0no0NBho3zyRmjlsHn) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 4:04 | 2025-05-20 |  |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2021-08-26 | 2023-11-10 |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2020-10-20\* | 2021-07-01 |
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 | 2021-11-30 | 2022-01-01 |

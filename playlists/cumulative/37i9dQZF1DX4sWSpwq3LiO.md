@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,790 songs - 3 day 7 hr 27 min
+1,791 songs - 3 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2021-11-24 | 2022-10-04 |
 | [Contemplazione del Mare](https://open.spotify.com/track/5KX4Iw959UusWyNmqqAYMb) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Contemplazione del Mare](https://open.spotify.com/album/5ovjWBufizlB1cZWztGYm7) | 2:34 | 2024-08-07 |  |
 | [Continuo](https://open.spotify.com/track/3AogJjKJYSIEiXx8Xfq9Z9) | [Mauro Cangemi](https://open.spotify.com/artist/7M8vWWoWXUuH6qcoOpO2PN) | [Continuo](https://open.spotify.com/album/6ytCXPOIhToAXlhYEbbya7) | 2:14 | 2020-04-14 | 2021-04-14 |
+| [Contradictions](https://open.spotify.com/track/3paUjcpKJ910PnpxZJIZfE) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Contradictions](https://open.spotify.com/album/58woFKp3lFRTgRlFvfFh5B) | 3:03 | 2025-05-20 |  |
 | [Cor Meum](https://open.spotify.com/track/2kOWXD4YeNn1bGZljZlX93) | [8th Floor Wide](https://open.spotify.com/artist/3SIHBhzxgzWiGL8ZzZMhwr) | [Cor Meum](https://open.spotify.com/album/3bQzP4OhhRxxIuBEelUeTq) | 3:16 | 2019-05-26\* | 2019-12-04 |
 | [Coral Red](https://open.spotify.com/track/0RLDbBQxuLmVE0odiyMcNv) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 2:17 | 2019-05-26\* | 2019-08-23 |
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-03-10 | 2024-05-08 |
@@ -618,7 +619,7 @@
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2021-10-27 | 2022-04-29 |
 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 | 2022-04-22 | 2024-09-10 |
 | [Hiding](https://open.spotify.com/track/3a5rAo9zeU1lntg1cMdnBd) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Hiding](https://open.spotify.com/album/5v2z0CgPRZgztMiJrX2wTo) | 2:29 | 2025-04-15 |  |
-| [Hiding Place](https://open.spotify.com/track/1FuXj0Pb8eOW7PQTzzsJ3z) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Hiding Place](https://open.spotify.com/album/4s98ZZEUEgQ2xOK4O63kHH) | 2:36 | 2025-01-28 |  |
+| [Hiding Place](https://open.spotify.com/track/1FuXj0Pb8eOW7PQTzzsJ3z) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Hiding Place](https://open.spotify.com/album/4s98ZZEUEgQ2xOK4O63kHH) | 2:36 | 2025-01-28 | 2025-05-21 |
 | [Hiemal](https://open.spotify.com/track/72mTEG6Cw5amIPeNtOTzGV) | [Maria Marble](https://open.spotify.com/artist/3LmBcqcFv3Nvzs5gJMw8O4) | [Hiemal](https://open.spotify.com/album/1pOD79OCztUlCRtDdPiD00) | 2:44 | 2019-11-19 | 2020-11-17 |
 | [high above the trees](https://open.spotify.com/track/2BKvoqmJKFjMD87p7o2eRp) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 2:06 | 2021-06-24 | 2022-12-06 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-05-22 | 2021-08-05 |

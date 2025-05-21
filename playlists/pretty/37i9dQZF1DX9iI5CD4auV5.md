@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,583 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,609 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 79 | [Summertime](https://open.spotify.com/track/5cB41JHJIT5ilVWRamad6k) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Don't You Remember the Future](https://open.spotify.com/album/14XwY6XkIUzYJ4JQp4BVbK) | 5:04 |
 | 80 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
 
-Snapshot ID: `AAAAAGFMHstXDMWwGBtG2OaF3ZaruJUC`
+Snapshot ID: `Z240dQAAAAA8v2gDm2PpXbucx2onCkIf`

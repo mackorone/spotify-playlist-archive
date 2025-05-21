@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect romantic dinner.",
-  "num_followers": 141183,
+  "num_followers": 141181,
   "original_name": "Romantic Dinner",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 189706,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Enter The 37th Chamber",
-        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Everything Is Everything",
         "url": "https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+        "name": "Enter The 37th Chamber",
+        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Where Is the Love",
-      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+      "duration_ms": 174826,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -571,6 +551,26 @@
       "duration_ms": 192760,
       "name": "It's A Shame - Remastered",
       "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Where Is the Love",
+      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Remember the Rain",
         "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 280062,
       "name": "Remember the Rain",
       "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/6LCUPmtf6kJpk5p2RPPKQm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 251013,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/59526I0d4raugRW8MHNxXy"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+        }
+      ],
+      "duration_ms": 258912,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Gentry",
-          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
-        }
-      ],
-      "duration_ms": 258912,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Sunday's Best",
-        "url": "https://open.spotify.com/album/1fve3JXTenvbGiZEodDqgK"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        },
-        {
-          "name": "Stan Taylor",
-          "url": "https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU"
-        }
-      ],
-      "duration_ms": 166816,
-      "name": "Ooo Baby Baby",
-      "url": "https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Radio Music Society",
         "url": "https://open.spotify.com/album/50ZGiAqYPxQpDVs7QT2ys8"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 316866,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/0Y1qnAow1UCOZuVfK47sPl"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Sunday's Best",
+        "url": "https://open.spotify.com/album/1fve3JXTenvbGiZEodDqgK"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        },
+        {
+          "name": "Stan Taylor",
+          "url": "https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU"
+        }
+      ],
+      "duration_ms": 166816,
+      "name": "Ooo Baby Baby",
+      "url": "https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
-        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
-      },
-      "artists": [
-        {
-          "name": "Z.Z. Hill",
-          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Clean Up America",
-      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
+        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
+      },
+      "artists": [
+        {
+          "name": "Z.Z. Hill",
+          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Clean Up America",
+      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/5FeiZwAMqXeirKjp60E03b"
       },
@@ -2635,22 +2651,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Mr. Big Stuff (Remastered)",
-        "url": "https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Explores Your Mind",
         "url": "https://open.spotify.com/album/37ghryiXDoGdHX3eAvhu47"
       },
@@ -2663,6 +2663,22 @@
       "duration_ms": 225373,
       "name": "Take Me To The River",
       "url": "https://open.spotify.com/track/7a7drPRRR0mY7kOJDvDWjq"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Mr. Big Stuff (Remastered)",
+        "url": "https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2955,22 +2971,6 @@
       "duration_ms": 224960,
       "name": "The Addict",
       "url": "https://open.spotify.com/track/5rPXLUWqG6JwKCYMGH6e8C"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK"
     },
     {
       "added_at": "2025-05-19 12:18:40",

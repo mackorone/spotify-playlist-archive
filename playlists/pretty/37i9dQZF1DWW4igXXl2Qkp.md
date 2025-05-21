@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:02M8bIxB70TDLqRZGS5g3o">Younginsosleaze<br/></a>
+> Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:02M8bIxB70TDLqRZGS5g3o">Younginsosleaze<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,353 likes - 98 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,408 likes - 98 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dirty Diana](https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Sleaze the World](https://open.spotify.com/album/6ygz1FAP0dI829mbYngmL5) | 3:15 |
 | 2 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 |
-| 3 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Toy Story](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
+| 3 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
 | 4 | [Teach U How To Trap](https://open.spotify.com/track/0qp0fn5HPUkKGfp9484kec) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Enjoy The Ride](https://open.spotify.com/album/5nBLH7Rf0U7PjZqqK6NRUU) | 2:10 |
 | 5 | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL) | 2:00 |
 | 6 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 97 | [TURNITUP](https://open.spotify.com/track/2aT2qoPznOyTmjMBYfMqos) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K) | [PERFECT CIRCLE](https://open.spotify.com/album/5YvvxRThV1dmEUgpUk99eM) | 3:26 |
 | 98 | [No More Parties](https://open.spotify.com/track/4CU2nBXL9B96UbxkssszNj) | [Reese Youngn](https://open.spotify.com/artist/1du7HpeUTbkyNt0N6DfpXM) | [Pain or Problems](https://open.spotify.com/album/0X8GwwH60Ifgm9q9IXOIks) | 2:30 |
 
-Snapshot ID: `aCuSQgAAAACEXlXhT2cloF5hFmJRdlLS`
+Snapshot ID: `aCy27AAAAABwpMFIivgfYhy/clTOr98r`

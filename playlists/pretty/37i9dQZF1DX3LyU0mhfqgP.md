@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: JJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,751 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,955 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 40 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
 | 41 | [Times Like SIS](https://open.spotify.com/track/4RIzISlyULa7Y6x3NEGlu2) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Times Like SIS](https://open.spotify.com/album/7D4u32E8pT1FwVjVfT0WqW) | 2:45 |
 | 42 | [Dream Girl](https://open.spotify.com/track/7aU1C9a1aPhuQbiytcVQ9y) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Dream Girl](https://open.spotify.com/album/11N7EkuO5d8KvhQqJ6CrTJ) | 2:52 |
-| 43 | [MAKE IT OUT ALIVE](https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MAKE IT OUT ALIVE](https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw) | 2:51 |
+| 43 | [MAKE IT OUT ALIVE](https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MAKE IT OUT ALIVE](https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw) | 2:51 |
 | 44 | [True Colors](https://open.spotify.com/track/2EjCLEpEzUkt6yh3uM3Qt6) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [MET](https://open.spotify.com/artist/4QzScFRs2N6EdhJfX74b1O) | [True Colors](https://open.spotify.com/album/2R72ja4Moh2PmLuEx1xb3F) | 3:09 |
 | 45 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 |
 | 46 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |

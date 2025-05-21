@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">New edition of our newsletter soon...</a> Cover: Jim\-E Stack, producer extraordinaire
+> <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Check out our May newsletter!</a> Cover: Jim\-E Stack, producer extraordinaire
 
-3,351 songs - 7 day 14 hr 37 min
+3,356 songs - 7 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,6 +694,7 @@
 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 | 2024-05-25 |
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 | 2025-01-14 | 2025-05-14 |
 | [Cuff Your Jeans](https://open.spotify.com/track/0q9v0aM8nBBF045S4lUMJE) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Cuff Your Jeans](https://open.spotify.com/album/7Ety4yx03V4LF6xqNiqL1w) | 2:55 | 2021-01-12 | 2021-08-14 |
+| [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 | 2025-05-20 |  |
 | [Cut And Bleach My Hair](https://open.spotify.com/track/2eerqlJxHRUqshlJvDSBnq) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Goodbye EP](https://open.spotify.com/album/42LxcYD2smw7UweXna5iTu) | 3:22 | 2020-09-25 | 2020-11-18 |
 | [CYBERKISS 2 U\*](https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [CYBERKISS 2 U\*](https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ) | 3:08 | 2022-09-09 | 2022-10-13 |
 | [da da song](https://open.spotify.com/track/1PcK6cDH0Cq3h4etrY3QIw) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [da da song](https://open.spotify.com/album/7CeAUizDRDfQuI42JGMlTS) | 3:23 | 2022-10-21 | 2022-12-10 |
@@ -1050,6 +1051,7 @@
 | [Found!](https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drive Home](https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r) | 5:05 | 2023-05-26 | 2023-10-03 |
 | [Four Below](https://open.spotify.com/track/0kglgbhRgUQnz6HhPh1isC) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Four Below](https://open.spotify.com/album/6AONJTIWKcZw9AmDC9sUze) | 2:48 | 2022-12-07 | 2023-01-28 |
 | [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 | 2025-03-21 |  |
+| [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 | 2025-05-20 |  |
 | [Foxglove](https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Foxglove](https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp) | 2:40 | 2024-09-20 | 2024-12-18 |
 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 | 2019-10-25 | 2020-01-10 |
 | [Frances](https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:52 | 2024-07-19 | 2024-09-07 |
@@ -1865,6 +1867,7 @@
 | [Matador](https://open.spotify.com/track/4TcYr9WX6HSlevULMw3nnA) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 3:16 | 2023-07-31 | 2023-08-12 |
 | [Matilda](https://open.spotify.com/track/3aA5fk4c6a7e5HM4rJqkSF) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:48 | 2022-05-27 | 2022-06-22 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-20 | 2022-06-22 |
+| [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-20 |  |
 | [may you never forget me](https://open.spotify.com/track/72IYR4cNkBipxd5yChDAKB) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [flora maniia](https://open.spotify.com/album/0U329sLZJi8AzBbVtRvcS8) | 3:35 | 2025-01-17 | 2025-03-29 |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2021-10-16 | 2021-12-02 |
 | [Maybe Love](https://open.spotify.com/track/4chYGJ4RxKLpW5DqrYu93f) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Maybe Love](https://open.spotify.com/album/4YSQjDdAxbWbuZNwU36BUT) | 2:38 | 2022-11-18 | 2022-12-15 |
@@ -1961,7 +1964,7 @@
 | [Mother \- Remastered 2010](https://open.spotify.com/track/43Ud1IajwtBvw6ONj6aK2Q) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 5:36 | 2021-07-31 | 2021-08-14 |
 | [Motocross](https://open.spotify.com/track/71PfgIUSVJEE9lsuDf4MsK) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/24n0t3wZV2NWGp0gZhdygu) | 3:52 | 2020-04-22 | 2020-07-31 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-07-27 |
-| [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 | 2025-03-28 |  |
+| [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 | 2025-03-28 | 2025-05-21 |
 | [Move](https://open.spotify.com/track/1Yr3ult5AjLxwYQ0bFxlQr) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Move](https://open.spotify.com/album/53Gw66ZyMyoIfO6oOI11m9) | 3:14 | 2020-12-03 | 2021-01-12 |
 | [Mozart in My Mind](https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Mozart in My Mind](https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ) | 3:06 | 2023-11-10 | 2024-02-15 |
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-03-04 | 2022-04-21 |
@@ -2764,6 +2767,7 @@
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2019-08-24 | 2020-07-01 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-08-28 | 2021-12-02 |
 | [Sugar](https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 3:16 | 2022-06-03 | 2022-09-10 |
+| [Sugar! Honey! Love!](https://open.spotify.com/track/0iIut6VJ8lIT5di5ejg78O) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:04 | 2025-05-20 |  |
 | [sulky baby](https://open.spotify.com/track/2Euwbryh21DOB5zEH0WT4P) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 4:38 | 2024-01-10 | 2024-02-22 |
 | [Summa](https://open.spotify.com/track/2FvCf9lhKJLTWv41CZFV8W) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Summa](https://open.spotify.com/album/1Wuau6PiAXVPTwKlZKEskG) | 2:39 | 2019-08-02 | 2019-11-14 |
 | [Summa Glo](https://open.spotify.com/track/2iAKOeAInq4myXRXSwalRI) | [Apricot Ink](https://open.spotify.com/artist/1G1wiJFW17GKtPfxUNLPhJ) | [Summa Glo](https://open.spotify.com/album/2C7pH4yGqHN7ol7C4BZr2D) | 3:05 | 2023-04-14 | 2023-04-25 |
@@ -2776,6 +2780,7 @@
 | [Summer Love](https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq) | 3:55 | 2022-09-02 | 2022-12-08 |
 | [Summer Rain](https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Summer Rain](https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62) | 4:19 | 2024-02-16 | 2024-05-01 |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-04 | 2025-01-18 |
+| [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 | 2025-05-20 |  |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-10-26 | 2023-10-11 |
 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 | 2019-07-30\* | 2020-04-20 |
 | [Sun Bleached Flies](https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:36 | 2023-03-10 | 2023-04-01 |

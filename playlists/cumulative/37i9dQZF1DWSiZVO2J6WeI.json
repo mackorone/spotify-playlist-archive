@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Dianthus",
+        "url": "https://open.spotify.com/album/3OwBKehtzXhUBXuKiLqF9q"
+      },
+      "artists": [
+        {
+          "name": "Cosmologica",
+          "url": "https://open.spotify.com/artist/3mtKH7qKSckjQ2tx3CaGCY"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189195,
+      "name": "Dianthus",
+      "url": "https://open.spotify.com/track/4KMlFYw4nlAasaivtPyyS4"
+    },
+    {
+      "album": {
         "name": "Discovery (432 Hz)",
         "url": "https://open.spotify.com/album/0ad22P8z4rXNjwgQ3CDA4U"
       },
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 166285,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN"
@@ -3391,6 +3409,42 @@
     },
     {
       "album": {
+        "name": "Fluidity",
+        "url": "https://open.spotify.com/album/0oNy6rKzaNNVi9i7KfCik5"
+      },
+      "artists": [
+        {
+          "name": "Meta Theta",
+          "url": "https://open.spotify.com/artist/4oi7Xs0414Dk3oCXdynEYn"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155895,
+      "name": "Fluidity",
+      "url": "https://open.spotify.com/track/54VkHU9gdoNv4kULkcJW9E"
+    },
+    {
+      "album": {
+        "name": "Forever You",
+        "url": "https://open.spotify.com/album/7451CmqIOVT42h4UqNBlqC"
+      },
+      "artists": [
+        {
+          "name": "Gentle States",
+          "url": "https://open.spotify.com/artist/0BgcM7eignAv2PYIRlUTX0"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Forever You",
+      "url": "https://open.spotify.com/track/3kT6XRBozzK1Ej6nkyUGFL"
+    },
+    {
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/5zFIATE8OHJrYBpZ1ZHuHR"
       },
@@ -3514,6 +3568,24 @@
       "duration_ms": 181965,
       "name": "Galactic Glaze",
       "url": "https://open.spotify.com/track/4wlLeaSsANRRB1cqwTwQD0"
+    },
+    {
+      "album": {
+        "name": "Galaxy Dreams",
+        "url": "https://open.spotify.com/album/5pidpD5pLpaeMnWZfmoAHt"
+      },
+      "artists": [
+        {
+          "name": "Silent Motions",
+          "url": "https://open.spotify.com/artist/0DehDfZmlIYGmO3om2pASu"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Galaxy Dreams",
+      "url": "https://open.spotify.com/track/2Zsg5jUvPIVsYhQ6PbmJu2"
     },
     {
       "album": {
@@ -4998,6 +5070,24 @@
       "duration_ms": 264000,
       "name": "Luminescent",
       "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
+    },
+    {
+      "album": {
+        "name": "Lum\u00e9a",
+        "url": "https://open.spotify.com/album/0vA6p7prOWPvYs2cYyYGo4"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165563,
+      "name": "Lum\u00e9a",
+      "url": "https://open.spotify.com/track/2JsGCaSlVchB4drKoL6GQb"
     },
     {
       "album": {
@@ -6877,6 +6967,24 @@
     },
     {
       "album": {
+        "name": "Saster 432Hz",
+        "url": "https://open.spotify.com/album/6eH34ptwsJEG4ShenKvKAb"
+      },
+      "artists": [
+        {
+          "name": "Droneq",
+          "url": "https://open.spotify.com/artist/190NqI0gt1k58C0bAwWkDH"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "Saster 432Hz",
+      "url": "https://open.spotify.com/track/22AKOYsMNojiHdnRbQNwOM"
+    },
+    {
+      "album": {
         "name": "Constelaciones",
         "url": "https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1"
       },
@@ -6928,6 +7036,24 @@
       "duration_ms": 217426,
       "name": "Sea Sketch",
       "url": "https://open.spotify.com/track/16NJqRGQ2k1XV2IM0y7v8I"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4eYHPC2pSekOLbAfhVppeQ"
+      },
+      "artists": [
+        {
+          "name": "Phylloscopus humei",
+          "url": "https://open.spotify.com/artist/0fTIoPPUI4uc1vmicKfoqS"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210031,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1QRLI6nAHemE1mveWsPe5x"
     },
     {
       "album": {
@@ -8520,6 +8646,24 @@
       "duration_ms": 160285,
       "name": "Vignette",
       "url": "https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF"
+    },
+    {
+      "album": {
+        "name": "Vila",
+        "url": "https://open.spotify.com/album/0AYjEP6XYekv2ghPhe3Fws"
+      },
+      "artists": [
+        {
+          "name": "Amsaga",
+          "url": "https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195091,
+      "name": "Vila",
+      "url": "https://open.spotify.com/track/3v7Wc8Z5Z1HuZPleTT9E0m"
     },
     {
       "album": {

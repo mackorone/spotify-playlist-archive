@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,940 likes - 40 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,041 likes - 40 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 13 | [Ta meuf](https://open.spotify.com/track/17709i83p9cPzoPaPCq9jm) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Ta meuf](https://open.spotify.com/album/2Q7fKtZMhmXi6PV4tDSH2o) | 1:49 |
 | 14 | [Pété Tchouw](https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Jona](https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM), [JDS](https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm) | [Pété Tchouw](https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom) | 1:53 |
 | 15 | [Batché a bo'y](https://open.spotify.com/track/4sDXudO7gpCFqsxFUuMb7E) | [Kryssy](https://open.spotify.com/artist/0aFrpBv0tkmDm9qFlXK2Gc) | [Batché a bo'y](https://open.spotify.com/album/22mUkVsT9qqWoVmrh6pTn5) | 1:49 |
-| 16 | [Esmeralda](https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Esmeralda](https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF) | 1:54 |
+| 16 | [ESMERALDA](https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [ESMERALDA](https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF) | 1:54 |
 | 17 | [Patate](https://open.spotify.com/track/39MeqqlNI3POr8nC2fsZQ9) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [Patate](https://open.spotify.com/album/5L0RlwD3q6S06NnxaBXbpx) | 2:25 |
 | 18 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 |
 | 19 | [Capitaine](https://open.spotify.com/track/7o7phZdbsBLXcVB4nPvM2s) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Shannon](https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE) | [Capitaine](https://open.spotify.com/album/2R1ggWo2mwiryKiGZhjCju) | 2:52 |

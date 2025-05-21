@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,868 songs - 4 day 0 hr 56 min
+1,869 songs - 4 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,7 @@
 | [Farstaglitter](https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:51 | 2021-12-16 | 2022-03-10 |
 | [Farväl](https://open.spotify.com/track/78ojtQHsb5KBUjjTIJGvf1) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Farväl](https://open.spotify.com/album/4xrJlXt3MvNTbfNPuQfHrK) | 2:32 | 2024-04-18 | 2024-05-17 |
 | [Fast med dig](https://open.spotify.com/track/2KIzBv4vFeLtO50WBbHGKk) | [Ness Hakin](https://open.spotify.com/artist/73SA7OgBvMc1GGRyius3UN) | [Fast med dig](https://open.spotify.com/album/1ENEtJUy1nmsK4isB1YXl6) | 2:38 | 2022-05-26 | 2022-07-29 |
-| [Fattiga & Rika](https://open.spotify.com/track/2EIxY5QoWuXUNNyPrnHg3b) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Fattiga & Rika](https://open.spotify.com/album/1DMi8QGUj1fzhgqG0XodjI) | 2:41 | 2025-05-01 |  |
+| [Fattiga & Rika](https://open.spotify.com/track/2EIxY5QoWuXUNNyPrnHg3b) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Fattiga & Rika](https://open.spotify.com/album/1DMi8QGUj1fzhgqG0XodjI) | 2:41 | 2025-05-01 | 2025-05-21 |
 | [Feberdrömmar](https://open.spotify.com/track/3sk4gzlXoaylQ3DR3NdnKK) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen // Feberdrömmar](https://open.spotify.com/album/44SPK7QVLYgoYVB7A3auuS) | 3:23 | 2025-05-16 |  |
 | [Feel Love](https://open.spotify.com/track/2rEepd7vMT7nySNBliu8VU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/1ekyxoUytdZjVwOR5teXlm) | 3:43 | 2022-05-19 | 2022-07-28 |
 | [Feeling Lucky Tonight](https://open.spotify.com/track/4FAqXvlU7GDVKdhrNAkTS7) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Feeling Lucky Tonight](https://open.spotify.com/album/3aHdbDjoD4a0dY0jzkELCS) | 2:25 | 2024-05-16 | 2024-06-14 |
@@ -1843,6 +1843,7 @@
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-12 | 2022-09-13 |
 | [X](https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [X](https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR) | 2:41 | 2022-03-17 | 2022-09-16 |
 | [ye, aha](https://open.spotify.com/track/04C1OEisyN3uS6tzJ3qWll) | [Naomi Vaughn](https://open.spotify.com/artist/1SCpIF2L2jzSfIcdgGtPE8) | [ye, aha](https://open.spotify.com/album/5zDnEjhZS5CxglWmVRPCCS) | 2:57 | 2022-06-30 | 2022-07-20 |
+| [Yeah Yeah](https://open.spotify.com/track/5HUZUWq22164INQ0CXnEBu) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Yeah Yeah](https://open.spotify.com/album/3ysBtzKs10TrCGdbAVB0GR) | 2:25 | 2025-05-16 |  |
 | [Yellow](https://open.spotify.com/track/2qyVS8PtyshEjMG2EWfr06) | [Tyra Chantey](https://open.spotify.com/artist/2TTmUTfsQjQb9Wx8arAZy9) | [Yellow](https://open.spotify.com/album/3XRfjXygP16DWk8sjuPbHt) | 3:00 | 2022-09-29 | 2023-06-23 |
 | [YES](https://open.spotify.com/track/0avPu8U9lvMBAioy2LcznY) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [YES](https://open.spotify.com/album/4YYiMfMEYp6qrXoI41AYO6) | 3:27 | 2023-04-06 | 2023-04-14 |
 | [YES \(feat\. Namasenda\)](https://open.spotify.com/track/3QSVDpDSz8XcH3Oz7YuHIZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [YES \(feat\. Namasenda\)](https://open.spotify.com/album/4VbClfuZF83eFsdmfqX7TU) | 2:38 | 2023-05-04 | 2023-06-18 |

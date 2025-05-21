@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-984 songs - 2 day 7 hr 30 min
+986 songs - 2 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Erased](https://open.spotify.com/track/1E3g55PMTQsgU2fzQfEVt6) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Erased](https://open.spotify.com/album/4ajWveeGRk0MiwZqg03Nmt) | 2:46 | 2024-03-26 | 2024-06-13 |
 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 | 2025-03-07 |  |
 | [Este](https://open.spotify.com/track/7jGOUkaWlFj9zPEM0u9gHx) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Este](https://open.spotify.com/album/67RvEFugxevmYfrHVRiyUt) | 2:50 | 2024-10-01 | 2025-01-10 |
+| [Eucalyptus](https://open.spotify.com/track/6Clt8DqNy7pvteaNfwSTDI) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Eucalyptus](https://open.spotify.com/album/700EBo3VDkXqSssWGjCFMl) | 3:09 | 2025-05-20 |  |
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 | 2023-07-22 |
 | [Euphoria Rush](https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Euphoria Rush](https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt) | 3:56 | 2024-08-14 | 2024-11-07 |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
@@ -491,6 +492,7 @@
 | [Lightbringer \- VIP](https://open.spotify.com/track/3k6FvXHi6ff25TD945UE6g) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Lightbringer \(VIP\)](https://open.spotify.com/album/1a95zDy5MgZPzDRaAZNXEu) | 2:57 | 2024-12-13 | 2025-03-22 |
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 | 2022-08-13 |
 | [Lights Out](https://open.spotify.com/track/75QDpUx2auLj2WBmq4D4DO) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Lights Out](https://open.spotify.com/album/1O3Pne76S6foaWI0eLw3BJ) | 2:55 | 2022-04-04 | 2022-06-15 |
+| [LIGHTSHOW](https://open.spotify.com/track/4adPSM4awRZkMR24DmZ3gj) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [LIGHTSHOW](https://open.spotify.com/album/79ZaRE4ev6xGaY1p4Tl5sn) | 2:25 | 2025-05-20 |  |
 | [Lily Garden](https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Lily Garden](https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm) | 3:18 | 2024-08-13 | 2024-11-05 |
 | [Liminal](https://open.spotify.com/track/10tif34C0hcgqdDgsvQLQG) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Convexity](https://open.spotify.com/artist/5yyqKaR2sQiuMm2gC83f31) | [Liminal](https://open.spotify.com/album/5aQuFD0k2AvweTvB4NWsL7) | 3:38 | 2024-01-19 | 2024-04-10 |
 | [Limitless](https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:48 | 2022-11-16 | 2023-02-09 |

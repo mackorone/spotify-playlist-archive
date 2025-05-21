@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,812 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,826 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Call Me When It's Over](https://open.spotify.com/track/4Pa8n77yMfh1Vp9GbXcnYT) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Call Me When It's Over](https://open.spotify.com/album/2G9MKeUFqc9hPdeWNux4ZG) | 3:10 |
 | 100 | [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 |
 
-Snapshot ID: `aCXzeQAAAACu+xSNTP+SfpelcpwJcBT/`
+Snapshot ID: `AAAAAHtWcPNXwTfViENvKxd6gTwp2B4U`

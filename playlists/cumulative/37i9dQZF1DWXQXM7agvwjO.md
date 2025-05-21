@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: ena mori \(Philippines\)
 
-1,938 songs - 4 day 21 hr 13 min
+1,939 songs - 4 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Drained](https://open.spotify.com/track/1AMqOXysym1eQApzigVF5r) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Drained](https://open.spotify.com/album/58UA19x8t3ZhsdH8CdznwM) | 4:37 | 2023-03-16 | 2023-04-21 |
 | [Dream Away \(feat\. Phum Viphurit\)](https://open.spotify.com/track/5fy6qU1f6tv3wOpcyAPlBo) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Eutopia](https://open.spotify.com/album/4MUHJDhll4mTa80kATFiHG) | 3:52 | 2022-09-08 | 2022-11-11 |
 | [dream boy](https://open.spotify.com/track/24tXaX2zJStI0F5lcmVayK) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [dream boy](https://open.spotify.com/album/7qi4kZQUYPtnj1aehOl1lk) | 2:46 | 2022-09-01 | 2022-10-21 |
+| [Dream is Beautiful](https://open.spotify.com/track/2JfxzjkeipBe5eik3ExS40) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Dream is Beautiful](https://open.spotify.com/album/6D5YjTjMOZHf9WwVbhekiZ) | 2:14 | 2025-05-15 |  |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2022-06-02 |  |
 | [dream paralysis](https://open.spotify.com/track/2Aw6pipb4EHOxtckYZmEnT) | [Astor Walk](https://open.spotify.com/artist/6eCaI5ppOeDrr7zs2VZtVg) | [dream paralysis](https://open.spotify.com/album/62vgaPPxPdECe2GD5nTisS) | 2:42 | 2024-11-15 | 2024-12-21 |
 | [dream\. \(좋은 분위기\)](https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [dream\. \(좋은 분위기\)](https://open.spotify.com/album/0LAesrqOEXIjs2285IXVis) | 3:06 | 2025-02-06 |  |
@@ -1362,7 +1363,7 @@
 | [Small Victories](https://open.spotify.com/track/0Bd7yruY4r7ndEcPkgkVgp) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Small Victories](https://open.spotify.com/album/2b1zLoAlI0DBKQSHh1OGBn) | 3:48 | 2024-11-15 | 2025-01-24 |
 | [Smile](https://open.spotify.com/track/34150VIJ46HI3exsXOlCSp) | [Cinéma Lumière](https://open.spotify.com/artist/3uOvdTke24fULCtW11LibU) | [Wishing It Was Sunday](https://open.spotify.com/album/0wmDkXGeMLACwOeJw2YvtO) | 3:39 | 2024-08-01 | 2024-08-30 |
 | [Smile!](https://open.spotify.com/track/6Khapx3MSeJU3CAICxVeSv) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You're On Camera](https://open.spotify.com/album/5XbzCJBgVE0CUWnoXrFKSm) | 3:35 | 2023-11-23 | 2023-12-01 |
-| [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-16 |  |
+| [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-16 | 2025-05-21 |
 | [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 | 2025-04-03 |  |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-04 | 2022-08-26 |
 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 | 2023-04-13 | 2023-07-07 |

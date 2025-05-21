@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,413 songs - 2 day 21 hr 58 min
+1,414 songs - 2 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,6 +1166,7 @@
 | [Soñando contigo](https://open.spotify.com/track/1i08QuMuJk5RPROZkCkt8k) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Soñando contigo](https://open.spotify.com/album/1Ht1ElfGVwAe4CUmCKKCoa) | 3:19 | 2021-02-06 | 2022-09-03 |
 | [Soon](https://open.spotify.com/track/59s8YAJpSLUMRGzys8B7K4) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Soon](https://open.spotify.com/album/043sNASGtzNFLsGkbzhYQu) | 2:42 | 2024-07-09 | 2025-03-28 |
 | [Soothing Clouds](https://open.spotify.com/track/5rL5AzqG58aU1R0t0zY0Ox) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Soothing Clouds](https://open.spotify.com/album/2hoQyCzvAM14tksVwAcMcf) | 2:25 | 2021-07-07 | 2023-06-03 |
+| [Soothing Rain](https://open.spotify.com/track/0DUTTZ2PEFToJk76nWlsKE) | [Don Becker](https://open.spotify.com/artist/1KHri1Eg72dh283p9K7jLQ) | [Soothing Rain](https://open.spotify.com/album/5dxS8SwE8acnXAQz4CQpGC) | 2:18 | 2025-05-20 |  |
 | [Soothing Spaces](https://open.spotify.com/track/7LtnHirNq1a0XjMcNk9Amj) | [Storm Joan](https://open.spotify.com/artist/1Ofp3pfCwRr8DTGhp2dyAY) | [Soothing Spaces](https://open.spotify.com/album/2P2l7vcVYJvjHndZB5MoWy) | 2:32 | 2022-07-08 | 2024-02-08 |
 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 | 2022-02-09 | 2024-02-08 |
 | [Soul Seeker](https://open.spotify.com/track/2Yl8IWczovXAiUOOLGkGjx) | [Ben Tamale](https://open.spotify.com/artist/26o2RselQuveaOmlx3TCQh) | [Soul Seeker](https://open.spotify.com/album/2KTNtjqNS0aSa6850gtW15) | 3:14 | 2024-02-07 | 2024-03-07 |
@@ -1183,7 +1184,7 @@
 | [Spreading Calm](https://open.spotify.com/track/0SjOXAgmGiGLVmh000BiN5) | [Mr Hardfelt](https://open.spotify.com/artist/0jC4Lqp4bTHT9gu2c1Camy) | [Spreading Calm](https://open.spotify.com/album/4sqmm0zqx5s5WVLgiGuUhF) | 2:58 | 2024-01-17 | 2024-03-21 |
 | [Squama](https://open.spotify.com/track/3uqxytqtmoZuxyn3ISYT2e) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Squama](https://open.spotify.com/album/5etPDJsjirWwVjxIbZgdb1) | 3:31 | 2021-06-16 | 2023-03-10 |
 | [Stabilize](https://open.spotify.com/track/0AC6SZlAoEbvzhMeUiwsAq) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Stabilize](https://open.spotify.com/album/27ZSlh6IgrmEoDIP5LKrM5) | 2:37 | 2024-07-09 | 2025-04-24 |
-| [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-07 |  |
+| [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-07 | 2025-05-21 |
 | [Star Nebula](https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Star Nebula](https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp) | 3:06 | 2024-04-05 | 2024-05-05 |
 | [Star Sapphire](https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Star Sapphire](https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy) | 2:21 | 2024-03-20 |  |
 | [Star Stars](https://open.spotify.com/track/1QEZAFj1GzKUkMgM9cFgTW) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Star Stars](https://open.spotify.com/album/3d3jAUgBsXpLmJWZw7Q1gW) | 2:56 | 2023-01-09 | 2024-02-08 |

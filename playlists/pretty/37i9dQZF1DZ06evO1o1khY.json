@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 37532,
+  "num_followers": 37559,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCkjAAAAAAD94e21gokBRhsZEWyaM47j",
+  "snapshot_id": "aCp0gAAAAACqzodcQlh0WMp75HbgnfGP",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
+        "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "duration_ms": 179795,
+      "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
+      "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
       },
@@ -491,30 +515,6 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/6eHksHmETBULwFo0N3k562"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
-        "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "KARRAHBOOO",
-          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
-        }
-      ],
-      "duration_ms": 179795,
-      "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
-      "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
     },
     {
       "added_at": null,

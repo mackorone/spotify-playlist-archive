@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: FUNNY THINK",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: \u304b\u3089\u3042\u3052\u5f01\u5f53",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 192453,
       "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
       "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
@@ -15006,6 +15006,24 @@
       "duration_ms": 173893,
       "name": "\u9806\u98a8\u6e80\u5e06",
       "url": "https://open.spotify.com/track/7cYSocFWsJWv5RS0myvg0L"
+    },
+    {
+      "album": {
+        "name": "\u98a8",
+        "url": "https://open.spotify.com/album/2td75lpVPiRtzpCBNHrWCe"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3089\u3042\u3052\u5f01\u5f53",
+          "url": "https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121866,
+      "name": "\u98a8",
+      "url": "https://open.spotify.com/track/66sB2NQk0hhkNbcQYm9V3F"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz"

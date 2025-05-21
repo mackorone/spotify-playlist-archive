@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-338 songs - 13 hr 51 min
+340 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Picture Of Her](https://open.spotify.com/track/3W2VdvndrAvJdlqa2pn2Pc) | [Derick Carson](https://open.spotify.com/artist/0CaZ6x330PQergmF3mEpuY) | [A Picture Of Her](https://open.spotify.com/album/6tWUieCeCdwaimukWcmJdv) | 2:13 | 2023-06-20 |  |
 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 | 2024-03-05 |  |
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2021-12-14 |  |
+| [A Walk Along the Seine](https://open.spotify.com/track/5X1UIUwfELwhImAfkIGfMD) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [A Walk Along the Seine](https://open.spotify.com/album/6i64uiYslHoDvAmP9U2gLW) | 2:11 | 2025-05-20 |  |
 | [Abbotsbury](https://open.spotify.com/track/3pagZPFqFtaunRgnimseRR) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Abbotsbury](https://open.spotify.com/album/6xI5KVTGlWKNyeg2BCkx4e) | 2:04 | 2021-12-14 | 2022-10-27 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-14 |  |
 | [Alentejo](https://open.spotify.com/track/2AbSbrm05gpRaZoomLi2LM) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Alentejo](https://open.spotify.com/album/4bodWawvIufMLPIJyx9Bwq) | 2:16 | 2022-12-06 |  |
@@ -43,7 +44,7 @@
 | [Blumenwiese](https://open.spotify.com/track/5LqtZQRkuuz3X6sa7vKAuN) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Blumenwiese](https://open.spotify.com/album/1y3sMt414NJdOYiHYGDGSn) | 2:40 | 2022-10-26 |  |
 | [Boite à Musique](https://open.spotify.com/track/3XZDnfcnrOokM3dDgQ6oYX) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Boite à Musique](https://open.spotify.com/album/58jpKetqYQHsoVcwOLj4Ef) | 2:19 | 2023-10-10 | 2024-04-19 |
 | [Boscotrecase](https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o) | [Ennio Bellucc](https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx) | [Boscotrecase](https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe) | 2:16 | 2024-04-22 |  |
-| [Breathe Easy](https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Breathe Easy](https://open.spotify.com/album/4hqipiTBHlbM2q9eC5Zd1E) | 2:26 | 2024-10-15 |  |
+| [Breathe Easy](https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Breathe Easy](https://open.spotify.com/album/4hqipiTBHlbM2q9eC5Zd1E) | 2:26 | 2024-10-15 | 2025-05-21 |
 | [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 | 2025-04-16 |  |
 | [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 | 2023-01-09 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-14 | 2022-07-21 |
@@ -51,7 +52,7 @@
 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 | 2021-12-14 | 2024-10-02 |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2021-12-14 | 2023-05-04 |
 | [Bundle of Joy](https://open.spotify.com/track/2Gqko5KvjhQap113vwwP2i) | [Brother James](https://open.spotify.com/artist/5xZglTXVKOkpkC70KMPis9) | [Bundle of Joy](https://open.spotify.com/album/6Oe881dbjhl5HkUW8ATKq1) | 1:09 | 2021-12-14 | 2023-09-19 |
-| [Butterflies](https://open.spotify.com/track/0AZQYsPjwWB1Zd8KCRCp2m) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Times Gone By](https://open.spotify.com/album/58MF4lru4Nm7MQq7ctCym8) | 2:07 | 2022-12-06 |  |
+| [Butterflies](https://open.spotify.com/track/0AZQYsPjwWB1Zd8KCRCp2m) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Times Gone By](https://open.spotify.com/album/58MF4lru4Nm7MQq7ctCym8) | 2:07 | 2022-12-06 | 2025-05-21 |
 | [Calas de Roche](https://open.spotify.com/track/4PdjQqQIf7S5MYE044XugT) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Calas de Roche](https://open.spotify.com/album/3sd2f1RnqLNL39UAU03a3h) | 2:26 | 2021-12-14 |  |
 | [Camino](https://open.spotify.com/track/6iRtD6kgCTAHOl5nXmOkop) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Camino](https://open.spotify.com/album/5nyL3abLor8WN4Ba6mJIyr) | 2:15 | 2024-03-05 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 | 2025-02-21 |  |
@@ -302,6 +303,7 @@
 | [Ti sto aspettando](https://open.spotify.com/track/6GsPgwT4H2gJI1aP6auCut) | [Fioretta Rizzo](https://open.spotify.com/artist/3aG2UYHfqXOYEJ9YzHCBqZ) | [Ti sto aspettando](https://open.spotify.com/album/2jtUHaeSxNuLotdxtI4U8u) | 1:53 | 2023-05-03 | 2023-09-19 |
 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2024-04-17 |  |
 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 | 2024-04-17 |  |
+| [Time Will Heal](https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Time Will Heal](https://open.spotify.com/album/2DrVkyMIctHhYWz0WU7Vfj) | 2:27 | 2025-05-20 |  |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-02 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-06 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-14 |  |

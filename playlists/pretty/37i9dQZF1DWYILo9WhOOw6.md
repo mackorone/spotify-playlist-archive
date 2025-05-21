@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,135 likes - 143 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,481 likes - 143 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 142 | [Miramare Delta Sinus 81\-83 Hz](https://open.spotify.com/track/1hOi2RvvEOiCWTassf1Kuv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Miramare Delta](https://open.spotify.com/album/1y4EyBDQ2kfF81c6XRnKED) | 2:52 |
 | 143 | [Binaural Beats \(Delta Waves\)](https://open.spotify.com/track/2dsPYdcL9KKG0ZI2FStaWL) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Sleeping Music: Soothing Binaural Beats and Dream Sleep Sounds for Deep Sleep, Relaxing Sleep Aid, Asmr and Sleep Music](https://open.spotify.com/album/22yQ8lgVEHKJyVrOvrMiNe) | 2:00 |
 
-Snapshot ID: `aBoDWAAAAABSs7xnL3N4QZSDAAYOzYCc`
+Snapshot ID: `aBoDWAAAAADt3ZuorBpf/Rg1Db+aAR1b`

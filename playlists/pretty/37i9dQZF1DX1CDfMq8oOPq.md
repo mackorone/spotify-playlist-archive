@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 2d e aju são o corre, olha a postura 🤌🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,928 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,957 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
 | 40 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |
 | 41 | [E eu não sei se te respondo](https://open.spotify.com/track/43KdAIrNhRoZpYUGHYej7A) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY), [Gordon mc](https://open.spotify.com/artist/3OvZcWedVpkCwMdmIKaWh1) | [E eu não sei se te respondo](https://open.spotify.com/album/3PCDA4jxFk8FNgOwFHTjoL) | 2:10 |
-| 42 | [Pegada de Chefona](https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Mun Há](https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f) | [Pegada de Chefona](https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH) | 2:56 |
+| 42 | [Na Medida](https://open.spotify.com/track/1MWjHOKueKE50s4UQhiE5B) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Medida](https://open.spotify.com/album/7puLRWywNtxOnf8OjMAzGT) | 2:13 |
 | 43 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |
-| 44 | [Na Medida](https://open.spotify.com/track/1MWjHOKueKE50s4UQhiE5B) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Medida](https://open.spotify.com/album/7puLRWywNtxOnf8OjMAzGT) | 2:13 |
+| 44 | [Pegada de Chefona](https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Mun Há](https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f) | [Pegada de Chefona](https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH) | 2:56 |
 | 45 | [Armadilha](https://open.spotify.com/track/4wCfL1Ad92n5gHRxWrVUly) | [Maria Preta MC](https://open.spotify.com/artist/1Rk1WfvNaBxlWRWJQG8qyJ) | [Armadilha](https://open.spotify.com/album/58Z2PTsBeDlNrfMeCsC7DN) | 2:49 |
 | 46 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
 | 47 | [Eu Só Tenho Isso \- Bonus Track](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |

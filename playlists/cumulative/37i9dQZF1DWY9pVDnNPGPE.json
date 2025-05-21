@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 220845,
       "name": "Fly away",
       "url": "https://open.spotify.com/track/4uh6rj3FryYQXMz9zLqDKL"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 153986,
       "name": "Ordinary Ending",
       "url": "https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA"
@@ -1350,6 +1350,42 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "album": {
+        "name": "Romance Express",
+        "url": "https://open.spotify.com/album/5SWpoV5qrSIv5zWsDFejO9"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Petal",
+      "url": "https://open.spotify.com/track/2dlqQkDF1aej9IRpZWjdvY"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
     },
     {
       "album": {
@@ -1422,7 +1458,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 212946,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/40jKmO49u111wjmrqUy1mU"
@@ -1448,6 +1484,24 @@
       "duration_ms": 244133,
       "name": "RIDE (feat. THAMA)",
       "url": "https://open.spotify.com/track/6jpFPa2m8PjHurC7508wYB"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/5Bawu66qitvPmRLWcZufPh"
+      },
+      "artists": [
+        {
+          "name": "ARO",
+          "url": "https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186594,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/2tjWtD3qkbad3QqA325sHG"
     },
     {
       "album": {

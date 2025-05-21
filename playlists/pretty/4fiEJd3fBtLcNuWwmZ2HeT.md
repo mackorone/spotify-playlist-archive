@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 288 songs - 16 hr 17 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 293 songs - 16 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,5 +296,10 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 286 | [\_\_\_\_\_\_](https://open.spotify.com/track/0NjGohOFKKxpJLLAovsEtO) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\_\_\_\_\_\_](https://open.spotify.com/album/2XgpdopvOJdcBC9Oq3xtCE) | 2:21 |
 | 287 | [A Little Sly](https://open.spotify.com/track/2ATyWYSGQCmVLPPQQ7lNzG) | [Saica](https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5) | [A Little Sly](https://open.spotify.com/album/2aFR7ecyJ3eAXDk5I8Z3NS) | 2:01 |
 | 288 | [just saying, the body is honest.](https://open.spotify.com/track/4z1O8W35JfmFjPlD9KYvid) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [just saying, the body is honest.](https://open.spotify.com/album/7grI8AGOeBtLLcmSPFHqvp) | 2:23 |
+| 289 | [Lepido](https://open.spotify.com/track/480iwKxMnM5sZsP8FjE1Y2) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:39 |
+| 290 | [It's Tokyo](https://open.spotify.com/track/3qcLn1kuZC9jnfRgOaKYDo) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I loved you](https://open.spotify.com/album/1OUxyuiiD0G2f6aY9QUOKp) | 4:31 |
+| 291 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 |
+| 292 | [Fibber](https://open.spotify.com/track/1QuRsBr1YF54MkQqVudKef) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:02 |
+| 293 | [prayer](https://open.spotify.com/track/03MAoBUO3pCOc9uCgZalQ9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:20 |
 
-Snapshot ID: `AAAJBv8LXYonU773xUuCRCRSX/8ySAUx`
+Snapshot ID: `AAAJCybAfC6Ifd2zqQYIZyw8jz7oMihr`

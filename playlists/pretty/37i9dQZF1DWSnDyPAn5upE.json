@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Laura Misch",
-  "num_followers": 75356,
+  "num_followers": 75401,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
+        "name": "Virga (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 382867,
+      "name": "Virga (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
+    },
+    {
+      "added_at": "2025-04-24 09:29:04",
+      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 282920,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2025-04-24 09:29:04",
-      "album": {
-        "name": "Virga (feat. Darlingside)",
-        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 382867,
-      "name": "Virga (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
     },
     {
       "added_at": "2025-04-24 09:29:04",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        },
+        {
+          "name": "Chris Lippincott",
+          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+    },
+    {
+      "added_at": "2025-04-24 09:29:04",
+      "album": {
         "name": "Ithaca",
         "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 238145,
       "name": "Strong, Calm, Slow",
       "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
-    },
-    {
-      "added_at": "2025-04-24 09:29:04",
-      "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        },
-        {
-          "name": "Chris Lippincott",
-          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
     },
     {
       "added_at": "2025-04-24 09:29:04",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+    },
+    {
+      "added_at": "2025-04-24 09:29:04",
+      "album": {
         "name": "Japanese Summer Lost",
         "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2025-04-24 09:29:04",
-      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
+        "name": "Shifting Winds",
+        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
+    },
+    {
+      "added_at": "2025-04-24 09:29:04",
+      "album": {
         "name": "Pray for Us",
         "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 292605,
       "name": "Pray for Us",
       "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
-    },
-    {
-      "added_at": "2025-04-24 09:29:04",
-      "album": {
-        "name": "Shifting Winds",
-        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
     },
     {
       "added_at": "2025-04-24 09:29:04",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj"
-      },
-      "artists": [
-        {
-          "name": "Umitaro Abe",
-          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
-        },
-        {
-          "name": "Kaori Takeda",
-          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
-        }
-      ],
-      "duration_ms": 121680,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS"
-    },
-    {
-      "added_at": "2025-04-24 09:29:04",
-      "album": {
         "name": "Ode to the blue",
         "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 173625,
       "name": "Ode to the blue",
       "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
+    },
+    {
+      "added_at": "2025-04-24 09:29:04",
+      "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "For You I Am Missing \u2026",
+      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
     },
     {
       "added_at": "2025-04-24 09:29:04",
@@ -1711,22 +1711,22 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj"
       },
       "artists": [
         {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+          "name": "Umitaro Abe",
+          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
         },
         {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+          "name": "Kaori Takeda",
+          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
         }
       ],
-      "duration_ms": 198880,
-      "name": "For You I Am Missing \u2026",
-      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+      "duration_ms": 121680,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS"
     },
     {
       "added_at": "2025-04-24 09:29:04",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2025-04-24 09:29:04",
       "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+    },
+    {
+      "added_at": "2025-04-24 09:29:04",
+      "album": {
         "name": "Grand Views",
         "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 242000,
       "name": "chamomile",
       "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
-    },
-    {
-      "added_at": "2025-04-24 09:29:04",
-      "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2025-04-24 09:29:04",

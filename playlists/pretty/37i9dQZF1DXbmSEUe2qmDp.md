@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 69 | [Antes da Briga \- Live](https://open.spotify.com/track/1rd42CV4BeIQnk9sZqYimj) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Antes da Briga \(Live\)](https://open.spotify.com/album/7c34YZvNG1V8QsomzyeOAu) | 2:25 |
 | 70 | [Meu Erro \- Ao Vivo](https://open.spotify.com/track/4f5D8O8j7NMQUG81Mk8CDu) | [Hugo Alvarez](https://open.spotify.com/artist/3j6w3csiIbvwOYbYFMv5KI) | [Ao Vivo Em Goiânia \(Vol.2\)](https://open.spotify.com/album/70W73FkvwDVz87UN6pCx7T) | 3:31 |
 
-Snapshot ID: `AAAAABRa/tRPf2ShsAcDzM2KyCIGPeqy`
+Snapshot ID: `aCfdRQAAAAAYMNr7mQZ5v3InQC3tMlVI`

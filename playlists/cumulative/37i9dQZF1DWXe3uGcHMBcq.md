@@ -2,7 +2,7 @@
 
 ### [Disney Channel Hits](https://open.spotify.com/playlist/37i9dQZF1DWXe3uGcHMBcq)
 
-> Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
+> Sing\-along with new music from Zombies 4 Dawn of the Vampires to get ready for the Descendants/Zombies: Worlds Collide Tour.
 
 184 songs - 8 hr 48 min
 

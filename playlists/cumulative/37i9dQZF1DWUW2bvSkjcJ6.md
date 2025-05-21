@@ -2,7 +2,7 @@
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Neue Musik von Abor & Tynna, Lola Young und mehr!
+> Neue Musik von Abor & Tynna, Rihanna, Lola Young und mehr!
 
 4,792 songs - 9 day 19 hr 0 min
 

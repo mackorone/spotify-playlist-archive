@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Kazy Lambist
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,127 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,107 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 10 | [Nuits bleues](https://open.spotify.com/track/7kVEesbz7C9LuiY8P2GuCW) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Nuits bleues](https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H) | 2:42 |
 | 11 | [Amber Eyes](https://open.spotify.com/track/6DrkAx1pj4KdRTfDsmWcEP) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [Amber Eyes](https://open.spotify.com/album/67JTOVjd0Ya8S2EgzpoLl4) | 3:15 |
 | 12 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
-| 13 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/0VRNWCQvrknFfHJbSGQH8H), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 |
+| 13 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 |
 | 14 | [Parallel Lines](https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [What We Leave Behind](https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt) | 2:42 |
 | 15 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
 | 16 | [Playground Love](https://open.spotify.com/track/3zvcc4CFtrCYbHIrz94xMc) | [Concorde](https://open.spotify.com/artist/5gSzpQeKekCGJTR9hcWwKF) | [Playground Love](https://open.spotify.com/album/0sKURi74qxqW61T5DDtXkN) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Le roi Soleil](https://open.spotify.com/track/2g7Cd0qBGSnk0cLIfVgBYu) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le roi Soleil](https://open.spotify.com/album/2vdlNxxtxH7gB1xlCOCAJz) | 2:58 |
 | 50 | [A Dog in a Manger](https://open.spotify.com/track/7smNXOvuCLjEG3qeOQdqVH) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [A Dog in a Manger](https://open.spotify.com/album/38TmYJoFrS4La3bDZKmIje) | 3:12 |
 
-Snapshot ID: `aCZkAwAAAACCQBbaCqP2nUwM3jargpRN`
+Snapshot ID: `AAAAAIy3YySbrZYukKVdFYViVIBBKEns`

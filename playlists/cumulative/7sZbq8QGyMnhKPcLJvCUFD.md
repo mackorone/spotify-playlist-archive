@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-705 songs - 1 day 11 hr 44 min
+706 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Late At Night](https://open.spotify.com/track/0JB5SP9rDrbk2dsZD2781h) | [CiDE](https://open.spotify.com/artist/5LaVL7OUazcgstNz0MmnUb), [Vide](https://open.spotify.com/artist/6NvLDPalJ0Xdf58b6JABvn), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Late At Night](https://open.spotify.com/album/1lLaZy31zYDLJ7B7GrJdE8) | 2:34 | 2024-01-31 | 2024-08-28 |
 | [Lay Low](https://open.spotify.com/track/38mVIN91Aj49QHLU7uTWNQ) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Lay Low](https://open.spotify.com/album/40YfdgbzqhYALCcepymqTB) | 3:07 | 2025-02-05 |  |
 | [Left With Nothing](https://open.spotify.com/track/4w4IaAo9OtgKHzo44pQn2x) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Left With Nothing](https://open.spotify.com/album/48OUE1YH9xxIhtmb1eyfEa) | 2:38 | 2024-02-23 | 2024-08-28 |
+| [Let Go](https://open.spotify.com/track/0hDaKYsiOvAnZPxAIGxrmq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Let Go](https://open.spotify.com/album/53MP6iUg5uw3OFWwY32cGR) | 3:01 | 2025-05-20 |  |
 | [LET THEM HAVE IT](https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [LET THEM HAVE IT](https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P) | 2:19 | 2023-02-07 | 2023-08-10 |
 | [Let's Go](https://open.spotify.com/track/5Oz6cJjkuLpUJNdhxiW9Tl) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [NCS x Geometry Dash: Volume 1](https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S) | 2:32 | 2025-02-25 |  |
 | [Let's Play](https://open.spotify.com/track/4XoTO4jKYPdvGyfj0cUqVP) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Let's Play](https://open.spotify.com/album/364GIgp0PFkrFr7FaqGP6K) | 2:32 | 2023-03-03 | 2024-07-19 |

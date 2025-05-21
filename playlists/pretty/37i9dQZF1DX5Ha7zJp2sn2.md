@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 
 > El sonido de la nueva canción latinoamericana\. Foto: Mónica Giraldo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,244 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,246 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 | 59 | [Una Pena](https://open.spotify.com/track/233sOyp5tJF8avlCrzvsOn) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Una Pena](https://open.spotify.com/album/5nCqolx9Kqn06MDStkG9VP) | 4:25 |
 | 60 | [el Alquimista \- versión piano](https://open.spotify.com/track/0PZUscW1i1Ipz1guGIMuhJ) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [el Alquimista \(versión piano\)](https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g) | 2:44 |
 
-Snapshot ID: `AAAAAH/ltqbsyzYmqI/F3VTgb6SWyy8X`
+Snapshot ID: `Z+9qbQAAAAAHYFCfRvGTxud6QrWNFs4b`

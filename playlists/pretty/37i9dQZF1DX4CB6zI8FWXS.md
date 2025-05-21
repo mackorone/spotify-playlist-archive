@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Emotional Oranges
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,592 likes - 89 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,597 likes - 89 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-289 songs - 17 hr 10 min
+291 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [But it's Destiny](https://open.spotify.com/track/0JOuenfJaP3QodPJU0alSk) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T) | 3:51 | 2022-05-11 | 2022-07-29 |
 | [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 | 2022-07-08 | 2024-04-19 |
 | [But it's Destiny](https://open.spotify.com/track/7adtedpznNgg9UtDS3VR5Q) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k) | 3:51 | 2022-11-01 | 2022-11-13 |
+| [By Your Side](https://open.spotify.com/track/0PCHcxzHaTNwTICqX0ieTR) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [By Your Side \(Crushology 101 OST Part.4\)](https://open.spotify.com/album/70cfev45DG06SUDKef1eHM) | 3:58 | 2025-05-20 |  |
 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 | 2024-06-28 |  |
 | [Cat's Nap zzZ \(feat\. Utopi\)](https://open.spotify.com/track/1lfmSCkroWDyBXJsdcRW3H) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO), [Utopi](https://open.spotify.com/artist/3yK1E102HvCIcKPvcvtSul) | [Cat's Nap zzZ](https://open.spotify.com/album/701D0tYv2uuOmTCVSKIkMD) | 3:11 | 2022-05-11 | 2022-07-19 |
 | [Celeb](https://open.spotify.com/track/3F7ONltjlWoXuvpzK01YSK) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:19 | 2022-06-09 | 2022-07-27 |
@@ -67,7 +68,7 @@
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 | 2025-05-14 |
 | [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-11-03 | 2024-06-30 |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
-| [Down \(with george\)](https://open.spotify.com/track/0Gt3PSw9P0WCs1Pj93Fr4D) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Sick of Love](https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs) | 2:59 | 2025-03-26 |  |
+| [Down \(with george\)](https://open.spotify.com/track/0Gt3PSw9P0WCs1Pj93Fr4D) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Sick of Love](https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs) | 2:59 | 2025-03-26 | 2025-05-21 |
 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-03-31 | 2025-05-03 |
 | [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 |  |
 | [Endless](https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9) | [JIN](https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ) | [Endless](https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5) | 3:15 | 2023-02-03 | 2023-02-26 |
@@ -171,6 +172,7 @@
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2025-02-10 | 2025-03-27 |
 | [Only You](https://open.spotify.com/track/74KMxlbgchM6CxjMEFwKs0) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Only You](https://open.spotify.com/album/6OAjhnf8LCuUvUElAdEf6w) | 3:10 | 2022-06-20 | 2022-07-01 |
 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 | 2022-05-11 | 2023-04-06 |
+| [ONLY YOU](https://open.spotify.com/track/6qAkUuKYOfkBfuQzkxMANO) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [ONLY YOU](https://open.spotify.com/album/4YsiDDJNhCtOi2nm2zUXQl) | 3:11 | 2025-05-20 |  |
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-26 | 2023-01-22 |
 | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/track/5ZDyD7L5khCYry5X8JAb9s) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/album/1xn2D8pK6x33cOM8jXKlzS) | 3:21 | 2022-05-11 | 2022-07-21 |
 | [Our Love is Great](https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 4:08 | 2022-05-11 | 2023-07-01 |
@@ -285,7 +287,7 @@
 | [You'll be fine](https://open.spotify.com/track/6nRvFUhyQtBxw4gPCF3OzR) | [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [You'll be fine](https://open.spotify.com/album/60m28acTUmMG2FRi4oxYu8) | 2:56 | 2022-07-08 | 2022-07-29 |
 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 | 2024-06-28 |  |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-05-11 |  |
-| [두 사람](https://open.spotify.com/track/2aBO4JJfhy7BPx7wLlrxDu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [다시 꿈꾸고 싶다](https://open.spotify.com/album/154jyE6Wg5PPbqYhpvFVTw) | 4:16 | 2022-05-11 |  |
+| [두 사람](https://open.spotify.com/track/2aBO4JJfhy7BPx7wLlrxDu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [다시 꿈꾸고 싶다](https://open.spotify.com/album/154jyE6Wg5PPbqYhpvFVTw) | 4:16 | 2022-05-11 | 2025-05-21 |
 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 | 2022-07-08 | 2024-04-19 |
 | [사랑이 피어난다](https://open.spotify.com/track/0Lp6horxxlv8hBBD41LUj8) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [사랑이 피어난다](https://open.spotify.com/album/2ejNHqQU9UieGLCByVA59Y) | 2:50 | 2022-06-13 | 2022-06-16 |
 | [선물](https://open.spotify.com/track/3SCQhlyxIji4Vc8ALcudLU) | [김대연](https://open.spotify.com/artist/4v4JtLI2eFhyunnMBtUo0y), [필](https://open.spotify.com/artist/1JXR9nuTiwl1JRMpf8wTrF) | [너의 이름을 그리워해 본다](https://open.spotify.com/album/5o4V0rixhZTpXxNCoE4AXp) | 3:54 | 2022-05-11 | 2022-06-11 |

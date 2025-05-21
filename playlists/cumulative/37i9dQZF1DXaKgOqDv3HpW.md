@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-369 songs - 17 hr 53 min
+372 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-02-18 |  |
 | [Cherished](https://open.spotify.com/track/0FlUS5nOWAuv1X4pEOG4kw) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Cherished](https://open.spotify.com/album/3C1vQcBUMpohPkGIjWTlZ4) | 2:37 | 2025-04-29 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-18 |  |
-| [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 | 2023-04-13 |  |
+| [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 | 2023-04-13 | 2025-05-21 |
 | [Circuits](https://open.spotify.com/track/5BdEWN641x678b5G91K2MM) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Circuits](https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0) | 2:40 | 2024-12-19 |  |
 | [Circulate](https://open.spotify.com/track/6KLiC9xdmpnmAnymiHjHyW) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Circulate](https://open.spotify.com/album/6tdMCe7lkHVunZNiWhf3Ir) | 3:02 | 2024-12-12 |  |
 | [Cirrus](https://open.spotify.com/track/3bFVLAja0OzPwbol1SCOTI) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Cirrus](https://open.spotify.com/album/43chA0u8Y33G8eumvyMYVX) | 3:27 | 2025-04-29 |  |
@@ -120,6 +120,7 @@
 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-01-26 | 2025-01-08 |
 | [Eryra](https://open.spotify.com/track/2jAm2Z3yoDLSiFjk3OZpY7) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Kundalini Yoga](https://open.spotify.com/album/4XIwD4dxoxwE8gQBucVTRZ) | 3:52 | 2022-02-18 | 2023-04-07 |
 | [Esoteric](https://open.spotify.com/track/1CS8gyzijBq8WVr87aWQYk) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Esoteric](https://open.spotify.com/album/0CCa3J5cHdMNIBNiqFIQHv) | 2:43 | 2025-04-29 |  |
+| [Essence](https://open.spotify.com/track/2atmBNTofo4VJgt6oazd0S) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Essence](https://open.spotify.com/album/1y3ENUlEz2SQIO2ovnUMwv) | 2:42 | 2025-05-20 |  |
 | [Essentials](https://open.spotify.com/track/4iBN0BI7dTF6fMmGSfDy7W) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Essentials](https://open.spotify.com/album/73sCwEHgfNSaBccThXbuXm) | 2:41 | 2024-06-10 |  |
 | [Ether](https://open.spotify.com/track/1ePsyQ0tQD16nuKKSKjYPb) | [Elevatissimo](https://open.spotify.com/artist/5I9ymDOTe4vD38qQc1JYeN) | [Ether](https://open.spotify.com/album/4DRfk46QYUrPFgzzPhwoOt) | 2:28 | 2024-04-29 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2022-02-18 | 2025-04-10 |
@@ -245,6 +246,7 @@
 | [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2022-02-18 |  |
 | [Opolnoči](https://open.spotify.com/track/5VCjqZftDWL4HCmZTKuQO8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Opolnoči](https://open.spotify.com/album/7v69wRHr3qEcbJCCfMl0bS) | 3:21 | 2022-02-18 | 2023-08-05 |
 | [Orca Matriarch](https://open.spotify.com/track/4J5GTc9yuEMKjvjGoFomJO) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Orca Matriarch](https://open.spotify.com/album/1u5jX2gYozad5UWrIIoqSa) | 3:59 | 2022-02-18 | 2022-09-15 |
+| [Oscillate](https://open.spotify.com/track/4oHHuxXiazheX9XhoaFhKf) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Oscillate](https://open.spotify.com/album/31WpS3EapHiEpN8G19xmS0) | 2:28 | 2025-05-20 |  |
 | [Otro amanecer](https://open.spotify.com/track/7CbU1onF6ME4SgRvV21d9j) | [Uli Polli](https://open.spotify.com/artist/1cPGcLr27NVdDGSzNWsxbY) | [Otro amanecer](https://open.spotify.com/album/3b4LQ2PMmm2dlCXqJcrEG3) | 3:02 | 2022-02-18 | 2023-07-15 |
 | [Pacific Waves](https://open.spotify.com/track/7jkDIG3fqiBnm10qGMF1U1) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Pacific Waves](https://open.spotify.com/album/4OfFhTNm4Uw7bVLpuBsHT8) | 2:57 | 2024-06-10 |  |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2022-02-18 | 2024-11-29 |
@@ -351,6 +353,7 @@
 | [Velvet Rapsody](https://open.spotify.com/track/56SRF43k9hKZAMADNTSmIX) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Velvet Rapsody](https://open.spotify.com/album/3QEq7rcaIFVAvRhukeQLKO) | 2:26 | 2024-02-15 |  |
 | [Verdensrommet](https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Verdensrommet](https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0) | 3:02 | 2024-07-12 | 2024-12-03 |
 | [Verlangen](https://open.spotify.com/track/75pcpojFTJnyfeGw0YrEQ9) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Verlangen](https://open.spotify.com/album/0rJlx5Lk9FZni8yreWrEFP) | 4:13 | 2022-02-18 | 2025-01-30 |
+| [Vindur Efni](https://open.spotify.com/track/7MAHynUNLiCEXmJFPfsFZj) | [Astra Sky](https://open.spotify.com/artist/3VpKQ8XUwdGp6vQ5QQ3ZbP) | [Vindur Efni](https://open.spotify.com/album/6t1wbs7UXo2sk3bI90qQ1K) | 2:21 | 2025-05-20 |  |
 | [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 | 2022-12-02 |  |
 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 | 2022-02-18 | 2024-12-03 |
 | [Voices](https://open.spotify.com/track/4Dioh7PnhNtYJa1Q8GTPw6) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Voices](https://open.spotify.com/album/6v1QSPpVnYMnnj95YJm4hs) | 2:36 | 2022-05-25 |  |

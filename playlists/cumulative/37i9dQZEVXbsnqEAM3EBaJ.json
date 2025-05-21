@@ -13654,7 +13654,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 92608,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/0dmnZibUczyCvvFRFGPeB8"
@@ -27148,7 +27148,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 233188,
       "name": "Luces De Neon",
       "url": "https://open.spotify.com/track/0rO6xSQy33ri48VWlqdxru"
@@ -36796,10 +36796,32 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 204117,
       "name": "Run Sakamoto Run (from \"Sakamoto Days\") - En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/4lwfnwLmgTCHO9jqG1elve"
+    },
+    {
+      "album": {
+        "name": "Run Sakamoto Run (from \"Sakamoto Days\") [En Espa\u00f1ol]",
+        "url": "https://open.spotify.com/album/4ZL1NQ1salhCZLe0OFQ2XG"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        },
+        {
+          "name": "Curserino",
+          "url": "https://open.spotify.com/artist/18iWxrFSX1Hgu8SwdgY4jI"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204117,
+      "name": "Run Sakamoto Run (from \"Sakamoto Days\") - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7hh2OYUu70F7cC9kAsJGuP"
     },
     {
       "album": {

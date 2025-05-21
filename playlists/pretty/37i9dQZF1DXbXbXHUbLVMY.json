@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 28365,
+  "num_followers": 28364,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-05-01 22:00:17",
       "album": {
+        "name": "Fin & Bad",
+        "url": "https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 121383,
+      "name": "Fin & Bad",
+      "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
+    },
+    {
+      "added_at": "2025-05-01 22:00:17",
+      "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 136666,
       "name": "Dans fr\u00e5n dig",
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
-    },
-    {
-      "added_at": "2025-05-01 22:00:17",
-      "album": {
-        "name": "Fin & Bad",
-        "url": "https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 121383,
-      "name": "Fin & Bad",
-      "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
     },
     {
       "added_at": "2025-05-01 22:00:17",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-05-01 22:00:17",
       "album": {
-        "name": "Palmerna",
-        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Xpensive",
-          "url": "https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Palmerna",
-      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
-    },
-    {
-      "added_at": "2025-05-01 22:00:17",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+    },
+    {
+      "added_at": "2025-05-01 22:00:17",
+      "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Xpensive",
+          "url": "https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
     },
     {
       "added_at": "2025-05-01 22:00:17",
@@ -823,6 +823,30 @@
     {
       "added_at": "2025-05-01 22:00:17",
       "album": {
+        "name": "YOUNG THUG P\u00c5 1M",
+        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "DAN",
+          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
+        }
+      ],
+      "duration_ms": 145797,
+      "name": "YOUNG THUG P\u00c5 1M",
+      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+    },
+    {
+      "added_at": "2025-05-01 22:00:17",
+      "album": {
         "name": "Kvar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
       },
@@ -839,34 +863,6 @@
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
-    },
-    {
-      "added_at": "2025-05-01 22:00:17",
-      "album": {
-        "name": "Bad B**** (feat. Arif Murakami)",
-        "url": "https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q"
-      },
-      "artists": [
-        {
-          "name": "Benocchio",
-          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
-        },
-        {
-          "name": "2J",
-          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 164354,
-      "name": "Bad B**** (feat. Arif Murakami)",
-      "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
     },
     {
       "added_at": "2025-05-01 22:00:17",
@@ -907,26 +903,30 @@
     {
       "added_at": "2025-05-01 22:00:17",
       "album": {
-        "name": "YOUNG THUG P\u00c5 1M",
-        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
+        "name": "Bad B**** (feat. Arif Murakami)",
+        "url": "https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "Benocchio",
+          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
         },
         {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+          "name": "2J",
+          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
         },
         {
-          "name": "DAN",
-          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 145797,
-      "name": "YOUNG THUG P\u00c5 1M",
-      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+      "duration_ms": 164354,
+      "name": "Bad B**** (feat. Arif Murakami)",
+      "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
     },
     {
       "added_at": "2025-05-01 22:00:17",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-05-01 22:00:17",
       "album": {
-        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165528,
-      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
-    },
-    {
-      "added_at": "2025-05-01 22:00:17",
-      "album": {
         "name": "TIL DEG",
         "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 157217,
       "name": "TIL DEG",
       "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+    },
+    {
+      "added_at": "2025-05-01 22:00:17",
+      "album": {
+        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 165528,
+      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
     },
     {
       "added_at": "2025-05-01 22:00:17",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2025-05-01 22:00:17",
       "album": {
+        "name": "I DAG",
+        "url": "https://open.spotify.com/album/0mBgjpcbKw6iP6Ps1dl7br"
+      },
+      "artists": [
+        {
+          "name": "2J",
+          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
+        },
+        {
+          "name": "Dio Mudara",
+          "url": "https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy"
+        }
+      ],
+      "duration_ms": 167315,
+      "name": "I DAG",
+      "url": "https://open.spotify.com/track/28Dz9bnFa5iKkubc51TCml"
+    },
+    {
+      "added_at": "2025-05-01 22:00:17",
+      "album": {
         "name": "Sving Min Vei",
         "url": "https://open.spotify.com/album/5wx2EbIVXh88HQzuUsREVq"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 182252,
       "name": "Sving Min Vei",
       "url": "https://open.spotify.com/track/0QVvaa5drjOup6D3z9HhOH"
-    },
-    {
-      "added_at": "2025-05-01 22:00:17",
-      "album": {
-        "name": "I DAG",
-        "url": "https://open.spotify.com/album/0mBgjpcbKw6iP6Ps1dl7br"
-      },
-      "artists": [
-        {
-          "name": "2J",
-          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
-        },
-        {
-          "name": "Dio Mudara",
-          "url": "https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy"
-        }
-      ],
-      "duration_ms": 167315,
-      "name": "I DAG",
-      "url": "https://open.spotify.com/track/28Dz9bnFa5iKkubc51TCml"
     },
     {
       "added_at": "2025-05-01 22:00:17",

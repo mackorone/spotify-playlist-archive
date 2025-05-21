@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33603,
+  "num_followers": 33607,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-05-16 02:28:43",
       "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Wonderland (Carol ver.)",
-      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
-    },
-    {
-      "added_at": "2025-05-16 02:28:43",
-      "album": {
         "name": "FETISH (feat. Jimmy Brown)",
         "url": "https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": "2025-05-16 02:28:43",
       "album": {
-        "name": "K.I.S.S",
-        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
       "artists": [
         {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 194645,
-      "name": "Te Quiero(feat.BIBI)",
-      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
     },
     {
       "added_at": "2025-05-16 02:28:43",
@@ -943,6 +923,26 @@
       "duration_ms": 197013,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+    },
+    {
+      "added_at": "2025-05-16 02:28:43",
+      "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Te Quiero(feat.BIBI)",
+      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
     },
     {
       "added_at": "2025-05-16 02:28:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-05-16 02:28:43",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
-      },
-      "artists": [
-        {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
-    },
-    {
-      "added_at": "2025-05-16 02:28:43",
-      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -1075,38 +1059,54 @@
     {
       "added_at": "2025-05-16 02:28:43",
       "album": {
-        "name": "S.O.S (Sink or Swim)",
-        "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 180720,
-      "name": "Wet The Bed",
-      "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2025-05-16 02:28:43",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+        "name": "Lost (Feat. Chan)",
+        "url": "https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "Giwon",
+          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
+        },
+        {
+          "name": "Chan (\ucc2c)",
+          "url": "https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u"
         }
       ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+      "duration_ms": 144750,
+      "name": "Lost (Feat. Chan)",
+      "url": "https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6"
+    },
+    {
+      "added_at": "2025-05-16 02:28:43",
+      "album": {
+        "name": "The Book of Us : Entropy",
+        "url": "https://open.spotify.com/album/3U5WG613lOhHMpnPBOzaZD"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "365247",
+      "url": "https://open.spotify.com/track/6CUx9eLEzPayC722kcZ06L"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

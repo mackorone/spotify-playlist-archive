@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,135 likes - 63 songs - 3 hr 33 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,137 likes - 64 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,6 +70,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 60 | [Lost in Tomorrow](https://open.spotify.com/track/4VoIGASzJefVhZB9ah3E9D) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Lost in Tomorrow](https://open.spotify.com/album/4hqzEXewBjxDmvoXlf79D8) | 4:09 |
 | 61 | [Synergy](https://open.spotify.com/track/1TaLfQF3ApaYfIwJj1OypF) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Synergy](https://open.spotify.com/album/1omImTZItdjkk5Ezverzr8) | 3:17 |
 | 62 | [Summer is Calling...](https://open.spotify.com/track/1I5mKrYPLvHLP3eiOndPIP) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Summer is Calling...](https://open.spotify.com/album/5syl0FODvOf4WjzYDYMxeW) | 3:09 |
-| 63 | [Looking Up](https://open.spotify.com/track/5ehE3Sw8BX9vXHEa8VSsOP) | [Hidden Axis](https://open.spotify.com/artist/2yccyWCH3p3R8ZZXMGBq30), [Memory Thorn](https://open.spotify.com/artist/1lVlgg2kJKbjqzTlaIv72R), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Looking Up](https://open.spotify.com/album/4rbZyMj312os7paLfJ7sCx) | 3:18 |
+| 63 | [Mechanical Mindscape](https://open.spotify.com/track/7qQ8nqSOoC3brlVuHvQieP) | [TakT](https://open.spotify.com/artist/6R19JFl7psTx6wNMAMCQos), [Visceral Design](https://open.spotify.com/artist/4tpO0zfBPnybSWgVuvUhza) | [Mechanical Mindscape](https://open.spotify.com/album/1VwPkC4kSTDpWgN8tTYSBx) | 3:11 |
+| 64 | [Looking Up](https://open.spotify.com/track/5ehE3Sw8BX9vXHEa8VSsOP) | [Hidden Axis](https://open.spotify.com/artist/2yccyWCH3p3R8ZZXMGBq30), [Memory Thorn](https://open.spotify.com/artist/1lVlgg2kJKbjqzTlaIv72R), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Looking Up](https://open.spotify.com/album/4rbZyMj312os7paLfJ7sCx) | 3:18 |
 
-Snapshot ID: `AABjD63WTtejtwmYPbf8LUatY5aUg/XW`
+Snapshot ID: `AABjEO75+ksV0uhMS2RVGBKrfTPGW4fY`

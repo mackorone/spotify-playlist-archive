@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists! Cover: LOVKN \| Artwork: Dana Shine
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,605 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,613 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

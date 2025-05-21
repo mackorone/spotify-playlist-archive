@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Rifle Club",
-  "num_followers": 459335,
+  "num_followers": 459707,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCrVjwAAAADlT7DsaPh2FjJnUjjSkBPB",
+  "snapshot_id": "aCwiKgAAAAB/jeF+uNPa9/tms2Y5+yLI",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -99,6 +99,22 @@
       "duration_ms": 217777,
       "name": "Kannodu - Live",
       "url": "https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f"
+    },
+    {
+      "added_at": "2025-05-20 06:33:14",
+      "album": {
+        "name": "Johny Walker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0vNuoVon5CBMw8yqg0AEo3"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "duration_ms": 325799,
+      "name": "Santhamee Rathri",
+      "url": "https://open.spotify.com/track/3jJpvQCe9y25vLRwoaTwvL"
     },
     {
       "added_at": "2025-04-08 06:32:46",
@@ -1035,26 +1051,6 @@
       "duration_ms": 130018,
       "name": "Galatta - From \"Aavesham\"",
       "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
-    },
-    {
-      "added_at": "2024-04-22 05:31:13",
-      "album": {
-        "name": "MANKA",
-        "url": "https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV"
-      },
-      "artists": [
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "ThudWiser",
-          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
-        }
-      ],
-      "duration_ms": 261923,
-      "name": "MANKA",
-      "url": "https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5"
     },
     {
       "added_at": "2023-12-02 04:17:28",

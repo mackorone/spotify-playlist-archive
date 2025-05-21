@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Sofia Kourtesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,149 likes - 99 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,145 likes - 99 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 |
 | 99 | [Magic Powers With Two Shell](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [Magic Powers With Two Shell](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 
-Snapshot ID: `aCbWJQAAAAA6eldjh7rm3VPYvPsn3qcv`
+Snapshot ID: `aCxFIwAAAAAdp90+ytk4REMd0uySoMJT`

@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "The Last Boy In The Class 3",
+        "url": "https://open.spotify.com/album/2iGvzSxSwjEM3aXM9n8lxb"
+      },
+      "artists": [
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108013,
+      "name": "DOOR",
+      "url": "https://open.spotify.com/track/6NvhwP4B7VoUnl7im626ef"
+    },
+    {
+      "album": {
         "name": "RESTORE : A",
         "url": "https://open.spotify.com/album/6DFNZmHSfrwN8vdaJWPnaB"
       },
@@ -7144,7 +7162,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 215851,
       "name": "Silent rainfalls",
       "url": "https://open.spotify.com/track/1FG8L8QhCB2QoG9dwpWhec"
@@ -7852,7 +7870,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 188864,
       "name": "Stupid love song (with Crush)",
       "url": "https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ"
@@ -10612,7 +10630,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-21",
       "duration_ms": 150026,
       "name": "\uc81c\ubc1c \ub208\ubb3c \ud758\ub9ac\uc9c0 \ub9c8\ub77c",
       "url": "https://open.spotify.com/track/3xQLwdunkb1MyK2RxNcqr4"

@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 51143,
+  "num_followers": 51160,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCkjAAAAAAD0A7Gsgn0IMKDv+Sdg7N/r",
+  "snapshot_id": "aCp0gAAAAAAtboR2v5w77pbww/EGpQYW",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
         "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 210066,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "Honeybear",
-      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
     },
     {
       "added_at": null,

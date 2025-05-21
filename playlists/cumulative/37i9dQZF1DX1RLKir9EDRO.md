@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler\. Kapak: Ilgaz Altın Çizim: Isu Kim
+> Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: Ilgaz Altın Çizim: Isu Kim
 
-1,010 songs - 2 day 7 hr 58 min
+1,011 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Aklım Karıştı](https://open.spotify.com/track/2TPHEbr1EIrKx40kLg5a1P) | [Ecem Çelik](https://open.spotify.com/artist/68r0aYfdloC1g0epYmZgyb) | [Aklım Karıştı](https://open.spotify.com/album/08rGgAdkGFoaSrQ8NTYOJQ) | 2:45 | 2023-02-07 | 2024-01-10 |
 | [aklına geliyo muyum?](https://open.spotify.com/track/7bCpdgdOuU1r48qUQz6fwc) | [ZAPOX](https://open.spotify.com/artist/5aHrVKNpTVFWiaGKGaBagi) | [aklına geliyo muyum?](https://open.spotify.com/album/74gJHdC5ZU7HQSdCA1I562) | 2:16 | 2024-01-09 | 2024-01-31 |
 | [Akşam Vakti](https://open.spotify.com/track/3qjvwl1Z8Sq64BMyGCyMo2) | [Güner Künier](https://open.spotify.com/artist/1R3ze0S5sCH3Hz9HXGxyk0) | [Akşam Vakti](https://open.spotify.com/album/1xykpqtLSPxMjpFFnEnIug) | 2:33 | 2025-02-14 | 2025-04-16 |
-| [Along The Wind](https://open.spotify.com/track/4NmTFkdBWTYZ9Crh1OvzKp) | [Eriç](https://open.spotify.com/artist/3lOTkw5UMASA20SlYr8fHZ) | [Yerli Yersiz](https://open.spotify.com/album/28KkDUrw03df80t57pFLYe) | 2:31 | 2025-05-13 |  |
+| [Along The Wind](https://open.spotify.com/track/4NmTFkdBWTYZ9Crh1OvzKp) | [Eriç](https://open.spotify.com/artist/3lOTkw5UMASA20SlYr8fHZ) | [Yerli Yersiz](https://open.spotify.com/album/28KkDUrw03df80t57pFLYe) | 2:31 | 2025-05-13 | 2025-05-21 |
 | [Alâim\-i Semâ: The Cry of the Flamingos](https://open.spotify.com/track/0sVuWrmmLQhuly57TXzwhZ) | [Şirin Pancaroğlu](https://open.spotify.com/artist/4B9vxPxDQUxc9xxSclq8BQ) | [Alâim\-i Semâ: The Cry of the Flamingos](https://open.spotify.com/album/4ChfnLfBaaLWN0RobiA8hs) | 6:11 | 2022-09-20 | 2022-12-01 |
 | [Ama İstersen](https://open.spotify.com/track/6E99SQWnBTZl5Ur7c0YuD1) | [PEK](https://open.spotify.com/artist/3BYlyRfryjGKcBA9sqEYev) | [Ama İstersen](https://open.spotify.com/album/3ifDsGtLXkXPCEJw6C71xo) | 3:03 | 2021-12-03 | 2022-04-16 |
 | [Anafor](https://open.spotify.com/track/7L9eYBMu0rSurvSaDwpeK3) | [Ductape](https://open.spotify.com/artist/2Qte1S9njYjLMRDYlbRFny) | [Anafor](https://open.spotify.com/album/3QLlMW9UHmZkAOUmkJ2YtH) | 3:49 | 2024-02-06 | 2024-03-13 |
@@ -957,6 +957,7 @@
 | [Yumak](https://open.spotify.com/track/5NeYUkf6O9PSgTjAALA63v) | [Pınar Azizoğlu](https://open.spotify.com/artist/3vB44CipDn4TDD1TM4EtZs) | [Yumak](https://open.spotify.com/album/2z1VfB61bg4rEn8UIY7Zho) | 4:23 | 2024-03-26 | 2024-05-08 |
 | [Yunan Heykeli](https://open.spotify.com/track/0ufMlrEZiD9BcHRrFtKM1D) | [Seçil](https://open.spotify.com/artist/1KENVuHY82mq5AaP9fGPqB) | [Yunan Heykeli](https://open.spotify.com/album/0iYe4Y4Iezyp5qFgTRrfeJ) | 2:28 | 2024-11-19 | 2024-12-05 |
 | [yük](https://open.spotify.com/track/48DNi6UYQhlc2BnAcWbJW7) | [Efza](https://open.spotify.com/artist/4gPXQMEdpsYmYZWtbk4ATJ) | [DİRENÇ](https://open.spotify.com/album/3zq241hNSP0UJYeXzAdXrr) | 2:28 | 2024-06-04 | 2024-07-10 |
+| [Yüksek Bir Yerden Atlamak](https://open.spotify.com/track/2uFj7GwOzZkVvwKu3LXh5T) | [Eriç](https://open.spotify.com/artist/3lOTkw5UMASA20SlYr8fHZ) | [Yerli Yersiz](https://open.spotify.com/album/28KkDUrw03df80t57pFLYe) | 3:27 | 2025-05-20 |  |
 | [Yüzlerce Pencere](https://open.spotify.com/track/17TtXrAffoROFjk49nOmLh) | [Prova İptal](https://open.spotify.com/artist/55hAc8PaVVnm70Gqcml5sg) | [Yüzlerce Pencere](https://open.spotify.com/album/7nt3OCJfFPncKOXdCLBOw0) | 3:35 | 2024-03-19 | 2024-06-05 |
 | [Yüzümde Çizgiler](https://open.spotify.com/track/2NZlzEIqQvmvvACHLVlvio) | [Sıcak](https://open.spotify.com/artist/6feNz3Y3BLMapN0EFic6LY) | [Yüzümde Çizgiler](https://open.spotify.com/album/5ahwmRygeFWxcCL1lzJis0) | 3:58 | 2022-03-22 | 2023-01-11 |
 | [Yüzüğü Hala Parmağında](https://open.spotify.com/track/1NwdsqqnwnRmgsCBV0vLGb) | [Burak Can Bayar](https://open.spotify.com/artist/33ezbtWZhLSoo78MoDJfOU) | [Yüzüğü Hala Parmağında](https://open.spotify.com/album/7dPuyQWanc5HoP3BDBytN9) | 3:28 | 2022-09-20 | 2022-12-01 |

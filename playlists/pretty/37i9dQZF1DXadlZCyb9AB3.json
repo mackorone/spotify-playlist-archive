@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 197492,
+  "num_followers": 197526,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pottymouth (Remastered)",
-        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 99880,
-      "name": "Love Thing",
-      "url": "https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Rhythm and Paranoia: The Best of Bush Tetras",
         "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 243186,
       "name": "Too Many Creeps",
       "url": "https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Pottymouth (Remastered)",
+        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 99880,
+      "name": "Love Thing",
+      "url": "https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb"
     },
     {
       "added_at": "2024-10-07 20:36:39",

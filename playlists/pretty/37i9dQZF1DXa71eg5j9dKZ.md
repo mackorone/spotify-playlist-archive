@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Sofia Kourtesis, Daphni
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,984 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,031 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 |
 | 100 | [Push Me](https://open.spotify.com/track/3DQHSzs0mtdCHXEPtH1KlQ) | [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Push Me](https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL) | 4:39 |
 
-Snapshot ID: `aCZx+wAAAAA8sKqDRYESnr40conKxBst`
+Snapshot ID: `AAAAAEgElq/+sClF8Y9upvnPA/AlmGZW`

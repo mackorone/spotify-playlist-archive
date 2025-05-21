@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2wgG7qxWeEp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2wgG7qxWeEp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2wgG7qxWeEp)
 
-### [Verano Mix 2024](https://open.spotify.com/playlist/37i9dQZF1DX2wgG7qxWeEp)
+### [Verano Mix 2025](https://open.spotify.com/playlist/37i9dQZF1DX2wgG7qxWeEp)
 
 > Todo hits veraniegos para la mejor fiesta.
 

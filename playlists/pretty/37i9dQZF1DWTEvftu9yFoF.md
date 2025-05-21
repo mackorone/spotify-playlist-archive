@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEvftu9yFoF.md) - [plain]
 
 > The Mandalorian and the Child continue their journey, facing enemies and rallying allies as they make their way through a dangerous galaxy in the tumultuous era after the collapse of the Galactic Empire\. Now streaming on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,376 likes - 119 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,378 likes - 119 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEvftu9yFoF.md) - [plain]
 | 118 | [The Asset](https://open.spotify.com/track/3j6PyvJXxISbQjyLCQohtb) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 1:35 |
 | 119 | [Hey Mando!](https://open.spotify.com/track/5VYWqoXSXY26NYW68hMWwa) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 2:13 |
 
-Snapshot ID: `ZIsXpAAAAAB1ZBhtpLmZgWejpMeCxkFV`
+Snapshot ID: `ZIsXpAAAAAD0vUKg2ulynyYtLJmBsOG9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,833 likes - 109 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,099 likes - 109 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 41 | [Alice](https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Wonderland](https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv) | 2:44 |
 | 42 | [hot slow](https://open.spotify.com/track/2hIPKg0LBYhZYmwZS6eQ20) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:35 |
 | 43 | [Fascination](https://open.spotify.com/track/47WewSqip6G4BSSi8V8O8N) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr) | [Fascination](https://open.spotify.com/album/5v5R3JtW0bvAqJWAcJRpnR) | 2:39 |
-| 44 | [Assumptions \- slowed down version](https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift) | [slowed down audioss](https://open.spotify.com/artist/6bMREuqsHFPKAi9ZtVxp0G), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(slowed down version\)](https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1) | 4:38 |
+| 44 | [Assumptions \- slowed down version](https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(slowed down version\)](https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1) | 4:38 |
 | 45 | [Darling \- Instrumental](https://open.spotify.com/track/2tINAp2zAT3ZCM0xWEWDfz) | [LeoKarlo](https://open.spotify.com/artist/1yia0uY3M3Zgbe4KtUY2z6) | [Darling \(Instrumental\)](https://open.spotify.com/album/3CxncjZzknvcCxYuqAR141) | 3:00 |
 | 46 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 |
 | 47 | [Ocean of Jazz](https://open.spotify.com/track/6U17u6EgNm131QJ5yuX80D) | [Siberia](https://open.spotify.com/artist/1cOSMLE3UQFPSBW0cOX0eb) | [Ocean of Jazz](https://open.spotify.com/album/3V0tevZU37bsgqQLvnB8s3) | 2:28 |
