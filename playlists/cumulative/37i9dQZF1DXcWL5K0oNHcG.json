@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Don Glori. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Elle Shimada. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1754,6 +1754,24 @@
       "duration_ms": 269586,
       "name": "Another Love Song",
       "url": "https://open.spotify.com/track/25qXmoaR6xNoWYGmKjZd1H"
+    },
+    {
+      "album": {
+        "name": "ANSWERED PRAYERS",
+        "url": "https://open.spotify.com/album/4P51AHn65e0aqs2qnwrdPx"
+      },
+      "artists": [
+        {
+          "name": "Elle Shimada",
+          "url": "https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233467,
+      "name": "ANSWERED PRAYERS",
+      "url": "https://open.spotify.com/track/0jUabbc5ireqtwxilJWtBj"
     },
     {
       "album": {
@@ -6006,7 +6024,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 322000,
       "name": "Correspondances",
       "url": "https://open.spotify.com/track/42bkUgxZyNR5E24wxSISgt"
@@ -9335,6 +9353,40 @@
     },
     {
       "album": {
+        "name": "Oltreoceano",
+        "url": "https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5"
+      },
+      "artists": [
+        {
+          "name": "Collettivo Immaginario",
+          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
+        },
+        {
+          "name": "Nicol\u00f2 Masetto",
+          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
+        },
+        {
+          "name": "Alberto Lincetto",
+          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
+        },
+        {
+          "name": "Tommaso Cappellato",
+          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
+        },
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199639,
+      "name": "Fine Di Un'Era",
+      "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
+    },
+    {
+      "album": {
         "name": "Finish The Sun",
         "url": "https://open.spotify.com/album/035ywFgPWxCuzMKZHIxsEM"
       },
@@ -12610,6 +12662,24 @@
       "duration_ms": 282000,
       "name": "Igs' Digs",
       "url": "https://open.spotify.com/track/2bFcUd5XOTS2BU3StaAaKe"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3msKt0mDyAL1aTYthJeKQp"
+      },
+      "artists": [
+        {
+          "name": "Glass Museum",
+          "url": "https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365066,
+      "name": "III",
+      "url": "https://open.spotify.com/track/1ugfBj9fsGT5biFc05KraW"
     },
     {
       "album": {
@@ -18284,7 +18354,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 272500,
       "name": "NEEDLES OF ICE",
       "url": "https://open.spotify.com/track/0sATZkD4WYoplr7f0aTsKx"
@@ -18518,7 +18588,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"

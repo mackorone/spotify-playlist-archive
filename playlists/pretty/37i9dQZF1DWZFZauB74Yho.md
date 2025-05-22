@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Rhiannon Giddens & Justin Robinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,584 likes - 121 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,612 likes - 121 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 120 | [Tombstone Territory](https://open.spotify.com/track/2XEqVIiZMQG89nW31cKECP) | [High Horse](https://open.spotify.com/artist/0zH641V9myT89mx8JBn3O5), [Jacob Jolliff](https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr) | [Tombstone Territory](https://open.spotify.com/album/69IYyJ1dBCD1Y0UMperxXK) | 7:10 |
 | 121 | [Where the Road Goes](https://open.spotify.com/track/4Slx9h6g9FM7UI88x7NwTH) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Where the Road Goes](https://open.spotify.com/album/3URSN1m7RUYFVoXKjN7eKW) | 3:01 |
 
-Snapshot ID: `aB19yQAAAAAQZui/7Zg1EikyeC9+R7XX`
+Snapshot ID: `AAAAACzKut9xf957jaBeFo27Om0a9cnV`

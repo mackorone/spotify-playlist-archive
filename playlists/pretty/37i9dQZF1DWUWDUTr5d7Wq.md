@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 
 > Dive into the songwriting and production influences that inspired boygenius and laid the blueprint for their latest release, 'the record.'
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,631 likes - 82 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,643 likes - 82 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 | 81 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 |
 | 82 | [March](https://open.spotify.com/track/6wAZS4mBjL0qWALn225isD) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/70UGhhvmTjgha4RvMKIOVe) | 2:19 |
 
-Snapshot ID: `ZMHEaAAAAACfk+Jw4Frgm2qmAbO0VZ62`
+Snapshot ID: `AAAAANKxqz973SH7SNtRire8OJCHopTw`

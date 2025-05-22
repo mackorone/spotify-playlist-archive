@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 340954,
+  "num_followers": 340960,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/75POD9WZXaGavNVyR0LHt4"
     },
     {
-      "added_at": "2025-03-27 13:00:12",
-      "album": {
-        "name": "Sugarcat",
-        "url": "https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 174119,
-      "name": "Sugarcat",
-      "url": "https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta"
-    },
-    {
       "added_at": "2022-07-12 10:53:53",
       "album": {
         "name": "Go Farther In Lightness",
@@ -819,6 +803,22 @@
       "duration_ms": 319346,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/7DPQwyMQADl9Y8oSvSVpfg"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Learn to Exist",
+        "url": "https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "She's a Riot",
+      "url": "https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu"
     }
   ],
   "unique_name": "Aussie BBQ",

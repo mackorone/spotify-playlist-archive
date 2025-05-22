@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125313,
+  "num_followers": 125314,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUG6DEgYE2aNhgkELYPBABxHkEaHva",
+  "snapshot_id": "AAAUHPICHsIR3CJpDBkHh9CdPRqckaQT",
   "tracks": [
+    {
+      "added_at": "2025-05-21 14:14:34",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj"
+    },
     {
       "added_at": "2025-05-20 15:49:47",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Entdecke Nemos Songauswahl\. <br/>Discover Nemo's track selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,702 likes - 21 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,719 likes - 21 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

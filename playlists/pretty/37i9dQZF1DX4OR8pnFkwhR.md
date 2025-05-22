@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: ziproom
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,255 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,274 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Used to Fall](https://open.spotify.com/track/46OKAPEGDXj2sgoFknwwor) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Used to Fall](https://open.spotify.com/album/4TtKkqws4OpO9S0mt4Y4CC) | 4:01 |
 | 60 | [The Weak](https://open.spotify.com/track/33qIg8VkoqZ2NPOG9SqgVg) | [Baby Canta](https://open.spotify.com/artist/4jdLgKDWPnRF5pAP1PnUww) | [The Weak](https://open.spotify.com/album/6d9jpPzpOrI3in3fimRGXB) | 3:25 |
 
-Snapshot ID: `aCyY8wAAAADSvdnWaHnTVSukiqdKJVQq`
+Snapshot ID: `aCyY8wAAAAC5UZzGyI5VTsuAMbNlqLq4`

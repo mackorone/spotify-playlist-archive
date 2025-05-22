@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93341,
+  "num_followers": 93342,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
+        "name": "En sommar utan dig",
+        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
+      },
+      "artists": [
+        {
+          "name": "Andreas Leksell",
+          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
+        }
+      ],
+      "duration_ms": 189593,
+      "name": "En sommar utan dig",
+      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
+    },
+    {
+      "added_at": "2025-05-19 06:48:43",
+      "album": {
         "name": "Den jag aldrig kunde va",
         "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 211920,
       "name": "While you got me",
       "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
-    },
-    {
-      "added_at": "2025-05-19 06:48:43",
-      "album": {
-        "name": "En sommar utan dig",
-        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
-      },
-      "artists": [
-        {
-          "name": "Andreas Leksell",
-          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
-        }
-      ],
-      "duration_ms": 189593,
-      "name": "En sommar utan dig",
-      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
     },
     {
       "added_at": "2025-05-19 06:48:43",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
-        "name": "Uteblivna vi",
-        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
+        "name": "It's a love cult!",
+        "url": "https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi"
       },
       "artists": [
         {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+          "name": "Friska Viljor",
+          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
         }
       ],
-      "duration_ms": 362920,
-      "name": "Uteblivna vi",
-      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
+      "duration_ms": 174400,
+      "name": "It's a love cult!",
+      "url": "https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6"
     },
     {
       "added_at": "2025-05-19 06:48:43",
@@ -791,34 +791,18 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
-        "name": "It's a love cult!",
-        "url": "https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi"
+        "name": "Uteblivna vi",
+        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
       "artists": [
         {
-          "name": "Friska Viljor",
-          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 174400,
-      "name": "It's a love cult!",
-      "url": "https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6"
-    },
-    {
-      "added_at": "2025-05-19 06:48:43",
-      "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
+      "duration_ms": 362920,
+      "name": "Uteblivna vi",
+      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
     },
     {
       "added_at": "2025-05-19 06:48:43",
@@ -835,6 +819,22 @@
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+    },
+    {
+      "added_at": "2025-05-19 06:48:43",
+      "album": {
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-05-19 06:48:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
-        "name": "R\u00e4dd f\u00f6r hundar",
-        "url": "https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 251362,
-      "name": "R\u00e4dd f\u00f6r hundar",
-      "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
-    },
-    {
-      "added_at": "2025-05-19 06:48:43",
-      "album": {
         "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
         "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
+        "name": "Dagar utan slut",
+        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
+      },
+      "artists": [
+        {
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "Dagar utan slut",
+      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
+    },
+    {
+      "added_at": "2025-05-19 06:48:43",
+      "album": {
         "name": "Silverregn / \u00c5terv\u00e4nd till mig",
         "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
-        "name": "Dagar utan slut",
-        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
+        "name": "R\u00e4dd f\u00f6r hundar",
+        "url": "https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t"
       },
       "artists": [
         {
-          "name": "Andreas Weise",
-          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 162332,
-      "name": "Dagar utan slut",
-      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
+      "duration_ms": 251362,
+      "name": "R\u00e4dd f\u00f6r hundar",
+      "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
     },
     {
       "added_at": "2025-05-19 06:48:43",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
+        "name": "It\u2019s Time",
+        "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
+      },
+      "artists": [
+        {
+          "name": "Maskinisten",
+          "url": "https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR"
+        }
+      ],
+      "duration_ms": 226738,
+      "name": "It\u2019s Time",
+      "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
+    },
+    {
+      "added_at": "2025-05-19 06:48:43",
+      "album": {
         "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
         "url": "https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 200946,
       "name": "Ansiktenas mystik",
       "url": "https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo"
-    },
-    {
-      "added_at": "2025-05-19 06:48:43",
-      "album": {
-        "name": "It\u2019s Time",
-        "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
-      },
-      "artists": [
-        {
-          "name": "Maskinisten",
-          "url": "https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR"
-        }
-      ],
-      "duration_ms": 226738,
-      "name": "It\u2019s Time",
-      "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
     },
     {
       "added_at": "2025-05-19 06:48:43",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
+        "name": "Could've Been Us",
+        "url": "https://open.spotify.com/album/1QaMWQ3R86lGcN9OaFm7ad"
+      },
+      "artists": [
+        {
+          "name": "Alex Westin",
+          "url": "https://open.spotify.com/artist/5r5BAZRjaW2u0vIeuBrRjk"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "Could've Been Us",
+      "url": "https://open.spotify.com/track/5pOe7jQSrMJCbQ1kI6V0Fu"
+    },
+    {
+      "added_at": "2025-05-19 06:48:43",
+      "album": {
         "name": "Eljest",
         "url": "https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG"
       },
@@ -1387,6 +1403,22 @@
       "duration_ms": 246080,
       "name": "Bara vara mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy"
+    },
+    {
+      "added_at": "2025-05-19 06:48:43",
+      "album": {
+        "name": "Eller hur",
+        "url": "https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i"
+      },
+      "artists": [
+        {
+          "name": "David Urwitz",
+          "url": "https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Eller hur",
+      "url": "https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j"
     },
     {
       "added_at": "2025-05-19 06:48:43",
@@ -1407,22 +1439,6 @@
     {
       "added_at": "2025-05-19 06:48:43",
       "album": {
-        "name": "Could've Been Us",
-        "url": "https://open.spotify.com/album/1QaMWQ3R86lGcN9OaFm7ad"
-      },
-      "artists": [
-        {
-          "name": "Alex Westin",
-          "url": "https://open.spotify.com/artist/5r5BAZRjaW2u0vIeuBrRjk"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Could've Been Us",
-      "url": "https://open.spotify.com/track/5pOe7jQSrMJCbQ1kI6V0Fu"
-    },
-    {
-      "added_at": "2025-05-19 06:48:43",
-      "album": {
         "name": "Via Dolorosa",
         "url": "https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 276400,
       "name": "Via Dolorosa",
       "url": "https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY"
-    },
-    {
-      "added_at": "2025-05-19 06:48:43",
-      "album": {
-        "name": "Eller hur",
-        "url": "https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i"
-      },
-      "artists": [
-        {
-          "name": "David Urwitz",
-          "url": "https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Eller hur",
-      "url": "https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j"
     },
     {
       "added_at": "2025-05-19 06:48:43",

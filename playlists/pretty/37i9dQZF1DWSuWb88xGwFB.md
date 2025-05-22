@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,964 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,981 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 5 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 6 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
 | 7 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
-| 8 | [Sinfonia Della Notte](https://open.spotify.com/track/4AXwhQn8kGfzYe02gp1Dvo) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [AZ Mezzanine Digital Volume 3](https://open.spotify.com/album/4SnVRbabumUHm8lReD3809) | 7:24 |
-| 9 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
+| 8 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
+| 9 | [Sinfonia Della Notte](https://open.spotify.com/track/4AXwhQn8kGfzYe02gp1Dvo) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [AZ Mezzanine Digital Volume 3](https://open.spotify.com/album/4SnVRbabumUHm8lReD3809) | 7:24 |
 | 10 | [Equinox \- Henrik Schwarz Remix](https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl) | [Code 718](https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Equinox](https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb) | 6:08 |
 | 11 | [Muevete Mama \- Broder Mix](https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ) | [Afro\-Cube](https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u) | [Muevete Mama](https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr) | 6:54 |
 | 12 | [The Warning \- Inner Mix](https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:09 |

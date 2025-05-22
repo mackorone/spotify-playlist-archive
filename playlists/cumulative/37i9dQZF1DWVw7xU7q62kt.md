@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-525 songs - 1 day 0 hr 8 min
+526 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [blues clues](https://open.spotify.com/track/6dE8byiQs38hPetenI2Zuh) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [blues clues](https://open.spotify.com/album/1W6RhFLzgRCMbVOVhwI08P) | 2:24 | 2024-11-29 | 2025-04-09 |
 | [Bookmark](https://open.spotify.com/track/2acdBTC96mqesyon9dUX9N) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Bookmark](https://open.spotify.com/album/3WNAvM5T5SncMavJOl0A23) | 1:59 | 2025-02-03 |  |
 | [Brasília](https://open.spotify.com/track/5RBWTP54Eu5K5EwpwarymG) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Brasília](https://open.spotify.com/album/2bD9vff8Vo78VlzyNu4Luj) | 1:46 | 2024-09-13 |  |
-| [Breeze](https://open.spotify.com/track/4Hf8Dzr69UplutFptqGLs0) | [Maajjyyn](https://open.spotify.com/artist/2FFQrnhVGwSpSELR5dfG39) | [Breeze](https://open.spotify.com/album/4FYso3anLawE5xBWbGoMu9) | 2:58 | 2025-05-16 |  |
+| [Breeze](https://open.spotify.com/track/4Hf8Dzr69UplutFptqGLs0) | [Maajjyyn](https://open.spotify.com/artist/2FFQrnhVGwSpSELR5dfG39) | [Breeze](https://open.spotify.com/album/4FYso3anLawE5xBWbGoMu9) | 2:58 | 2025-05-16 | 2025-05-22 |
 | [Brush](https://open.spotify.com/track/2dM72ks3NiGCaCG2clUigk) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Brush](https://open.spotify.com/album/0fED8Ta5z3ZZ4PhSh4ojCt) | 4:43 | 2025-04-18 | 2025-05-03 |
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 | 2024-08-24 |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 | 2024-09-15 |
@@ -109,6 +109,7 @@
 | [Diamond Exchange](https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Dots and Thoughts](https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti) | 3:25 | 2023-08-22 | 2025-04-12 |
 | [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 | 2025-03-26 |
 | [Dinorah Dinorah](https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Dinorah Dinorah](https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W) | 4:37 | 2025-02-21 | 2025-03-08 |
+| [Diode](https://open.spotify.com/track/44a8MiFOmKTjhcFJFMXQIB) | [Stapes](https://open.spotify.com/artist/4ON4zcOAOAY55jGZUEb1Wb), [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [Diode](https://open.spotify.com/album/23JB59Ix1P9C42QTxyzWPj) | 2:11 | 2025-05-16 |  |
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2023-08-22 | 2024-10-04 |
 | [Divine Timing Is Intuitive](https://open.spotify.com/track/2amzuNCxpoibW6DTUtUk2X) | [Saint Abdullah](https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP), [Jason Nazary](https://open.spotify.com/artist/4g7wJhFZNNxsMTfhS7igtQ), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Divine Timing Is Intuitive](https://open.spotify.com/album/5Wf5eFYbAgcxiAkLlq0uzh) | 3:55 | 2023-10-13 | 2024-08-24 |
 | [do good, think bad](https://open.spotify.com/track/1HVNC07lW9XJuOp8HoW3Bg) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [stealing from cats](https://open.spotify.com/album/4S8OPIdjL4i4haswpScZwv) | 2:22 | 2024-06-04 | 2024-12-04 |

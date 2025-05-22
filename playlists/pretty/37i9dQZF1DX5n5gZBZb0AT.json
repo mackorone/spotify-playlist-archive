@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 921172,
+  "num_followers": 921372,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-03-27 14:52:17",
       "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -165,36 +181,20 @@
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "Montagem Mysterious Game",
-        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 103495,
-      "name": "Montagem Mysterious Game",
-      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
-    },
-    {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "MATUSHKA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK"
+        "name": "fragment",
+        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
       },
       "artists": [
         {
-          "name": "satirin",
-          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
         }
       ],
-      "duration_ms": 144466,
-      "name": "MATUSHKA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05"
+      "duration_ms": 97857,
+      "name": "fragment - slowed",
+      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -231,18 +231,18 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "fragment",
-        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
+        "name": "MATUSHKA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK"
       },
       "artists": [
         {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
         }
       ],
-      "duration_ms": 97857,
-      "name": "fragment - slowed",
-      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
+      "duration_ms": 144466,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "MONTAGEM TOMADA",
-        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
-      },
-      "artists": [
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 71392,
-      "name": "MONTAGEM TOMADA",
-      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
         "name": "ECOS DO ABISMO",
         "url": "https://open.spotify.com/album/09LYff89MWEUoS9PC15YVy"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 126942,
       "name": "ECOS DO ABISMO - Super Slowed",
       "url": "https://open.spotify.com/track/6dq8QioUz8g692cqkUeuvW"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "duration_ms": 71392,
+      "name": "MONTAGEM TOMADA",
+      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -369,26 +369,6 @@
       "url": "https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk"
     },
     {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
-      },
-      "artists": [
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
-        },
-        {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
-        }
-      ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
-    },
-    {
       "added_at": "2025-03-28 00:00:48",
       "album": {
         "name": "REAL MOONSHINE FUNK",
@@ -407,6 +387,26 @@
       "duration_ms": 94299,
       "name": "REAL MOONSHINE FUNK - Super Slowed",
       "url": "https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+      },
+      "artists": [
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        },
+        {
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+        }
+      ],
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -773,24 +773,24 @@
       "url": "https://open.spotify.com/track/6c3S8RrE30QQKG8TqwIAMG"
     },
     {
-      "added_at": "2025-03-28 00:00:48",
+      "added_at": "2025-03-27 14:52:17",
       "album": {
-        "name": "MY TYPE",
-        "url": "https://open.spotify.com/album/4yUHDMHDEl6Th3jPimciMz"
+        "name": "HUMBLE. (SKRILLEX REMIX)",
+        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
       },
       "artists": [
         {
-          "name": "DJ ZBK",
-          "url": "https://open.spotify.com/artist/4pmKpROq7rAVibM7qR9h6P"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "RD12",
-          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 91585,
-      "name": "MY TYPE - Slowed",
-      "url": "https://open.spotify.com/track/5smCqaAEcKpArEBVhtaryT"
+      "duration_ms": 156800,
+      "name": "HUMBLE. - SKRILLEX REMIX",
+      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
     }
   ],
   "unique_name": "gymcore",

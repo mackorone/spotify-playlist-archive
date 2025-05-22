@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 
 > All the best hits from Shawn Mendes, Taylor Swift and more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 1,613 likes - 66 songs - 3 hr 37 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 1,612 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

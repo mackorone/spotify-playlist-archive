@@ -4355,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Templars",
+        "url": "https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Templars",
+      "url": "https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj"
+    },
+    {
+      "album": {
         "name": "The Silver Scream",
         "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
       },

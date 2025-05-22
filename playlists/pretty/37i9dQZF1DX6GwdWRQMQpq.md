@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,236,207 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,236,523 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [A.T.L.A.N.T.A](https://open.spotify.com/track/7zfFcrc5uk5FiaCq1xdRaF) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [A.T.L.A.N.T.A](https://open.spotify.com/album/03ZsD28CoLGT9FBNC0tAce) | 2:00 |
 | 50 | [No Scrub](https://open.spotify.com/track/0IU9lwYKv4RplARs7C2cH8) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [No Scrub](https://open.spotify.com/album/2HWzGwis2xbgCO26UezLq7) | 2:25 |
 
-Snapshot ID: `AAAAACTJA70T5EmsTtAl9YPMbh0DIlG8`
+Snapshot ID: `aCa4YAAAAABq+CoJl5GleELcLsNcMFE4`

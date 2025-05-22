@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=rRXQytBdTH2RklWbQB8Q1w">Sio</a>, <a href="https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6?si=ZVBoVrEhSlqX\-Yd\-n7OMFg">Tesfa Williams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,436 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,474 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

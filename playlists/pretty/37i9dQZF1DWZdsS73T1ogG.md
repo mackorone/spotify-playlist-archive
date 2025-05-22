@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Lemuell & Sanchz
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,779 likes - 167 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,776 likes - 167 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

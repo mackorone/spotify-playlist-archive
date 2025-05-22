@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 227989,
       "name": "Al Meezan",
       "url": "https://open.spotify.com/track/4uE2JnxPKpZhNsygER68ra"
@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Helwat Al Koon",
+        "url": "https://open.spotify.com/album/4eZdnW0ARkk9wmaXJFvv9M"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Helwat Al Koon",
+      "url": "https://open.spotify.com/track/7kHkxoTSDF2Gk5U4Y2kXGU"
+    },
+    {
+      "album": {
         "name": "Henain",
         "url": "https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex"
       },
@@ -3074,6 +3092,24 @@
       "duration_ms": 198750,
       "name": "Kharetat Rohi",
       "url": "https://open.spotify.com/track/1WsM8j2SPwxZES5qYDUChG"
+    },
+    {
+      "album": {
+        "name": "Khayal",
+        "url": "https://open.spotify.com/album/7shHfpJqjj0xaMgVlazNP5"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Khayal",
+      "url": "https://open.spotify.com/track/4HD0oX8IBedWRVL8aP0Jl5"
     },
     {
       "album": {
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 185544,
       "name": "Shofo",
       "url": "https://open.spotify.com/track/6KGky7SteDG0Vn5zavK1gq"

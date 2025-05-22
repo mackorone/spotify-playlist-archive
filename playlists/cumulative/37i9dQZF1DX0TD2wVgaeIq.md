@@ -4,11 +4,12 @@
 
 > Beautiful bansuri flute and sitar from India.
 
-117 songs - 9 hr 11 min
+123 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4O7IzjHZqnIVvyWLzaIquB) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bhTW190ATzt01429I1aWe) | 0:00 | 2023-03-09 | 2025-02-06 |
+| [A Summer Storm](https://open.spotify.com/track/17sRymzBu6aQ0SLGJewZA8) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [A Summer Storm](https://open.spotify.com/album/6Q9bJM8sKEeGi4dxDvzRD6) | 5:02 | 2025-05-21 |  |
 | [Acceptance](https://open.spotify.com/track/2Qc1cWzUBOJgnXH1MSjV5h) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Calming Bansuri](https://open.spotify.com/album/3sVxXZRKlXWDdI1HZRKyk3) | 8:39 | 2023-03-09 | 2023-10-06 |
 | [Acceptance](https://open.spotify.com/track/1ZbZSSYeOULYN4ciTmw3tm) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Acceptance](https://open.spotify.com/album/1NfHAgXOY9Lk1eBdXix82J) | 8:33 | 2023-03-09 |  |
 | [Adhyatmik Yoddha](https://open.spotify.com/track/7CIuiUdqH1apSTP9nZ0FQZ) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Adhyatmik Yoddha](https://open.spotify.com/album/2YAsxQ2rTnGWm46Xcu5k4B) | 5:05 | 2025-04-11 |  |
@@ -19,6 +20,7 @@
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2023-03-09 |  |
 | [Bahtī Layen](https://open.spotify.com/track/6rXAM353LPkcV8VRDBFZrb) | [Shaanti Tren](https://open.spotify.com/artist/4aHTZItm3O85A6SxROHVc4) | [Bahtī Layen](https://open.spotify.com/album/6qJz9HG58CYbktdFNEZtQT) | 3:44 | 2025-01-15 |  |
 | [Bansuri Devi](https://open.spotify.com/track/2qJS00DNGAoDey317CPZqM) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Bansuri Devi](https://open.spotify.com/album/1iA3Sgu2WxM2k0HezwVjPl) | 5:13 | 2025-04-11 |  |
+| [Before the storm](https://open.spotify.com/track/63hsSENsGAduFKshEtbxom) | [Sitarana](https://open.spotify.com/artist/1lg0s0LnjjmgY7iDqkhEBZ) | [Before the storm](https://open.spotify.com/album/02BHyDlLKtjKVXY18oaJIF) | 2:00 | 2025-05-21 |  |
 | [Bhoop](https://open.spotify.com/track/5VUFIDfke3h6uPVCiFKXDW) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 2](https://open.spotify.com/album/6Z0jzXiQFhTwGAjd7IWVNe) | 2:33 | 2023-03-09 | 2024-07-19 |
 | [Bhoopal Todi](https://open.spotify.com/track/50S0lAkjxyyYjF0ZCMT4H7) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 2](https://open.spotify.com/album/6Z0jzXiQFhTwGAjd7IWVNe) | 2:36 | 2023-03-09 | 2023-10-06 |
 | [Brahma Ras \(Divine Essence\)](https://open.spotify.com/track/2U3VrdfO1dVPy44AqMuc3x) | [Rajendra Teredesai](https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj) | [Divine Dimension: Bansuri Flute Meditiations](https://open.spotify.com/album/76GzjOK13C5TeJkjWPKAZv) | 7:09 | 2023-03-09 | 2023-10-06 |
@@ -30,6 +32,7 @@
 | [Calm in Tintal](https://open.spotify.com/track/0oN3LQLRJMpBOThbR49wS8) | [Chandr Pushp](https://open.spotify.com/artist/0X91WNEF1zQ0MVBMDycjQ1) | [Calm in Tintal](https://open.spotify.com/album/0kCqbEBWHqWOj5EPvOn6D8) | 4:48 | 2025-01-15 |  |
 | [Calming Raga](https://open.spotify.com/track/2W8dObDUEuAgZTz3eRRnUw) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Calming Raga](https://open.spotify.com/album/3Ar0bUOfySyArKK2CA8muj) | 5:11 | 2023-03-09 | 2023-10-06 |
 | [Celestial](https://open.spotify.com/track/0zuW70H4BDayKr9bl5eIHa) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Celestial](https://open.spotify.com/album/3htC8VYLMehNJYtkMbRCUz) | 3:09 | 2023-03-09 |  |
+| [Chaitanya Dream](https://open.spotify.com/track/14TwiRzpGrIrp4xVzRnlhy) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Chaitanya Dream](https://open.spotify.com/album/4FFe2PrMDwQU0nLYCLj8vc) | 2:31 | 2025-05-21 |  |
 | [Chandni Calm](https://open.spotify.com/track/4O2wrcX6bNSLnAxZGf1TJ4) | [Nadiyon](https://open.spotify.com/artist/5qrL0zLxtiyX5IL2XvLUVQ) | [Chandni Calm](https://open.spotify.com/album/6bncdYTyzSm55jb6gk16pf) | 4:43 | 2025-02-05 |  |
 | [Compassion](https://open.spotify.com/track/5pxPqW9c8F010Cv3VfJIJJ) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Compassion](https://open.spotify.com/album/6aIorUJ01obK1eRU74UHdj) | 7:10 | 2023-03-09 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2023-03-09 |  |
@@ -49,6 +52,7 @@
 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 | 2023-03-09 | 2024-08-23 |
 | [Ganga Bliss](https://open.spotify.com/track/1sjQBblq55bICdWYxXWmSQ) | [Harshit Shankar](https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R) | [Ganga Bliss](https://open.spotify.com/album/2zfyDcGE7MzVVU7k0hlQwG) | 2:02 | 2023-03-09 |  |
 | [Golden Hour Ganges](https://open.spotify.com/track/2PSBjAYj5x7yS5ZyGLs4SC) | [Aks & Lakshmi](https://open.spotify.com/artist/5zXob0LQBUchAV6mZOgu2w) | [Golden Hour Ganges](https://open.spotify.com/album/0hde8PjUfNu7GT8RLIUup8) | 4:15 | 2025-04-11 |  |
+| [Gone Not Forgotten](https://open.spotify.com/track/32Xunv2uhnIUUynmZpDFHY) | [silent nomad](https://open.spotify.com/artist/0WcQ7B1yC90vjrb2kLoRi8) | [Gone Not Forgotten](https://open.spotify.com/album/54FLJnwFa2n7yjpIvFT0V7) | 3:15 | 2025-05-21 |  |
 | [Hands](https://open.spotify.com/track/2nZOjE2FuBUjgSual4RPNF) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Hands](https://open.spotify.com/album/0ZXpgNaR3yo9pwMkZECoz6) | 2:29 | 2025-04-11 |  |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-03-09 | 2024-08-23 |
 | [Healing Energy](https://open.spotify.com/track/5BgmQUITJ3NuJAYCcHsdfA) | [Shaant Man](https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO) | [Healing Energy](https://open.spotify.com/album/2ClNJPtgaQ1P6c3QuMSSAI) | 3:50 | 2025-02-05 |  |
@@ -73,6 +77,7 @@
 | [Param Gyan Rahasya \(Mystery of the Eternal\)](https://open.spotify.com/track/1J0j24iOdVUApt3tqMwA1g) | [Rajendra Teredesai](https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj) | [Divine Dimension: Bansuri Flute Meditiations](https://open.spotify.com/album/2YSY3H6O2NQimEDtBY90UH) | 4:44 | 2024-03-26 |  |
 | [Param Gyan Rahasya \(Mystery of the Eternal\)](https://open.spotify.com/track/7zS5wzG2NmBnhkiLpilKSE) | [Rajendra Teredesai](https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj) | [Divine Dimension: Bansuri Flute Meditiations](https://open.spotify.com/album/76GzjOK13C5TeJkjWPKAZv) | 4:44 | 2023-03-09 | 2024-02-04 |
 | [Param Gyan Rahasya \(Mystery of the Eternal\)](https://open.spotify.com/track/5hoKh6MYg8NunGCFGgZTx4) | [Rajendra Teredesai](https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj) | [Divine Dimension: Bansuri Flute Meditiations](https://open.spotify.com/album/52xllW6ZS3dpNm8uwO41JV) | 4:47 | 2024-01-19 | 2024-04-19 |
+| [Pay the price](https://open.spotify.com/track/1Z6BuZkYjqHj9YeQBvU6f6) | [Sitarana](https://open.spotify.com/artist/1lg0s0LnjjmgY7iDqkhEBZ) | [Pay the price](https://open.spotify.com/album/5tFEebdhTha8pnnMkqh5mC) | 2:12 | 2025-05-21 |  |
 | [Peace & Tranquility \- Hamsadhwani](https://open.spotify.com/track/7qktw7zrezZxNIG8sq6CdS) | [Aks & Lakshmi](https://open.spotify.com/artist/5zXob0LQBUchAV6mZOgu2w) | [Peace & Tranquility \- Hamsadhwani](https://open.spotify.com/album/3yss2QAAAZID9NjLlByq5S) | 4:24 | 2025-01-15 |  |
 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 | 2023-03-09 | 2023-10-06 |
 | [Peaceful Morning](https://open.spotify.com/track/0kJ4jlKhL4yJsfhwRwbZI9) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Peaceful Morning](https://open.spotify.com/album/72kI5WG5xYa1YwFhVzC868) | 6:08 | 2023-03-09 |  |
@@ -121,6 +126,7 @@
 | [Tranquil Flute](https://open.spotify.com/track/5YjcMq9ULEIj5ocqhCMMmX) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Yoga Flute Meditation](https://open.spotify.com/album/71ntr9WalJNhrGxTF8DgoY) | 2:09 | 2023-03-09 | 2023-10-06 |
 | [Tranquil Sunset](https://open.spotify.com/track/58cCbafr6TZ4u1T4u4weTI) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:37 | 2023-03-09 |  |
 | [Tranquil Sunset](https://open.spotify.com/track/2IeJpqjaD2taFXlJWX3ru0) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:37 | 2024-01-19 | 2024-04-19 |
+| [Tumbleweed](https://open.spotify.com/track/73a5dn5ianJzNLXDORBpk5) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Tumbleweed](https://open.spotify.com/album/2oeToObHfEAwZsfowbKUIr) | 5:07 | 2025-05-21 |  |
 | [Viloma](https://open.spotify.com/track/4az3kWGP1I7Jp8kyrP6H39) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 4:41 | 2023-03-09 |  |
 | [Yaman Flute Meditation](https://open.spotify.com/track/3K0NNBsqb34AbuEHfr0oSQ) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Yaman Flute Meditation](https://open.spotify.com/album/1gZjdrPfP4hhmUTvfXBIZW) | 2:42 | 2023-03-09 |  |
 | [Yogini](https://open.spotify.com/track/09SwpXlnBl0TmrvtAXdrVQ) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Yogini](https://open.spotify.com/album/5YtyLH383BrxlWUOjxGDxs) | 2:11 | 2023-03-09 |  |

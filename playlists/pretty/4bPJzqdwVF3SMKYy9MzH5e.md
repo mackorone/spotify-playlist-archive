@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,133 songs - 4 day 18 hr 21 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,134 songs - 4 day 18 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2141,5 +2141,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2131 | [Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Amnesty \(I\)](https://open.spotify.com/album/60f7DBZ5BIKTlaGak6ooUU) | 3:08 |
 | 2132 | [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 |
 | 2133 | [Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [RIFT Two](https://open.spotify.com/album/4iZazfJYrTMfnfRzg6QQQf) | 3:01 |
+| 2134 | [oxy](https://open.spotify.com/track/0MjAu1TnWJiKCQPI5d3x3S) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [dile no a las drogas](https://open.spotify.com/album/2kvzVR1bpkXKLmai4ZfMqS) | 2:42 |
 
-Snapshot ID: `AAAEMJBRFmVg3A9xXmmK0oVNjEPjJVlG`
+Snapshot ID: `AAAEMbgLwbcdpRVQkfHsI4GuVGU2YCP3`

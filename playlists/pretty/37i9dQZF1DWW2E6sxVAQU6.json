@@ -1,6 +1,6 @@
 {
   "description": "Italia amore mio \ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9 \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
-  "num_followers": 12605,
+  "num_followers": 12608,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z6rZtwAAAABaAJRD70wsW912jF3gQPvr",
   "tracks": [
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
-        "name": "Il Ragazzo Della Via Gluck (2012 Remaster)",
-        "url": "https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Il Ragazzo Della Via Gluck",
-      "url": "https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8"
-    },
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 192654,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "Il Ragazzo Della Via Gluck (2012 Remaster)",
+        "url": "https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Il Ragazzo Della Via Gluck",
+      "url": "https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "Daniel Sentacruz Ensemble: Solo Grandi Successi",
-        "url": "https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Sentacruz Ensemble",
-          "url": "https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26"
-        }
-      ],
-      "duration_ms": 222767,
-      "name": "Linda Bella Linda - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "Grigio",
         "url": "https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 254333,
       "name": "Bentivoglio Angelina",
       "url": "https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "Daniel Sentacruz Ensemble: Solo Grandi Successi",
+        "url": "https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Sentacruz Ensemble",
+          "url": "https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26"
+        }
+      ],
+      "duration_ms": 222767,
+      "name": "Linda Bella Linda - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "\u00c7a Plane Pour Moi",
-        "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
-      },
-      "artists": [
-        {
-          "name": "Plastic Bertrand",
-          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Ping Pong",
-      "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "Fotografie",
         "url": "https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 247465,
       "name": "Cose Veloci",
       "url": "https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "\u00c7a Plane Pour Moi",
+        "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
+      },
+      "artists": [
+        {
+          "name": "Plastic Bertrand",
+          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
     },
     {
       "added_at": "2025-02-11 05:01:43",

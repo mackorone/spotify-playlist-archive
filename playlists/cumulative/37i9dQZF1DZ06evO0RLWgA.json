@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "House Of The Blues",
+        "url": "https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175026,
+      "name": "Ground Hog Blues - Single Version",
+      "url": "https://open.spotify.com/track/2zwnpN2MCs6hCxaXhFZJK4"
+    },
+    {
+      "album": {
         "name": "Hot Spot (Soundtrack)",
         "url": "https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 542862,
       "name": "I Hate the Day I Was Born",
       "url": "https://open.spotify.com/track/2HvLBlX0nqCQWmrGycAFu2"

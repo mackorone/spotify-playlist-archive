@@ -1,13 +1,37 @@
 {
   "description": "Musical songs from Broadway, the West End and beyond. Cover: Megan Hilty & Jennifer Simard in \"Death Becomes Her\"",
-  "num_followers": 575180,
+  "num_followers": 575187,
   "original_name": "Broadway Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOYAAAAABNQM6bIKZIbHlbh3cFLuJ1",
+  "snapshot_id": "aC31egAAAABkEFNgHNZAVenV+5Rpz9xO",
   "tracks": [
+    {
+      "added_at": "2025-04-18 04:00:32",
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "Jennifer Simard",
+          "url": "https://open.spotify.com/artist/4t5i1y4ok9zB6kSyw9iBzI"
+        },
+        {
+          "name": "Christopher Sieber",
+          "url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797"
+        }
+      ],
+      "duration_ms": 174092,
+      "name": "Tell Me, Ernest",
+      "url": "https://open.spotify.com/track/42l7xHABhAOkUjCKBSX31e"
+    },
     {
       "added_at": "2025-04-11 04:00:26",
       "album": {
@@ -55,30 +79,6 @@
       "duration_ms": 269320,
       "name": "With One Look",
       "url": "https://open.spotify.com/track/0i8FyAJCAjlSJlUXuvMR96"
-    },
-    {
-      "added_at": "2025-04-18 04:00:32",
-      "album": {
-        "name": "Death Becomes Her - Broadway Sneak Preview",
-        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
-      },
-      "artists": [
-        {
-          "name": "Megan Hilty",
-          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
-        },
-        {
-          "name": "Jennifer Simard",
-          "url": "https://open.spotify.com/artist/4t5i1y4ok9zB6kSyw9iBzI"
-        },
-        {
-          "name": "Christopher Sieber",
-          "url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797"
-        }
-      ],
-      "duration_ms": 174092,
-      "name": "Tell Me, Ernest",
-      "url": "https://open.spotify.com/track/42l7xHABhAOkUjCKBSX31e"
     },
     {
       "added_at": "2024-11-25 14:59:38",
@@ -459,6 +459,38 @@
       "duration_ms": 222239,
       "name": "My Days",
       "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
+    },
+    {
+      "added_at": "2025-05-21 15:47:06",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Sydney James Harcourt",
+          "url": "https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 242017,
+      "name": "Say No to This",
+      "url": "https://open.spotify.com/track/3s9itRgJYcKhem01P17865"
     },
     {
       "added_at": "2024-11-25 14:59:38",
@@ -1559,34 +1591,6 @@
       "duration_ms": 182160,
       "name": "It's Only a Matter of Time",
       "url": "https://open.spotify.com/track/1uYnCRBvnHmUFyymYkzjJn"
-    },
-    {
-      "added_at": "2024-11-25 14:59:38",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
-        },
-        {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 270171,
-      "name": "It's Quiet Uptown",
-      "url": "https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D"
     },
     {
       "added_at": "2024-11-25 14:59:38",

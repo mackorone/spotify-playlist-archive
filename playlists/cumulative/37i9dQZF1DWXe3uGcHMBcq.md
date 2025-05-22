@@ -4,7 +4,7 @@
 
 > Sing\-along with new music from Zombies 4 Dawn of the Vampires to get ready for the Descendants/Zombies: Worlds Collide Tour.
 
-184 songs - 8 hr 48 min
+185 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Strut \- From "The Cheetah Girls 2"](https://open.spotify.com/track/1g1Jor1zrllXn2ogj8KGAH) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:18 | 2024-05-22 |  |
 | [Stuck at Home](https://open.spotify.com/track/1PMVMK26EplMMVbG9lMeiE) | [Big City Greens](https://open.spotify.com/artist/4RwtL4p6cViBS9Qk8TiYsu) | [Big City Greens: Don't Think, Just Sing! \(Original Television Series Soundtrack\)](https://open.spotify.com/album/7dIjQFhIbUMh7sygjkx1mP) | 2:01 | 2024-05-22 |  |
 | [Such a Beautiful Day](https://open.spotify.com/track/3zUPleZWzqyr0SA7AhD7Cc) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf) | [Phineas and Ferb The Movie: Candace Against the Universe \(Original Soundtrack\)](https://open.spotify.com/album/17UaoAh0UsPryIa6Em6zRL) | 2:07 | 2024-05-22 |  |
+| [Summer Is Starting Right Now \- From "Phineas and Ferb: Season 5"](https://open.spotify.com/track/0zUJ4YrWiHeWmfmAfqDYte) | [The Cast of Phineas and Ferb](https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi) | [Summer Is Starting Right Now \(From "Phineas and Ferb: Season 5"\)](https://open.spotify.com/album/0RiuMP9zliBj4uP4WKboBW) | 2:03 | 2025-05-21 |  |
 | [Supernatural](https://open.spotify.com/track/5CczFHpRsSmqcOpNF4hKDx) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [Songs from That's So Raven](https://open.spotify.com/album/6d2GhUjA9Ce6dRsMDOkmRu) | 2:57 | 2024-05-22 |  |
 | [Surf Crazy \- From "Teen Beach Movie"/Soundtrack Version](https://open.spotify.com/track/4Xt0OKNJtbyqx5GEX2XpVF) | [Spencer Lee](https://open.spotify.com/artist/2KudRwdzlqiAKZDpxPoHV2), [Keely Hawkes](https://open.spotify.com/artist/5JHgnc6Oy33N5LufIuMj2m), [Teen Beach Movie Cast](https://open.spotify.com/artist/7CU7ADIkPVCEZU9miqxSzy) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:02 | 2024-05-22 |  |
 | [Surf’s Up \- From "Teen Beach Movie"/Soundtrack Version](https://open.spotify.com/track/4FLwksoBdffxACteswhNlU) | [Brady](https://open.spotify.com/artist/4j6UbCmWa3sZAq8zmy1ZXd), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC), [Teen Beach Movie Cast](https://open.spotify.com/artist/7CU7ADIkPVCEZU9miqxSzy) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:01 | 2024-05-22 |  |

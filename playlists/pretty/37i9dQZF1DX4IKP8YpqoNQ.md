@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,109 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,110 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 52 | [You Got the Love \- Live Version](https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 5:36 |
 | 53 | [Brown Sugar \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 10:45 |
 | 54 | [I'd Rather Go Blind](https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Live From San Francisco](https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn) | 4:55 |
-| 55 | [I Remember \- Live](https://open.spotify.com/track/2Ass4uwiFC6jegmcTJRXGd) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/5sHByOqrDlhVXmMamZN49L) | 3:46 |
-| 56 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
+| 55 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
+| 56 | [I Remember \- Live](https://open.spotify.com/track/2Ass4uwiFC6jegmcTJRXGd) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/5sHByOqrDlhVXmMamZN49L) | 3:46 |
 | 57 | [Dorothy Parker \- Live from One Nite Alone Tour...The Aftershow](https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [One Nite Alone..\. The Aftershow: It Ain't Over! \(Up Late with Prince & The NPG\) \[Live\]](https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq) | 6:16 |
 | 58 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 |
 | 59 | [I Heard It Through the Grapevine \- Live](https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live in Montreux 1980](https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D) | 6:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gordo &amp; Blessd
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 97,595 likes - 100 songs - 5 hr 13 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 97,573 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

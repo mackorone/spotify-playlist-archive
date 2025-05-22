@@ -1,13 +1,61 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 238339,
+  "num_followers": 238345,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBi6lQAAAACiTB5tPxGjiqz+9UvtmTUG",
+  "snapshot_id": "aC3JTwAAAABVNDNiITgWYv98zz2DzrsM",
   "tracks": [
+    {
+      "added_at": "2025-05-21 12:38:39",
+      "album": {
+        "name": "Headlock (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 220762,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
+    },
+    {
+      "added_at": "2025-05-21 12:38:39",
+      "album": {
+        "name": "All My Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 224090,
+      "name": "All My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
+    },
+    {
+      "added_at": "2025-05-21 12:38:39",
+      "album": {
+        "name": "Rose Colored Lenses (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 143604,
+      "name": "Rose Colored Lenses - Spotify Singles",
+      "url": "https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU"
+    },
     {
       "added_at": "2025-05-05 13:18:13",
       "album": {

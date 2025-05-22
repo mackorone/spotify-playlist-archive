@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1F68L6nlubo92LxyyITibv">Sofia Gobbi</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1F68L6nlubo92LxyyITibv">Sofia Gobbi</a> in cover \(ah, e Fresh Finds compie 10 anni 🎂\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,176 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,181 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 74 | [Blue Notte](https://open.spotify.com/track/6RYp6OjS9PFllwjh1zj2MH) | [Denoise](https://open.spotify.com/artist/5p8W2If8qwjFGW7peV00Qo), [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l), [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Blue Notte](https://open.spotify.com/album/5gKEfrkfIZyMJyKa1n2yJX) | 4:22 |
 | 75 | [A volte niente](https://open.spotify.com/track/1kbVTATU4efjYT1hOuCRl5) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [A volte niente](https://open.spotify.com/album/7KWt5yIfPmNjqOPAE6gmCn) | 3:39 |
 
-Snapshot ID: `aCz7rAAAAACqFb+sHRmlcMSeYjyu6+QD`
+Snapshot ID: `aC2GrgAAAABprLTuw6xY/1jCx0SPVMQq`

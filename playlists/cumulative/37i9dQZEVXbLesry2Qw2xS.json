@@ -1511,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "Ajavahe",
+        "url": "https://open.spotify.com/album/6BeBGS67kXO2sdAXEOqqtM"
+      },
+      "artists": [
+        {
+          "name": "Anett",
+          "url": "https://open.spotify.com/artist/1RLpUVaBWhZ8tSBlJjTU1b"
+        },
+        {
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141583,
+      "name": "Ajavahe",
+      "url": "https://open.spotify.com/track/1P6QUF4MoUD8qUPme6rWBo"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -5078,7 +5100,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -12134,7 +12156,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 178767,
       "name": "Esa Diva",
       "url": "https://open.spotify.com/track/6utHjfvlsCAj0V6Wg6mXqx"
@@ -22996,6 +23018,24 @@
     {
       "album": {
         "name": "La poup\u00e9e monte le son",
+        "url": "https://open.spotify.com/album/3Mzz2B5cDCQw2pC1ikacqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Thorn",
+          "url": "https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "La poup\u00e9e monte le so",
+      "url": "https://open.spotify.com/track/3dDWYjYzwvotCOvzFmiffU"
+    },
+    {
+      "album": {
+        "name": "La poup\u00e9e monte le son",
         "url": "https://open.spotify.com/album/6k0rdf9p1YRh57I9HsK97l"
       },
       "artists": [
@@ -23006,7 +23046,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 178378,
       "name": "La poup\u00e9e monte le son",
       "url": "https://open.spotify.com/track/6IabIimt88FcZu80dunXWA"
@@ -26412,7 +26452,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 180195,
       "name": "maman",
       "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
@@ -30362,7 +30402,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 179624,
       "name": "New Day Will Rise",
       "url": "https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8"
@@ -38428,7 +38468,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -42778,7 +42818,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 157790,
       "name": "tantsuriik",
       "url": "https://open.spotify.com/track/6p1WSCHxkK6pGFh7sOt67k"
@@ -50216,7 +50256,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 184421,
       "name": "Zjerm",
       "url": "https://open.spotify.com/track/1MMfGAHowKNRithYDIRS1k"

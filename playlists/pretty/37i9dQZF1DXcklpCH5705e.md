@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,203 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,197 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 14 | [下一世遇見](https://open.spotify.com/track/0BvSDFthkPOVWfNdIs2BGM) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [下一世遇見](https://open.spotify.com/album/2JDuShaImrZIYITFQJ2Lba) | 4:25 |
 | 15 | [新郎](https://open.spotify.com/track/1AwHhS0vQrc2vzSpW7m7GH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [新郎](https://open.spotify.com/album/20F3ek2ax9tCi0XeUarWiF) | 3:42 |
 | 16 | [吹吹風](https://open.spotify.com/track/7qpNCIAEv55q1jkzsO1jxd) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [吹吹風](https://open.spotify.com/album/5vape6V9FymJGeFKZfugS4) | 2:55 |
-| 17 | [真不懂為啥又emoㄌ](https://open.spotify.com/track/0U2xVv5i8JddIPobKNuaev) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [真不懂為啥又emoㄌ](https://open.spotify.com/album/3VZvrik2kpghuw4aoeltXQ) | 2:29 |
-| 18 | [八方來財](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 |
+| 17 | [真不懂為啥又emo了](https://open.spotify.com/track/0U2xVv5i8JddIPobKNuaev) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [真不懂為啥又emo了](https://open.spotify.com/album/3VZvrik2kpghuw4aoeltXQ) | 2:29 |
+| 18 | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 |
 | 19 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:39 |
 | 20 | [想过不止一百遍](https://open.spotify.com/track/0Xld54ZC4WYqTahn8lWn6J) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [想过不止一百遍](https://open.spotify.com/album/5phB3l1NbFTgPGeYYpLEwW) | 3:15 |
 | 21 | [完美的大人呐](https://open.spotify.com/track/2ABTH5CySaSPE8VRVQ9VCM) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [完美的大人呐](https://open.spotify.com/album/1ZOcpGeEqHRbgA1qQ2fIr9) | 3:02 |

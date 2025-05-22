@@ -2,7 +2,7 @@
 
 ### [Portola Party People](https://open.spotify.com/playlist/37i9dQZF1DX5LFAujdafjI)
 
-> 2025 line up is here! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the Portola Festival Department of Science and Research.
+> 2025 line up is here! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
 293 songs - 19 hr 13 min
 

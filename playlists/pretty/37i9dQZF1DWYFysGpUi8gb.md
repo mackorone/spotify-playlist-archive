@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > welcome to the underground\. greetings from ugly \(uk\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,147 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,138 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 84 | [Be Laurel](https://open.spotify.com/track/77M9iOcvUtzbV8194xfmy7) | [Search Results](https://open.spotify.com/artist/26WnkHydmkuHAgHS0ZbZjM) | [Be Laurel](https://open.spotify.com/album/4LFwOCEzMz7l8dVzm6U3Vx) | 1:39 |
 | 85 | [FRANCES](https://open.spotify.com/track/6rae1njvXdSigrnHrQaaqf) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [FRANCES](https://open.spotify.com/album/63krr0RdIndpriaq4otBgB) | 2:03 |
 
-Snapshot ID: `AAAAAJZhb5p0CNC9HjXWjA0J8CCex+zJ`
+Snapshot ID: `aCyuawAAAACunLlQSNUgLfXdjAyYoV9i`

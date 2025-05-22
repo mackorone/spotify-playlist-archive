@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 486813,
+  "num_followers": 486825,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
+    },
+    {
       "added_at": "2025-03-27 13:00:14",
       "album": {
         "name": "In Colour",
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "twenty bucks (the friend song)",
+        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "duration_ms": 113232,
+      "name": "twenty bucks (the friend song)",
+      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -823,22 +839,6 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "twenty bucks (the friend song)",
-        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
-      },
-      "artists": [
-        {
-          "name": "boxboys",
-          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
-        }
-      ],
-      "duration_ms": 113232,
-      "name": "twenty bucks (the friend song)",
-      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
-      },
-      "artists": [
-        {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
-        }
-      ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Can You See The Sunshine? (EP)",
         "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+      },
+      "artists": [
+        {
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+        }
+      ],
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Stained Glass Curtain",
         "url": "https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L"
       },
@@ -1075,6 +1075,38 @@
       "duration_ms": 170788,
       "name": "Stained Glass Curtain",
       "url": "https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mammoth Surf",
+        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "duration_ms": 120476,
+      "name": "Mammoth Surf",
+      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Malibu Sunset b/w Hang On",
+        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
+      },
+      "artists": [
+        {
+          "name": "The Travelers",
+          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
+        }
+      ],
+      "duration_ms": 128194,
+      "name": "Malibu Sunset",
+      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -1095,22 +1127,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Malibu Sunset b/w Hang On",
-        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
-      },
-      "artists": [
-        {
-          "name": "The Travelers",
-          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
-        }
-      ],
-      "duration_ms": 128194,
-      "name": "Malibu Sunset",
-      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "The Way You Talk",
         "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 198420,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Mammoth Surf",
-        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 120476,
-      "name": "Mammoth Surf",
-      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
     },
     {
       "added_at": "2024-10-11 04:00:00",

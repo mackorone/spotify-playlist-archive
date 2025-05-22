@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 39964,
+  "num_followers": 39981,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "AZ Mezzanine Digital Volume 3",
-        "url": "https://open.spotify.com/album/4SnVRbabumUHm8lReD3809"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 444449,
-      "name": "Sinfonia Della Notte",
-      "url": "https://open.spotify.com/track/4AXwhQn8kGfzYe02gp1Dvo"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "What You Need (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 202698,
       "name": "What You Need (feat. Duane Harden) - Full Intention Radio Edit",
       "url": "https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "AZ Mezzanine Digital Volume 3",
+        "url": "https://open.spotify.com/album/4SnVRbabumUHm8lReD3809"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "duration_ms": 444449,
+      "name": "Sinfonia Della Notte",
+      "url": "https://open.spotify.com/track/4AXwhQn8kGfzYe02gp1Dvo"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -1725,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "Channa Ve",
+        "url": "https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        },
+        {
+          "name": "Nitin Rana",
+          "url": "https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Channa Ve",
+      "url": "https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ"
+    },
+    {
+      "album": {
         "name": "Chaukhat (Acoustic)",
         "url": "https://open.spotify.com/album/4YHSH25QEB5aQiotQJByRA"
       },
@@ -5897,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "Mahi Mere Mahi",
+        "url": "https://open.spotify.com/album/1hxEJVTQVGFz4xbuvS2kHK"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mahi Mere Mahi",
+      "url": "https://open.spotify.com/track/1sllzIqIynjYvzFNrXsFjs"
+    },
+    {
+      "album": {
         "name": "Dard",
         "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
       },
@@ -7640,7 +7680,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 187160,
       "name": "Pyaar Ki Talaash",
       "url": "https://open.spotify.com/track/1CLtcOV4JBW4MNE7zUb2no"
@@ -8248,7 +8288,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 206213,
       "name": "Sache Ishq Ki Kahani",
       "url": "https://open.spotify.com/track/2JkMToDSXSNSP13OouLGP5"

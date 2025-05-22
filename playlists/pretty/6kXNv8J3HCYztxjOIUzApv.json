@@ -1,13 +1,29 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61821,
+  "num_followers": 61835,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIrC0R+Ic1yrmRlMQYBRqjSW+59sWr",
+  "snapshot_id": "AAAIroyDnjR/DIcdNe/2wzVBoHSby/Um",
   "tracks": [
+    {
+      "added_at": "2025-05-21 13:17:24",
+      "album": {
+        "name": "Templars",
+        "url": "https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Templars",
+      "url": "https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj"
+    },
     {
       "added_at": "2025-03-28 16:41:52",
       "album": {

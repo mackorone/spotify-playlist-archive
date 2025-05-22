@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (Jolin Tsai)",
-  "num_followers": 235570,
+  "num_followers": 235610,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-05-12 03:15:38",
       "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "\u9006\u5149",
+      "url": "https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M"
+    },
+    {
+      "added_at": "2025-05-12 03:15:38",
+      "album": {
         "name": "Begin",
         "url": "https://open.spotify.com/album/2nXygKVkTEGHeCtdEHCsdp"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 206586,
       "name": "\u7d05\u8272\u9ad8\u8ddf\u978b",
       "url": "https://open.spotify.com/track/5DSF1VTSaaAFIesJLlltuM"
-    },
-    {
-      "added_at": "2025-05-12 03:15:38",
-      "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "\u9006\u5149",
-      "url": "https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M"
     },
     {
       "added_at": "2025-05-12 03:15:38",
@@ -671,8 +671,8 @@
     {
       "added_at": "2025-05-12 03:15:38",
       "album": {
-        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
+        "name": "\u4e0d\u8aaa\u51fa\u7684\u6eab\u67d4",
+        "url": "https://open.spotify.com/album/4T39XZq1SSz0c1VjhJAhJU"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
         }
       ],
-      "duration_ms": 288773,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
+      "duration_ms": 273093,
+      "name": "\u653e\u751f",
+      "url": "https://open.spotify.com/track/1FYDHcFBASKDxhjkLLbh5X"
     },
     {
       "added_at": "2025-05-12 03:15:38",
@@ -783,8 +783,8 @@
     {
       "added_at": "2025-05-12 03:15:38",
       "album": {
-        "name": "\u4e0d\u8aaa\u51fa\u7684\u6eab\u67d4",
-        "url": "https://open.spotify.com/album/4T39XZq1SSz0c1VjhJAhJU"
+        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
         }
       ],
-      "duration_ms": 273093,
-      "name": "\u653e\u751f",
-      "url": "https://open.spotify.com/track/1FYDHcFBASKDxhjkLLbh5X"
+      "duration_ms": 288773,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
     },
     {
       "added_at": "2025-05-12 03:15:38",

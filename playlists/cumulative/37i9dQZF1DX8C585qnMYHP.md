@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> Celebrating 10 years of the best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
+> Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:1F68L6nlubo92LxyyITibv">Amanda Mur</a> on cover\. Artwork by Thami Nabil
 
-2,028 songs - 6 day 14 hr 13 min
+2,030 songs - 6 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Bury the Bell](https://open.spotify.com/track/4E1wcuswSq8jlUbrmfhN28) | [Revelators Sound System](https://open.spotify.com/artist/5A7azcpAatRKVxlQ2CXtkx) | [Revelators](https://open.spotify.com/album/1t3ObWqTugXrIvvpC5qbk7) | 10:39 | 2022-06-29 | 2022-09-01 |
 | [Business Class](https://open.spotify.com/track/0R1eP7bfUDB96LR8udiTjp) | [JNTHN STEIN](https://open.spotify.com/artist/2tW7TitNzNibILuWCEhBLS) | [Business Class](https://open.spotify.com/album/0EdSRVd58vA7KPUXEkk5rz) | 2:20 | 2022-07-06 | 2022-09-01 |
 | [Butoh baby](https://open.spotify.com/track/5uWyV488Rr4rl8QIAjXVdk) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Butoh baby](https://open.spotify.com/album/0jvXSzwwQDOI1K2myzfRv9) | 3:16 | 2020-10-30\* | 2021-01-15 |
+| [By Night](https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE) | [Noah Praise God](https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV) | [By Night](https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI) | 2:39 | 2025-05-21 |  |
 | [Bârieh](https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x) | [Mohammad Mostafa Heydarian](https://open.spotify.com/artist/5gcN10J58SA82tyq6nScoa) | [Noor\-e Vojood](https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R) | 4:14 | 2025-04-15 |  |
 | [C \(Featuring the Voice of Fred Moten\)](https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Introduction / C \(Featuring the Voice of Fred Moten\)](https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL) | 4:23 | 2023-09-13 | 2023-11-30 |
 | [C Tactile Afferent](https://open.spotify.com/track/0ofnaWYCsOls6vzFNQ07SU) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/42hTGP1J4wbKoPq83kQHxd) | 3:36 | 2021-04-10 | 2021-06-04 |
@@ -804,11 +805,12 @@
 | [Hypertext Responder](https://open.spotify.com/track/7s9d8M6GirXhAcamv3v9IX) | [Andy Loebs](https://open.spotify.com/artist/2af5Lv9wWgwNTSEbSadtJP) | [Hypertext Responder](https://open.spotify.com/album/4YvHEgZmrelYOF1VgWpjSP) | 2:27 | 2023-03-15 | 2023-04-30 |
 | [Hypnic Jerks](https://open.spotify.com/track/3xzPT6PC6o88vwHF06CntA) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [File Under UK Metaplasm](https://open.spotify.com/album/1GOCqu141EPdI8yiwfSBSY) | 3:52 | 2021-01-21 | 2021-02-15 |
 | [Hyrule City](https://open.spotify.com/track/7guMblzcJsgdHeWBTshWx1) | [Cam Steen](https://open.spotify.com/artist/7t9afRFax4ByKMkrhejMwd) | [Hyrule City](https://open.spotify.com/album/4XZUBJGuNRlmAUiOXB0VJe) | 4:57 | 2023-03-22 | 2023-05-18 |
-| [I](https://open.spotify.com/track/35gTDACxDcRebxunF5igw8) | [Jules Reidy](https://open.spotify.com/artist/5KPawjVpDlK8qpInDjLPac) | [Trances](https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn) | 8:37 | 2024-01-10 |  |
+| [I](https://open.spotify.com/track/35gTDACxDcRebxunF5igw8) | [Jules Reidy](https://open.spotify.com/artist/5KPawjVpDlK8qpInDjLPac) | [Trances](https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn) | 8:37 | 2024-01-10 | 2025-05-22 |
 | [I](https://open.spotify.com/track/00UC3Q9hxjfgvBzkUpxe3o) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [I](https://open.spotify.com/album/2xjnI3kZzDTIjUe1Zcwb2G) | 9:08 | 2023-10-11 | 2024-01-11 |
 | [I Am Back](https://open.spotify.com/track/1f2glhsr6q7TGRGsfWgpsn) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [I Am Back](https://open.spotify.com/album/7tL0iJz1ECumr6C5OvAPC5) | 3:38 | 2021-02-28 | 2021-03-18 |
 | [I Am Here and Now](https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh) | [Valentina Goncharova](https://open.spotify.com/artist/5rzFg9cZH3EAHs1x0yOTGu) | [Campanelli](https://open.spotify.com/album/3RmPqy5455voCtj5rI3UJd) | 7:04 | 2025-03-25 |  |
 | [I am here now](https://open.spotify.com/track/6Bar5d1K7Rd2w2lB7FRaXd) | [Thanya Iyer](https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P) | [TIDE/TIED](https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO) | 5:43 | 2025-05-07 |  |
+| [I Am The Cucumber Man](https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Sonny Gray](https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR) | 3:58 | 2025-05-21 |  |
 | [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2022-04-13 | 2023-03-16 |
 | [I don't know the dialect hard to tell / Nie znam gwary ciężko stwierdzić](https://open.spotify.com/track/2X1QB9EMditpc8RukmJnkT) | [Zosia Hołubowska](https://open.spotify.com/artist/27O1uMQRqAYWwSKmWZ5OX9) | [Singing Warmia](https://open.spotify.com/album/6UNZrczzhQg0d74v2KJKBk) | 5:40 | 2023-04-05 | 2023-06-08 |
 | [I Don't Want to Let Go](https://open.spotify.com/track/698k7ktAdxjfuwvdxEelmp) | [Whettman Chelmets](https://open.spotify.com/artist/4uHXYKxoGDvb8f1GLWlyOC) | [I Don't Want to Let Go, but I Need to Let Go](https://open.spotify.com/album/2jk6thqzvuKiiNf1XvK1QM) | 18:39 | 2020-10-30\* | 2021-01-15 |
@@ -1422,7 +1424,7 @@
 | [Road to Techno](https://open.spotify.com/track/3Qc7eb1JrtCPjMjwhmzhxh) | [Adrian Dett](https://open.spotify.com/artist/1wpeyU0O8FMgp5QNSMuIx3) | [Road to Techno](https://open.spotify.com/album/1eAgVQ6XRrOtbiFbeWzre8) | 8:00 | 2023-03-01 | 2023-04-06 |
 | [ROAD2RAILS](https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy) | [NIGELTHREETIMES](https://open.spotify.com/artist/2idYU20N0SmiDmd3KLhcsK) | [METROPOLIS N](https://open.spotify.com/album/2XPIMtFys1sMHfnjLTsBVU) | 4:51 | 2024-01-10 | 2024-04-04 |
 | [Room of Fear](https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm) | [AIKA](https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m) | [Rebirth](https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6) | 1:54 | 2023-08-01 | 2023-10-26 |
-| [roots](https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:39 | 2025-03-25 |  |
+| [roots](https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:39 | 2025-03-25 | 2025-05-22 |
 | [Roots](https://open.spotify.com/track/4mrYVeASpXLLKF1jXpTnhV) | [Malvae](https://open.spotify.com/artist/3xDYZyU0u2UORxJh6BcZe4) | [Roots](https://open.spotify.com/album/0tcqytj09avkRwgKoE12WT) | 4:23 | 2022-04-06 | 2022-06-30 |
 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 | 2024-04-03 |  |
 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 | 2022-01-12 | 2022-03-31 |

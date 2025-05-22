@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 79952,
+  "num_followers": 80087,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAACXhAHq+ls+NqYdiVJJE3Y0",
+  "snapshot_id": "aCvGAAAAAADuikUd60PxZYVtyZeLrMJS",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 179737,
+      "name": "Fue Un Error",
+      "url": "https://open.spotify.com/track/332fNfcFr8Jtr4lsVHysQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Demonios (En Vivo)",
         "url": "https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 242227,
       "name": "Los Demonios (En Vivo)",
       "url": "https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 179737,
-      "name": "Fue Un Error",
-      "url": "https://open.spotify.com/track/332fNfcFr8Jtr4lsVHysQp"
     },
     {
       "added_at": null,

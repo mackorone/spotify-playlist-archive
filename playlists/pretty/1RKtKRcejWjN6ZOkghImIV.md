@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1RKtKRcejWjN6ZOkghImIV.md) - [plain]
 
 > Slipknot, Mudvayne, Hatebreed\. Turn the volume all the way up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,153 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,145 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

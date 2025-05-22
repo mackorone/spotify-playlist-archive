@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Höre dir jetzt die Deutschrap Songs des Jahres an\. Cover: Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,569 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,599 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 10 | [Out Of The Dark](https://open.spotify.com/track/5tJVkABJRZkTq7Dqjv6xiz) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Out Of The Dark](https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP) | 2:47 |
 | 11 | [80qm](https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [80qm](https://open.spotify.com/album/5nNXcTFibANjNbLye2jMLU) | 2:19 |
 | 12 | [PLAYBOYBUNNIES](https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PLAYBOYBUNNIES](https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3) | 2:27 |
-| 13 | [Amo aller Amos](https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV) | [Amo](https://open.spotify.com/artist/0U6rqbk85u8RpwVXRcCORg) | [Amo aller Amos](https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j) | 1:49 |
+| 13 | [Amo aller Amos](https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Amo aller Amos](https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j) | 1:49 |
 | 14 | [sonnenbank.mp3](https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [sonnenbank.mp3](https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb) | 2:01 |
 | 15 | [RED CUPS \(feat\. Paula Hartmann\)](https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [RED CUPS \(feat\. Paula Hartmann\)](https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT) | 3:26 |
 | 16 | [aufwachen](https://open.spotify.com/track/3F66b6h1ilBPzzKgpKXKAX) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [aufwachen](https://open.spotify.com/album/2S3htTzucS6DSv2nVgFxSw) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 74 | [Hayat](https://open.spotify.com/track/2nxqny7u02Uqz7Jn7uXLiV) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [Hayat](https://open.spotify.com/album/5HOJEYuAK3HQn7E5ckijIT) | 2:46 |
 | 75 | [Eredivisie](https://open.spotify.com/track/1IaZUglHDN0kO6yhuyYta2) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Eredivisie](https://open.spotify.com/album/5MMyBEmIbKkJEEvo9pv4RW) | 2:33 |
 
-Snapshot ID: `Z1BHxAAAAAD7ZDMylNwt/Htjsgw6vN6N`
+Snapshot ID: `Z1BHxAAAAABgEvO3vi9pXcHQao508z2D`

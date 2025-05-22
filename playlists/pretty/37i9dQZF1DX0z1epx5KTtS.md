@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,311 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,362 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Taper Dedans](https://open.spotify.com/track/0WAFqSYnTHOyOeIGPMK8vI) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Taper Dedans](https://open.spotify.com/album/401kSHadSYFgokogNYt1yD) | 2:31 |
 | 40 | [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 |
 
-Snapshot ID: `aCZkBAAAAABYpl6s/q+AuWeOEijsXEKh`
+Snapshot ID: `aCZkBAAAAADUBVjEIuA7IguK6Uxvvaz2`

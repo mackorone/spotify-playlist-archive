@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Solo artistas independientes, actualizada todos los miércoles. Foto: Junnio.
+> Solo artistas independientes, actualizada todos los miércoles. ¡Celebramos 10 años de Fresh Finds con Junnio!
 
 7,005 songs - 14 day 20 hr 40 min
 

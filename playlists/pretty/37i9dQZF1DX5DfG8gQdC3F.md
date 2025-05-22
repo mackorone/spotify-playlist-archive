@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Morgan Wallen, Rihanna, Lola Young, Noah Cyrus, EKKSTACY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,977 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,997 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Wild World](https://open.spotify.com/track/3L7pNo1cJAZ4xJ2lHBocvi) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [I’m afraid to be in love with someone who crashes their car that much](https://open.spotify.com/album/7x55HpFEMlUn7tN4YJJyTA) | 4:01 |
 | 100 | [Tag Dag](https://open.spotify.com/track/0V57RK2iTJDMlGUTndzbhF) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Superb](https://open.spotify.com/album/33TEY0oQeWSc7akHHtPk6o) | 4:25 |
 
-Snapshot ID: `aCa5UwAAAADHkd8JDQfnJHmXBXav1sDO`
+Snapshot ID: `AAAAAB29CXYn/FlyWoD7zMSzh4z7Sf3h`

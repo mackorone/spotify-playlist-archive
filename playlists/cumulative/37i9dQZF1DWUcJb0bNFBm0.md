@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: \(e\)motion engine\)
 
-206 songs - 14 hr 16 min
+207 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [YOU](https://open.spotify.com/track/0cTZIkgDheJ2UGmGnGUiJy) | [Kuyuru](https://open.spotify.com/artist/0r0X62o6j7jbo5ZU4qZf52) | [Lovescape](https://open.spotify.com/album/5poyzhkEYno6a9thyFxM65) | 3:12 | 2025-02-20 |  |
 | [You Forgot to Say Goodbye](https://open.spotify.com/track/6BpoU69LfJNhtyk8GmsT8b) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [You Forgot to Say Goodbye](https://open.spotify.com/album/5YjWTbdpSLiB1LQRk3CN5z) | 5:26 | 2024-06-27 |  |
 | [Youth LiFe](https://open.spotify.com/track/6tDEPETl8k4vY8nSk1aPKP) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [The Peak of Youth Life](https://open.spotify.com/album/4VplPiLVuWwTuFoAoswR0i) | 1:58 | 2024-06-27 | 2025-03-07 |
+| [Đi đâu đó](https://open.spotify.com/track/1S0NzDP9flGmxQPHWN8E9X) | [ĐBB](https://open.spotify.com/artist/56kZuFpoB0u3gvqPKeXGkA) | [Đồi Bươm Bướm](https://open.spotify.com/album/2ZppF0ss8CxqDHyXzDlfiJ) | 4:31 | 2025-05-21 |  |
 | [ฉันเสียใจจริงๆ](https://open.spotify.com/track/4dx3VM88XTEsyGrQ3Fd0Ww) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [ฉันเสียใจจริงๆ](https://open.spotify.com/album/3JZz45zKlVzdsXgBnD97Sj) | 3:48 | 2024-06-27 |  |
 | [พบ พา ลา จาก](https://open.spotify.com/track/3NwddDfa3ZJa4ryW2vhqca) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep looking at the window](https://open.spotify.com/album/7mKrdvV7cwkcK6jjrwAI19) | 4:40 | 2024-06-27 | 2024-12-05 |
 | [⁠“THE\_MORE,the\_less” \(Enola ver.\)](https://open.spotify.com/track/79C6clV5dEqCgDVjVxuPxV) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [so:LOUD+MORE,less](https://open.spotify.com/album/1EvTyK5ZbKakkCdCPdXKnE) | 12:04 | 2025-02-20 |  |

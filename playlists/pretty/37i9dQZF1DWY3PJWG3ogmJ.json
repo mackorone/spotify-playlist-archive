@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 690885,
+  "num_followers": 690998,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
-        "name": "Wake The Dead",
-        "url": "https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "Wake The Dead",
-      "url": "https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3"
-    },
-    {
       "added_at": "2023-01-18 15:54:17",
       "album": {
         "name": "Frozen In Time",
@@ -403,6 +387,22 @@
       "duration_ms": 212840,
       "name": "Redneck Stomp",
       "url": "https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Wake The Dead",
+        "url": "https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "duration_ms": 187629,
+      "name": "Wake The Dead",
+      "url": "https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Inked in Blood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "duration_ms": 254118,
+      "name": "Visions in My Head",
+      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Melancholy",
         "url": "https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 296327,
       "name": "Barren and Breathless Macrocosm",
       "url": "https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Inked in Blood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
-      },
-      "artists": [
-        {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
-        }
-      ],
-      "duration_ms": 254118,
-      "name": "Visions in My Head",
-      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
     },
     {
-      "added_at": "2024-07-19 10:55:24",
-      "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
-    },
-    {
       "added_at": "2023-01-18 15:54:17",
       "album": {
         "name": "Elegy",
@@ -859,6 +843,22 @@
       "duration_ms": 322153,
       "name": "Blood in the Sands of Time",
       "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
+    },
+    {
+      "added_at": "2024-07-19 10:55:24",
+      "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
+        "name": "Endarkenment",
+        "url": "https://open.spotify.com/album/5xReWyf922gGJUHZMale2w"
       },
       "artists": [
         {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+          "name": "Anaal Nathrakh",
+          "url": "https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV"
         }
       ],
-      "duration_ms": 249901,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
+      "duration_ms": 235493,
+      "name": "Endarkenment",
+      "url": "https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Endarkenment",
-        "url": "https://open.spotify.com/album/5xReWyf922gGJUHZMale2w"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
       },
       "artists": [
         {
-          "name": "Anaal Nathrakh",
-          "url": "https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV"
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
         }
       ],
-      "duration_ms": 235493,
-      "name": "Endarkenment",
-      "url": "https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO"
+      "duration_ms": 249901,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Title Fight",
-        "url": "https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg"
-      },
-      "artists": [
-        {
-          "name": "We Are The Flesh",
-          "url": "https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q"
-        }
-      ],
-      "duration_ms": 236142,
-      "name": "Title Fight",
-      "url": "https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "One Day Closer to the End of the World",
         "url": "https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 227398,
       "name": "One Day Closer to the End of the World",
       "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Title Fight",
+        "url": "https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg"
+      },
+      "artists": [
+        {
+          "name": "We Are The Flesh",
+          "url": "https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q"
+        }
+      ],
+      "duration_ms": 236142,
+      "name": "Title Fight",
+      "url": "https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA"
     },
     {
       "added_at": "2023-01-18 15:54:17",

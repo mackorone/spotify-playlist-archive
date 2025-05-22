@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-774 songs - 1 day 19 hr 3 min
+775 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Denise's Last Son](https://open.spotify.com/track/7eMwtjr5SMnBcQ5D3s9JrX) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [I've Never Been Here Before: The Director's Cut](https://open.spotify.com/album/320INXF22WAKVVzxycyLA6) | 3:27 | 2024-11-15 |  |
 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 | 2022-10-29 |
 | [Designer Drugs](https://open.spotify.com/track/2f36pRZBYcLOqEDEhqSnmI) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:31 | 2022-09-30 | 2022-11-12 |
-| [Devil Is A Liar](https://open.spotify.com/track/7b88c0AxOA0jcZvpgl0apQ) | [Ashton Francis](https://open.spotify.com/artist/18SWkvRmEGTL9349v0Hu5s) | [Devil Is A Liar](https://open.spotify.com/album/7H3xgJUd7ikLyEXgaAPsMv) | 2:38 | 2025-01-09 |  |
+| [Devil Is A Liar](https://open.spotify.com/track/7b88c0AxOA0jcZvpgl0apQ) | [Ashton Francis](https://open.spotify.com/artist/18SWkvRmEGTL9349v0Hu5s) | [Devil Is A Liar](https://open.spotify.com/album/7H3xgJUd7ikLyEXgaAPsMv) | 2:38 | 2025-01-09 | 2025-05-22 |
 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 | 2023-06-30 | 2023-09-30 |
 | [Diamonds](https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Diamonds](https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE) | 3:31 | 2023-01-27 | 2023-03-25 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-04-29 | 2022-12-17 |
@@ -227,6 +227,7 @@
 | [Father Time \- 2018 Version](https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Father Time \(2018 Version\)](https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW) | 4:43 | 2023-02-10 | 2024-04-19 |
 | [Femoral](https://open.spotify.com/track/7D5f0B3P0rx1ZlH8LnCVi2) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Finn](https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb) | [Femoral](https://open.spotify.com/album/2cB0gsf0T4Vn6BNMvU507L) | 3:12 | 2024-09-06 | 2024-09-21 |
 | [Fever](https://open.spotify.com/track/2Ikg6hRQOa6e29sq5xWhM8) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 2:47 | 2023-09-15 | 2024-03-02 |
+| [Few Things](https://open.spotify.com/track/3AgOE18KBsSMEgC8BNBgfl) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [Flames Dot Malik](https://open.spotify.com/artist/3fTdETUtESGiSOh95gOQeI) | [Few Things](https://open.spotify.com/album/3cl1T7Gk2QQtbuVpx9pAWS) | 2:54 | 2025-05-21 |  |
 | [Figaro](https://open.spotify.com/track/7oFiFPltiQTBqVutyiSwvE) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:25 | 2023-12-08 | 2025-01-03 |
 | [Figure of Speech](https://open.spotify.com/track/2NSq58JxsJE1k7h6BVeDDQ) | [Freddy Printz](https://open.spotify.com/artist/15L89B5Jg0z67nBZZxDH36) | [The Candidate](https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw) | 2:14 | 2022-06-03 | 2022-10-29 |
 | [First Draft](https://open.spotify.com/track/1gV4nzrOIwI93qOUm9SLMq) | [Sorce Manifesto](https://open.spotify.com/artist/0T3x8z9gnLxPU2vS1lNOZw) | [Shoot The Breeze](https://open.spotify.com/album/50ZovZU8jHG6qhNg5qjCog) | 4:26 | 2022-08-12 | 2022-10-29 |

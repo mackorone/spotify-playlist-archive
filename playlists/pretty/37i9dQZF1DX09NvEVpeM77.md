@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Celebrating 40 years of Born in the USA\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,757 likes - 125 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,848 likes - 125 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 124 | [We're An American Band \- Remastered 2002](https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [We're An American Band \(Expanded Edition / Remastered 2002\)](https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg) | 3:27 |
 | 125 | [Angel from Montgomery](https://open.spotify.com/track/7fgho0AZlDBk6dmo9LUNC0) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Rhino Hi\-Five: John Prine](https://open.spotify.com/album/6tbaputaLMSI298F04OuOP) | 3:41 |
 
-Snapshot ID: `ZowmYgAAAADVGjj8HbpmoojhE4gdACek`
+Snapshot ID: `ZowmYgAAAAAHc1etiL4t1j9ROa6g3oEt`

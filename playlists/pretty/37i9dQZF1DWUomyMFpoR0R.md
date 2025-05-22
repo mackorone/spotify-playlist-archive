@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 
 > <a href="spotify:artist:3TXQ1ddouwQAI78hV4hXDjj">Maceo Plex</a>'s favorite tracks\. Curated by Maceo Plex\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,926 likes - 40 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,948 likes - 40 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 | 39 | [What Time Is Love \(Live at SSL Mix\)](https://open.spotify.com/track/0jnijxJf7sXenRwDw8ElIc) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Kris Menace](https://open.spotify.com/artist/5P5i4EeZfrKrcRGHRTqJr0) | [What Time Is Love \(Live at SSL Mix\)](https://open.spotify.com/album/1SNA5W8IbxjSd82CA8cjkk) | 2:59 |
 | 40 | [Relax Your Body \- Remastered](https://open.spotify.com/track/3l4r3mBmmDp2vQCwBjOwzY) | [DFX](https://open.spotify.com/artist/707ObA8cam6YRcrjKBOkNs) | [Relax Your Body \(Remastered\)](https://open.spotify.com/album/0Q60ZMKoxSGOoNwIQmBbFf) | 6:37 |
 
-Snapshot ID: `Z240dgAAAADpRNmERytrm3WO9f97qRWb`
+Snapshot ID: `Z240dgAAAACmvCh44cFzwonNUeM7c889`

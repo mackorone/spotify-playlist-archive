@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 13 hr 41 min
+284 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Pound Town 2](https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 3:14 | 2024-06-11 |  |
 | [Promise U That](https://open.spotify.com/track/7EB2UpfRbS4QVjZQlKLi3Z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 3:25 | 2024-06-11 |  |
 | [Publicity Stunt](https://open.spotify.com/track/3mDJbXIpV9osy8d3TCw9hh) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:16 | 2024-06-11 |  |
-| [Quarter Milly \(with French Montana & Tay Keith\)](https://open.spotify.com/track/0smwhGyMeqfWSvkOo5dZbg) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 2:11 | 2025-05-09 |  |
+| [Quarter Milly \(with French Montana & Tay Keith\)](https://open.spotify.com/track/0smwhGyMeqfWSvkOo5dZbg) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 2:11 | 2025-05-09 | 2025-05-22 |
+| [Quarter Milly \(with French Montana & Tay Keith\)](https://open.spotify.com/track/57fJVNmqX4u8xi3uWkd2gh) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [French Montana](https://open.spotify.com/artist/56hdoJ5Akq4837LNdmTKrQ), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [WLGS](https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb) | 2:11 | 2025-05-21 |  |
 | [Rain](https://open.spotify.com/track/7h2ozcUpSL7ulXjRPPQcDy) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Polaris](https://open.spotify.com/album/5fGw4eLl2lRXDt7oFnNYGu) | 3:03 | 2024-06-11 |  |
 | [Rap Check](https://open.spotify.com/track/6yvr47cP8j81sfMkEymL6b) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:54 | 2024-06-11 |  |
 | [Real Rich \(feat\. Gucci Mane\)](https://open.spotify.com/track/5t8djD6oZcfAyqF4cTQfFb) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 2:04 | 2024-06-11 |  |

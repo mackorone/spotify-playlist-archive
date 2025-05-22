@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,612 likes - 220 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,665 likes - 220 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 219 | [study in lo\-fi hillshade](https://open.spotify.com/track/31QCr2Pvsq23hglCoKfVy2) | [Kathyline](https://open.spotify.com/artist/2gbD0B3Nzgzy0OQJwq3YBd) | [study in lo\-fi hillshade](https://open.spotify.com/album/2qGDXaVwBIer64qvkbIWRu) | 2:17 |
 | 220 | [Feelin' 2D](https://open.spotify.com/track/0MPqiieMX7ou7Kk8p2FPpi) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Feelin' 2D](https://open.spotify.com/album/5nNhJ58mzIEmukHfubpwX2) | 2:20 |
 
-Snapshot ID: `aCa4UQAAAABUcvCoXtVxAGSwf72m8/mz`
+Snapshot ID: `AAAAAD9xUhXg9y/dD0aWxkEeD2QrM008`

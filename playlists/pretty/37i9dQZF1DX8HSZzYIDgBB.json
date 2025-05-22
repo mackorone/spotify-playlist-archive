@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Frente Cumbiero en portada.",
-  "num_followers": 39136,
+  "num_followers": 39140,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-05-09 06:00:11",
       "album": {
-        "name": "S\u00e3o Paulo Motoboy",
-        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 148600,
-      "name": "S\u00e3o Paulo Motoboy",
-      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
-    },
-    {
-      "added_at": "2025-05-09 06:00:11",
-      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2025-05-09 06:00:11",
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "added_at": "2025-05-09 06:00:11",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-05-09 06:00:11",
       "album": {
+        "name": "Rainfalls",
+        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
+      },
+      "artists": [
+        {
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        }
+      ],
+      "duration_ms": 216379,
+      "name": "Rainfalls",
+      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
+    },
+    {
+      "added_at": "2025-05-09 06:00:11",
+      "album": {
         "name": "Piedras del Sol",
         "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
-      "added_at": "2025-05-09 06:00:11",
-      "album": {
-        "name": "Rainfalls",
-        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
-      },
-      "artists": [
-        {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
-        }
-      ],
-      "duration_ms": 216379,
-      "name": "Rainfalls",
-      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
     },
     {
       "added_at": "2025-05-09 06:00:11",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-05-09 06:00:11",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2025-05-09 06:00:11",
-      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 187430,
       "name": "\u00d1e \u00d1e \u00d1\u00e9",
       "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
+    },
+    {
+      "added_at": "2025-05-09 06:00:11",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2025-05-09 06:00:11",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2025-05-09 06:00:11",
       "album": {
+        "name": "\u00daltimamente me acuerdo mucho de tu casa",
+        "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        },
+        {
+          "name": "TIRAYA",
+          "url": "https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy"
+        }
+      ],
+      "duration_ms": 212821,
+      "name": "Comadre",
+      "url": "https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm"
+    },
+    {
+      "added_at": "2025-05-09 06:00:11",
+      "album": {
         "name": "RAMA",
         "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
       },
@@ -1231,22 +1251,22 @@
     {
       "added_at": "2025-05-09 06:00:11",
       "album": {
-        "name": "\u00daltimamente me acuerdo mucho de tu casa",
-        "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
+        "name": "Volver\u00e1s a Llamar",
+        "url": "https://open.spotify.com/album/7x98IPmwThfve4z6q4XQhv"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Era de Oro",
+          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
         },
         {
-          "name": "TIRAYA",
-          "url": "https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy"
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Comadre",
-      "url": "https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm"
+      "duration_ms": 158780,
+      "name": "Volver\u00e1s a Llamar",
+      "url": "https://open.spotify.com/track/5EAASyevtYMrgegzHmfuG5"
     },
     {
       "added_at": "2025-05-09 06:00:11",
@@ -1283,22 +1303,22 @@
     {
       "added_at": "2025-05-09 06:00:11",
       "album": {
-        "name": "Volver\u00e1s a Llamar",
-        "url": "https://open.spotify.com/album/7x98IPmwThfve4z6q4XQhv"
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v"
       },
       "artists": [
         {
-          "name": "Era de Oro",
-          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         },
         {
-          "name": "Boca Paila",
-          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+          "name": "Tita",
+          "url": "https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp"
         }
       ],
-      "duration_ms": 158780,
-      "name": "Volver\u00e1s a Llamar",
-      "url": "https://open.spotify.com/track/5EAASyevtYMrgegzHmfuG5"
+      "duration_ms": 220480,
+      "name": "El Muchacho De Los Ojos Tristes",
+      "url": "https://open.spotify.com/track/7KiiGywtmd0l1fQTWfN5yM"
     },
     {
       "added_at": "2025-05-09 06:00:11",
@@ -1319,26 +1339,6 @@
       "duration_ms": 323916,
       "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
       "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
-    },
-    {
-      "added_at": "2025-05-09 06:00:11",
-      "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Tita",
-          "url": "https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "El Muchacho De Los Ojos Tristes",
-      "url": "https://open.spotify.com/track/7KiiGywtmd0l1fQTWfN5yM"
     },
     {
       "added_at": "2025-05-09 06:00:11",

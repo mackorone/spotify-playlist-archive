@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! DannyLux en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,467 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,465 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2025](https://open.spotify.com/track/479AXnqdLy7TSGT0I29hPj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 2:00 |
 | 2 | [BIG MOMMA](https://open.spotify.com/track/1Zp7FssOeXmwcUiM54jgUE) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [BIG MOMMA](https://open.spotify.com/album/0WFHRsTbg2agEKzUUwm4m2) | 2:38 |
 | 3 | [Mi Arcoíris](https://open.spotify.com/track/3HviHQiBfV6DmPVsGs4fSJ) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Mi Arcoíris](https://open.spotify.com/album/2SBxpFUik52PIO2vUIDan2) | 2:47 |
-| 4 | [Millonario$ \- Remix](https://open.spotify.com/track/1mdLOZZAVu3jUhfg7Um7Qw) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [La Nota El Jefe](https://open.spotify.com/artist/29qoBPBtUkZZMiVI3Cb96u), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Theplug](https://open.spotify.com/artist/53IbWWOQuLLqvB0EfC4l5n), [LCA FLK](https://open.spotify.com/artist/5eehPJi2O3dQbzlQ9A6AtT) | [Millonario$ \(Remix\)](https://open.spotify.com/album/1wAufXooI3D5AEzQaF1UKa) | 4:37 |
+| 4 | [Millonario$ \- Remix](https://open.spotify.com/track/1mdLOZZAVu3jUhfg7Um7Qw) | [La Nota El Jefe](https://open.spotify.com/artist/29qoBPBtUkZZMiVI3Cb96u), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Theplug](https://open.spotify.com/artist/53IbWWOQuLLqvB0EfC4l5n), [LCA FLK](https://open.spotify.com/artist/5eehPJi2O3dQbzlQ9A6AtT), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Millonario$ \(Remix\)](https://open.spotify.com/album/1wAufXooI3D5AEzQaF1UKa) | 4:37 |
 | 5 | [Sala Llena](https://open.spotify.com/track/0r09pvHj9RWzEfAkClrb4D) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Sala Llena](https://open.spotify.com/album/3mtTUeqA6YQnMdDJwCRb0H) | 2:15 |
 | 6 | [Si te hace feliz...](https://open.spotify.com/track/4CdsmQm1zctM9xlL8PeABJ) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [C.A.P.S](https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR) | 3:00 |
 | 7 | [Hablamos Depues](https://open.spotify.com/track/6Zz5ksmtmU2zV6cppStbq7) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [Hablamos Depues](https://open.spotify.com/album/5LY1clBYUi4kT2eoyQTSgi) | 2:12 |

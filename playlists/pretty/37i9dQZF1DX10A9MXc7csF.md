@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Sahir Montoya
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,699 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,748 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [CAPITÁN DEL BARCO](https://open.spotify.com/track/7dg2Fl68G6u7k1SnlPFR1H) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [CAPITÁN DEL BARCO](https://open.spotify.com/album/2ZedOU4lqxBXMHRswxwErN) | 2:50 |
 | 100 | [Una Cosa y Otra Cosa](https://open.spotify.com/track/6IY4bYjeS8ovBvurFuiJln) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Una Cosa y Otra Cosa](https://open.spotify.com/album/6qbfniTpZJd3APiF3nldzt) | 2:46 |
 
-Snapshot ID: `aB19xQAAAAD2SjfCCiVSNfew796Z3Ctv`
+Snapshot ID: `AAAAAO2AQe14e+nux7VFdNidruTRzQlb`

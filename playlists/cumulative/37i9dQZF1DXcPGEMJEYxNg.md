@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists:  SNOW WIFE, Chance Emerson and Luna Li.
 
-255 songs - 13 hr 31 min
+258 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alive](https://open.spotify.com/track/59mrqUmhpmcfUns8BKkV30) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:48 | 2023-05-06 | 2023-05-13 |
 | [All Alone](https://open.spotify.com/track/1Tfi8F6UsFpIZDCvpbX0y6) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [All Alone](https://open.spotify.com/album/2S8p3dJux1XY2nisIJvua2) | 3:28 | 2022-05-18 | 2022-07-13 |
 | [All I Wanna Do](https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:29 | 2022-05-18 | 2022-07-13 |
+| [All My Love \- Spotify Singles](https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [All My Love \- Spotify Singles](https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a) | 3:44 | 2025-05-21 |  |
 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 | 2024-10-02 | 2025-05-02 |
 | [all\-american bitch!](https://open.spotify.com/track/7eeUm7I9insU2bu5oVC9zF) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [teenage nightmare](https://open.spotify.com/album/1knrqP9ysgy0Dl1DId00Sa) | 2:28 | 2024-12-18 | 2025-05-02 |
 | [Always Down](https://open.spotify.com/track/2In9cZJqgZG436qChuUXVJ) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Always Down](https://open.spotify.com/album/6WYEEwETCa9OUlQDBQrlbL) | 3:15 | 2023-05-31 | 2024-03-29 |
@@ -102,6 +103,7 @@
 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-04-29 | 2024-05-11 |
 | [HATELOVE \- Spotify Single](https://open.spotify.com/track/0aqsHz5aoW0370n2fxXJc4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:03 | 2023-05-31 | 2024-05-11 |
 | [Haute Couture](https://open.spotify.com/track/3Umaao8VD5w6SWKR8RO9Sp) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Haute Couture](https://open.spotify.com/album/7JSfGOO7cNbejGCHjgGDRL) | 2:10 | 2025-02-14 |  |
+| [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \(Spotify Singles\)](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 | 2025-05-21 |  |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2023-05-06 | 2023-05-13 |
 | [Heartless feat\. Ikky](https://open.spotify.com/track/7cMYN4HXfJGyVy6zQ6mga6) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Heartless feat\. Ikky](https://open.spotify.com/album/12HrMxdfaD0qq2PM2Gzklr) | 2:09 | 2024-04-17 |  |
 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 | 2023-04-29 |  |
@@ -195,6 +197,7 @@
 | [Regular](https://open.spotify.com/track/3wRx3sCYgjY2FsSufqI0aQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA \(Deluxe\)](https://open.spotify.com/album/0l7PE85JIGm7g3OSjR2TNO) | 2:09 | 2023-05-06 | 2023-05-13 |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2022-05-18 | 2022-07-13 |
 | [Rent Free \(Feat\. Jeff Bernat\)](https://open.spotify.com/track/2J3ZzY2asBfkNXkx5jJmjG) | [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [Rent Free \(Feat\. Jeff Bernat\)](https://open.spotify.com/album/5bno9LllkG8Qe6uzeQdZtf) | 2:47 | 2022-05-18 | 2022-07-13 |
+| [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Rose Colored Lenses \(Spotify Singles\)](https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN) | 2:23 | 2025-05-21 |  |
 | [Rotate \(feat\. Sango, Haile Supreme & Asante\)](https://open.spotify.com/track/2YgTqkYXYNLz34wPdBiZ6f) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [asante](https://open.spotify.com/artist/6bv2mTQTcpXQ4IEHv3Kv3a) | [Approved](https://open.spotify.com/album/1bV0yl7ESEK6bnIUS0vIuu) | 2:48 | 2022-07-12 | 2023-04-30 |
 | [ROYALT¥](https://open.spotify.com/track/1c3Ay55eRqPHa0p4z1XhDU) | [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [BACK2SPADE](https://open.spotify.com/album/7sevx4BbmyiQXJl0zQB88G) | 2:02 | 2025-05-01 |  |
 | [Runner's High](https://open.spotify.com/track/0CZmNfrd1SNrQQb8IePsdQ) | [Gonhills](https://open.spotify.com/artist/3iHJKqkuPN45iZUjREBEp0), [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7) | [Runner's High](https://open.spotify.com/album/4qblox0bZ9AJxi5UGF6nr4) | 2:01 | 2023-04-29 | 2024-03-29 |

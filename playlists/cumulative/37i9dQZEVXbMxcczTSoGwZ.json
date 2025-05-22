@@ -22066,6 +22066,24 @@
     {
       "album": {
         "name": "La poup\u00e9e monte le son",
+        "url": "https://open.spotify.com/album/3Mzz2B5cDCQw2pC1ikacqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Thorn",
+          "url": "https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "La poup\u00e9e monte le so",
+      "url": "https://open.spotify.com/track/3dDWYjYzwvotCOvzFmiffU"
+    },
+    {
+      "album": {
+        "name": "La poup\u00e9e monte le son",
         "url": "https://open.spotify.com/album/6k0rdf9p1YRh57I9HsK97l"
       },
       "artists": [
@@ -22076,7 +22094,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 178378,
       "name": "La poup\u00e9e monte le son",
       "url": "https://open.spotify.com/track/6IabIimt88FcZu80dunXWA"
@@ -25690,7 +25708,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 194546,
       "name": "MASIINA",
       "url": "https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57"
@@ -29992,7 +30010,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 170021,
       "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
       "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
@@ -31414,7 +31432,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 117631,
       "name": "Olen Suomalainen (feat. Kari Tapio)",
       "url": "https://open.spotify.com/track/662nWPO9p3jNw893AdH05q"
@@ -48796,7 +48814,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 179348,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc"

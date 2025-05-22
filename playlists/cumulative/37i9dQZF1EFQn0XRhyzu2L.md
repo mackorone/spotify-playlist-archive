@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-564 songs - 1 day 6 hr 52 min
+565 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [I'm a Mess](https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:15 | 2024-02-27 |  |
 | [I'm In Love \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/2ptt2rNSQFTsHA5GO9WGc3) | [Cheyenne Isabel Wells](https://open.spotify.com/artist/0W6h16rjhBU7tfUlXU6Hzr), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:49 | 2024-02-27 |  |
 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 | 2024-02-27 |  |
-| [I've Seen Your Ex](https://open.spotify.com/track/5oorDaykLUCmQxbOy83mH5) | [CoverZounds](https://open.spotify.com/artist/7IDWvv3p14ky0S5wxwtiDi), [EDITKINGS](https://open.spotify.com/artist/1xyF70wWUIIdwczzNKkxjI) | [I've Seen Your Ex](https://open.spotify.com/album/1ho6sjwt3p7srho6dV5hA8) | 3:27 | 2025-04-14 |  |
+| [I've Seen Your Ex](https://open.spotify.com/track/5oorDaykLUCmQxbOy83mH5) | [CoverZounds](https://open.spotify.com/artist/7IDWvv3p14ky0S5wxwtiDi), [EDITKINGS](https://open.spotify.com/artist/1xyF70wWUIIdwczzNKkxjI) | [I've Seen Your Ex](https://open.spotify.com/album/1ho6sjwt3p7srho6dV5hA8) | 3:27 | 2025-04-14 | 2025-05-22 |
 | [If I'm Lucky](https://open.spotify.com/track/6eUncuJutsFi9BGO1JaBHh) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [If I'm Lucky](https://open.spotify.com/album/4MyNxudSugDwmImYJgQeXm) | 3:32 | 2024-02-27 |  |
 | [If Walls Could Talk](https://open.spotify.com/track/0nCVLAhIUrLQ34Vw5vTXNP) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:02 | 2024-02-27 |  |
 | [Impossible Is Possible \(with Shea Diamond\)](https://open.spotify.com/track/15LNSe3wSUCMjeuCCByiwd) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 2:47 | 2024-02-27 |  |
@@ -248,6 +248,7 @@
 | [Invite Only](https://open.spotify.com/track/0udENxYpB3n6uK7Lb5JP91) | [Great Dane](https://open.spotify.com/artist/6AKWjx5wmOI3bCeLrxFjgv) | [Alpha Dog](https://open.spotify.com/album/3kQ8dpxBFQGumdFBO2j20l) | 2:38 | 2024-02-27 |  |
 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 | 2024-02-27 |  |
 | [it's not u it's me](https://open.spotify.com/track/7cLm450e9XaPrEZTSTsfwU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [it's not u it's me](https://open.spotify.com/album/2H7CLWulZOueBe1Hjtznm1) | 3:14 | 2024-02-27 |  |
+| [I’ve seen ur ex](https://open.spotify.com/track/0wYWPvpOaXoBzIVc8i6BxD) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [summerovlove setlist](https://open.spotify.com/album/2A9wBQHtFOO9j0U0v6NXZ1) | 3:27 | 2025-05-21 |  |
 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 | 2024-02-27 |  |
 | [Jesus Medley](https://open.spotify.com/track/1X5605l0MRN1BVYYoC40is) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Songs From The Heart](https://open.spotify.com/album/06nrHzUisJKYjvezNCJqQ2) | 8:38 | 2024-12-15 | 2025-03-10 |
 | [Jesus Medley](https://open.spotify.com/track/79ZtLci35I1Ni1K7GG7Wdd) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Songs From The Heart](https://open.spotify.com/album/7vVXGHz6POqaUM7y4Y5RCn) | 8:38 | 2024-02-27 |  |

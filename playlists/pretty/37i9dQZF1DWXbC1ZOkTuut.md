@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Los Dareyes De La Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,540 likes - 119 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,549 likes - 119 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

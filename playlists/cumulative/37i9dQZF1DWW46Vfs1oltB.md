@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>우슬라임 \(Wuuslime\)\)
 
-1,531 songs - 3 day 10 hr 45 min
+1,532 songs - 3 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Look What I Did \(Feat\. The Quiett\)](https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Stargaze](https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5) | 3:42 | 2023-06-12 | 2023-11-16 |
 | [Looked Up To The Sky](https://open.spotify.com/track/3bVDunQjcXQlZ1U4nk7vWT) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP), [Sadboy JB](https://open.spotify.com/artist/7g2bqT5lmeea6rpG3cbEYc) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 4:03 | 2022-05-12 | 2022-06-30 |
 | [Loop](https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Loop](https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf) | 2:35 | 2021-12-21 | 2022-06-15 |
+| [Losing Senses](https://open.spotify.com/track/6g9ZD2BPovxhjPB98v8DZu) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:09 | 2025-05-22 |  |
 | [LOST](https://open.spotify.com/track/5a0SuGMEWcQiTHeh8Q8Too) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [LOST](https://open.spotify.com/album/4bTKOMMrSqEiZi8ElLAjY1) | 2:40 | 2021-12-21 | 2022-07-06 |
 | [LOST CITY](https://open.spotify.com/track/6SASPLQQzOrHmD3hy3RtIC) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [LOST CITY](https://open.spotify.com/album/2Gj4Vz27OgYkH2g8u9j08w) | 2:45 | 2021-12-21 | 2022-06-19 |
 | [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-24 | 2024-10-15 |

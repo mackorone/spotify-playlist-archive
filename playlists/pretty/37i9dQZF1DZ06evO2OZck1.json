@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54322,
+  "num_followers": 54326,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAAAZd1oMGEnPksmn5yDNWUnR",
+  "snapshot_id": "aCvGAAAAAAA8ilV0AStlmSDDGqMISZ3D",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+        "name": "Pineapple Kryptonite",
+        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 251866,
-      "name": "amayo no seppun",
-      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
+      "duration_ms": 195653,
+      "name": "Pineapple Kryptonite",
+      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
     },
     {
       "added_at": null,
@@ -435,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pineapple Kryptonite",
-        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 195653,
-      "name": "Pineapple Kryptonite",
-      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
+      "duration_ms": 251866,
+      "name": "amayo no seppun",
+      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
     },
     {
       "added_at": null,

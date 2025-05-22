@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Don Ryvcko
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,065 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,094 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 69 | [Confieso](https://open.spotify.com/track/6xnc3Jj9JC4VTfrubr6A7b) | [Chriss Romel](https://open.spotify.com/artist/0NTbnIoTbuIUZuI295yYYq), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Confieso](https://open.spotify.com/album/2MGAkl3o8HycOthPj15z2y) | 3:42 |
 | 70 | [MVP](https://open.spotify.com/track/4E6m89eLYaw4cajBsEpHCz) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG), [El Artista](https://open.spotify.com/artist/23O4ZjgHiBYcTQKciRZwI9) | [MVP](https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY) | 1:54 |
 
-Snapshot ID: `aBKERgAAAACyO5+3FNeWm3Xvj17tPpdf`
+Snapshot ID: `AAAAAEpwIND4aRtMap6+EHzMeWfkt4xD`

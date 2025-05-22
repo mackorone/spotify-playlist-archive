@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Gab Bouchard",
-  "num_followers": 44770,
+  "num_followers": 44773,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "PANDEMONIUM",
-        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "DIEU MERCI",
-      "url": "https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
         "name": "On va",
         "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "DIEU MERCI",
+      "url": "https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
         "name": "Promets-le moi",
         "url": "https://open.spotify.com/album/13PQIDhNGreKQSuzQeFkpX"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 163145,
       "name": "Promets-le moi",
       "url": "https://open.spotify.com/track/1R7yYdJULFqxC4L8PDXvRS"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 189241,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -655,22 +671,6 @@
       "duration_ms": 201933,
       "name": "Ma Meilleure Ennemie ft. Coldplay (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -727,18 +727,18 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "Feel Good (Version Acoustique)",
-        "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
+        "name": "solo",
+        "url": "https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 149896,
-      "name": "Feel Good - Version Acoustique",
-      "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
+      "duration_ms": 180195,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
     },
     {
       "added_at": "2025-05-15 18:15:03",
@@ -759,18 +759,38 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "solo",
-        "url": "https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f"
+        "name": "Feel Good (Version Acoustique)",
+        "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 180195,
-      "name": "maman",
-      "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
+      "duration_ms": 149896,
+      "name": "Feel Good - Version Acoustique",
+      "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
+    },
+    {
+      "added_at": "2025-05-15 18:15:03",
+      "album": {
+        "name": "TOUT DROIT",
+        "url": "https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "ON FAIT LES CHOSES",
+      "url": "https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -807,26 +827,6 @@
       "duration_ms": 165253,
       "name": "B\u00eatise",
       "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
-    },
-    {
-      "added_at": "2025-05-15 18:15:03",
-      "album": {
-        "name": "TOUT DROIT",
-        "url": "https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF"
-      },
-      "artists": [
-        {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "ON FAIT LES CHOSES",
-      "url": "https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co"
     },
     {
       "added_at": "2025-05-15 18:15:03",
@@ -915,38 +915,6 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "Sans surprise",
-        "url": "https://open.spotify.com/album/3yWUYiNyDnOuEQp0rvNvNE"
-      },
-      "artists": [
-        {
-          "name": "Georgio",
-          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
-        }
-      ],
-      "duration_ms": 169808,
-      "name": "Sans surprise",
-      "url": "https://open.spotify.com/track/1t03IiwKs5YVAkwNStY9Jc"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
-        "name": "Honn\u00eatement",
-        "url": "https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 115693,
-      "name": "Honn\u00eatement",
-      "url": "https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
       },
@@ -961,20 +929,52 @@
       "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
     },
     {
-      "added_at": "2025-05-09 04:00:07",
+      "added_at": "2025-05-15 18:15:03",
       "album": {
-        "name": "Ensay",
-        "url": "https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx"
+        "name": "Insens\u00e9",
+        "url": "https://open.spotify.com/album/0FBPNEXIWNHywPOjV2jw6e"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Ensay",
-      "url": "https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs"
+      "duration_ms": 124680,
+      "name": "Insens\u00e9",
+      "url": "https://open.spotify.com/track/1doknjXvcjJZMWVepbMFgV"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
+        "name": "Sans surprise",
+        "url": "https://open.spotify.com/album/3yWUYiNyDnOuEQp0rvNvNE"
+      },
+      "artists": [
+        {
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+        }
+      ],
+      "duration_ms": 169808,
+      "name": "Sans surprise",
+      "url": "https://open.spotify.com/track/1t03IiwKs5YVAkwNStY9Jc"
+    },
+    {
+      "added_at": "2025-05-15 18:15:03",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "duration_ms": 166617,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

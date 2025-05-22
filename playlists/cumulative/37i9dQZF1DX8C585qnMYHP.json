@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "Celebrating 10 years of the best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
+  "description": "Celebrating 10 years of the best new music by Experimental independent artists and labels. <a href=\"spotify:artist:1F68L6nlubo92LxyyITibv\">Amanda Mur</a> on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -5630,6 +5630,24 @@
       "duration_ms": 196146,
       "name": "Butoh baby",
       "url": "https://open.spotify.com/track/5uWyV488Rr4rl8QIAjXVdk"
+    },
+    {
+      "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
     },
     {
       "album": {
@@ -15128,7 +15146,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 517998,
       "name": "I",
       "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
@@ -15204,6 +15222,24 @@
       "duration_ms": 343545,
       "name": "I am here now",
       "url": "https://open.spotify.com/track/6Bar5d1K7Rd2w2lB7FRaXd"
+    },
+    {
+      "album": {
+        "name": "Sonny Gray",
+        "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238625,
+      "name": "I Am The Cucumber Man",
+      "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
     },
     {
       "album": {
@@ -26944,7 +26980,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 159428,
       "name": "roots",
       "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"

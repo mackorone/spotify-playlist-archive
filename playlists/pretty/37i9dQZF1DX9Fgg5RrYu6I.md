@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,626 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,628 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 | 43 | [Love Is Like The Wind \- Instrumental](https://open.spotify.com/track/35T5geXls1FvThY9C3G0jc) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 4 \- Love Is Like The Wind](https://open.spotify.com/album/2DGXz0USHVje4KFPUMfogv) | 4:21 |
 | 44 | [Starry in the night \- Instrumental](https://open.spotify.com/track/0SROzJoq5VLrOdLsLmeEm6) | [JOOCHAN](https://open.spotify.com/artist/7HwlOvVl1xZZKlIzfFy9vV) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 5 \- Starry in the night](https://open.spotify.com/album/3nEBuNJSnd2SQ4XhlMFjBw) | 3:55 |
 
-Snapshot ID: `ZoSd0gAAAABYYx9wuSGaFpcbAAeaBnIt`
+Snapshot ID: `ZoSd0gAAAABkagD1fqnljFYXxUy9AK3v`

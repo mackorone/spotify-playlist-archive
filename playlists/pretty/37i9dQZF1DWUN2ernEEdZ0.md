@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Aimi Kobayashi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,528 likes - 98 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,546 likes - 98 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 88 | [La bohème, Act I: Che gelida manina](https://open.spotify.com/track/0aVPUvLHVsyqojJDbcakjM) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Freddie De Tommaso](https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Edward Gardner](https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2) | [Puccini](https://open.spotify.com/album/6fSNsUje3JqIWyR2AkpCAn) | 4:30 |
 | 89 | [Song for the Village](https://open.spotify.com/track/62k80mnRaoxQpCAkgHI1sT) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Song for the Village](https://open.spotify.com/album/1SHP2IfM5wdTzhtrpjEl3I) | 2:49 |
 | 90 | [Nyman: The Promise](https://open.spotify.com/track/0yaWT7x4jyX0dT6rpy65lo) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Michael Nyman: The Promise](https://open.spotify.com/album/0M1GxmaJ7vekWhoXGE15Ux) | 1:56 |
-| 91 | [ICARUS \- Orchestral Version](https://open.spotify.com/track/65EGyXq1ZSEQ47vOWdIkMC) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [ARKAI](https://open.spotify.com/artist/7dnUOUzgamqskX6F9yV7B1) | [ICARUS](https://open.spotify.com/album/7hvINzZ3iT0iBtqCwhpOyg) | 2:50 |
+| 91 | [ICARUS \- Orchestral Version](https://open.spotify.com/track/65EGyXq1ZSEQ47vOWdIkMC) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [ARKAI](https://open.spotify.com/artist/7dnUOUzgamqskX6F9yV7B1) | [ICARUS \(Orchestral Version\)](https://open.spotify.com/album/7hvINzZ3iT0iBtqCwhpOyg) | 2:50 |
 | 92 | [Chopin: Nocturne No\. 21 in C Minor, Op\. Posth\. \(Transcr\. Kadouch & Moreau for Cello and Piano\)](https://open.spotify.com/track/7HFuUNfCzqJi3QlMtQGcdk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [David Kadouch](https://open.spotify.com/artist/6pkRjdkwMEEJTILeBF45OC) | [Chopin: Nocturne No\. 21 in C Minor](https://open.spotify.com/album/6ZM8z4fSJ1C19vjpBnNRL3) | 3:25 |
 | 93 | [Turandot, SC 91: Nessun dorma](https://open.spotify.com/track/6zagJMi6gpqVQSX8yWNe3F) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Jonathan Tetelman](https://open.spotify.com/artist/1R6qryuCn32Ig78bYV3uJU), [PKF – Prague Philharmonia](https://open.spotify.com/artist/4lnqr8PGdrwgyUeRfzHoZX), [Carlo Rizzi](https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf) | [The Great Puccini](https://open.spotify.com/album/3jXBDXu9NiK2Jsr6gi8aUs) | 3:01 |
 | 94 | [Pavane Floue](https://open.spotify.com/track/6FxxwOmQkkym2WJkqRosvz) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Pavane Floue](https://open.spotify.com/album/4UQWJkNFyhumm5vouylxGu) | 2:51 |

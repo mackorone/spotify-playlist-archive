@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Damiano David, Luchè,  Ghali, Rihanna, Avicii, The Kolors e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,707 likes - 95 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,722 likes - 95 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

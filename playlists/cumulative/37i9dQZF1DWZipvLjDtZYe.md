@@ -4,7 +4,7 @@
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-135 songs - 8 hr 48 min
+136 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [ユキソラ](https://open.spotify.com/track/4x7AuQVVcvMJSJtIW8z3QN) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ユキソラ](https://open.spotify.com/album/6Ksmpo2I1kMMHheiSzxyBV) | 3:18 | 2021-09-23 | 2022-07-29 |
 | [ラッキー☆オーブ \(feat\. 初音ミク\)](https://open.spotify.com/track/6eHBG3FNB4jrX8Z7zkOYxJ) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ラッキー☆オーブ](https://open.spotify.com/album/6ZQnbk8grheS4h9cyNmFMD) | 4:13 | 2021-09-23 |  |
 | [ロストエンファウンド](https://open.spotify.com/track/2GWvQchpRcaw5UmqIs6mp4) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [幻実アイソーポス](https://open.spotify.com/album/4wH3fmUdDYlnSQGHMFD7xm) | 5:00 | 2021-09-23 | 2022-06-29 |
-| [ロミオとシンデレラ \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/3dU1s4P5qcUCkPGpvhLN1r) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:20 | 2021-09-23 |  |
+| [ロミオとシンデレラ](https://open.spotify.com/track/0kiDN35Ern4Mi3rqv3dP6D) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [ロミオとシンデレラ](https://open.spotify.com/album/63e1cTQC0sMNtH4kzv0w5g) | 4:40 | 2025-05-21 |  |
+| [ロミオとシンデレラ \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/3dU1s4P5qcUCkPGpvhLN1r) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:20 | 2021-09-23 | 2025-05-22 |
 | [ワールズエンド・ダンスホール \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 3:43 | 2021-09-23 |  |
 | [ワールドイズマイン \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:58 | 2021-09-23 |  |
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2021-09-23 | 2022-07-27 |

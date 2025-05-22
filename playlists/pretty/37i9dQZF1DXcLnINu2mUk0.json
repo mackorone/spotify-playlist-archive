@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Harold",
-  "num_followers": 50355,
+  "num_followers": 50361,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-05-15 23:00:14",
       "album": {
+        "name": "N\u00e3o Te Devo Nada",
+        "url": "https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "N\u00e3o Te Devo Nada",
+      "url": "https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su"
+    },
+    {
+      "added_at": "2025-05-15 23:00:14",
+      "album": {
         "name": "Baza",
         "url": "https://open.spotify.com/album/18xn97to55UhmYTqjAA0oW"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 171857,
       "name": "Baza",
       "url": "https://open.spotify.com/track/00PPKa4OGuAHuy5lizYWad"
-    },
-    {
-      "added_at": "2025-05-15 23:00:14",
-      "album": {
-        "name": "N\u00e3o Te Devo Nada",
-        "url": "https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "N\u00e3o Te Devo Nada",
-      "url": "https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su"
     },
     {
       "added_at": "2025-05-15 23:00:14",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-05-15 23:00:14",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1ZCksR7ShWHGFFpVWhofcM"
+        "name": "Salto Alto",
+        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
       },
       "artists": [
         {
-          "name": "Vado M\u00e1s Ki \u00c1s",
-          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
         }
       ],
-      "duration_ms": 228407,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/1ZBsMNJbdCaAVdzk0P4PV2"
+      "duration_ms": 219968,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
     }
   ],
   "unique_name": "Seda",

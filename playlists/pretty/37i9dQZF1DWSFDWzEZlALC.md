@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: fyne
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,962 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,951 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Blumen aus Metall](https://open.spotify.com/track/67fg0iyO7n7neiV2zj8qJZ) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Blumen aus Metall](https://open.spotify.com/album/5ruFbp1f7HBCdxHD8U0is2) | 3:26 |
 | 75 | [Keine Zeit/Selbstmitleid](https://open.spotify.com/track/6iG5sYycr1fzTajS770BzE) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Keine Zeit/Selbstmitleid](https://open.spotify.com/album/4IfKrwMwA3WFuKlxTljiFp) | 2:51 |
 
-Snapshot ID: `aCczewAAAABEtSrqtGsIofOk3K+w6b0L`
+Snapshot ID: `AAAAAL9p8VDP+abFSqdtSegd5RZ24OdJ`

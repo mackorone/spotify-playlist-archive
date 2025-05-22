@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 75412,
+  "num_followers": 75426,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAABfoeA/9IaBifDFupJJlOXG",
+  "snapshot_id": "aCvGAAAAAACvVW6pUdYawuthBPrd5Tqy",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Su Majestad con Ustedes",
-        "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 209214,
-      "name": "Mary la Orgullosa",
-      "url": "https://open.spotify.com/track/2sMhuCHpYGoK3hF9dciv7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100% Mexicano",
         "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 200632,
       "name": "E, O, E.",
       "url": "https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Su Majestad con Ustedes",
+        "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 209214,
+      "name": "Mary la Orgullosa",
+      "url": "https://open.spotify.com/track/2sMhuCHpYGoK3hF9dciv7F"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 195059,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5pTGrOYhX31Ilyr0LMZidJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100% Mexicano",
         "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
-        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 256725,
-      "name": "Mambo Del Ruletero",
-      "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
+      "duration_ms": 195059,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5pTGrOYhX31Ilyr0LMZidJ"
     },
     {
       "added_at": null,
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Banda el Mexicano",
-        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
+        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 188940,
-      "name": "Lupe",
-      "url": "https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j"
+      "duration_ms": 256725,
+      "name": "Mambo Del Ruletero",
+      "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 188940,
+      "name": "Lupe",
+      "url": "https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuera de Serie (Remastered 2025)",
         "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
       },
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 223786,
-      "name": "El Zapato Mocho - Remastered 2025",
-      "url": "https://open.spotify.com/track/3z7p50wtIOKopgIBiXeiCi"
+      "duration_ms": 214152,
+      "name": "Herido - Remastered 2025",
+      "url": "https://open.spotify.com/track/2cnN94JvFkQoCM3FvYipbA"
     }
   ],
   "unique_name": "This Is Mi Banda El Mexicano",

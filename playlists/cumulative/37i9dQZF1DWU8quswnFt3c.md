@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to Creators at full volume\. Cover: Ana Bacalhau
+> Listen to Creators at full volume\. Cover: Katteyes
 
 2,390 songs - 5 day 12 hr 13 min
 

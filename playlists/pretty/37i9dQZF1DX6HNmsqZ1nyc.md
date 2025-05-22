@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HNmsqZ1nyc.md) - [plain]
 
 > Enjoy the Stray Kids fan meeting LIVE SET including the voices of them on stage! \(스트레이 키즈의 무대 멘트와 목소리가 포함된 서울 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,196 likes - 17 songs - 42 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 139,229 likes - 17 songs - 42 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

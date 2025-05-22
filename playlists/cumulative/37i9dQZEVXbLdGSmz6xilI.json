@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 227492,
       "name": "Bu\u00f4ng \u0110\u00f4i Tay Nhau Ra",
       "url": "https://open.spotify.com/track/3P3rcI48wwVEgxF5vPM6pG"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 258000,
       "name": "CH\u00c2N TH\u00c0NH (feat. RHYDER, Captain, Quang H\u00f9ng MasterD, WEAN & Ali Ho\u00e0ng D\u01b0\u01a1ng)",
       "url": "https://open.spotify.com/track/26zqmmkqUK6mCc87XDzPym"
@@ -8538,7 +8538,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/4tqXSj46umlymdIxqY8zso"
@@ -15105,6 +15105,28 @@
     },
     {
       "album": {
+        "name": "Nh\u1edb Ems",
+        "url": "https://open.spotify.com/album/1Aiyp8PBJ2Sigtr2mlF7md"
+      },
+      "artists": [
+        {
+          "name": "Rocky CDE",
+          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
+        },
+        {
+          "name": "Khan",
+          "url": "https://open.spotify.com/artist/5065aHa5E9M7GUqXpcpCxC"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214379,
+      "name": "Nh\u1edb Ems",
+      "url": "https://open.spotify.com/track/1W4dKR6vz6LxhRtMTl9fPx"
+    },
+    {
+      "album": {
         "name": "B\u1ea3o T\u00e0ng C\u1ee7a Nu\u1ed1i Ti\u1ebfc",
         "url": "https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ"
       },
@@ -15430,7 +15452,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
@@ -22272,7 +22294,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 252500,
       "name": "T\u1eebng L\u00e0",
       "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"

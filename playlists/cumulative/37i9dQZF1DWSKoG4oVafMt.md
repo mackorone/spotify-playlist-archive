@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,066 songs - 2 day 9 hr 31 min
+1,067 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Five Flower](https://open.spotify.com/track/74wcCZYO6yofhiahlJqkKk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Five Flower](https://open.spotify.com/album/463xWGyBZ2PjYCLIVAIxU5) | 2:38 | 2022-09-09 | 2022-12-16 |
 | [Flat](https://open.spotify.com/track/2yeklSP8NLY1INR6GOzVgd) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat](https://open.spotify.com/album/0VPaB19nfI80AE71iO22zN) | 2:33 | 2022-07-21 | 2022-07-29 |
 | [Flat](https://open.spotify.com/track/3W4qJ1f1anwipbPi0M93Dq) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat \- Single](https://open.spotify.com/album/26hIh6pP1BRAuePDXuRxn7) | 2:33 | 2022-07-28 | 2022-08-18 |
-| [Flawless](https://open.spotify.com/track/7iFF7hvCRpuvEriLvb1E0O) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Flawless](https://open.spotify.com/album/7nPvL8HgvRRnyaHqk20rON) | 2:44 | 2025-04-08 |  |
+| [Flawless](https://open.spotify.com/track/7iFF7hvCRpuvEriLvb1E0O) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Flawless](https://open.spotify.com/album/7nPvL8HgvRRnyaHqk20rON) | 2:44 | 2025-04-08 | 2025-05-22 |
 | [FLOWER & SAINTS](https://open.spotify.com/track/76nPGzoILoxiq1ntIrixfS) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Stolen Dreams](https://open.spotify.com/album/3wKOSB7GTT0aeaXsEJ26G9) | 3:00 | 2024-01-12 |  |
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2022-07-15 | 2023-02-04 |
 | [Friend Zone](https://open.spotify.com/track/6H68gA0MicRwC9Nsqg8dMH) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Friend Zone](https://open.spotify.com/album/7zFz2AZIusoKWEC9qbXwEc) | 3:25 | 2022-02-22 | 2022-03-11 |
@@ -545,6 +545,7 @@
 | [Love Sick](https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:52 | 2022-07-05 | 2024-08-03 |
 | [Love Song](https://open.spotify.com/track/0qVcPNhhGkZtm80eAHvraz) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Love Song](https://open.spotify.com/album/4WTOv1HXfFtDG64JvxoYLg) | 3:07 | 2024-04-08 | 2024-08-28 |
 | [Love Song](https://open.spotify.com/track/7k5eHoBu50hK6s4WVFQk66) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Love Song](https://open.spotify.com/album/6LLECbzIC2P2maPYpyVyG0) | 3:07 | 2024-04-05 | 2024-04-19 |
+| [Love Struck](https://open.spotify.com/track/26zjRTwnEBH6rrMi6oyzWY) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love Struck](https://open.spotify.com/album/6MsTVbEpX61E0AN8fWBTjC) | 2:41 | 2025-05-21 |  |
 | [Love War](https://open.spotify.com/track/2D6mhQD1MUVf7vDQGySwtg) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:54 | 2022-03-16 | 2022-04-29 |
 | [Lucky](https://open.spotify.com/track/2JW5AjQUZg69oqM8bt6SJA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Ryan Sandhu](https://open.spotify.com/artist/4DZwIJffAv7FZMKYxnoP1H), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Lucky](https://open.spotify.com/album/3Z7v66nO09B9NMl3qaAhgN) | 2:56 | 2024-10-25 |  |
 | [Lutt Lai Giya](https://open.spotify.com/track/5Ie8W0D6tjjOard1MGdtjk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Lutt Lai Giya](https://open.spotify.com/album/3n8u8bL9vBVro2Yd0SovJc) | 2:45 | 2022-07-29 | 2023-02-02 |

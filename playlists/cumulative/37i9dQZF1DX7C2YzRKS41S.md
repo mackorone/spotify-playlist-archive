@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-455 songs - 1 day 2 hr 49 min
+456 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 | 2024-02-23 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-05-30 | 2025-02-08 |
 | [Enquanto](https://open.spotify.com/track/5r18JRKA7qH6Vl6MSINCn9) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Enquanto](https://open.spotify.com/album/7MZRN9NJekWq9jPl7DCXaf) | 2:53 | 2022-02-18 | 2022-07-25 |
-| [Ensolarada](https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Ensolarada](https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7) | 2:55 | 2024-09-17 |  |
+| [Ensolarada](https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Ensolarada](https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7) | 2:55 | 2024-09-17 | 2025-05-22 |
 | [Entre](https://open.spotify.com/track/1OtVYzbyHjpPcVW5v20xTF) | [VEIGA](https://open.spotify.com/artist/3uW1Rs9bE57BG8nmicYtxM) | [Entre](https://open.spotify.com/album/4CW2H3YJKOzvAwzErJTJ7a) | 3:54 | 2021-12-24 | 2022-04-18 |
 | [Era amor](https://open.spotify.com/track/0rgr6gKFx3GCLdfEh1SxYi) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/0jVBFyc0QvbSdzZo9CC8Bd) | 3:19 | 2023-04-28 | 2024-04-15 |
 | [Era amor](https://open.spotify.com/track/5Gy1BzwlIVSjRIsAUkALZn) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/6Mm1M4h84mJcptcSmkf2iE) | 3:19 | 2021-12-24 | 2022-07-29 |
@@ -157,6 +157,7 @@
 | [Facada](https://open.spotify.com/track/32m3Lx5u3gtktYlDGLn0i9) | [Helena Novais](https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG), [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [Facada](https://open.spotify.com/album/1E6NmlrvGQ25oJMNW6TB0L) | 3:12 | 2022-07-04 | 2022-07-27 |
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2022-03-25 | 2022-04-10 |
 | [Falar de Ti](https://open.spotify.com/track/2s4q3NGH0PfuABhcKzOKiY) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Falar de Ti](https://open.spotify.com/album/3Bczt4cDgulMmvfJOa34Iu) | 3:44 | 2021-12-24 | 2022-05-09 |
+| [Falta](https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ) | [Joaquim](https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Varanda dos Palpites](https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD) | 3:59 | 2025-05-16 |  |
 | [Fantasia \- Acústico](https://open.spotify.com/track/4nnKcnDaW7iqkNNgVn5DVM) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Fantasia \(Acústico\)](https://open.spotify.com/album/4uRZNPrsAVaPGKoMsDjRIw) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 | 2022-03-25 | 2022-04-16 |
 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 | 2022-07-04 | 2024-04-19 |

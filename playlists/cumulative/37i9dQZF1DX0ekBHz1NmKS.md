@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,869 songs - 4 day 0 hr 59 min
+1,870 songs - 4 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,7 @@
 | [Fuck ditt liv](https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Fuck ditt liv](https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0) | 2:42 | 2024-08-15 | 2025-03-14 |
 | [Full på dan](https://open.spotify.com/track/5od9GEWisg8lTv9jmQRz90) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Jonas Teglund](https://open.spotify.com/artist/6WrDpCXVSYSwaMv3jhgpuT) | [Full på dan](https://open.spotify.com/album/2TqVA9ey7RvSCv8V6uJoeC) | 3:37 | 2024-03-21 | 2024-05-03 |
 | [Funniest Thing](https://open.spotify.com/track/2750HhdibiPb7kY84SEtYX) | [Nomi Tales](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Funniest Thing](https://open.spotify.com/album/65Qr7xBuGjO0x1iWicAuze) | 2:54 | 2025-02-06 |  |
-| [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 |  |
+| [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 | 2025-05-22 |
 | [Färger](https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Färger](https://open.spotify.com/album/0EQWkXtKIW6AhxyfXfFJt0) | 3:16 | 2022-03-17 | 2022-07-29 |
 | [Få mig att stanna](https://open.spotify.com/track/3P6p3T2qnBNmMyueFt6xh5) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Få mig att stanna](https://open.spotify.com/album/5SPRGzkSuPmeJsKDWTRxwL) | 2:59 | 2024-04-11 | 2024-05-17 |
 | [Fåglar sjunger](https://open.spotify.com/track/21jaR26mVb8DQiuDWKpW8C) | [Oscar Enestad](https://open.spotify.com/artist/1rfH6kxUn8tYlzejKr3894), [ZLMA](https://open.spotify.com/artist/5plQ7Y1OjA0VMRAeJQ2G6F) | [Fåglar sjunger](https://open.spotify.com/album/5QhAdJvCrBPVq0gZBmmVel) | 3:43 | 2022-05-12 | 2022-07-29 |
@@ -1087,6 +1087,7 @@
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Mitt hjärtas fröjd](https://open.spotify.com/track/5IQYJQxCiOXo4G0TW7hlzn) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22) | [Mitt hjärtas fröjd](https://open.spotify.com/album/4DfhA9iA0jQjbvg0PGYj74) | 2:52 | 2024-04-04 | 2024-04-26 |
 | [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 | 2024-02-24 | 2024-04-12 |
+| [Mitt vackraste felsteg](https://open.spotify.com/track/6cO9yPqaCClf1zhObaLJh6) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Mitt vackraste felsteg](https://open.spotify.com/album/4qq53wdKELAFTfM8t5C6Zb) | 3:57 | 2025-05-16 |  |
 | [Mjuka Lakan](https://open.spotify.com/track/2pvb8B0VBgHlObZipNnLFu) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Mjuka Lakan](https://open.spotify.com/album/5LV6RkFjWOZ5buzyck2NiY) | 2:56 | 2024-05-02 | 2024-06-01 |
 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 | 2024-09-19 | 2024-09-29 |
 | [Mon amour](https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31) | [RASK](https://open.spotify.com/artist/20WH7ULuCsW9nUtPh0lWxl) | [Mon amour](https://open.spotify.com/album/3Q9l5MLWf8dW7JO7rJHEZb) | 2:34 | 2024-02-24 | 2024-03-18 |

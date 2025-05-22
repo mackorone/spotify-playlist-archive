@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 32660,
+  "num_followers": 32681,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAAA8IfPQ3p5fz4Y1pavSp5eK",
+  "snapshot_id": "aCvGAAAAAABQktN6myPpefAB1579v0/Z",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "Jacinto P\u00e9rez de la o",
-      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 156706,
       "name": "Baila Nena",
       "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "Jacinto P\u00e9rez de la o",
+      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Vaqueritos",
-        "url": "https://open.spotify.com/album/2pVXnHH43mAqv5uMeFaPUw"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 212315,
-      "name": "Los Vaqueritos",
-      "url": "https://open.spotify.com/track/6YxBZqcArkXnPCcIyiwzmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 158157,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Vaqueritos",
+        "url": "https://open.spotify.com/album/2pVXnHH43mAqv5uMeFaPUw"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 212315,
+      "name": "Los Vaqueritos",
+      "url": "https://open.spotify.com/track/6YxBZqcArkXnPCcIyiwzmA"
     },
     {
       "added_at": null,

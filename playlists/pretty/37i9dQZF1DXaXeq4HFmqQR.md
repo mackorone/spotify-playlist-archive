@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Katteyes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,638 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,644 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 14 | [TONINI](https://open.spotify.com/track/0rYGGxF4VitfzCyw3zmhlN) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [TONINI](https://open.spotify.com/album/53QbHt39FFQ8O27HrWlnCr) | 2:12 |
 | 15 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
 | 16 | [Volar](https://open.spotify.com/track/6TTrUdM6iRVzeruzdfC9yZ) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Ober](https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC), [BABYBOOM](https://open.spotify.com/artist/0kpa0ItmkgbH1HlSmyAosL) | [Volar](https://open.spotify.com/album/6Nehd9XhkZFYsIJwuOUWEH) | 3:29 |
-| 17 | [CIERRO LOS OJOS](https://open.spotify.com/track/3eTm0jYwUO0tFAPDoWxKU3) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol2\. EL OJO DE MI FRENTE](https://open.spotify.com/album/1bwYAzwTb5drWveYL6eXyU) | 4:18 |
-| 18 | [Triste y Linda](https://open.spotify.com/track/2NPJMuB6vJV7aqinVvjO42) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Kuina](https://open.spotify.com/artist/1DMi0WHTanCsxrukwSC0R1) | [Triste, Linda y Bellaka: El Álbum](https://open.spotify.com/album/6HlyIfhKuYTdTN79aYvpXQ) | 2:44 |
+| 17 | [Triste y Linda](https://open.spotify.com/track/2NPJMuB6vJV7aqinVvjO42) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Kuina](https://open.spotify.com/artist/1DMi0WHTanCsxrukwSC0R1) | [Triste, Linda y Bellaka: El Álbum](https://open.spotify.com/album/6HlyIfhKuYTdTN79aYvpXQ) | 2:44 |
+| 18 | [CIERRO LOS OJOS](https://open.spotify.com/track/3eTm0jYwUO0tFAPDoWxKU3) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol2\. EL OJO DE MI FRENTE](https://open.spotify.com/album/1bwYAzwTb5drWveYL6eXyU) | 4:18 |
 | 19 | [BEBE VEN Y BELLAKEAME](https://open.spotify.com/track/5YKO4wsrPaa8qgd3evFdIj) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [BEBE VEN Y BELLAKEAME](https://open.spotify.com/album/2ykhlqef20bSvWtpRuHmdH) | 2:30 |
 | 20 | [Solteras](https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Sicario En los controles](https://open.spotify.com/artist/301UYYFYUIRMyNbMmCwTyd) | [Solteras](https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl) | 2:46 |
 | 21 | [Quizás](https://open.spotify.com/track/79ZxTFIe1mM6qKLL2uBEmc) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/7vjHz9VqvjJJGUHgO5DGpu) | 4:08 |

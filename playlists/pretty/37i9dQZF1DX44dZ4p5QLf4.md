@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New releases in modern soul\. Cover: JONES
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,562 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,611 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 74 | [Taste of Dawn](https://open.spotify.com/track/2mob0hl3OXd4Yo1DbmZ9LN) | [Kunde](https://open.spotify.com/artist/2HoM9oaAr7jTKHEGuqgzry), [Looping Sessions](https://open.spotify.com/artist/6oomHOCNWr4HxwPw9LVz47) | [Taste of Dawn](https://open.spotify.com/album/1gxMZMNSlnFNYU8AOxpdYL) | 4:07 |
 | 75 | [Flying away](https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Flying away](https://open.spotify.com/album/5v18LwFNg1ZiI4lwUV7gzx) | 4:08 |
 
-Snapshot ID: `AAAAAJdjozjEbJpC99Zzk7IGBBVdyvi7`
+Snapshot ID: `aCxPJwAAAABYrDYi3UyQxK3VoufII2+o`

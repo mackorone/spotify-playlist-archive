@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Sleep Token.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,038 likes - 87 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,049 likes - 87 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

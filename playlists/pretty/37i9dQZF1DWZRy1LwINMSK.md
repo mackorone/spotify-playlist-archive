@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de AQUA VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,257 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,280 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 85 | [12](https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [12](https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz) | 2:37 |
 | 86 | [MISMAS BITCHES](https://open.spotify.com/track/1VYHBSsWYOsxJFsbOUUkX3) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MISMAS BITCHES](https://open.spotify.com/album/3TaFegKf8CdoHToIzfo9me) | 2:23 |
 | 87 | [Padres](https://open.spotify.com/track/0Tr5TQo7sJ36Y8VZ5yi4t3) | [Shishigang Records](https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Padres](https://open.spotify.com/album/3WjNtsro7vdlBg9k0NBbfD) | 4:21 |
-| 88 | [MIAMI VIBES 2.0 \(with Polimá Westcoast & Aqua VS\)](https://open.spotify.com/track/2gK4jE05sDGissNGeIYvn7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [FINALMENTE LIBRE](https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49) | 3:20 |
+| 88 | [MIAMI VIBES 2.0 \(with Polimá Westcoast and Aqua VS\)](https://open.spotify.com/track/2gK4jE05sDGissNGeIYvn7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [FINALMENTE LIBRE](https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49) | 3:20 |
 | 89 | [Nexus](https://open.spotify.com/track/7zXQyhKHyNb2vKXESgZxSK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Nexus](https://open.spotify.com/album/2HDdAJMEazPGuWs32sJWYq) | 2:25 |
 | 90 | [10 DIGITOS](https://open.spotify.com/track/3u84AkTcXxoIZGsxWAtPhp) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 2:18 |
 | 91 | [LOS CHICHOS](https://open.spotify.com/track/1xbTJhhQ0zE9qsf4pAtxCe) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [LOS CHICHOS](https://open.spotify.com/album/3gkPtGCboYoObv0k0dvw06) | 2:02 |

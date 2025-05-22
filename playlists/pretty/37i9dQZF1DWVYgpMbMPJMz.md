@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Sons Of Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,601 likes - 102 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,668 likes - 102 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 101 | [Rescue \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Rescue](https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk) | 3:41 |
 | 102 | [Living Proof \- Live](https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \(Live\)](https://open.spotify.com/album/5Gh92ayf6MMWd7Ffsc5SfJ) | 3:53 |
 
-Snapshot ID: `aCb4NgAAAAA1p6rzZlfakMK52YfUezpo`
+Snapshot ID: `AAAAAPPO8xjFBdoNyi/63cfXAWYC7pgi`

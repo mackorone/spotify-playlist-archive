@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-171 songs - 8 hr 28 min
+173 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,12 @@
 | [Delta Flow 108Hz \- 111Hz](https://open.spotify.com/track/4b6B97mdO3KjViKcgrlMQw) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:50 | 2023-01-20 | 2024-07-27 |
 | [Delta Flow 93Hz \- 96Hz](https://open.spotify.com/track/2nehZ56ki7zOcpZ0MkTCZT) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:15 | 2023-01-20 |  |
 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 | 2023-01-20 |  |
+| [Delta Healing Pulse 87 Hz \- 89 Hz](https://open.spotify.com/track/3vv4DLkBiner86RAnRoWsw) | [Binaural Resonances](https://open.spotify.com/artist/52SstoRHkh5qpKQcEvJxqO) | [Delta Healing Pulse 87 Hz \- 89 Hz](https://open.spotify.com/album/2M9AJ0GLEALuhCfrdwMH3X) | 3:07 | 2025-05-21 |  |
 | [Delta Pattern 101.0 Hz \- 103.0 Hz](https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pure Sinus](https://open.spotify.com/album/6wj0JA3zY8afKCosI3PACG) | 3:04 | 2023-01-20 |  |
 | [Delta Pattern 85.0 Hz \- 89.0 Hz & Pad](https://open.spotify.com/track/0d1ishUCiPFsdMNar5yJd5) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pads](https://open.spotify.com/album/0nVPKKBgeDtQglrE23sqFV) | 3:43 | 2023-01-20 |  |
 | [Delta Peace 86\-88 Hz](https://open.spotify.com/track/6zKzTMoF7bLxwDbZIajBkM) | [Ana Holland](https://open.spotify.com/artist/2xNG0IeQxgBSyRV1jWVzJ2) | [Delta Peace 86\-88 Hz](https://open.spotify.com/album/7JpiWDMfeMu0wNdI18ZUyI) | 2:31 | 2024-07-15 |  |
 | [Delta Peace 92\-94 Hz](https://open.spotify.com/track/7iDtoFVVML0UhHXAuROb2h) | [Thomas Pineda](https://open.spotify.com/artist/7neSzatwxDSpZoOgYhluQa) | [Delta Peace 92\-94 Hz](https://open.spotify.com/album/20rNhBgKWjvf1C29pGi6SA) | 2:32 | 2024-08-27 |  |
+| [Delta Quietude 2 Hz](https://open.spotify.com/track/6zK8IpcycILr4K6OxyjcMp) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Quietude](https://open.spotify.com/album/6uxslvlArqtP2J1jhhay45) | 2:48 | 2025-05-21 |  |
 | [Delta Rest 97 Hz \- 99 Hz](https://open.spotify.com/track/3HQkojI7fN0yFtm0laCwsQ) | [Enriched Soil](https://open.spotify.com/artist/6QIvdc5uWqnizXrxLaNF88) | [Delta Rest 97 Hz \- 99 Hz](https://open.spotify.com/album/39tRjZQxaAXXzxlT8mSI3W) | 2:59 | 2025-02-05 |  |
 | [Delta Revive 92 Hz \- 93 Hz](https://open.spotify.com/track/1AuhhyzXXeYDwDAD7IIObH) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Revive 92 Hz \- 93 Hz](https://open.spotify.com/album/39AXFW1UN2uw6EUKXmXdAd) | 2:48 | 2023-03-31 |  |
 | [Delta Scribe](https://open.spotify.com/track/5neKlqSv2txl3ai2OTWJfl) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Delta Scribe \(model 2.58\)](https://open.spotify.com/album/0rrkOPWPNrvM79MPzSuJSw) | 2:58 | 2024-05-04 |  |

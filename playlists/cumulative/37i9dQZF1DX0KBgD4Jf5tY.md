@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1F68L6nlubo92LxyyITibv">Sofia Gobbi</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1F68L6nlubo92LxyyITibv">Sofia Gobbi</a> in cover \(ah, e Fresh Finds compie 10 anni 🎂\)
 
 1,630 songs - 3 day 8 hr 51 min
 

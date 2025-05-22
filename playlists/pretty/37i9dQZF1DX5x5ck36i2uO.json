@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 6342,
+  "num_followers": 6349,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-03-08 08:10:47",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
-    },
-    {
-      "added_at": "2025-03-08 08:10:47",
-      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 233458,
       "name": "Journey",
       "url": "https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R"
+    },
+    {
+      "added_at": "2025-03-08 08:10:47",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
     },
     {
       "added_at": "2025-03-08 08:10:47",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-03-08 08:10:47",
       "album": {
-        "name": "JAMI (feat. THAMA)",
-        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
-      },
-      "artists": [
-        {
-          "name": "Otis Lim",
-          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 184277,
-      "name": "JAMI (feat. THAMA)",
-      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
-    },
-    {
-      "added_at": "2025-03-08 08:10:47",
-      "album": {
         "name": "Millionaire Poetry",
         "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 200620,
       "name": "Light",
       "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
+    },
+    {
+      "added_at": "2025-03-08 08:10:47",
+      "album": {
+        "name": "JAMI (feat. THAMA)",
+        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
+      },
+      "artists": [
+        {
+          "name": "Otis Lim",
+          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "JAMI (feat. THAMA)",
+      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
     },
     {
       "added_at": "2025-03-08 08:10:47",

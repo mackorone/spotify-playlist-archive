@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544163,
+  "num_followers": 544166,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 178989,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Overexposed",
         "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
+        "name": "Surviving California",
+        "url": "https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA"
       },
       "artists": [
         {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
         }
       ],
-      "duration_ms": 178989,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
+      "duration_ms": 170875,
+      "name": "Surviving California",
+      "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1595,22 +1611,6 @@
       "duration_ms": 160346,
       "name": "ATM",
       "url": "https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Surviving California",
-        "url": "https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA"
-      },
-      "artists": [
-        {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
-        }
-      ],
-      "duration_ms": 170875,
-      "name": "Surviving California",
-      "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
     },
     {
       "added_at": "2024-07-19 11:53:42",

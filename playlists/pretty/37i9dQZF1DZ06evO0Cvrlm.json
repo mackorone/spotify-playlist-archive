@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 586386,
+  "num_followers": 586422,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAADgTl6VvfaYHkc9DRMF+8av",
+  "snapshot_id": "aCvGAAAAAACxBMlD9qv77yCtQDpCPE7U",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older + Upper",
+        "url": "https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 295685,
+      "name": "Fastlove, Pt. 2",
+      "url": "https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirito Italiano",
         "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 255733,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older + Upper",
-        "url": "https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 295685,
-      "name": "Fastlove, Pt. 2",
-      "url": "https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w"
     },
     {
       "added_at": null,

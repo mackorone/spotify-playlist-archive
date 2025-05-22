@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: Priyanka Kher, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Riya Goley, Artwork: Isu Kim
 
-1,619 songs - 3 day 21 hr 26 min
+1,620 songs - 3 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Courtyards](https://open.spotify.com/track/5LGs8mMpSyzQqgaWWEOJMV) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [Rini Rajput](https://open.spotify.com/artist/6ULk3EPG61JmA3JN7s5468) | [Courtyards](https://open.spotify.com/album/3UKC4HBpcljGjGFxkkumCx) | 4:10 | 2022-09-21 | 2023-03-09 |
 | [Creature of the Well](https://open.spotify.com/track/2VNTniLi7Nx2YdkDhPRjDi) | [Satyam Srivastava](https://open.spotify.com/artist/2omUazgTzAVJiaOnye0IeE), [Susmit Nimbhorkar](https://open.spotify.com/artist/5kEZWWighT1hmzRgWwwLMN) | [Khayaal](https://open.spotify.com/album/0sBwLYGNNzeogFbxZjxBvK) | 3:24 | 2025-04-23 |  |
 | [Crimson Skies](https://open.spotify.com/track/3QehBxsgtGDgjp7dVjFSCl) | [The Earflower Experiment](https://open.spotify.com/artist/3PK4DyHQllh8lOJ4szoEBD), [Aidah Asrar](https://open.spotify.com/artist/15GsuMBgd7VB0W9NrfzxWL) | [Crimson Skies](https://open.spotify.com/album/5dEPM92xLzuoAxK9NMn7pd) | 3:23 | 2022-07-13 | 2022-10-13 |
-| [Cruise Control](https://open.spotify.com/track/1ZQffmyNO1Z1Sgp4omU7sr) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Cruise Control](https://open.spotify.com/album/5HjqdK536FANeHTLreeHpt) | 2:54 | 2025-04-16 |  |
+| [Cruise Control](https://open.spotify.com/track/1ZQffmyNO1Z1Sgp4omU7sr) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Cruise Control](https://open.spotify.com/album/5HjqdK536FANeHTLreeHpt) | 2:54 | 2025-04-16 | 2025-05-22 |
 | [Cry For You](https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Cry For You](https://open.spotify.com/album/7rRge1A2yeEk3KUIz76qxe) | 4:13 | 2023-11-15 | 2024-02-22 |
 | [Daaye Baaye](https://open.spotify.com/track/6dw4nFfNQmwvIdjOa75DbF) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Daaye Baaye](https://open.spotify.com/album/3dsjMbYeLfUdWa89sUqwi8) | 3:12 | 2023-11-29 | 2024-01-11 |
 | [Daaye Baaye](https://open.spotify.com/track/3w9jI8mCgQCsk2SCxuPNBt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Daaye Baaye](https://open.spotify.com/album/59ov3w48N6VxopAwC0N5op) | 3:12 | 2023-02-15 | 2023-06-22 |
@@ -1140,6 +1140,7 @@
 | [Rain On My Shelter](https://open.spotify.com/track/7MKFDqoEBDBcsmfsXLgaR6) | [Aman Jagwani](https://open.spotify.com/artist/1tPPcb50f30mPgZdBq4hWx), [Anubha Kaul](https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS), [Trace Zacur](https://open.spotify.com/artist/380F3KQ6nop7ZMuiPmErh8) | [This Place](https://open.spotify.com/album/2C1qwl9jvuEdEV7lOkOctl) | 3:55 | 2021-12-01 | 2022-01-13 |
 | [Raise Me](https://open.spotify.com/track/0bCHWyjpBqAt07I4AUKB8Y) | [Dwain Willis](https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X), [Mayur Koli](https://open.spotify.com/artist/05m2Kni8TOM0zX0o0yb7OF) | [Raise Me](https://open.spotify.com/album/6a1kWALY5WBlsJpMq0DumN) | 3:13 | 2024-03-27 | 2024-05-09 |
 | [Rakh Loon](https://open.spotify.com/track/1p4XQx96xoS1HSMnVqoeMH) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04), [Karonik](https://open.spotify.com/artist/5uw5Ga6bF1Int5D3DNADub) | [Rakh Loon](https://open.spotify.com/album/6tvfknMulV3acdpqWsm9b3) | 2:11 | 2024-10-16 | 2025-05-01 |
+| [Rakhna Jo Chaha](https://open.spotify.com/track/6DbIrOzonxL8O8jpkFLpKQ) | [Riya Goley](https://open.spotify.com/artist/4ySpRlOBEyFbpSla57Tm9B), [ZRYA](https://open.spotify.com/artist/3rXwnEWqZbpPVPL1mAKot7) | [Rakhna Jo Chaha](https://open.spotify.com/album/7IhUwwGC6CdZwGm40Jwk4P) | 2:55 | 2025-05-21 |  |
 | [Rang](https://open.spotify.com/track/4rsZfDAo6vC9vtQhA0jX43) | [Kaustubh More](https://open.spotify.com/artist/6ubQadke7zX8Es9DrB4MBA), [veer](https://open.spotify.com/artist/4MlWeM2LHmT4ZZAQkoBFXG), [Hrishikesh majumdar](https://open.spotify.com/artist/6SW3XorTD5a8OxsHRxn6XV) | [Rang](https://open.spotify.com/album/4e8jvetM06PTBMV7ZdWrfQ) | 3:16 | 2025-03-12 |  |
 | [Rang Chadheya](https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Tajinder Singh](https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG) | [Rang Chadheya](https://open.spotify.com/album/4s2WLUhDysiCe9JWcmmEnR) | 3:35 | 2024-03-27 | 2024-06-20 |
 | [Rang Daaroongi](https://open.spotify.com/track/6u2LwHmzVlHjaKkLJACLc3) | [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf) | [Rang Daaroongi](https://open.spotify.com/album/3JsXkQlrySZM91ANIiqIDa) | 4:15 | 2022-03-23 | 2022-04-21 |

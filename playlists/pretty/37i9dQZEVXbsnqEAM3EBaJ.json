@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACCQiaNM3QWY19/gt8hlb3+",
+  "snapshot_id": "AAAAAAAAAACrwsSHg2Jc0BM+67+RIAe/",
   "tracks": [
     {
       "added_at": "2025-05-16 04:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Irrealidad",
-        "url": "https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 92608,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/0dmnZibUczyCvvFRFGPeB8"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Repo Man",
         "url": "https://open.spotify.com/album/2dlVw20ada4YRodv07jKQL"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 175080,
       "name": "Repo Man",
       "url": "https://open.spotify.com/track/7vI08htFEStbX7PkVhZC7a"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Irrealidad",
+        "url": "https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 92608,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/0dmnZibUczyCvvFRFGPeB8"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -175,26 +175,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Red Dawn (Tubular Bells II)",
-        "url": "https://open.spotify.com/album/4FkKms06edcGYVeHlEIHsC"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        },
-        {
-          "name": "Piano in a Living Room",
-          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
-        }
-      ],
-      "duration_ms": 153065,
-      "name": "Red Dawn (Tubular Bells II)",
-      "url": "https://open.spotify.com/track/1QeWRBSHWPmPeLHjlhcBFH"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Faithfully (feat. Willie Nelson)",
         "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
       },
@@ -215,22 +195,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+        "name": "Red Dawn (Tubular Bells II)",
+        "url": "https://open.spotify.com/album/4FkKms06edcGYVeHlEIHsC"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         },
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Piano in a Living Room",
+          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+      "duration_ms": 153065,
+      "name": "Red Dawn (Tubular Bells II)",
+      "url": "https://open.spotify.com/track/1QeWRBSHWPmPeLHjlhcBFH"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -255,22 +235,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/0xn5vTCGdTAy2oorbwZ0kN"
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
       "artists": [
         {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         },
         {
-          "name": "Kat Leon",
-          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 195040,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2F9bMnfXG3xah4K9jcIr08"
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -291,6 +271,26 @@
       "duration_ms": 258712,
       "name": "My Valentine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0xn5vTCGdTAy2oorbwZ0kN"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        },
+        {
+          "name": "Kat Leon",
+          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2F9bMnfXG3xah4K9jcIr08"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Ballyhoo",
-        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
         }
       ],
-      "duration_ms": 165974,
-      "name": "Ballyhoo",
-      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+      "duration_ms": 250397,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 186906,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM"
-      },
-      "artists": [
-        {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Listen Like Thieves (40th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/1jYuoUc2IizEt2iG9Qexr5"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 140253,
+      "name": "Sweet As Sin",
+      "url": "https://open.spotify.com/track/01090WTrigkKGJuLeRJ6eR"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Souls Devoured",
         "url": "https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Listen Like Thieves (40th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/1jYuoUc2IizEt2iG9Qexr5"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 140253,
-      "name": "Sweet As Sin",
-      "url": "https://open.spotify.com/track/01090WTrigkKGJuLeRJ6eR"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Radio Free Europe 2025",
         "url": "https://open.spotify.com/album/3WUyr8kiPJQ8c7fYnDkm86"
       },
@@ -679,38 +679,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Priceless (feat. LISA)",
-        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+        "name": "Lets Roll Again",
+        "url": "https://open.spotify.com/album/0yYYxTqYiJWI3frMy0l6EL"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
         },
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "neil young and the chrome hearts",
+          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
         }
       ],
-      "duration_ms": 163352,
-      "name": "Priceless (feat. LISA)",
-      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "STING 3.0 Live",
-        "url": "https://open.spotify.com/album/4r8JECF7FXyBaIKLdNfRJa"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 316386,
-      "name": "Every Breath You Take - STING 3.0 Live",
-      "url": "https://open.spotify.com/track/5QO7gL3BzP5DDvVJA2h1fj"
+      "duration_ms": 196840,
+      "name": "Lets Roll Again",
+      "url": "https://open.spotify.com/track/2nmjXNcJupepCZsyHQXGAC"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -747,38 +731,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
       },
       "artists": [
         {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 223551,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "Lets Roll Again",
-        "url": "https://open.spotify.com/album/0yYYxTqYiJWI3frMy0l6EL"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
-          "name": "neil young and the chrome hearts",
-          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 196840,
-      "name": "Lets Roll Again",
-      "url": "https://open.spotify.com/track/2nmjXNcJupepCZsyHQXGAC"
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -795,6 +763,38 @@
       "duration_ms": 136688,
       "name": "Vendaval",
       "url": "https://open.spotify.com/track/4jmD7VhU9sUYhHUoPFCikw"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 223551,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "STING 3.0 Live",
+        "url": "https://open.spotify.com/album/4r8JECF7FXyBaIKLdNfRJa"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 316386,
+      "name": "Every Breath You Take - STING 3.0 Live",
+      "url": "https://open.spotify.com/track/5QO7gL3BzP5DDvVJA2h1fj"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Hot For You Baby (Pet Shop Boys Remix)",
+        "url": "https://open.spotify.com/album/3Zp9w8v4Rk7uP6aiJ2133R"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 349800,
+      "name": "Hot For You Baby - Pet Shop Boys Remix",
+      "url": "https://open.spotify.com/track/2W6N8ZTzvEsBXLY4mKSsGU"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "MAKUAKE",
         "url": "https://open.spotify.com/album/1IwFp2q3l2qXwH3FuAb6gJ"
       },
@@ -847,34 +867,6 @@
       "duration_ms": 284173,
       "name": "MAKUAKE",
       "url": "https://open.spotify.com/track/2VTbIKHS8foduKFrcatEwN"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "DPA",
-        "url": "https://open.spotify.com/album/5vYFrtRr1VMCJOcuBE9Kjb"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Ibacache",
-          "url": "https://open.spotify.com/artist/1KNT5gKVeL4GCA54To88sF"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Cidtronyck",
-          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
-        },
-        {
-          "name": "Kennychops",
-          "url": "https://open.spotify.com/artist/0usJiH7QYtSfZf5buUxOrC"
-        }
-      ],
-      "duration_ms": 253799,
-      "name": "DPA",
-      "url": "https://open.spotify.com/track/1IRETWWt28YMwuZvMrQ1X2"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -907,22 +899,30 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Hot For You Baby (Pet Shop Boys Remix)",
-        "url": "https://open.spotify.com/album/3Zp9w8v4Rk7uP6aiJ2133R"
+        "name": "DPA",
+        "url": "https://open.spotify.com/album/5vYFrtRr1VMCJOcuBE9Kjb"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "C\u00e9sar Ibacache",
+          "url": "https://open.spotify.com/artist/1KNT5gKVeL4GCA54To88sF"
         },
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        },
+        {
+          "name": "Kennychops",
+          "url": "https://open.spotify.com/artist/0usJiH7QYtSfZf5buUxOrC"
         }
       ],
-      "duration_ms": 349800,
-      "name": "Hot For You Baby - Pet Shop Boys Remix",
-      "url": "https://open.spotify.com/track/2W6N8ZTzvEsBXLY4mKSsGU"
+      "duration_ms": 253799,
+      "name": "DPA",
+      "url": "https://open.spotify.com/track/1IRETWWt28YMwuZvMrQ1X2"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Alaska, You're On Thin Ice Buddy!",
-        "url": "https://open.spotify.com/album/44YbGpDd64m0rv5Coh0cjW"
-      },
-      "artists": [
-        {
-          "name": "Ashtray For Aliens",
-          "url": "https://open.spotify.com/artist/3dKw0MiQHZ7bsUI6KfcuLI"
-        },
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Alaska, You're On Thin Ice Buddy!",
-      "url": "https://open.spotify.com/track/6gP6Hh5VC2uwOIPCS6GNf9"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Re-lush",
         "url": "https://open.spotify.com/album/5B8PE8w0qawYqjTRWbo2zI"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 219204,
       "name": "Re-lush - edit",
       "url": "https://open.spotify.com/track/1BjLrAhZaYdkJfMj68phuW"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Alaska, You're On Thin Ice Buddy!",
+        "url": "https://open.spotify.com/album/44YbGpDd64m0rv5Coh0cjW"
+      },
+      "artists": [
+        {
+          "name": "Ashtray For Aliens",
+          "url": "https://open.spotify.com/artist/3dKw0MiQHZ7bsUI6KfcuLI"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Alaska, You're On Thin Ice Buddy!",
+      "url": "https://open.spotify.com/track/6gP6Hh5VC2uwOIPCS6GNf9"
     },
     {
       "added_at": "2025-05-16 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,786 likes - 55 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,801 likes - 55 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 11 | [Que Se Llene Tu Casa](https://open.spotify.com/track/5SJsGkMXZCN9mzxoM8JjNj) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/6uviGvDbNIhxoOMqTP3HKl) | 4:08 |
 | 12 | [Preso De Tu Amor](https://open.spotify.com/track/5j2sr7PLGTn7FIrByKQpM8) | [Áaron Emanuel](https://open.spotify.com/artist/0q3zPjmbWZBCxePVcT6iue) | [Preso De Tu Amor](https://open.spotify.com/album/3hSiwuydPUA9nWiSBzji7H) | 3:24 |
 | 13 | [El Héroe De La Humanidad](https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:03 |
-| 14 | [Verbo](https://open.spotify.com/track/7o0mP6frAihCT0mekq50SO) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Verbo](https://open.spotify.com/album/3dgzuWzgCZRWJvD0jjjNE2) | 3:26 |
+| 14 | [Verbo](https://open.spotify.com/track/7o0mP6frAihCT0mekq50SO) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Verbo](https://open.spotify.com/album/3dgzuWzgCZRWJvD0jjjNE2) | 3:40 |
 | 15 | [Quiero que Sepas](https://open.spotify.com/track/6oCLDQgN8sA7dmlkVHQYkm) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW) | [Quiero que Sepas](https://open.spotify.com/album/5r0SSXFBcJGE38lZ1doQYc) | 2:20 |
 | 16 | [Cicatriz](https://open.spotify.com/track/0TpWtQlUdr9biLLEZjdIxQ) | [Año Cero](https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS), [Skapaltata](https://open.spotify.com/artist/2TamkT4q1zJ6TAXMwZUvcs) | [Cicatriz](https://open.spotify.com/album/3OjM2PwrylF0BdAGLouWPR) | 2:13 |
 | 17 | [Año Zero](https://open.spotify.com/track/6qXTukTvuPOFFHWcmh4kqg) | [Amor Sin Fin](https://open.spotify.com/artist/1ueHUKL6L0bZ2AoYMx7wTC), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Año Zero](https://open.spotify.com/album/2zASpw1tV9u8b1Rl3LVdAp) | 5:39 |

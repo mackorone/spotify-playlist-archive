@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: فريد
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,180 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,189 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [رحمه محسن](https://open.spotify.com/artist/4n7LF1ui4BRgY6sKpcIERt) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
 | 75 | [ماشيها انا راضي](https://open.spotify.com/track/2uyzaV69yUV3shcAr9yF8f) | [Ahmed Elseweasy](https://open.spotify.com/artist/0njKUrmrzCFy6D3813NPlk) | [ماشيها انا راضي](https://open.spotify.com/album/51IbSxgZOFCrjQBNtcjMji) | 3:00 |
 
-Snapshot ID: `aCZjrAAAAADpP/qhKKqD5RlJxVG/DjVz`
+Snapshot ID: `aC3mWQAAAAAvhmuka7ChTMv9be7wpOh7`

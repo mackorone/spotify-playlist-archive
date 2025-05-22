@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 54245,
+  "num_followers": 54264,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
+        "name": "Antologia el Poeta del Pueblo Con Banda",
+        "url": "https://open.spotify.com/album/0OfjLcsL9TyjST6WgMQ0Hv"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 179165,
+      "name": "Bandido de Amores",
+      "url": "https://open.spotify.com/track/71unqKVfoxMO7N8itTP6Z7"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
         "name": "Lo Busqu\u00e9",
         "url": "https://open.spotify.com/album/0OFAMb4oOtIp0j5ENQWN4a"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 250670,
       "name": "Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/1N1CJ0PkWvsK2Rd7JqtlJV"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Antologia el Poeta del Pueblo Con Banda",
-        "url": "https://open.spotify.com/album/0OfjLcsL9TyjST6WgMQ0Hv"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 179165,
-      "name": "Bandido de Amores",
-      "url": "https://open.spotify.com/track/71unqKVfoxMO7N8itTP6Z7"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Gallo Fino",
-        "url": "https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 134657,
-      "name": "Por Mas Que Intento",
-      "url": "https://open.spotify.com/track/39Q9LhoyGufwgfvHUBnjNu"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
+        "name": "Y Tenerte Otra Vez",
+        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Me Falta Valor",
+      "url": "https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Y Tenerte Otra Vez",
-        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
+        "name": "Gallo Fino",
+        "url": "https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Me Falta Valor",
-      "url": "https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L"
+      "duration_ms": 134657,
+      "name": "Por Mas Que Intento",
+      "url": "https://open.spotify.com/track/39Q9LhoyGufwgfvHUBnjNu"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -647,38 +647,6 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Tu M\u00e9ndigo Recuerdo",
-        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 213923,
-      "name": "Tu M\u00e9ndigo Recuerdo",
-      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/6CQVfSBO5R7N0ANWdQndUy"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188487,
-      "name": "Un Pu\u00f1o de Tierra",
-      "url": "https://open.spotify.com/track/60iK62Rve3uBk7JxWD1ZBf"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
         "name": "Cuando Dos Almas",
         "url": "https://open.spotify.com/album/7JXIq8P1uvpr02mjwpTuU1"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 186513,
       "name": "Cuando Dos Almas",
       "url": "https://open.spotify.com/track/5Fp3A1Ciwa7z1FOhZx0e4a"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/6CQVfSBO5R7N0ANWdQndUy"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188487,
+      "name": "Un Pu\u00f1o de Tierra",
+      "url": "https://open.spotify.com/track/60iK62Rve3uBk7JxWD1ZBf"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -727,6 +711,22 @@
       "duration_ms": 143116,
       "name": "Que Se Te Quite Ese Orgullo",
       "url": "https://open.spotify.com/track/2yXB50531RQuDTEaI17wbh"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Tu M\u00e9ndigo Recuerdo",
+        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 213923,
+      "name": "Tu M\u00e9ndigo Recuerdo",
+      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
     },
     {
       "added_at": "2024-04-09 17:24:23",

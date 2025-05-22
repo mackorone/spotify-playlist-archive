@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Joey Bada$$
 
-1,567 songs - 2 day 23 hr 8 min
+1,568 songs - 2 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,7 +597,7 @@
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-17 | 2022-07-09 |
 | [Hand Her The Gun](https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [The Revive \(The Ascension 2 Prelude\)](https://open.spotify.com/album/6ClVoXk3JiQ8r6csDtxiXz) | 2:38 | 2023-02-17 | 2023-03-04 |
 | [HANDS UP!](https://open.spotify.com/track/4yyrqAE18WygbNJhVW91g7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [HANDS UP!](https://open.spotify.com/album/0sewRJupZ1zkzYo6h3X388) | 1:29 | 2023-07-07 | 2023-07-29 |
-| [Handsome Hustler](https://open.spotify.com/track/1Hyakd9FjcWxTUw1zPrHNK) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Handsome Hustler](https://open.spotify.com/album/7pIhUlblhUSDNW45FmOdvy) | 2:40 | 2025-04-25 |  |
+| [Handsome Hustler](https://open.spotify.com/track/1Hyakd9FjcWxTUw1zPrHNK) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Handsome Hustler](https://open.spotify.com/album/7pIhUlblhUSDNW45FmOdvy) | 2:40 | 2025-04-25 | 2025-05-22 |
 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 | 2024-12-27 |  |
 | [Happy New Year](https://open.spotify.com/track/2C9WzP04bjlFLH4avRt19V) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Happy New Year](https://open.spotify.com/album/7zUcDimGsVU8YH4MzkmQSe) | 3:57 | 2024-12-27 | 2025-04-05 |
 | [Hard To Find](https://open.spotify.com/track/23bcfKipPSnWI4ftEteRud) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Hard To Find](https://open.spotify.com/album/27cW8vR5633qKUwM6DbRPF) | 3:09 | 2023-10-27 | 2024-01-13 |
@@ -749,6 +749,7 @@
 | [KISHA](https://open.spotify.com/track/2EPSi6oWTyUdYFTDlb8EoP) | [Toure](https://open.spotify.com/artist/1OXhvSQDWPFqq6v2bhY17X) | [KISHA](https://open.spotify.com/album/65KuwBKNeRBsWDGzMYZ3h2) | 2:21 | 2023-07-14 | 2023-08-19 |
 | [Kiss Ya Neck \(feat\. Fivio Foreign & Rowdy Rebel\)](https://open.spotify.com/track/34N03j4WSj0rqK4VuL3k58) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 3:38 | 2022-07-15 | 2022-11-05 |
 | [Kitchen Table](https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Summertime Butch](https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR) | 2:12 | 2024-08-09 | 2024-11-09 |
+| [KNICKS IN 6](https://open.spotify.com/track/5NwzrLLPWDiSiydjSYMPtq) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [KNICKS IN 6](https://open.spotify.com/album/4UzzHeLwCcaf4N0POrPANG) | 4:06 | 2025-05-21 |  |
 | [KNOCKITOFF](https://open.spotify.com/track/70CJRfEEK94TszqGcqDWbA) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Qu'ality](https://open.spotify.com/artist/61muz1GBom0coVyQLRiu67) | [KNOCKITOFF](https://open.spotify.com/album/2pFr1iqv9DJ6JEgBf7CEuO) | 1:40 | 2022-09-30 | 2022-10-22 |
 | [Krash Out](https://open.spotify.com/track/0feZz6FZLnuBACiRNIVvWL) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Krash Out](https://open.spotify.com/album/2P2AoAbtzvF39nm1cBaSpa) | 2:31 | 2022-11-11 | 2023-01-28 |
 | [Kyros Interlude](https://open.spotify.com/track/58MKxd8fo6epYgmRzqVnNZ) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Kyros Interlude](https://open.spotify.com/album/3rqnJp5R9SORq2LE6ACoiF) | 3:57 | 2024-10-11 |  |

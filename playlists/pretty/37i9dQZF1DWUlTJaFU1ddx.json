@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 30839,
+  "num_followers": 30847,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Mn Gheirik Enti",
-        "url": "https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "Mn Gheirik Enti",
-      "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Hold Your Ground",
         "url": "https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 275017,
       "name": "Hold Your Ground",
       "url": "https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Mn Gheirik Enti",
+        "url": "https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "Mn Gheirik Enti",
+      "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
     },
     {
       "added_at": "2024-12-21 19:38:19",

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Rael",
-  "num_followers": 178184,
+  "num_followers": 178197,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -547,6 +531,30 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "Auge",
+        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "iceton",
+          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "Auge",
+      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -571,26 +579,18 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Auge",
-        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
       "artists": [
         {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "iceton",
-          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 190286,
-      "name": "Auge",
-      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "Nossa M\u00fasica",
         "url": "https://open.spotify.com/album/1PvKNzwf78tHq50nNFEsmM"
       },
@@ -775,18 +759,34 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "TRATO",
-        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
       "artists": [
         {
-          "name": "Magyn",
-          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 149610,
-      "name": "TRATO",
-      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+        "name": "TRATO",
+        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
       },
       "artists": [
         {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
         }
       ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+      "duration_ms": 149610,
+      "name": "TRATO",
+      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -979,6 +979,26 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "Porto Seguro",
+        "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
+      },
+      "artists": [
+        {
+          "name": "Caio G",
+          "url": "https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5"
+        },
+        {
+          "name": "Netto Galdino",
+          "url": "https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Porto Seguro",
+      "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "Desse Meu Mel",
         "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
@@ -1016,29 +1036,9 @@
           "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
         }
       ],
-      "duration_ms": 137891,
+      "duration_ms": 137000,
       "name": "Me Diz Que C\u00ea Sente",
       "url": "https://open.spotify.com/track/61YXVtkd0EWz6qVkk51zn6"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "Porto Seguro",
-        "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
-      },
-      "artists": [
-        {
-          "name": "Caio G",
-          "url": "https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5"
-        },
-        {
-          "name": "Netto Galdino",
-          "url": "https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Porto Seguro",
-      "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "Lambuza",
+        "url": "https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk"
+      },
+      "artists": [
+        {
+          "name": "Calena",
+          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Lambuza",
+      "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "Mais uma Vez",
         "url": "https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 129896,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "Lambuza",
-        "url": "https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk"
-      },
-      "artists": [
-        {
-          "name": "Calena",
-          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Lambuza",
-      "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "sexysong.mp3",
         "url": "https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 137000,
       "name": "sexysong.mp3",
       "url": "https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2025-05-16 03:01:14",

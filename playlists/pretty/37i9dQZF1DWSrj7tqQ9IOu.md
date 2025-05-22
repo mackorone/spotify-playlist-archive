@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Kazy Lambist
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,107 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,096 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Le roi Soleil](https://open.spotify.com/track/2g7Cd0qBGSnk0cLIfVgBYu) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le roi Soleil](https://open.spotify.com/album/2vdlNxxtxH7gB1xlCOCAJz) | 2:58 |
 | 50 | [A Dog in a Manger](https://open.spotify.com/track/7smNXOvuCLjEG3qeOQdqVH) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [A Dog in a Manger](https://open.spotify.com/album/38TmYJoFrS4La3bDZKmIje) | 3:12 |
 
-Snapshot ID: `AAAAAIy3YySbrZYukKVdFYViVIBBKEns`
+Snapshot ID: `aCZkAwAAAACCQBbaCqP2nUwM3jargpRN`

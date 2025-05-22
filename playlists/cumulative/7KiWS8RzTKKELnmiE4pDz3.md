@@ -4,7 +4,7 @@
 
 > 
 
-1,001 songs - 2 day 1 hr 37 min
+1,002 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | ['DAMN'](https://open.spotify.com/track/0rrJogcVick0NSOQmeWqCc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | ['DAMN'](https://open.spotify.com/album/4JgyQlC43dtwvnBTUfW6Th) | 1:40 | 2022-10-27 | 2023-12-14 |
 | [1 Hell of a Life](https://open.spotify.com/track/3DV3fcJ1Cgc5lVAdvw73Kx) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer](https://open.spotify.com/album/5QNIFVnhZn80T3EteDzvgW) | 2:39 | 2024-05-18 | 2024-11-06 |
 | [100 Bars](https://open.spotify.com/track/68wOeDmP9Mxibify0eeoh3) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [AK Bandamont](https://open.spotify.com/artist/430Zvgtw4i0Ec25Wwe9T2g) | [Maintaining Drug Houses](https://open.spotify.com/album/3kF4F5n8H7JVdSTCmLRDj2) | 5:13 | 2022-05-02 | 2023-12-14 |
+| [100 Bars](https://open.spotify.com/track/7kMg8gmoI96lgbqCyVFO5Y) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [AK Bandamont](https://open.spotify.com/artist/430Zvgtw4i0Ec25Wwe9T2g) | [Maintaining Drug Houses](https://open.spotify.com/album/5C2aA8gNfVS3t9ZpLF2h0o) | 5:13 | 2025-05-22 |  |
 | [100 High Street](https://open.spotify.com/track/13cI0USnl3puOPCBRFK6Xp) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:34 | 2023-10-10 | 2024-04-24 |
 | [100 Shooters \(feat\. Meek Mill & Doe Boy\)](https://open.spotify.com/track/3Uoy2lrZdhocMWO0jIdjAp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:28 | 2023-09-20 | 2024-03-05 |
 | [100round/buss down](https://open.spotify.com/track/5wbmv7XBDP8Zehl2ulnA22) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [100round/buss down](https://open.spotify.com/album/5fHklXHZRRnWskvkMpqBgy) | 1:54 | 2022-12-21 | 2023-05-09 |

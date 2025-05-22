@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag, og ny musik fra MØ, Volbeat, Pil og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,266 likes - 109 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,269 likes - 109 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

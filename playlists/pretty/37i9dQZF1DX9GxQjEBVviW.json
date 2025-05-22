@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 240033,
+  "num_followers": 240073,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "All the Hits and More",
-        "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
-      },
-      "artists": [
-        {
-          "name": "The Heartbeats",
-          "url": "https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "A Thousand Miles Away",
-      "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "The Best Of The Cleftones",
         "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 192106,
       "name": "Little Girl of Mine",
       "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "All the Hits and More",
+        "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
+      },
+      "artists": [
+        {
+          "name": "The Heartbeats",
+          "url": "https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "A Thousand Miles Away",
+      "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -275,8 +275,8 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
+      "duration_ms": 159493,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
       "artists": [
         {
@@ -380,29 +380,25 @@
           "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
     },
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Four Aces' Greatest Hits",
-        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
       "artists": [
         {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        },
-        {
-          "name": "Al Alberts",
-          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
         }
       ],
-      "duration_ms": 137493,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
+      "duration_ms": 113640,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -423,18 +419,22 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+        "name": "The Four Aces' Greatest Hits",
+        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
       "artists": [
         {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        },
+        {
+          "name": "Al Alberts",
+          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
         }
       ],
-      "duration_ms": 113640,
-      "name": "Heart and Soul",
-      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
+      "duration_ms": 137493,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Can't We Be Sweethearts",
-      "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "The Hollywood Flames",
         "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 136333,
       "name": "Buzz, Buzz, Buzz",
       "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+      },
+      "artists": [
+        {
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Can't We Be Sweethearts",
+      "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
     },
     {
       "added_at": "2024-07-14 11:36:52",

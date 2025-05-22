@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop!  Cover: Arsh Randhawa",
+  "description": "Discover the future of Punjabi Pop!  Cover: Jot Singh",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 191144,
       "name": "Big Hadse",
       "url": "https://open.spotify.com/track/4awzT8sVHvchE0QI5lavfq"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 163199,
       "name": "Chann Wargi",
       "url": "https://open.spotify.com/track/6tp27eLimm1dSaqYRCP31C"
@@ -1838,6 +1838,24 @@
       "duration_ms": 149929,
       "name": "Double R",
       "url": "https://open.spotify.com/track/0MF149ChYfSbmtXTUb45S2"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HewSvCiEmcQ3rG9uNp0rX"
+      },
+      "artists": [
+        {
+          "name": "Jot Singh",
+          "url": "https://open.spotify.com/artist/3ODBfUrrMJ754gojNtrACT"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174984,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2Pl0LIFdkW1OGbXSqJTGkr"
     },
     {
       "album": {
@@ -5461,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "RECOMMEND",
+        "url": "https://open.spotify.com/album/5ybV5EIKnfI9YMU50SwTnO"
+      },
+      "artists": [
+        {
+          "name": "Simran Veer",
+          "url": "https://open.spotify.com/artist/7u5oYrUADeMQvMy37Y2Yi3"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132555,
+      "name": "RECOMMEND",
+      "url": "https://open.spotify.com/track/6DritQPJhlWshwrdrDohU0"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/57pv8Ky0AnkrlNcT52Pnxf"
       },
@@ -5502,7 +5538,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 202409,
       "name": "Rona Aaya Na",
       "url": "https://open.spotify.com/track/6r71exas2Bbhd7QIGDASvD"
@@ -5652,6 +5688,10 @@
         {
           "name": "Avvy Ballagan",
           "url": "https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
         }
       ],
       "date_added": "2025-05-07",
@@ -6218,6 +6258,28 @@
       "duration_ms": 158102,
       "name": "Street Code",
       "url": "https://open.spotify.com/track/4JPca6KuwKSbRLNETFwph2"
+    },
+    {
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/3EU6GtdcYGIzr9PUgyZ2Zj"
+      },
+      "artists": [
+        {
+          "name": "Mohitveer",
+          "url": "https://open.spotify.com/artist/6vNSM04FjZ9F2wSVk1b1AQ"
+        },
+        {
+          "name": "4TheWorld",
+          "url": "https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109333,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/7fOMw5zbbJNRkva0gRsnS5"
     },
     {
       "album": {

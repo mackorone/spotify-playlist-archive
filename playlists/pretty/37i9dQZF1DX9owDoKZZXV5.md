@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,335 likes - 52 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,434 likes - 52 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 | 51 | [Sweet Dreams \(feat\. Miguel\) \(Sped Up\)](https://open.spotify.com/track/7L8BByIqkjZFblBRTCfZie) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(zzZ Remixes\)](https://open.spotify.com/album/0Xrer7BRN2vxSqEbdreehr) | 2:29 |
 | 52 | [Sweet Dreams \(feat\. Miguel\) \(Slowed Down\)](https://open.spotify.com/track/7rSl7gqDI4Cw7nB4IgUOfX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(zzZ Remixes\)](https://open.spotify.com/album/0Xrer7BRN2vxSqEbdreehr) | 3:25 |
 
-Snapshot ID: `AAAAAERyxnHGNYWN8uOvparyL3kvTPzH`
+Snapshot ID: `aCNCfQAAAAAkrx7FrjJx4wPnXXtQlaJu`

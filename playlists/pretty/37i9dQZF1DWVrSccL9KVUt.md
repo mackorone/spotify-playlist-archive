@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Jamie McDonald
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,632 likes - 74 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,689 likes - 74 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 73 | [Unfailing Love](https://open.spotify.com/track/5A5hBU0FeAfdFcdhC34brZ) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Night Vision: Psalms of Rest](https://open.spotify.com/album/7kHQZ2uXAswB2I66gYQ0Wq) | 5:30 |
 | 74 | [Highlands \(Song of Ascent\)](https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Songs I've Needed](https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO) | 6:31 |
 
-Snapshot ID: `aBRrtwAAAAAQc9hWcvpoozLJtLgurLeU`
+Snapshot ID: `aBRrtwAAAAAik8BdGF7x76W7NH43o2uj`

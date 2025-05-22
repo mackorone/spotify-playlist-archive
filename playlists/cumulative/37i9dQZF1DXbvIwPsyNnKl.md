@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, Young Blood Neet
 
-255 songs - 14 hr 27 min
+256 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,11 +127,12 @@
 | [KARMEN](https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [KARMEN](https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU) | 3:47 | 2025-04-02 |  |
 | [Kendeng \- Spotify Singles](https://open.spotify.com/track/5BAvRy2t4VEyl4sAhg92of) | [Morobeats](https://open.spotify.com/artist/7KQiKk7w5wQQp7nATlmXEL) | [Kendeng \(Spotify Singles\)](https://open.spotify.com/album/1eNDHRcQr7cOO6xUIn09jI) | 2:59 | 2023-09-23 | 2024-01-18 |
 | [KG](https://open.spotify.com/track/3311oX5J2qJAyiuuDLpTxP) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks) | [KG](https://open.spotify.com/album/7vLdKTCbTcm4GV2AyKEwBj) | 3:31 | 2023-09-20 | 2023-11-02 |
+| [Kukuhanin Ko](https://open.spotify.com/track/0wpIbkaJPErLFhf8I4s4oA) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Kukuhanin Ko](https://open.spotify.com/album/4TbSe5yqEOczMXy7mkSwVQ) | 3:02 | 2025-05-21 |  |
 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 | 2024-05-24 |  |
 | [Kung Ganito](https://open.spotify.com/track/2l3wgWqT4e5qcDMMYetMwM) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Kung Ganito](https://open.spotify.com/album/4fvpdJENnW1dLZBxOoo0gt) | 3:08 | 2025-03-05 |  |
 | [Kung Sakin Ka Lang](https://open.spotify.com/track/70AlmIH3Ld5b6R1JGILbpK) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Kung Sakin Ka Lang](https://open.spotify.com/album/7m5vwlRbBZmR7l9HHpe4j8) | 3:34 | 2024-09-26 | 2024-12-05 |
 | [Kung Tayo'y Magkasama](https://open.spotify.com/track/6R1yOtE8wWZCezNDMGkd71) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd) | [Kung Tayo'y Magkasama](https://open.spotify.com/album/3KIfo5GhGEgoR948d6qLR6) | 2:41 | 2024-09-26 | 2024-12-19 |
-| [Kwentuhan](https://open.spotify.com/track/3Um2ftIhNgD2YpqhlMgd69) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Kwentuhan](https://open.spotify.com/album/5NZI0BD3B7Gs3Ouy14qp9u) | 3:25 | 2025-01-22 |  |
+| [Kwentuhan](https://open.spotify.com/track/3Um2ftIhNgD2YpqhlMgd69) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Kwentuhan](https://open.spotify.com/album/5NZI0BD3B7Gs3Ouy14qp9u) | 3:25 | 2025-01-22 | 2025-05-22 |
 | [La Luna](https://open.spotify.com/track/5vUp3dbqvs1pGMURHVhkjY) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Ron Henley](https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f) | [La Luna](https://open.spotify.com/album/32xyVyuVCNv9fBAHUZ7G1v) | 6:02 | 2024-10-09 | 2025-01-16 |
 | [Lagabog](https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lagabog](https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC) | 3:06 | 2024-01-31 | 2024-09-12 |
 | [LANGIT](https://open.spotify.com/track/5tStP14hZgfFSRNabmrV0c) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [LANGIT](https://open.spotify.com/album/5z0V6Kj8JJY0vvN0VHsRL1) | 4:03 | 2025-01-29 |  |

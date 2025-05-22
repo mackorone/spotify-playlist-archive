@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Damiano David, Rihanna et Aya Nakamura x Joé Dwèt Filé au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,544 likes - 104 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,510 likes - 104 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Eli Brown
 
-812 songs - 1 day 20 hr 11 min
+813 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Horny](https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Horny](https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N) | 3:02 | 2024-09-20 |  |
 | [Hostile](https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 2:33 | 2023-04-28 | 2024-02-10 |
 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-01 | 2024-05-25 |
-| [Hot One](https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Distortion Theory](https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1) | 3:28 | 2024-12-06 |  |
+| [Hot One](https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Distortion Theory](https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1) | 3:28 | 2024-12-06 | 2025-05-22 |
 | [Hov](https://open.spotify.com/track/0TyAdWCeWxjOy4ve1AajDl) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [100m's](https://open.spotify.com/artist/3DqGUfCidr1acIyds7GWxl) | [Hov](https://open.spotify.com/album/4XJojTas5NZRk04xXbVZBc) | 2:31 | 2022-02-25 | 2022-04-02 |
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2022-09-03 |
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-02-18 | 2022-06-25 |
@@ -580,6 +580,7 @@
 | [Prayers](https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Prayers](https://open.spotify.com/album/1l5hWqjF2bmh6NgduCsMwj) | 3:20 | 2022-01-14 | 2022-01-29 |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-09-06 | 2024-12-07 |
 | [Psychedelic Girls](https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Psychedelic Girls](https://open.spotify.com/album/0kjg5HYPH9fM4gwTWTOaWD) | 2:52 | 2022-11-25 | 2023-04-02 |
+| [Psycho](https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [Psycho](https://open.spotify.com/album/4JyaETaIsWXgsfTcRl2gCS) | 3:06 | 2025-05-16 |  |
 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 | 2022-05-13 | 2022-08-20 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-06-07 |  |
 | [Push Back](https://open.spotify.com/track/1abkz5B60wdzngFnSRoTIZ) | [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Push Back](https://open.spotify.com/album/5R5fFXSqVOD82AZcp1fGvy) | 3:12 | 2022-04-01 | 2022-07-16 |

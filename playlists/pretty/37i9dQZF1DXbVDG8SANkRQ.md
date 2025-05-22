@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVDG8SANkRQ.md) - [plain]
 
 > Listen to the soundtracks of The Atypical Family\. \(히어로는 아닙니다만의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,759 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,766 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVDG8SANkRQ.md) - [plain]
 | 29 | [I See You \- Instrumental](https://open.spotify.com/track/7mdsu3BEFTAFym6AoPYVQs) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP) | 4:28 |
 | 30 | [Laputa \- Instrumental](https://open.spotify.com/track/6QSpGalR1z65Zdz3lv3Frt) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 |
 
-Snapshot ID: `AAAAAC7jzrBSZSkQ9OXXAPhP0W4yi0hn`
+Snapshot ID: `ZlQ6/AAAAAD/EKcfJoUq1EYdRol0O9Iz`

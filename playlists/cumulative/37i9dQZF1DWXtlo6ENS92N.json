@@ -1977,6 +1977,32 @@
     },
     {
       "album": {
+        "name": "Laal Pari (From \"Housefull 5\")",
+        "url": "https://open.spotify.com/album/3Z3pyPT3n8DtJyEtvAnm8L"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Alfaaz",
+          "url": "https://open.spotify.com/artist/1xHIVVHhwnuYe0uCAip33C"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256148,
+      "name": "Laal Pari (From \"Housefull 5\")",
+      "url": "https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis"
+    },
+    {
+      "album": {
         "name": "Leke Prabhu Ka Naam (From \"Tiger 3\")",
         "url": "https://open.spotify.com/album/2IP7pUCOazIHCAbK9eJNcu"
       },
@@ -3714,7 +3740,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 274000,
       "name": "Tera Chehra",
       "url": "https://open.spotify.com/track/2Ul0NiluAcBWG6BJBl40sT"

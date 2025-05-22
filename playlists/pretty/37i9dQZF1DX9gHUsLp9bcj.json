@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 41671,
+  "num_followers": 41688,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "El Rey del Mambo",
-        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado y Su Gran Orquesta",
-          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Que Rico el Mambo",
-      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 212160,
       "name": "Ruega por Nosotros",
       "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "El Rey del Mambo",
+        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Que Rico el Mambo",
+      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Canciones de la Radio, Vol. 2",
-        "url": "https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI"
-      },
-      "artists": [
-        {
-          "name": "Ana Mar\u00eda Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "Espinita",
-      "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 117080,
       "name": "Record\u00e1ndote",
       "url": "https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Canciones de la Radio, Vol. 2",
+        "url": "https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI"
+      },
+      "artists": [
+        {
+          "name": "Ana Mar\u00eda Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
+        }
+      ],
+      "duration_ms": 141626,
+      "name": "Espinita",
+      "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
     }
   ],
   "unique_name": "Los 50s",

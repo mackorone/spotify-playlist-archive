@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACzNxOdxAqv+P/3yHptdEaU",
+  "snapshot_id": "AAAAAAAAAADU3BIgskTLDE4sZY4fGBGw",
   "tracks": [
     {
       "added_at": "2025-05-16 04:00:00",
@@ -31,22 +31,6 @@
       "duration_ms": 161093,
       "name": "Everybody Gets Down",
       "url": "https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "13 Months of Sunshine",
-        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -103,6 +87,22 @@
       "duration_ms": 210960,
       "name": "Leave Me Alone (ft. Dr. Dre & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4F3KSgun31tWMRP0eI8pnv"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "13 Months of Sunshine",
+        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -167,26 +167,18 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/61q5IyfWNqL2uuhv6w1t7l"
+        "name": "That's So True",
+        "url": "https://open.spotify.com/album/5HJvRZRLcRJWCUtNxij7jk"
       },
       "artists": [
         {
-          "name": "Homeboy Sandman",
-          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
-        },
-        {
-          "name": "Brand The Builder",
-          "url": "https://open.spotify.com/artist/2ov2DAAF9BCWCHlpD98Ksx"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 176500,
-      "name": "Artillery",
-      "url": "https://open.spotify.com/track/4tiqaTw3nuFx1sOEXKHJSy"
+      "duration_ms": 161146,
+      "name": "That's So True",
+      "url": "https://open.spotify.com/track/1lGHekpbRzDCaWqn3PgLoH"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -215,6 +207,30 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/61q5IyfWNqL2uuhv6w1t7l"
+      },
+      "artists": [
+        {
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+        },
+        {
+          "name": "Brand The Builder",
+          "url": "https://open.spotify.com/artist/2ov2DAAF9BCWCHlpD98Ksx"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Artillery",
+      "url": "https://open.spotify.com/track/4tiqaTw3nuFx1sOEXKHJSy"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Doom Scrolling",
         "url": "https://open.spotify.com/album/6usJURlumlMlqm7VkmAat9"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 162000,
       "name": "You Better Calm Down",
       "url": "https://open.spotify.com/track/7mXns6x8FZcwvaTrxyt3QI"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "That's So True",
-        "url": "https://open.spotify.com/album/5HJvRZRLcRJWCUtNxij7jk"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "That's So True",
-      "url": "https://open.spotify.com/track/1lGHekpbRzDCaWqn3PgLoH"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Like Crying: The Songs of Danny Kirwan",
+        "url": "https://open.spotify.com/album/0lSd1hZaG62VvH2XZSmWg6"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 165754,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/2RKXaYI00vF1YpzRBWPpEd"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Divine Mother Universe",
         "url": "https://open.spotify.com/album/00zE9zC5sGd3EFe8Ihux4c"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 966536,
       "name": "Divine Mother Universe",
       "url": "https://open.spotify.com/track/1JrBwKXoUlAy8yOxdVhDA5"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "Like Crying: The Songs of Danny Kirwan",
-        "url": "https://open.spotify.com/album/0lSd1hZaG62VvH2XZSmWg6"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 247094,
-      "name": "Trinity - Mono Version",
-      "url": "https://open.spotify.com/track/0r6d8zHVOGbPONSEyraqcX"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6eY3iWkORpXneyqVGuZfCl"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Kevin Church Johnson",
-          "url": "https://open.spotify.com/artist/5S1hbwEjtW25T5i0yBrPB7"
-        }
-      ],
-      "duration_ms": 243832,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/3eEMjHON9ygeQlaaTU9J51"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Pinball II",
         "url": "https://open.spotify.com/album/7H4y33iaBpDJ5QqlCULlMR"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 166105,
       "name": "Jumanji - feat. Earl Sweatshirt",
       "url": "https://open.spotify.com/track/0gHXr4WqGY8VK1sNApTbpH"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6eY3iWkORpXneyqVGuZfCl"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Kevin Church Johnson",
+          "url": "https://open.spotify.com/artist/5S1hbwEjtW25T5i0yBrPB7"
+        }
+      ],
+      "duration_ms": 243832,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/3eEMjHON9ygeQlaaTU9J51"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -571,22 +571,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Teriyaki Hockey",
-        "url": "https://open.spotify.com/album/6Ib90pxJnmhuvWKzYIq3lu"
+        "name": "Immortals",
+        "url": "https://open.spotify.com/album/2VRoycF0yKgwpogZuVvuhi"
       },
       "artists": [
         {
-          "name": "DR. Moriarity",
-          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+          "name": "DJ Flipcyide",
+          "url": "https://open.spotify.com/artist/2ZEoVkriVtu0SdMhMSqVie"
         },
         {
           "name": "Action Bronson",
           "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         }
       ],
-      "duration_ms": 184285,
-      "name": "Teriyaki Hockey",
-      "url": "https://open.spotify.com/track/10WSM6EwpfO5MVKu1NN84O"
+      "duration_ms": 116640,
+      "name": "Immortals",
+      "url": "https://open.spotify.com/track/0zOihokXmECr7l0jOC6Bob"
     },
     {
       "added_at": "2025-05-16 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,778 likes - 212 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,808 likes - 212 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 211 | [Parallax](https://open.spotify.com/track/3WsMHhSxx2jLjbaRfFLkTc) | [Solar Collective](https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC) | [Parallax](https://open.spotify.com/album/6OemA09an0HB1cpfvm1ibw) | 2:32 |
 | 212 | [Nostalgia](https://open.spotify.com/track/3umWVESQAMH0rKgczQUsbU) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Nostalgia](https://open.spotify.com/album/66lyZsgpXQ7QjN5wzIPu0r) | 2:04 |
 
-Snapshot ID: `aCctMwAAAADm4omzZq/+lOr22ygDoKQl`
+Snapshot ID: `aCctMwAAAADFXDuQP10VK2PH4eErN0uz`

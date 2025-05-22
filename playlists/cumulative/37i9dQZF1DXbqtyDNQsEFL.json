@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Sustained By Grace",
+        "url": "https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV"
+      },
+      "artists": [
+        {
+          "name": "Musa Yende",
+          "url": "https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526294,
+      "name": "Awudeli Kimi - Live At The Octagon / 2024",
+      "url": "https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30"
+    },
+    {
+      "album": {
         "name": "B'ola (Live)",
         "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 208588,
       "name": "Blessing Now",
       "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 224070,
       "name": "El-Roi",
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
@@ -10600,7 +10618,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 165524,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3"

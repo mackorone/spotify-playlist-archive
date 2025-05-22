@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Tani Yuuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,186 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,203 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 33 | [Ready Go](https://open.spotify.com/track/3DXsJF9I3rmb4tzTaavbpT) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/63Fi9c3GqnaR2aTbm4lR5D) | 3:20 |
 | 34 | [ONE SPARK \- Japanese ver.](https://open.spotify.com/track/1vY45c20uSTeGq7ZTfJtzT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE5 \(Japanese ver.\)](https://open.spotify.com/album/7H559hhWLuJbRWRJlQTFRG) | 3:03 |
 | 35 | [Ghost](https://open.spotify.com/track/37qlRGMmN1tStZS0elymXg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Ghost](https://open.spotify.com/album/0aA475GObe8VCZvHRRloxK) | 3:02 |
-| 36 | [DOSHABURI \- PAS TASTA Remix](https://open.spotify.com/track/3viw0dgiavzIFmsQeFsm3r) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [DOSHABURI \(PAS TASTA Remix\)](https://open.spotify.com/album/13FVOSJLA7OHIN3A0Hy8Lr) | 2:58 |
+| 36 | [DOSHABURI \- PAS TASTA Remix](https://open.spotify.com/track/3viw0dgiavzIFmsQeFsm3r) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/13FVOSJLA7OHIN3A0Hy8Lr) | 2:58 |
 | 37 | [Haku](https://open.spotify.com/track/2LdYzK2rSbYbFY0ns69MYs) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Haku](https://open.spotify.com/album/7zQz8tOfsdNh3TnG2swhEN) | 2:12 |
 | 38 | [scenario](https://open.spotify.com/track/4tHA7MVHkMnA9hOfkVLvrk) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Taro Ishida](https://open.spotify.com/artist/1nvWvHHNSq13HJqwgsrnUZ) | [scenario](https://open.spotify.com/album/0g9s7TT2BFeFHFDLFybN6L) | 4:11 |
 | 39 | [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 |

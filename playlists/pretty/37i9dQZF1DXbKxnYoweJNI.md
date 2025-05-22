@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 忒修斯 \(Theseus\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,801 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,800 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 111 | [遊子的懺悔](https://open.spotify.com/track/2Q8sAEstUYzoTf2TksonLQ) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ), [蒙捷文](https://open.spotify.com/artist/1V2T2QKA9HjUCCwkoc1BIO) | [遊子的懺悔](https://open.spotify.com/album/0GWM52M664nUl75QChicuc) | 4:40 |
 | 112 | [你攏無咧看](https://open.spotify.com/track/4zwH19vF3mcY1dBqQxYpke) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [你攏無咧看](https://open.spotify.com/album/0rqni7SlOcg8nIYBhyq6Q4) | 3:18 |
 | 113 | [帶你去逛街 \(feat.蕭煌奇\)](https://open.spotify.com/track/3JTx7NxojYSggGyZhon766) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt), [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [名偵探琳誼 My Ring World](https://open.spotify.com/album/01OzFy3prsO80wGvPFavMn) | 4:11 |
-| 114 | [真不懂為啥又emoㄌ](https://open.spotify.com/track/0U2xVv5i8JddIPobKNuaev) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [真不懂為啥又emoㄌ](https://open.spotify.com/album/3VZvrik2kpghuw4aoeltXQ) | 2:29 |
+| 114 | [真不懂為啥又emo了](https://open.spotify.com/track/0U2xVv5i8JddIPobKNuaev) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [真不懂為啥又emo了](https://open.spotify.com/album/3VZvrik2kpghuw4aoeltXQ) | 2:29 |
 | 115 | [心裡那個Gangsta](https://open.spotify.com/track/7ae66XjRoYEgtPWza085kD) | [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9), [JL22](https://open.spotify.com/artist/0Ysd9RYTjO0w8rh9jpeiEV) | [心裡那個Gangsta](https://open.spotify.com/album/0EcXMr2r0QJoYUwWTA114E) | 2:46 |
 | 116 | [你是不是也喜歡我呀](https://open.spotify.com/track/31EQynCoQ3lgJpzVRZ3zIh) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [你是不是也喜歡我呀](https://open.spotify.com/album/11vaozmZ6kNwho7D3PbvxY) | 4:48 |
 | 117 | [99 Problems](https://open.spotify.com/track/3pXhvUkwzUvgBRLN2NLisy) | [Asiaboy 禁藥王](https://open.spotify.com/artist/13GpGsJPepoQrA2Xk7r0q5) | [99 Problems](https://open.spotify.com/album/0MoBlpwncjI7uDB9KaMDqm) | 3:57 |

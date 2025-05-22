@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-986 songs - 2 day 7 hr 36 min
+987 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Madara](https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Madara](https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl) | 3:51 | 2022-10-31 | 2023-01-24 |
 | [Madness](https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Madness](https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE) | 2:55 | 2022-03-11 | 2022-05-26 |
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-11-19 | 2022-02-03 |
+| [Make Believe](https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Make Believe](https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o) | 3:45 | 2025-05-21 |  |
 | [Make You Mine](https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW), [Indi Starling](https://open.spotify.com/artist/7dUCSkUMN048CYGYKfjDZe) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 2:49 | 2022-10-26 | 2023-01-19 |
 | [Malibu](https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [California Sessions](https://open.spotify.com/album/4JuvwXDh08DajGwNrvVoOH) | 3:44 | 2022-06-01 | 2022-08-12 |
 | [Malva](https://open.spotify.com/track/0ggSBp3T5MbFG1bggJ3GL3) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:22 | 2022-11-09 | 2023-02-04 |

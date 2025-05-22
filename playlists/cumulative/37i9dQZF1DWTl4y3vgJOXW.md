@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Shai Gilgeous\-Alexander and Anthony Edwards
+> Fourth quarter, two minutes left .\. get locked in\. Cover: NBA MVP Shai Gilgeous\-Alexander
 
 808 songs - 1 day 17 hr 34 min
 

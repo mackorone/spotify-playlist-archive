@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,285 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,312 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 22 | [Fairy Tale Library](https://open.spotify.com/track/1IPJ4i89RPAkg3TyRUrtK5) | [fine](https://open.spotify.com/artist/2HITkH8f0R5lC0uR1QgyI9), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [fine「Fairy Tale Library」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/53hOfB0pGFBGTP98otdyLP) | 3:30 |
 | 23 | [天翔KAGETSU](https://open.spotify.com/track/30oVnFACmUWY6T0p4bpIIv) | [紅月](https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs), [滝 維吹](https://open.spotify.com/artist/6cJawTUAmqxwEPd9NHHnvs) | [あんさんぶるスターズ！！ ESアイドルソング season5 紅月 with 滝 維吹 「天翔KAGETSU」](https://open.spotify.com/album/6l6hNNK95i6rVQkCmbi20R) | 4:04 |
 | 24 | [あんさんぶるスターズ！！ Love∞Scramble「両片思いの交差点で、君にまた逢いたくて」 \(Instrumental\)](https://open.spotify.com/track/2peA1KdBw3pmDqrnXwfI3n) | [Love∞Scramble](https://open.spotify.com/artist/530vyrjeFLJU163awYCLU7), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ Love∞Scramble「両片思いの交差点で、君にまた逢いたくて」 \(Instrumental\)](https://open.spotify.com/album/6HCQeCSQSz8tkubFWK5VQt) | 4:45 |
-| 25 | [スキスキハンター♡](https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh) | [Special for Princess!](https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3) | [スキスキハンター♡](https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn) | 3:58 |
-| 26 | [Foolish Alien](https://open.spotify.com/track/1MmoBTdCdBAWMTCq0TkTDN) | [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:15 |
+| 25 | [Foolish Alien](https://open.spotify.com/track/1MmoBTdCdBAWMTCq0TkTDN) | [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:15 |
+| 26 | [スキスキハンター♡](https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh) | [Special for Princess!](https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3) | [スキスキハンター♡](https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn) | 3:58 |
 | 27 | [Across the universe](https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:32 |
 | 28 | [SunnyTrip Summer](https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml) | [ALKALOID](https://open.spotify.com/artist/1gbL5yRuV5ygOEe5wVBkdK), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [ALKALOID「SunnyTrip Summer」あんさんぶるスターズ！！ ESアイドルソング Season5](https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy) | 3:31 |
 | 29 | [プリティのススメ♡](https://open.spotify.com/track/60mvU2t9ThXv5bSlVugniv) | [巴 日和 \(CV.花江 夏樹\)](https://open.spotify.com/artist/544MQLeLvGDKnwNc4gq4DS), [影片 みか\(CV.大須賀 純\)](https://open.spotify.com/artist/6YXI41MVTfQ2DYyXLhm0FE), [鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/6OURI3uza8OUxggJF9wish), [姫宮 桃李\(CV.村瀬 歩\)](https://open.spotify.com/artist/6idlDSmmhwFjyoyrVlPulm), [白鳥 藍良\(CV.天﨑 滉平\)](https://open.spotify.com/artist/5YkXOewDmvbgd6oI8FDkbZ) | [あんさんぶるスターズ！！ バラエティソングシリーズ 究極の9曲 「プリティのススメ♡」](https://open.spotify.com/album/6b9EPx8j0LIjKGOVrfVqPc) | 3:20 |

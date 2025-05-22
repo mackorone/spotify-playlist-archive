@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from Zwangere Guy
+> New music from Zwangere Guy, Aya Nakamura and Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,485 likes - 105 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,495 likes - 105 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 104 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 |
 | 105 | [Ethereal Agony](https://open.spotify.com/track/08gwgWis1Y8OWij9f52LMj) | [BREEO](https://open.spotify.com/artist/60GmXj0bEgusvkcju6BYzp) | [Ethereal Agony](https://open.spotify.com/album/4T5DemspwsWPA3C20d3D5w) | 3:20 |
 
-Snapshot ID: `aCbmjgAAAACWjk20BqgZ8pLZGg2S0LCP`
+Snapshot ID: `aC3RoQAAAABZZyOPV1dEiRPPynyg/Qzb`

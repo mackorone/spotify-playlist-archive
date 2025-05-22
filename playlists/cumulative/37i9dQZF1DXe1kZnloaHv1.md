@@ -4,13 +4,14 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-85 songs - 4 hr 33 min
+87 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Because we\) Fall in Love](https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Polar](https://open.spotify.com/album/7ksHT5o2iwBZr0kDYL4LSa) | 3:06 | 2023-11-09 |  |
 | [0%](https://open.spotify.com/track/0icOs4M7c2T5bcXJhkugww) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Observe](https://open.spotify.com/album/07IjUwHMGJZvlWafbHg6Sm) | 3:16 | 2025-04-16 |  |
 | [30](https://open.spotify.com/track/63PTI4RY0rVOA6qbNs1PPe) | [Kisum](https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW) | [30](https://open.spotify.com/album/19Z7Yg0RdX5Z4YnJKL4yvd) | 2:50 | 2024-04-17 |  |
+| [ABCDEFG](https://open.spotify.com/track/0LMRmQKSqfpSPUfhm1T14m) | [YUN:ON](https://open.spotify.com/artist/6yuabyX2qxNTeUTQAHCcnM) | [ABCDEFG](https://open.spotify.com/album/79GnqGWm4Bqaz1oO9It55w) | 2:37 | 2025-05-22 |  |
 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 | 2023-11-09 |  |
 | [Backstage Story](https://open.spotify.com/track/3bLybaAVj2CSDUWMiHykEa) | [오상아](https://open.spotify.com/artist/1J00c4vzJdwmgNAIIjcYQH) | [Backstage Story\(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tWaMl4sj53AGpqTwYnA1u) | 3:18 | 2023-11-09 | 2025-05-08 |
 | [Baep Sae](https://open.spotify.com/track/5bjv9H1rZGZBuR6Rx2DPal) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [It's Okay, Dear](https://open.spotify.com/album/2MoJZKoJwnJh1X9a34usAC) | 3:20 | 2024-04-17 |  |
@@ -18,9 +19,9 @@
 | [Beap Sea](https://open.spotify.com/track/5j3LJr4O7RkhBmxCsjwpXZ) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [It's Okay, Dear](https://open.spotify.com/album/5JKIbI8IWlQ5fXddhnT0xE) | 3:20 | 2023-11-09 | 2024-04-19 |
 | [Because of Drinking](https://open.spotify.com/track/2ike0PkIoeAHpWZnWDuAsX) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [Because of Drinking](https://open.spotify.com/album/5qL4VOjX5PwYBa1qHG1vJB) | 3:14 | 2023-11-09 |  |
 | [Birthday](https://open.spotify.com/track/6MEUjaZJqKQpjTnmMi2wh1) | [Puer Kim](https://open.spotify.com/artist/3zeIa8DBS4RLjSb5oXwcUP) | [I'm Sorry and Congratulations](https://open.spotify.com/album/4vw92ZDmek6fC9ngrfnLfD) | 2:31 | 2023-11-09 |  |
-| [Blue Frog \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/05mUYNwDJBeUdWv94njtDN) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:27 | 2023-11-09 |  |
+| [Blue Frog \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/05mUYNwDJBeUdWv94njtDN) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:27 | 2023-11-09 | 2025-05-22 |
 | [BLUE GIANT](https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [BLUE GIANT](https://open.spotify.com/album/3rEUlorNRsBYyAY5oAmBg3) | 5:04 | 2023-11-09 |  |
-| [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2023-11-09 |  |
+| [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2023-11-09 | 2025-05-22 |
 | [Breeze](https://open.spotify.com/track/3bkSpl9J6jPIkJF79204cd) | [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Breeze](https://open.spotify.com/album/6mAKz4Er700vwjc5EKU3zf) | 3:35 | 2023-11-09 |  |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-11-09 |  |
 | [Burned out](https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:06 | 2024-04-17 |  |
@@ -38,6 +39,7 @@
 | [Friday to Monday](https://open.spotify.com/track/4Krv5sqJVJ3jrSP15bC6mU) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/7okamLcUdT1FpqHEW9231G) | 3:02 | 2023-11-09 |  |
 | [Go with the flow](https://open.spotify.com/track/2WlWB81gbLbqyF2NbCngfZ) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:32 | 2023-11-09 | 2024-04-19 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2024-04-17 |  |
+| [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
 | [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 |  |
 | [Honbob Song](https://open.spotify.com/track/7cgrqYqcpuVvkRUxoj1Dgw) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Honbob Song](https://open.spotify.com/album/5iszn5kAurpExmM5Ar8IgQ) | 2:50 | 2023-11-09 |  |
 | [I LUV IT](https://open.spotify.com/track/0sEWGO1ajAmgln6B4lkuKb) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 8th 4X2=8](https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi) | 3:08 | 2023-11-09 | 2025-04-09 |

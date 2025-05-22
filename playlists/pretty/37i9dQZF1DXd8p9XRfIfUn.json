@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 79510,
+  "num_followers": 79522,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
         "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1203,26 +1203,26 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Tanto Fronteo",
-        "url": "https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp"
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/31SngBc9PCn2qDix3g745R"
       },
       "artists": [
         {
-          "name": "King Goyi",
-          "url": "https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs"
+          "name": "Young Martino",
+          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
         },
         {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Team Mati",
-          "url": "https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2"
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 297073,
-      "name": "Tanto Fronteo",
-      "url": "https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk"
+      "duration_ms": 217021,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

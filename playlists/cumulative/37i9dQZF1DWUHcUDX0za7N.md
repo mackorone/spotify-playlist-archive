@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Dan Dizzy
 
-583 songs - 1 day 3 hr 30 min
+584 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 | 2024-02-12 |
 | [Back To Basics](https://open.spotify.com/track/4CYZ8PB4YzsidixvytgdMa) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 2:59 | 2022-06-20 | 2022-11-25 |
 | [Bad Belle \(feat\. Moti Cakes\)](https://open.spotify.com/track/5YGFxH8uKoK4kR2s6WdIUG) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Moti Cakes](https://open.spotify.com/artist/4SdX4OFzlMOeYztkmhJ5gX) | [The Chairman](https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM) | 3:12 | 2022-10-14 | 2022-10-29 |
-| [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 | 2024-12-06 |  |
+| [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 | 2024-12-06 | 2025-05-22 |
 | [Bad Character \- Remix](https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [2 Pac](https://open.spotify.com/album/7nVSprHJxzWVvVdlD4YP4D) | 5:00 | 2023-09-29 | 2023-12-22 |
 | [Bad Design](https://open.spotify.com/track/77d2unihXnydqo5vWeFGEo) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:45 | 2022-09-30 | 2022-11-19 |
 | [Bad Persin](https://open.spotify.com/track/5EMK0EERtn8qQw4Q5xM1cv) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Bad Persin](https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX) | 3:25 | 2023-05-26 | 2023-09-16 |
@@ -235,6 +235,7 @@
 | [He Giving \(Peanut Butter\)](https://open.spotify.com/track/6QofVfC8g2tHTPAAbph5dB) | [Flacco Slimm](https://open.spotify.com/artist/4nSZTT5PiF6Z0ZMNutv9Lc), [So$aVelli](https://open.spotify.com/artist/63UPhT8Csv9ooIbyDA8SX8) | [He Giving \(Peanut Butter\)](https://open.spotify.com/album/4lDYrp0soykAyj504iNWEH) | 2:35 | 2023-06-16 | 2023-06-23 |
 | [Head Over Heels](https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:15 | 2022-09-30 | 2023-02-24 |
 | [Heaven's Gate \(feat\. Lily Allen\)](https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:22 | 2022-10-14 | 2022-10-29 |
+| [Hei God](https://open.spotify.com/track/1u6HuhlBtbiUeN5Y4I4IVP) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Hei God](https://open.spotify.com/album/6D9NddrRn6exZWm0F2ojvp) | 2:37 | 2025-05-16 |  |
 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 |  |
 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 |  |
 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-20 | 2023-07-28 |

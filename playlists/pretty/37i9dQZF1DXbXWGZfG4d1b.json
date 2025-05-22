@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24251,
+  "num_followers": 24256,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Arco y Flecha",
-        "url": "https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 163496,
-      "name": "Caballos",
-      "url": "https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "La Dinast\u00eda Scorpio",
         "url": "https://open.spotify.com/album/33szFJNdxgVGQa518rOohL"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 253520,
       "name": "M\u00e1s o Menos Bien",
       "url": "https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Arco y Flecha",
+        "url": "https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 163496,
+      "name": "Caballos",
+      "url": "https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "general paz",
-        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+        "name": "Pacto",
+        "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+          "name": "Rocco Posca",
+          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
         }
       ],
-      "duration_ms": 169581,
-      "name": "General Paz",
-      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+      "duration_ms": 183879,
+      "name": "Pacto",
+      "url": "https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -655,34 +655,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Pacto",
-        "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
+        "name": "general paz",
+        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
       },
       "artists": [
         {
-          "name": "Rocco Posca",
-          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
         }
       ],
-      "duration_ms": 183879,
-      "name": "Pacto",
-      "url": "https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+      "duration_ms": 169581,
+      "name": "General Paz",
+      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -699,6 +683,22 @@
       "duration_ms": 195410,
       "name": "Malos Sentimientos",
       "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "A Veces Casi",
-        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
-      },
-      "artists": [
-        {
-          "name": "Viva Elastico",
-          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "A Veces Casi",
-      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Lapso",
         "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 185314,
       "name": "Tanto Az\u00facar",
       "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "A Veces Casi",
+        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "A Veces Casi",
+      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -819,30 +819,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
-        "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
-      },
-      "artists": [
-        {
-          "name": "Recreo Uruguayo",
-          "url": "https://open.spotify.com/artist/3jqihnUiBnGtwsqjYVVXZ1"
-        },
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        },
-        {
-          "name": "Justo B Fornaroli",
-          "url": "https://open.spotify.com/artist/5hIcFzrzUvL4n6Ntz1draz"
-        }
-      ],
-      "duration_ms": 124992,
-      "name": "Nokia 1100 (Recreo's Version)",
-      "url": "https://open.spotify.com/track/69yHFCm63qP6ivEm9SIARG"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Lpm",
         "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 135189,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
+        "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
+      },
+      "artists": [
+        {
+          "name": "Recreo Uruguayo",
+          "url": "https://open.spotify.com/artist/3jqihnUiBnGtwsqjYVVXZ1"
+        },
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        },
+        {
+          "name": "Justo B Fornaroli",
+          "url": "https://open.spotify.com/artist/5hIcFzrzUvL4n6Ntz1draz"
+        }
+      ],
+      "duration_ms": 124992,
+      "name": "Nokia 1100 (Recreo's Version)",
+      "url": "https://open.spotify.com/track/69yHFCm63qP6ivEm9SIARG"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "malas decisiones",
-        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 180989,
-      "name": "malas decisiones",
-      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 244195,
       "name": "DOSMILUNO",
       "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "malas decisiones",
+        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 180989,
+      "name": "malas decisiones",
+      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 171272,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "El Discreto Encanto de la Melod\u00eda",
+        "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
+      },
+      "artists": [
+        {
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Somos Diferentes",
+      "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Hipercandombe",
         "url": "https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 266862,
       "name": "Hipercandombe",
       "url": "https://open.spotify.com/track/0W3bp85BMhC5Gxb1s9JY7u"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "El Discreto Encanto de la Melod\u00eda",
-        "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
-      },
-      "artists": [
-        {
-          "name": "Saturno y la Melancol\u00eda",
-          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Somos Diferentes",
-      "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "VOLVER A CERO",
+        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "VOLVER A CERO",
+      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Creo que necesito ir a dar una vuelta",
         "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
       },
@@ -1407,38 +1423,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "No digas que no te avis\u00e9",
-        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 266472,
-      "name": "No digas que no te avis\u00e9",
-      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "VOLVER A CERO",
-        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
-      },
-      "artists": [
-        {
-          "name": "Dante Ouvi\u00f1a",
-          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "VOLVER A CERO",
-      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Donde nac\u00ed",
         "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 231270,
       "name": "Donde nac\u00ed",
       "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "No digas que no te avis\u00e9",
+        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "duration_ms": 266472,
+      "name": "No digas que no te avis\u00e9",
+      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Exquisito como el Disgusto",
+        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+      },
+      "artists": [
+        {
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Boca de Dama",
+      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Turbo",
         "url": "https://open.spotify.com/album/49tEJtF1IL4DTjIDmGXTSN"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 186352,
       "name": "Turbo",
       "url": "https://open.spotify.com/track/3gKDYEoRzHmeIL8B5yuILr"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Exquisito como el Disgusto",
-        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
-      },
-      "artists": [
-        {
-          "name": "Socorro",
-          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Boca de Dama",
-      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Vivo La Plata",
-        "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
-      },
-      "artists": [
-        {
-          "name": "Viva Elastico",
-          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "El Dato - Vivo La Plata",
-      "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Pastillas",
         "url": "https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 196434,
       "name": "No Est\u00e1 Mal Volar",
       "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Vivo La Plata",
+        "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "El Dato - Vivo La Plata",
+      "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
     },
     {
       "added_at": "2025-05-09 15:00:14",

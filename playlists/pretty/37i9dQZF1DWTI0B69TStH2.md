@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Świętujemy 10 lat najlepszych muzycznych odkryć od niezależnych artystów\. Cover: <a href="spotify:artist:3aIzQGnu1l0eCZSNTsl3W9">Pan Mariuszek</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,086 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,100 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

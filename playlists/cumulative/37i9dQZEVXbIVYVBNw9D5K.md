@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,207 songs - 2 day 12 hr 49 min
+1,208 songs - 2 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Boş Yere \- Lan ben sana nerden tutuldum](https://open.spotify.com/track/1hlVcQCwARlFc8fqUb0Z01) | [Can Toğrulca](https://open.spotify.com/artist/5Oublqcpyn3o6HaRJFJs3D) | [Boş Yere \- Lan ben sana nerden tutuldum](https://open.spotify.com/album/625PMAJKcpX7tHgxJfzHIK) | 3:21 | 2024-08-30 | 2024-10-13 |
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2023-11-25 | 2023-12-01 |
 | [BRAPAP](https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BRAPAP](https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx) | 2:23 | 2025-01-25 | 2025-05-03 |
+| [Bu Aşk Fazla Sana](https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kadın](https://open.spotify.com/album/5aSqHgJXiGReiPlk8BaWre) | 4:28 | 2025-05-21 |  |
 | [Bu Aşkta Zararım Var](https://open.spotify.com/track/1MsCY6QzxtZLZ7tsgRCfhX) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşkta Zararım Var](https://open.spotify.com/album/4IcObM2kZAOPyrF1mUa3hw) | 3:17 | 2021-08-22 | 2021-08-27 |
 | [Bu da Geçer mi Sevgilim](https://open.spotify.com/track/4knoybQvMTZkuTI8dWx7ZA) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bu da Geçer mi Sevgilim](https://open.spotify.com/album/1xCT8zKbhD3aur3tPjwuUq) | 3:20 | 2022-01-15 | 2022-01-21 |
 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2XY8epv0D64xqErIL21PJx) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/59w8ncxczTWGEClNIkYCuG) | 2:55 | 2024-02-17 | 2024-03-12 |
@@ -366,7 +367,7 @@
 | [Duydun Mu?](https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/1IX9ThOBRxgRFGYeh2AbuJ) | 3:41 | 2024-10-18 | 2024-12-04 |
 | [Duydun Mu?](https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/2jhvaNspa2Gh8LjDJ7vSnS) | 3:41 | 2024-10-19 | 2024-12-08 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-05-23 | 2021-06-01 |
-| [Dâr\-ı Dünya](https://open.spotify.com/track/4RJY7X7EgYVKYv0Fp1XJ3z) | [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Dâr\-ı Dünya](https://open.spotify.com/album/49bsD7RqEltdlrSSfFpbYC) | 3:36 | 2025-04-25 |  |
+| [Dâr\-ı Dünya](https://open.spotify.com/track/4RJY7X7EgYVKYv0Fp1XJ3z) | [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Dâr\-ı Dünya](https://open.spotify.com/album/49bsD7RqEltdlrSSfFpbYC) | 3:36 | 2025-04-25 | 2025-05-22 |
 | [Dön Ne Olur](https://open.spotify.com/track/6WDSYMvcKN2AsEXJ9U5xsG) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Dön Ne Olur](https://open.spotify.com/album/4fXbwXl9agxf4EWkLZZlqy) | 4:59 | 2024-01-02 | 2024-01-17 |
 | [Dönsen Bile](https://open.spotify.com/track/6Ear9bhjbNi2oaqv5qlqlM) | [Ferdi Özbeğen](https://open.spotify.com/artist/2bZXmEbQuj9XcGwgyIGuit) | [Sizin Seçtikleriniz](https://open.spotify.com/album/0yKVpD5ogZgldbE67yY7Yp) | 3:23 | 2024-12-13 |  |
 | [Düldül](https://open.spotify.com/track/6kbIemHzAcnM60eHdrUI4u) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:25 | 2023-11-08 | 2024-04-14 |
@@ -639,7 +640,7 @@
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 | 2024-08-09 | 2024-09-06 |
 | [Kader](https://open.spotify.com/track/3F0f7Sn5dKdUHJUcyh38mY) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kader](https://open.spotify.com/album/1WqBaT9UT7Q1onJHbplcWt) | 3:09 | 2021-07-18 | 2021-07-30 |
 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-10 | 2025-02-11 |
-| [Kafa](https://open.spotify.com/track/5tM5kDTxYKCFJzlfyXiTpF) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Konuşmadığımız Şeyler Var](https://open.spotify.com/album/2zSzfMd1A2eMjqljtZUX9f) | 2:57 | 2025-04-21 |  |
+| [Kafa](https://open.spotify.com/track/5tM5kDTxYKCFJzlfyXiTpF) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Konuşmadığımız Şeyler Var](https://open.spotify.com/album/2zSzfMd1A2eMjqljtZUX9f) | 2:57 | 2025-04-21 | 2025-05-22 |
 | [Kafa Tatili](https://open.spotify.com/track/365h8PI7fkpQMYWpk4HHC1) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kafa Tatili](https://open.spotify.com/album/1kj82OlvIWJcIOx4LupuuF) | 2:59 | 2022-06-11 | 2022-06-16 |
 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-06-04 | 2024-09-05 |
 | [Kafeste](https://open.spotify.com/track/6R4VTadPfb4GaYAMFg9lSl) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Kafeste](https://open.spotify.com/album/7B3NWvte3Yq5SD8ArkT9En) | 2:59 | 2021-04-26 | 2021-05-09 |
@@ -1000,7 +1001,7 @@
 | [sga](https://open.spotify.com/track/3wxylsVa0oe4zNmWiD5xFt) | [Berrin Keklikler](https://open.spotify.com/artist/64Cq76lbrG6XZOZPo5Giwl) | [sga](https://open.spotify.com/album/4uLmsJzWa3hzkWJCZN6rMY) | 2:23 | 2024-03-29 | 2024-04-02 |
 | [Sharingan](https://open.spotify.com/track/6R76MbXJLUU3a2srbwjZHr) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sharingan](https://open.spotify.com/album/7oqNfnG35KZbAZuIfXRu7L) | 1:47 | 2021-04-26 | 2021-07-07 |
 | [Sherlock Holmes \- Tirat](https://open.spotify.com/track/0VtY1lmgsWOv6ciozU0DEn) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Sherlock Holmes \(Tirat\)](https://open.spotify.com/album/3esW5FBZnrO0rxmjwxarKy) | 2:57 | 2022-04-30 | 2022-05-02 |
-| [Shoote Shoote](https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Shoote Shoote](https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC) | 2:59 | 2024-06-08 | 2025-05-19 |
+| [Shoote Shoote](https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Shoote Shoote](https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC) | 2:59 | 2024-06-08 |  |
 | [SHOT](https://open.spotify.com/track/7MEOvvU8t9rx8b4hWemnWW) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SHOT](https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn) | 1:48 | 2024-01-27 | 2024-01-29 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-09-22 |
 | [Sil Baştan](https://open.spotify.com/track/1yt8iVzPepEE3NEiivo2MW) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Ege Boran](https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn) | [Sil Baştan](https://open.spotify.com/album/3XtH4eCDba4FrcoKzvMrim) | 3:00 | 2022-04-23 | 2022-04-25 |

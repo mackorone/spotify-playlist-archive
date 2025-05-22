@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Aymen
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,843 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,871 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 2 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 |
 | 3 | [Moja Draga](https://open.spotify.com/track/6CHIYDLErQwSgWfqMkEIZS) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Moja Draga](https://open.spotify.com/album/2znGjCKcvMmvIdMYTvYwvo) | 2:09 |
 | 4 | [Diadem](https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Diadem](https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI) | 2:44 |
-| 5 | [Milano](https://open.spotify.com/track/1vjLSrChWwFaA59qlovjAv) | [Amo](https://open.spotify.com/artist/0U6rqbk85u8RpwVXRcCORg) | [Milano](https://open.spotify.com/album/6XY09Dk3iJQSF7vlri1SPw) | 2:44 |
+| 5 | [Milano](https://open.spotify.com/track/1vjLSrChWwFaA59qlovjAv) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Milano](https://open.spotify.com/album/6XY09Dk3iJQSF7vlri1SPw) | 2:44 |
 | 6 | [PLAYBOYBUNNIES](https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PLAYBOYBUNNIES](https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3) | 2:27 |
 | 7 | [Delale](https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Delale](https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs) | 2:35 |
 | 8 | [Late Night Call](https://open.spotify.com/track/452bmiY5DNuR5xazlQNdxh) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Late Night Call](https://open.spotify.com/album/6PAVsTMJ6JxwvKt3v9YfRs) | 2:18 |

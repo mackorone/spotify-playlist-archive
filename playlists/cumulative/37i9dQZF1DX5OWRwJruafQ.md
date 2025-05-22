@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-617 songs - 1 day 5 hr 30 min
+618 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2023-03-29 | 2023-12-02 |
 | [Freestyle](https://open.spotify.com/track/2lgj77f4BMnqYVTKvfvbPm) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Freestyle](https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn) | 2:07 | 2023-06-19 | 2023-06-24 |
 | [Fuck Em All](https://open.spotify.com/track/0Z2SFlnXH9yMN36djUeqyE) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Fuck Em All](https://open.spotify.com/album/6PTLko2QL2jLSvSVqrwIrd) | 3:54 | 2023-03-29 | 2023-12-07 |
-| [Fuego](https://open.spotify.com/track/1eI1KtqC7hO3UB5CilnXGA) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Fuego](https://open.spotify.com/album/0uGjudLAmJJxNagSSRpE2x) | 2:15 | 2025-05-02 |  |
+| [Fuego](https://open.spotify.com/track/1eI1KtqC7hO3UB5CilnXGA) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Fuego](https://open.spotify.com/album/0uGjudLAmJJxNagSSRpE2x) | 2:15 | 2025-05-02 | 2025-05-22 |
 | [Fully Loaded](https://open.spotify.com/track/5zUPoHkgqAr1XwTMNzNtGs) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Fully Loaded](https://open.spotify.com/album/4HzA6zlnW8M3IznzHHic0U) | 2:28 | 2023-03-29 | 2023-07-15 |
 | [G Flow](https://open.spotify.com/track/4Gj9KgiRtK4M6ttShk6eVM) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [G Flow](https://open.spotify.com/album/3bXWTJ9uKdYIOOawL4Gsw3) | 3:15 | 2024-06-18 | 2024-10-10 |
 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 | 2023-03-29 | 2023-07-15 |
@@ -482,6 +482,7 @@
 | [Rollie](https://open.spotify.com/track/0saDGGBSayvyvRZzTNnFH5) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [BREAKING THROUGH](https://open.spotify.com/album/3HJg9Q7qns6Ww8ucPlX2pM) | 2:26 | 2024-07-19 | 2024-11-08 |
 | [Roots](https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI) | [Pav](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW) | [Roots](https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92) | 2:09 | 2023-08-25 | 2023-10-05 |
 | [Royal](https://open.spotify.com/track/1ef21vkRkY1XdkhBHiHcLo) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Lafz](https://open.spotify.com/artist/3AFsfA31wg6nLvZwSKFszq) | [Beyond Belief](https://open.spotify.com/album/7oF59pfaoiCd29K5UzT0K4) | 2:34 | 2023-09-11 | 2023-10-20 |
+| [RR](https://open.spotify.com/track/4xNXAn3HasaJSwdBQSyHYK) | [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Bloodline](https://open.spotify.com/album/08QuCXacVOTXeUYoS1lW3l) | 2:38 | 2025-05-21 |  |
 | [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2023-08-10 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-03-29 | 2024-07-27 |
 | [Ruger](https://open.spotify.com/track/32EpNY3TY3cVhVVJmv4rFn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Ruger](https://open.spotify.com/album/0axpZCFDzLbeTqDB8cECT8) | 3:10 | 2023-09-13 | 2023-10-05 |

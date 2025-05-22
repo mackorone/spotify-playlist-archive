@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-342 songs - 18 hr 25 min
+343 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Emery \(Solo Piano Version\)](https://open.spotify.com/track/79aonRlgUv4G1ssKzmse2L) | [Wide Eyed](https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP) | [Emery \(Solo Piano Version\)](https://open.spotify.com/album/7DtFAScxn5E9IMX5EIlJQQ) | 3:07 | 2023-04-21 | 2024-12-19 |
 | [Emmanuel](https://open.spotify.com/track/0nmYFxpO3YHuMa1dlkkCPP) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Emmanuel](https://open.spotify.com/album/2j3lFcnI7wqnXA7oNGStN4) | 5:06 | 2024-03-01 |  |
 | [Epistrophy](https://open.spotify.com/track/2U1cIjS5cocGGNEHt76HeP) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Epistrophy](https://open.spotify.com/album/2L2K4tjWtmbp8ldkM88adt) | 2:44 | 2023-11-13 | 2024-12-19 |
+| [Eventide](https://open.spotify.com/track/4ZOnatfSjfxv36CdG8aWkc) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Eventide](https://open.spotify.com/album/6BeCcwopx2pdHSbvjVlcJY) | 3:06 | 2025-05-21 |  |
 | [Experience](https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Experience](https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3) | 5:44 | 2024-04-05 |  |
 | [Familiar](https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Familiar](https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT) | 3:32 | 2023-01-27 | 2024-12-19 |
 | [Farewell](https://open.spotify.com/track/216OIO7LNNCQ3YnK9SxGvD) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Farewell](https://open.spotify.com/album/5lXuuCicLyW3Vfpz6YVDad) | 4:17 | 2023-05-29 | 2023-11-11 |

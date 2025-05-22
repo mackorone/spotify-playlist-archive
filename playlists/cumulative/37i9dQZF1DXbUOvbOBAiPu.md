@@ -2,7 +2,7 @@
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from Zwangere Guy
+> New music from Zwangere Guy, Aya Nakamura and Damiano David
 
 4,731 songs - 10 day 10 hr 43 min
 

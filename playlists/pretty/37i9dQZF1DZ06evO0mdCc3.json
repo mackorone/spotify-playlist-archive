@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 14732,
+  "num_followers": 14744,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAACGzmplwbJRlDMt9AUnTfYh",
+  "snapshot_id": "aCvGAAAAAACub8Bat7pJlM4hgrixJPVR",
   "tracks": [
     {
       "added_at": null,
@@ -44,12 +44,12 @@
           "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
         },
         {
-          "name": "Aaron Gilhuis",
-          "url": "https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG"
-        },
-        {
           "name": "Queen of the Ring",
           "url": "https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn"
+        },
+        {
+          "name": "Aaron Gilhuis",
+          "url": "https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG"
         }
       ],
       "duration_ms": 352242,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brackish (Live)",
-        "url": "https://open.spotify.com/album/3I6DAJjRgLnhgyKStxUnvg"
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 172334,
-      "name": "Live At The Tweeter Center Boston / 2000 - Single Edit - Live",
-      "url": "https://open.spotify.com/track/6GftFf7iY3hxND9omCxZSf"
+      "duration_ms": 171773,
+      "name": "We Are The Lamb",
+      "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+        "name": "Brackish (Live)",
+        "url": "https://open.spotify.com/album/3I6DAJjRgLnhgyKStxUnvg"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 171773,
-      "name": "We Are The Lamb",
-      "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
+      "duration_ms": 172334,
+      "name": "Live At The Tweeter Center Boston / 2000 - Single Edit - Live",
+      "url": "https://open.spotify.com/track/6GftFf7iY3hxND9omCxZSf"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
       "duration_ms": 224160,
       "name": "Forgive And Forget",
       "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "I've Failed You",
+      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 281811,
       "name": "Never Again - Live",
       "url": "https://open.spotify.com/track/3TnEw9Xea9TMDKIhWvEv26"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "I've Failed You",
-      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
     },
     {
       "added_at": null,

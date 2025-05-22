@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Mosaic MSC
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,393 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,419 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 43 | [Él es a quien Alabo](https://open.spotify.com/track/6f9P6kdBAN0X2kw8pOmQs1) | [Samuel Arroyave](https://open.spotify.com/artist/525KpcmXJz3NFfm6tXS7Cp) | [Él es a quien Alabo](https://open.spotify.com/album/5eDcsz60eyBWHjOrBc1GH2) | 3:47 |
 | 44 | [Fiel Hacia Mí](https://open.spotify.com/track/0vcLAxDU3QGMkW0M9P6l0I) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [CORITOS Vol\. 1](https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC) | 5:00 |
 | 45 | [Fiesta en el Cielo](https://open.spotify.com/track/3LosnsL8GyZNKJT0ul0wD0) | [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Fiesta en el Cielo](https://open.spotify.com/album/4JoxIBIRM8c9age9oGeQE4) | 6:56 |
-| 46 | [está bien no estar bien :\): \- En Vivo](https://open.spotify.com/track/5ssmvDGO8gnkZ8fT5RHd9p) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Jared Spyker](https://open.spotify.com/artist/0bW5tLziQ59hA9iN0D8pnd), [Adeliz Spyker](https://open.spotify.com/artist/6DC7chZwDQay07EhXaQslH) | [está bien no estar bien :\): \(En Vivo\)](https://open.spotify.com/album/6ywN7Cv8kTELAzEP6V0ILN) | 3:58 |
+| 46 | [está bien no estar bien :\): \- en vivo desde Conferencia PRISMA](https://open.spotify.com/track/5ssmvDGO8gnkZ8fT5RHd9p) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Jared Spyker](https://open.spotify.com/artist/0bW5tLziQ59hA9iN0D8pnd), [Adeliz Spyker](https://open.spotify.com/artist/6DC7chZwDQay07EhXaQslH) | [está bien no estar bien :\): \(en vivo desde Conferencia PRISMA\)](https://open.spotify.com/album/6ywN7Cv8kTELAzEP6V0ILN) | 3:58 |
 | 47 | [Poderte Conocer](https://open.spotify.com/track/4d8vNfxeNuXgzvNhuPpFKs) | [Joel Rocco](https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe), [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Poderte Conocer](https://open.spotify.com/album/4uGPxcRoswCX8oFlusAgnr) | 7:18 |
 | 48 | [Gloria Prostrera](https://open.spotify.com/track/0wetURU3wx7xrSJuW0i5fz) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Jordan Mateo](https://open.spotify.com/artist/2siiKhqUOAkKoEMA0IUi9W) | [Gloria Postrera](https://open.spotify.com/album/3uOuFYlRLsXhzfw38ROyQU) | 9:30 |
 | 49 | [Reina Inmaculada](https://open.spotify.com/track/2R9dK8NZVqrEcWX7AVROtO) | [Verónica Sanfilippo](https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf) | [Reina Inmaculada](https://open.spotify.com/album/5lIepyyfzG5vKuWiI9yi0v) | 3:18 |

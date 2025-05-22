@@ -4,7 +4,7 @@
 
 > 
 
-863 songs - 2 day 19 hr 53 min
+865 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Eu Vou Cantar](https://open.spotify.com/track/3p2K6YuiaOPocMWLKymW3e) | [Wilson De Assis](https://open.spotify.com/artist/2isgK0TwZeDCJmhCs11x8Y) | [Me Ajuda Aí](https://open.spotify.com/album/3sTpu5HSrnplSSgjazX8RI) | 3:28 | 2021-05-05 |  |
 | [Eva](https://open.spotify.com/track/06WWnCfoJveGUvYQWK7nGf) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 5:46 | 2021-06-07 |  |
 | [Existe Uma Voz](https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:45 | 2023-10-26 |  |
+| [F Track](https://open.spotify.com/track/5nfyNPgR6kxvdFQ66PIeEB) | [Jancen](https://open.spotify.com/artist/5DEG6jf4lvaICXAUhi6BKk) | [Inner Labyrinth, Pt\. 2](https://open.spotify.com/album/1bN5nH51KiHCUe1IND90D1) | 5:53 | 2025-05-21 |  |
 | [Fa Na Dem Ara](https://open.spotify.com/track/3svTGMDDGJAzK93xEFcS9l) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [The Simigwahene](https://open.spotify.com/album/1QKn16kyvCrfoCPjqCMmka) | 4:38 | 2022-01-05 |  |
 | [Faca Não](https://open.spotify.com/track/1v7ATjOtsJ41oyevDlV3xi) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Goenta Canela \(Serie Sodad VIII \- Vol\. 1\)](https://open.spotify.com/album/2Ju4etzrRmfIg776Pv4A1Z) | 3:31 | 2023-02-19 |  |
 | [Fale De Mim](https://open.spotify.com/track/5e8ItbdOpA6qR04D1AdB8W) | [Germannu](https://open.spotify.com/artist/4QyGx9SzqAy8khFKVgW9e2) | [Germannu](https://open.spotify.com/album/263FpL8Hlqd8qcldLJBLr9) | 3:17 | 2021-08-17 |  |
@@ -638,6 +639,7 @@
 | [Rebels](https://open.spotify.com/track/7KePwNA8puA4BX8unrPygx) | [Wild Fire](https://open.spotify.com/artist/3gzfJi6zhuDoEiDbzuEXEv) | [Dance Hits](https://open.spotify.com/album/4i37zBzxDyFam3nhhFeoPj) | 3:56 | 2022-12-12 |  |
 | [Reet \(Habibi Funk 015\)](https://open.spotify.com/track/4OjZmd2lJiwiUw1dSV93kj) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Reet \(Habibi Funk 015\)](https://open.spotify.com/album/2YSgGIQt5aqvew4hkSX4u5) | 4:26 | 2022-02-09 |  |
 | [Reflection](https://open.spotify.com/track/2w3pFB4MuRVudbdYeMGncs) | [Ara Macao](https://open.spotify.com/artist/1LqVrBWO3sNIrWeNtv3CGY) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 4:32 | 2022-03-22 |  |
+| [Reshape](https://open.spotify.com/track/0iIoCfiv0dnIDdo4IQOtHP) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Reshape](https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U) | 4:39 | 2025-05-21 |  |
 | [Ressureição](https://open.spotify.com/track/0DW4cSU8klELP5pWWEt9tC) | [Elias diá Kimuezo](https://open.spotify.com/artist/4TMXVHTI6GWFBwdHnXO7pu) | [Ressurreição](https://open.spotify.com/album/15VIasGUS6As1JNKrPG4mb) | 2:46 | 2023-02-23 |  |
 | [Rest' là maloya](https://open.spotify.com/track/38B9d22yHqE3gb7NlhXqt8) | [Alain Péters](https://open.spotify.com/artist/2xVquVgh0jd7miRn4BbulQ) | [Vavanguèr](https://open.spotify.com/album/7Hlo3Hcq4zBxmsbXLuCKea) | 4:46 | 2021-05-27 |  |
 | [Restless Song 동요](https://open.spotify.com/track/4iAP6ElOdoz9bUaqYgFWAh) | [Shadow Community 그림자 공동체](https://open.spotify.com/artist/7bbMLgNBXcAlvKDAjDVhHx) | [Restless Song / Halcyon's Coffin 동요 / 할시온의 관](https://open.spotify.com/album/4asBHHk8kklwDbVoGcP9cI) | 5:08 | 2020-03-29 |  |

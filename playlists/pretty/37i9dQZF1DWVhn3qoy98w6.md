@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Solo artistas independientes, actualizada todos los miércoles. Foto: Junnio.
+> Solo artistas independientes, actualizada todos los miércoles. ¡Celebramos 10 años de Fresh Finds con Junnio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,884 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,906 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Pena y dolor](https://open.spotify.com/track/2ZuzQ6530y2pnO4ZhToeT9) | [Lima Negra](https://open.spotify.com/artist/6nQFHsVrEW4l7nYE2BVqVT) | [Pena y dolor](https://open.spotify.com/album/26BX6DPRkdYSqHkOntplie) | 3:50 |
 | 60 | [Trinidad y Tobago](https://open.spotify.com/track/2HodqdCOlGK5qBAD2D0SBV) | [Azul Yokai](https://open.spotify.com/artist/0hsTHTtTN4IRAvwTBXxNXp) | [Trinidad y Tobago](https://open.spotify.com/album/4NTxhfj2uvjYmrXapGOFRV) | 3:02 |
 
-Snapshot ID: `aCz7ZAAAAAAnT9bqqeApfXK6ka0WppZZ`
+Snapshot ID: `aC2PqAAAAADk2oaJeUG+dOpV+gT08jrR`

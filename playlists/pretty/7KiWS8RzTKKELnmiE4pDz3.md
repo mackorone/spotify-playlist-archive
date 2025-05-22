@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 151 songs - 8 hr 13 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 152 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 149 | [FadaPhilippe](https://open.spotify.com/track/5UY1FDxfCPoM6sushUpSh9) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/2KBhWSNNxOF2Ve94KvhlZy) | 2:46 |
 | 150 | [All of It](https://open.spotify.com/track/2Il6mimRM8nLAZlphiAQcC) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [All of It](https://open.spotify.com/album/52e8vZgod5X2s0CUib8YtJ) | 2:41 |
 | 151 | [sh00t](https://open.spotify.com/track/2SVX42W1UnJ52oNYgjLsLK) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:07 |
+| 152 | [100 Bars](https://open.spotify.com/track/7kMg8gmoI96lgbqCyVFO5Y) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [AK Bandamont](https://open.spotify.com/artist/430Zvgtw4i0Ec25Wwe9T2g) | [Maintaining Drug Houses](https://open.spotify.com/album/5C2aA8gNfVS3t9ZpLF2h0o) | 5:13 |
 
-Snapshot ID: `AAAeXsIt1VOhmTC9Erb6TfOfpOjEJSGn`
+Snapshot ID: `AAAeXz93/ONlzz/NuZ0hbPqXQIXeR0mj`

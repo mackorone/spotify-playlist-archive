@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Alba Morena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,580 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,584 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Claroscuro](https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Claroscuro](https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn) | 3:17 |
 | 50 | [NO ME APURES](https://open.spotify.com/track/5PDuUj8AAU8K15fULZBrY5) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [NO ME APURES](https://open.spotify.com/album/6G8FpsRV5dChImgTRyeyDZ) | 2:36 |
 
-Snapshot ID: `aCdAOwAAAAAY4BOgv62UcYeLDWKGebUw`
+Snapshot ID: `aCdAOwAAAADPIwj28PMQyCAqpD/plwjG`

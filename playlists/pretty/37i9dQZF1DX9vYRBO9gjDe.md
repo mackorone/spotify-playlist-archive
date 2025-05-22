@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。5月18日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,574 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,587 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [花](https://open.spotify.com/track/5h5ACEliQ9toZ3fJwVc09f) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [musiQ](https://open.spotify.com/album/4g4awHV5sCJmH5DG86bpgL) | 4:13 |
 | 50 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
 
-Snapshot ID: `aCwagwAAAACY4UtJRirup1aIyVt0ui7h`
+Snapshot ID: `AAAAAEeA5j8+6QCwKUfJZUAXVUwbOp1L`

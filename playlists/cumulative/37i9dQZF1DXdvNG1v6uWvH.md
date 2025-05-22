@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Avicii, Laufey, Birnir og mörgum fleiri!
 
-5,896 songs - 13 day 5 hr 15 min
+5,897 songs - 13 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4502,7 +4502,7 @@
 | [Silver Spurs](https://open.spotify.com/track/7ytBUmRVIWRyxN858NJbPL) | [Mon Rayon](https://open.spotify.com/artist/72T708Fc8U7CNXT1ScaWmv) | [Post Romantic Stress Disorder](https://open.spotify.com/album/7gPxXgatRE0KRZn4nVFFxl) | 2:40 | 2025-02-28 | 2025-03-07 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2024-10-04 |
 | [Simple Life](https://open.spotify.com/track/2sP4wd3XQZn76Zu8HlYIhP) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Whispering Pines \(Deluxe\)](https://open.spotify.com/album/2Xg8v9OpCnafxUcH42tFaf) | 2:28 | 2024-12-20 | 2025-01-03 |
-| [Simple pleasures](https://open.spotify.com/track/3UBQkSYmApCOfnpr76xHFD) | [Blood Harmony](https://open.spotify.com/artist/4sKQMZH6dZ1ggR3SdNdgqC) | [Simple pleasures](https://open.spotify.com/album/5mgf69BryKFlGCs1yWtPkq) | 4:22 | 2025-05-16 |  |
+| [Simple pleasures](https://open.spotify.com/track/3UBQkSYmApCOfnpr76xHFD) | [Blood Harmony](https://open.spotify.com/artist/4sKQMZH6dZ1ggR3SdNdgqC) | [Simple pleasures](https://open.spotify.com/album/5mgf69BryKFlGCs1yWtPkq) | 4:22 | 2025-05-16 | 2025-05-22 |
 | [Since the sun set down](https://open.spotify.com/track/4RRLuD2ULuTHzzIittaHB0) | [Natural Direction](https://open.spotify.com/artist/3ekIqRMGvwhaE6oTO0N6Su), [WoFF](https://open.spotify.com/artist/2xurQ4Qso3IyEwRcnQOSPc), [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI) | [Since the sun set down](https://open.spotify.com/album/6mew9jv0JMT8s7yafL8jfu) | 3:06 | 2024-06-07 | 2024-06-09 |
 | [Sine Field](https://open.spotify.com/track/1ugBRmLs61f5WjGspRowkS) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm), [Sedna](https://open.spotify.com/artist/1U5FlgCSnU8vvZpKUSuZCS) | [Sine Field](https://open.spotify.com/album/327Li455GwM2tnKwfExkd6) | 2:49 | 2025-05-02 | 2025-05-09 |
 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 | 2024-10-11 | 2024-10-18 |
@@ -4874,6 +4874,7 @@
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-24 | 2024-06-01 |
 | [Surface](https://open.spotify.com/track/6IXXt8w0QHyD6D3YI0mqE1) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Surface](https://open.spotify.com/album/7e0mKBPbOkOnSG1vghevn9) | 1:27 | 2025-02-28 | 2025-03-07 |
 | [SURFACE](https://open.spotify.com/track/0h1TVMjWbU6Q4SwylIGcHw) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 1:45 | 2024-08-30 | 2024-09-06 |
+| [Surprises](https://open.spotify.com/track/2GPwdropZdpe2fzl2AH93T) | [Frank Follows](https://open.spotify.com/artist/25okB7pwor6Udq76WdmPpg) | [Surprises](https://open.spotify.com/album/2sxQvIMSneTlpfHh3ngkZp) | 3:43 | 2025-05-16 |  |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-04 | 2025-04-11 |
 | [Surrender](https://open.spotify.com/track/5WV9L2jrlppxj4FwG71Vni) | [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [Lavito](https://open.spotify.com/artist/2f1ROIxC1XQB9beDbRhMzB), [Moistrus](https://open.spotify.com/artist/5J68ktOCRARsfhEx3huipz) | [Surrender](https://open.spotify.com/album/1fk9WtcUm2l6zdUBMC2blh) | 2:52 | 2024-04-26 | 2024-05-03 |
 | [Surrender To You](https://open.spotify.com/track/6npNJi27oaklmOsdWEOKWh) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Surrender To You](https://open.spotify.com/album/36Wt4mue1QWKCit4ov4Ux6) | 3:33 | 2024-08-16 | 2024-08-23 |

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: ASIAN KUNG\-FU GENERATION
 
-1,289 songs - 3 day 12 hr 44 min
+1,291 songs - 3 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/track/3eQ9FDoMOunYuuJVVlPmxV) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Shaka Bose](https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma) | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/album/6eqBeYoz4XJ5x5211nAj3L) | 3:32 | 2022-05-10 | 2022-05-23 |
 | [Hello Stray Kitty](https://open.spotify.com/track/0sg5ungKUSkUVWkNIJS67m) | [LEGO BIG MORL](https://open.spotify.com/artist/6AbHzcOyvyvubx7AcyQ1f9) | [Hello Stray Kitty](https://open.spotify.com/album/3SW6tUBW2lmmVEPzD8WVxc) | 3:11 | 2022-05-24 | 2022-06-09 |
 | [Hello\. I love you](https://open.spotify.com/track/6Ii2BslnUonm8N8OwKfZ2h) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [No more cry](https://open.spotify.com/album/3dLb0zF4wHNks6n9oeHryj) | 3:55 | 2023-10-24 | 2023-11-18 |
+| [HEROES](https://open.spotify.com/track/0kz76dzitoNPSMofTvnrCY) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [HEROES](https://open.spotify.com/album/2fit6fQH4QH21iKV4emyQj) | 3:43 | 2025-05-21 |  |
 | [Highway Star](https://open.spotify.com/track/0e3o4DWPmvMwcxVNRiqhqh) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Highway Star](https://open.spotify.com/album/3Gvk9jB4rHT53YWr7as6bx) | 5:49 | 2023-08-22 | 2023-09-06 |
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-09 | 2024-01-17 |
 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 | 2022-05-17 | 2022-06-15 |
@@ -657,6 +658,7 @@
 | [Tear Down](https://open.spotify.com/track/03gSWDA9k6VJD6IJRMVjyB) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/1vpH5sFlWAf0JnXEhsDWkt) | 3:52 | 2022-08-23 | 2022-09-15 |
 | [Tear Down](https://open.spotify.com/track/2XMkoCqatTSUnpLmyOdQ4Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/6EfehHNU5IdlduY7lX9QZU) | 3:52 | 2022-08-23 | 2022-08-25 |
 | [Teenage Blue](https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Teenage Blue](https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF) | 3:45 | 2024-10-08 | 2025-04-23 |
+| [Tell me, God.](https://open.spotify.com/track/2RIbnlbt5BQ32sp7Y5tyqk) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [a beautiful days](https://open.spotify.com/album/0dgS0lF26RnAEPjaJcs9tF) | 2:44 | 2025-05-21 |  |
 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-04-29 |  |
 | [The Beginning of the End](https://open.spotify.com/track/4DyNo4QolzSJQbBtZnkRmQ) | [Damian Hamada's Creatures](https://open.spotify.com/artist/5mu3Lpg65rLQhkwqwPLPVe) | [The Beginning of the End](https://open.spotify.com/album/7kZBW9mm5qBkPSIYbkJRCG) | 3:58 | 2023-09-12 | 2023-09-20 |
 | [THE BOMB](https://open.spotify.com/track/0k4nkbjUHBKqaGEyGedPfO) | [AA=](https://open.spotify.com/artist/1QRnF3T3BV3bTOLab9lxiN) | [\#7](https://open.spotify.com/album/0vhO4pPl2Jw4uez4aRbtHY) | 2:16 | 2025-04-22 | 2025-04-30 |
@@ -881,7 +883,7 @@
 | [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 | 2023-09-12 | 2023-09-14 |
 | [エッサフォッサ](https://open.spotify.com/track/0Us98qR9hodEUjrik1cwBc) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [エッサフォッサ](https://open.spotify.com/album/3DmTR6NKkXhmnTnwO0Kt1N) | 4:49 | 2022-05-10 | 2022-06-05 |
 | [エバーグリーン](https://open.spotify.com/track/45QV763OHEY1m97VCFbzql) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [エバーグリーン](https://open.spotify.com/album/4UZQBNrKfv4S59Eg7VR4jd) | 4:13 | 2022-05-19 | 2022-07-25 |
-| [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 | 2024-04-03 |  |
+| [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 | 2024-04-03 | 2025-05-22 |
 | [エロイーズ](https://open.spotify.com/track/008UMp36siAtPubqLsV9ef) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [エロイーズ](https://open.spotify.com/album/5THXTAFk2nRmYJwSHvPY6I) | 4:06 | 2022-05-19 | 2022-05-25 |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-13 |  |
 | [オートクチュール](https://open.spotify.com/track/57y16YFgicFBtzCnNVSrzk) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [オートクチュール](https://open.spotify.com/album/4pG489P1bIuHFYLpDmkowT) | 3:17 | 2022-05-12 | 2022-07-24 |
@@ -1293,7 +1295,7 @@
 | [骨折り儲けの草臥れ損](https://open.spotify.com/track/0U8qZELCpgjxfCxFltHs1S) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [骨折り儲けの草臥れ損](https://open.spotify.com/album/1vFLfiobeCceiAS55fnNUw) | 4:32 | 2022-06-09 | 2023-05-10 |
 | [魅せてくれ \- Remastered 2022](https://open.spotify.com/track/5XmRpFSrGCTCkqj3an2Adt) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [いつか、その日が来る日まで… \(50th Anniversary Remastered\)](https://open.spotify.com/album/6kr8awyDnOs1kVUhRhhQsk) | 3:38 | 2022-08-04 | 2022-08-10 |
 | [魔法](https://open.spotify.com/track/5kxL7DfGUkUuGxaocTqMeG) | [LACCO TOWER](https://open.spotify.com/artist/47VpPVgXyjyV2pIShGpUud) | [魔法](https://open.spotify.com/album/4fCHFQoHBE7NOJ5l3s9c0i) | 4:19 | 2022-11-22 | 2022-11-30 |
-| [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 | 2025-04-15 |  |
+| [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 | 2025-04-15 | 2025-05-22 |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-10 | 2023-06-14 |
 | [黄泉の国](https://open.spotify.com/track/5Wjr32cfS2M71FvZkBAm1m) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:11 | 2024-01-23 | 2024-01-31 |
 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-04 | 2025-01-08 |

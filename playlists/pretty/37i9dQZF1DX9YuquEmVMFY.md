@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Lauv \[I Love You, Mean It Tour in Daegu\] 5월 24, 25일 @ 엑스코 5층 컨벤션홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,238 likes - 20 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,250 likes - 20 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [I Like Me Better](https://open.spotify.com/track/4MagTPnkPiDuIa4P8GtW1b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:17 |
 | 20 | [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 |
 
-Snapshot ID: `aCaqMwAAAABox99YZpL4JdhhIGDEubit`
+Snapshot ID: `aCaqMwAAAAAUNEqXMVVCltp2zOKNp9tu`

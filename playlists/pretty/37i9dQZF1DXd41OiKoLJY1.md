@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: MISTER MEYERS Artwork: Isu Kim
+> Celebrating 10 years of fresh releases from your future favorite artists\. Cover: MISTER MEYERS Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,987 likes - 113 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,003 likes - 113 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 16 | [Waiting Shed](https://open.spotify.com/track/1nzZywndghV2nzQRe3zZQZ) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [Waiting Shed](https://open.spotify.com/album/3qcBSmmyqggB5N9frixemL) | 4:28 |
 | 17 | [LOVING, HURTING](https://open.spotify.com/track/6yHOprmOYKyIyOGXBL8Vd5) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [LOVING, HURTING](https://open.spotify.com/album/2qhVZtiNB1knGqGaJHA00Z) | 3:45 |
 | 18 | [D'yan ka na lang](https://open.spotify.com/track/2a2OzBC2bkOl9NZ3VXJxfq) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [D'yan ka na lang](https://open.spotify.com/album/50kfIjjq0Oq0GbotRtMVzI) | 3:05 |
-| 19 | [Burnin' Up](https://open.spotify.com/track/4p3K9en3Tbhm21aoWzYdHC) | [Empire.PH Music](https://open.spotify.com/artist/6PxT7i16WRXo8GIKvNYvXw), [Johannes Rissler](https://open.spotify.com/artist/1iIzyojfZ86BC00HW7WVFy) | [Burnin' Up](https://open.spotify.com/album/30ATI6eNIL9D48eEjfx2fD) | 2:39 |
+| 19 | [Burnin' Up](https://open.spotify.com/track/4p3K9en3Tbhm21aoWzYdHC) | [Johannes Rissler](https://open.spotify.com/artist/1iIzyojfZ86BC00HW7WVFy), [Empire.PH Music](https://open.spotify.com/artist/6PxT7i16WRXo8GIKvNYvXw) | [Burnin' Up](https://open.spotify.com/album/30ATI6eNIL9D48eEjfx2fD) | 2:39 |
 | 20 | [Reputation](https://open.spotify.com/track/29jlNYi6lWk1cNV4RK9d4e) | [Jean Alejandro](https://open.spotify.com/artist/7hibTW3hMAc5bWpk5VlaCf) | [Reputation](https://open.spotify.com/album/4QfFxRSh0sSFyOe6lnPGMe) | 3:37 |
 | 21 | [Wasak Na Puso](https://open.spotify.com/track/6GnkPjNBFz0YU93BE6caYY) | [Aljon Prowler](https://open.spotify.com/artist/4788oAxLqaqX4c9xY52ShK) | [Wasak Na Puso](https://open.spotify.com/album/3HpvGV5p3qQal3oWthCuIl) | 3:21 |
 | 22 | [Dahlia](https://open.spotify.com/track/1CGAsC6flV1mYjLhrob26x) | [Six70](https://open.spotify.com/artist/4AAnbo7FfF5JpwHAYAj7jY) | [Dahlia](https://open.spotify.com/album/5tG8LVkqg5plHo259CkYUK) | 4:13 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 112 | [Tried To Tell You](https://open.spotify.com/track/5SErJmcvHKbHZJYe0ofLif) | [Shanaia Gomez](https://open.spotify.com/artist/5EtZxgXZdFjFu0ZdkAn6TV) | [Tried To Tell You](https://open.spotify.com/album/2Yq277XVKUVRHTEBEHg8Mn) | 3:50 |
 | 113 | [$till Out$ide](https://open.spotify.com/track/50K4soCCryOZ1fH5n3hr8Q) | [Hazy Jay](https://open.spotify.com/artist/4Nt59ZEnPWSF0y8Hn7JoSi) | [$till Out$ide](https://open.spotify.com/album/3FrEWl6HZWzLn5tX19rg78) | 2:45 |
 
-Snapshot ID: `aCqyNQAAAADKACx4Wnolihx8aI3r0SL8`
+Snapshot ID: `aC1yMQAAAADYG9zYCkHtnEGo3PgwJN/R`

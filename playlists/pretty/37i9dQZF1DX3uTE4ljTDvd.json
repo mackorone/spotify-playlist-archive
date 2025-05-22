@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Lu Quirino",
-  "num_followers": 129496,
+  "num_followers": 129498,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-05-02 03:01:16",
       "album": {
-        "name": "Em Teus Bra\u00e7os Estou Seguro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5fgXwUxAWXxByc6ARIzcDk"
-      },
-      "artists": [
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Em Teus Bra\u00e7os Estou Seguro - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lnQGaMwZnAMjqoywLmI1j"
-    },
-    {
-      "added_at": "2025-05-02 03:01:16",
-      "album": {
         "name": "O Amor Que Cura (Ao Vivo)",
         "url": "https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o"
       },
@@ -131,22 +115,18 @@
     {
       "added_at": "2025-05-02 03:01:16",
       "album": {
-        "name": "Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
+        "name": "Em Teus Bra\u00e7os Estou Seguro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5fgXwUxAWXxByc6ARIzcDk"
       },
       "artists": [
         {
-          "name": "Gabi Oliveira",
-          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
         }
       ],
-      "duration_ms": 269722,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
+      "duration_ms": 304000,
+      "name": "Em Teus Bra\u00e7os Estou Seguro - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lnQGaMwZnAMjqoywLmI1j"
     },
     {
       "added_at": "2025-05-02 03:01:16",
@@ -163,6 +143,26 @@
       "duration_ms": 240887,
       "name": "Declare o Nome Dele",
       "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
+    },
+    {
+      "added_at": "2025-05-02 03:01:16",
+      "album": {
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Oliveira",
+          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 269722,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
     },
     {
       "added_at": "2025-05-02 03:01:16",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-05-02 03:01:16",
       "album": {
+        "name": "Em Nome de Jesus",
+        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
+        }
+      ],
+      "duration_ms": 307600,
+      "name": "Em Nome de Jesus",
+      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
+    },
+    {
+      "added_at": "2025-05-02 03:01:16",
+      "album": {
         "name": "Passos",
         "url": "https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 214687,
       "name": "Passos",
       "url": "https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw"
-    },
-    {
-      "added_at": "2025-05-02 03:01:16",
-      "album": {
-        "name": "Em Nome de Jesus",
-        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
-        }
-      ],
-      "duration_ms": 307600,
-      "name": "Em Nome de Jesus",
-      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
     },
     {
       "added_at": "2025-05-02 03:01:16",

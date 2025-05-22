@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2469,
+  "num_followers": 2474,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Io Non So Parlar D'Amore",
+        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
+      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "BELLA STRONZA",
         "url": "https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 176571,
       "name": "BELLA STRONZA",
       "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Io Non So Parlar D'Amore",
-        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
-      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
     },
     {
       "added_at": "2025-03-03 09:30:09",

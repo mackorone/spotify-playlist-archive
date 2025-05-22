@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-103 songs - 7 hr 30 min
+103 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Tu Sangre Clama](https://open.spotify.com/track/6KIAEwwn8FKSr6hwxPE2mg) | [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Tu Sangre Clama](https://open.spotify.com/album/1sXHxIJeyvDQFSx4nDGH3Z) | 7:46 | 2022-10-25 | 2024-07-30 |
 | [Unico Digno](https://open.spotify.com/track/1uY5vSCLPH5h6ZHFDLBvmB) | [Mayo Music](https://open.spotify.com/artist/1ezbDLKNVEautrYggZnnAU), [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [Unico Digno](https://open.spotify.com/album/5BLfPLnSxwnRO8wfrJWzdc) | 9:05 | 2025-02-28 |  |
 | [Venga Tu Reino](https://open.spotify.com/track/7lVFBPhA4TBiAHmaKZjsyV) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 3:05 | 2022-07-22 | 2024-07-30 |
-| [Verbo](https://open.spotify.com/track/7o0mP6frAihCT0mekq50SO) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Verbo](https://open.spotify.com/album/3dgzuWzgCZRWJvD0jjjNE2) | 3:26 | 2025-04-30 |  |
+| [Verbo](https://open.spotify.com/track/7o0mP6frAihCT0mekq50SO) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Verbo](https://open.spotify.com/album/3dgzuWzgCZRWJvD0jjjNE2) | 3:40 | 2025-04-30 |  |
 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 | 2022-07-22 |  |
 | [victoria](https://open.spotify.com/track/0C71lTgtN5s1MFpJ2Ekk0g) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm), [Christy Corson](https://open.spotify.com/artist/35ouuu71O4IRvrx5OWk7xh) | [victoria](https://open.spotify.com/album/4o7R6DQ0V2JREcuihiEnDy) | 3:17 | 2024-12-11 |  |
 | [Viene](https://open.spotify.com/track/2hMTb8yNvkEp0J2UBVHIiF) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Viene](https://open.spotify.com/album/4XvKh85x0M1xoYh78BhpnG) | 2:58 | 2024-07-29 |  |

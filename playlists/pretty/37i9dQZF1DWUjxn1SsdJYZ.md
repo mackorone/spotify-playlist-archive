@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Nerve, Songer
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,463 likes - 95 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,484 likes - 95 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 69 | [Winter Luv](https://open.spotify.com/track/0I1HCa1TO4e1vpf7w7TqNB) | [ABOODIE](https://open.spotify.com/artist/0CA4T0asO8MAtWYsskbx9e) | [Winter Luv](https://open.spotify.com/album/227BBnMGogxzZGuAFkSykb) | 2:30 |
 | 70 | [Average](https://open.spotify.com/track/3PfvN0B3W85jFdiXBfxf3T) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [Average](https://open.spotify.com/album/12LBSY5AEYjiiSBp8Tzq74) | 2:50 |
 | 71 | [dimensions](https://open.spotify.com/track/6IMM6H6UYPip8DUhDzyePS) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [dimensions](https://open.spotify.com/album/3hqVuLdR47G8sM13G5bBBB) | 2:13 |
-| 72 | [SPIRAL](https://open.spotify.com/track/2LwXtNl28yHRiNlt6MbRBI) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [SPIRAL](https://open.spotify.com/album/5kPskI87LwQmuOc7CZiuVV) | 1:49 |
+| 72 | [SPIRAL](https://open.spotify.com/track/2LwXtNl28yHRiNlt6MbRBI) | [Tommy Tang](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [SPIRAL](https://open.spotify.com/album/5kPskI87LwQmuOc7CZiuVV) | 1:49 |
 | 73 | [Been Through Hell](https://open.spotify.com/track/1xtp8h5fesXgWcY3q9J95P) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [360](https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP), [Benny Morrell](https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9) | [Been Through Hell](https://open.spotify.com/album/2yW5IO4JRuj9rPQpuTHUMo) | 3:47 |
 | 74 | [CARIBBEAN](https://open.spotify.com/track/6zyOSOPIBuPLFPO8h1C13l) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [CARIBBEAN](https://open.spotify.com/album/3BgbTu3wBa6cy3w74vydRV) | 1:53 |
 | 75 | [Faux](https://open.spotify.com/track/1PrhvvNGasll8r4NDH5rzN) | [Boy Ace](https://open.spotify.com/artist/5tfYneqaKo1KSNXT8KyyCy) | [Faux](https://open.spotify.com/album/1QaRGkqdl8CPxnfbUpqCCH) | 1:58 |

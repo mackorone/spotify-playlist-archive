@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 12853,
+  "num_followers": 12873,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAABMlBjKcyGrXZlhq3+QEDjO",
+  "snapshot_id": "aCvGAAAAAACOaG+v/+mge6bmKVeuU+8M",
   "tracks": [
     {
       "added_at": null,
@@ -279,30 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NTGMX",
-        "url": "https://open.spotify.com/album/1PX0GHNvrbAHtOyfBSilVQ"
+        "name": "Gambiarra Chic, Pt. 2",
+        "url": "https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi"
       },
       "artists": [
         {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
         }
       ],
-      "duration_ms": 175565,
-      "name": "SXO - Irm\u00e3s de Pau Remix",
-      "url": "https://open.spotify.com/track/4vr8YAo8u75p01nfqRdgJt"
+      "duration_ms": 215040,
+      "name": "BAILE NO RXOTA",
+      "url": "https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod"
     },
     {
       "added_at": null,
@@ -334,15 +326,39 @@
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 124293,
-      "name": "Festas e Manequins",
-      "url": "https://open.spotify.com/track/6hCl3kZA2zWOSN3wxnxpcP"
+      "duration_ms": 112058,
+      "name": "N\u00e3o Lembro Da Minha Inf\u00e2ncia",
+      "url": "https://open.spotify.com/track/7CuNThg1DPo5mde6vhUIKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NTGMX",
+        "url": "https://open.spotify.com/album/1PX0GHNvrbAHtOyfBSilVQ"
+      },
+      "artists": [
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "duration_ms": 175565,
+      "name": "SXO - Irm\u00e3s de Pau Remix",
+      "url": "https://open.spotify.com/track/4vr8YAo8u75p01nfqRdgJt"
     },
     {
       "added_at": null,
@@ -359,22 +375,6 @@
       "duration_ms": 142268,
       "name": "LoveSong",
       "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glossy",
-        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 151596,
-      "name": "Glossy",
-      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": null,
@@ -410,11 +410,31 @@
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 112058,
-      "name": "N\u00e3o Lembro Da Minha Inf\u00e2ncia",
-      "url": "https://open.spotify.com/track/7CuNThg1DPo5mde6vhUIKh"
+      "duration_ms": 124293,
+      "name": "Festas e Manequins",
+      "url": "https://open.spotify.com/track/6hCl3kZA2zWOSN3wxnxpcP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": null,
@@ -439,22 +459,6 @@
       "duration_ms": 168588,
       "name": "Maserati",
       "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bratz",
-        "url": "https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 168158,
-      "name": "Bratz",
-      "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
     },
     {
       "added_at": null,
@@ -491,6 +495,22 @@
       "duration_ms": 135861,
       "name": "Triplex",
       "url": "https://open.spotify.com/track/3mbw5wfUXaNr4yCOnUxqlA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bratz",
+        "url": "https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 168158,
+      "name": "Bratz",
+      "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
     },
     {
       "added_at": null,
@@ -539,6 +559,26 @@
       "duration_ms": 178964,
       "name": "Flashes",
       "url": "https://open.spotify.com/track/2aKWPngHDEtzEzqtRWG7SL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 147119,
+      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
     },
     {
       "added_at": null,
@@ -595,26 +635,6 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
-      },
-      "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 147119,
-      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
     },
     {
       "added_at": null,
@@ -815,46 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Stars 2020 Pnpl",
-        "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
-      },
-      "artists": [
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Beat Jogzz",
-          "url": "https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Fresh Stars 2020 Pnpl",
-      "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
       },
@@ -891,6 +871,46 @@
       "duration_ms": 115999,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh Stars 2020 Pnpl",
+        "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
+      },
+      "artists": [
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Beat Jogzz",
+          "url": "https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Fresh Stars 2020 Pnpl",
+      "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
     },
     {
       "added_at": null,
@@ -939,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
         "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
       },
@@ -963,30 +1007,6 @@
       "duration_ms": 181714,
       "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
       "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,

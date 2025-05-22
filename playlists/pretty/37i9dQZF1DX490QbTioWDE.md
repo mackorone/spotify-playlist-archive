@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ian Lucas & Q´ Lokura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,106 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,112 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 87 | [Buena Vida](https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Buena Vida](https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu) | 2:22 |
 | 88 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
 | 89 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
-| 90 | [¿Quién te dijo?](https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [NHAY](https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG) | [¿Quién te dijo?](https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn) | 2:45 |
+| 90 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
 | 91 | [No Es Lo Que Dices](https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Es Lo Que Dices](https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi) | 3:12 |
-| 92 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
+| 92 | [¿Quién te dijo?](https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [NHAY](https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG) | [¿Quién te dijo?](https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn) | 2:45 |
 | 93 | [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 |
 | 94 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 95 | [No Podrás \- En Vivo](https://open.spotify.com/track/3k66XGVOQPKdwlQo8EtZFF) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [No Podrás \(En Vivo\)](https://open.spotify.com/album/7nGV5495dOzVLdpHGmWlla) | 4:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 97 | [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 |
 | 98 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 |
 | 99 | [Como Te Va Mi Amor \- Hasta Hoy](https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Como Te Va Mi Amor \- Hasta Hoy](https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj) | 5:27 |
-| 100 | [Lo Aprendí de Ti](https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7) | [Pitty Murua](https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9) | [Esta de Moda](https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3) | 3:24 |
+| 100 | [Vengo De Engañarte](https://open.spotify.com/track/4IbiDl3a7dW6MCbXgA3u48) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Vengo De Engañarte](https://open.spotify.com/album/5VGEiVMdwQfS9RlXVDR7wT) | 2:51 |
 
 Snapshot ID: `aCewIQAAAACX3lgS+bsmFQJzZ1maZsso`

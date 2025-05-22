@@ -19141,25 +19141,7 @@
     },
     {
       "album": {
-        "name": "Too Young",
-        "url": "https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx"
-      },
-      "artists": [
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
-        }
-      ],
-      "date_added": "2021-10-30",
-      "date_added_asterisk": false,
-      "date_removed": "2021-11-27",
-      "duration_ms": 177251,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4o54mEkDO0aayKYwmVUCYN"
-    },
-    {
-      "album": {
-        "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+        "name": "Mirror",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
       },
       "artists": [
@@ -19180,8 +19162,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168500,
-      "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+      "name": "Mirror",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
+    },
+    {
+      "album": {
+        "name": "Too Young",
+        "url": "https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "date_added": "2021-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2021-11-27",
+      "duration_ms": 177251,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4o54mEkDO0aayKYwmVUCYN"
     },
     {
       "album": {

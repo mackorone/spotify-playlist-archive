@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 92816,
+  "num_followers": 92869,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCp0gAAAAADsFXF1+q2bBCovk6uerciH",
+  "snapshot_id": "aCvGAAAAAACTUiUgujH4fAJszyGXXBnw",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 132363,
-      "name": "SEASIDE (feat. iann dior)",
-      "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memories in My Head",
         "url": "https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 191656,
       "name": "Memories in My Head",
       "url": "https://open.spotify.com/track/6OJjVFQK1ftkrLVP5VW7GA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 132363,
+      "name": "SEASIDE (feat. iann dior)",
+      "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
     },
     {
       "added_at": null,

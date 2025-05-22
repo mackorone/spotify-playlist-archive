@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: MISTER MEYERS Artwork: Isu Kim
+> Celebrating 10 years of fresh releases from your future favorite artists\. Cover: MISTER MEYERS Artwork: Isu Kim
 
 3,200 songs - 7 day 19 hr 36 min
 
@@ -492,7 +492,7 @@
 | [burn for you](https://open.spotify.com/track/7oydQ62zY3d8alCLxFlUGD) | [polaroid police](https://open.spotify.com/artist/18AaPbifDMnc2J9hNKR43D) | [burn for you](https://open.spotify.com/album/4C1g8RkRQMxZ49zveIpXsN) | 2:53 | 2024-10-24 | 2025-02-14 |
 | [burn.](https://open.spotify.com/track/54cEkLTZv0hZjN8ioQysVa) | [Night Over Alaska](https://open.spotify.com/artist/7FpDFmAxCgnT2MRZUkY54n) | [burn.](https://open.spotify.com/album/4GTroNzEOOb9rxd0nlCAif) | 3:44 | 2024-03-14 | 2024-04-19 |
 | [BURNIN](https://open.spotify.com/track/0G6JO3wyKLeUSnoS4ZSqrX) | [YOND](https://open.spotify.com/artist/7pAkvdJmGFXBsfwpBz2QOy) | [BURNIN](https://open.spotify.com/album/1ouyygXnP2Tmi7ekfcKxRh) | 2:12 | 2022-04-07 | 2022-06-17 |
-| [Burnin' Up](https://open.spotify.com/track/4p3K9en3Tbhm21aoWzYdHC) | [Empire.PH Music](https://open.spotify.com/artist/6PxT7i16WRXo8GIKvNYvXw), [Johannes Rissler](https://open.spotify.com/artist/1iIzyojfZ86BC00HW7WVFy) | [Burnin' Up](https://open.spotify.com/album/30ATI6eNIL9D48eEjfx2fD) | 2:39 | 2025-05-08 |  |
+| [Burnin' Up](https://open.spotify.com/track/4p3K9en3Tbhm21aoWzYdHC) | [Johannes Rissler](https://open.spotify.com/artist/1iIzyojfZ86BC00HW7WVFy), [Empire.PH Music](https://open.spotify.com/artist/6PxT7i16WRXo8GIKvNYvXw) | [Burnin' Up](https://open.spotify.com/album/30ATI6eNIL9D48eEjfx2fD) | 2:39 | 2025-05-08 |  |
 | [Burnout](https://open.spotify.com/track/0VWQOehm8RSHC0HoiWOztY) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [Burnout](https://open.spotify.com/album/46089eVEriqkjD6L2WyyGe) | 4:21 | 2024-02-15 | 2024-03-08 |
 | [Burnt Out!](https://open.spotify.com/track/0zbhplZ4q6nbDP3rmW6HP8) | [TYKES](https://open.spotify.com/artist/6fzB8mAhgEWZXhQImqbGI4) | [Burnt Out!](https://open.spotify.com/album/4wtqSiGyR7Y3InxcXwjn6W) | 2:44 | 2023-09-21 | 2023-10-13 |
 | [Buti Na Lang](https://open.spotify.com/track/21Lglcu2jrSgrJcps3ub6v) | [SNG On Da Track](https://open.spotify.com/artist/497uh8Q5OmAzaNpaZDVL35), [Rish Mel](https://open.spotify.com/artist/2ENtIAo6CMZB7bLmJj3Owf), [Kingpilz](https://open.spotify.com/artist/5Jl568SBhfEEy9PhRBnTN4) | [Buti Na Lang](https://open.spotify.com/album/7LpCw12WnVW6cwLdvLXJlz) | 3:38 | 2023-02-16 | 2023-03-03 |

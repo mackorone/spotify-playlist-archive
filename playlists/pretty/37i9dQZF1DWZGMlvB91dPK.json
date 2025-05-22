@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3143,
+  "num_followers": 3145,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
+      },
+      "artists": [
+        {
+          "name": "Hyper Jacuzzi",
+          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "POUR DE BON",
         "url": "https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 171933,
       "name": "Folie",
       "url": "https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
-      },
-      "artists": [
-        {
-          "name": "Hyper Jacuzzi",
-          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
     },
     {
       "added_at": "2024-01-15 17:31:32",
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX"
         }
       ],
-      "duration_ms": 139133,
-      "name": "DURAG EN CACHEMIRE !",
-      "url": "https://open.spotify.com/track/5EZxmrHRqa7MpymBOHVusR"
+      "duration_ms": 167517,
+      "name": "PAPILLON PIMP\u00c9 !",
+      "url": "https://open.spotify.com/track/4ZfegXIG6zkJrCyNxMKjsw"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX"
         }
       ],
-      "duration_ms": 167517,
-      "name": "PAPILLON PIMP\u00c9 !",
-      "url": "https://open.spotify.com/track/4ZfegXIG6zkJrCyNxMKjsw"
+      "duration_ms": 139133,
+      "name": "DURAG EN CACHEMIRE !",
+      "url": "https://open.spotify.com/track/5EZxmrHRqa7MpymBOHVusR"
     }
   ],
   "unique_name": "BISE Festival 2024",

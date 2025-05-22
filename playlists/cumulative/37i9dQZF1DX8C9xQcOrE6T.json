@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Moana 2. ",
+  "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch. ",
   "name": "Disney Hits",
   "tracks": [
     {
@@ -628,6 +628,28 @@
       "duration_ms": 77933,
       "name": "Bibbidi-Bobbidi-Boo - From \"Cinderella\" Soundtrack",
       "url": "https://open.spotify.com/track/50ssiEHx556vul2XyUbxwU"
+    },
+    {
+      "album": {
+        "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
+      },
+      "artists": [
+        {
+          "name": "Nyjah Music & Zyah Rhythm",
+          "url": "https://open.spotify.com/artist/4aEDhgmmxsxsZDzl3FTxEh"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7tg6qrdwIo0qKL5tgNWYh0"
     },
     {
       "album": {
@@ -1392,6 +1414,32 @@
       "duration_ms": 209333,
       "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"",
       "url": "https://open.spotify.com/track/4SMyFD1nz2HFIlARsP8jyK"
+    },
+    {
+      "album": {
+        "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
+      },
+      "artists": [
+        {
+          "name": "Mark Keali'i Ho'omalu",
+          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "He Lei P\u0101pahi No Lilo a me Stitch",
+      "url": "https://open.spotify.com/track/6dAn3QBtsg5to62lkaWT7M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Savannah Ré from Scarborough, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,142 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,183 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
 | 75 | [Is it fun for you?](https://open.spotify.com/track/6vgQ5R04b4pbPk0TxlPIP2) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Is it fun for you?](https://open.spotify.com/album/6Q6kH5zoYQq3F7rYMcuAHK) | 2:52 |
 
-Snapshot ID: `aCa4XgAAAAB3ei2RGPAImlM+8oSPL3xz`
+Snapshot ID: `aCa4XgAAAAChbv1Ip9mg74crPNlEts5q`

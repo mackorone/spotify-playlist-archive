@@ -4601,6 +4601,24 @@
     },
     {
       "album": {
+        "name": "HEROES",
+        "url": "https://open.spotify.com/album/2fit6fQH4QH21iKV4emyQj"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223480,
+      "name": "HEROES",
+      "url": "https://open.spotify.com/track/0kz76dzitoNPSMofTvnrCY"
+    },
+    {
+      "album": {
         "name": "Highway Star",
         "url": "https://open.spotify.com/album/3Gvk9jB4rHT53YWr7as6bx"
       },
@@ -12043,6 +12061,24 @@
     },
     {
       "album": {
+        "name": "a beautiful days",
+        "url": "https://open.spotify.com/album/0dgS0lF26RnAEPjaJcs9tF"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164288,
+      "name": "Tell me, God.",
+      "url": "https://open.spotify.com/track/2RIbnlbt5BQ32sp7Y5tyqk"
+    },
+    {
+      "album": {
         "name": "The 1",
         "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
       },
@@ -16166,7 +16202,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 207213,
       "name": "\u30a8\u30de",
       "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
@@ -23718,7 +23754,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-22",
       "duration_ms": 236000,
       "name": "\u9b54\u6cd5\u306f\u30b9\u30d1\u30a4\u30b9",
       "url": "https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,871 likes - 74 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,901 likes - 74 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [Be With You](https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Like Flowers In The Sun](https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff) | 3:58 |
 | 74 | [Your Hand](https://open.spotify.com/track/3BCRsqflSL5BsiGsdT6HiA) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Your Hand](https://open.spotify.com/album/0xCfBoEbEvp3NZtQPkDkuj) | 3:15 |
 
-Snapshot ID: `aBRuFAAAAABINsh8f5wl13XRO+h6oQnY`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

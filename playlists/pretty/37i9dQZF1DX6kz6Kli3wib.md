@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,833 likes - 195 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,851 likes - 195 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 194 | [Genuine Foggy](https://open.spotify.com/track/66kHf2V2TLThuiqqSR9sYv) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Open Hat](https://open.spotify.com/album/0gh9B5L7AQPvW3W7LlUiEk) | 3:09 |
 | 195 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 |
 
-Snapshot ID: `aAugGQAAAAD6HZRPuoXVorqfvEwED9Sk`
+Snapshot ID: `aAugGQAAAAC2cUBPZiA7Lq3ZpB2UlzkY`
