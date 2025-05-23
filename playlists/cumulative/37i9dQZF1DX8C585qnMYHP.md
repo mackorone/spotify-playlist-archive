@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:1F68L6nlubo92LxyyITibv">Amanda Mur</a> on cover\. Artwork by Thami Nabil
+> Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:4EHUvmDJ3eLI7PhYyTe66f">Amanda Mur</a> on cover\. Artwork by Thami Nabil
 
-2,030 songs - 6 day 14 hr 20 min
+2,031 songs - 6 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Icy blue](https://open.spotify.com/track/43khXVriVkQBjUI9kNSIK9) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:22 | 2021-04-01 | 2021-06-04 |
 | [Idling](https://open.spotify.com/track/1dZdMonNiAd30UWAkIgXrD) | [Dyrghé](https://open.spotify.com/artist/6vFsn15wnD00UJdCEKZImT) | [Idling](https://open.spotify.com/album/0d2r9FImZVJ0oCKLmUx5uW) | 4:06 | 2021-07-09 | 2021-09-14 |
 | [If Anything](https://open.spotify.com/track/05Id2KGI1qVa67tQeg2MBh) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [If Anything](https://open.spotify.com/album/0q29rzT91aR2Jy5EssSDPZ) | 2:40 | 2021-06-24 | 2021-08-31 |
+| [If I Had a Boat](https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO) | [Kieran Hebden](https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [If I Had a Boat](https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd) | 11:18 | 2025-05-22 |  |
 | [If Yer Dreamin](https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [If Yer Dreamin](https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ) | 3:02 | 2023-10-04 | 2023-11-30 |
 | [igetunder](https://open.spotify.com/track/6ufnWCg5FZi03nGBlVhmn5) | [Aiden Marceron](https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf) | [igetunder](https://open.spotify.com/album/5BHO11sWr5pt5BSpV5EkMb) | 2:46 | 2022-07-27 | 2022-09-01 |
 | [Ignited Hands](https://open.spotify.com/track/7Dqf7wtriTnS6w8Pip67Jv) | [Jon Mueller](https://open.spotify.com/artist/7bkouSXWH5Dx2qmC8CzHHT) | [Ignited Hands](https://open.spotify.com/album/4AknbZxiNOYl4wFGbKHM9x) | 4:05 | 2020-12-03 | 2021-01-15 |
@@ -1953,7 +1954,7 @@
 | [White Dwarf](https://open.spotify.com/track/7iiKrifMQTZTZE0wqUxyfp) | [Shifted Phases](https://open.spotify.com/artist/2UzQKeFMlRdgmlcRAMrBbd) | [White Dwarf](https://open.spotify.com/album/4R9sjdkRX25WOclV1ztGvV) | 3:48 | 2023-03-15 | 2023-05-11 |
 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 | 2021-07-09 | 2021-09-15 |
 | [Who's melting](https://open.spotify.com/track/2FM93fq0WRpHrJMyIztrQL) | [Ben Sloan](https://open.spotify.com/artist/2vDu3SaOscvqL3DKIFPYOz) | [muted colors](https://open.spotify.com/album/4xhd7bW3g5h476WnOfY61Q) | 2:53 | 2023-03-29 | 2023-05-24 |
-| [WHYET？](https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz) | [ondo](https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF) | [WHYET？](https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P) | 3:31 | 2025-01-15 |  |
+| [WHYET？](https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz) | [ondo](https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF) | [WHYET？](https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P) | 3:31 | 2025-01-15 | 2025-05-23 |
 | [Wichita](https://open.spotify.com/track/1UCMd6FcewF3a0tb6A7IQC) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Ghost Box](https://open.spotify.com/album/06PzTwwKvPY8WGRNYBfpfy) | 5:50 | 2024-01-10 | 2024-04-04 |
 | [WilB](https://open.spotify.com/track/3BK8MsRPv81VX36EYT2o4n) | [Amnl Prnt](https://open.spotify.com/artist/3zTlgqco4hU2RcEzmTpHxQ) | [New Latam Beats from Mexico Curated by Jiony](https://open.spotify.com/album/2irKa5fP22B5tRLQ5z39Wn) | 6:08 | 2022-06-29 | 2022-08-25 |
 | [Wildfire](https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM) | [Minru](https://open.spotify.com/artist/7ofDeyinYugiOywRxjs5c2) | [Liminality](https://open.spotify.com/album/35b5EStxb2BkZnfyJr2CiR) | 4:06 | 2022-07-20 | 2022-09-15 |

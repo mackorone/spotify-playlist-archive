@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> C'è un nuovo pezzo di Gazzelle ed è proprio qua su Indie Italia 👀
+> C'è un nuovo pezzo di Delicatoni e Coca Puma ed è proprio qua su Indie Italia 🌻
 
-292 songs - 15 hr 26 min
+298 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,14 @@
 | [Ascoltare gli alberi](https://open.spotify.com/track/0gQ7KxkgClrDXvD4MrfAQT) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S) | [Ascoltare gli alberi](https://open.spotify.com/album/5PkdD1nN3vygejhLOh4l4p) | 3:18 | 2024-10-24 | 2024-11-08 |
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 | 2024-10-11 |
 | [BALLA](https://open.spotify.com/track/0mlZdAdXr19dGJ1tNHBvr7) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [BALLA COI LUPI NELLA STALLA](https://open.spotify.com/album/4mF8RZSmhTnNujFm3YUIVH) | 3:48 | 2024-10-17 | 2024-11-15 |
+| [BALLA DA SOLA](https://open.spotify.com/track/50spFDfvMoXukKiT5rZuWB) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [33](https://open.spotify.com/album/0CnhUDR5R712uOBRT2KlHo) | 2:46 | 2025-05-22 |  |
 | [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 | 2024-09-27 |  |
 | [BAR S\. CALISTO](https://open.spotify.com/track/4MuMKlFB6W9QAqSpXZf85n) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [NOTTI BRAVE AMARCORD](https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J) | 2:34 | 2025-04-24 | 2025-05-09 |
 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 | 2025-04-24 |  |
 | [Bella Mossa \(feat\. Coez\)](https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-03-27 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-10-04 |
 | [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 | 2025-04-10 |  |
+| [Buianotte](https://open.spotify.com/track/1bqoLYddCR5bEglt5AV0hY) | [Thruppi](https://open.spotify.com/artist/3DJ294D2VS2W1sEwtBzbjS), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM) | [Buianotte](https://open.spotify.com/album/4B8gH29xs7bQ4mk2ll1SwP) | 3:48 | 2025-05-22 |  |
 | [Buio](https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Buio](https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4) | 2:55 | 2025-03-06 | 2025-04-25 |
 | [Calore](https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Calore](https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe) | 3:01 | 2025-04-03 | 2025-04-23 |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-10-25 |
@@ -87,6 +89,7 @@
 | [DUE GATTI A MILANO](https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [VITA\_FUSA](https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z) | 2:52 | 2025-03-06 | 2025-03-18 |
 | [due lune](https://open.spotify.com/track/3zq17xnIvCZWv8l167tzdP) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [due lune](https://open.spotify.com/album/39ByFKSGWOPTa7USlargt4) | 3:20 | 2025-05-01 |  |
 | [E poi](https://open.spotify.com/track/2uPkHeF2T4V6LK3d0JVZhV) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [RADICAL POP](https://open.spotify.com/album/0fL9TA0WevAHVH33i2ql3N) | 2:56 | 2025-04-10 | 2025-05-02 |
+| [E Se Quando](https://open.spotify.com/track/2yi9BQCTVKwOFnneh4oxBy) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq), [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [E Se Quando](https://open.spotify.com/album/73ZJxgMFHBCKqjxORtwVFL) | 6:18 | 2025-05-22 |  |
 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 | 2025-02-12 |  |
 | [Fallito](https://open.spotify.com/track/5SkOX9LGHGBQWn8OLmNEjO) | [AIMONE](https://open.spotify.com/artist/18hOfr11qzoQKN87YjmyxS) | [Mai più per sempre](https://open.spotify.com/album/453uiFz6tPhSFpXiXQV7p1) | 3:02 | 2025-05-01 |  |
 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 | 2025-01-09 | 2025-02-28 |
@@ -126,6 +129,7 @@
 | [Invisibile](https://open.spotify.com/track/2Arm5lPwb1mUayrzYy6EZN) | [I Segreti](https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL) | [Bellissimo](https://open.spotify.com/album/2cMx57lE3A6GYMOpUnUJtm) | 3:14 | 2024-10-03 | 2024-10-18 |
 | [Invisibili](https://open.spotify.com/track/7rVm1y1a0aV373jjjKsypf) | [Sierra](https://open.spotify.com/artist/5LxvWvFRXBDQBVI9LwwmVp) | [Invisibili](https://open.spotify.com/album/6F1Y0oYR3nXSWwdvlvGmfZ) | 2:59 | 2024-11-07 | 2024-11-29 |
 | [Io non lo so](https://open.spotify.com/track/4gBNS82Xo9KsCnnR2gOXRo) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:33 | 2024-11-21 | 2025-02-28 |
+| [Io non ti conosco](https://open.spotify.com/track/3mPCkhtf1vMXaW66Ahh0lT) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [L'ultima ruota del Caravan](https://open.spotify.com/album/5zstkUXxHUlRz9bfSGlOzn) | 2:49 | 2025-05-22 |  |
 | [Islanda](https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Islanda](https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R) | 3:37 | 2024-11-14 |  |
 | [Karaoke](https://open.spotify.com/track/3qj1SVOn5avhbcBrgkrTv7) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Giorni Felici](https://open.spotify.com/album/6iQVTMWUzVeIYFnH9LGEFO) | 2:46 | 2024-10-24 | 2025-01-17 |
 | [L'abbraccio](https://open.spotify.com/track/5P7wqfjs3KzLOCLHwJCQcI) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Sulle ali del cavallo bianco](https://open.spotify.com/album/5DvLCGUEoP0zSTEI7PuIQq) | 3:37 | 2024-06-27 | 2024-10-18 |
@@ -219,6 +223,7 @@
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 | 2024-09-27 |
 | [Pirati](https://open.spotify.com/track/55xjK6ctp9DFrkzL5NyYqB) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Pirati](https://open.spotify.com/album/3iqzIiYKAdi0ov5tc8FH0e) | 3:13 | 2025-03-27 | 2025-04-18 |
 | [Più in alto](https://open.spotify.com/track/0jZdbJ5BUzJRLhSUvaehum) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Cori da sdraio](https://open.spotify.com/album/4Nz2181rHvYWOz7RNyTlQk) | 3:36 | 2025-03-10 | 2025-04-25 |
+| [portami a ballare in primavera](https://open.spotify.com/track/39J4IyWQJWcBPU6tMnlD07) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 3:50 | 2025-05-22 |  |
 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 | 2024-10-24 | 2025-05-20 |
 | [PREFERIREI](https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 3:22 | 2024-06-27 | 2024-11-01 |
 | [Punto di domanda \(feat\. Nayt, Mecna\)](https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:27 | 2024-12-19 |  |
@@ -239,6 +244,7 @@
 | [Segreto](https://open.spotify.com/track/7gDSpUqCLBMigIY5kEVcQI) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Chi È Nicola Felpieri?](https://open.spotify.com/album/6MyXSqkTazI56OSkxJNR4X) | 3:42 | 2025-03-13 | 2025-03-21 |
 | [sei ore](https://open.spotify.com/track/6jRosOK5OnF3Cm75Ti1f2Y) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [sei ore](https://open.spotify.com/album/2ZMaIMhaaAc4N7WDn4Bj4c) | 3:20 | 2025-05-15 |  |
 | [Sembra per Sempre](https://open.spotify.com/track/73LkdQY7M5kMSDWPiWs0Q1) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 4:30 | 2024-12-19 | 2025-01-17 |
+| [Sempre peggio](https://open.spotify.com/track/2u6cZIiXloUPhWFLPOpfOw) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Sempre peggio](https://open.spotify.com/album/4iVXGqLvOgy41ZqQu0DFzE) | 2:37 | 2025-05-22 |  |
 | [Senza di me](https://open.spotify.com/track/71ogrXoA23rHJ1LVFoNOk7) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Senza di me](https://open.spotify.com/album/1M92MZmztvndDnorR9wTsU) | 2:31 | 2024-12-26 | 2025-01-17 |
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 | 2024-10-18 |
 | [Sesso e architettura](https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Lux Eterna Beach](https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP) | 3:30 | 2024-06-27 | 2025-05-02 |

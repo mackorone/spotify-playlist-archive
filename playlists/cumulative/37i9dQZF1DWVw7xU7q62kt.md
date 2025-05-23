@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-526 songs - 1 day 0 hr 10 min
+527 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Leaving](https://open.spotify.com/track/6MO5Vy9rYdsfPCgHCkm2RP) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Leaving](https://open.spotify.com/album/5UoCdteWN3bZreMu1JEYQZ) | 2:09 | 2024-10-25 |  |
 | [Legacy](https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Legacy](https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p) | 1:56 | 2024-08-23 | 2025-05-17 |
 | [Lemon Juice](https://open.spotify.com/track/6ZjBdGWTRJS0JIO0ZodgDx) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lemon Juice](https://open.spotify.com/album/2rbkyy8vUaKvjFo86vFzit) | 1:56 | 2025-02-21 |  |
+| [lemon tree](https://open.spotify.com/track/71qHrRlWDAN4SJFPPEaUAK) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [lemon tree](https://open.spotify.com/album/3HDamI9fVuEi3Ao281APel) | 2:00 | 2025-05-16 |  |
 | [Les amis](https://open.spotify.com/track/45RCxpqeO3UZ7OqF0ssWYJ) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Les amis](https://open.spotify.com/album/7kSUMlTFtg8OVUzpLnyW0G) | 3:04 | 2024-08-30 | 2024-12-12 |
 | [Les cigales](https://open.spotify.com/track/6Zof5IP3yS2ihhI6sG3t9e) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Les cigales](https://open.spotify.com/album/7GByk3zU16geQvds0ZkFSe) | 2:19 | 2024-11-08 | 2025-01-25 |
 | [Let's Play](https://open.spotify.com/track/3fLZip8P4stvAB1XxeT4jV) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Let's Play](https://open.spotify.com/album/0O0GjMpqQ0kHgRHns7DI5i) | 1:34 | 2025-05-09 |  |
@@ -525,7 +526,7 @@
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 | 2024-04-19 |
 | [While She Waits](https://open.spotify.com/track/7hrEY12YhKpa6wPruwHrag) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/1C8EQLLSiDZoXRiwgaUPB7) | 2:16 | 2024-03-20 | 2024-08-24 |
 | [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-18 | 2025-03-08 |
-| [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 |  |
+| [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 | 2025-05-23 |
 | [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 | 2025-04-12 |
 | [Window Pane](https://open.spotify.com/track/3oH3TnUBAHJUMBPwJTynv2) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Window Pane](https://open.spotify.com/album/1AaDQgeyo7tbApFPiCfXiU) | 2:00 | 2025-03-03 | 2025-03-18 |
 | [Wonderment](https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Wonderment](https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs) | 3:19 | 2023-08-22 | 2024-11-23 |

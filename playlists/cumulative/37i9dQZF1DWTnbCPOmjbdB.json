@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Julia Rocka",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Dominik Dudek",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 153253,
       "name": "A mo\u017ce",
       "url": "https://open.spotify.com/track/4LN6Yc7911kZjA1BpfKFLo"
+    },
+    {
+      "album": {
+        "name": "Aeroplan",
+        "url": "https://open.spotify.com/album/3FsDemDGc79lWoHf2MqZm9"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203825,
+      "name": "Aeroplan",
+      "url": "https://open.spotify.com/track/39p0zf55b56ftZa2bvz0fQ"
     },
     {
       "album": {
@@ -1643,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Hotelowe piosenki",
+        "url": "https://open.spotify.com/album/0xHVSF52jWBSJRx7TxlNNS"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Do jutra",
+      "url": "https://open.spotify.com/track/5lxEfHFCyhsJFDGiYlTWoZ"
+    },
+    {
+      "album": {
         "name": "Do ko\u0144ca",
         "url": "https://open.spotify.com/album/03L8ZjTuZiG6MemSQj40Gu"
       },
@@ -2306,7 +2342,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 171458,
       "name": "Finlandia",
       "url": "https://open.spotify.com/track/0VueQEZozGmipBfXyrxoxI"
@@ -3168,7 +3204,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 180517,
       "name": "Jestem st\u0105d",
       "url": "https://open.spotify.com/track/0VgFjETZ2RRzjw221vsOsG"
@@ -3949,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "Lubi\u0119 k\u0142opoty",
+        "url": "https://open.spotify.com/album/148foNKfyhBbfgXzgIrvXf"
+      },
+      "artists": [
+        {
+          "name": "Stan Zapalny",
+          "url": "https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193655,
+      "name": "Lubi\u0119 k\u0142opoty",
+      "url": "https://open.spotify.com/track/0IywWoZVpw6P47PmUD7Q3S"
+    },
+    {
+      "album": {
         "name": "Lumpeksowe Serce",
         "url": "https://open.spotify.com/album/0UXPwvouyPB9nZSK99qeoW"
       },
@@ -4016,7 +4070,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 174098,
       "name": "lwia cz\u0119\u015b\u0107",
       "url": "https://open.spotify.com/track/5vNpRRljnYTxFnd0Qnhlmi"
@@ -4630,7 +4684,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 250812,
       "name": "My",
       "url": "https://open.spotify.com/track/0Fxlkk6CfttZK4Xlo86AcN"
@@ -4684,7 +4738,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 186206,
       "name": "Na cz\u0119\u015bci pierwsze",
       "url": "https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV"
@@ -4760,6 +4814,24 @@
       "duration_ms": 124422,
       "name": "na nowo",
       "url": "https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM"
+    },
+    {
+      "album": {
+        "name": "NA POTEM",
+        "url": "https://open.spotify.com/album/5BjUwH5Of0KZAcpGYkG5H6"
+      },
+      "artists": [
+        {
+          "name": "SARGIS",
+          "url": "https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172356,
+      "name": "NA POTEM",
+      "url": "https://open.spotify.com/track/6vCOaNGWzzZLhojaElBUYg"
     },
     {
       "album": {
@@ -5064,7 +5136,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 162833,
       "name": "Nie ma Ci\u0119 tu",
       "url": "https://open.spotify.com/track/6w0jZPr8HEANPdskQAtxxl"
@@ -5442,6 +5514,32 @@
       "duration_ms": 188456,
       "name": "niepoprawny numer",
       "url": "https://open.spotify.com/track/1qQBmFKklewJcXs2RKDiyJ"
+    },
+    {
+      "album": {
+        "name": "NIEPRZESPANE NOCE",
+        "url": "https://open.spotify.com/album/3W9zReXi1kLnkZtxv1hAm8"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        },
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "NIEPRZESPANE NOCE",
+      "url": "https://open.spotify.com/track/2EyFpWTjbiaEGu0HAB6FBm"
     },
     {
       "album": {
@@ -6077,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "We Are Young (But Only Once)",
+        "url": "https://open.spotify.com/album/0ESGCuMfPgQtzsmXmGwJ05"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180848,
+      "name": "PA PA",
+      "url": "https://open.spotify.com/track/4U2kh9Pp7DVOBf0BYCzKXN"
+    },
+    {
+      "album": {
         "name": "Pada deszcz",
         "url": "https://open.spotify.com/album/6gWSwkia6qcHywoDYvMFXD"
       },
@@ -6122,6 +6238,24 @@
       "duration_ms": 140820,
       "name": "Pali si\u0119",
       "url": "https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC"
+    },
+    {
+      "album": {
+        "name": "Pali si\u0119 niebo",
+        "url": "https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156025,
+      "name": "Pali si\u0119 niebo",
+      "url": "https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh"
     },
     {
       "album": {
@@ -6292,7 +6426,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 216320,
       "name": "Pies",
       "url": "https://open.spotify.com/track/224MKfl1XwGuZDddR3wLJ1"
@@ -6448,7 +6582,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 141994,
       "name": "Podnosz\u0119 Si\u0119",
       "url": "https://open.spotify.com/track/7r3X63EZjGmxSF8S5m2rHF"
@@ -6726,6 +6860,24 @@
       "duration_ms": 153908,
       "name": "Prince Charming",
       "url": "https://open.spotify.com/track/2qAcsOUzEdhBB9bqTmA4hn"
+    },
+    {
+      "album": {
+        "name": "Prosta piosenka o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/4uPJAG4NUTtwF6yhhkNIYD"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Zi\u00f3\u0142ko",
+          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170599,
+      "name": "Prosta piosenka o mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/35lkVBpwfitGrG2vdsdZeP"
     },
     {
       "album": {
@@ -7086,6 +7238,32 @@
       "duration_ms": 154782,
       "name": "Samoloty",
       "url": "https://open.spotify.com/track/43DaqWLc47k2qIsRSH9adR"
+    },
+    {
+      "album": {
+        "name": "samoloty i nadprzestrzenie",
+        "url": "https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244213,
+      "name": "samoloty",
+      "url": "https://open.spotify.com/track/2sHiHyAQZCD7oPXo1eBAbL"
     },
     {
       "album": {
@@ -7549,6 +7727,32 @@
     },
     {
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/4H5tU13iR2Sl2Ohogn5DTz"
+      },
+      "artists": [
+        {
+          "name": "majtis",
+          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
+        },
+        {
+          "name": "Alien BSC",
+          "url": "https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "tajfun",
+      "url": "https://open.spotify.com/track/6ERPdRl4gHCrU0O3LAa19v"
+    },
+    {
+      "album": {
         "name": "Tak czy siak",
         "url": "https://open.spotify.com/album/4qk8WffGXUhMLh9xnawJuh"
       },
@@ -7868,7 +8072,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 184757,
       "name": "Te\u017c b\u0119dziemy t\u0119skni\u0107",
       "url": "https://open.spotify.com/track/12BLLPzYZVTWDFiebVOQpE"
@@ -8668,7 +8872,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 169846,
       "name": "Wszystkie Gwiazdy",
       "url": "https://open.spotify.com/track/1w6tYewWXnPoBTWiuezl7u"

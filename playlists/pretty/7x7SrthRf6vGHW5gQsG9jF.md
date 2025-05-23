@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 889 songs - 2 day 8 hr 49 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 890 songs - 2 day 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -897,5 +897,6 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 887 | [PYGMALY](https://open.spotify.com/track/1UeAEZcazCI6GDcuWNGW6I) | [minimum electric design](https://open.spotify.com/artist/7svUhAecDXz2c6X3ejlROK) | [RENOVATION](https://open.spotify.com/album/0BskyVVPcyKeJTcrkyTUXR) | 4:39 |
 | 888 | [ユカリテレグラフ feat.mineko](https://open.spotify.com/track/7D7RTJUezYes18QoxLc2uW) | [minimum electric design](https://open.spotify.com/artist/7svUhAecDXz2c6X3ejlROK), [mineko](https://open.spotify.com/artist/3aGH4nuLVjZOLvcSilLnks) | [RENOVATION](https://open.spotify.com/album/0BskyVVPcyKeJTcrkyTUXR) | 3:29 |
 | 889 | [easy game](https://open.spotify.com/track/7GzBqqpLAHw7ZNbPRsUT4c) | [N+](https://open.spotify.com/artist/6C7WG62kx4mkGa2K3VBOqH) | [『spill over』feat.Chata](https://open.spotify.com/album/4KHOBkkOnTHfsUuInQHjdi) | 4:23 |
+| 890 | [HYOJYO](https://open.spotify.com/track/03mHWVNG83zUSxW9kJikqD) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [星宮とと](https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j) | [HYOJYO](https://open.spotify.com/album/2okTA3r2RBpDBQrqvYNTVD) | 3:35 |
 
-Snapshot ID: `AAAFIVXmXYI8suoS3KkxPpPVY2cjqQLB`
+Snapshot ID: `AAAFIiP7yuFgq1FkiO75fgf0WV6wSw6M`

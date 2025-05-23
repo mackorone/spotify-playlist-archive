@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,582 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,599 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 | 34 | [Prelude in D Major](https://open.spotify.com/track/1GpeprFhB1MNS1CpyN9Iyx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:53 |
 | 35 | [Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/track/72CwEwj0LHNDMgH2zXCa1f) | [Johann Christian Bach](https://open.spotify.com/artist/0ebni9QrrWMvEgH40nOWZQ), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [J.C\. Bach: Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/album/1CxdegOyg36oudEmc71yB5) | 3:38 |
 | 36 | [Waldszenen, Op\. 82: No\. 1, Eintritt](https://open.spotify.com/track/2QiytRFqe7cbhOJBXSHALT) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Zoltán Fejérvári](https://open.spotify.com/artist/4X1oWcsuctqmE2UnxXwryO) | [R\. Schumann: Waldszenen, Nachtstücke & Humoreske](https://open.spotify.com/album/0UnPKquAiVAIQgvVUNwdzF) | 2:08 |
-| 37 | [Valzer](https://open.spotify.com/track/3koJNxD08Sso6Wl4GOFJB1) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [WHEN THE GRASS WAS GREENER / Nino Rota: Valzer](https://open.spotify.com/album/0mLWwSgZ4Wc9ZUYvWPZE0l) | 2:51 |
+| 37 | [WHEN THE GRASS WAS GREENER / Nino Rota: Valzer](https://open.spotify.com/track/3koJNxD08Sso6Wl4GOFJB1) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [WHEN THE GRASS WAS GREENER / Nino Rota: Valzer](https://open.spotify.com/album/0mLWwSgZ4Wc9ZUYvWPZE0l) | 2:51 |
 | 38 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 |
 | 39 | [Morning Mood Variation \(Arr\. for Piano from Peer Gynt Suite No.1, Op\. 36 by Ketan & Vivan Bhatti\)](https://open.spotify.com/track/0o9pjv0gW5DvHJMaTG6cEm) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Morning Mood Variation \(Arr\. for Piano from Peer Gynt Suite No.1, Op\. 36 by Ketan & Vivan Bhatti\)](https://open.spotify.com/album/4dFBrG7gdhFQZYYhJf7UEo) | 2:32 |
 | 40 | [Piano Sonata in C Major, WoO 51: II\. Adagio](https://open.spotify.com/track/7EmiVtjY6KsnDgroaePON5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Beethoven Trilogy 2: Childhood](https://open.spotify.com/album/4XiKDj6xqe9fxq7BSPxaE7) | 2:30 |

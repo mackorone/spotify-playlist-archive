@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046,575 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,045,774 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 124 | [This Alive](https://open.spotify.com/track/5ZETN3H7ZSbWuYId7djFfz) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [This Alive](https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I) | 3:45 |
 | 125 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 |
 
-Snapshot ID: `aCa4YQAAAAAhX2cEjeKef3EavO2vFwXQ`
+Snapshot ID: `aCa4YQAAAABct/TeQ+/S0hOGFjnfRZY8`

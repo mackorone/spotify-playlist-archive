@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,345 likes - 1,093 songs - 2 day 17 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,358 likes - 1,093 songs - 2 day 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 45 | [Use Somebody \- Spotify Singles](https://open.spotify.com/track/2XbGfB3cTrWKmQx8fH3ix3) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Spotify Singles](https://open.spotify.com/album/0WbsQdXEUVIjUWwJcaWkHE) | 2:42 |
 | 46 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
 | 47 | [INVITATION \- Spotify Singles](https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:28 |
-| 48 | [Love Raider](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Love Raider \(Spotify Singles\)](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 |
+| 48 | [love raider](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [love raider \(Spotify Singles\)](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 |
 | 49 | [flower boy \- Spotify Singles](https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [flower boy \- Spotify Singles](https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq) | 2:54 |
 | 50 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
 | 51 | [Cranes in the Sky \- Spotify Singles](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky \(Spotify Singles\)](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 |

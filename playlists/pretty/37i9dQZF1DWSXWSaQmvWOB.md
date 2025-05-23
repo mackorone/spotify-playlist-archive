@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Durand Jones & The Indications
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,113 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,176 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 |
 | 2 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 |
 | 3 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 |
-| 4 | [So Lucky](https://open.spotify.com/track/0qzhBecm8CUN0vXCm4jxO1) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:23 |
-| 5 | [Music Makes Me Move This Way](https://open.spotify.com/track/5FohFO8HQCoFubrcKsPAiW) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Michelle David](https://open.spotify.com/artist/3iPBmZcq5HRxb6LectjmdS) | [Cosmic Gold](https://open.spotify.com/album/57nFnn7qbMP2TD72wZuMBH) | 3:46 |
-| 6 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 |
-| 7 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
-| 8 | [There She Goes](https://open.spotify.com/track/3tRfWnJXA557NsVIz2R2GB) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [There She Goes](https://open.spotify.com/album/2c1hGxNtwhCI9xjcmgJr6t) | 4:05 |
+| 4 | [There She Goes](https://open.spotify.com/track/3tRfWnJXA557NsVIz2R2GB) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [There She Goes](https://open.spotify.com/album/2c1hGxNtwhCI9xjcmgJr6t) | 4:05 |
+| 5 | [So Lucky](https://open.spotify.com/track/0qzhBecm8CUN0vXCm4jxO1) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:23 |
+| 6 | [Music Makes Me Move This Way](https://open.spotify.com/track/5FohFO8HQCoFubrcKsPAiW) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Michelle David](https://open.spotify.com/artist/3iPBmZcq5HRxb6LectjmdS) | [Cosmic Gold](https://open.spotify.com/album/57nFnn7qbMP2TD72wZuMBH) | 3:46 |
+| 7 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 |
+| 8 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 | 9 | [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 |
 | 10 | [Love On My Side](https://open.spotify.com/track/4HlhwIvdWWzqn0lCIdIUrn) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP), [Ecto Maver](https://open.spotify.com/artist/0x4zp3XMXuE5op4Zr48UV0) | [Love & Joy](https://open.spotify.com/album/7xY2MjEcQrKRBKNuhD14l8) | 3:34 |
 | 11 | [Burning daylight](https://open.spotify.com/track/6wfrySLKgLeyGTjh21xvWI) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Pleasure](https://open.spotify.com/album/2FAfR9rZEMwwnrFOYsl2VT) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Butterflies & Benefits](https://open.spotify.com/track/4DPVHcS064sB0nFEnV0gRa) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [Butterflies & Benefits / 4 Letters](https://open.spotify.com/album/5HV0fcZEkyvVOujO7LoiVZ) | 2:51 |
 | 100 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
 
-Snapshot ID: `aCup5QAAAACznI+RwaFGxHYH25zxJrWo`
+Snapshot ID: `aC8v2wAAAACZdE5X0eFn3sbaSMFmuXVS`

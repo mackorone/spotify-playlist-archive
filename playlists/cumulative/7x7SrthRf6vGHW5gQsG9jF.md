@@ -4,7 +4,7 @@
 
 > mostly rock
 
-898 songs - 2 day 9 hr 29 min
+899 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Honto wa Nakisodesu](https://open.spotify.com/track/1HSDxPlPXYGjexTIWFaChn) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [NEE](https://open.spotify.com/album/4eSY2Ka1qHuzxEsWxEu45H) | 4:15 | 2024-05-31 |  |
 | [Houjou \- bonus track](https://open.spotify.com/track/4OzCR5H9FEq4HP4pN66Y4D) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [GREEN ROMANCE](https://open.spotify.com/artist/4ifwODTNRfOpYpxiBjsaTx), [浅井杜人](https://open.spotify.com/artist/3QsQcihids9cKIS5YSCErz) | [You are not rockstar, I'm not rockstar](https://open.spotify.com/album/1yl8uapCeNjf3m1WacTF6N) | 2:34 | 2024-05-02 |  |
 | [hua](https://open.spotify.com/track/3v0je4aXYtdJC3aiIdk9Hw) | [uami](https://open.spotify.com/artist/3xiMlcfR162PpRFXtCV6fE) | [hua](https://open.spotify.com/album/7qFv9PgxEpslbsK4QZSGw9) | 2:30 | 2024-07-04 |  |
+| [HYOJYO](https://open.spotify.com/track/03mHWVNG83zUSxW9kJikqD) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [星宮とと](https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j) | [HYOJYO](https://open.spotify.com/album/2okTA3r2RBpDBQrqvYNTVD) | 3:35 | 2025-05-22 |  |
 | [I couldn't have done this without you.](https://open.spotify.com/track/1ZMetBQzS5LA6FYRBqwzaQ) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 2:40 | 2024-04-25 |  |
 | [I think about Mary Poppins](https://open.spotify.com/track/5dM99PU9YJ7gdDqM9e5huo) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [hades \(the nine stages of change at the deceased remains\)](https://open.spotify.com/album/4hBL8N0YTn1d8P1c0AZdLw) | 6:36 | 2023-12-22 |  |
 | [I Want You By My Side](https://open.spotify.com/track/6RVfG5WnuumV1I5pCIhB1N) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 5:21 | 2023-07-30 |  |

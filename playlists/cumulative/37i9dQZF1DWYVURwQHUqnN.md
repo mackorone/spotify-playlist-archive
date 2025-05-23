@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Bouss
+> Photo : KeBlack
 
-285 songs - 13 hr 38 min
+287 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [C'est Quoi Ton Délire](https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Nés Pour Briller : Book II](https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh) | 2:54 | 2025-04-17 |  |
 | [Cadeau](https://open.spotify.com/track/3wdX97iSj3e6yeR2UHAK1b) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Cadeau](https://open.spotify.com/album/7rsmXW3eXO2Q1ywhkFwZPZ) | 2:34 | 2025-02-13 | 2025-04-11 |
 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 | 2024-01-11 | 2024-05-24 |
-| [Caramelo \(feat\. Emkal\)](https://open.spotify.com/track/6PoaABBRXHLBGGCIBlhryb) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5), [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Caramelo \(feat\. Emkal\)](https://open.spotify.com/album/2Kn3m9RLTjfBLKavTZFA7g) | 2:59 | 2025-05-01 |  |
+| [Caramelo \(feat\. Emkal\)](https://open.spotify.com/track/6PoaABBRXHLBGGCIBlhryb) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5), [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Caramelo \(feat\. Emkal\)](https://open.spotify.com/album/2Kn3m9RLTjfBLKavTZFA7g) | 2:59 | 2025-05-01 | 2025-05-23 |
 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 | 2024-12-12 |  |
 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-09-28 | 2024-02-23 |
 | [Cette vie là](https://open.spotify.com/track/59qFAzJ0AIfgM1MOg3F2pN) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Zedka](https://open.spotify.com/artist/3rWPNJDCrhmz2WupEdgJV9), [Vybe](https://open.spotify.com/artist/7qCwAUaOS16iq8jiZurfvl) | [Cette vie là](https://open.spotify.com/album/1ePdvUoIltq2oGKz1OYobP) | 2:44 | 2024-05-16 | 2024-06-14 |
@@ -122,6 +122,7 @@
 | [Këur](https://open.spotify.com/track/7awY6bDRy9M3OGfwGXG0T8) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Këur](https://open.spotify.com/album/1fYhYoGkV8ekc0PdsJQ73a) | 2:45 | 2025-01-02 | 2025-05-16 |
 | [L'ARGENT DES GENS](https://open.spotify.com/track/2g0Vv5r2SqpJfedRvhrb6r) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd) | [L'ARGENT DES GENS](https://open.spotify.com/album/26S1rKSuoIZxKfvIv7dM1W) | 2:41 | 2025-04-24 |  |
 | [La Capitale](https://open.spotify.com/track/61ftvJIboUekDBePgs2Qe9) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1) | [La Capitale](https://open.spotify.com/album/5jTEJD2cxm5u2naymHRBDN) | 2:31 | 2023-09-28 | 2023-10-06 |
+| [La danse des jaloux](https://open.spotify.com/track/3b09nU4PXeO42XStlRl0wI) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [En 4 temps \(Part.4\)](https://open.spotify.com/album/2mNDwgUh77heNgLCta1JFG) | 2:37 | 2025-05-22 |  |
 | [La grinta](https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La grinta](https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc) | 3:31 | 2023-09-28 | 2023-12-01 |
 | [LA MÊME HISTOIRE](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [LA MÊME HISTOIRE](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 | 2024-07-18 | 2024-11-29 |
 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-28 | 2024-09-06 |
@@ -202,7 +203,7 @@
 | [Picoler](https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Picoler](https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3) | 3:09 | 2024-01-25 | 2024-02-23 |
 | [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 | 2025-05-01 |  |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-09-28 | 2024-05-03 |
-| [Popo](https://open.spotify.com/track/3hw6otI0OVImUyewp4g6qt) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [En 4 temps \(Part.3\)](https://open.spotify.com/album/2XY7ZqwQWEzXlIiKpfL14b) | 2:38 | 2025-04-24 |  |
+| [Popo](https://open.spotify.com/track/3hw6otI0OVImUyewp4g6qt) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [En 4 temps \(Part.3\)](https://open.spotify.com/album/2XY7ZqwQWEzXlIiKpfL14b) | 2:38 | 2025-04-24 | 2025-05-23 |
 | [Potentiel](https://open.spotify.com/track/6hqSDLb1u5x1kduc51ZMym) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Potentiel](https://open.spotify.com/album/0cwJIqmCIJuIujx7YmSSjZ) | 3:00 | 2024-02-08 | 2024-04-26 |
 | [Poupeta](https://open.spotify.com/track/5eIKVbZSCaTjcAQnvsibTI) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Poupeta](https://open.spotify.com/album/1teaKfLKGiM0Q4H5SrxAfr) | 2:40 | 2025-04-24 |  |
 | [Pourtant \(feat\. Merveille\)](https://open.spotify.com/track/4Chon33DODCJeShDWwDbPI) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Olyboy](https://open.spotify.com/album/2DLkXtckhBO5qtjvAtHkBS) | 3:09 | 2025-04-03 | 2025-05-02 |
@@ -232,6 +233,7 @@
 | [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-06-13 | 2024-07-05 |
 | [SAMU KANI](https://open.spotify.com/track/4G9qKwAEHXctjKlyTOMpZj) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [BIG MAN](https://open.spotify.com/album/6c0EWZUJUXYI6OgdteIOyu) | 2:34 | 2024-10-24 | 2024-12-20 |
 | [San Diego ft\. Lacrim](https://open.spotify.com/track/6ephzT5CqrF6hzm4odZ81t) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [San Diego](https://open.spotify.com/album/4nEnGfngTG00aUEfaawHGz) | 2:22 | 2024-11-21 | 2025-02-07 |
+| [SANGOTE](https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [SANGOTE](https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67) | 2:13 | 2025-05-22 |  |
 | [SANS BOUSSOLE](https://open.spotify.com/track/6XxRu7undYs0MU43wzc78V) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 2:53 | 2024-10-24 | 2025-03-07 |
 | [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 | 2023-11-09 | 2024-06-21 |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-09-28 | 2024-02-16 |

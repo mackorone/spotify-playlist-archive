@@ -452,7 +452,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 163867,
       "name": "Ace",
       "url": "https://open.spotify.com/track/3UKQ5hpIM4nWnV2vzhOwPd"
@@ -834,6 +834,32 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "album": {
+        "name": "All There Is To Know",
+        "url": "https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "All There Is To Know",
+      "url": "https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4"
     },
     {
       "album": {
@@ -1268,7 +1294,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 166666,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/3KaPpnlVjZ51OJNf5z269a"
@@ -2009,6 +2035,28 @@
     },
     {
       "album": {
+        "name": "Bike in L.A. (Remix)",
+        "url": "https://open.spotify.com/album/2lkzxdUkdfM6icTQcX0Ecv"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203846,
+      "name": "Bike in L.A. - Remix",
+      "url": "https://open.spotify.com/track/7b0RdqkZKkSZZDSrnEVZRS"
+    },
+    {
+      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -2394,7 +2442,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 213253,
       "name": "Bring it on",
       "url": "https://open.spotify.com/track/4Fc1sylN8YraEYWGURPZIe"
@@ -2554,6 +2602,24 @@
       "duration_ms": 186061,
       "name": "butterfly (so free)",
       "url": "https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba"
+    },
+    {
+      "album": {
+        "name": "C C C",
+        "url": "https://open.spotify.com/album/4LxaKUWOsO7I15CMN0wVxC"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "C C C",
+      "url": "https://open.spotify.com/track/2SXLCcrH227dQ1ffi7PbnH"
     },
     {
       "album": {
@@ -2888,6 +2954,28 @@
       "duration_ms": 414193,
       "name": "Casualities - YAME Remix",
       "url": "https://open.spotify.com/track/0pAX8suClIReqkFfrA5TsV"
+    },
+    {
+      "album": {
+        "name": "Catching feelings",
+        "url": "https://open.spotify.com/album/2lUIfpdrW8OuEgpvPjMhWg"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202809,
+      "name": "Catching feelings",
+      "url": "https://open.spotify.com/track/5WZL03aLF9GVNaa5Q6ATNe"
     },
     {
       "album": {
@@ -5106,7 +5194,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 216506,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF"
@@ -7876,7 +7964,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 166586,
       "name": "Hard (feat. Hanni El Khatib)",
       "url": "https://open.spotify.com/track/0QHZomqI7eXhkkljkXMpEr"
@@ -10839,6 +10927,28 @@
     },
     {
       "album": {
+        "name": "Keep On Coming",
+        "url": "https://open.spotify.com/album/0waDbAWnbLNmB8s2bBgcwq"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Ocean Flor",
+          "url": "https://open.spotify.com/artist/0LoAvUve5dlyMSOtpcaAxL"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172627,
+      "name": "Keep On Coming",
+      "url": "https://open.spotify.com/track/1tBvv3FJi29PHeJyd9vufL"
+    },
+    {
+      "album": {
         "name": "Keep on Dancing",
         "url": "https://open.spotify.com/album/74d9kaLOARlWZ5cG5PVxJW"
       },
@@ -12032,7 +12142,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 247446,
       "name": "Love is so Unreal",
       "url": "https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl"
@@ -13920,7 +14030,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 267769,
       "name": "Never Felt Better",
       "url": "https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv"
@@ -14084,7 +14194,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 323442,
       "name": "New York Is Dead",
       "url": "https://open.spotify.com/track/42Bsi4GeeKCHO01bbSZROm"
@@ -15732,7 +15842,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 235034,
       "name": "Post Romance",
       "url": "https://open.spotify.com/track/7p5hSZgshzsERQyTj3gXZh"
@@ -15874,6 +15984,32 @@
       "duration_ms": 264176,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
+    {
+      "album": {
+        "name": "Pure Vernunft Darf Niemals Siegen (Superpitcher / Wassermann Mix) (Edit)",
+        "url": "https://open.spotify.com/album/2W4UGRlHoTObLSVpzW4AOC"
+      },
+      "artists": [
+        {
+          "name": "Tocotronic",
+          "url": "https://open.spotify.com/artist/4WOaecAM3RMMmrbZzNx0vu"
+        },
+        {
+          "name": "Superpitcher",
+          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
+        },
+        {
+          "name": "Wassermann",
+          "url": "https://open.spotify.com/artist/0i2Q9WRxWu788ndngfKT26"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233131,
+      "name": "Pure Vernunft Darf Niemals Siegen (Superpitcher / Wassermann Mix) - Edit",
+      "url": "https://open.spotify.com/track/7lxEacUq3GfoqlUpl5YmQd"
     },
     {
       "album": {
@@ -16621,6 +16757,24 @@
     },
     {
       "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bourachot",
+          "url": "https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281693,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/2GFbQDp5TpWn1u9S7KGy2K"
       },
@@ -17093,6 +17247,24 @@
     },
     {
       "album": {
+        "name": "Sexy in my Bodyyy",
+        "url": "https://open.spotify.com/album/0S5qfn8RR4zvWl2aW9qXRl"
+      },
+      "artists": [
+        {
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191308,
+      "name": "Sexy in my Bodyyy",
+      "url": "https://open.spotify.com/track/5Vy1szrM3FkbTpXeXeLBVH"
+    },
+    {
+      "album": {
         "name": "Shades Of Love (feat. The Joy)",
         "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
@@ -17178,6 +17350,28 @@
       "duration_ms": 217413,
       "name": "She Is Coming - Jean Tonique Remix",
       "url": "https://open.spotify.com/track/4qYqjNyEIWX3lSoUVZgCY0"
+    },
+    {
+      "album": {
+        "name": "She's Mine",
+        "url": "https://open.spotify.com/album/2v81LhpbmhMj1HOzqKC2G7"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215131,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/6TBOR2XStkWY6sjjp1QIYb"
     },
     {
       "album": {
@@ -17404,7 +17598,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 151583,
       "name": "Signs",
       "url": "https://open.spotify.com/track/3aZWeuraySpOazI9BmLf7g"
@@ -18056,7 +18250,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 225231,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
@@ -18190,6 +18384,24 @@
       "duration_ms": 184986,
       "name": "Starlight (feat. Lord Siva)",
       "url": "https://open.spotify.com/track/3fGhEM2oydg2PLWTxMTtoV"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0ysQS7Z7pquFTZfgXps8jf"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dreams",
+          "url": "https://open.spotify.com/artist/7x8nHczUKxMXrHv2iYTRJT"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190027,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/090B72QjFp0q2yFLHFpx4L"
     },
     {
       "album": {
@@ -20845,6 +21057,28 @@
     },
     {
       "album": {
+        "name": "Unidos",
+        "url": "https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317962,
+      "name": "Unidos",
+      "url": "https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0"
+    },
+    {
+      "album": {
         "name": "Unity (Agar Agar Remix)",
         "url": "https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K"
       },
@@ -21238,6 +21472,24 @@
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Punchline (Swallertrip)",
+        "url": "https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203688,
+      "name": "Waiting For The Punchline (Swallertrip)",
+      "url": "https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy"
     },
     {
       "album": {
@@ -22263,6 +22515,28 @@
     },
     {
       "album": {
+        "name": "Wonderful Life '25",
+        "url": "https://open.spotify.com/album/1AF8ip6XRTWQkN1y5rQm2a"
+      },
+      "artists": [
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178658,
+      "name": "Wonderful Life '25",
+      "url": "https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We"
+    },
+    {
+      "album": {
         "name": "WORRY.",
         "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
@@ -22292,7 +22566,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 173430,
       "name": "Wrestling My Mind",
       "url": "https://open.spotify.com/track/6rmpTWLLiQzHJsUExIfMQZ"
@@ -22724,7 +22998,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 101960,
       "name": "your touch",
       "url": "https://open.spotify.com/track/7cPZshG4jWR6pTvhZVL6JG"

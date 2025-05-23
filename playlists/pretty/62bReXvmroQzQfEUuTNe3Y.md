@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,668,477 likes - 150 songs - 7 hr 49 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,669,609 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 |
 | 2 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
-| 3 | [Secrets](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ) | [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Secrets](https://open.spotify.com/album/3a581sY3CEIpRmVAgs0f0r) | 2:17 |
-| 4 | [Inside Out](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Inside Out](https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD) | 4:00 |
-| 5 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 |
-| 6 | [That's Where I Should Be](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF) | [That's Where I Should Be](https://open.spotify.com/album/0Gj3tuAjtDbNhapyVTe7DZ) | 2:22 |
-| 7 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 |
+| 3 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 |
+| 4 | [Secrets](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ) | [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Secrets](https://open.spotify.com/album/3a581sY3CEIpRmVAgs0f0r) | 2:17 |
+| 5 | [Inside Out](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Inside Out](https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD) | 4:00 |
+| 6 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 |
+| 7 | [That's Where I Should Be](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF) | [That's Where I Should Be](https://open.spotify.com/album/0Gj3tuAjtDbNhapyVTe7DZ) | 2:22 |
 | 8 | [Life with You](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Life with You](https://open.spotify.com/album/63Md1X2XSpmMlfxXuBmWOe) | 2:38 |
 | 9 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 10 | [Chemicals](https://open.spotify.com/track/6fbj2WJhkyYamhkYngTI5W) | [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Chemicals](https://open.spotify.com/album/3grdk4C5mdbdQ3jQJvDocS) | 2:32 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 149 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 |
 | 150 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `AAAQWiPlpot4B2M5dMAs3QGpzvRLZYFp`
+Snapshot ID: `AAAQXXsRuhWyRV9eWe0eObDEiuh+2OVd`

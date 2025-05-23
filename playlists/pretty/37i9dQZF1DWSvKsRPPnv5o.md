@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Snoop Dogg
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,181 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,239 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 13 | [Tweaker \(feat\. Lil Wayne\) \- Remix](https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tweaker \(Remix\)](https://open.spotify.com/album/6bBfMv4a8sG6Qj8N1naxuX) | 3:38 |
 | 14 | [Dirty Diana](https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Sleaze the World](https://open.spotify.com/album/6ygz1FAP0dI829mbYngmL5) | 3:15 |
 | 15 | [CRACKS IN THE CEILING](https://open.spotify.com/track/3eYcXFIM8fVfk1ChqiWLtg) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Can't Get Right](https://open.spotify.com/album/5KZYj4Atqxy3nKvl5PVz5k) | 2:23 |
-| 16 | [Pop Out](https://open.spotify.com/track/1z5lT4q90zv9d3QdVrhPFY) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Pop Out](https://open.spotify.com/album/4KyCFw42RjIyjfBIUTn3zA) | 1:45 |
+| 16 | [Pop Out](https://open.spotify.com/track/1z5lT4q90zv9d3QdVrhPFY) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Pop Out](https://open.spotify.com/album/4KyCFw42RjIyjfBIUTn3zA) | 1:54 |
 | 17 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 |
 | 18 | [Feels So Good](https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:11 |
 | 19 | [KLOWN dance \(feat\. Jay Rock\)](https://open.spotify.com/track/38tT9H9JYKXjUDs4kqaE4e) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 3:19 |

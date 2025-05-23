@@ -31,6 +31,36 @@
     },
     {
       "album": {
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/1gJ6nE9y60w21FhOzoqfRU"
+        },
+        {
+          "name": "PILANTRINHAS",
+          "url": "https://open.spotify.com/artist/78dDMfgEhmySKmPSK2rG0k"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
+    },
+    {
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -702,7 +732,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 180830,
       "name": "DEPOIS DO BAILE",
       "url": "https://open.spotify.com/track/2j15gcfNgGBgfvjQXCTqhg"

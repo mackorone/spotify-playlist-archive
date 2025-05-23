@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Lavora",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -270,6 +270,24 @@
       "duration_ms": 269619,
       "name": "Aku Ra Mundur (Tepung Kanji)",
       "url": "https://open.spotify.com/track/2qFc0jWjD602lVz63XfGrm"
+    },
+    {
+      "album": {
+        "name": "Aku Sing Duwe Ati",
+        "url": "https://open.spotify.com/album/2N5gpOt55TZ9vA6pGsj6dt"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282461,
+      "name": "Aku Sing Duwe Ati",
+      "url": "https://open.spotify.com/track/2Tux40dGjaKKA0ad7nLDi3"
     },
     {
       "album": {
@@ -748,7 +766,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 247384,
       "name": "Baik Baik Saja",
       "url": "https://open.spotify.com/track/7mbUZGtg6TvjTRzd1G3cDm"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 306000,
       "name": "Cundamani",
       "url": "https://open.spotify.com/track/6J8rXMAh4eO50fplNgy7Ob"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 230000,
       "name": "Enak Rasane",
       "url": "https://open.spotify.com/track/4ADfkFYj6kD8Gt4rsr7WoW"
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 294634,
       "name": "Ikhlas Ngenteni",
       "url": "https://open.spotify.com/track/03vCFyLTKlAXkUti7plxtN"
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 330240,
       "name": "Jamu - Janji Muanis",
       "url": "https://open.spotify.com/track/0VWjL0fITn5OpjGMBxbir9"
@@ -2850,6 +2868,28 @@
       "duration_ms": 346000,
       "name": "Kartonyono Medot Janji",
       "url": "https://open.spotify.com/track/5mif8baNRylKBl3vb7kdP6"
+    },
+    {
+      "album": {
+        "name": "KASETYANJATI (Live)",
+        "url": "https://open.spotify.com/album/1QJIUyegfBZnXGDafI8sh8"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "KASETYANJATI - Live",
+      "url": "https://open.spotify.com/track/3rO70kUcS7nVoSx9TXCns4"
     },
     {
       "album": {
@@ -6633,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "Rapercoyo",
+        "url": "https://open.spotify.com/album/62USw0UVeBScz0CtQJJEkV"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Rapercoyo",
+      "url": "https://open.spotify.com/track/10DfezBsYWwwrKdBihxTP9"
+    },
+    {
+      "album": {
         "name": "Rasah Bali",
         "url": "https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e"
       },
@@ -7282,7 +7340,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 276000,
       "name": "Sasine",
       "url": "https://open.spotify.com/track/3yzB7YYzqU7FhBTtBkauVG"
@@ -8580,6 +8638,24 @@
       "duration_ms": 294893,
       "name": "Tresno Liyane",
       "url": "https://open.spotify.com/track/6TGKyyyMCmtjf3MpdRnpxE"
+    },
+    {
+      "album": {
+        "name": "Tresno Liyane (Pop Version)",
+        "url": "https://open.spotify.com/album/4cBfSxkl3sz9kjuShMqJBZ"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Tresno Liyane - Pop Version",
+      "url": "https://open.spotify.com/track/6uioIuaj8ijLpfAHdRgiXJ"
     },
     {
       "album": {

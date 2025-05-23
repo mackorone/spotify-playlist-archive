@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: RowdyRoadie
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Juniper Care
 
-1,420 songs - 3 day 8 hr 7 min
+1,424 songs - 3 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Come Back To Me](https://open.spotify.com/track/3M3p5VOaMl2o9vgo0hweok) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [Come Back To Me](https://open.spotify.com/album/2fj9Ys2JNrWhEbWEQ8O5xX) | 3:20 | 2023-01-12 | 2023-05-26 |
 | [Come Out & Play](https://open.spotify.com/track/31Brs2Z8uq7QEfsx44o8r0) | [r.a.g.s.](https://open.spotify.com/artist/2BpkEwGtXVEr5xejFjXkdn), [julian.](https://open.spotify.com/artist/2OF4DfPj0RD76W3kUyfHNl) | [Come Out & Play](https://open.spotify.com/album/3ljFFhpoOUvTqpBeQ9FRAq) | 2:55 | 2024-01-25 | 2024-05-10 |
 | [Come To Me](https://open.spotify.com/track/1pR6W6I6Z0NHBkHK7fp4E2) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Come To Me](https://open.spotify.com/album/4YGqDJmeJMhYqY5NzNr9RV) | 3:02 | 2025-03-27 |  |
+| [Comethru](https://open.spotify.com/track/3UpNhwIgEVRrGLqguca8bj) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [Comethru](https://open.spotify.com/album/1dwEFUhu6OLAvuve0hiDRp) | 2:11 | 2025-05-22 |  |
 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 | 2024-05-23 | 2024-11-15 |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-26 | 2022-07-29 |
 | [Conquer \- Live](https://open.spotify.com/track/4wzrcQrWikddwgxiFJAr4r) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Conquer \(Live\)](https://open.spotify.com/album/4e1FYYsHXgEym0ibwuTYqN) | 3:46 | 2022-12-08 | 2023-03-18 |
@@ -544,6 +545,7 @@
 | [Miss Me](https://open.spotify.com/track/7ol5kRNBkXj5VxARfiSfeZ) | [Seungrae](https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh) | [Miss Me](https://open.spotify.com/album/58mZKgn2U8ldfguwEg7sXC) | 2:43 | 2025-05-09 |  |
 | [MISTRESS](https://open.spotify.com/track/4iDwZYGMHF30Nh12OUHtcD) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [MISTRESS](https://open.spotify.com/album/5Z11m001u3WTHH5sDxLXFC) | 3:01 | 2022-11-03 | 2023-02-03 |
 | [MK Nose](https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [Qqbbg](https://open.spotify.com/artist/6ZmrXLpXLuqQRvZNvgHg1O) | [MK Nose](https://open.spotify.com/album/7aprLIUrc6j6iq3jtaveA4) | 2:29 | 2022-09-08 | 2023-03-18 |
+| [Modern Cowboys](https://open.spotify.com/track/4ulbRAZl3dl5laKuB0xPaO) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Modern Cowboys](https://open.spotify.com/album/4fZ2LSWkyafspFaKOk7hjp) | 3:30 | 2025-05-22 |  |
 | [Mom I’d Like To...](https://open.spotify.com/track/0zJ3jtxEwtcifX7S0EIVDl) | [MATCH](https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa) | [Mom I’d Like To...](https://open.spotify.com/album/1LQtV1flVtaGPVuBZ6d8q7) | 3:46 | 2024-05-16 | 2024-11-15 |
 | [Moment](https://open.spotify.com/track/1JrKRCKVrTpLHYnTwlqeaO) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [heaven sent](https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6) | 3:28 | 2024-04-25 | 2024-11-15 |
 | [money play](https://open.spotify.com/track/6YDCFck24JvnnO1PNKV1Q4) | [SeeYouTmr](https://open.spotify.com/artist/2p1CsJyPqchYSy2wJO0JQX), [6moods](https://open.spotify.com/artist/7DdB9J02AwhmvbFG9qD5eI) | [money play](https://open.spotify.com/album/1Ckoc6qsvzkeCroh5FDAHK) | 2:07 | 2024-02-01 | 2024-05-10 |
@@ -648,6 +650,7 @@
 | [Pick Up The Damn Phone! \(feat\. J Jelly\)](https://open.spotify.com/track/5d83zd1R25UuBbo0qefJhm) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [Pick Up The Damn Phone! \(feat\. J Jelly\)](https://open.spotify.com/album/5u621JujHuIfaMlbwElkHm) | 2:28 | 2024-01-25 | 2024-05-10 |
 | [pick up your phone](https://open.spotify.com/track/4jiiHoUOH8oDLPcWuydGuF) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h), [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [pick up your phone](https://open.spotify.com/album/5DubLw2TnutkxKYS0Nuygx) | 2:57 | 2023-06-15 | 2023-11-03 |
 | [pie 批](https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK) | [nnscya](https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff) | [批 PIE](https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz) | 2:56 | 2024-05-16 | 2024-11-15 |
+| [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 | 2025-05-22 |  |
 | [Pinocchio](https://open.spotify.com/track/5WihmbIXAuVYr9vNTchJD8) | [Raylee Forest](https://open.spotify.com/artist/0sjPDzNZVEwTlpzLfoJjRc) | [Pinocchio](https://open.spotify.com/album/713Br8tfG9knS9eKgyW6to) | 2:47 | 2024-06-20 | 2024-11-15 |
 | [Pipe Down](https://open.spotify.com/track/3IPG9sobVyGdFgMqEIvbNB) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Pipe Down](https://open.spotify.com/album/7pNGJ4e0VIqDXt3S9yTyeM) | 4:41 | 2025-04-04 |  |
 | [Planet Nine](https://open.spotify.com/track/319vdKBCMdU0lSqk0DyPBo) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [Planet Nine](https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk) | 3:12 | 2023-12-28 | 2024-05-10 |
@@ -840,6 +843,7 @@
 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 | 2022-09-08 | 2023-03-18 |
 | [threads \[脆\]](https://open.spotify.com/track/2ipsCE60B1lxbkz6Qty66g) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [threads \[脆\]](https://open.spotify.com/album/46jhy8Ce6OjdLClJUxqfzy) | 2:27 | 2024-11-28 | 2025-04-25 |
 | [threeAM](https://open.spotify.com/track/7EIgAzIwV8FeYTcTOIGQgt) | [NIVKOM](https://open.spotify.com/artist/2BwqjjKkM8McmEUbzDTXpZ) | [threeAM](https://open.spotify.com/album/7GFpPOUyuojXgKVBJWWO4w) | 2:13 | 2024-03-21 | 2024-11-15 |
+| [through the echoes](https://open.spotify.com/track/3v6c70hy2lWTisOBOJRiY5) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [through the echoes](https://open.spotify.com/album/5uqI4OPlSpqSRHQ9YkSrdG) | 4:14 | 2025-05-22 |  |
 | [Tie Dye](https://open.spotify.com/track/6un3YXxJWnu0l7qRgkuuOJ) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [Tie Dye](https://open.spotify.com/album/2ncI47qvFgRCeyRXKS6O99) | 2:10 | 2023-05-18 | 2023-09-01 |
 | [Till Frustrated](https://open.spotify.com/track/1ane3Db3PbqCUQlYcCL4hU) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Till Frustrated](https://open.spotify.com/album/5x7AVjmy0DiitickihNFzs) | 4:19 | 2023-09-14 | 2023-12-01 |
 | [TIME](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [TIME](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 | 2024-10-24 | 2025-02-14 |

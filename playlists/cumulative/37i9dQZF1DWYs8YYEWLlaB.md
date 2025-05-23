@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Tan Taşçı
+> viral, trend ve yükselenler\.  Kapak: SNOW x Murat Boz x Era7capone
 
 160 songs - 8 hr 25 min
 

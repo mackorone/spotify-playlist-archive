@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "sweet and fresh emerging indie pop, featuring Jessica Winter \ud83c\udf51",
+  "description": "sweet and fresh emerging indie pop, featuring frances mistry \ud83c\udf80",
   "name": "peach",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 159705,
       "name": "Bigger Person",
       "url": "https://open.spotify.com/track/0KoMv3zKj8HhnZvTWaGrRg"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 130082,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/2GydOd9TFZoz42qYxHR0ra"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 197571,
       "name": "Dolly Pardon",
       "url": "https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 228571,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5lDEyYqBrVn7eQTIVgx5sx"
@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "missing everything",
+        "url": "https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186751,
+      "name": "missing everything",
+      "url": "https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
       },
@@ -3241,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/1xlB4pdoiTU5CYGHBbmxMm"
+      },
+      "artists": [
+        {
+          "name": "LARAbEL",
+          "url": "https://open.spotify.com/artist/4NYyRftIFDSk9ZM975OoBM"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244700,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/4EVv0D7ShDlbU43FDNURFP"
+    },
+    {
+      "album": {
         "name": "One Lost English Boy",
         "url": "https://open.spotify.com/album/16Jb4ETjP8eFwWSUXcxAx6"
       },
@@ -3454,7 +3490,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
@@ -3660,6 +3696,24 @@
       "duration_ms": 167569,
       "name": "Shiny Things",
       "url": "https://open.spotify.com/track/1FtIJ4bHPWDp82eFDAe9w7"
+    },
+    {
+      "album": {
+        "name": "conversations with those i love",
+        "url": "https://open.spotify.com/album/0mMjfxxZHYULpkHqlAgxz9"
+      },
+      "artists": [
+        {
+          "name": "frances mistry",
+          "url": "https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "shock to my system",
+      "url": "https://open.spotify.com/track/1FpFO29GfkmHIt0yWVbpmg"
     },
     {
       "album": {
@@ -4510,7 +4564,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "With u",
       "url": "https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG"
@@ -4528,7 +4582,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 139223,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF"

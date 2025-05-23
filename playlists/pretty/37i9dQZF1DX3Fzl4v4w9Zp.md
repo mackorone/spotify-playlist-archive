@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,929 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,837 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [The Illinois River Song](https://open.spotify.com/track/4S0WTLDl3ECJnfhEVIZqtQ) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Illinois River Song](https://open.spotify.com/album/7qTQjO4Kh1wmIesybwQF41) | 4:14 |
 | 150 | [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 |
 
-Snapshot ID: `aCa4XwAAAACYbYbhcRjuVgWJLcUvFtlL`
+Snapshot ID: `aCa4XwAAAABwSk15LBU4YyEHlX4RRECm`

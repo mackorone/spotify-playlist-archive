@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSPWTO4n5fg.md) - [plain]
 
 > Listen to the soundtracks of GENIE TV's original drama Delivery Man\. \(지니TV 오리지널 드라마 딜리버리 맨의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,636 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,640 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSPWTO4n5fg.md) - [plain]
 | 58 | [Gloomy Driver](https://open.spotify.com/track/7ou4CDQnMYF4BfWZQzfhfr) | [KIM JONG CHEON](https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86) | [Delivery Man \(Original Soundtrack\)](https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9) | 2:17 |
 | 59 | [Opening Signal](https://open.spotify.com/track/6jNuWvdZ4xmHltQehWxsDX) | [Kim Ho Jung](https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF), [블루키](https://open.spotify.com/artist/7KbMn3yuGgzCotcFCtm3zL) | [Delivery Man \(Original Soundtrack\)](https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9) | 0:24 |
 
-Snapshot ID: `ZIxd9wAAAABXNWdsZ9YNFfM0UpJtedSq`
+Snapshot ID: `AAAAAMN/DzNwAxv6nbP2dWR0cu3ARV1B`

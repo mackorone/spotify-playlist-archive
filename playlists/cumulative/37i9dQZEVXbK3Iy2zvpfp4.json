@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 220838,
       "name": "Assumptions",
       "url": "https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh"
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 217411,
       "name": "BA Connect",
       "url": "https://open.spotify.com/track/7Ip6b4A9Kt3N8GMtzzwiTn"
@@ -53675,6 +53675,24 @@
     },
     {
       "album": {
+        "name": "SURVIVOR",
+        "url": "https://open.spotify.com/album/5WtJnnQy8iMz2ucyO6g4DZ"
+      },
+      "artists": [
+        {
+          "name": "PARG",
+          "url": "https://open.spotify.com/artist/2tm0hthZZUgjJ4c8jzbZ4K"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178300,
+      "name": "SURVIVOR",
+      "url": "https://open.spotify.com/track/4FqL1MlFQ67DipYCbmHzj8"
+    },
+    {
+      "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
       },
@@ -62480,7 +62498,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 103344,
       "name": "WW3",
       "url": "https://open.spotify.com/track/1XMQl1X1rpfqdSAg0UJqTS"
@@ -63508,7 +63526,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 184421,
       "name": "Zjerm",
       "url": "https://open.spotify.com/track/1MMfGAHowKNRithYDIRS1k"
@@ -65243,7 +65261,7 @@
     },
     {
       "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1",
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
         "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
       },
       "artists": [
@@ -65254,9 +65272,9 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 173037,
-      "name": "\u516b\u65b9\u4f86\u8ca1",
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
     },
     {

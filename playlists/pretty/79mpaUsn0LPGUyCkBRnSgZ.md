@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 548 songs - 1 day 12 hr 22 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 549 songs - 1 day 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -556,5 +556,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 546 | [Jumpscare](https://open.spotify.com/track/0zOmLh7zxmMIgJKU6Cfdlx) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Steel Tipped Dove](https://open.spotify.com/artist/6b74rHzWIZlgLH7U5ybjUE) | [GOLLIWOG](https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo) | 3:16 |
 | 547 | [Turn the Page](https://open.spotify.com/track/7eHt7rcLWNXREbck9PAsHA) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 3:15 |
 | 548 | [Heartbreak](https://open.spotify.com/track/2DACCH3WlvR77DxBTBRkS0) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Better Dreaming](https://open.spotify.com/album/0TmYypxPNSZe9UqAlQv8F3) | 3:29 |
+| 549 | [Cry Mfer](https://open.spotify.com/track/5FZc0K8y8Z2w1NJ8NIXKwc) | [My Idea](https://open.spotify.com/artist/7rfkR5Nc8l4eA34a7eazoW) | [CRY MFER](https://open.spotify.com/album/7g4M2kfMKd7bFJbYBPxWTD) | 4:14 |
 
-Snapshot ID: `AAAHLZxdCyWsT8IqFZp4ivaB1EgWRLIk`
+Snapshot ID: `AAAHLm9+d0Dfv3VcVBVPYM/Hk4NLZ87H`

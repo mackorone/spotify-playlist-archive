@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125314,
+  "num_followers": 125311,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUHPICHsIR3CJpDBkHh9CdPRqckaQT",
+  "snapshot_id": "AAAUHeIWYcJRcn+O8hgYjjxzhj1GZfq6",
   "tracks": [
+    {
+      "added_at": "2025-05-22 15:08:17",
+      "album": {
+        "name": "In My Eyes",
+        "url": "https://open.spotify.com/album/20j8vVWdM8QdqyJzxw5joN"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "M A R N i E",
+          "url": "https://open.spotify.com/artist/5IIMk50U5mxPCeusKFjHph"
+        },
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/7aEDTeARc5sdHA1komPczb"
+        }
+      ],
+      "duration_ms": 193735,
+      "name": "In My Eyes",
+      "url": "https://open.spotify.com/track/3cKk2nduHxSXklVQowf80Y"
+    },
     {
       "added_at": "2025-05-21 14:14:34",
       "album": {

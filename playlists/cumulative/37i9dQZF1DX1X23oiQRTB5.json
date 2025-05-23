@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Hommage \u00e0 Werenoi.",
+  "description": "Hamza au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "LOCO LOCO",
+        "url": "https://open.spotify.com/album/5VmGA1Ji5BmfT7i9NREypP"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105882,
+      "name": "LOCO LOCO",
+      "url": "https://open.spotify.com/track/6gfOgz8azJBConIxm0OUWG"
+    },
+    {
+      "album": {
         "name": "Loi de la calle",
         "url": "https://open.spotify.com/album/6GQE5lnK5ghizdk7WKENSA"
       },
@@ -5486,7 +5504,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 127413,
       "name": "REGULATION",
       "url": "https://open.spotify.com/track/3ZiSKMehtVkU2cDtBhO1Nz"
@@ -5636,6 +5654,28 @@
       "duration_ms": 162480,
       "name": "Sadio (feat. Offset)",
       "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
+    },
+    {
+      "album": {
+        "name": "Dans la temp\u00eate",
+        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
+      },
+      "artists": [
+        {
+          "name": "HMZ",
+          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150741,
+      "name": "Saison",
+      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
     },
     {
       "album": {
@@ -6490,7 +6530,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 187810,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"

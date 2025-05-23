@@ -11417,6 +11417,24 @@
     },
     {
       "album": {
+        "name": "doyoubinoyume",
+        "url": "https://open.spotify.com/album/4H5jI3XpaEHmViBx2vaN8J"
+      },
+      "artists": [
+        {
+          "name": "OKADA PISUS",
+          "url": "https://open.spotify.com/artist/2mUBpfT13TbmoGlUB4rmZg"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211002,
+      "name": "harunikaeru",
+      "url": "https://open.spotify.com/track/4QjdyUdTjTsZes5sHV8rxh"
+    },
+    {
+      "album": {
         "name": "Peaceful Christmas Piano",
         "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
       },
@@ -28004,7 +28022,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 162062,
       "name": "The Proposal",
       "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"

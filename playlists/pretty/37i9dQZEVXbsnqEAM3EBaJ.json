@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACrwsSHg2Jc0BM+67+RIAe/",
+  "snapshot_id": "AAAAAAAAAAAfernPNIMsno+97IV8tIck",
   "tracks": [
     {
       "added_at": "2025-05-16 04:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 208739,
       "name": "Let You Fade",
       "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/5IlWoFOA7aaouBEniaR7oJ"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 355228,
-      "name": "Present Tense (Redux)",
-      "url": "https://open.spotify.com/track/21YDUkEEXYalHAFNoDGCeG"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -63,6 +47,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/5IlWoFOA7aaouBEniaR7oJ"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 355228,
+      "name": "Present Tense (Redux)",
+      "url": "https://open.spotify.com/track/21YDUkEEXYalHAFNoDGCeG"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
         "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
       },
@@ -83,26 +83,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Northern Stones",
-        "url": "https://open.spotify.com/album/3WfoUdSq3q9ppuOq0wNZpy"
-      },
-      "artists": [
-        {
-          "name": "Defenders Of The Faith",
-          "url": "https://open.spotify.com/artist/3WuYo4HWGCs506nKBc5tSw"
-        },
-        {
-          "name": "Therion",
-          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
-        }
-      ],
-      "duration_ms": 257361,
-      "name": "Northern Stones",
-      "url": "https://open.spotify.com/track/5RJOP742wmn4xqG8C9IcW4"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Sing Like A Siren",
         "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 192561,
       "name": "Sing Like A Siren",
       "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Northern Stones",
+        "url": "https://open.spotify.com/album/3WfoUdSq3q9ppuOq0wNZpy"
+      },
+      "artists": [
+        {
+          "name": "Defenders Of The Faith",
+          "url": "https://open.spotify.com/artist/3WuYo4HWGCs506nKBc5tSw"
+        },
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "duration_ms": 257361,
+      "name": "Northern Stones",
+      "url": "https://open.spotify.com/track/5RJOP742wmn4xqG8C9IcW4"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/0xn5vTCGdTAy2oorbwZ0kN"
-      },
-      "artists": [
-        {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
-        },
-        {
-          "name": "Kat Leon",
-          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2F9bMnfXG3xah4K9jcIr08"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 240407,
       "name": "SHE",
       "url": "https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0xn5vTCGdTAy2oorbwZ0kN"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        },
+        {
+          "name": "Kat Leon",
+          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2F9bMnfXG3xah4K9jcIr08"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "#TWICE5 (Japanese ver.)",
+        "url": "https://open.spotify.com/album/7H559hhWLuJbRWRJlQTFRG"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 183559,
+      "name": "ONE SPARK - Japanese ver.",
+      "url": "https://open.spotify.com/track/1vY45c20uSTeGq7ZTfJtzT"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Inner Turmoil",
         "url": "https://open.spotify.com/album/5YIk4ejO37TnpyjY7xtz6k"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 82860,
       "name": "Krio Max",
       "url": "https://open.spotify.com/track/6IimG7cWTFQUCC9qPohTMh"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "#TWICE5 (Japanese ver.)",
-        "url": "https://open.spotify.com/album/7H559hhWLuJbRWRJlQTFRG"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 183559,
-      "name": "ONE SPARK - Japanese ver.",
-      "url": "https://open.spotify.com/track/1vY45c20uSTeGq7ZTfJtzT"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM"
-      },
-      "artists": [
-        {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Witchhunter",
         "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 165974,
       "name": "Ballyhoo",
       "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "duration_ms": 250397,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/0End8cmKhiiB0qXxA2YRTC"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 187226,
-      "name": "Sowing Salt",
-      "url": "https://open.spotify.com/track/4MkXGOC6pTqCbpYDe2jilg"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Get Out My Face AKA Bad Kitty",
         "url": "https://open.spotify.com/album/1ULJktTBsYpAt3CgCyyH5L"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 276501,
       "name": "Get Out My Face AKA Bad Kitty",
       "url": "https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/0End8cmKhiiB0qXxA2YRTC"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Sowing Salt",
+      "url": "https://open.spotify.com/track/4MkXGOC6pTqCbpYDe2jilg"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -583,38 +583,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Listen Like Thieves (40th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/1jYuoUc2IizEt2iG9Qexr5"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 140253,
-      "name": "Sweet As Sin",
-      "url": "https://open.spotify.com/track/01090WTrigkKGJuLeRJ6eR"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "Souls Devoured",
-        "url": "https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr"
-      },
-      "artists": [
-        {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "Souls Devoured",
-      "url": "https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
       },
@@ -627,6 +595,22 @@
       "duration_ms": 190000,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Listen Like Thieves (40th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/1jYuoUc2IizEt2iG9Qexr5"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 140253,
+      "name": "Sweet As Sin",
+      "url": "https://open.spotify.com/track/01090WTrigkKGJuLeRJ6eR"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -647,6 +631,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Souls Devoured",
+        "url": "https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr"
+      },
+      "artists": [
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "duration_ms": 255880,
+      "name": "Souls Devoured",
+      "url": "https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Radio Free Europe 2025",
         "url": "https://open.spotify.com/album/3WUyr8kiPJQ8c7fYnDkm86"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 113601,
       "name": "Wh. Tornado",
       "url": "https://open.spotify.com/track/2jTHveFQNV94t1ozAGCyZA"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "Negative Space",
-        "url": "https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Negative Space",
-      "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -699,34 +683,18 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "7291",
-        "url": "https://open.spotify.com/album/5Fn7XJ9G9a01AuzzN9z1kD"
+        "name": "Negative Space",
+        "url": "https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh"
       },
       "artists": [
         {
-          "name": "Trastienda RC",
-          "url": "https://open.spotify.com/artist/6kgqNcuTLrKMh08n8gLsnW"
-        },
-        {
-          "name": "XpresidentX",
-          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
-        },
-        {
-          "name": "Def Con Dos",
-          "url": "https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK"
-        },
-        {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
-        },
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 239452,
-      "name": "7291",
-      "url": "https://open.spotify.com/track/6EUlB21PhP0WwRWSfUv4Lt"
+      "duration_ms": 198880,
+      "name": "Negative Space",
+      "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -767,6 +735,38 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "7291",
+        "url": "https://open.spotify.com/album/5Fn7XJ9G9a01AuzzN9z1kD"
+      },
+      "artists": [
+        {
+          "name": "Trastienda RC",
+          "url": "https://open.spotify.com/artist/6kgqNcuTLrKMh08n8gLsnW"
+        },
+        {
+          "name": "XpresidentX",
+          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
+        },
+        {
+          "name": "Def Con Dos",
+          "url": "https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK"
+        },
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 239452,
+      "name": "7291",
+      "url": "https://open.spotify.com/track/6EUlB21PhP0WwRWSfUv4Lt"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
       },
@@ -795,6 +795,26 @@
       "duration_ms": 316386,
       "name": "Every Breath You Take - STING 3.0 Live",
       "url": "https://open.spotify.com/track/5QO7gL3BzP5DDvVJA2h1fj"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "Hot For You Baby (Pet Shop Boys Remix)",
+        "url": "https://open.spotify.com/album/3Zp9w8v4Rk7uP6aiJ2133R"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 349800,
+      "name": "Hot For You Baby - Pet Shop Boys Remix",
+      "url": "https://open.spotify.com/track/2W6N8ZTzvEsBXLY4mKSsGU"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -831,26 +851,6 @@
       "duration_ms": 255973,
       "name": "C\u00f3digos de Barro",
       "url": "https://open.spotify.com/track/49HgaZEJAWTqKc0Wi9RmoQ"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "Hot For You Baby (Pet Shop Boys Remix)",
-        "url": "https://open.spotify.com/album/3Zp9w8v4Rk7uP6aiJ2133R"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 349800,
-      "name": "Hot For You Baby - Pet Shop Boys Remix",
-      "url": "https://open.spotify.com/track/2W6N8ZTzvEsBXLY4mKSsGU"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Top Hits, Ballads, etc...",
+        "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
+      },
+      "artists": [
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 264054,
+      "name": "Evangelion",
+      "url": "https://open.spotify.com/track/0YVw6HQThxqxuPM0DjwqoC"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Kingmaker",
         "url": "https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 212506,
       "name": "For The Love (ft. Ice Cube & Lorine Chia)",
       "url": "https://open.spotify.com/track/05s3dwoFQHi7WFNSnmEBir"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "Top Hits, Ballads, etc...",
-        "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
-      },
-      "artists": [
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 264054,
-      "name": "Evangelion",
-      "url": "https://open.spotify.com/track/0YVw6HQThxqxuPM0DjwqoC"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Re-lush",
-        "url": "https://open.spotify.com/album/5B8PE8w0qawYqjTRWbo2zI"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 219204,
-      "name": "Re-lush - edit",
-      "url": "https://open.spotify.com/track/1BjLrAhZaYdkJfMj68phuW"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
         "name": "Alaska, You're On Thin Ice Buddy!",
         "url": "https://open.spotify.com/album/44YbGpDd64m0rv5Coh0cjW"
       },
@@ -1059,54 +1039,22 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
-        "name": "Fischer-Dieskau Lieder A-Z: Shostakovich \u2013 Tchaikovsky (Complete Lieder Recordings on DG & Decca)",
-        "url": "https://open.spotify.com/album/4r0uatkuLAUxJr4WxH0eHR"
+        "name": "Re-lush",
+        "url": "https://open.spotify.com/album/5B8PE8w0qawYqjTRWbo2zI"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         },
         {
-          "name": "Dietrich Fischer-Dieskau",
-          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
-        },
-        {
-          "name": "Aribert Reimann",
-          "url": "https://open.spotify.com/artist/2tFIElBQr2cl7crv8T30ZI"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 230933,
-      "name": "6 Romances, Op. 57: No. 2, On the Golden Cornfields",
-      "url": "https://open.spotify.com/track/7MAMciIxrD49bpFabxTLwh"
-    },
-    {
-      "added_at": "2025-05-16 04:00:00",
-      "album": {
-        "name": "2Ble Hh",
-        "url": "https://open.spotify.com/album/6FeKG7k7Cnm9lBuKNzCqaA"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Skilla OH",
-          "url": "https://open.spotify.com/artist/2pDnTVieeXwx8R9HbyAjhP"
-        },
-        {
-          "name": "Drvgs",
-          "url": "https://open.spotify.com/artist/5VF9y2sGTphTF7jmXdplFu"
-        },
-        {
-          "name": "Claudio Bastardo",
-          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
-        }
-      ],
-      "duration_ms": 292681,
-      "name": "2Ble Hh",
-      "url": "https://open.spotify.com/track/6cLkYuXtkW6dlCC9EykT4u"
+      "duration_ms": 219204,
+      "name": "Re-lush - edit",
+      "url": "https://open.spotify.com/track/1BjLrAhZaYdkJfMj68phuW"
     },
     {
       "added_at": "2025-05-16 04:00:00",
@@ -1135,6 +1083,30 @@
     {
       "added_at": "2025-05-16 04:00:00",
       "album": {
+        "name": "Fischer-Dieskau Lieder A-Z: Shostakovich \u2013 Tchaikovsky (Complete Lieder Recordings on DG & Decca)",
+        "url": "https://open.spotify.com/album/4r0uatkuLAUxJr4WxH0eHR"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+        },
+        {
+          "name": "Aribert Reimann",
+          "url": "https://open.spotify.com/artist/2tFIElBQr2cl7crv8T30ZI"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "6 Romances, Op. 57: No. 2, On the Golden Cornfields",
+      "url": "https://open.spotify.com/track/7MAMciIxrD49bpFabxTLwh"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
         "name": "Pela Hao",
         "url": "https://open.spotify.com/album/7GZ1nADYMVs587sGMWxV5S"
       },
@@ -1147,6 +1119,34 @@
       "duration_ms": 281835,
       "name": "Pela Hao",
       "url": "https://open.spotify.com/track/7o8qGYW9QYQXZaPpKNL0gm"
+    },
+    {
+      "added_at": "2025-05-16 04:00:00",
+      "album": {
+        "name": "2Ble Hh",
+        "url": "https://open.spotify.com/album/6FeKG7k7Cnm9lBuKNzCqaA"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Skilla OH",
+          "url": "https://open.spotify.com/artist/2pDnTVieeXwx8R9HbyAjhP"
+        },
+        {
+          "name": "Drvgs",
+          "url": "https://open.spotify.com/artist/5VF9y2sGTphTF7jmXdplFu"
+        },
+        {
+          "name": "Claudio Bastardo",
+          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
+        }
+      ],
+      "duration_ms": 292681,
+      "name": "2Ble Hh",
+      "url": "https://open.spotify.com/track/6cLkYuXtkW6dlCC9EykT4u"
     },
     {
       "added_at": "2025-05-16 04:00:00",

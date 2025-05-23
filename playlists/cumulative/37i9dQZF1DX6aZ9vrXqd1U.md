@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-360 songs - 1 day 0 hr 41 min
+361 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [GUNDAM出撃](https://open.spotify.com/track/7iCgATyb3pNsuQqsaGzWWj) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 1](https://open.spotify.com/album/5iCvEvBVvnRvL1EuNbRtH4) | 1:15 | 2024-01-27 |  |
 | [Gの閃光](https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Gの閃光](https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec) | 3:37 | 2023-04-21 | 2023-06-30 |
 | [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 | 2022-07-27 | 2023-05-03 |
+| [HALO](https://open.spotify.com/track/35wZiQV2QPEEGjyh6XScaz) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [HALO](https://open.spotify.com/album/05X7klCQo760eyhjGMB87Q) | 3:06 | 2025-05-22 |  |
 | [Han\-Pan Spirit](https://open.spotify.com/track/1YfbLKjPSdfIWr7Yeblqb8) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Han\-Pan Spirit](https://open.spotify.com/album/3EgBwcapLupR4VuwdrCsa9) | 3:59 | 2023-06-19 | 2024-01-12 |
 | [Hasen no Namida](https://open.spotify.com/track/2G6cLZijcvKMEcRxThTBtm) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [MOBILE SUIT GUNDAM THE ORIGIN \- Chronicle of the Loum Battlefield \- \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8) | 4:51 | 2022-12-06 | 2024-01-12 |
 | [HATENA](https://open.spotify.com/track/5UbPHARFFiDdkRgfsJ03Rt) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/4hWdLdkGzwMstowEcJoGQw) | 3:29 | 2022-07-27 | 2023-05-13 |

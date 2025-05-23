@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 23687,
+  "num_followers": 23694,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Dekho Lawa",
-        "url": "https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR"
-      },
-      "artists": [
-        {
-          "name": "Drupatee",
-          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Balama",
-      "url": "https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
         "name": "Elements of Chutney",
         "url": "https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
+        "name": "Dekho Lawa",
+        "url": "https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Balama",
+      "url": "https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
         "name": "License to Wine",
         "url": "https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp"
       },
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
         }
       ],
-      "duration_ms": 323693,
-      "name": "Naina Bandh",
-      "url": "https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg"
+      "duration_ms": 236960,
+      "name": "Chal Kechal",
+      "url": "https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
         }
       ],
-      "duration_ms": 236960,
-      "name": "Chal Kechal",
-      "url": "https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz"
+      "duration_ms": 323693,
+      "name": "Naina Bandh",
+      "url": "https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg"
     },
     {
       "added_at": "2025-01-10 08:00:27",

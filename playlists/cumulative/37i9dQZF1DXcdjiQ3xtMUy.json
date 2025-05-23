@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Josephine",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: LILA",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -479,6 +479,32 @@
     },
     {
       "album": {
+        "name": "APOTIPOMA",
+        "url": "https://open.spotify.com/album/7zDgNyZe9DPvhgyCOsqMfv"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "APOTIPOMA",
+      "url": "https://open.spotify.com/track/0SKdTC5SI6vLGcgi6DT25q"
+    },
+    {
+      "album": {
         "name": "Aristourgima",
         "url": "https://open.spotify.com/album/0TO9uhMi63ToVh6tU330LF"
       },
@@ -537,6 +563,32 @@
     },
     {
       "album": {
+        "name": "Asteromata",
+        "url": "https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        },
+        {
+          "name": "Playmen",
+          "url": "https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c"
+        },
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Asteromata - Playmen & Valeron Remix",
+      "url": "https://open.spotify.com/track/7nATmzzvbhxLeMgkXHONld"
+    },
+    {
+      "album": {
         "name": "Atardecer",
         "url": "https://open.spotify.com/album/0T1cGKB93cc3Szgd4EayXG"
       },
@@ -552,7 +604,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 296714,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/4GZ6FSoaspTz5p1XLHPOtS"
@@ -716,7 +768,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 188040,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/0cM8ON4hpz4SqPLPjGJ9o5"
@@ -760,7 +812,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 205994,
       "name": "CHROME HEARTS",
       "url": "https://open.spotify.com/track/1oWFxZvPHlcRPnmqNgQicd"
@@ -869,6 +921,28 @@
     },
     {
       "album": {
+        "name": "Disco-Tech",
+        "url": "https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Disco-Tech",
+      "url": "https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc"
+    },
+    {
+      "album": {
         "name": "Ecstasy",
         "url": "https://open.spotify.com/album/2aUkvJT4z7smuD01aiJMZx"
       },
@@ -972,7 +1046,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 132192,
       "name": "Einai Taksidi",
       "url": "https://open.spotify.com/track/6UXso6tzfw4OEygxdVvn8k"
@@ -1174,6 +1248,24 @@
       "duration_ms": 209032,
       "name": "Fila Me",
       "url": "https://open.spotify.com/track/6EWfSOVJHs4Jv5V2wgFK6v"
+    },
+    {
+      "album": {
+        "name": "San Oneiro",
+        "url": "https://open.spotify.com/album/11E2xSbGQashiU3ezoYP7A"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Filika",
+      "url": "https://open.spotify.com/track/6xFEEfeYs29x14Y2SkR9KF"
     },
     {
       "album": {
@@ -1508,6 +1600,28 @@
       "duration_ms": 241280,
       "name": "Kalokeri",
       "url": "https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp"
+    },
+    {
+      "album": {
+        "name": "Kalos Se Vrika",
+        "url": "https://open.spotify.com/album/4zblXSLYAWyfUpZHoU5z0K"
+      },
+      "artists": [
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        },
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157675,
+      "name": "Kalos Se Vrika",
+      "url": "https://open.spotify.com/track/6HZ1lSvUt5gKsJx2DBDmBg"
     },
     {
       "album": {
@@ -2666,7 +2780,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 218998,
       "name": "Se Mia Stigmi",
       "url": "https://open.spotify.com/track/4O01JSmioAlbEgpxKTVczo"

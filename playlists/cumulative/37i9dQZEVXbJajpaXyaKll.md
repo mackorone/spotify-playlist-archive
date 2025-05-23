@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,376 songs - 3 day 0 hr 11 min
+1,377 songs - 3 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [Felicidad \(De la serie 'Berlin' de Netflix\)](https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO) | [Pedro Alonso](https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO), [Tristan Ulloa](https://open.spotify.com/artist/6SeRILwpI0BvkRbAbVeq8M) | [Felicidad \(De la serie 'Berlín' de Netflix\)](https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ) | 3:20 | 2024-01-29 | 2024-02-28 |
 | [FELIZ SIN TI](https://open.spotify.com/track/6UNXOLtqnS7HboLvFQl2e5) | [Melej](https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py) | [FELIZ SIN TI](https://open.spotify.com/album/52SyweT1N6s6D46d8mjczF) | 2:47 | 2024-12-02 | 2024-12-05 |
 | [Femme Fatale](https://open.spotify.com/track/2qip7HSHkrMyCvRrnYZUAE) | [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa), [Brenda Asnicar](https://open.spotify.com/artist/0E8wKk7IC4Se6Z3gS7S3Uv) | [Femme Fatale](https://open.spotify.com/album/1EYk3E8HDqF2vn6AviJW7k) | 3:01 | 2024-03-19 | 2024-03-23 |
-| [FIAMORE](https://open.spotify.com/track/1ptV2NOt5z2XxvHfFlapz0) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [FIAMORE](https://open.spotify.com/album/1xjysg5uSQBtrc965qYll4) | 2:47 | 2025-05-20 |  |
+| [FIAMORE](https://open.spotify.com/track/1ptV2NOt5z2XxvHfFlapz0) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [FIAMORE](https://open.spotify.com/album/1xjysg5uSQBtrc965qYll4) | 2:47 | 2025-05-20 | 2025-05-23 |
 | [FIELD TRIP](https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ) | 2:43 | 2024-08-20 | 2024-08-23 |
 | [FIESTA PUNKY](https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [FIESTA PUNKY](https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8) | 2:24 | 2024-04-05 | 2024-04-09 |
 | [Fiesta Reggaeton \- D@Niele 2010 Tek Remix](https://open.spotify.com/track/1ND3O9oFkHElah4d5g3OeF) | [DJ Sanny J](https://open.spotify.com/artist/3iJJN5sTTgqoasPw42WSXk), [Ruly Mc](https://open.spotify.com/artist/0jzKzkLDfttLCCTxYxx1dt) | [Fiesta Reggaeton](https://open.spotify.com/album/5u1NEpM0S8EljkiIrRnwJH) | 6:19 | 2024-09-24 | 2024-10-23 |
@@ -1174,6 +1174,7 @@
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-10 | 2024-09-25 |
 | [TATTOO](https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Coco Palmer](https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY) | [TATTOO](https://open.spotify.com/album/2pT9dWP5sqm4FipajPLVpw) | 2:16 | 2024-05-22 | 2024-06-26 |
 | [Tattoo](https://open.spotify.com/track/6KuS9WnV0GqXzVRUMIJ9aa) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Tattoo](https://open.spotify.com/album/1FSy24xMn9AUf2JFk3Axyb) | 2:22 | 2024-12-10 | 2025-01-08 |
+| [Tattoo \- Remix](https://open.spotify.com/track/56yAIzNg5SAbUKUKR9UXmf) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Tattoo \(Remix\)](https://open.spotify.com/album/64C5QZJEp9Y81zt6XilwwN) | 2:38 | 2025-05-22 |  |
 | [Tattoo \- Spanish Version](https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW) | [Kevz](https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg) | [Tattoo \(Spanish Version\)](https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86) | 2:32 | 2024-10-28 | 2024-12-28 |
 | [TATÚ](https://open.spotify.com/track/7s2Eb3VgCT8o7ALu1jeTqk) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [TATÚ](https://open.spotify.com/album/25I7wgyiOpw0nJBhAkYutI) | 3:20 | 2025-04-02 | 2025-04-18 |
 | [TE AMO ♡](https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [TE AMO ♡](https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx) | 2:33 | 2024-05-21 | 2024-06-13 |

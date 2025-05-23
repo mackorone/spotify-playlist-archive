@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 10CM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,853 likes - 216 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,872 likes - 216 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

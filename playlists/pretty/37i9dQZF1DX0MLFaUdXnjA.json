@@ -1,13 +1,29 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Alex Warren",
-  "num_followers": 1842243,
+  "description": "Sit back and relax to the chillest pop.  Cover: Benson Boone",
+  "num_followers": 1842223,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCf1FQAAAABvVMvhjW5uVvxwZT9WSClp",
+  "snapshot_id": "aC+6mQAAAACBKMXi7rlTBO0TOwcnWJ6N",
   "tracks": [
+    {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
+    },
     {
       "added_at": "2025-03-18 21:44:08",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "Moviestar",
+        "url": "https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 188664,
+      "name": "Moviestar",
+      "url": "https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip"
     },
     {
       "added_at": "2025-03-21 04:46:31",
@@ -41,6 +73,38 @@
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
     },
     {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
+    },
+    {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "Good Swim",
+        "url": "https://open.spotify.com/album/63LdIN5zvcE34MYYKykySg"
+      },
+      "artists": [
+        {
+          "name": "Ryan Woods",
+          "url": "https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY"
+        }
+      ],
+      "duration_ms": 205993,
+      "name": "Good Swim",
+      "url": "https://open.spotify.com/track/0GBq6apzUKagUU31aXSq7o"
+    },
+    {
       "added_at": "2025-05-16 04:00:11",
       "album": {
         "name": "Only Started Growing",
@@ -55,6 +119,46 @@
       "duration_ms": 159800,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0AB5YzmICCzimyMfLWfrUA"
+    },
+    {
+      "added_at": "2025-03-21 04:00:41",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Ojos Tristes (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
+    },
+    {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/3zydVUwHpv30kPKdJd4SfK"
+      },
+      "artists": [
+        {
+          "name": "Ruby Roberts",
+          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
+        }
+      ],
+      "duration_ms": 274455,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX"
     },
     {
       "added_at": "2025-05-09 04:00:02",
@@ -89,6 +193,54 @@
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "bridesmaid",
+        "url": "https://open.spotify.com/album/26KBwbUyMsbzjiAXyrOKP8"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "bridesmaid",
+      "url": "https://open.spotify.com/track/2LZ24cM1dh7nIs1tblxiwV"
+    },
+    {
+      "added_at": "2025-05-02 04:00:37",
+      "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+    },
+    {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "THE LOWS",
+        "url": "https://open.spotify.com/album/1TrL87Zds3BQz7cnullLL1"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 190025,
+      "name": "THE LOWS",
+      "url": "https://open.spotify.com/track/79mpJRScxPAmlIXqGhb70I"
+    },
+    {
       "added_at": "2025-05-16 04:00:11",
       "album": {
         "name": "In My Bones (Deluxe)",
@@ -103,22 +255,6 @@
       "duration_ms": 181888,
       "name": "Wicked Nature",
       "url": "https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -137,6 +273,22 @@
       "url": "https://open.spotify.com/track/0WnKK37K0P4e7FJSjTZn4M"
     },
     {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "Closest Thing",
+        "url": "https://open.spotify.com/album/3F2Oyu797ixoao5346Hu5h"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 179873,
+      "name": "Closest Thing",
+      "url": "https://open.spotify.com/track/2VQ8sUv17EhbDYPTFikF1J"
+    },
+    {
       "added_at": "2025-05-09 04:00:02",
       "album": {
         "name": "Mr. Blue Jeans",
@@ -151,30 +303,6 @@
       "duration_ms": 201643,
       "name": "Mr. Blue Jeans",
       "url": "https://open.spotify.com/track/0bAwwBJloXOyycr9SmZKnS"
-    },
-    {
-      "added_at": "2025-03-21 04:00:41",
-      "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Ojos Tristes (with The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
     },
     {
       "added_at": "2025-05-09 04:00:02",
@@ -193,22 +321,6 @@
       "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
     },
     {
-      "added_at": "2025-05-17 02:31:49",
-      "album": {
-        "name": "with ease",
-        "url": "https://open.spotify.com/album/5yNfXwafClO22prMhJff9g"
-      },
-      "artists": [
-        {
-          "name": "Joon",
-          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
-        }
-      ],
-      "duration_ms": 186678,
-      "name": "with ease",
-      "url": "https://open.spotify.com/track/2TFUY0H6adpoF91yYi9Z74"
-    },
-    {
       "added_at": "2025-05-09 04:00:02",
       "album": {
         "name": "Great White Sharks",
@@ -225,20 +337,20 @@
       "url": "https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou"
     },
     {
-      "added_at": "2025-05-02 04:00:37",
+      "added_at": "2025-05-23 00:00:25",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+        "name": "ROSEBUDS",
+        "url": "https://open.spotify.com/album/7I7pinaMCzXFSu9TPvnvP0"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
         }
       ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+      "duration_ms": 151588,
+      "name": "Scroll",
+      "url": "https://open.spotify.com/track/2b0xsypagYgrmFkiqNb96X"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -383,6 +495,22 @@
       "duration_ms": 136779,
       "name": "ring my bell",
       "url": "https://open.spotify.com/track/5pX5ZWRsPdzJPL22dajuIP"
+    },
+    {
+      "added_at": "2025-05-17 02:31:49",
+      "album": {
+        "name": "with ease",
+        "url": "https://open.spotify.com/album/5yNfXwafClO22prMhJff9g"
+      },
+      "artists": [
+        {
+          "name": "Joon",
+          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+        }
+      ],
+      "duration_ms": 186678,
+      "name": "with ease",
+      "url": "https://open.spotify.com/track/2TFUY0H6adpoF91yYi9Z74"
     },
     {
       "added_at": "2025-04-25 04:00:38",
@@ -681,22 +809,6 @@
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Articulate Excuses",
-        "url": "https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "I WANNA MOVE TO BROOKLYN",
-      "url": "https://open.spotify.com/track/51uk8yCAwqn1X68Z9QxPBZ"
-    },
-    {
       "added_at": "2025-03-21 04:00:41",
       "album": {
         "name": "Starcrossed",
@@ -809,22 +921,6 @@
       "url": "https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg"
     },
     {
-      "added_at": "2025-03-28 04:00:51",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/4aniPUrKOlxbjMwlpe527p"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 142126,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/16hEajGnBI6MVs3ccASpe1"
-    },
-    {
       "added_at": "2025-02-21 05:00:19",
       "album": {
         "name": "You Killed The Music",
@@ -927,26 +1023,6 @@
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
-    },
-    {
-      "added_at": "2025-03-21 04:05:15",
-      "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 189647,
-      "name": "Younger And Hotter Than Me",
-      "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
     },
     {
       "added_at": "2025-03-28 04:00:51",
@@ -1187,38 +1263,6 @@
       "duration_ms": 179133,
       "name": "Lose Me Like You Mean It",
       "url": "https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K"
-    },
-    {
-      "added_at": "2025-03-07 05:00:33",
-      "album": {
-        "name": "Everything Everything",
-        "url": "https://open.spotify.com/album/2UXirOekrwMb7pjGVUEePM"
-      },
-      "artists": [
-        {
-          "name": "Stacey Ryan",
-          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/2dYEoN94CbbMrsE7xF5xNF"
-    },
-    {
-      "added_at": "2025-03-28 04:00:51",
-      "album": {
-        "name": "National Anthem",
-        "url": "https://open.spotify.com/album/3faUxdxXSNNSj7gVjpeqOQ"
-      },
-      "artists": [
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 211442,
-      "name": "National Anthem",
-      "url": "https://open.spotify.com/track/387sBNR0KOLIbvsS2J9q9n"
     },
     {
       "added_at": "2025-01-17 05:00:35",
@@ -1479,22 +1523,6 @@
     {
       "added_at": "2025-02-07 05:00:24",
       "album": {
-        "name": "We're Not The Same",
-        "url": "https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 196814,
-      "name": "We're Not The Same",
-      "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:24",
-      "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk"
       },
@@ -1575,38 +1603,6 @@
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
-    },
-    {
-      "added_at": "2025-02-07 05:00:24",
-      "album": {
-        "name": "La Favorite",
-        "url": "https://open.spotify.com/album/60cnL4NlNjkEQWRgPYlrmG"
-      },
-      "artists": [
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        }
-      ],
-      "duration_ms": 202092,
-      "name": "Contre-c\u0153ur",
-      "url": "https://open.spotify.com/track/4Laxje4vl0219BNJJ69Kx9"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "added_at": "2025-01-03 05:00:26",

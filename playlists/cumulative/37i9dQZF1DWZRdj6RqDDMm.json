@@ -5172,7 +5172,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 186666,
       "name": "Love You",
       "url": "https://open.spotify.com/track/3sSD06HCdC4o1eBsWvC3QO"
@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 195419,
       "name": "My Creed",
       "url": "https://open.spotify.com/track/4It6ngpkrnIVsudb0M8eJn"
@@ -8443,6 +8443,32 @@
     },
     {
       "album": {
+        "name": "Stand Up for Jesus",
+        "url": "https://open.spotify.com/album/51ti9f8P8w3I4SZoAjBl24"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Johay",
+          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
+        },
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Stand Up for Jesus",
+      "url": "https://open.spotify.com/track/1XWRCvOmdhWGkxyId5CoBY"
+    },
+    {
+      "album": {
         "name": "Stirring Up (Kushim Remix)",
         "url": "https://open.spotify.com/album/3ImwPCszapvtdy22kLPmxJ"
       },
@@ -8822,6 +8848,24 @@
       "duration_ms": 226666,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6tM4E2Je4omnd7FwHt6tyf"
+    },
+    {
+      "album": {
+        "name": "Tender Love",
+        "url": "https://open.spotify.com/album/3A4hndO1mMtdSTtzzFcZRu"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134489,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr"
     },
     {
       "album": {

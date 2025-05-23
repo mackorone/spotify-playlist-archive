@@ -24,32 +24,6 @@
     {
       "album": {
         "name": "Bang! (feat. Hayley Kiyoko) [AhhHaa Remix]",
-        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "AhhHaa",
-          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167649,
-      "name": "Bang! (feat. Hayley Kiyoko) - AhhHaa Remix",
-      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
-    },
-    {
-      "album": {
-        "name": "Bang! (feat. Hayley Kiyoko) [AhhHaa Remix]",
         "url": "https://open.spotify.com/album/7v5X3cQDhUuU6pO5rnALw8"
       },
       "artists": [
@@ -72,6 +46,32 @@
       "duration_ms": 167649,
       "name": "Bang! (feat. Hayley Kiyoko) - AhhHaa Remix",
       "url": "https://open.spotify.com/track/4Fi00h3wo3P8gmhAHT1qX4"
+    },
+    {
+      "album": {
+        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
+        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167649,
+      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
+      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
     },
     {
       "album": {

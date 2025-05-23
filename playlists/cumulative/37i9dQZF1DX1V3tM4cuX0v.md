@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Vitaliy Kozlovskiy
+> Найпопулярніші пісні сьогодення\. Обкладинка: Jerry Heil
 
 126 songs - 6 hr 14 min
 

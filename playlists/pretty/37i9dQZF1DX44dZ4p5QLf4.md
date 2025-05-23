@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New releases in modern soul\. Cover: JONES
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,611 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,670 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 2 | [Wasting Time](https://open.spotify.com/track/59vUtjLVDKlFtemXHqzGhr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Always On Time](https://open.spotify.com/album/3eVA8tg3rfoVPGIP4EwfdP) | 2:51 |
 | 3 | [Distance](https://open.spotify.com/track/4vvjCuR7vAXkE4XUrOgVjm) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 2:33 |
 | 4 | [Hush](https://open.spotify.com/track/6zgZQ0Txc4cpF03TAjnEMJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Deluxe\)](https://open.spotify.com/album/7rkuRWugpXPOj9KVaYQZlM) | 2:09 |
-| 5 | [Strawberry featuring Rae Khalil](https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Strawberry featuring Rae Khalil](https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib) | 2:43 |
-| 6 | [Music Never Looked So Good](https://open.spotify.com/track/30SSROjHo9udK1ko3cRm5a) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Music Never Looked So Good](https://open.spotify.com/album/2vlaYSup5x8yLVlgQKkC60) | 3:17 |
-| 7 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
-| 8 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
-| 9 | [A Life You Keep Denying](https://open.spotify.com/track/0EFwRqvkugzr2hsjz91nLz) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ), [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [A Life You Keep Denying](https://open.spotify.com/album/5buNtSwHjYqWxSscBQfzHA) | 3:45 |
-| 10 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 |
+| 5 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 |
+| 6 | [Strawberry featuring Rae Khalil](https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Strawberry featuring Rae Khalil](https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib) | 2:43 |
+| 7 | [Music Never Looked So Good](https://open.spotify.com/track/30SSROjHo9udK1ko3cRm5a) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Music Never Looked So Good](https://open.spotify.com/album/2vlaYSup5x8yLVlgQKkC60) | 3:17 |
+| 8 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
+| 9 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
+| 10 | [A Life You Keep Denying](https://open.spotify.com/track/0EFwRqvkugzr2hsjz91nLz) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ), [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [A Life You Keep Denying](https://open.spotify.com/album/5buNtSwHjYqWxSscBQfzHA) | 3:45 |
 | 11 | [Paralyzed in Paradise](https://open.spotify.com/track/3DKepGvTJawKQo7QLWBMw3) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Paralyzed In Paradise](https://open.spotify.com/album/2Ql6T0E0WNCxgNNpD8su77) | 2:20 |
 | 12 | [DONE](https://open.spotify.com/track/0RTGPmfIv278O99DzsCNhn) | [Shaynah](https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG) | [DONE](https://open.spotify.com/album/1vxF3Tbp9xxCW4T5OMDeqF) | 3:49 |
 | 13 | [Little Miss Playa](https://open.spotify.com/track/6dfOSyPfztyvZU0xgvKIqm) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Bella Luna](https://open.spotify.com/artist/7ATn4QW2vNMQ1ASAHFZqqQ) | [Little Miss Playa](https://open.spotify.com/album/0m1oNr6LIpQbimeiX4QxUz) | 2:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 74 | [Taste of Dawn](https://open.spotify.com/track/2mob0hl3OXd4Yo1DbmZ9LN) | [Kunde](https://open.spotify.com/artist/2HoM9oaAr7jTKHEGuqgzry), [Looping Sessions](https://open.spotify.com/artist/6oomHOCNWr4HxwPw9LVz47) | [Taste of Dawn](https://open.spotify.com/album/1gxMZMNSlnFNYU8AOxpdYL) | 4:07 |
 | 75 | [Flying away](https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Flying away](https://open.spotify.com/album/5v18LwFNg1ZiI4lwUV7gzx) | 4:08 |
 
-Snapshot ID: `aCxPJwAAAABYrDYi3UyQxK3VoufII2+o`
+Snapshot ID: `aC8v7QAAAACgxf9k+5TqposqvFdA1qM/`

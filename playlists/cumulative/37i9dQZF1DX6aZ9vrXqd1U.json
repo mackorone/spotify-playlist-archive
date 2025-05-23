@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/05X7klCQo760eyhjGMB87Q"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "HALO",
+      "url": "https://open.spotify.com/track/35wZiQV2QPEEGjyh6XScaz"
+    },
+    {
+      "album": {
         "name": "Han-Pan Spirit",
         "url": "https://open.spotify.com/album/3EgBwcapLupR4VuwdrCsa9"
       },

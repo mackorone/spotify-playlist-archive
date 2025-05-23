@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Deejay Telio & Slow J entram na zona. ",
+  "description": "Nenny entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 203893,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/2J1vTWBZNi82SZNWDh9CQc"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 291100,
       "name": "Bicho Do Mato",
       "url": "https://open.spotify.com/track/2f1rPbjAIViBd6UQte0PmR"
@@ -3507,6 +3507,28 @@
     },
     {
       "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/4NBMzkzwB16Cojyp2hHGrp"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/7aUbV4k1quxoJS5AubhEqL"
+    },
+    {
+      "album": {
         "name": "No Tempo Certo",
         "url": "https://open.spotify.com/album/2wQAg7iLjQKZGSpitJPJZI"
       },
@@ -4598,7 +4620,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 209677,
       "name": "Dimas",
       "url": "https://open.spotify.com/track/7tn6d33IW4XtUNFyxOdGdk"
@@ -12148,7 +12170,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 155041,
       "name": "Pra Depois",
       "url": "https://open.spotify.com/track/4bSPwl6Y5VKSVHMvdmAUBm"
@@ -12616,6 +12638,24 @@
       "duration_ms": 243189,
       "name": "Quarto de Hora",
       "url": "https://open.spotify.com/track/3J1JRP6FRXkGJut5GOjJQd"
+    },
+    {
+      "album": {
+        "name": "Quase",
+        "url": "https://open.spotify.com/album/7nJ5skhJINnVGV5Tl5p5Nw"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145180,
+      "name": "Quase",
+      "url": "https://open.spotify.com/track/1SysQN5EYHlbU7uDogTJ2A"
     },
     {
       "album": {
@@ -14985,6 +15025,28 @@
     },
     {
       "album": {
+        "name": "TODOS DIAS",
+        "url": "https://open.spotify.com/album/2QcLPUpughV8eDy0TlV6yn"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "SENSEII",
+          "url": "https://open.spotify.com/artist/7rxDHD1AZBvP3UclWIfmxx"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "TODOS DIAS",
+      "url": "https://open.spotify.com/track/67wbNfFvcBbmERCBeArzJ7"
+    },
+    {
+      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC"
       },
@@ -15026,6 +15088,28 @@
       "duration_ms": 154556,
       "name": "Tou a Ver Mal",
       "url": "https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d"
+    },
+    {
+      "album": {
+        "name": "Entrelinhas",
+        "url": "https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u"
+      },
+      "artists": [
+        {
+          "name": "Nayr Faquir\u00e1",
+          "url": "https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Tradu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0rPbTXcpkUXbP1jqz0oEqG"
     },
     {
       "album": {

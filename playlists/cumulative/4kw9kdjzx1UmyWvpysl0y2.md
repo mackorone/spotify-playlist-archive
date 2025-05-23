@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-987 songs - 2 day 7 hr 39 min
+988 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [Immortal](https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Immortal](https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D) | 3:40 | 2024-06-05 | 2024-08-28 |
 | [In Loving Memories](https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [In Loving Memories](https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR) | 3:03 | 2023-05-08 | 2023-08-02 |
+| [In My Eyes](https://open.spotify.com/track/3cKk2nduHxSXklVQowf80Y) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [M A R N i E](https://open.spotify.com/artist/5IIMk50U5mxPCeusKFjHph), [RUZE](https://open.spotify.com/artist/7aEDTeARc5sdHA1komPczb) | [In My Eyes](https://open.spotify.com/album/20j8vVWdM8QdqyJzxw5joN) | 3:13 | 2025-05-22 |  |
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 | 2023-01-14 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |
 | [In The Echo](https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [In The Echo / Change](https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj) | 3:03 | 2024-11-15 | 2025-02-25 |

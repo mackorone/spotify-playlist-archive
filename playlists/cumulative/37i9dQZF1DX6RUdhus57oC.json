@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0"
+      },
+      "artists": [
+        {
+          "name": "Leo Mano",
+          "url": "https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146491,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td"
+    },
+    {
+      "album": {
         "name": "Introvert",
         "url": "https://open.spotify.com/album/0yaHISsvX3tseupbiwm2d8"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 162062,
       "name": "The Proposal",
       "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,068 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,108 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 86 | [\(If You're Not In It For Love\) I'm Outta Here! \- Live](https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:57 |
 | 87 | [Drink In My Hand \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:10 |
 | 88 | [Humble And Kind \- Live](https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind \(Live\)](https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3) | 3:50 |
-| 89 | [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 |
-| 90 | [Me and My Kind \- Live](https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Me and My Kind \(Live\)](https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc) | 2:43 |
+| 89 | [Me and My Kind \- Live](https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Me and My Kind \(Live\)](https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc) | 2:43 |
+| 90 | [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 |
 | 91 | [Wings \- Live at the Ryman](https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wings \(Live at the Ryman\)](https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs) | 6:03 |
 | 92 | [It Ain't My Fault \- Live](https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 16:16 |
-| 93 | [Blue Moon Of Kentucky \- Live](https://open.spotify.com/track/6rdDgfXHDv7LMoHInLXzAI) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 1:51 |
-| 94 | [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 |
+| 93 | [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 |
+| 94 | [Blue Moon Of Kentucky \- Live](https://open.spotify.com/track/6rdDgfXHDv7LMoHInLXzAI) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 1:51 |
 | 95 | [These Boots \- Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017](https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 3](https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3) | 4:00 |
 | 96 | [Fast Cars And Freedom \- Live In Concert](https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Vault](https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V) | 4:51 |
 | 97 | [I Hope You're Happy Now \- Live from the CMA Awards 2020](https://open.spotify.com/track/16ksnBUPxX5aIhIqDBzcOX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [I Hope You’re Happy Now \(Live from the CMA Awards 2020\)](https://open.spotify.com/album/1cDYRtB0pAqyNglsvDrxUN) | 3:18 |

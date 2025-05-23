@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1051818,
+  "num_followers": 1051963,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "The Middle - Acoustic Version",
+      "url": "https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
         "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 258466,
       "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "The Middle - Acoustic Version",
-      "url": "https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Shooting Stars (in the Woods)",
         "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 263088,
       "name": "Shooting Stars - in the Woods",
       "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+        "name": "My Heart Will Always Be the B-Side to My Tongue",
+        "url": "https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 202120,
-      "name": "I Can't Stand It - Acoustic",
-      "url": "https://open.spotify.com/track/2QgoSgNAeaN0GBNq7qNSaL"
+      "duration_ms": 192133,
+      "name": "Grand Theft Autumn / Where Is Your Boy - Acoustic",
+      "url": "https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs"
     }
   ],
   "unique_name": "Acoustic Rock",

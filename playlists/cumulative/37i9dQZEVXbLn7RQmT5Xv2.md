@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,030 songs - 2 day 11 hr 41 min
+1,031 songs - 2 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 | 2021-04-03 | 2021-04-04 |
 | [Atary](https://open.spotify.com/track/082HYgmGx9V6hG5tpwwpp7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:24 | 2021-03-31 | 2021-10-06 |
 | [ATTA3](https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [ATTA3](https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt) | 2:26 | 2024-07-18 | 2025-01-13 |
-| [AURA](https://open.spotify.com/track/4LKXjVhW0awFSsXLtEmkBD) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:34 | 2025-04-04 | 2025-05-21 |
+| [AURA](https://open.spotify.com/track/4LKXjVhW0awFSsXLtEmkBD) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:34 | 2025-04-04 |  |
 | [AURA](https://open.spotify.com/track/7nROXt052zKE7JfTBiS0Is) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AURA](https://open.spotify.com/album/2ojpRKlCztQ6aO2uNELxER) | 1:34 | 2025-04-03 | 2025-04-05 |
 | [Awadeeh](https://open.spotify.com/track/6X3T09NqZfGACrko9EYN7r) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Awadeeh](https://open.spotify.com/album/6mf7g9yvxZmfLVVLVB0dyv) | 2:22 | 2021-09-02 | 2022-02-20 |
 | [Awkat Ashouf Malamhak](https://open.spotify.com/track/2eyEsqY6J8b4KqaVEkXa8l) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Hazz El Adala](https://open.spotify.com/album/1HYYSw5VSQROznWGaqlUBd) | 6:00 | 2024-02-03 | 2024-02-14 |
@@ -232,7 +232,7 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-13 |
 | [Esmek Eh](https://open.spotify.com/track/2wEino4lZrzgdKQr9Kuqpw) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Roxi](https://open.spotify.com/album/381pico3dKrtKOi7Dh59at) | 3:10 | 2024-08-01 | 2024-09-20 |
 | [Esmek Eh](https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Esmek Eh](https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU) | 3:10 | 2024-07-18 | 2024-08-02 |
-| [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-28 |  |
+| [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-28 | 2025-05-23 |
 | [Etghayart](https://open.spotify.com/track/7mfn9jHr5sUyRCMHdHy3x4) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 2:45 | 2025-01-29 |  |
 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 | 2025-03-08 | 2025-03-11 |
 | [Etnaset](https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etnaset](https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU) | 3:15 | 2021-10-27 | 2024-03-09 |
@@ -302,6 +302,7 @@
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-22 | 2023-04-24 |
 | [Hagat Gowaya](https://open.spotify.com/track/2E5OAehopM9crGhQ5M77du) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Hagat Gowaya](https://open.spotify.com/album/6fz6lOjPVM8FCQlSrNLOH1) | 4:24 | 2024-07-19 | 2024-08-02 |
 | [Hagat Gowaya](https://open.spotify.com/track/55AeMQF70ItRtlkXbCMuPR) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Roxi](https://open.spotify.com/album/381pico3dKrtKOi7Dh59at) | 4:24 | 2024-08-01 | 2024-08-17 |
+| [Hal Di Kat Hayatak](https://open.spotify.com/track/1yMQB6P1oDgyslXYRaEH2K) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Hal Di Kat Hayatak](https://open.spotify.com/album/4i13QTb6JSiChncGZz4OiH) | 2:58 | 2025-05-22 |  |
 | [Halo Ya Halo Ramadan Karim](https://open.spotify.com/track/3eqFhm7rNoBejEM2wgzIVv) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:05 | 2025-03-01 | 2025-03-03 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-11-25 | 2021-12-18 |
 | [HANET \(Outro\)](https://open.spotify.com/track/2JC0wQp9gReNOxKKd75kzh) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:10 | 2023-11-28 | 2023-12-02 |
@@ -1019,7 +1020,7 @@
 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 | 2023-04-16 | 2023-05-10 |
 | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/track/6YXMo6FHDrTLG0ksd9vWeP) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/album/2o4PSrpaRP4yvaAtB5HPL5) | 4:10 | 2023-05-24 | 2023-05-26 |
 | [واكلين المستهبلة \( ما تشغلش الشريره \)](https://open.spotify.com/track/6JSM8uCQ5Sh2jnc1wIcaJt) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [واكلين المستهبلة \( ما تشغلش الشريره \)](https://open.spotify.com/album/3jKBUglaTuv7BwkQginGEn) | 3:36 | 2025-01-12 | 2025-02-21 |
-| [وريتك الخير](https://open.spotify.com/track/07i2eEAI1ZlCs1QcbVaGA3) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وريتك الخير](https://open.spotify.com/album/1seiMv0ALxFo8PXYuMigUP) | 3:26 | 2025-05-19 |  |
+| [وريتك الخير](https://open.spotify.com/track/07i2eEAI1ZlCs1QcbVaGA3) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وريتك الخير](https://open.spotify.com/album/1seiMv0ALxFo8PXYuMigUP) | 3:26 | 2025-05-19 | 2025-05-23 |
 | [وريتك الخير](https://open.spotify.com/track/2PLF2ROeHnF9k2CJ4hKCJ1) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وريتك الخير](https://open.spotify.com/album/5JteErMIA62KWKklfSlMIx) | 4:53 | 2025-03-02 | 2025-03-22 |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-10-22 | 2024-06-19 |
 | [وضعي سامحلي اعيش اغامر](https://open.spotify.com/track/44mE0whpc13E703uRzq27d) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وضعي سامحلي اعيش اغامر](https://open.spotify.com/album/3FJ6UaXds8zalCCI4M6l4M) | 6:13 | 2025-01-30 | 2025-03-16 |

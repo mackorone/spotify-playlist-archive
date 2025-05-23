@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Erika de Casier
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,275 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,281 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [OBSESSED](https://open.spotify.com/track/0ipHYEQf07qoReAWhVC3zO) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [OBSESSED](https://open.spotify.com/album/0FDsgOzFI6dYxZkHN83p23) | 2:40 |
 | 100 | [untitled](https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [untitled](https://open.spotify.com/album/5fZozb3fnQVbCr3npr4TUV) | 2:27 |
 
-Snapshot ID: `aCa4VQAAAACXAuFWpVx7v8FYQrdTHE6+`
+Snapshot ID: `aCa4VQAAAAD6GxnwvS1DHqabDLaoAu2z`

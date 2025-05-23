@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/15Om2Twy4OFk32Y3CKD5jH?si=47Ybr84ESCKVYf2w6d93CA\">tait mills</a>",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6?si=H2DMPteVR6C4AWRPMgrBfQ\">PSILK</a>, <a href=\"https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=xFG-SGjhSmuLSt5Mi7gE1A\">Thando Zide</a>",
   "name": "Indie GO",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 226016,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1zXhIbfGBH5rYsSH4iLoSM"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Amiss",
       "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 191476,
       "name": "Ankles",
       "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Be Something Real",
+        "url": "https://open.spotify.com/album/5FbLEHhikWfqhXL3D8w9pI"
+      },
+      "artists": [
+        {
+          "name": "Matt Shaw",
+          "url": "https://open.spotify.com/artist/6fyDkRnwGEIvbogDWnbr8K"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178135,
+      "name": "Be Something Real",
+      "url": "https://open.spotify.com/track/4R9Ho17qcvG5PMwRFZ8tn3"
+    },
+    {
+      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8"
       },
@@ -2092,6 +2110,24 @@
       "duration_ms": 205000,
       "name": "BIG BOYS CRY TOO",
       "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
+    },
+    {
+      "album": {
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128437,
+      "name": "Big city life",
+      "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
     },
     {
       "album": {
@@ -3228,7 +3264,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 218530,
       "name": "Carry-On Bag",
       "url": "https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0"
@@ -3304,7 +3340,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 201176,
       "name": "Chance To Grow",
       "url": "https://open.spotify.com/track/1fbgS4G5skBihaUmPlVgDB"
@@ -4016,7 +4052,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 190000,
       "name": "Creature Skin",
       "url": "https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq"
@@ -4164,7 +4200,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 272200,
       "name": "cypress",
       "url": "https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg"
@@ -4554,7 +4590,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 175082,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE"
@@ -5127,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197113,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
+    },
+    {
+      "album": {
         "name": "Down to be wrong",
         "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
       },
@@ -5228,7 +5282,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 206246,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/4cYvM8q9V6HTEayIBHuP1W"
@@ -5268,6 +5322,24 @@
       "duration_ms": 194000,
       "name": "Dreams Laugh Softly",
       "url": "https://open.spotify.com/track/4amvgDTjSwHAZ1f9onGi4D"
+    },
+    {
+      "album": {
+        "name": "A Million Times Yes",
+        "url": "https://open.spotify.com/album/7MAwhNihr2A4ciOzxdxVhn"
+      },
+      "artists": [
+        {
+          "name": "Johan Van Rensburg",
+          "url": "https://open.spotify.com/artist/78PN6tfFrmzWMWFPyRvdrD"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439194,
+      "name": "Drink",
+      "url": "https://open.spotify.com/track/5k7Ega8qxNkGGlQFAwfvEu"
     },
     {
       "album": {
@@ -5336,7 +5408,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 190264,
       "name": "Dumb Feeling",
       "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
@@ -8322,7 +8394,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 264613,
       "name": "I Can Take It",
       "url": "https://open.spotify.com/track/55LwxMq33hkzMNUlUjajxq"
@@ -8496,7 +8568,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 219910,
       "name": "I Forget Myself",
       "url": "https://open.spotify.com/track/0WXTlqhrve9dBU0wPENYUh"
@@ -9005,6 +9077,24 @@
     },
     {
       "album": {
+        "name": "Kid in Flight",
+        "url": "https://open.spotify.com/album/3eTVF06H4gP6gwmMVBYZ6M"
+      },
+      "artists": [
+        {
+          "name": "Kid in Flight",
+          "url": "https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118970,
+      "name": "If God is Real...",
+      "url": "https://open.spotify.com/track/1UESXVQOzyl4gepZOPMqMa"
+    },
+    {
+      "album": {
         "name": "If God Is The Pigeon",
         "url": "https://open.spotify.com/album/58Ybnqt8CX2Ty3B2UsJLwW"
       },
@@ -9110,7 +9200,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 243008,
       "name": "In Love With A Memory",
       "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
@@ -11739,6 +11829,24 @@
     },
     {
       "album": {
+        "name": "Modo",
+        "url": "https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ"
+      },
+      "artists": [
+        {
+          "name": "FREDDY L",
+          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Modo",
+      "url": "https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ"
+    },
+    {
+      "album": {
         "name": "MOMS PRAYING",
         "url": "https://open.spotify.com/album/4Ukv2po8nizP2FdcpCNvT4"
       },
@@ -12338,7 +12446,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 232735,
       "name": "newport",
       "url": "https://open.spotify.com/track/1P6L0Au3IaLKNTzWqkvwit"
@@ -12989,6 +13097,24 @@
     },
     {
       "album": {
+        "name": "Of The Sorrows",
+        "url": "https://open.spotify.com/album/74FsSXffJtdMdsUHmn9NBY"
+      },
+      "artists": [
+        {
+          "name": "For Those I Love",
+          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333669,
+      "name": "Of The Sorrows",
+      "url": "https://open.spotify.com/track/3liBzXCnXG0oserFPXFS8R"
+    },
+    {
+      "album": {
         "name": "Synthetic Hearts Part II",
         "url": "https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC"
       },
@@ -13080,7 +13206,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 189176,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg"
@@ -14876,7 +15002,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 199493,
       "name": "Rivers Run Red",
       "url": "https://open.spotify.com/track/62UhV1TTMWqAKvoQHt8ClT"
@@ -17782,7 +17908,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 137688,
       "name": "That Ass!",
       "url": "https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl"
@@ -18128,7 +18254,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 210294,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/0Rf0LWliYmiYVGvS2wCMj2"
@@ -18658,7 +18784,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 169000,
       "name": "Through",
       "url": "https://open.spotify.com/track/0fiS6BJQ5Kj10hbCR0Jmkp"
@@ -18932,6 +19058,24 @@
       "duration_ms": 220365,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "album": {
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
     },
     {
       "album": {
@@ -19250,7 +19394,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 172250,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6LT2AFVZwOdpVlwag1fzlz"
@@ -20016,7 +20160,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 255097,
       "name": "Want U to Go",
       "url": "https://open.spotify.com/track/77WQNwAUzA7qHQu8HII2ei"
@@ -20868,6 +21012,28 @@
       "duration_ms": 264367,
       "name": "With You",
       "url": "https://open.spotify.com/track/15FipwvwpsyKDbTWQoEC3O"
+    },
+    {
+      "album": {
+        "name": "With You in Mind",
+        "url": "https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC"
+      },
+      "artists": [
+        {
+          "name": "PSILK",
+          "url": "https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "With You in Mind",
+      "url": "https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv"
     },
     {
       "album": {

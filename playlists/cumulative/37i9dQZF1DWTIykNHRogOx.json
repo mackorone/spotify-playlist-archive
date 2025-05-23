@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Benjamin Biolay",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Bertrand Belin",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "dans la lucarne",
+        "url": "https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143653,
+      "name": "dans la lucarne",
+      "url": "https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs"
+    },
+    {
+      "album": {
         "name": "Henri Salvador est un Voyou",
         "url": "https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 202946,
       "name": "D\u00e9j\u00e0-vu",
       "url": "https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65"
@@ -981,6 +999,24 @@
     },
     {
       "album": {
+        "name": "J'ai tent\u00e9 mais",
+        "url": "https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL"
+      },
+      "artists": [
+        {
+          "name": "Bonneville",
+          "url": "https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184996,
+      "name": "J'ai tent\u00e9 mais",
+      "url": "https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB"
+    },
+    {
+      "album": {
         "name": "J'connais des gens",
         "url": "https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ"
       },
@@ -1165,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Juste avant de tomber",
+        "url": "https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243520,
+      "name": "Juste avant de tomber",
+      "url": "https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ"
+    },
+    {
+      "album": {
         "name": "L'AVANC\u00c9E",
         "url": "https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU"
       },
@@ -1180,6 +1234,24 @@
       "duration_ms": 248469,
       "name": "L'AVANC\u00c9E",
       "url": "https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD"
+    },
+    {
+      "album": {
+        "name": "L'inconnu en personne",
+        "url": "https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "L'inconnu en personne - Radio Edit",
+      "url": "https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz"
     },
     {
       "album": {
@@ -2400,7 +2472,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 188253,
       "name": "Plusieurs",
       "url": "https://open.spotify.com/track/3iSW2g3seqcGRihjkwwh6l"
@@ -3072,7 +3144,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 172615,
       "name": "vestiaire",
       "url": "https://open.spotify.com/track/1l73TR0XQyd3UAPv1JritE"
@@ -3144,7 +3216,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 246160,
       "name": "\u00c0 l'arri\u00e8re de la voiture",
       "url": "https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD"

@@ -8037,6 +8037,24 @@
     },
     {
       "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196249,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0W2tomlU7AZNbr2wVe1gpY"
       },
@@ -10932,7 +10950,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 210666,
       "name": "Hool Hool",
       "url": "https://open.spotify.com/track/2sXnBoZGYGnwLWC3ukomGm"
@@ -17560,7 +17578,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 218720,
       "name": "Not That Girl",
       "url": "https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI"
@@ -22975,6 +22993,28 @@
     },
     {
       "album": {
+        "name": "Summer breeze",
+        "url": "https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0"
+      },
+      "artists": [
+        {
+          "name": "Lemon City",
+          "url": "https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z"
+        },
+        {
+          "name": "colin",
+          "url": "https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177744,
+      "name": "Summer breeze",
+      "url": "https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh"
+    },
+    {
+      "album": {
         "name": "Summer Freak",
         "url": "https://open.spotify.com/album/7zld27DJOAGzHZwTjKH1Lb"
       },
@@ -27282,8 +27322,8 @@
       },
       "artists": [
         {
-          "name": "KimYoungSeok Band",
-          "url": "https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i"
+          "name": "KYSB",
+          "url": "https://open.spotify.com/artist/7amGbokkhn7zlfdW09hdSX"
         }
       ],
       "date_added": "2025-04-28",

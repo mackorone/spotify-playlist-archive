@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:2QgCj5pd8aIys9jvr3A1GZ">Myaap<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,550 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,624 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 16 | [Shit Talking](https://open.spotify.com/track/6PHxRktBz4Rl0Xfq1nkuec) | [Grateful](https://open.spotify.com/artist/37Largjw2AHmX1HGGbl6kB) | [Shit Talking](https://open.spotify.com/album/5G2ba8ZCeJtHdR1i78Jyp8) | 2:45 |
 | 17 | [Intro](https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [My Evil Thoughts](https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2) | 2:19 |
 | 18 | [Dirty Diana](https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Sleaze the World](https://open.spotify.com/album/6ygz1FAP0dI829mbYngmL5) | 3:15 |
-| 19 | [Pop Out](https://open.spotify.com/track/1z5lT4q90zv9d3QdVrhPFY) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Pop Out](https://open.spotify.com/album/4KyCFw42RjIyjfBIUTn3zA) | 1:45 |
+| 19 | [Pop Out](https://open.spotify.com/track/1z5lT4q90zv9d3QdVrhPFY) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Pop Out](https://open.spotify.com/album/4KyCFw42RjIyjfBIUTn3zA) | 1:54 |
 | 20 | [No Rookies](https://open.spotify.com/track/7eOlibdTwwwPQLqB5YZkja) | [Jetbkeezy](https://open.spotify.com/artist/4TMzyfyfYDMBlG3Evr8wUg) | [No Rookies](https://open.spotify.com/album/3ERQRL32GpGKnEqOONOSRQ) | 1:39 |
 | 21 | [no fillins²](https://open.spotify.com/track/3OcsBOijFn9eCzZJ9AEIpR) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Trunk Boiz](https://open.spotify.com/artist/0NVG9QUs1QB7Bi5I6tdpk8) | [HUMAN + NATURE](https://open.spotify.com/album/4nEuPqxYGQt3FLw8sOk6sQ) | 2:30 |
 | 22 | [Shake It Off](https://open.spotify.com/track/3b8C4yeise381XMGTvBeNn) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Shake It Off](https://open.spotify.com/album/1YjPOtTOIRqKfHWaZGtRmf) | 1:47 |

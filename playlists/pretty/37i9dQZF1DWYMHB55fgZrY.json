@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Javier B\u00e1tiz por siempre ",
-  "num_followers": 563829,
+  "num_followers": 563937,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Qui\u00e9reme Mucho",
+      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Cronicas De Un Laberinto",
         "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 230026,
       "name": "Payaso",
       "url": "https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Qui\u00e9reme Mucho",
-      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Pa\u00b4Morirse De Amor",
-        "url": "https://open.spotify.com/album/5Xgpjw5Gciq9armO3ov2ua"
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 222333,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/44iy4xK9Dtk4XSNAHJu7Ha"
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+        "name": "Pa\u00b4Morirse De Amor",
+        "url": "https://open.spotify.com/album/5Xgpjw5Gciq9armO3ov2ua"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
+      "duration_ms": 222333,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/44iy4xK9Dtk4XSNAHJu7Ha"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Maquillaje",
         "url": "https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 240360,
       "name": "Est\u00e1tico",
       "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Don Quijote Marihuana",
-        "url": "https://open.spotify.com/album/291EdpOOlMU2htCxHirMuJ"
-      },
-      "artists": [
-        {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
-        }
-      ],
-      "duration_ms": 281888,
-      "name": "Don Quijote Marihuana",
-      "url": "https://open.spotify.com/track/6Xn9nL00DDLBjH828A6kjX"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Piel De Banqueta",
         "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 179973,
       "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
       "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Don Quijote Marihuana",
+        "url": "https://open.spotify.com/album/291EdpOOlMU2htCxHirMuJ"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 281888,
+      "name": "Don Quijote Marihuana",
+      "url": "https://open.spotify.com/track/6Xn9nL00DDLBjH828A6kjX"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Sobre Natural",
-        "url": "https://open.spotify.com/album/4plALexvYJjioZhfvh47PA"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Sobre Natural",
-      "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Rock Milenium",
         "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Mantando Gueros",
-        "url": "https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76"
+        "name": "Sobre Natural",
+        "url": "https://open.spotify.com/album/4plALexvYJjioZhfvh47PA"
       },
       "artists": [
         {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
         }
       ],
-      "duration_ms": 143306,
-      "name": "Matando Gueros",
-      "url": "https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ"
+      "duration_ms": 205200,
+      "name": "Sobre Natural",
+      "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1623,6 +1607,22 @@
       "duration_ms": 322040,
       "name": "Nasty Sex",
       "url": "https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Mantando Gueros",
+        "url": "https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 143306,
+      "name": "Matando Gueros",
+      "url": "https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ"
     },
     {
       "added_at": "2024-12-16 22:58:03",

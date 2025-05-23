@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "A Wonder Day",
+        "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209352,
+      "name": "A Wonder Day",
+      "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
+    },
+    {
+      "album": {
         "name": "A Year Ago",
         "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
       },
@@ -5612,7 +5630,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 303924,
       "name": "Healing",
       "url": "https://open.spotify.com/track/42cpWOkiSQPcVIYGbw8IRC"
@@ -8506,7 +8524,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 200408,
       "name": "Little Light",
       "url": "https://open.spotify.com/track/7ri3wdz4HGn7lJuO3f4LFv"
@@ -9554,6 +9572,24 @@
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
+    },
+    {
+      "album": {
+        "name": "missing everything",
+        "url": "https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186751,
+      "name": "missing everything",
+      "url": "https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8"
     },
     {
       "album": {
@@ -11158,7 +11194,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 163000,
       "name": "Photosynthesis",
       "url": "https://open.spotify.com/track/3wVoZnPThIHSOUCp1S5mCB"
@@ -11378,7 +11414,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
@@ -13487,6 +13523,24 @@
     },
     {
       "album": {
+        "name": "Yours Always",
+        "url": "https://open.spotify.com/album/5yV45bSyW7plb2JtbFKO3K"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158213,
+      "name": "Summer in June",
+      "url": "https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw"
+    },
+    {
+      "album": {
         "name": "Superbloodmoon (feat. d4vd)",
         "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
       },
@@ -13646,7 +13700,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 170303,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/1pt5Iu6kNWUkCwlr0BseGL"

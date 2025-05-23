@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia.",
+  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia: Sayf, Emma Nolde, Marte, Glocky, camoufly e Carla Hero.",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "PARTO NATURALE",
+        "url": "https://open.spotify.com/album/7jogdPB6uAARTKOoygqpom"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136445,
+      "name": "PARTO NATURALE",
+      "url": "https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f"
+    },
+    {
+      "album": {
         "name": "Macchie",
         "url": "https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh"
       },
@@ -3150,6 +3168,24 @@
       "duration_ms": 176426,
       "name": "Seignosse",
       "url": "https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2"
+    },
+    {
+      "album": {
+        "name": "SENZA REGOLE",
+        "url": "https://open.spotify.com/album/1nXWQA1u94SLP0FJHyIhOj"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130179,
+      "name": "SENZA REGOLE",
+      "url": "https://open.spotify.com/track/48457TAso8iLsuGweSjXLm"
     },
     {
       "album": {

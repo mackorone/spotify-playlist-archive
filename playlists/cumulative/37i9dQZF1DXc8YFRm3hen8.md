@@ -2,9 +2,9 @@
 
 ### [Rock del Día](https://open.spotify.com/playlist/37i9dQZF1DXc8YFRm3hen8)
 
-> Tu dosis diaria de rock 📸 El Kuelgue & No Te Va Gustar.
+> Tu dosis diaria de rock 📸 Cuarteto de Nos
 
-348 songs - 22 hr 34 min
+349 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Encuentro Con un Ángel Amateur \- En Vivo](https://open.spotify.com/track/0tyUt9J9teuyBsuZqaeKWh) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Encuentro Con un Ángel Amateur \(En Vivo\)](https://open.spotify.com/album/4gt3JKDF9BbTsJb1Np8PSp) | 3:33 | 2022-06-29 | 2023-05-05 |
 | [Escalera](https://open.spotify.com/track/2DfhgJeqYOurNo4BWla1uE) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Cesar Ezequiel Borra](https://open.spotify.com/artist/0KQLZkOAG2qTDm8RB7c7rB), [Dani Ferretti](https://open.spotify.com/artist/38Ne8IR8NhCEk4tE9eeelj) | [Tuy](https://open.spotify.com/album/1tVav7LGyDau9Ie7foUNgb) | 3:44 | 2022-07-19 | 2022-07-28 |
 | [Espacios Vacíos](https://open.spotify.com/track/2weS1EzP5VgYV13ea9NF8b) | [Fede Carrizo](https://open.spotify.com/artist/2RwXSjK67Emn4dOt51T5l7) | [Espacios Vacíos](https://open.spotify.com/album/4RAjpmytzPBo60W8yYMhT5) | 2:55 | 2025-04-04 | 2025-04-26 |
+| [Esplín](https://open.spotify.com/track/1CjA0TtKx6IMlSmKer9Wyw) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Puertas](https://open.spotify.com/album/0YyiLprwcLOytMKd4ES5tq) | 4:38 | 2025-05-23 |  |
 | [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-07-15 | 2022-07-17 |
 | [Este Misterio](https://open.spotify.com/track/0Na1RP9HDaKPaU90cCF5ra) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Lunas](https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ) | 4:22 | 2022-07-06 | 2022-07-25 |
 | [Euforia y Furia](https://open.spotify.com/track/5lt3j3lvo6YEsxgJh9ceNv) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Euforia y Furia](https://open.spotify.com/album/3E4z7zd4fUHd9ZUvoTmlBC) | 3:47 | 2022-07-19 | 2022-07-24 |
@@ -185,7 +186,7 @@
 | [Los Años Que Vivimos en Peligro](https://open.spotify.com/track/01KEBI69kVD4YgKo1KR0An) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 4:22 | 2022-07-01 | 2022-07-05 |
 | [Los Años Salvajes \(feat\. Fabiana Cantilo\)](https://open.spotify.com/track/3IN0zzW9VM9NV0OHbarMdi) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 6:15 | 2022-07-06 | 2022-07-25 |
 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 | 2022-06-29 |  |
-| [Los chicos](https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [La lengua popular](https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk) | 3:11 | 2022-07-06 |  |
+| [Los chicos](https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [La lengua popular](https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk) | 3:11 | 2022-07-06 | 2025-05-23 |
 | [Los Días Felices](https://open.spotify.com/track/38XOxAeqVTg8007GN09dQL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Los Días Felices](https://open.spotify.com/album/3FFmwE0BQBwX1XsdCdgRfw) | 3:24 | 2022-07-19 | 2022-07-25 |
 | [Los Prejuicios](https://open.spotify.com/track/56Bbpl6wbG8BnNE4D3ylgo) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Prietto](https://open.spotify.com/artist/3Xm2CjJ6i14krOHOGVDYts) | [Los Prejuicios](https://open.spotify.com/album/1zehKXJWFuBafpq12GR56U) | 4:53 | 2023-08-25 | 2023-09-22 |
 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 | 2022-07-19 | 2025-04-11 |

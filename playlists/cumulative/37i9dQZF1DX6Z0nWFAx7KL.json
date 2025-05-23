@@ -4102,7 +4102,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 269679,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
@@ -6448,6 +6448,28 @@
       "duration_ms": 202501,
       "name": "Waves (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+    },
+    {
+      "album": {
+        "name": "Waves (:DARREN Remix)",
+        "url": "https://open.spotify.com/album/3XeVEDhRpAfNoCH3O46gto"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        },
+        {
+          "name": ":DARREN",
+          "url": "https://open.spotify.com/artist/2qMQoOiPuxNiXRay6VE3Yf"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Waves - :DARREN Remix",
+      "url": "https://open.spotify.com/track/3o4evb4nIjAthxMify0LrF"
     },
     {
       "album": {

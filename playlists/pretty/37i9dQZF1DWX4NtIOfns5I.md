@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Meet Ken Pomeroy ❊
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,535 likes - 122 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,539 likes - 122 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

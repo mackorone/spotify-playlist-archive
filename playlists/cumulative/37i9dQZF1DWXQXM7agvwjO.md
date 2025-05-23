@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: ena mori \(Philippines\)
+> Hottest indie sounds from Asia\. Cover: Mei Semones \(USA\)
 
 1,939 songs - 4 day 21 hr 15 min
 
@@ -1034,7 +1034,7 @@
 | [Mr\. Poseman](https://open.spotify.com/track/2igCtkfrRmcEQoq02e7Wbo) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [After the First Wave](https://open.spotify.com/album/0btqYkyRMkGW0kspnhJQDK) | 3:05 | 2025-01-31 | 2025-04-04 |
 | [Mr\. Streetboy](https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Mr\. Streetboy](https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT) | 3:06 | 2023-11-23 | 2023-12-15 |
 | [Much More](https://open.spotify.com/track/5t4Uhv9IVgKScclDiVveFl) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ) | [Much More](https://open.spotify.com/album/2N3s2Nm5LDy4DABybH9ylp) | 4:57 | 2024-11-15 | 2024-11-30 |
-| [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-10-03 | 2025-04-25 |
+| [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-10-03 |  |
 | [Multo](https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:57 | 2025-04-17 |  |
 | [Mungkin Saja](https://open.spotify.com/track/0P9SQLVE76N3QX4AkiyuM7) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Mungkin Saja](https://open.spotify.com/album/4simdciqfJWcdZHk1URkfW) | 2:15 | 2024-06-06 | 2024-06-28 |
 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-05-23 | 2024-08-17 |
@@ -1407,7 +1407,7 @@
 | [Spring](https://open.spotify.com/track/51nQXsGfDPPlvKenGc4bDh) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [Spring](https://open.spotify.com/album/2oSef9jbYmouw8ihiqbVzh) | 5:03 | 2022-05-06 | 2022-06-24 |
 | [Spunky!](https://open.spotify.com/track/2qyBRnUVfj227PJqLiynkg) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/50fMxlCKUEz8M4aRo0IHe7) | 2:10 | 2023-06-01 | 2023-06-23 |
 | [St\. Lover](https://open.spotify.com/track/6kNiAOXTGBTjL1ITsWWUio) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/6tgMOMo9ZXYCrBIVYgfyem) | 3:37 | 2022-09-08 | 2022-10-14 |
-| [Star](https://open.spotify.com/track/2Tx8CmIbtEtfwEoxChsLxV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Star](https://open.spotify.com/album/5bReI9LCs6ELse9U1B4lbf) | 2:41 | 2025-04-25 |  |
+| [Star](https://open.spotify.com/track/2Tx8CmIbtEtfwEoxChsLxV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Star](https://open.spotify.com/album/5bReI9LCs6ELse9U1B4lbf) | 2:41 | 2025-04-25 | 2025-05-23 |
 | [Star](https://open.spotify.com/track/4Dk5X3OTEHIOPYUL5x2tgP) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Star](https://open.spotify.com/album/1oyGotUkD2WNFVJ6PalpOx) | 2:41 | 2025-04-28 |  |
 | [Stationary Bike](https://open.spotify.com/track/6VRvc0MJnGEoxBJJE81iyM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Stationary Bike](https://open.spotify.com/album/0iTtw3q2b3w5krUub6W9Ed) | 2:46 | 2023-05-12 | 2023-05-19 |
 | [STAY \(with CHANKA\)](https://open.spotify.com/track/2WMn4H7dGtQhUbUHjS32Zh) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [STAY \(with CHANKA\)](https://open.spotify.com/album/1OfZJax1df6NJrr0ZOnvxv) | 2:15 | 2025-03-27 | 2025-04-04 |

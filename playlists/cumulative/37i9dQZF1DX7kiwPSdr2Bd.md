@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Eyshila
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Rebeca Carvalho, Cassiane
 
-285 songs - 1 day 1 hr 50 min
+286 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 | 2024-08-16 |  |
 | [Pode Começar Agora \- Ao Vivo](https://open.spotify.com/track/5QguNh24lZ3wEHZwENbNJD) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Pode Começar Agora](https://open.spotify.com/album/4nu4QKriUnD4uUg3LJYz0i) | 5:30 | 2023-09-08 | 2023-09-26 |
 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 | 2022-09-09 |  |
-| [Porque Ele Vive](https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Porque Ele Vive](https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z) | 5:41 | 2023-05-05 |  |
+| [Porque Ele Vive](https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Porque Ele Vive](https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z) | 5:41 | 2023-05-05 | 2025-05-23 |
 | [Pra Te Ver Feliz \- Ao Vivo](https://open.spotify.com/track/4FmwdvLV1ccm1tCUNwjhu3) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Pra Te Ver Feliz \(Ao Vivo\)](https://open.spotify.com/album/0o4NqqS8HrlxFldYnCC4yE) | 6:29 | 2023-03-24 | 2023-05-27 |
 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/7f6CRnVY5VyZldRMaAowuL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Preciso de Ti \(Ao Vivo\)](https://open.spotify.com/album/3D7jhKKajb7AD0ooCz9GdL) | 3:52 | 2022-09-30 | 2023-02-04 |
 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 | 2022-09-09 | 2023-03-25 |
@@ -222,6 +222,7 @@
 | [Quando Estás Neste Lugar / Tudo é Para Tua Glória \- Ao Vivo](https://open.spotify.com/track/2GEEArVsPUKlZxzgJbMfCc) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Quando Estás Neste Lugar / Tudo é Para Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/6UChSkVXF5t1U0xUzvW7ak) | 6:02 | 2022-09-09 | 2022-10-15 |
 | [Quebra as Correntes](https://open.spotify.com/track/1dYs6iZfde3nIQTco77x65) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Quebra as Correntes](https://open.spotify.com/album/2y4QjZQBYJ5tLCgJCaC1hY) | 4:24 | 2023-07-14 | 2023-08-05 |
 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 | 2024-04-19 | 2025-03-18 |
+| [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 | 2025-05-23 |  |
 | [Quem É Esse?](https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Quem É Esse?](https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx) | 7:48 | 2025-02-14 |  |
 | [Quero Aprender a Orar \- Ao Vivo](https://open.spotify.com/track/1EliOzpWYjkmtBzC383hoF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Quero Aprender a Orar \(Ao Vivo\)](https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc) | 4:56 | 2023-05-05 | 2023-06-17 |
 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 | 2022-09-09 | 2022-10-01 |

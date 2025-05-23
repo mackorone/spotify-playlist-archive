@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Rael
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Budah
 
-282 songs - 14 hr 26 min
+283 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Essa Gata Não Quer Sair do Meu Pé](https://open.spotify.com/track/1fV3pnFF4OBN1F4sdxd5bl) | [Nick Gomes](https://open.spotify.com/artist/3d52XAFoEyraIeu5qDSosa), [Prod D.G](https://open.spotify.com/artist/4IZoFkr2B3ZhGhRzb7pDen) | [Essa Gata Não Quer Sair do Meu Pé](https://open.spotify.com/album/6eAUHGzTz9cY9QJux0UDEO) | 2:08 | 2024-02-02 | 2024-03-23 |
 | [Eterno Esquema](https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Eterno Esquema](https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB) | 2:13 | 2022-11-18 |  |
 | [Eu Quero pra Mim](https://open.spotify.com/track/4nXuUKg9sveh2T9mITEhrA) | [Biollo](https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF) | [Eu Quero pra Mim](https://open.spotify.com/album/6AGNmDcbCGfpeQf86DMtRo) | 2:47 | 2022-12-01 | 2023-04-01 |
+| [Eu Sou Só Minha \- Live](https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Eu Sou Só Minha \(Live from Vevo\)](https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80) | 3:04 | 2025-05-23 |  |
 | [Facetime \- Remix](https://open.spotify.com/track/0ULGW9RhAaBfX3Lt3KQdL2) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:53 | 2023-04-07 | 2023-08-26 |
 | [Fala a Verdade](https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Romântico, Pt\. 2](https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS) | 1:44 | 2024-02-02 | 2025-04-06 |
 | [Fala, Fala](https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Fala, Fala](https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn) | 2:55 | 2023-01-13 | 2023-03-25 |
@@ -197,7 +198,7 @@
 | [Por Mim Já Deu](https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz) | [Duda Kropf](https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ) | [Por Mim Já Deu](https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy) | 2:30 | 2023-07-14 | 2023-08-12 |
 | [Porque Me Responde Ainda](https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Porque Me Responde Ainda](https://open.spotify.com/album/27JH4nsKkUIEbu3ri1EXph) | 3:45 | 2024-06-14 |  |
 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 | 2025-02-01 |
-| [Porto Seguro](https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8) | [Caio G](https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5), [Netto Galdino](https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS) | [Porto Seguro](https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ) | 2:48 | 2024-09-13 |  |
+| [Porto Seguro](https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8) | [Caio G](https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5), [Netto Galdino](https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS) | [Porto Seguro](https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ) | 2:48 | 2024-09-13 | 2025-05-23 |
 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 | 2022-11-18 |  |
 | [Pra Ninguém](https://open.spotify.com/track/355a1BU5F1BSofA99ZNejR) | [Elijah](https://open.spotify.com/artist/5y3vYetg0yJc4y4rvsxqKk) | [Pra Ninguém](https://open.spotify.com/album/4tZ6QIEkiD1aEjzx6XJK8f) | 3:49 | 2024-01-26 | 2024-02-03 |
 | [Pra Você](https://open.spotify.com/track/2WsXjgk3SAO9iSjFq9KteU) | [Risô](https://open.spotify.com/artist/7uYVtd6jZBcSSkJQozcGw2), [FIFO](https://open.spotify.com/artist/35gtv5W1SQ8Oj9jP85QfQ4), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Pra Você](https://open.spotify.com/album/2mecm3batbb0siwrRmaZRK) | 2:28 | 2022-11-18 | 2023-03-11 |

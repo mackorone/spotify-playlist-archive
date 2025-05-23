@@ -4250,7 +4250,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 177998,
       "name": "Habbeitak",
       "url": "https://open.spotify.com/track/5sWtbEcIpGB0FLzERXf113"
@@ -6927,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "Men Baadak",
+        "url": "https://open.spotify.com/album/1tktozTMNsI7tqHF9NJUUs"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189883,
+      "name": "Men Baadak",
+      "url": "https://open.spotify.com/track/77KgsutZFrSj2hgaIhiBPy"
+    },
+    {
+      "album": {
         "name": "Merry Merry Christmas",
         "url": "https://open.spotify.com/album/0ZMRdzabgRQ0DOSYd2nyPz"
       },
@@ -8218,6 +8236,24 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/2FCybmEGNqquzBkIGO9RNX"
+    },
+    {
+      "album": {
+        "name": "Sahi Ent",
+        "url": "https://open.spotify.com/album/6CJ1oyZYTw5sODNl6FzuuO"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224207,
+      "name": "Sahi Ent",
+      "url": "https://open.spotify.com/track/7B7wiYcFrlknESg97x4A0h"
     },
     {
       "album": {
@@ -12200,7 +12236,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 188153,
       "name": "\u0645\u0627 \u0628\u0634\u0628\u0647\u0643 - Ma Bechbahak",
       "url": "https://open.spotify.com/track/2C2SkMYG7WFL2JnuxKSCwc"

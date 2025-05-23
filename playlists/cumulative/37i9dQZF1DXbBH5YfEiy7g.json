@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE"
+      },
+      "artists": [
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        },
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198929,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK"
+    },
+    {
+      "album": {
         "name": "Amen / Moya ongcwele",
         "url": "https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU"
       },
@@ -1806,7 +1828,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 492120,
       "name": "Psalms 23 (uMusa Wakho) (feat. Oncemore Six)",
       "url": "https://open.spotify.com/track/1djXbEcTIH17Bc8qS7PxJ2"
@@ -2038,6 +2060,24 @@
       "duration_ms": 252000,
       "name": "Ukholo Lwam (A Song of Hope)",
       "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
+    },
+    {
+      "album": {
+        "name": "Ukhuphila Kwethu",
+        "url": "https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM"
+      },
+      "artists": [
+        {
+          "name": "Reginald Jabu",
+          "url": "https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600102,
+      "name": "Ukhuphila Kwethu",
+      "url": "https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW"
     },
     {
       "album": {
@@ -2410,7 +2450,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 388742,
       "name": "Vha Ya Kona (feat. Kamo)",
       "url": "https://open.spotify.com/track/1LehHBXmrsokioEr1CGjCk"

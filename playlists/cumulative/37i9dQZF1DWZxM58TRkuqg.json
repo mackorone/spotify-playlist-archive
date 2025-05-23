@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Isyana Sarasvati, VIDI",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Ernie Zakri, Anggi Marito",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Babak Terakhir",
+        "url": "https://open.spotify.com/album/7oms6zH06xEyReTsPsuzWi"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195540,
+      "name": "Babak Terakhir",
+      "url": "https://open.spotify.com/track/4mFnbnRA97Kp0Kbkvi2fL3"
+    },
+    {
+      "album": {
         "name": "Bagaimana Bisa Seseorang",
         "url": "https://open.spotify.com/album/42kXGntEYx1eU4HDFLaL5m"
       },
@@ -578,6 +596,24 @@
       "duration_ms": 228750,
       "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja - 2025 Version",
       "url": "https://open.spotify.com/track/1XasiJNvU7btWjp5q7sPiL"
+    },
+    {
+      "album": {
+        "name": "Bahagia Sejak Pertama",
+        "url": "https://open.spotify.com/album/7lRRxJ3UYeqgrK84kethJb"
+      },
+      "artists": [
+        {
+          "name": "D\u2019MASIV",
+          "url": "https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241939,
+      "name": "Bahagia Sejak Pertama",
+      "url": "https://open.spotify.com/track/6rA83jDqTFFB016IHImgp9"
     },
     {
       "album": {
@@ -874,7 +910,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 198750,
       "name": "Bernaung - From \"Setetes Embun Cinta Niyala\"",
       "url": "https://open.spotify.com/track/16Q9MOCDYgrgjEHx6Hx2rv"
@@ -2697,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Jatuh Sejatuh - Jatuhnya",
+        "url": "https://open.spotify.com/album/1yBVYhHKUEQrv5KdnYCWr0"
+      },
+      "artists": [
+        {
+          "name": "Anneth",
+          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201048,
+      "name": "Jatuh Sejatuh - Jatuhnya",
+      "url": "https://open.spotify.com/track/1tibSQyyS5FRcW70OZXWrQ"
+    },
+    {
+      "album": {
         "name": "Jauh Di Sana",
         "url": "https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw"
       },
@@ -3157,6 +3211,28 @@
     },
     {
       "album": {
+        "name": "Kisah Penuh Kecewa",
+        "url": "https://open.spotify.com/album/2QQvBiCR66jEhRYrt3R6yc"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233265,
+      "name": "Kisah Penuh Kecewa",
+      "url": "https://open.spotify.com/track/0GiI82kfAuTows8dlKdABu"
+    },
+    {
+      "album": {
         "name": "Kisah Tanpa Dirimu",
         "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
       },
@@ -3497,7 +3573,7 @@
     },
     {
       "album": {
-        "name": "Layar (Original Soundtrack \"Siapa Dia..\")",
+        "name": "Layar (Original Soundtrack From \"Siapa Dia..\")",
         "url": "https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf"
       },
       "artists": [
@@ -3514,7 +3590,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 271578,
-      "name": "Layar (Original Soundtrack\"Siapa Dia..\")",
+      "name": "Layar (Original Soundtrack From \"Siapa Dia..\")",
       "url": "https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1"
     },
     {
@@ -4264,7 +4340,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 191428,
       "name": "My Hometown Is Sinking",
       "url": "https://open.spotify.com/track/6gNJ4x41nHgnvfe8baw75g"
@@ -4626,6 +4702,24 @@
       "duration_ms": 243750,
       "name": "Pelan-Pelan",
       "url": "https://open.spotify.com/track/70AnODh8fo2PQjcnDtRg3l"
+    },
+    {
+      "album": {
+        "name": "Pendampingmu #TahtaHatiku",
+        "url": "https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv"
+      },
+      "artists": [
+        {
+          "name": "Shabrina Leanor",
+          "url": "https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Pendampingmu #TahtaHatiku",
+      "url": "https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm"
     },
     {
       "album": {
@@ -6216,6 +6310,24 @@
       "duration_ms": 214622,
       "name": "Sweet Hurting",
       "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
+    },
+    {
+      "album": {
+        "name": "Tahta Hatiku #Pendampingmu",
+        "url": "https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245575,
+      "name": "Tahta Hatiku #Pendampingmu",
+      "url": "https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2"
     },
     {
       "album": {

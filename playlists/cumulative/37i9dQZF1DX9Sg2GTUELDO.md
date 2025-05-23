@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Winka 陳泳伽
+> 感受女聲力量。Cover: COLLAR
 
-493 songs - 1 day 5 hr 21 min
+497 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Trouble Trouble](https://open.spotify.com/track/2H1H6nUXJQ7KmT8hvYbIZd) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Trouble Trouble](https://open.spotify.com/album/2hk0q1ifsHtoBhIUZRSyH5) | 3:03 | 2025-04-03 | 2025-04-11 |
 | [TXT OR CALL](https://open.spotify.com/track/2KTPd1X17SzSJbyjfJW0Sx) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [TXT OR CALL](https://open.spotify.com/album/4WztQlLQZA7tBAyAaSVvRT) | 3:06 | 2024-06-27 |  |
 | [Unfamiliar City](https://open.spotify.com/track/6ifU8TVuad0XdG9AxzBbX8) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Unfamiliar City](https://open.spotify.com/album/2top45rqhgC5JyBtUaTmWA) | 3:22 | 2024-10-17 |  |
+| [Unknown](https://open.spotify.com/track/5Y0P12reC1bcbffi8UdV37) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [LUMINOUS](https://open.spotify.com/album/5eakbHsVqrALeQmOTqnmq0) | 4:57 | 2025-05-22 |  |
 | [Vanish Mode](https://open.spotify.com/track/0cfUsP81Dh0lERwoxpP5pp) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Vanish Mode](https://open.spotify.com/album/4swc89sddgQGk4i07ihKpy) | 3:10 | 2024-06-27 |  |
 | [Wait A Second](https://open.spotify.com/track/54Yaojip5O2QGFnjDBF38o) | [Day 許軼](https://open.spotify.com/artist/2LjB9YNxEmF9W7o90smtuv) | [Wait A Second](https://open.spotify.com/album/4kbonNl8gWGKAlpa7wmEH7) | 3:28 | 2025-03-06 |  |
 | [WAKE](https://open.spotify.com/track/2AaRO5LigsqlZOdvx5kchh) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [WAKE](https://open.spotify.com/album/7Dn7EqixgN39a10ad4iKQc) | 3:17 | 2025-01-16 |  |
@@ -217,6 +218,7 @@
 | [伸縮自如的愛](https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [伸縮自如的愛](https://open.spotify.com/album/0h9Z9RHbLmLQAZMFjx7bBT) | 3:36 | 2024-06-27 |  |
 | [低調\(bossa nova\)](https://open.spotify.com/track/00eXc2sJq8632QUBKruhSv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [低調\(bossa nova\)](https://open.spotify.com/album/7oXpZU3qrTmdLSXycMKmml) | 2:54 | 2024-06-27 |  |
 | [作賤](https://open.spotify.com/track/55jgSPkET7IS8KORroxhXy) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [作賤](https://open.spotify.com/album/2SBJ4J3u7IWe308Ah4KVVi) | 3:22 | 2024-10-31 |  |
+| [你在4點14分上線](https://open.spotify.com/track/5znnQrA4snArqOGSODOcYH) | [Yohee又熙](https://open.spotify.com/artist/3vF1H9QKCNIXvIDnRDiCke) | [你在4點14分上線](https://open.spotify.com/album/6Xg7sqa8hhaXGu0F6x0KmA) | 3:41 | 2025-05-22 |  |
 | [你在我不遠處](https://open.spotify.com/track/4Ly4kSvsSLR2oThi5DGJaW) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你在我不遠處](https://open.spotify.com/album/3yKf5hHj8NGN54Buiv5mNv) | 3:01 | 2025-02-27 |  |
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2024-06-27 |  |
 | [你成為了誰的幸福](https://open.spotify.com/track/21ADSha2qwERtBVz3yzD76) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你成為了誰的幸福](https://open.spotify.com/album/1mQwjhCC8ua4FRtUy26ycY) | 4:17 | 2024-06-27 |  |
@@ -366,6 +368,7 @@
 | [時間關係](https://open.spotify.com/track/23JHP9KXlC21MQqxq44NbJ) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [時間關係](https://open.spotify.com/album/4KHnwAkZR2yb85Bd88ICkQ) | 3:12 | 2024-10-24 |  |
 | [晚安](https://open.spotify.com/track/5B0dpesJPb574EQ1IZRaZI) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [晚安](https://open.spotify.com/album/1rLxg9V4iarogkTTVirOHy) | 2:21 | 2024-06-27 |  |
 | [暫時沒有名字](https://open.spotify.com/track/4btQWswfWNAYZGewc7Pcvp) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [WHAT'S INSIDE THE ROOM?](https://open.spotify.com/album/2NjR7iPutuICxDC92jZOog) | 3:04 | 2024-06-27 |  |
+| [暴走女團](https://open.spotify.com/track/0teORBLgjBFQmCU4IzXqP0) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [暴走女團](https://open.spotify.com/album/7BOCjh4M9coY2fOMOyQOEX) | 2:54 | 2025-05-22 |  |
 | [最佳女團友](https://open.spotify.com/track/4mLb60a5HNxElBf7DmGzgL) | [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [最佳女團友](https://open.spotify.com/album/7z5DvPbUPAQ2cuDG63XF42) | 3:56 | 2024-06-27 |  |
 | [最動人一次](https://open.spotify.com/track/3EyP7T8w9tpTeNOL4i45Iy) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [最動人一次](https://open.spotify.com/album/09GDfUNAQtK3EPqLST4Swj) | 3:39 | 2024-12-12 |  |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 |  |
@@ -377,6 +380,7 @@
 | [未晚](https://open.spotify.com/track/2XTZLKd3f7qhNLjsFE4kzS) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [未晚](https://open.spotify.com/album/5NOlCZ8SQuvl8PNZtWiMyF) | 3:38 | 2024-06-27 |  |
 | [未知色 Colours of π](https://open.spotify.com/track/3zOTvfTs6AP3llTHb94az0) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [未知色 Colours of π](https://open.spotify.com/album/4lQmg5s13yrBbRcMPgU485) | 3:12 | 2024-06-27 |  |
 | [未算壞](https://open.spotify.com/track/4CGMeckQyYkBtAKmmYFIOe) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [未算壞](https://open.spotify.com/album/51wtaTyuWQLGQ0gMQbeSkZ) | 3:02 | 2024-06-27 |  |
+| [未至於](https://open.spotify.com/track/0nfozCGVuBCDuDFJ0SFu3P) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [未至於](https://open.spotify.com/album/2CepFBFsWgvEVfFSWoE4ZK) | 3:32 | 2025-05-22 |  |
 | [末日還想看日落](https://open.spotify.com/track/4YeEe8bskYIBWcpQLBX2nn) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [末日還想看日落](https://open.spotify.com/album/04RWjzFcasIYsiMYf7dY0l) | 4:08 | 2024-06-27 |  |
 | [本世紀最怪](https://open.spotify.com/track/7k5eVvETDVDNJUrqBWdnGi) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [本世紀最怪](https://open.spotify.com/album/41XHCYpNdlcPtgyM6gORc7) | 5:02 | 2024-06-27 |  |
 | [李香蘭](https://open.spotify.com/track/1aGLS6kkV6D8cr5XbP5Lii) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [李香蘭](https://open.spotify.com/album/4wYNRBCPWcWEz4ZWYnAUVy) | 4:28 | 2024-06-27 |  |

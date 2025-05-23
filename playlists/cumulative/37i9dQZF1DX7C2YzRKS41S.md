@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-456 songs - 1 day 2 hr 53 min
+457 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Calma](https://open.spotify.com/track/5zMHggqhl3ZMiQ9VbbNsbx) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Calma](https://open.spotify.com/album/3bVdgjWqzwCgH7AGy3IsPV) | 2:52 | 2021-12-24 | 2022-07-28 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2021-12-24 |  |
 | [Caminheiro e o Vento](https://open.spotify.com/track/36AydDtnGFxVLtv2EfAxbG) | [Quando Inhambú Cantou no Meu Quintal](https://open.spotify.com/artist/2Uht0OhNqeeDjmGiV3SI4V) | [Quando Inhambú Cantou no Meu Quintal](https://open.spotify.com/album/51qU0lJl1RipMVRViRlKS3) | 3:08 | 2022-03-25 | 2022-04-17 |
+| [CAMINHOS SELVAGENS](https://open.spotify.com/track/4AlbAuPmB9wUg9Z0J1NKVj) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 3:32 | 2025-05-16 |  |
 | [Caravanas](https://open.spotify.com/track/2b6pcRFFwMcNaYcwMDdTDU) | [Caio Moraes](https://open.spotify.com/artist/14Jbls7E295huaHCPaJVHM), [Fábio Pereira](https://open.spotify.com/artist/1cGnAZbX1Jd06kXTcY50yF) | [Caravanas](https://open.spotify.com/album/5SgSHUEDAAbuTVmOPXXQG7) | 5:57 | 2021-12-24 | 2022-05-14 |
 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 | 2022-03-25 | 2025-02-22 |
 | [Carnaval](https://open.spotify.com/track/5DiZmQVIqQhGaaIJmT0nIO) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9) | [Carnaval](https://open.spotify.com/album/5CUm5GDPwrqjHzHDAIzB05) | 3:31 | 2022-03-25 | 2022-04-21 |
@@ -280,7 +281,7 @@
 | [Não Me Segue](https://open.spotify.com/track/09Mr42Ytei7ocNH0fPvzG6) | [Tuim](https://open.spotify.com/artist/1kYRBQzW6frNlgx6bkSC9Q) | [Não Me Segue](https://open.spotify.com/album/0iNavpEoztfqFMirGuK3vy) | 5:54 | 2021-12-24 | 2022-07-23 |
 | [Não Penso Em Parar](https://open.spotify.com/track/3GrNhQRJZvC4H1hrsBtuBR) | [Indiada Buena](https://open.spotify.com/artist/4UIHYzE00Oq3sPgXaWT2l8) | [Amanhã Não Sei Pra Onde](https://open.spotify.com/album/1Tr7ZRxQAjHj5F3VyRjAYa) | 3:53 | 2022-03-25 | 2022-04-17 |
 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 | 2023-10-20 |  |
-| [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 | 2023-03-17 |  |
+| [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 | 2023-03-17 | 2025-05-23 |
 | [Nós](https://open.spotify.com/track/0Y4XHz6eHG8uYf1xgZvfxN) | [Dino Bacciotti](https://open.spotify.com/artist/4vUo5k6ulbvc5eHBrlIGu1) | [Coração Aberto](https://open.spotify.com/album/1LBOVnpeboBpNbZ6azg4J7) | 3:04 | 2021-12-24 | 2022-07-24 |
 | [Nômade](https://open.spotify.com/track/5SjfLKf8zhJD9nrXaRIja7) | [Renato Godá](https://open.spotify.com/artist/1ug7cfUG4EP8LOQWcbb6j8) | [Nômade](https://open.spotify.com/album/6UmLoUjbTGaIz5F44ddQnF) | 2:48 | 2022-03-25 | 2022-04-17 |
 | [O amor do mundo inteiro](https://open.spotify.com/track/4kv4NLf1F5KXAbcT1bKnim) | [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [O amor do mundo inteiro](https://open.spotify.com/album/2u8FGzDYRupIltaFCBNHtV) | 2:58 | 2021-12-24 | 2022-07-26 |

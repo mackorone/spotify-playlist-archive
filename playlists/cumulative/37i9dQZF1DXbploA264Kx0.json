@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: Mandark ",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Dizparity x SOPHY",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 112820,
       "name": "Little Battle",
       "url": "https://open.spotify.com/track/0ulzcJL3ZvQPTpWiBWfNB2"
@@ -5666,6 +5666,28 @@
       "duration_ms": 281880,
       "name": "This is My World",
       "url": "https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz"
+    },
+    {
+      "album": {
+        "name": "through the echoes",
+        "url": "https://open.spotify.com/album/5uqI4OPlSpqSRHQ9YkSrdG"
+      },
+      "artists": [
+        {
+          "name": "Dizparity",
+          "url": "https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce"
+        },
+        {
+          "name": "SOPHY",
+          "url": "https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254732,
+      "name": "through the echoes",
+      "url": "https://open.spotify.com/track/3v6c70hy2lWTisOBOJRiY5"
     },
     {
       "album": {

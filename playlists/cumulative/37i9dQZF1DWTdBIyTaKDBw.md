@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-350 songs - 19 hr 29 min
+351 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Beyond Imagination](https://open.spotify.com/track/65WcwboLuUCResbw2zAsov) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [In Harmony With Nature](https://open.spotify.com/album/465vmNes1v0hHkYlkS1teK) | 2:08 | 2024-07-02 |  |
 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 | 2022-07-04 | 2022-09-09 |
 | [Beyond the Veil](https://open.spotify.com/track/6kwjxS1LFHHZ79wqhvQiy1) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:49 | 2024-07-02 | 2025-04-25 |
-| [Beyond the Waves](https://open.spotify.com/track/6uB4JeqeiGxYn1pswrC7rX) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan), [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beyond the Waves](https://open.spotify.com/album/2JNdOx7Y8ESNTPawE3ATOr) | 2:50 | 2024-07-02 |  |
+| [Beyond the Waves](https://open.spotify.com/track/6uB4JeqeiGxYn1pswrC7rX) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan), [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beyond the Waves](https://open.spotify.com/album/2JNdOx7Y8ESNTPawE3ATOr) | 2:50 | 2024-07-02 | 2025-05-23 |
 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 | 2024-07-02 |  |
 | [Bit by Bit, Slowly, To You](https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Bit by Bit, Slowly, To You](https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE) | 4:16 | 2023-05-02 | 2024-07-03 |
 | [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2024-07-02 | 2024-11-04 |
@@ -170,6 +170,7 @@
 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 | 2022-07-22 | 2024-06-22 |
 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Love song \(Feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 5:00 | 2022-05-03 | 2024-07-03 |
+| [Love Wine & Talks](https://open.spotify.com/track/1gnRLTShn9WSYMvqLovx6k) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Love Wine & Talks](https://open.spotify.com/album/4NYQgI1kiHwU0B7a24sNFo) | 3:19 | 2025-05-16 |  |
 | [Lucid Mind](https://open.spotify.com/track/6DGDOJ5ZRv01S6NaiX2uxr) | [Cotard Beatz](https://open.spotify.com/artist/7jmEQhBTQ9WVTdHmclo7GC) | [Lucid Mind](https://open.spotify.com/album/2eHa549rTxql9FDCYUzxAJ) | 2:50 | 2024-07-02 | 2025-05-16 |
 | [Lullaby \(zz\)](https://open.spotify.com/track/2y7vVELbuhI132UZNBjtsZ) | [Ryu Sujeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [RYU SU JEONG 1st Mini Album \[Tiger Eyes\]](https://open.spotify.com/album/4HHW42BPxobSoqn8P5sUGE) | 4:21 | 2022-05-03 | 2024-06-30 |
 | [Luv Letter](https://open.spotify.com/track/60mjatPf9M1fXkBmei0ATb) | [DJ Okawari](https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9) | [MIRROR](https://open.spotify.com/album/2hVOlMI7GteBNwO90mflZd) | 4:28 | 2024-07-02 |  |

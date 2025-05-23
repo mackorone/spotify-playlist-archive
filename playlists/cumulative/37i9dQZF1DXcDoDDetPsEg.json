@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Darkoo",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Young T & Bugsey",
   "name": "Who We Be",
   "tracks": [
     {
@@ -1540,6 +1540,24 @@
       "duration_ms": 127000,
       "name": "An Idea Was Born",
       "url": "https://open.spotify.com/track/7MMT2yeDKLjbxV3HS7k8Gf"
+    },
+    {
+      "album": {
+        "name": "Prove Them Wrong",
+        "url": "https://open.spotify.com/album/4wq0ynVCbHno5QJFuAR1yZ"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170442,
+      "name": "Anansi",
+      "url": "https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns"
     },
     {
       "album": {
@@ -5394,7 +5412,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 214833,
       "name": "Cold Hearted World 4",
       "url": "https://open.spotify.com/track/1D4vn239xS2eKGtLwGcwZz"
@@ -9952,7 +9970,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 220037,
       "name": "G.A.D",
       "url": "https://open.spotify.com/track/2TrEJjdZoCRf4i43fbBzZ1"
@@ -11950,6 +11968,28 @@
       "duration_ms": 205809,
       "name": "Highly Blessed (feat. Skrapz and Wretch 32)",
       "url": "https://open.spotify.com/track/2iwE5cpEFDKQs4boDBr8YX"
+    },
+    {
+      "album": {
+        "name": "His & Hers (with Loski)",
+        "url": "https://open.spotify.com/album/5iDPT6RAETzQJ8PZxbS9Xh"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Loski",
+          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206313,
+      "name": "His & Hers (with Loski)",
+      "url": "https://open.spotify.com/track/4pbf37Dttl8yLgpDSPTq6T"
     },
     {
       "album": {
@@ -21037,6 +21077,28 @@
     },
     {
       "album": {
+        "name": "Party Next Door",
+        "url": "https://open.spotify.com/album/0Z0GucmnsdB60DmhSa8drt"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "IamNuhRush",
+          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163470,
+      "name": "Party Next Door",
+      "url": "https://open.spotify.com/track/4uIuf9PyfooM5yr90oeCs2"
+    },
+    {
+      "album": {
         "name": "Just For Clarity 2",
         "url": "https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE"
       },
@@ -21954,7 +22016,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 170962,
       "name": "Pressure Points (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z"
@@ -26653,6 +26715,28 @@
     },
     {
       "album": {
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
+    },
+    {
+      "album": {
         "name": "Tears In My Amiri's",
         "url": "https://open.spotify.com/album/3b69Kmo9ZwejpFtCuxG5pq"
       },
@@ -27354,7 +27438,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 189000,
       "name": "Time",
       "url": "https://open.spotify.com/track/7yOV3TWqCHTVNJIpaxVCbm"

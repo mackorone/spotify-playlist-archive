@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,283 likes - 203 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,339 likes - 203 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 202 | [Sensible](https://open.spotify.com/track/4keeCzVyVRwOIUH1ZTQYeM) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Sensible](https://open.spotify.com/album/6TkUtCTrVEP61uXTKaoX4x) | 3:19 |
 | 203 | [Aftertaste \- MUNA Remix](https://open.spotify.com/track/2MkrZcor4Y8Ux8V3qRp5VO) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Aftertaste \(MUNA Remix\)](https://open.spotify.com/album/6rk50SCI6pzLMkwQ1CSjXI) | 3:52 |
 
-Snapshot ID: `aCdpLAAAAAAsCnkT5yzoPgOtVHzwzhqt`
+Snapshot ID: `aCdpLAAAAAADMhyesO1Oe11NAvS65//N`

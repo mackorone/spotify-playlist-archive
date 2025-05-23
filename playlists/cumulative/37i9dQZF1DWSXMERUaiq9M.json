@@ -126,7 +126,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 300000,
       "name": "5 Mins of Acid",
       "url": "https://open.spotify.com/track/02A5ut8OcBcuXKPmT9e2RN"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 246938,
       "name": "All Chaos Is Digital",
       "url": "https://open.spotify.com/track/0rYb3kKO4KHnrfGVXviVWa"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 204172,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 130063,
       "name": "All I Wanna",
       "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 331609,
       "name": "All Of It",
       "url": "https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 271875,
       "name": "Breaking My Heart",
       "url": "https://open.spotify.com/track/0v9rbji05qP6JYLSYGF782"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 199973,
       "name": "CWWDBI",
       "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
@@ -1942,6 +1942,24 @@
       "duration_ms": 182900,
       "name": "Discotheque",
       "url": "https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/2An7MFk09i75gWJ1ctzQ8N"
+      },
+      "artists": [
+        {
+          "name": "Benwal",
+          "url": "https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209644,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/67OCwctI95C8WU6ejoLbt8"
     },
     {
       "album": {
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 156113,
       "name": "DR34M$",
       "url": "https://open.spotify.com/track/55EPegD9KficI9lrBqqnwG"
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh"
@@ -3169,6 +3187,28 @@
     },
     {
       "album": {
+        "name": "Geht's noch? (21 Year Anniversary Pt. 1)",
+        "url": "https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        },
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248757,
+      "name": "Geht's noch? - DJ Gigola Remix",
+      "url": "https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A"
+    },
+    {
+      "album": {
         "name": "Get Busy",
         "url": "https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob"
       },
@@ -3272,7 +3312,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 199520,
       "name": "Getting Ready for the Party",
       "url": "https://open.spotify.com/track/3LrGlbttOCoLsaoTpWiDyc"
@@ -3330,7 +3370,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 265600,
       "name": "Gigolo",
       "url": "https://open.spotify.com/track/1oqKD9FYu3DJJcWJ5lPVmK"
@@ -3626,7 +3666,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 180000,
       "name": "Heartbeat Destiny",
       "url": "https://open.spotify.com/track/0slQUisdrwyMLrFJ8Dxaee"
@@ -3706,6 +3746,24 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "album": {
+        "name": "Hype Boy",
+        "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196941,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
     },
     {
       "album": {
@@ -3962,7 +4020,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 167861,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/0EkO6IEUFlbfxLDoDVieOt"
@@ -4652,7 +4710,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 148965,
       "name": "Knees Break",
       "url": "https://open.spotify.com/track/0SyWhkrm6yBPgqliVB7MP9"
@@ -4696,7 +4754,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 152470,
       "name": "Kotodama",
       "url": "https://open.spotify.com/track/7jkxUiHq2h9v2YDm9yg9mY"
@@ -4714,7 +4772,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 160000,
       "name": "La Batteria",
       "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
@@ -4976,6 +5034,32 @@
       "duration_ms": 153458,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "STORM",
+          "url": "https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142991,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL"
     },
     {
       "album": {
@@ -5412,7 +5496,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 324668,
       "name": "Medulla",
       "url": "https://open.spotify.com/track/1wCWu0olvm0XqvaY0CNna9"
@@ -5858,7 +5942,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 176817,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
@@ -6014,7 +6098,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 230400,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/4QvtLpKclx8m0KLyKojirp"
@@ -6320,6 +6404,28 @@
       "duration_ms": 188216,
       "name": "Oh mein Herz",
       "url": "https://open.spotify.com/track/0UkjRy9JSG0ybtOzzgaY6x"
+    },
+    {
+      "album": {
+        "name": "ON REPEAT",
+        "url": "https://open.spotify.com/album/5RRbzqP3YIcWhinEigBuc0"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Bassfeature",
+          "url": "https://open.spotify.com/artist/6gJ6e0zgqpzY9032oXvb8l"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145548,
+      "name": "ON REPEAT",
+      "url": "https://open.spotify.com/track/25IAOVi773nomfvgEmAMLY"
     },
     {
       "album": {
@@ -7955,6 +8061,24 @@
     },
     {
       "album": {
+        "name": "Staring Into The Sun",
+        "url": "https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196227,
+      "name": "Staring Into The Sun",
+      "url": "https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE"
+    },
+    {
+      "album": {
         "name": "44014",
         "url": "https://open.spotify.com/album/7e6XaF4E1KEgSBpKmsqOW3"
       },
@@ -7966,7 +8090,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 271705,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/2PXRDrNnbgoNvSRt9LxB8G"
@@ -8118,6 +8242,46 @@
       "duration_ms": 146178,
       "name": "Summer Smash",
       "url": "https://open.spotify.com/track/06MD7zuY2QQFK4kc3dFyOm"
+    },
+    {
+      "album": {
+        "name": "Supa Dupa Fly",
+        "url": "https://open.spotify.com/album/0xJvuCJjbORj3zBklFUSuZ"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Supa Dupa Fly",
+      "url": "https://open.spotify.com/track/1BJrOKYwBquCz9qvd4NKbZ"
+    },
+    {
+      "album": {
+        "name": "Supersonic / Hands Up In The Sky",
+        "url": "https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
     },
     {
       "album": {
@@ -8774,7 +8938,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 214800,
       "name": "Traum",
       "url": "https://open.spotify.com/track/0zsE0og8kz0nddQFeNrgPG"
@@ -8890,7 +9054,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 567268,
       "name": "Two Steps From Heaven",
       "url": "https://open.spotify.com/track/11VfNXFzTxL23ar2XUo695"
@@ -9160,7 +9324,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 217866,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/4hACcQfF5dtAzN0CW7vCAF"
@@ -9274,7 +9438,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 198750,
       "name": "Want My Love",
       "url": "https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH"
@@ -9698,7 +9862,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 197197,
       "name": "You Are In My System - Faster Horses Sport Mix",
       "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"

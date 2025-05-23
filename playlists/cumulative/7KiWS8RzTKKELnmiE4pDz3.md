@@ -4,7 +4,7 @@
 
 > 
 
-1,002 songs - 2 day 1 hr 42 min
+1,003 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Pussy](https://open.spotify.com/track/5ZzQZcpwW7IyhKopLuoiwn) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:21 | 2023-07-20 | 2023-12-14 |
 | [put out fye](https://open.spotify.com/track/5FaS5hLw4UEo9nui6Ll0o3) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:52 | 2022-07-28 | 2023-12-14 |
 | [Pyro](https://open.spotify.com/track/3Icp3VqFjDmRUBYeuCX6C6) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Pyro](https://open.spotify.com/album/2tuOiDWzEppASG9EBRT0aW) | 2:38 | 2025-03-06 | 2025-05-21 |
+| [Quiks Groove \(The One\) \[feat\. DJ Quik, Sevyn Streeter & Micah\]](https://open.spotify.com/track/342Bs4dA6c8S7toXbv5Sn3) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Micah](https://open.spotify.com/artist/17nHENHbgt3P50ZtGPtv2i), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [The Documentary 2.5](https://open.spotify.com/album/1Jgu0dPNH1rpct0lokq5L6) | 5:41 | 2025-05-22 |  |
 | [R3kless](https://open.spotify.com/track/6fItXFfd1hwIPwJNxvu9iK) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Dumb and Dumb3r](https://open.spotify.com/album/219ryDc5ktf9nDO7FPkwIt) | 2:36 | 2025-05-08 |  |
 | [Rackz got më \(feat\. Gunna\)](https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 3:01 | 2022-02-18 | 2023-05-09 |
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-11-05 | 2025-05-21 |

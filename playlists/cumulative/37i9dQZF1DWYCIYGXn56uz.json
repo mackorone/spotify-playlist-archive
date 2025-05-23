@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Jacopo Sol",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: TrigNO",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 141714,
       "name": "APNEA",
       "url": "https://open.spotify.com/track/0cpGlh2u5b7NyyNBLS51q2"
@@ -1142,6 +1142,28 @@
       "duration_ms": 191688,
       "name": "Autostrada",
       "url": "https://open.spotify.com/track/3kQ1IyFY6LEjjoLCl9rInQ"
+    },
+    {
+      "album": {
+        "name": "AVARIA",
+        "url": "https://open.spotify.com/album/0oo1Iwg44QoG9DkzxfzBkF"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132183,
+      "name": "AVARIA",
+      "url": "https://open.spotify.com/track/3TCNn1KYzlLpqgcjPXjhEb"
     },
     {
       "album": {
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 172973,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/3J90t7XbwIsoa43WHbIKEK"
@@ -1712,7 +1734,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 173076,
       "name": "Briciole",
       "url": "https://open.spotify.com/track/16Q0PRfYWUokXZe3zZaDRv"
@@ -2931,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "corsica",
+        "url": "https://open.spotify.com/album/3bKmJpODyx76qlNlM34puj"
+      },
+      "artists": [
+        {
+          "name": "Loomy",
+          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150132,
+      "name": "corsica",
+      "url": "https://open.spotify.com/track/44VwGR0gB3U8hhwWYfeEg1"
+    },
+    {
+      "album": {
         "name": "COSE CHE NON SAI",
         "url": "https://open.spotify.com/album/73TFa19BEx0BEhfHbswCDn"
       },
@@ -3302,6 +3342,28 @@
       "duration_ms": 176190,
       "name": "Del + e del -",
       "url": "https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO"
+    },
+    {
+      "album": {
+        "name": "Depresso fortunato",
+        "url": "https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212148,
+      "name": "Depresso fortunato",
+      "url": "https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ"
     },
     {
       "album": {
@@ -4427,6 +4489,28 @@
     },
     {
       "album": {
+        "name": "fino all'osso",
+        "url": "https://open.spotify.com/album/2KusRlqPHfelDbQLTwfaV5"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "fino all'osso",
+      "url": "https://open.spotify.com/track/2VxBf9LFI9teQEhoStCoTW"
+    },
+    {
+      "album": {
         "name": "FINO ALLE 6",
         "url": "https://open.spotify.com/album/4xQGwlG5pBrTxg3gsRglDX"
       },
@@ -5037,6 +5121,28 @@
     },
     {
       "album": {
+        "name": "Le ragazze della valle",
+        "url": "https://open.spotify.com/album/1DcCElVfBLCCdQSdqnZHcc"
+      },
+      "artists": [
+        {
+          "name": "Vale LP",
+          "url": "https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ"
+        },
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158423,
+      "name": "GOOGLEAMORE",
+      "url": "https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx"
+    },
+    {
+      "album": {
         "name": "GOVERNO PUNK",
         "url": "https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p"
       },
@@ -5444,7 +5550,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 160952,
       "name": "IL BELLO E IL MARCIO",
       "url": "https://open.spotify.com/track/2YrvMApfdCzq3X2a7rz5qU"
@@ -5578,7 +5684,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 210726,
       "name": "Il Mio Compleanno",
       "url": "https://open.spotify.com/track/6Oxcj7hhbHyK0k1DPMOWV5"
@@ -6711,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "TOCCA IL CIELO",
+        "url": "https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160856,
+      "name": "LUNA ROSSA",
+      "url": "https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo"
+    },
+    {
+      "album": {
         "name": "LUNATICA",
         "url": "https://open.spotify.com/album/4v4ZPUnw9s9MWZjTVHtPo5"
       },
@@ -7108,7 +7232,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 175714,
       "name": "Marco",
       "url": "https://open.spotify.com/track/3gVKUlpjkWoe9GcYl3HGO8"
@@ -9613,6 +9737,24 @@
     },
     {
       "album": {
+        "name": "Pillole & Cucchiai",
+        "url": "https://open.spotify.com/album/51gampjFBAPeeXNbIKcxXr"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148027,
+      "name": "Pillole & Cucchiai",
+      "url": "https://open.spotify.com/track/2JEc68Udh2oqlE5BzLfpVU"
+    },
+    {
+      "album": {
         "name": "LA PARTE DEL MONDO CHE NON MI PIACE",
         "url": "https://open.spotify.com/album/1SdYzkHgjy3yFa8gGRU70G"
       },
@@ -9795,6 +9937,28 @@
     },
     {
       "album": {
+        "name": "Popolare",
+        "url": "https://open.spotify.com/album/395qqtbnGrzuSND5MwXwfa"
+      },
+      "artists": [
+        {
+          "name": "Michele Bravi",
+          "url": "https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3"
+        },
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145785,
+      "name": "Popolare",
+      "url": "https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ"
+    },
+    {
+      "album": {
         "name": "POSATENEBRE",
         "url": "https://open.spotify.com/album/0HZ53MWDea1zIvVZ2DqQXg"
       },
@@ -9810,6 +9974,24 @@
       "duration_ms": 182630,
       "name": "POSATENEBRE",
       "url": "https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM"
+    },
+    {
+      "album": {
+        "name": "POSTO X ME",
+        "url": "https://open.spotify.com/album/6ea7xnQNhwbZXliBDV48dY"
+      },
+      "artists": [
+        {
+          "name": "SCICCHI",
+          "url": "https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "POSTO X ME",
+      "url": "https://open.spotify.com/track/0g402NoPArRmfR4ASkSQNP"
     },
     {
       "album": {
@@ -10174,7 +10356,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 197314,
       "name": "RAGAZZI L\u00cc",
       "url": "https://open.spotify.com/track/4Os4hlQpSHdOvbCetxNjaT"
@@ -10456,7 +10638,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 149000,
       "name": "ROMA LO SA",
       "url": "https://open.spotify.com/track/0JMGJ1qUxwHTXCQm3EiEnP"
@@ -10984,6 +11166,24 @@
       "duration_ms": 155363,
       "name": "SEMPRE LA STESSA STORIA",
       "url": "https://open.spotify.com/track/0LiFSV7rfijFu8O7JztShL"
+    },
+    {
+      "album": {
+        "name": "Sempre peggio",
+        "url": "https://open.spotify.com/album/4iVXGqLvOgy41ZqQu0DFzE"
+      },
+      "artists": [
+        {
+          "name": "dile",
+          "url": "https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157825,
+      "name": "Sempre peggio",
+      "url": "https://open.spotify.com/track/2u6cZIiXloUPhWFLPOpfOw"
     },
     {
       "album": {
@@ -11961,6 +12161,24 @@
     },
     {
       "album": {
+        "name": "TAKI",
+        "url": "https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "TAKI",
+      "url": "https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v"
+    },
+    {
+      "album": {
         "name": "TANANAI",
         "url": "https://open.spotify.com/album/4aecpa6YWXWu1rVqBIgY1c"
       },
@@ -12850,7 +13068,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 161574,
       "name": "un giorno in pi\u00f9",
       "url": "https://open.spotify.com/track/45ardAYQus7bUH97kN5gA3"

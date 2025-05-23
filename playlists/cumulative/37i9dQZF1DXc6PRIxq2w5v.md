@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: 2metro
 
-478 songs - 1 day 0 hr 33 min
+479 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Aquebrantado](https://open.spotify.com/track/2xb1pT7KjRB6XKS4yAgu7b) | [LP Maromba](https://open.spotify.com/artist/1rnDCA1L6frTG0LeaTvUnu), [Lou twb](https://open.spotify.com/artist/5p280uiHU0e284i1QvNroa) | [Aquebrantado](https://open.spotify.com/album/0EWR2u8tkVhGnJ48xgyvvk) | 3:19 | 2023-10-06 | 2023-10-23 |
 | [AQUI TÁ MEU CORAÇÃO \(feat\. MellowBeatz\)](https://open.spotify.com/track/7oHFW8VPbPafn7EjNNT0KV) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [MellowBeatz](https://open.spotify.com/artist/0ubntF0OwcTIoq3DorJqU5) | [ENTRE CÉU E ONDAS \- Vol.1](https://open.spotify.com/album/0dSOUXMV0pLaFCnY93aIdN) | 2:31 | 2022-04-01 | 2022-08-20 |
 | [Arca de Noé](https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF) | [Lz Lipe](https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb), [You Music](https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171) | [Arca de Noé](https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX) | 2:56 | 2023-10-06 | 2025-02-07 |
+| [Arde Outra Vez](https://open.spotify.com/track/6qWzAG4F9VkgXRFGGF9Ak7) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Arde Outra Vez](https://open.spotify.com/album/3Xi7Ub3YolzcT7hy13f7kR) | 3:24 | 2025-05-23 |  |
 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 | 2022-03-22 | 2023-04-29 |
 | [Atenas](https://open.spotify.com/track/5o6r4EhnXuDxlexSZZn51p) | [Diego Ddl](https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5) | [Atenas](https://open.spotify.com/album/4lZT8fKuYJP6zTB6aHzBrJ) | 2:32 | 2023-05-12 | 2023-06-03 |
 | [Ato de Amor](https://open.spotify.com/track/4jQ1F7HyjFzz9hsnzD8F5h) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Pastor Henrique Vieira](https://open.spotify.com/artist/34Bz0hL5bQMYbaYzn4ZmCZ) | [Ato de Amor](https://open.spotify.com/album/6Zw3h5Frkz2GUojqpqJgTv) | 3:51 | 2022-08-19 | 2022-09-03 |
@@ -315,7 +316,7 @@
 | [Olha Pra Mim](https://open.spotify.com/track/2LAwKg7SUyDf7a8NSK9Fu5) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Gladius](https://open.spotify.com/artist/2TIIsoWqd3L4lW6oyx5RJK) | [Olha Pra Mim](https://open.spotify.com/album/2Bao17JOZ9hOewsR9fBiBY) | 3:01 | 2023-05-19 | 2023-06-03 |
 | [Olho pro Céu](https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S) | [WC12](https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe), [Gemão](https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Olho pro Céu](https://open.spotify.com/album/34rhziCCOtspVNUED09xYb) | 3:48 | 2023-06-23 |  |
 | [Oração](https://open.spotify.com/track/27ewarCSYA5W1Su9Fp3o7h) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Oração](https://open.spotify.com/album/3Cm1d2xUKGUxEoGl6xUPkZ) | 2:19 | 2022-03-22 | 2022-04-09 |
-| [Oração Em Flow](https://open.spotify.com/track/73VuYED2UOSdGN2qPzBXBq) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI), [Mano Sassá](https://open.spotify.com/artist/71K2lJx4XA6g8hkjGrS8l0) | [Oração Em Flow](https://open.spotify.com/album/2IgYxhq0xVExzNg0x5N6Hs) | 4:24 | 2024-10-25 |  |
+| [Oração Em Flow](https://open.spotify.com/track/73VuYED2UOSdGN2qPzBXBq) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI), [Mano Sassá](https://open.spotify.com/artist/71K2lJx4XA6g8hkjGrS8l0) | [Oração Em Flow](https://open.spotify.com/album/2IgYxhq0xVExzNg0x5N6Hs) | 4:24 | 2024-10-25 | 2025-05-23 |
 | [Os Dois Lados](https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Os Dois Lados](https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG) | 3:39 | 2022-09-19 | 2022-11-26 |
 | [Palavras Tem Poder](https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO) | [BB Rocha](https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp) | [Palavras Tem Poder](https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh) | 1:45 | 2022-11-25 | 2023-04-22 |
 | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh) | 2:41 | 2023-04-15 | 2025-02-14 |

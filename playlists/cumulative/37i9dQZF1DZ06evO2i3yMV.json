@@ -149,6 +149,32 @@
     },
     {
       "album": {
+        "name": "Eternal Reverie Remixes, Pt. 1",
+        "url": "https://open.spotify.com/album/3hHRdXKMuR20N678VUe0Lf"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        },
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "All In - Karaba Remix",
+      "url": "https://open.spotify.com/track/1mt2tCWHhI3PzCZ28y29rk"
+    },
+    {
+      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -784,7 +810,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 223920,
       "name": "Eats The Tale",
       "url": "https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT"

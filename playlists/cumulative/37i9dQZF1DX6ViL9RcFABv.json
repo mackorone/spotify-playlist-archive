@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Catarina Filipe, LEO2745",
+  "description": "Uma playlist de pura alma pop! Foto: D.A.M.A.",
   "name": "Pop PT",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 201833,
       "name": "A Nossa Hora",
       "url": "https://open.spotify.com/track/27cs1edHL7yU4zFIuqF0rC"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 151384,
       "name": "Adeus",
       "url": "https://open.spotify.com/track/4KdOFRQT6eMN1yckrmd2o1"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 170893,
       "name": "At\u00e9 Parece",
       "url": "https://open.spotify.com/track/6uJj5xjwmaucjiiCxoX876"
@@ -618,6 +618,24 @@
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
+    },
+    {
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4xtQf74DoNv8pyV2IDGagM"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129218,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/4uF885xlMT33EbgQuvBrHE"
     },
     {
       "album": {
@@ -1117,6 +1135,28 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199396,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
+    },
+    {
+      "album": {
         "name": "Contra Probabilidades",
         "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
       },
@@ -1322,6 +1362,24 @@
       "duration_ms": 204917,
       "name": "Deixa em Paz",
       "url": "https://open.spotify.com/track/3ZLAdr4In5bZt9c1WcPM4y"
+    },
+    {
+      "album": {
+        "name": "deixa falar de n\u00f3s",
+        "url": "https://open.spotify.com/album/4h8ttoOZIqURTwiKMtb3ML"
+      },
+      "artists": [
+        {
+          "name": "Valle",
+          "url": "https://open.spotify.com/artist/1ezLRigpJFQvYbXVRv7hOf"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "deixa falar de n\u00f3s",
+      "url": "https://open.spotify.com/track/3uIei40nAPqY6qNCA8Q9oW"
     },
     {
       "album": {
@@ -1972,7 +2030,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 180400,
       "name": "Feitos de Carne e Osso",
       "url": "https://open.spotify.com/track/4dQbdqBvaYqCivQtZn7dpW"
@@ -2535,6 +2593,28 @@
     },
     {
       "album": {
+        "name": "Mais Do Que Entreter",
+        "url": "https://open.spotify.com/album/690AQaXuqmKzMX70LIxcqW"
+      },
+      "artists": [
+        {
+          "name": "Virgul",
+          "url": "https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204100,
+      "name": "J\u00e1 N\u00e3o Sais Daqui",
+      "url": "https://open.spotify.com/track/2CmzvlSWvxgcHBiydvp34s"
+    },
+    {
+      "album": {
         "name": "J\u00e1 vem tarde",
         "url": "https://open.spotify.com/album/5KVDYR7g3btnFcIGNwnnmH"
       },
@@ -2682,6 +2762,28 @@
       "duration_ms": 191168,
       "name": "Leva Tudo",
       "url": "https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt"
+    },
+    {
+      "album": {
+        "name": "LIBRAM",
+        "url": "https://open.spotify.com/album/3EftS8oqqZCbMFDVB19hkR"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        },
+        {
+          "name": "Virgul",
+          "url": "https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181406,
+      "name": "LIBRAM",
+      "url": "https://open.spotify.com/track/58onl1z8Eyat0gwaH5oIZp"
     },
     {
       "album": {
@@ -3096,7 +3198,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 206803,
       "name": "Na Pressa Dos Dias",
       "url": "https://open.spotify.com/track/1FDCHVC6nWMK4YooznGt1m"
@@ -3687,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Chorar No Club",
+        "url": "https://open.spotify.com/album/3fLB88ZumC9ippQyZDZi2Y"
+      },
+      "artists": [
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166306,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/79We0JRp6GMtNkrNeKGzBg"
+    },
+    {
+      "album": {
         "name": "TWALA KUMOXI",
         "url": "https://open.spotify.com/album/3uG9ynIapv6TUJbzWjURi4"
       },
@@ -3992,7 +4112,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 164000,
       "name": "Quero \u00c9 Rir",
       "url": "https://open.spotify.com/track/0FkmM69Kgf8ROlcMrzv0iJ"
@@ -4200,6 +4320,24 @@
       "duration_ms": 158766,
       "name": "sabesamar",
       "url": "https://open.spotify.com/track/1wJeFzk6SsB0o5ozRh2RGf"
+    },
+    {
+      "album": {
+        "name": "Saltamos Daqui!",
+        "url": "https://open.spotify.com/album/73XIeQpT28k2fdPdv2NY0G"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas Marques Lucas",
+          "url": "https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204507,
+      "name": "Saltamos Daqui!",
+      "url": "https://open.spotify.com/track/1OootyYFdPXCTqkW4ZBmbP"
     },
     {
       "album": {
@@ -4502,7 +4640,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 175000,
       "name": "Sonhar Contigo",
       "url": "https://open.spotify.com/track/1TuNUqS6yhjFT7wZ1V7Qml"
@@ -4632,7 +4770,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 181853,
       "name": "Telefone Estragado",
       "url": "https://open.spotify.com/track/6jbj7rIgPoimjgB9SXlP81"
@@ -4698,6 +4836,24 @@
       "duration_ms": 195683,
       "name": "Tento Na L\u00edngua",
       "url": "https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG"
+    },
+    {
+      "album": {
+        "name": "Terra da Maria",
+        "url": "https://open.spotify.com/album/6R6BRuvu1YriFFhTUN5Xwe"
+      },
+      "artists": [
+        {
+          "name": "D.A.M.A",
+          "url": "https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146372,
+      "name": "Terra da Maria",
+      "url": "https://open.spotify.com/track/7DMur7xPMYpRiECi6lfhCJ"
     },
     {
       "album": {

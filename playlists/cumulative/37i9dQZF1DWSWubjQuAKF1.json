@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: AZ-YL",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Faustyna Maciejczuk",
   "name": "up next",
   "tracks": [
     {
@@ -3019,6 +3019,28 @@
     },
     {
       "album": {
+        "name": "jeszcze raz",
+        "url": "https://open.spotify.com/album/0cxn6C6Yk2zEZlRn2EVHg5"
+      },
+      "artists": [
+        {
+          "name": "DJ BLIK",
+          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
+        },
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "jeszcze raz",
+      "url": "https://open.spotify.com/track/1zxUcEhaqPbgmryzP9Q6fu"
+    },
+    {
+      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj"
       },
@@ -3030,7 +3052,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 284548,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3"
@@ -4162,7 +4184,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 181000,
       "name": "MI\u0141O\u015a\u0106 PRZEZWYCI\u0118\u017bA WSZYSTKO",
       "url": "https://open.spotify.com/track/5I4eDKoHhURJvawKiWMyN9"
@@ -4264,6 +4286,24 @@
       "duration_ms": 168648,
       "name": "Mog\u0119 si\u0119 pomyli\u0107",
       "url": "https://open.spotify.com/track/4Dd6xQTBczaS9cn8hN7Dio"
+    },
+    {
+      "album": {
+        "name": "moja love",
+        "url": "https://open.spotify.com/album/7CarrTn901aVyU3oKCN5aL"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181620,
+      "name": "moja love",
+      "url": "https://open.spotify.com/track/1YtdI4h1XdBPZ44iMCWHZY"
     },
     {
       "album": {
@@ -5209,6 +5249,24 @@
     },
     {
       "album": {
+        "name": "nwcojestgrane",
+        "url": "https://open.spotify.com/album/3oYY4VqBeh8fORA6WczZBi"
+      },
+      "artists": [
+        {
+          "name": "sonia",
+          "url": "https://open.spotify.com/artist/5tJewiRCbFJHbFzRWn2OS3"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "nwcojestgrane",
+      "url": "https://open.spotify.com/track/0rrUFLkf13Qx5XhUxDw6CK"
+    },
+    {
+      "album": {
         "name": "o tobie wers",
         "url": "https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E"
       },
@@ -5492,7 +5550,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 177341,
       "name": "Ostatni Raz",
       "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
@@ -5954,7 +6012,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 164750,
       "name": "Polki S\u0105 Najpi\u0119kniejsze",
       "url": "https://open.spotify.com/track/547ag5NdLB7P6esSQGLzWM"
@@ -7420,6 +7478,24 @@
       "duration_ms": 171453,
       "name": "Tch\u00f3rz",
       "url": "https://open.spotify.com/track/3IWmtaAgIywmurEdfBcMVh"
+    },
+    {
+      "album": {
+        "name": "tch\u00f3rz",
+        "url": "https://open.spotify.com/album/4ivdL6LJbfphxkRMO78bYv"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209788,
+      "name": "tch\u00f3rz",
+      "url": "https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2"
     },
     {
       "album": {

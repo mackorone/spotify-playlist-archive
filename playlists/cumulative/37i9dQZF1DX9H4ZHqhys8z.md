@@ -4,7 +4,7 @@
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Evangelia
 
-815 songs - 1 day 20 hr 42 min
+816 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [Tha Erthi Kapote I Stigmi](https://open.spotify.com/track/5kJXp3oUnFNrCZppwVjav5) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Despina Kefalidi](https://open.spotify.com/artist/5YYbb211kZLL1V56t0tUon) | [Tha Erthi Kapote I Stigmi](https://open.spotify.com/album/6mdmBpL830w0UIGLjrp5bD) | 3:29 | 2025-03-04 | 2025-04-02 |
 | [Tha Mas Mathei Oli H Hora](https://open.spotify.com/track/03vNoF7juH5JasXlAWuWZB) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Tha Mas Mathei Oli H Hora](https://open.spotify.com/album/7KNVHmQgfLyOAtFMYtibvD) | 3:19 | 2024-07-02 | 2024-08-07 |
 | [Tha Mas Mathei Oli H Hora](https://open.spotify.com/track/5YqgTeUSAenoLYU5Qt1BD2) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [1994 New Era \(Bonus Edition\)](https://open.spotify.com/album/0PsDuCwdjUBFyAkYripCRu) | 3:19 | 2024-08-06 | 2024-11-06 |
+| [Tha Pari Kero](https://open.spotify.com/track/6fMV5Hwk20zkGWVopKUB38) | [Dimitra Selemidou](https://open.spotify.com/artist/1q563hlf86sTMGqoREw334), [Kostas Tsirkas](https://open.spotify.com/artist/63pUDlNzpB5NvMAH4lebns), [Giannis Vassilopoulos](https://open.spotify.com/artist/1QaLivo9m5a4W1nwAbFORo) | [ΛΑΘΟΣ Η ΑΓΑΠΗ ΕΙΧΕ ΓΡΑΦΤΕΙ](https://open.spotify.com/album/6a30nY9PFXy0MfWRrwNCVK) | 3:22 | 2025-05-06 |  |
 | [Tha Ziso](https://open.spotify.com/track/0vFydJPhpl4IhfLxBTNFVf) | [Katerina Korou](https://open.spotify.com/artist/1Jx5R9z4ED8ewbJpmBQHe8), [George Dalaras](https://open.spotify.com/artist/0eLU3EgFDZOFgd2Dwalfwo) | [Tha Ziso](https://open.spotify.com/album/4NLUalEZXvs0ZopdNjrET6) | 3:06 | 2023-01-31 | 2023-04-05 |
 | [Thalassa Mou](https://open.spotify.com/track/0C6R7ZT1YmwBnT1j1cwnbd) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Yannis Paximadakis](https://open.spotify.com/artist/0zlf5SJlA2EpIod9AjVON7), [Dr Bell](https://open.spotify.com/artist/6V8y6Ezz88AbBkha59HODS) | [Thalassa Mou](https://open.spotify.com/album/6tlgHcxcMBFcZnGB434NoT) | 3:18 | 2024-08-06 | 2024-10-03 |
 | [The Break](https://open.spotify.com/track/7JMZlCsevBlClH6MMENrZL) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [The Break](https://open.spotify.com/album/5FzGZk5IFH8u4ff4rxrt6h) | 3:03 | 2022-03-07 | 2022-04-06 |

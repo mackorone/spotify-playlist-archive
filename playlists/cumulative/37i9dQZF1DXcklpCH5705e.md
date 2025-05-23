@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 理想混蛋 Bestards
 
-195 songs - 12 hr 56 min
+196 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [手望\(守望版\) \- Chill Club Version](https://open.spotify.com/track/72xWqUAWRuYhP0BZhroJjF) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [手望\(守望版\) \[Chill Club Version\]](https://open.spotify.com/album/55YNpYQPgwvhxCXte6OtN7) | 3:58 | 2023-02-02 | 2025-04-04 |
 | [打空氣的拳擊手](https://open.spotify.com/track/20DgB0tAU39wAfHNhyI0lZ) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [打空氣的拳擊手](https://open.spotify.com/album/3ZtFJbTJc9ENZ1sg3xGxSU) | 3:48 | 2025-04-17 |  |
 | [把你給的愛全部還給你](https://open.spotify.com/track/3iXJ94UA0usAvkMF8Em4v1) | [王泰翔2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [把你給的愛全部還給你](https://open.spotify.com/album/3MR2paemv2NSAqggLR0mJm) | 4:20 | 2025-04-17 |  |
+| [接住你](https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [接住你](https://open.spotify.com/album/6QQAuZsNxOMqwntwfrtb4c) | 5:09 | 2025-05-22 |  |
 | [損友 \(音樂永續作品\)](https://open.spotify.com/track/58NLb3BrpY5ulbRRaFH8bU) | [SoulJase](https://open.spotify.com/artist/0DxUeiPWLakywVP1UocKim) | [損友 \(音樂永續作品\)](https://open.spotify.com/album/23Bihif9rjkXe3oSL7qmTU) | 4:24 | 2023-02-02 | 2025-04-04 |
 | [改造人 \- Live Version](https://open.spotify.com/track/6cdnqfrCjMg2z8IKan7h4S) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [幸福 \(華星40系列\)](https://open.spotify.com/album/1i1ISMhespmATpxL9x7yOR) | 4:26 | 2024-04-04 | 2025-04-04 |
 | [新郎](https://open.spotify.com/track/1AwHhS0vQrc2vzSpW7m7GH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [新郎](https://open.spotify.com/album/20F3ek2ax9tCi0XeUarWiF) | 3:42 | 2025-04-24 |  |

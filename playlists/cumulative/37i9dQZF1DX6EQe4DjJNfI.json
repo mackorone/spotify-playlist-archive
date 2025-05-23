@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Rael",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -1804,6 +1804,24 @@
       "duration_ms": 167951,
       "name": "Eu Quero pra Mim",
       "url": "https://open.spotify.com/track/4nXuUKg9sveh2T9mITEhrA"
+    },
+    {
+      "album": {
+        "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
+        "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Eu Sou S\u00f3 Minha - Live",
+      "url": "https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai"
     },
     {
       "album": {
@@ -4150,7 +4168,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 168205,
       "name": "Porto Seguro",
       "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"

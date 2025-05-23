@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: PhaseOne \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,538 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,548 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,17 +121,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 111 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 |
 | 112 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 |
 | 113 | [Straight To Heart](https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Straight To Heart](https://open.spotify.com/album/5IJXDexBNnOWpwOczOKYQe) | 2:54 |
-| 114 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 |
-| 115 | [Beautiful Nothing](https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Beautiful Nothing](https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f) | 3:31 |
+| 114 | [Beautiful Nothing](https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Beautiful Nothing](https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f) | 3:31 |
+| 115 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 |
 | 116 | [OLDE GUARDE](https://open.spotify.com/track/6ouMhta0VorcZeSu4auWhl) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [OLDE GUARDE EP](https://open.spotify.com/album/1mpxcLLzbPzdEUMSsQXHpG) | 4:10 |
 | 117 | [Next To You](https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Next To You](https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj) | 2:51 |
 | 118 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
 | 119 | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ), [TMRRW](https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y) | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi) | 3:15 |
 | 120 | [Hold My Breath \(Mazare Remix\)](https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9) | [Hold My Breath \(Mazare Remix\)](https://open.spotify.com/album/1L6AMJSGbd7dmYMk51Lj2B) | 2:54 |
 | 121 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
-| 122 | [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 |
-| 123 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
-| 124 | [Deathwish](https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BRAINDEAD](https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn) | 2:20 |
-| 125 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
+| 122 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
+| 123 | [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 |
+| 124 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
+| 125 | [Deathwish](https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BRAINDEAD](https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn) | 2:20 |
 
 Snapshot ID: `aBTTIQAAAABVvxamqfKqydF1PGzl2dD9`

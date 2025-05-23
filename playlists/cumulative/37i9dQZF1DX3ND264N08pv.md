@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-333 songs - 18 hr 12 min
+334 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Born To React](https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Born To React](https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe) | 2:25 | 2022-12-08 | 2023-10-26 |
 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 | 2024-03-14 |  |
 | [BOW DOWN](https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [BOW DOWN](https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv) | 2:59 | 2022-12-08 | 2023-12-22 |
+| [Breek De Tent Af](https://open.spotify.com/track/4otCJXGClFWNBzycWSJ4xH) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Breek De Tent Af](https://open.spotify.com/album/4jfLY2qnulc9iaAVTPDUKO) | 2:57 | 2025-05-22 |  |
 | [Bring It Hardcore](https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Bring It Hardcore](https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc) | 4:44 | 2023-09-01 | 2024-12-13 |
 | [Broken Inside](https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Broken Inside](https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8) | 3:25 | 2022-12-08 | 2023-09-02 |
 | [Buried Alive](https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Buried Alive](https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa) | 3:15 | 2022-12-08 | 2023-04-14 |
@@ -306,7 +307,7 @@
 | [The Protector](https://open.spotify.com/track/48IF3j773hpoiFt97HyooD) | [Distinction](https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3), [Kelly](https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT) | [It's Time EP](https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp) | 3:59 | 2022-12-15 | 2024-01-25 |
 | [The Protest](https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Protest](https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5) | 3:11 | 2024-04-12 | 2025-04-06 |
 | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC) | 4:14 | 2022-12-08 | 2024-06-28 |
-| [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 | 2025-01-10 |  |
+| [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 | 2025-01-10 | 2025-05-23 |
 | [The Roots \- Official Harmony of Hardcore 2023 Anthem](https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [The Roots \(Official Harmony of Hardcore 2023 Anthem\)](https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA) | 3:55 | 2023-05-15 | 2024-11-09 |
 | [The Rusty Trombone](https://open.spotify.com/track/2BjnNxArj2lvXD7sqwQ0PL) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Principle](https://open.spotify.com/artist/3IfmtKe5jXM7GXvtHavhTG), [Rob The Rocket](https://open.spotify.com/artist/6EONY1bI70bNeyNF2lP5je) | [The Rusty Trombone](https://open.spotify.com/album/4Hu3riTVGkKf74N3qAwykS) | 2:53 | 2024-05-17 | 2024-11-09 |
 | [The Sound Flow](https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Promo](https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq) | [The Sound Flow](https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH) | 4:25 | 2022-12-08 | 2023-06-02 |

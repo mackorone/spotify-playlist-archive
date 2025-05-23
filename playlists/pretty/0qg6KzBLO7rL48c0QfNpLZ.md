@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,655 likes - 111 songs - 4 hr 46 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,642 likes - 111 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 12 | [Carry On](https://open.spotify.com/track/4dgNanbtzhZasNoHZlGaXs) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Carry On](https://open.spotify.com/album/3Mdo6S8ebG5YYkyHmrnTPU) | 3:18 |
 | 13 | [I Do](https://open.spotify.com/track/2fd8PaP6V7Qw25819ndGuz) | [Finley Brückner](https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [I Do](https://open.spotify.com/album/5RYOpNEBleY9xtIk4AqNPx) | 3:44 |
 | 14 | [Hiding Places](https://open.spotify.com/track/7E5jiGNH5AjriJtRUEd9Vt) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Hiding Places](https://open.spotify.com/album/0pp3vPDZUE8n3Ck7AbxNPC) | 2:20 |
-| 15 | [Navigate](https://open.spotify.com/track/15s0o3XlUQvQArHd8Vac5B) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Navigate](https://open.spotify.com/album/607HF2XBEuKu8hS8ApLzk5) | 2:40 |
-| 16 | [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 |
-| 17 | [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 |
-| 18 | [love, don't make me](https://open.spotify.com/track/1o4qyeyiflbk9NHhOPWHIK) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ridges](https://open.spotify.com/artist/199tThI1DV4Y9yQT49z5Rt) | [love, don't make me](https://open.spotify.com/album/7bwy5LMiKY7TI9Iz4XoTel) | 2:24 |
-| 19 | [In The Sun](https://open.spotify.com/track/2HH7OfiAfRzYD1EoVDbPCQ) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [In The Sun](https://open.spotify.com/album/65O8i2ZXQAul84LaTqUmX1) | 2:31 |
+| 15 | [In The Sun](https://open.spotify.com/track/2HH7OfiAfRzYD1EoVDbPCQ) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [In The Sun](https://open.spotify.com/album/65O8i2ZXQAul84LaTqUmX1) | 2:31 |
+| 16 | [Navigate](https://open.spotify.com/track/15s0o3XlUQvQArHd8Vac5B) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Navigate](https://open.spotify.com/album/607HF2XBEuKu8hS8ApLzk5) | 2:40 |
+| 17 | [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 |
+| 18 | [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 |
+| 19 | [love, don't make me](https://open.spotify.com/track/1o4qyeyiflbk9NHhOPWHIK) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ridges](https://open.spotify.com/artist/199tThI1DV4Y9yQT49z5Rt) | [love, don't make me](https://open.spotify.com/album/7bwy5LMiKY7TI9Iz4XoTel) | 2:24 |
 | 20 | [I Found You](https://open.spotify.com/track/2VeXxa23aRQvGoCUMNEoRS) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [I Found You](https://open.spotify.com/album/2Vg9y3qyEAJtyPZ4zlUBd0) | 2:34 |
 | 21 | [Don't Stop](https://open.spotify.com/track/5O5VhN7ddn4EZLiPjvmekN) | [Amphitryon](https://open.spotify.com/artist/1RZXk7ou8ZRXyFx8x40vlA) | [Don't Stop](https://open.spotify.com/album/2ebLgt1vbeJityABzquIAL) | 2:31 |
 | 22 | [Running Around](https://open.spotify.com/track/48ccpiNRWLKy02fXMvRwM1) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Running Around](https://open.spotify.com/album/6zu9U6l0csBc8b0u3pX019) | 2:11 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 110 | [Never Not](https://open.spotify.com/track/4DvDfjl8MaltUw3yNklKXL) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Never Not](https://open.spotify.com/album/66mLgjZyeA3q6N8UHwTUi1) | 2:52 |
 | 111 | [Cruel](https://open.spotify.com/track/0MwAvp1DnErZAA7VjI4Usk) | [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Cruel](https://open.spotify.com/album/3CLJsz4phtcvadOnTkzXYv) | 2:24 |
 
-Snapshot ID: `AAAfPYHb2Fn5Z4tUwT+r4d05oy+ebFKo`
+Snapshot ID: `AAAfPugIbkMqWBIq6g7mycS+PHg5mv3L`

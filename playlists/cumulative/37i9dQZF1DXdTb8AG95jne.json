@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 163320,
       "name": "0405 (Four Five)",
       "url": "https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 268500,
       "name": "apocalyptic serenade",
       "url": "https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 196293,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL"
@@ -3734,6 +3734,24 @@
       "duration_ms": 167280,
       "name": "E-Girl (Feat. So!YoON!)",
       "url": "https://open.spotify.com/track/3NnTjY5oUN3rg5rEBLm6At"
+    },
+    {
+      "album": {
+        "name": "E-oh!",
+        "url": "https://open.spotify.com/album/3XLLaTBFEWt3MCkByEUyTV"
+      },
+      "artists": [
+        {
+          "name": "JEONG HYO BEAN",
+          "url": "https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "E-oh!",
+      "url": "https://open.spotify.com/track/0gGQD3ClABn0YPG8Cq1und"
     },
     {
       "album": {
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 219194,
       "name": "Green we shared",
       "url": "https://open.spotify.com/track/4Qqd4mzQzVGpvPrzq3Dtn8"
@@ -13414,7 +13432,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 204761,
       "name": "Soft Breeze - Live from Nowhere Known",
       "url": "https://open.spotify.com/track/7lDIrzxhomJ1O0Xk7eIo6z"
@@ -14775,6 +14793,24 @@
     },
     {
       "album": {
+        "name": "The Clockwork Whirl",
+        "url": "https://open.spotify.com/album/5zod3cJbuUbfQfUmUVS1YE"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "The Clockwork Whirl",
+      "url": "https://open.spotify.com/track/41zMQtyFKnSrevslXxQpxN"
+    },
+    {
+      "album": {
         "name": "The Compass",
         "url": "https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW"
       },
@@ -15512,7 +15548,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 230026,
       "name": "Unconditional love",
       "url": "https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ"

@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 797553,
+  "num_followers": 797571,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
+        "name": "I Saw the Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "I Saw the Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
         "name": "Yael Na\u00efm",
         "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "I Saw the Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 264664,
-      "name": "I Saw the Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -551,22 +567,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "La Biographie de Luka Philipsen",
         "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 178160,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Pined For You My Whole Life",
-        "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Pined For You My Whole Life",
-      "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -615,6 +599,22 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
+        "name": "Pined For You My Whole Life",
+        "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Pined For You My Whole Life",
+      "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Born To Be Alive",
-        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 157068,
-      "name": "Born To Be Alive",
-      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -663,18 +647,18 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Hers",
-        "url": "https://open.spotify.com/album/0XPxK2qGH4BelboUUiVRvE"
+        "name": "Born To Be Alive",
+        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 216120,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV"
+      "duration_ms": 157068,
+      "name": "Born To Be Alive",
+      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -711,22 +695,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "Inland Ocean",
         "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
       },
@@ -739,6 +707,38 @@
       "duration_ms": 294026,
       "name": "Inland Ocean",
       "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Hers",
+        "url": "https://open.spotify.com/album/0XPxK2qGH4BelboUUiVRvE"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
+        "name": "Please Slow Down (Rubber Bridge Version)",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down - Rubber Bridge Version",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 211066,
       "name": "Grace",
       "url": "https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Please Slow Down (Rubber Bridge Version)",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down - Rubber Bridge Version",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
+        "name": "I Found (with Freya Ridings)",
+        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 274725,
+      "name": "I Found (with Freya Ridings)",
+      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
         "name": "Making Time",
         "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
       },
@@ -939,38 +959,6 @@
       "duration_ms": 207133,
       "name": "Sharpness",
       "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Two Lives",
-        "url": "https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 201942,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Heartbreakdown",
-        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 254822,
-      "name": "Heartbreakdown",
-      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -991,6 +979,38 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
+        "name": "Heartbreakdown",
+        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 254822,
+      "name": "Heartbreakdown",
+      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Two Lives",
+        "url": "https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
         "name": "Another Woman",
         "url": "https://open.spotify.com/album/18wep4YHWC50cGFSz8oLC0"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 264025,
       "name": "Another Woman",
       "url": "https://open.spotify.com/track/6t8Ut4zs1TEeSO9I746fiJ"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "I Found",
-        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        },
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 274725,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Amiss",
-        "url": "https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Amiss",
-      "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 192600,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Amiss",
+        "url": "https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Amiss",
+      "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "Patterns in Repeat",
         "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 260509,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/6CP9LzE18KTX5FnvUnwXpc"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "If You Get Lonely",
-        "url": "https://open.spotify.com/album/2TlHeCUJmhJZ9PvX3WR0MC"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 270905,
-      "name": "If You Get Lonely",
-      "url": "https://open.spotify.com/track/00EAC89klz4poRs9g4l2HD"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "I Won't Let You Down",
         "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 192943,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "If You Get Lonely",
+        "url": "https://open.spotify.com/album/2TlHeCUJmhJZ9PvX3WR0MC"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 270905,
+      "name": "If You Get Lonely",
+      "url": "https://open.spotify.com/track/00EAC89klz4poRs9g4l2HD"
     },
     {
       "added_at": "2025-05-15 22:00:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-05-15 22:00:36",
       "album": {
-        "name": "One Way Ticket",
-        "url": "https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "One Way Ticket",
-      "url": "https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX"
-    },
-    {
-      "added_at": "2025-05-15 22:00:36",
-      "album": {
         "name": "Elle laisse (Radio Edit)",
         "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 208493,
       "name": "Elle laisse - Radio Edit",
       "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
+    },
+    {
+      "added_at": "2025-05-15 22:00:36",
+      "album": {
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX"
     },
     {
       "added_at": "2025-05-15 22:00:36",

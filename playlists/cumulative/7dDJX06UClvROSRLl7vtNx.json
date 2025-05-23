@@ -7873,6 +7873,28 @@
     },
     {
       "album": {
+        "name": "I've Got A Thing",
+        "url": "https://open.spotify.com/album/0lV7tR7GHKddLAqIPdwV4C"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "I've Got A Thing",
+      "url": "https://open.spotify.com/track/20eiFohvshchsvXj5XN399"
+    },
+    {
+      "album": {
         "name": "If I Imagine",
         "url": "https://open.spotify.com/album/3MyX5bXEJdBAmnCniqxzSa"
       },

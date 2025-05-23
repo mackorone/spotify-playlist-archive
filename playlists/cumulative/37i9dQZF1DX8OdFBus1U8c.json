@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Malayalam Hip-Hop! \nCover : MHR, JOKER390P ",
+  "description": "Best of Malayalam Hip-Hop! \nCover :  GOOKU, JOKER 390P, AZWIN",
   "name": "RAP 91 Malayalam",
   "tracks": [
     {
@@ -334,6 +334,24 @@
       "duration_ms": 285473,
       "name": "Adithattu Cypher",
       "url": "https://open.spotify.com/track/69OAdLAS2tDAuCY0EiFRFA"
+    },
+    {
+      "album": {
+        "name": "Alavalaathi",
+        "url": "https://open.spotify.com/album/4DKFD2f5vHDsr4HqejZaA1"
+      },
+      "artists": [
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134560,
+      "name": "Alavalaathi",
+      "url": "https://open.spotify.com/track/0mHK1GiiXaadiqp3qEnACQ"
     },
     {
       "album": {
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 162285,
       "name": "Kibr",
       "url": "https://open.spotify.com/track/5SakZ21qJWrQ6QVJzcwgOk"
@@ -3002,6 +3020,32 @@
       "duration_ms": 172894,
       "name": "Kurukku",
       "url": "https://open.spotify.com/track/36Hs2lez8pd7Sque4gfHzg"
+    },
+    {
+      "album": {
+        "name": "KUSHUMBADI",
+        "url": "https://open.spotify.com/album/0XaQv8oD9V2qdnweB4slim"
+      },
+      "artists": [
+        {
+          "name": "GOOKUU",
+          "url": "https://open.spotify.com/artist/3JSqj6LLbuZtXSoLMXS3lj"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162770,
+      "name": "KUSHUMBADI",
+      "url": "https://open.spotify.com/track/63GNHWXifvQHRAF9dDxHiF"
     },
     {
       "album": {
@@ -3304,7 +3348,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 214285,
       "name": "MAAPLA",
       "url": "https://open.spotify.com/track/4ThBfx16CZ18UcJE2aEAJ5"
@@ -5023,6 +5067,28 @@
     },
     {
       "album": {
+        "name": "PONNUM KATTA",
+        "url": "https://open.spotify.com/album/7nQP9IvFVvLOgsYy4umFKl"
+      },
+      "artists": [
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262498,
+      "name": "PONNUM KATTA",
+      "url": "https://open.spotify.com/track/0t8yVtc5FuKsV8OAohlqU2"
+    },
+    {
+      "album": {
         "name": "Poralikal",
         "url": "https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa"
       },
@@ -6514,7 +6580,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 170000,
       "name": "VADHAM",
       "url": "https://open.spotify.com/track/6XQYBCfikAQMj3hikSqokG"

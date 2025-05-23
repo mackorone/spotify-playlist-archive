@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 정승환\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 윤민수 & 이예준\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,473 songs - 3 day 23 hr 23 min
+1,475 songs - 3 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 | 2022-07-03 |
 | [Back then we \(Vocal\. 이윤희\)](https://open.spotify.com/track/2X0z5Bmo3QcO8kiBzruyXS) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK) | [Back then we](https://open.spotify.com/album/1EoNIpR1tiHPNIIyW2UOx4) | 3:32 | 2023-02-27 | 2023-06-23 |
 | [Bad Love](https://open.spotify.com/track/3pQZ4fLxNgHLRdb7YAccHt) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Bad Love](https://open.spotify.com/album/5iG7oplAbHnwQ4JUvc52vX) | 4:07 | 2022-10-14 | 2023-01-21 |
-| [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM) | 0:03 | 2022-09-29 |  |
+| [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM) | 0:03 | 2022-09-29 | 2025-05-23 |
 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 | 2022-10-27 |  |
 | [Barely had a drink](https://open.spotify.com/track/4cTLRCZpY6ZxwTBetjl2Qe) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Barely had a drink](https://open.spotify.com/album/7FqORWQLYm9P5pCCbFPrvX) | 3:21 | 2024-07-06 | 2024-12-25 |
 | [Be forgotten](https://open.spotify.com/track/3mXe1JuZVTmmJ7mZQrwvvc) | [Navi](https://open.spotify.com/artist/1snFqLpoCORfbKnafugg3v) | [Be forgotten](https://open.spotify.com/album/6DpqBvM1vhIT0Ttqrqbl0k) | 3:40 | 2023-10-20 | 2023-12-30 |
@@ -380,6 +380,7 @@
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-09-05 | 2022-12-27 |
 | [Forever \(약속\)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever \(약속\)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-12-20 | 2022-06-27 |
 | [Forget Me Not](https://open.spotify.com/track/79KXSZofyFSDnG4AlRAUVf) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Forget Me Not](https://open.spotify.com/album/1iKsKRRBBXUV2sD3n2kQZm) | 3:48 | 2023-06-13 | 2023-10-20 |
+| [Forsake](https://open.spotify.com/track/4riSqVzNeyDqCADUJkf2G8) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Forsake \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4rHwtJnjD7UAPrptbyutVd) | 5:11 | 2025-05-22 |  |
 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 | 2024-01-05 | 2024-06-05 |
 | [Full Bloom](https://open.spotify.com/track/6rX4ZMxZC6spPAIsr0i7j2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Full Bloom](https://open.spotify.com/album/14e8BacNESwLG1UVELyG8r) | 4:13 | 2022-02-25 | 2022-05-08 |
 | [GAWUI](https://open.spotify.com/track/4LLoEHK5A5GIJKW7Yatosq) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [GAWUI](https://open.spotify.com/album/0KkUP0OArDCZSYBy4tiiNP) | 3:41 | 2024-07-31 | 2024-08-11 |
@@ -684,6 +685,7 @@
 | [LIE](https://open.spotify.com/track/3Fjb8kEVJ6tOfm2uUFTEt7) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [LIE](https://open.spotify.com/album/2eYLpRHbySheFuIDyZyupu) | 4:08 | 2025-05-06 |  |
 | [Lifetime](https://open.spotify.com/track/2QGAi0XJUCowVqPlnIAoMk) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/38sPcF1CXr9lkLCI4AIIFY) | 4:06 | 2023-01-20 | 2023-02-25 |
 | [LIGHT](https://open.spotify.com/track/5wZsoZu6pIO7QYtnZhy7iS) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [LIGHT](https://open.spotify.com/album/5sb137DVbWJeiO8wlk0o2A) | 3:33 | 2022-08-12 | 2022-11-23 |
+| [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 | 2025-05-22 |  |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2022-12-27 |
 | [Like a child without sadness](https://open.spotify.com/track/5OIY4RcH99j9IdKvb26K2J) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Like a child without sadness](https://open.spotify.com/album/2GLSX4nlF3JJYWl2SlVCjg) | 3:49 | 2023-04-26 | 2023-09-12 |
 | [Like A Dream](https://open.spotify.com/track/77L2vIs5W3RZXngqNMlKWS) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Like A Dream \(From "The story of Park’s marriage contract" Original Television Sountrack, Pt\. 4\)](https://open.spotify.com/album/4P5YhrMIngGGFqXzpOcmlj) | 4:09 | 2024-01-05 | 2024-05-18 |
@@ -708,7 +710,7 @@
 | [Live in My Heart](https://open.spotify.com/track/0HmetwHFQ3lU1dwNvYNPeh) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Red Balloon OST Part.7](https://open.spotify.com/album/1l7XmliG5LuczflEcv380p) | 3:58 | 2023-02-24 | 2023-06-23 |
 | [Live your day](https://open.spotify.com/track/4la99hjrmKkpNRhV9OIDpd) | [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [Live your day](https://open.spotify.com/album/0WXp98T5hi6PDmxgUtL6wf) | 4:12 | 2022-05-03 | 2022-05-05 |
 | [localized heavy rain](https://open.spotify.com/track/45mQsmDCpcaauiPnjWtRJJ) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [localized heavy rain](https://open.spotify.com/album/0e4fsfgSp8RfdrOwc2FWrI) | 4:00 | 2022-08-12 | 2022-11-23 |
-| [Loneliness is](https://open.spotify.com/track/3dAhdpLHBetxcuEYoJaH2O) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Loneliness is](https://open.spotify.com/album/7dssDB3VPyxmNttWBkvmJo) | 4:21 | 2025-03-04 |  |
+| [Loneliness is](https://open.spotify.com/track/3dAhdpLHBetxcuEYoJaH2O) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Loneliness is](https://open.spotify.com/album/7dssDB3VPyxmNttWBkvmJo) | 4:21 | 2025-03-04 | 2025-05-23 |
 | [Lonely](https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:04 | 2021-12-20 | 2022-07-08 |
 | [Lonely night](https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:35 | 2021-12-23 | 2022-06-30 |
 | [Lonely Night](https://open.spotify.com/track/35q0DyRH5bIXDoFGWJBjmC) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6KH2bpNterP9Xfe65uDdLT) | 4:02 | 2021-12-20 | 2022-07-08 |

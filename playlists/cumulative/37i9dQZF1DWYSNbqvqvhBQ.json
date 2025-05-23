@@ -3163,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0UC6tVQ142Xf5VwJ15jq0v"
+      },
+      "artists": [
+        {
+          "name": "Amy Macdonald",
+          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223456,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/1GxD4INh9N4VbkK876YSL5"
+    },
+    {
+      "album": {
         "name": "Townies",
         "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
       },
@@ -4890,7 +4908,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 189000,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9"
@@ -7327,6 +7345,24 @@
     },
     {
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
@@ -9184,7 +9220,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 178022,
       "name": "Stranger's Lullaby",
       "url": "https://open.spotify.com/track/3CMg9ukW5Nahx6SOQADqne"
@@ -11320,7 +11356,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 189927,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7"

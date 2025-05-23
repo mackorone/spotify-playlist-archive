@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-22",
-  "description": "Certified R&B hits. Cover: Tiana Major9",
+  "description": "Certified R&B hits. Cover: Lizzie Berchie",
   "name": "Certi: R&B",
   "tracks": [
     {
@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD"
+    },
+    {
+      "album": {
         "name": "Tell Jimmy I'm fine",
         "url": "https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N"
       },
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"

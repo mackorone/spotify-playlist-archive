@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,042 likes - 27 songs - 22 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,041 likes - 27 songs - 22 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 13 | [LES 3 PIRES HISTOIRES D'HORREUR DE SECTES ft Hardisk‬ ! \(vous n'êtes pas prêts\)](https://open.spotify.com/episode/1ncALgnkPNlUpBulMS2vur) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 28:34 |
 | 14 | [6 HISTOIRES D'HORREUR que vous n'oublierez jamais...](https://open.spotify.com/episode/3B7VbAZkk0rTblaktPrHTM) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 28:16 |
 | 15 | [6 HISTOIRES D'HORREUR qui vous empêcheront de DORMIR ce soir...](https://open.spotify.com/episode/1mRGbpvafWRsbkhqrrJaCF) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 33:09 |
-| 16 | [Avant le gouda tiède](https://open.spotify.com/episode/4TJ8JgYMJr2ExTFYJNLBTE) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:00:09 |
-| 17 | [Avant les conversations de fluncheuses](https://open.spotify.com/episode/4IqA4R188ehtNmeXnx5nc8) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:12:40 |
-| 18 | [Avant de respirer le paillasson](https://open.spotify.com/episode/39rHDa32wV8ymvjXMyXnpb) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:14:29 |
+| 16 | [Avant le gouda tiède](https://open.spotify.com/episode/4TJ8JgYMJr2ExTFYJNLBTE) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:03:52 |
+| 17 | [Avant les conversations de fluncheuses](https://open.spotify.com/episode/4IqA4R188ehtNmeXnx5nc8) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:13:32 |
+| 18 | [Avant de respirer le paillasson](https://open.spotify.com/episode/39rHDa32wV8ymvjXMyXnpb) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:12:27 |
 | 19 | ["Voici les clefs" avec Florent Bernard](https://open.spotify.com/episode/6YU2ZEu7S8dZknun1UYIX7) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 1:46:44 |
 | 20 | ["Les Marquises" avec Hervé](https://open.spotify.com/episode/09EgTzGLrNEIsxErcxissl) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 1:15:53 |
 | 21 | ["Le chat" avec Jérome Niel](https://open.spotify.com/episode/0BYFLbAq1GE0WKNtgKFwmk) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 1:09:59 |

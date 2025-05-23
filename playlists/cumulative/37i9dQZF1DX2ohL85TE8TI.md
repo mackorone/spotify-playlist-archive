@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 귀궁 \(The Haunted Palace\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,051 songs - 2 day 15 hr 50 min
+1,052 songs - 2 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,7 +922,7 @@
 | [Wake Me Up \(Feat\. Meego\)](https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Unicorn \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1ikJMpMSCQfQg0ZopQSBVZ) | 3:24 | 2022-09-05 | 2023-01-04 |
 | [Walk With Me](https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [The Law Cafe \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR) | 3:37 | 2022-10-12 | 2023-01-27 |
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-11 | 2022-07-09 |
-| [Wall](https://open.spotify.com/track/7wSb2eRkdEyRmyxFIduPPj) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love Next Door, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5xYrVfxCBFberOan8DWmDh) | 3:59 | 2024-09-20 |  |
+| [Wall](https://open.spotify.com/track/7wSb2eRkdEyRmyxFIduPPj) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love Next Door, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5xYrVfxCBFberOan8DWmDh) | 3:59 | 2024-09-20 | 2025-05-23 |
 | [Walter](https://open.spotify.com/track/6j0rp0aQDRzM3KZuTaoBki) | [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [뇌 멋대로 한다 \(Original Soundtrack\)](https://open.spotify.com/album/12yv0CSwYEaanP2FalCzaj) | 3:29 | 2022-09-19 | 2023-01-14 |
 | [wander](https://open.spotify.com/track/5gzuXMBkHADurR2quS47Dg) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [Romance by Romance \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6w4JkTuZJG5jo0IbORpCjC) | 4:07 | 2023-07-17 | 2023-12-11 |
 | [Want to be Free](https://open.spotify.com/track/1kA5iI1SNM7xVM8EMY7mrr) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 | 2023-08-16 | 2024-02-11 |
@@ -1004,6 +1004,7 @@
 | [You are my destiny](https://open.spotify.com/track/5smUgcGZp3HeWvuw9Jmmnc) | [lilli lilli](https://open.spotify.com/artist/5jPgE32O5ejQyRJXiiy52V) | [Jinxed at First \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3fUhx3K8Z47kvOQnNDNN3P) | 3:14 | 2022-08-02 | 2022-11-17 |
 | [You are my soul](https://open.spotify.com/track/6VDZHXq2dn9Uj44uak2Xsg) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Let Me Be Your Knight \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5829mWpzdEh2SjkrTstWEw) | 3:03 | 2022-02-03 | 2022-05-04 |
 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 | 2025-02-27 |  |
+| [You are the one](https://open.spotify.com/track/7zeEnXxeS4PUxDwRbfEYIp) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Tastefully Yours, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/7Ho2FYFQzJhVnVCs4dUIEQ) | 3:00 | 2025-05-22 |  |
 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 | 2022-11-16 | 2023-02-25 |
 | [You are there](https://open.spotify.com/track/4pSjF1W6j2OqLUs83CJK1C) | [TaeNam](https://open.spotify.com/artist/1VEbzBIBRPoIv5RCa6Fo7x) | [A Profitable Cage OST Part.15 \(Soundtrack\)](https://open.spotify.com/album/6oHgGqkCyBT4wW5pcUhhqQ) | 4:01 | 2024-06-25 | 2024-12-18 |
 | [You can do that \(One of a Kind Romance\)](https://open.spotify.com/track/7awHXt5aVEX6jwwUCDWjhR) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [You can do that \(One of a Kind Romance\)](https://open.spotify.com/album/4FoaMduXgrviFe3prU1WLI) | 3:33 | 2022-02-16 | 2022-05-04 |

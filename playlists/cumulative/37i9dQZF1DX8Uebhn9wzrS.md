@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,322 songs - 3 day 16 hr 30 min
+2,323 songs - 3 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Chang](https://open.spotify.com/track/2HgAzyBHR3TGJBpksx3I6L) | [AN99](https://open.spotify.com/artist/6ufkUF0S5027zUcnMvQq0I) | [Chang](https://open.spotify.com/album/7ckxYovGXDYUTtGfgzkKbU) | 1:45 | 2024-03-01 | 2024-09-21 |
 | [change of heart](https://open.spotify.com/track/4i2hVTtucufjtRw1BqtvCI) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [change of heart](https://open.spotify.com/album/1QMgNdrLUSO257TGOzNKfY) | 2:08 | 2024-10-04 |  |
 | [Changes](https://open.spotify.com/track/6dWwrOobdcseSx8giSWPkE) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Changes](https://open.spotify.com/album/2HSFpJCyWs7WVrq9gvyGKR) | 1:57 | 2022-04-15 | 2023-08-18 |
-| [Changing Lanes](https://open.spotify.com/track/3j6aJ31Ri6y6Oywx7tM38W) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Changing Lanes](https://open.spotify.com/album/6W1heIRffQoahfENAWZ9v3) | 2:01 | 2023-12-22 |  |
+| [Changing Lanes](https://open.spotify.com/track/3j6aJ31Ri6y6Oywx7tM38W) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Changing Lanes](https://open.spotify.com/album/6W1heIRffQoahfENAWZ9v3) | 2:01 | 2023-12-22 | 2025-05-23 |
 | [Chapman](https://open.spotify.com/track/16N0uGSoGeW41PrPCEnh8T) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Chapman](https://open.spotify.com/album/6dP2OierGgAWvXtfjRpWtZ) | 2:09 | 2022-04-15 | 2023-02-14 |
 | [chapter one](https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn) | [Emaso](https://open.spotify.com/artist/5nsxk8zPqHAFqADVsLy45c) | [chapter one](https://open.spotify.com/album/5sa4owS9NBpq0u5xi5Trso) | 1:37 | 2023-08-03 | 2024-05-14 |
 | [Chasette](https://open.spotify.com/track/6YxNZWfsde3p8xYqO5bZsQ) | [Koloso](https://open.spotify.com/artist/5sJTKXv0COjf7x8ucatN55) | [Chasette](https://open.spotify.com/album/2nEtJlvncjBCZpx818evPA) | 3:14 | 2022-04-15 | 2022-06-10 |
@@ -1298,6 +1298,7 @@
 | [miyu](https://open.spotify.com/track/5Manub8VP5SyKpJ9kcKSTD) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [ambassing](https://open.spotify.com/album/7dTO5q5UVSUOZh7YKwCWvC) | 2:14 | 2022-04-15 | 2022-09-17 |
 | [Modulus Operandi](https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Modulus Operandi](https://open.spotify.com/album/24oZ0Rbq781YkSaqaLVxiL) | 1:36 | 2022-09-02 |  |
 | [Mombasa Night](https://open.spotify.com/track/2lGx79WyAqEyJcxtqqOaEb) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [Mombasa Night](https://open.spotify.com/album/2fk273nfng9SzpuYWygQRo) | 2:09 | 2022-04-15 | 2022-07-22 |
+| [moment to myself](https://open.spotify.com/track/2rYSGJSChraTt8wfEBa1fI) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [moment to myself](https://open.spotify.com/album/1WmD3CfqaX2wV90O6t5Wgw) | 2:14 | 2025-05-16 |  |
 | [Moments](https://open.spotify.com/track/4QIWt5Y4ysU2uN7qKsdR1a) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [Moments](https://open.spotify.com/album/7vhm8YRW7sn4tAhsWIC1Qt) | 1:59 | 2024-11-22 | 2025-01-18 |
 | [Monday](https://open.spotify.com/track/4DBUv3NPLsSBSsD4bw6Svb) | [beatthump](https://open.spotify.com/artist/21LyMe2qaxBJYvdcOLyCBb) | [Monday](https://open.spotify.com/album/3fO79St3Wd1NtduoK9Tlno) | 2:37 | 2022-04-15 | 2022-05-13 |
 | [Monday Blues](https://open.spotify.com/track/02DElgHIrCuu73gu6sSBfI) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Monday Blues](https://open.spotify.com/album/5Tx1ZfiUfJ0HXj9xP1XYgN) | 1:34 | 2022-05-27 | 2022-11-12 |

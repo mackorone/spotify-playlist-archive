@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-233 songs - 16 hr 17 min
+235 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Child](https://open.spotify.com/track/4li2UDxFOvtzgFLKM31WJk) | [Chika Olivia](https://open.spotify.com/artist/6bFosFvff0gpjAmdnBZYbd) | [A Child](https://open.spotify.com/album/2RCunsymx07OSIsM9aS7fr) | 5:10 | 2023-03-03 | 2023-08-25 |
 | [A Little Girl](https://open.spotify.com/track/19t8VlFHLBQDhRm1XUW1Bj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK), [Ya\-Jung Chuang](https://open.spotify.com/artist/22elsMZ28pLrqEUVnpV2Yp) | [A Little Girl](https://open.spotify.com/album/2frAcSFieqCTgqF0cYZ20J) | 3:26 | 2022-09-02 | 2023-07-14 |
 | [A Long Way](https://open.spotify.com/track/6JYBO8re5EdRsPl3pBuHCJ) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Lifeline: Introduction](https://open.spotify.com/album/7x5vgalONHH4KwVVbnPJgs) | 3:35 | 2023-03-03 | 2023-08-25 |
+| [Acceptance](https://open.spotify.com/track/405MRcMlwvmyEL4XphM2f3) | [Made Dien](https://open.spotify.com/artist/2FA2axlDjD33BuE58c0AqW) | [Acceptance](https://open.spotify.com/album/6C0XpI47jpdZyXZmZ5lq3Q) | 5:29 | 2025-05-22 |  |
 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 | 2023-03-24 |  |
 | [Affirmation \- Studio Version Radio Edit](https://open.spotify.com/track/5T51qyxzXcjClnLStmoyFW) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Affirmation](https://open.spotify.com/album/3wV1gSC2bANRjc3E4oK2AP) | 3:29 | 2022-09-02 | 2023-03-25 |
 | [After All](https://open.spotify.com/track/7tn0pGHHxcR5EVFcGHkhea) | [Avalokiteshvara](https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2) | [Kamardikan](https://open.spotify.com/album/2CFNuSpPf44iNrYY089Xfw) | 4:08 | 2025-02-27 |  |
@@ -152,6 +153,7 @@
 | [Makan Teman](https://open.spotify.com/track/7MHKaG1rgfunhfW1bbsw1S) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Makan Teman](https://open.spotify.com/album/4F99lV3Ql04YNP8P3WV3mh) | 2:40 | 2022-09-02 | 2025-02-07 |
 | [Makna Nostalgia](https://open.spotify.com/track/5UzwDbdDqEyU7pQc9kh1Bu) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:16 | 2022-09-02 | 2024-04-19 |
 | [Makna Nostalgia](https://open.spotify.com/track/5oEZn7bhmZwTxeJTdKchXK) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Makna Nostalgia](https://open.spotify.com/album/1q7bfBILGBE6SALzgqZEKo) | 5:16 | 2024-04-18 |  |
+| [Mancation](https://open.spotify.com/track/4idgkZeNpSjxfdXJqLvEYB) | [Jundy Salut](https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP) | [Mancation](https://open.spotify.com/album/4YMjEC9Zf43DY4TsxqfvSg) | 7:36 | 2025-05-22 |  |
 | [Masuk Angin](https://open.spotify.com/track/73O8kVxE8Ipkd3JWCVEWGe) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Masuk Angin](https://open.spotify.com/album/6VydJRMeBiu8s23XbyboNc) | 3:40 | 2024-01-25 |  |
 | [Mata Kuru Made](https://open.spotify.com/track/2jUNYwyUqAU9ScJTGos3Be) | [Balawan](https://open.spotify.com/artist/3aKNBxiNR6YBHvOoi6f9Cm) | [Mata Kuru Made](https://open.spotify.com/album/5pU0oolHQu8XOxAZEjtxd8) | 4:33 | 2023-03-24 | 2023-06-30 |
 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 | 2022-09-02 | 2023-06-30 |

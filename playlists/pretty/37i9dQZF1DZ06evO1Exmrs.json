@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 345378,
+  "num_followers": 345580,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCvGAAAAAABLV064I2ZYnDKRqUqNAQ/9",
+  "snapshot_id": "aC0XgAAAAAA1LaNI8W0Om5V7f+3qPvdH",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crazier Things",
+        "url": "https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 264584,
+      "name": "Crazier Things (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Changes All The Time",
         "url": "https://open.spotify.com/album/1Dds4p0qcMEnSE7jlMEt8n"
       },
@@ -691,28 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazier Things",
-        "url": "https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 264584,
-      "name": "Crazier Things (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt Somebody",
-        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
+        "name": "Hold It Down",
+        "url": "https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Catastrophize",
-      "url": "https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b"
+      "duration_ms": 196800,
+      "name": "Hold It Down",
+      "url": "https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold It Down",
-        "url": "https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt"
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Hold It Down",
-      "url": "https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G"
+      "duration_ms": 198293,
+      "name": "Catastrophize",
+      "url": "https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b"
     },
     {
       "added_at": null,

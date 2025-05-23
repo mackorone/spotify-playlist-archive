@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> POP YOURS開催まであと4日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 5Leaf
+> POP YOURS開催まであと1日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tade Dust
 
-953 songs - 1 day 20 hr 3 min
+954 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [ALL DAYS](https://open.spotify.com/track/6EaYcsHsDDuvicUeAt4kBd) | [Palm link](https://open.spotify.com/artist/0JXZf5IljNgNBtah0ja9CD) | [ALL DAYS](https://open.spotify.com/album/5IC1xTocv746rgc5ohhStO) | 2:29 | 2024-09-12 | 2024-11-13 |
 | [ALL FOR MY FRIENDS](https://open.spotify.com/track/6kM0EqXlaZZPmCwM40DUvM) | [Don Tecch](https://open.spotify.com/artist/7J6OOBxFd5bYFJvFHw169l) | [LOVE OR FAMOUS](https://open.spotify.com/album/51jrvmDd2k7VbzYvOu3h86) | 2:17 | 2024-10-17 | 2024-12-04 |
 | [All in you](https://open.spotify.com/track/6cZMk6AZ5cvXvLL3j5J2bv) | [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [All in you](https://open.spotify.com/album/3746kEKAuxIsajeh12KvY2) | 2:48 | 2024-12-17 | 2025-02-26 |
+| [All My Life](https://open.spotify.com/track/1sEZg7s66C5AOleLVg8E79) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [TAD](https://open.spotify.com/album/6eGfXkLZC1h6PBftRMEzZs) | 2:45 | 2025-05-22 |  |
 | [All My Life](https://open.spotify.com/track/56QxuKtKb9GyiHR2tOvEJR) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [All My Life](https://open.spotify.com/album/1nVOfilyAErWuZsYWqzmPQ) | 2:45 | 2024-09-03 | 2025-01-22 |
 | [Allright](https://open.spotify.com/track/4L9H1KQ1Up7debjuULAzq9) | [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Allright](https://open.spotify.com/album/3fWxLYSeWEJNX2E7xbKaM5) | 3:05 | 2025-04-22 |  |
 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 | 2024-03-05 | 2024-06-05 |

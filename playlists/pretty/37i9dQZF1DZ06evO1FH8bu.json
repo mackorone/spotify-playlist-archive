@@ -1,13 +1,29 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 70372,
+  "num_followers": 70398,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCvGAAAAAABa/lk/ELVaygleu5+at+8/",
+  "snapshot_id": "aC0XgAAAAAAYh95fUIJCwo2kS10tOcog",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Should See Me Now",
+        "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 224004,
+      "name": "You Should See Me Now",
+      "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
+    },
     {
       "added_at": null,
       "album": {

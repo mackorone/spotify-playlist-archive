@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Meryl",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Genezio x Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 174544,
       "name": "4X4",
       "url": "https://open.spotify.com/track/3pPaDgIy9dLxmxcMEhKQNG"
@@ -1516,6 +1516,28 @@
       "duration_ms": 156651,
       "name": "BMW",
       "url": "https://open.spotify.com/track/1uMNz6kjNjozloAy0O7vbO"
+    },
+    {
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/3hD1d1DFNoKCvMNvSSpsUM"
+      },
+      "artists": [
+        {
+          "name": "LRB490",
+          "url": "https://open.spotify.com/artist/2UrTsnAc4CSukV44RC6PT6"
+        },
+        {
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178349,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/0ABoJNAujfAav7KeVQm8wo"
     },
     {
       "album": {
@@ -4039,6 +4061,28 @@
     },
     {
       "album": {
+        "name": "Fury II",
+        "url": "https://open.spotify.com/album/6oV3ZQPR1IrBILziRMRBPB"
+      },
+      "artists": [
+        {
+          "name": "Tency",
+          "url": "https://open.spotify.com/artist/51RG7tEip3vlXG9y9vylxp"
+        },
+        {
+          "name": "Sansand",
+          "url": "https://open.spotify.com/artist/0MJlQlTR7mSGW1mmwm94PZ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140797,
+      "name": "Fury II",
+      "url": "https://open.spotify.com/track/7nOSXDhago61WGGPaLACJq"
+    },
+    {
+      "album": {
         "name": "F\u00e8 Plas",
         "url": "https://open.spotify.com/album/7l5GuplNsAdqyEZV7pzNT0"
       },
@@ -4090,7 +4134,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 109411,
       "name": "F\u00e9 Attention",
       "url": "https://open.spotify.com/track/7bKDnB8W2UcXJeJkGQMhqg"
@@ -5059,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "HOT N\u00c8G",
+        "url": "https://open.spotify.com/album/0B7d5Cj9T34KmeF7uuN8c8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm",
+          "url": "https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115586,
+      "name": "HOT N\u00c8G",
+      "url": "https://open.spotify.com/track/3hrFF7vqwKZUVMqzsNAU8B"
+    },
+    {
+      "album": {
         "name": "How We Do It",
         "url": "https://open.spotify.com/album/0LDEvwg9giVP8tKQiyIuij"
       },
@@ -5941,6 +6003,28 @@
     },
     {
       "album": {
+        "name": "LA MEILLEURE",
+        "url": "https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129130,
+      "name": "LA MEILLEURE",
+      "url": "https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0"
+    },
+    {
+      "album": {
         "name": "La piraterie",
         "url": "https://open.spotify.com/album/1AEqrjs8dvbBH8mmE7U9Zy"
       },
@@ -6620,6 +6704,24 @@
       "duration_ms": 125094,
       "name": "Mek She",
       "url": "https://open.spotify.com/track/4z94T1JRS8ZjmmGoGNtIhv"
+    },
+    {
+      "album": {
+        "name": "Mentalit\u00e9 block",
+        "url": "https://open.spotify.com/album/6lOc8tSYvIukNgw9SWaYqA"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195465,
+      "name": "Mentalit\u00e9 block",
+      "url": "https://open.spotify.com/track/5ru5UnMC867LvGneHo2knC"
     },
     {
       "album": {
@@ -7938,7 +8040,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 174953,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/2YH9n4oubs2G4ddj59wv5g"
@@ -8127,6 +8229,32 @@
     },
     {
       "album": {
+        "name": "Papacito",
+        "url": "https://open.spotify.com/album/0t542LFjJzCDfDezEbDUtv"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "Peerless",
+          "url": "https://open.spotify.com/artist/2m4eza0WlIQy1110rt4jw3"
+        },
+        {
+          "name": "DJ Jyz",
+          "url": "https://open.spotify.com/artist/7HMdFIeGnqwPKBRgpJF3gI"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95271,
+      "name": "Papacito",
+      "url": "https://open.spotify.com/track/6Yb3IJ4UY4Aag2MwxY7EKL"
+    },
+    {
+      "album": {
         "name": "Papi (Remix)",
         "url": "https://open.spotify.com/album/70DgQ1a22wpuwmFJxpMijY"
       },
@@ -8234,6 +8362,28 @@
       "duration_ms": 130186,
       "name": "Party On",
       "url": "https://open.spotify.com/track/41ANYkqBWPy1XwQ8sz2o8f"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "PAS JALOUSE",
+      "url": "https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E"
     },
     {
       "album": {
@@ -8620,7 +8770,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 134354,
       "name": "Pran'y la",
       "url": "https://open.spotify.com/track/2ebjn2NxBiOQL5DzJtAUSH"
@@ -9780,7 +9930,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 145742,
       "name": "SHATTAZ",
       "url": "https://open.spotify.com/track/550MFl7Gc8nJ8HEZqpWZsm"
@@ -9798,7 +9948,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 146400,
       "name": "Shattiment",
       "url": "https://open.spotify.com/track/27tI3hQIcNGu4QwMs7RBkF"
@@ -10226,7 +10376,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 223937,
       "name": "Speedage",
       "url": "https://open.spotify.com/track/0cM97H4Rey8Ca7R5Gcrog3"

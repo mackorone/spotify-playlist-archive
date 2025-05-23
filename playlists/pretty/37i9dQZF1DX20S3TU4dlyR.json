@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 65041,
+  "num_followers": 65059,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2025-05-16 03:00:02",
+      "album": {
         "name": "Vale la Pena",
         "url": "https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 170906,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so"
-    },
-    {
-      "added_at": "2025-05-16 03:00:02",
-      "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
     },
     {
       "added_at": "2025-05-16 03:00:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
-        "name": "Se va la luna",
-        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 181889,
-      "name": "Se va la luna",
-      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
-    },
-    {
-      "added_at": "2025-05-16 03:00:02",
-      "album": {
         "name": "Bahiano BH+",
         "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 260266,
       "name": "No Mires Atras",
       "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+    },
+    {
+      "added_at": "2025-05-16 03:00:02",
+      "album": {
+        "name": "Se va la luna",
+        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 181889,
+      "name": "Se va la luna",
+      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
     },
     {
       "added_at": "2025-05-16 03:00:02",
@@ -1351,26 +1351,22 @@
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
-        "name": "Homer Seeds",
-        "url": "https://open.spotify.com/album/5N4hAPUZNMyO9C8BE1t9w2"
+        "name": "S\u00fabete",
+        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
       "artists": [
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "12 Tribus",
+          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
         },
         {
-          "name": "Homer Seeds",
-          "url": "https://open.spotify.com/artist/7qw7HbBmpXwL8CvkyXrDTq"
-        },
-        {
-          "name": "Joan Sprei",
-          "url": "https://open.spotify.com/artist/0QyJKIHzo2iUJFwSg5YfhW"
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 172692,
-      "name": "Homer Seeds",
-      "url": "https://open.spotify.com/track/7Fbz6LvabXBD37RNgHaM8A"
+      "duration_ms": 245000,
+      "name": "El Cuento",
+      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
     },
     {
       "added_at": "2025-05-16 03:00:02",
@@ -1407,42 +1403,42 @@
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
-        "name": "S\u00fabete",
-        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
+        "name": "Homer Seeds",
+        "url": "https://open.spotify.com/album/5N4hAPUZNMyO9C8BE1t9w2"
       },
       "artists": [
         {
-          "name": "12 Tribus",
-          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         },
         {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "Homer Seeds",
+          "url": "https://open.spotify.com/artist/7qw7HbBmpXwL8CvkyXrDTq"
+        },
+        {
+          "name": "Joan Sprei",
+          "url": "https://open.spotify.com/artist/0QyJKIHzo2iUJFwSg5YfhW"
         }
       ],
-      "duration_ms": 245000,
-      "name": "El Cuento",
-      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+      "duration_ms": 172692,
+      "name": "Homer Seeds",
+      "url": "https://open.spotify.com/track/7Fbz6LvabXBD37RNgHaM8A"
     },
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
-        "name": "Seguirla",
-        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
+        "name": "Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
       },
       "artists": [
         {
-          "name": "Gaspar OM",
-          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "Slow Burnin\u00b4",
+          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
         }
       ],
-      "duration_ms": 191776,
-      "name": "Seguirla",
-      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+      "duration_ms": 171013,
+      "name": "Nada Que Me Venga Mal",
+      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2025-05-16 03:00:02",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
+        "name": "Seguirla",
+        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
       "artists": [
         {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         }
       ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
+      "duration_ms": 191776,
+      "name": "Seguirla",
+      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
     },
     {
       "added_at": "2025-05-16 03:00:02",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
+        "name": "Portal De Luz",
+        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 259140,
+      "name": "Portal De Luz",
+      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
+    },
+    {
+      "added_at": "2025-05-16 03:00:02",
+      "album": {
         "name": "Momento Tiempo",
         "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 259373,
       "name": "De Tanto Caminar",
       "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
-    },
-    {
-      "added_at": "2025-05-16 03:00:02",
-      "album": {
-        "name": "Desglosando el Tiempo",
-        "url": "https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 286910,
-      "name": "Desglosando el Tiempo",
-      "url": "https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX"
     },
     {
       "added_at": "2025-05-16 03:00:02",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-05-16 03:00:02",
       "album": {
-        "name": "Portal De Luz",
-        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
+        "name": "Desglosando el Tiempo",
+        "url": "https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8"
       },
       "artists": [
         {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         }
       ],
-      "duration_ms": 259140,
-      "name": "Portal De Luz",
-      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
+      "duration_ms": 286910,
+      "name": "Desglosando el Tiempo",
+      "url": "https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX"
     }
   ],
   "unique_name": "Reggae al Sur",

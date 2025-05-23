@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : TH\u00c9A",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Axel Bauer & Brigitte Fontaine",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 188689,
       "name": "Bonjour demain",
       "url": "https://open.spotify.com/track/5BwXLq7gk6u5OBCJ9DdtL5"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 232243,
       "name": "Eau froide",
       "url": "https://open.spotify.com/track/7bzjqEbzppwHjL4uLokJE5"
@@ -3041,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "Merde \u00e0 La Mer",
+        "url": "https://open.spotify.com/album/4Y0qxZssGRDLxtUEO4obK4"
+      },
+      "artists": [
+        {
+          "name": "Axel Bauer",
+          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
+        },
+        {
+          "name": "Brigitte Fontaine",
+          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Merde \u00e0 La Mer",
+      "url": "https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC"
+    },
+    {
+      "album": {
         "name": "Message acide",
         "url": "https://open.spotify.com/album/48ivlI5AuvWGRp1EaphL6M"
       },
@@ -3608,6 +3630,24 @@
       "duration_ms": 171802,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs"
+    },
+    {
+      "album": {
+        "name": "Pas Bourr\u00e9",
+        "url": "https://open.spotify.com/album/6yjzDLjWfSejFLZFVZgM97"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Pas Bourr\u00e9",
+      "url": "https://open.spotify.com/track/0OY34cEFCVlUogk5ZCpC2a"
     },
     {
       "album": {
@@ -4193,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "R\u00caVES",
+        "url": "https://open.spotify.com/album/1uBZ6ZYFcFFP26QuX06Bmu"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128438,
+      "name": "R\u00caVES",
+      "url": "https://open.spotify.com/track/0cvQgykWnezK58jPRB8kBe"
+    },
+    {
+      "album": {
         "name": "R\u00f4les",
         "url": "https://open.spotify.com/album/3Obub0X33yuxKfEVvSAjXi"
       },
@@ -4410,7 +4468,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 213785,
       "name": "silence",
       "url": "https://open.spotify.com/track/5yVrLyZgKW1n3EBnDA6HIx"
@@ -4757,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "Tempelhof",
+        "url": "https://open.spotify.com/album/1Z38hWEC9zgrud0SsKFTtX"
+      },
+      "artists": [
+        {
+          "name": "Odezenne",
+          "url": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/3Rc2TbS9dGOFpjaJPbhxlc"
+    },
+    {
+      "album": {
         "name": "territoire(s) perdu(s)",
         "url": "https://open.spotify.com/album/3ycRGfXo5CUm4L0cNq87ES"
       },
@@ -5020,7 +5096,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 228121,
       "name": "Turbof\u00e9e",
       "url": "https://open.spotify.com/track/40XQBEMdfMicRK35jlnKJK"

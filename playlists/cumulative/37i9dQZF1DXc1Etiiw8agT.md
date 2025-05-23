@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc1Etiiw8agT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc1Etiiw8agT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc1Etiiw8agT)
 
-### [Brown Noise Sleep](https://open.spotify.com/playlist/37i9dQZF1DXc1Etiiw8agT)
+### [Brown Noise for Sleep](https://open.spotify.com/playlist/37i9dQZF1DXc1Etiiw8agT)
 
 > 12 Hours of brown noise to sleep longer.
 

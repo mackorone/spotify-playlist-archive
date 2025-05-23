@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 43631,
+  "num_followers": 43660,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
+        "name": "alone (Remix)",
+        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 154578,
+      "name": "alone - Remix",
+      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
-        "name": "alone (Remix)",
-        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 154578,
-      "name": "alone - Remix",
-      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
         "name": "Tears Of A Mad Man",
         "url": "https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+      "duration_ms": 145325,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -791,22 +807,6 @@
       "duration_ms": 172631,
       "name": "Innocent (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
-        "name": "Love Me Now",
-        "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 145325,
-      "name": "Love Me Now",
-      "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "I No Be God",
-        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "I No Be God",
-      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "Well",
         "url": "https://open.spotify.com/album/20YEEoY9fomFLV1BYOJ7gk"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 96521,
       "name": "Well",
       "url": "https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "I No Be God",
+        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "I No Be God",
+      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Choco Milo",
-        "url": "https://open.spotify.com/album/5jngcep59Rk5mfytsXPvgz"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 116976,
-      "name": "Choco Milo",
-      "url": "https://open.spotify.com/track/3nIWHeSpBwBM09Fi0VDxgF"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
         "name": "Beg For It",
         "url": "https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l"
       },
@@ -1231,26 +1211,6 @@
       "duration_ms": 173419,
       "name": "Beg For It",
       "url": "https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
-        "name": "DID I LIE",
-        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
-      },
-      "artists": [
-        {
-          "name": "Cina Soul",
-          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 141967,
-      "name": "Larger Than Life (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1275,54 +1235,58 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "JIGGY BABE",
-        "url": "https://open.spotify.com/album/6HanH23bCjueMAbKa4JWsl"
+        "name": "DID I LIE",
+        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
       },
       "artists": [
         {
-          "name": "Czin",
-          "url": "https://open.spotify.com/artist/2ckSZ9t62jqXhWVfwyCXOY"
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
         },
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 138010,
-      "name": "JIGGY BABE",
-      "url": "https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0"
+      "duration_ms": 141967,
+      "name": "Larger Than Life (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
     },
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
         }
       ],
-      "duration_ms": 154174,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA"
+        "name": "Choco Milo",
+        "url": "https://open.spotify.com/album/5jngcep59Rk5mfytsXPvgz"
       },
       "artists": [
         {
-          "name": "Zarion Uti",
-          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
         }
       ],
-      "duration_ms": 150666,
-      "name": "100",
-      "url": "https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE"
+      "duration_ms": 116976,
+      "name": "Choco Milo",
+      "url": "https://open.spotify.com/track/3nIWHeSpBwBM09Fi0VDxgF"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1343,6 +1307,58 @@
       "duration_ms": 145000,
       "name": "Woman",
       "url": "https://open.spotify.com/track/68Aabutp5ZczYCmi51dPAG"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 154174,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "JIGGY BABE",
+        "url": "https://open.spotify.com/album/6HanH23bCjueMAbKa4JWsl"
+      },
+      "artists": [
+        {
+          "name": "Czin",
+          "url": "https://open.spotify.com/artist/2ckSZ9t62jqXhWVfwyCXOY"
+        },
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 138010,
+      "name": "JIGGY BABE",
+      "url": "https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0"
+    },
+    {
+      "added_at": "2025-05-16 04:25:03",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA"
+      },
+      "artists": [
+        {
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "100",
+      "url": "https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2025-05-16 04:25:03",
       "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
         }
       ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+      "duration_ms": 148041,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj"
     },
     {
       "added_at": "2025-05-16 04:25:03",
@@ -1479,26 +1499,6 @@
       "duration_ms": 175257,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
-    },
-    {
-      "added_at": "2025-05-16 04:25:03",
-      "album": {
-        "name": "Days Pass By",
-        "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
-      },
-      "artists": [
-        {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Days Pass By",
-      "url": "https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn"
     }
   ],
   "unique_name": "Lovin' Beats",

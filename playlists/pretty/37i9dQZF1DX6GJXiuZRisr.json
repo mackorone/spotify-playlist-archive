@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1605860,
+  "num_followers": 1605863,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,30 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
+        "name": "counting on you",
+        "url": "https://open.spotify.com/album/5toJaA5ZDKhakB72OGPxm4"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        },
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "counting on you",
+      "url": "https://open.spotify.com/track/1gY0B8A75V0FgkoVP40iHy"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
         "name": "Quezacotl",
         "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
       },
@@ -939,30 +963,6 @@
       "duration_ms": 192380,
       "name": "Hey Boy Hey Girl - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
-        "name": "counting on you",
-        "url": "https://open.spotify.com/album/5toJaA5ZDKhakB72OGPxm4"
-      },
-      "artists": [
-        {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        },
-        {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
-        },
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "counting on you",
-      "url": "https://open.spotify.com/track/1gY0B8A75V0FgkoVP40iHy"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kiko",
-          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
-        },
-        {
-          "name": "Olivier Giacomotto",
-          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
         "name": "Now We Are Free (B Jones Remix)",
         "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
+        "name": "Yumi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 337258,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
+      "duration_ms": 245624,
+      "name": "Yumi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
-        "name": "Yumi (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 245624,
-      "name": "Yumi - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
+      "duration_ms": 337258,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
-        "name": "Childish(ish)",
-        "url": "https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Walk The Plank",
-      "url": "https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "Childish(ish)",
+        "url": "https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Walk The Plank",
+      "url": "https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
-        "name": "Morumbi",
-        "url": "https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Tocadisco",
-          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Morumbi",
-      "url": "https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
@@ -1895,22 +1875,22 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
-        "name": "JOI (Part II)",
-        "url": "https://open.spotify.com/album/25Tb0K01fQPTvh0ipkN9ea"
+        "name": "Morumbi",
+        "url": "https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw"
       },
       "artists": [
         {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "Conor Ross",
-          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
+          "name": "Tocadisco",
+          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
         }
       ],
-      "duration_ms": 239516,
-      "name": "JOI - Part II",
-      "url": "https://open.spotify.com/track/6Fp3dJOpkDtIUhKDu3Ha8M"
+      "duration_ms": 185538,
+      "name": "Morumbi",
+      "url": "https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -1935,6 +1915,26 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "JOI (Part II)",
+        "url": "https://open.spotify.com/album/25Tb0K01fQPTvh0ipkN9ea"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "Conor Ross",
+          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
+        }
+      ],
+      "duration_ms": 239516,
+      "name": "JOI - Part II",
+      "url": "https://open.spotify.com/track/6Fp3dJOpkDtIUhKDu3Ha8M"
     },
     {
       "added_at": "2025-05-16 04:00:24",

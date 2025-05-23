@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB2vvAAAAABl7WyH23LBc6jNtkC1OqKW",
+  "snapshot_id": "aC/JbAAAAABl60Nd08Fnr+T6JDsyyCwF",
   "tracks": [
     {
       "added_at": "2025-03-03 12:33:50",
@@ -71,6 +71,22 @@
       "duration_ms": 242090,
       "name": "Kupu - Kupu",
       "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
+    },
+    {
+      "added_at": "2025-05-23 01:03:40",
+      "album": {
+        "name": "Merangkai",
+        "url": "https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "duration_ms": 219695,
+      "name": "Kata Kata",
+      "url": "https://open.spotify.com/track/2AzoifKBHrbzI3WCrdEhZo"
     },
     {
       "added_at": "2025-03-03 12:33:50",
@@ -871,22 +887,6 @@
       "duration_ms": 212345,
       "name": "Tak Lagi Lagi",
       "url": "https://open.spotify.com/track/2ugwRdPXiyEgwFXopwPAJw"
-    },
-    {
-      "added_at": "2025-03-03 12:33:50",
-      "album": {
-        "name": "Petualangan Sherina 2 (Original Motion Picture Soundtrack) - Deluxe Version",
-        "url": "https://open.spotify.com/album/0Yxs506teCUiP9ndlC0mqa"
-      },
-      "artists": [
-        {
-          "name": "Sherina Munaf",
-          "url": "https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp"
-        }
-      ],
-      "duration_ms": 221887,
-      "name": "Hari Kita Berdua",
-      "url": "https://open.spotify.com/track/1eFGzmSGfbODtQXF4CK9Vl"
     },
     {
       "added_at": "2025-03-03 12:33:50",

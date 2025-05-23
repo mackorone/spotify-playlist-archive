@@ -4,7 +4,7 @@
 
 > 
 
-190 songs - 7 hr 38 min
+192 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [GREMLIN!](https://open.spotify.com/track/35iyAN1boG21x5ADG19bo9) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [GREMLIN!](https://open.spotify.com/album/5xZXJZ1eFVuXs6Iw0X3gY6) | 1:48 | 2025-03-02 | 2025-04-10 |
 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 | 2024-11-28 |  |
 | [GROW TF UP!](https://open.spotify.com/track/6yh7Qr1PkuQxhCg7JsDMC2) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [>:3](https://open.spotify.com/album/1CydpQKd0rdcmUpYI2WqYT) | 2:08 | 2025-01-16 | 2025-04-10 |
+| [Has To Be](https://open.spotify.com/track/29Iqky207Y14lJip5DkFiN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Has To Be](https://open.spotify.com/album/4m0K0hcRBcLIdI9FuiGS7U) | 1:55 | 2025-05-22 |  |
 | [hbo.](https://open.spotify.com/track/341d4xN6OfiZxCNe55f19K) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:22 | 2025-04-12 |  |
 | [HEXXED HER LOVE <3 xoxo](https://open.spotify.com/track/2AzBJlFNFTMRD0OW0HV3Ap) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [HEXXED HER LOVE <3 xoxo](https://open.spotify.com/album/6KDz4xWdrYSczS5xSMiX4F) | 1:56 | 2025-04-10 |  |
 | [HM, YEAH OKAY BUD!](https://open.spotify.com/track/4AW6fznH30hnxy2GZTYhCs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [HM, YEAH OKAY BUD!](https://open.spotify.com/album/4jJn3I1Z9ELGbEj3VggTzv) | 1:54 | 2025-03-24 | 2025-04-10 |
@@ -159,6 +160,7 @@
 | [souvenir!](https://open.spotify.com/track/0nLI01xizAXkil8fElyqAR) | [Lucyen](https://open.spotify.com/artist/5UBw2VnIl4iOxxtjpL83g7) | [the roku files](https://open.spotify.com/album/2Qkt4jgdKor0idLMJ5cXAN) | 1:17 | 2024-12-21 |  |
 | [spinnin round my head](https://open.spotify.com/track/7DSWwFavn5AqUs9Mg2FkrQ) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [spinnin round my head](https://open.spotify.com/album/4k1EN8sYA2ujbVVbohtd5p) | 1:51 | 2025-02-16 |  |
 | [Sponge](https://open.spotify.com/track/2idKMCUdqS2XpFAFKN2k1l) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:23 | 2025-03-11 |  |
+| [stay the night pluggnb](https://open.spotify.com/track/7mAhxVbneXAvOLv7dyG2NM) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe), [tabris](https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH) | [stay the night pluggnb](https://open.spotify.com/album/3dzg55rvSePS00QhW1p4sX) | 2:07 | 2025-05-22 |  |
 | [stfu.](https://open.spotify.com/track/78oBJ5afRt9xibIv5Tsfnq) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [stfu.](https://open.spotify.com/album/0SRYzffT84QwJv5LCeluhL) | 1:43 | 2024-11-21 |  |
 | [stuckk on you](https://open.spotify.com/track/4Es5Ngl8ETnV5EXzbsxMWM) | [otuka](https://open.spotify.com/artist/2VxINnkFPw2Sd6MiyKxN4B) | [stuckk on you](https://open.spotify.com/album/3ouWk2kW2bEtX2zz2neUaL) | 2:03 | 2024-12-25 |  |
 | [Summer Dub](https://open.spotify.com/track/0MaCHDp2w5kM0fPuYQpDGh) | [Wez Devine](https://open.spotify.com/artist/30tYWjGZbGNowjOI0bl6XG) | [Summer Motion](https://open.spotify.com/album/48oNciJNJ5a6Ut0d5PbpL0) | 3:21 | 2025-04-14 |  |

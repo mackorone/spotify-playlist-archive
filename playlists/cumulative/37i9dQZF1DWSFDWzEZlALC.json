@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: fyne",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: skuth, bac",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 259842,
       "name": "15 juni",
       "url": "https://open.spotify.com/track/6eO8fwLjJteXA4pWw2BMnI"
+    },
+    {
+      "album": {
+        "name": "Ich tr\u00e4um doch nur von Liebe",
+        "url": "https://open.spotify.com/album/33gIQqOgHfe0MOZ1CWBno7"
+      },
+      "artists": [
+        {
+          "name": "Blond",
+          "url": "https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "16 Jahr, blondes Haar",
+      "url": "https://open.spotify.com/track/1yYGxtSl8mSYKTFGJ3RqkP"
     },
     {
       "album": {
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 159391,
       "name": "Alles Schon Gesehen (Mailand, Bayern, St. Tropez)",
       "url": "https://open.spotify.com/track/7p1ao45cANh4zv4AH4MAKI"
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 167019,
       "name": "daswenigste",
       "url": "https://open.spotify.com/track/762q9YwXCZHSVVTiceW8tj"
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 130243,
       "name": "emotional support",
       "url": "https://open.spotify.com/track/3S92kcXT7qeLWwI7cUOk1F"
@@ -9637,6 +9655,24 @@
     },
     {
       "album": {
+        "name": "Gro\u00df werden",
+        "url": "https://open.spotify.com/album/1Okym2EyD1zDGpyyfNLaku"
+      },
+      "artists": [
+        {
+          "name": "ben clean",
+          "url": "https://open.spotify.com/artist/3VVb8BDDRiXOmlGej2R6s0"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Ich werde gelebt haben",
+      "url": "https://open.spotify.com/track/61d7ucGrYIoLmVYzjokJYM"
+    },
+    {
+      "album": {
         "name": "Ich Widerstehe",
         "url": "https://open.spotify.com/album/7BzCSY2zOVDmYQaQYSiN9C"
       },
@@ -9670,7 +9706,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 192387,
       "name": "Ich w\u00e4r so gern gelenkiger",
       "url": "https://open.spotify.com/track/3gbdZHpBXhe7u5YWyEWAdN"
@@ -10217,6 +10253,24 @@
     },
     {
       "album": {
+        "name": "Isar",
+        "url": "https://open.spotify.com/album/4NsVJ3lui5cPD1OGB2NBW6"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150757,
+      "name": "Isar",
+      "url": "https://open.spotify.com/track/3GGRoEdpCINzqIGs9fSGZ8"
+    },
+    {
+      "album": {
         "name": "Von all dem nichts gewusst",
         "url": "https://open.spotify.com/album/5NQSuJvKv3GHBQYjo3HzBk"
       },
@@ -10702,7 +10756,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 177751,
       "name": "Karlsplatz",
       "url": "https://open.spotify.com/track/2vSSwI4iqV2VSTC8UWx8cs"
@@ -12450,7 +12504,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 121942,
       "name": "Lieder die du magst",
       "url": "https://open.spotify.com/track/1yfUth1wqtfr1p7q5PBipG"
@@ -17531,6 +17585,24 @@
     },
     {
       "album": {
+        "name": "SMS an Mama",
+        "url": "https://open.spotify.com/album/3gPgKapGoedvuFOIA6aMHw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e6nsen",
+          "url": "https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152297,
+      "name": "SMS an Mama",
+      "url": "https://open.spotify.com/track/0WGs0QisymepiBXqyGZ2c7"
+    },
+    {
+      "album": {
         "name": "so allein",
         "url": "https://open.spotify.com/album/7jK6jSILE3ey68mlC0DnFl"
       },
@@ -18685,6 +18757,24 @@
     },
     {
       "album": {
+        "name": "summer vibe",
+        "url": "https://open.spotify.com/album/7iK4bUkVRsjJAb4gB890Bg"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164306,
+      "name": "summer vibe",
+      "url": "https://open.spotify.com/track/6xZWS5Fuwm2cEPIPcA5GfJ"
+    },
+    {
+      "album": {
         "name": "Superkraft",
         "url": "https://open.spotify.com/album/0zdMpT5ovFKv42wOfvo54Z"
       },
@@ -19581,6 +19671,24 @@
     },
     {
       "album": {
+        "name": "Ein Schritt mehr",
+        "url": "https://open.spotify.com/album/2qAelcA0zeIW4nDQLy7wks"
+      },
+      "artists": [
+        {
+          "name": "Ben Georgi",
+          "url": "https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193217,
+      "name": "tu's f\u00fcr uns",
+      "url": "https://open.spotify.com/track/2OsKP7N0KkRCyc2dkq3IrX"
+    },
+    {
+      "album": {
         "name": "Ich liebe dich f\u00fcr immer",
         "url": "https://open.spotify.com/album/2CncrH725HIGt6h665DTQi"
       },
@@ -20292,7 +20400,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 126400,
       "name": "Vermisst",
       "url": "https://open.spotify.com/track/6ZUeS0DqiH0ITaYwJ78E0H"
@@ -22444,6 +22552,28 @@
       "duration_ms": 176926,
       "name": "Zorn & Liebe",
       "url": "https://open.spotify.com/track/71HXhZ6zzi1Xk16zpG7qkU"
+    },
+    {
+      "album": {
+        "name": "Zu den anderen",
+        "url": "https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI"
+      },
+      "artists": [
+        {
+          "name": "skuth",
+          "url": "https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw"
+        },
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139986,
+      "name": "Zu den anderen",
+      "url": "https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk"
     },
     {
       "album": {

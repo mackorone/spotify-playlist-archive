@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Seago, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,497 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,515 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [NON!](https://open.spotify.com/track/5ZqVNseuRd0iq6jAiCAz1k) | [Embo/phlébite](https://open.spotify.com/artist/1ljgoKCx9MKLoDa5rdzNBt) | [NON!](https://open.spotify.com/album/77ZKBNQwZCEDhu5NNTIZsi) | 2:21 |
 | 50 | [STARF\*CKER](https://open.spotify.com/track/2Tq8NyLPWXd5EbHPKB8vDV) | [LL](https://open.spotify.com/artist/6WmyI90XiOYAI1BV1Nnifx) | [STARF\*CKER](https://open.spotify.com/album/1jnp9EESX2Lw5YYIobOKk7) | 2:34 |
 
-Snapshot ID: `aC3dxQAAAABqQhm4E2IDlH/SRFuAPAef`
+Snapshot ID: `aC3dxQAAAADfpLH+lm7xnXNdFQWNQN6H`

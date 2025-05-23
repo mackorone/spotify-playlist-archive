@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,512 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,532 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 10 | [Watch Them Come \- ASRV Stéphane Vera & Andy Roberts Disco Mix](https://open.spotify.com/track/6nUfiCihytmXY57dqRwzy8) | [Men From The Nile](https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO), [Roy Davis Jr.](https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8), [Jay Juniel](https://open.spotify.com/artist/6pSj2raGdURFvd8s64rKUs), [ASRV Stéphane Vera](https://open.spotify.com/artist/4m8ZliFM5n9vKnugdcLggA), [Andy Roberts](https://open.spotify.com/artist/4qPGYP4o625eD5qU6EtCL3) | [Watch Them Come 2025 Remixes](https://open.spotify.com/album/6KHacFTwOfDaBOGjs7o34S) | 6:48 |
 | 11 | [Sailing Away](https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Sailing Away](https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn) | 4:41 |
 | 12 | [Come Get It \(feat\. DAVIES\)](https://open.spotify.com/track/0NNwzgqaF0GfxVMhVpHxrV) | [Alannah Chapman](https://open.spotify.com/artist/0eiHbBXXBUIcn2b34Wmx9V), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Come Get It \(feat\. DAVIES\)](https://open.spotify.com/album/7jvpWvHx9jY7ew3PU6BKYA) | 2:54 |
-| 13 | [Big People Music](https://open.spotify.com/track/13MppcPe5bIaZclwJx7Sri) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:58 |
+| 13 | [Big People Music](https://open.spotify.com/track/13MppcPe5bIaZclwJx7Sri) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:58 |
 | 14 | [Someone Like You](https://open.spotify.com/track/1pZB4PoWYz2QYnB9jH4Jqw) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Someone Like You](https://open.spotify.com/album/7G4UcQceMc1AgdZGXbvKDj) | 2:44 |
 | 15 | [Whatever You Call It](https://open.spotify.com/track/2ePxzW2jyjuezw5MvqWzQ5) | [They Call Me Steve](https://open.spotify.com/artist/3sMOsgdJl7e2l6nueIl4Se) | [Whatever You Call It](https://open.spotify.com/album/0JGQHNdVHyyaIUHhAghbhy) | 3:02 |
 | 16 | [Treat Me Like A Star](https://open.spotify.com/track/76IEzUmZmrOoThFx0vKX4o) | [Naoma](https://open.spotify.com/artist/36QZEGnq3QtTsA1HtNe3QF) | [Treat Me Like A Star](https://open.spotify.com/album/40oatx8U2yVPoeccSUfQ1G) | 3:25 |

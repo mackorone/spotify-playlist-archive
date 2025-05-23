@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Math Basso, Cynthia Luz",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Rebeca",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -980,6 +980,24 @@
       "duration_ms": 182610,
       "name": "amor desalinhado",
       "url": "https://open.spotify.com/track/14Y83kEVHr3ktSp2wDK7Gj"
+    },
+    {
+      "album": {
+        "name": "Amor e Sexo",
+        "url": "https://open.spotify.com/album/6GkDoVt2G0hEn9ZuzbCC2C"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229863,
+      "name": "Amor e Sexo",
+      "url": "https://open.spotify.com/track/74iF1obdHm9eoHtXTMd1kt"
     },
     {
       "album": {
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 165441,
       "name": "Coisa Rara",
       "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
@@ -6941,6 +6959,24 @@
     },
     {
       "album": {
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3i6Iaw3fUGfsczN2Q2phAu"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225714,
+      "name": "Infinito Particular",
+      "url": "https://open.spotify.com/track/5QODT6XGiYRmrVh4MyuUM6"
+    },
+    {
+      "album": {
         "name": "Intensamente",
         "url": "https://open.spotify.com/album/2mw6JHE5nJ6H0aAelxwFGh"
       },
@@ -8860,7 +8896,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 172909,
       "name": "M\u00c1QUINA DO TEMPO",
       "url": "https://open.spotify.com/track/5IhvMaUbuThd2dgW8cHthu"
@@ -10794,6 +10830,24 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
+    },
+    {
+      "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174817,
+      "name": "Poder Amar",
+      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
     },
     {
       "album": {
@@ -12963,6 +13017,28 @@
     },
     {
       "album": {
+        "name": "sinto saudade",
+        "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150978,
+      "name": "sinto saudade",
+      "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
+    },
+    {
+      "album": {
         "name": "Sintomas de Saudade",
         "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
       },
@@ -13860,7 +13936,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 160268,
       "name": "Tempo Voa",
       "url": "https://open.spotify.com/track/3TekRNSHjjijQ2SIcY9k1C"
@@ -15108,7 +15184,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 158170,
       "name": "Vem C\u00e1, Me Beija",
       "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"

@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Phượng Vũ
 
-2,072 songs - 5 day 1 hr 25 min
+2,074 songs - 5 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Chung thủy](https://open.spotify.com/track/2F3NlXbwOGzitR9Bslqxrn) | [Anzz](https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO), [Lửa](https://open.spotify.com/artist/2RaJb8R2EyDYQQKbNS0BIz) | [những ngày đầu](https://open.spotify.com/album/0zeUiog6SiDOiR862OV0Xf) | 4:33 | 2023-08-31 | 2023-10-18 |
 | [Chuyển Động](https://open.spotify.com/track/0VrgT6v05tZM0eckL6GNvo) | [Benly](https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG), [Hazel](https://open.spotify.com/artist/4ZFRJP4p2Ul4kGnKrEn5W2) | [Chuyển Động](https://open.spotify.com/album/63qmWVzyGezVaxajtylDuh) | 3:21 | 2023-03-15 | 2023-03-22 |
 | [Chuyện Chúng Ta Sau Này](https://open.spotify.com/track/0QIBqBajZLLcWfL6mpVsN3) | [Hải Đăng Doo](https://open.spotify.com/artist/0F1rSmrNT6sp3LYohgYKsT), [Weeza](https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l) | [Chuyện Chúng Ta Sau Này](https://open.spotify.com/album/3TMBghuTr3KMoyJObBMi63) | 4:05 | 2023-04-19 | 2025-03-28 |
+| [Chuyện Cũ Cứ Xem Là Gió Bay](https://open.spotify.com/track/7FtayNdrNCE5j1WSA3sbnA) | [giangimgs](https://open.spotify.com/artist/5cOX2910hNJR9e1cxaVNQp), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Chuyện Cũ Cứ Xem Là Gió Bay](https://open.spotify.com/album/2Ajqdo4oyrV6pHo0aTf7bV) | 2:24 | 2025-05-23 |  |
 | [Chuyện Ngày Xưa Ngày Nay](https://open.spotify.com/track/1fRtrm0edJ6wWxnyEXTO9D) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz) | [Chuyện Ngày Xưa Ngày Nay](https://open.spotify.com/album/6LRWJ3dl8ri67eX4Yxlo9M) | 2:55 | 2022-05-27 | 2022-06-22 |
 | [Chuyện tình mình lỡ làng](https://open.spotify.com/track/1SXF8wwfGxKSN7WDN7076y) | [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd), [Thanh Huy](https://open.spotify.com/artist/0nQzC9xwJYWvqOwQmzokH6) | [Chuyện tình mình lỡ làng](https://open.spotify.com/album/7M80mKMjOr21FkCHC7DZ8O) | 4:04 | 2023-08-10 | 2023-10-18 |
 | [chuồn chuồn](https://open.spotify.com/track/3N1OdG5gRia2eYeP51jNKK) | [Tùng](https://open.spotify.com/artist/1TdtsDVivxc6PpkQdNuXdR) | [chuồn chuồn](https://open.spotify.com/album/7MypVv6J5kBESdULO0Et4v) | 5:00 | 2022-09-23 | 2022-09-30 |
@@ -1002,6 +1003,7 @@
 | [lỗi anh](https://open.spotify.com/track/2FYCrPefYthQKlwvfVVr1T) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [lỗi anh](https://open.spotify.com/album/0J70Yetjg3I0iZlQXuR5wv) | 3:23 | 2024-03-22 | 2024-04-24 |
 | [Lời Chia Tay](https://open.spotify.com/track/2nBMaVcTDMeBvNPPZN9D7m) | [Cà Nâu](https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW) | [Lời Chia Tay](https://open.spotify.com/album/5KOH26O71H916UUymEgTjS) | 4:07 | 2023-08-10 | 2023-10-06 |
 | [Lời Cuối](https://open.spotify.com/track/4Nzujlo4oals3S6LT3HTC0) | [Nắng](https://open.spotify.com/artist/74VaNxyGwFhJPZDcQ9q3IO) | [Lời Cuối](https://open.spotify.com/album/2syolPVqhROidfAqplwejb) | 3:43 | 2022-04-14 | 2022-05-12 |
+| [Lời Em Bông Đùa](https://open.spotify.com/track/4v9P9d2jq57x0Jag2aBVd0) | [Huynh Duc](https://open.spotify.com/artist/1g6Z31sXLyZQHnljLpwOMX), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Lời Em Bông Đùa](https://open.spotify.com/album/7xHpgfKdztX05st3XHYDmx) | 3:50 | 2025-05-23 |  |
 | [Lời Em Nói](https://open.spotify.com/track/64ofw7HN2Wx1uvkC5z7nCo) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Lời Em Nói](https://open.spotify.com/album/0t998F3RSSPze3IjCU8EdW) | 4:05 | 2022-08-13 | 2022-09-19 |
 | [Lời Hứa](https://open.spotify.com/track/1rt6n7tyVur9UGIv28iZzm) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB) | [Lời Hứa](https://open.spotify.com/album/4atL59IwntCELTyKywEONH) | 2:59 | 2023-07-18 | 2023-09-15 |
 | [Lời Nói Dối Ngọt Ngào](https://open.spotify.com/track/7xnUWjDvdRnajKh2bsfINz) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30), [Flepy](https://open.spotify.com/artist/1enoud6bfOXZHHR72x4geR) | [Lời Nói Dối Ngọt Ngào](https://open.spotify.com/album/2lQfY6TJh9QhnqSi4EDRpO) | 3:49 | 2024-05-31 | 2024-08-23 |

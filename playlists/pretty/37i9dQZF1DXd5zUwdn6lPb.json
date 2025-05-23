@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 368638,
+  "num_followers": 368749,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-05-13 10:39:27",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2025-05-13 10:39:27",
-      "album": {
         "name": "Gjeilo: Winter Light",
         "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 170080,
       "name": "Winter Light",
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "added_at": "2025-05-13 10:39:27",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2025-05-13 10:39:27",
@@ -1795,22 +1795,38 @@
     {
       "added_at": "2025-05-13 10:39:27",
       "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+        "name": "Meditation - Relaxing Classics",
+        "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Victor Mass\u00e9",
+          "url": "https://open.spotify.com/artist/1uJnvXZTIXWPODbfCuZNzA"
         },
         {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+          "name": "Patrick Gallois",
+          "url": "https://open.spotify.com/artist/13nrWU0iAugxOj586gGfaw"
+        },
+        {
+          "name": "Richard Friedman",
+          "url": "https://open.spotify.com/artist/5smpj68IJvr7Cezsx9Vs3q"
+        },
+        {
+          "name": "Fabrice Pierre",
+          "url": "https://open.spotify.com/artist/76rzmPzaguOHFlHhVnCg4d"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+        },
+        {
+          "name": "Ross Pople",
+          "url": "https://open.spotify.com/artist/11JZsHusKTJyHp8V1CdlRv"
         }
       ],
-      "duration_ms": 326400,
-      "name": "Jeux d\u2019eau, M 30",
-      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
+      "duration_ms": 267773,
+      "name": "Les noces de Jeanette: Air du rossignol (Arr. Pierre for Flute & Orchestra)",
+      "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
     },
     {
       "added_at": "2025-05-13 10:39:27",
@@ -1859,38 +1875,22 @@
     {
       "added_at": "2025-05-13 10:39:27",
       "album": {
-        "name": "Meditation - Relaxing Classics",
-        "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
       },
       "artists": [
         {
-          "name": "Victor Mass\u00e9",
-          "url": "https://open.spotify.com/artist/1uJnvXZTIXWPODbfCuZNzA"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Patrick Gallois",
-          "url": "https://open.spotify.com/artist/13nrWU0iAugxOj586gGfaw"
-        },
-        {
-          "name": "Richard Friedman",
-          "url": "https://open.spotify.com/artist/5smpj68IJvr7Cezsx9Vs3q"
-        },
-        {
-          "name": "Fabrice Pierre",
-          "url": "https://open.spotify.com/artist/76rzmPzaguOHFlHhVnCg4d"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
-        },
-        {
-          "name": "Ross Pople",
-          "url": "https://open.spotify.com/artist/11JZsHusKTJyHp8V1CdlRv"
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Les noces de Jeanette: Air du rossignol (Arr. Pierre for Flute & Orchestra)",
-      "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
+      "duration_ms": 326400,
+      "name": "Jeux d\u2019eau, M 30",
+      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
     },
     {
       "added_at": "2025-05-13 10:39:27",

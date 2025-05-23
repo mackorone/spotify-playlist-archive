@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 75426,
+  "num_followers": 75436,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCvGAAAAAACvVW6pUdYawuthBPrd5Tqy",
+  "snapshot_id": "aC0XgAAAAAAwy7NvSo70EA4dpoQlJzET",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 242538,
-      "name": "Bailando De Caballito",
-      "url": "https://open.spotify.com/track/4wypWBS82iSSvRROk87oNQ"
+      "duration_ms": 216409,
+      "name": "D\u00f3nde Estar\u00e1s",
+      "url": "https://open.spotify.com/track/4tkGZ3pNQFIhbJuFeaytzl"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 208352,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+      "duration_ms": 242538,
+      "name": "Bailando De Caballito",
+      "url": "https://open.spotify.com/track/4wypWBS82iSSvRROk87oNQ"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 216409,
-      "name": "D\u00f3nde Estar\u00e1s",
-      "url": "https://open.spotify.com/track/4tkGZ3pNQFIhbJuFeaytzl"
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
-        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 216549,
-      "name": "Mambo No. 8",
-      "url": "https://open.spotify.com/track/3oksN9Ro962hykmA6Fm7LJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 204556,
       "name": "El Ni\u00f1o Travieso",
       "url": "https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
+        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 216549,
+      "name": "Mambo No. 8",
+      "url": "https://open.spotify.com/track/3oksN9Ro962hykmA6Fm7LJ"
     },
     {
       "added_at": null,

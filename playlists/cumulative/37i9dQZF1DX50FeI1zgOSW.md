@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-534 songs - 1 day 6 hr 31 min
+535 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Pogaathey](https://open.spotify.com/track/5F5DIAIAKeInyl3WndDM6l) | [Shriram Sachi](https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd) | [Pogaathey](https://open.spotify.com/album/5kLSRW1b4xRvzgM6pQdNpx) | 1:58 | 2024-01-16 | 2024-02-22 |
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-06-16 | 2023-11-16 |
 | [Polladha Iravugal](https://open.spotify.com/track/0tYx6yVQooVCELXVJZIgn1) | [Thuva JB Chandran](https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq), [Kishoth Chandru](https://open.spotify.com/artist/5t7nfwWyqV7znxqBUjnBFI), [Kenny Hash](https://open.spotify.com/artist/3Evgr9WAmkz4w0zlC2qBCA) | [Polladha Iravugal](https://open.spotify.com/album/6VgyrPpnlalVMILCTKujo5) | 3:43 | 2023-11-20 | 2024-07-30 |
+| [Pollappu Rani](https://open.spotify.com/track/0ROO0u3ZKXObue6v87GZoc) | [Santhan Anebajagane](https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq), [Haritha Shri Varshini](https://open.spotify.com/artist/4WhhtNKc4NQ2IF0yS3ThfI) | [Pollappu Rani](https://open.spotify.com/album/7JyZnp2sJ9LYM9KbeTRlbp) | 3:57 | 2025-05-22 |  |
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 | 2023-07-25 |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 | 2023-09-05 |
 | [POO VIZHI NEEYE](https://open.spotify.com/track/6CwSUfM95NTT9Ocr25dHNH) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [sharath ji](https://open.spotify.com/artist/3qlYohva8bcShQYabPfeIM) | [POO VIZHI NEEYE](https://open.spotify.com/album/1uUYBE0o8k1kqQeVFIh6rt) | 2:11 | 2024-08-30 | 2024-10-20 |

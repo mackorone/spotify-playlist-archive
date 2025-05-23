@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Aphrodite Stream",
+        "url": "https://open.spotify.com/album/6ibE6T7V1pd4EOc8rMyNLC"
+      },
+      "artists": [
+        {
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166374,
+      "name": "Aphrodite Stream",
+      "url": "https://open.spotify.com/track/22urCikBkWkQbjH0QhEo9S"
+    },
+    {
+      "album": {
         "name": "Aqua",
         "url": "https://open.spotify.com/album/7eFZaIyV8l9ePXv8Jqt948"
       },
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 183333,
       "name": "Of Dreams",
       "url": "https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s"

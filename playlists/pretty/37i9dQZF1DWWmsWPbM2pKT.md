@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,680 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,926 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 13 | [Dry](https://open.spotify.com/track/06LftQ6D32NPLEZJLtYuZD) | [Geneva Jacuzzi](https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG) | [Dry](https://open.spotify.com/album/29r7z4p5XQ5ZoXE0X6Ifbe) | 3:37 |
 | 14 | [Icicle](https://open.spotify.com/track/7iT4xmLclPuOKS1s7rRNoS) | [L.A\. WITCH](https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C) | [Icicle](https://open.spotify.com/album/0AU5vin3OFGAdNYJOw7Mjv) | 3:09 |
 | 15 | [остаться](https://open.spotify.com/track/3EYLF8HrKPDaksSmp5L9ll) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [остаться](https://open.spotify.com/album/7nCENjO2RqryFF5oKZwb2Y) | 3:27 |
-| 16 | [6' Pole](https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [6' Pole](https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0) | 3:55 |
+| 16 | [6' Pole](https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [6' Pole](https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0) | 3:53 |
 | 17 | [Too Soon to Tell](https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 4:07 |
 | 18 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 19 | [Curse Of Creation](https://open.spotify.com/track/3OGtL6kZQYXN0uSmJjH2Fi) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Crisis Kid](https://open.spotify.com/album/3Cv78p0A3d4suCrrRWB2cD) | 3:23 |

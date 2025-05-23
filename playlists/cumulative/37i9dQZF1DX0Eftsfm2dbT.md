@@ -2,9 +2,9 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> POP YOURS開催まであと2日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 唾奇, Kohjiya
+> POP YOURS開催まであと1日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JJJ
 
-1,647 songs - 3 day 12 hr 5 min
+1,649 songs - 3 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [DAIJINAMON](https://open.spotify.com/track/2mECnd4B1UVlq3uFzaMzrD) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD), [Jeter](https://open.spotify.com/artist/3L9cu3KstfzbqZ0Yz6SW4b), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [DAIJINAMON](https://open.spotify.com/album/0mJ83mNs5W0Ax7sOyagvP4) | 2:02 | 2024-02-08 | 2024-02-10 |
 | [DAIKYUJYO](https://open.spotify.com/track/6X2t7KMv5swfmt6QR4JKqn) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [DAIKYUJYO](https://open.spotify.com/album/21OL83ryv1xqNXiQ5aoQii) | 3:03 | 2024-02-28 | 2024-03-27 |
 | [Daily Meets](https://open.spotify.com/track/4CnsxpN4C6twk8ya9Wq6L8) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU) | [Daily Meets](https://open.spotify.com/album/73Jy3GTDo4X4Rhdjanjqd9) | 3:02 | 2024-06-25 | 2024-07-03 |
+| [dali](https://open.spotify.com/track/35sF0BG8RJc6RETSvu6lVD) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [dali](https://open.spotify.com/album/28mGTkCxfgw7nwZbof216T) | 1:55 | 2025-05-22 |  |
 | [Damn \(feat\. LEX\)](https://open.spotify.com/track/2uQPg6hZvFk6oNK0v4gxJR) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [MONIBUM 2](https://open.spotify.com/album/5qHtK8LSc5YfHtOHfU4FpV) | 2:59 | 2025-03-06 | 2025-04-16 |
 | [Dance With Me](https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dance With Me](https://open.spotify.com/album/5PQwDjqe2iz3Brdami9y40) | 1:24 | 2024-10-09 | 2025-03-05 |
 | [DANCELIXIR](https://open.spotify.com/track/5wZiqGMAbx6prjliENRYmb) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [DANCELIXIR](https://open.spotify.com/album/4xB7elCmGdQG1Srf9srUgz) | 2:58 | 2024-08-28 | 2024-11-13 |
@@ -637,6 +638,7 @@
 | [It's Not A Bad Thing](https://open.spotify.com/track/3usca0GHBr9VnlSF07Fzns) | [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [It's Not A Bad Thing](https://open.spotify.com/album/1VvOUjap2TpjvFbRmpxNSX) | 3:16 | 2024-04-02 | 2024-04-04 |
 | [It's OK](https://open.spotify.com/track/7hdokEsjFDV69eUNNqsIGj) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [It's OK](https://open.spotify.com/album/0RBiKagh6JgwDgnPAYeywB) | 3:34 | 2025-02-25 | 2025-03-12 |
 | [ITSUDEMO](https://open.spotify.com/track/3l35LgmpJ3RfZP91UJ2qtL) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [ITSUDEMO](https://open.spotify.com/album/1Yi2pBJusY5tFfVHQrawVY) | 2:22 | 2024-10-26 | 2024-11-20 |
+| [IYASAKA LIT \(feat\. CHICO CARLITO\)](https://open.spotify.com/track/3OuhE5KEvVMUQpRy2eHPZK) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [IYASAKA LIT \(feat\. CHICO CARLITO\)](https://open.spotify.com/album/2elgKrDB0xGUx77XBKLfTW) | 2:31 | 2025-05-22 |  |
 | [J](https://open.spotify.com/track/4Gn2V14wyNk6QxrEJTO9eM) | [qwert](https://open.spotify.com/artist/2eyhSDox09lgbf339UPRUz), [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd), [了](https://open.spotify.com/artist/1ed5jBeyEJ8Dssv5mDa2Dg) | [sakana](https://open.spotify.com/album/4rMHh4VhAzI3obR0ZRuLiV) | 2:49 | 2024-06-06 | 2024-07-03 |
 | [Jamming feat\. Keyco](https://open.spotify.com/track/4lXik909emynYRoCU033lx) | [The Clap Brothers](https://open.spotify.com/artist/5KVOAUYmBV0uwGpsUcSNlh), [Tipleso](https://open.spotify.com/artist/7CdhZdKlqmrYHhfrrw6j7e), [KEIZOmachine!](https://open.spotify.com/artist/3ZaYH9SzdXFvnqHj7ISPQY), [Keyco](https://open.spotify.com/artist/6Ou9H9iV3nhw1zHUxMoQS4) | [Jamming feat\. Keyco](https://open.spotify.com/album/5nUTyvHVSFbFta6biMrAHd) | 3:19 | 2025-01-28 | 2025-02-19 |
 | [Jerry](https://open.spotify.com/track/70BKywjW6yUcgKacS5D5K6) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n) | [Jerry](https://open.spotify.com/album/2Eov92b0QSSv1JziM9mT5Q) | 2:34 | 2024-10-29 | 2025-01-15 |

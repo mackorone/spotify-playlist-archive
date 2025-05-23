@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Danny Smoke",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Snotkop",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 212095,
       "name": "Bitterblou",
       "url": "https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 162822,
       "name": "Blokfluit",
       "url": "https://open.spotify.com/track/18OT3vzdcxD569umTGxRVf"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 210232,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 162186,
       "name": "Groeipyne (feat. Die Piesangskille)",
       "url": "https://open.spotify.com/track/2G6OnOnHviWZy9LPl38wyw"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 238615,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 187370,
       "name": "Johnnie Blou",
       "url": "https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4"
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 167933,
       "name": "Kyk Na My Hart",
       "url": "https://open.spotify.com/track/7tS40e1QqDUZl5bkINlkup"
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 174254,
       "name": "Laatnag Gedagtes",
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
@@ -2942,6 +2942,24 @@
       "duration_ms": 193447,
       "name": "Lek My Lippe Af",
       "url": "https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK"
+    },
+    {
+      "album": {
+        "name": "Lekkerste Lekker",
+        "url": "https://open.spotify.com/album/7bwS3hDUSdfutYkorS7sbZ"
+      },
+      "artists": [
+        {
+          "name": "Leah",
+          "url": "https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187265,
+      "name": "Lekkerste Lekker",
+      "url": "https://open.spotify.com/track/2OTNALTwsmkv7yXoRmvw6W"
     },
     {
       "album": {
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 201777,
       "name": "Moegdans",
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
@@ -4087,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "Pokkenvoes",
+        "url": "https://open.spotify.com/album/5S9QFkaG5NihdCwHqVCPw6"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191941,
+      "name": "Pokkenvoes",
+      "url": "https://open.spotify.com/track/78lVjTSJ5bY9zXbfOjTJHa"
+    },
+    {
+      "album": {
         "name": "Rowwe Bliksem",
         "url": "https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS"
       },
@@ -4368,7 +4404,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 215217,
       "name": "Soen Soos Wat Jy Dans",
       "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
@@ -4404,7 +4440,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 187800,
       "name": "Sonop-Blom",
       "url": "https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p"
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 266868,
       "name": "Sonskyn Vrou",
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
@@ -4734,7 +4770,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 213125,
       "name": "SySoen",
       "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
@@ -4860,7 +4896,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 208519,
       "name": "Tekkies Brand",
       "url": "https://open.spotify.com/track/6iMPMrSlrIi272VQgvqCCF"
@@ -4954,7 +4990,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 192053,
       "name": "Vat 'n Bietjie",
       "url": "https://open.spotify.com/track/1u69vEZpvkC9eV9bv6kxm5"
@@ -5088,7 +5124,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 205237,
       "name": "Vlam In Die Wind",
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
@@ -5290,7 +5326,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 208260,
       "name": "Wat Ek Wil Hoor",
       "url": "https://open.spotify.com/track/4Ru287GBQTvVF7PJ9ydWQO"

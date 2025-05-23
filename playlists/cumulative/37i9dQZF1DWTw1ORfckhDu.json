@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa SHRTY ja Sliki. ",
+  "description": "100 Suomi \ud83d\udcaf Kannessa HUGO.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 160177,
       "name": "Ainutlaatuinen",
       "url": "https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4"
@@ -680,6 +680,28 @@
       "duration_ms": 178560,
       "name": "Aivastaa",
       "url": "https://open.spotify.com/track/4j8c4FzylrJtT4hrKtTtE5"
+    },
+    {
+      "album": {
+        "name": "Aja tai kuole",
+        "url": "https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "Aja tai kuole",
+      "url": "https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7"
     },
     {
       "album": {
@@ -1317,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "Kortepohjakosketus",
+        "url": "https://open.spotify.com/album/3RiYGDzpRpPbNkKzxvYZJT"
+      },
+      "artists": [
+        {
+          "name": "Rekami",
+          "url": "https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB"
+        },
+        {
+          "name": "Andrei",
+          "url": "https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Big Ben",
+      "url": "https://open.spotify.com/track/0rfnaJDLYdIeQewa06THfh"
+    },
+    {
+      "album": {
         "name": "Big Fish",
         "url": "https://open.spotify.com/album/2Z7rQte6pWUiBmvzfkjxO9"
       },
@@ -1408,7 +1452,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 175237,
       "name": "Blastoise",
       "url": "https://open.spotify.com/track/2KByRUPhqEoFIA3VmgM3LP"
@@ -2398,7 +2442,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 209594,
       "name": "Ei kertsii (feat. ibe)",
       "url": "https://open.spotify.com/track/4CE08Ci8QqNkLcuxTYat13"
@@ -7182,7 +7226,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 169559,
       "name": "KUOLEMATON",
       "url": "https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK"
@@ -8050,6 +8094,28 @@
       "duration_ms": 155588,
       "name": "Liian vanha",
       "url": "https://open.spotify.com/track/71TkfYYLCGEr7CoGngJ5vd"
+    },
+    {
+      "album": {
+        "name": "Liikaa vauhtii (feat. Jore & Zpoppa)",
+        "url": "https://open.spotify.com/album/7q9S7xj1nF8t3tHw0wppcN"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197921,
+      "name": "Liikaa vauhtii (feat. Jore & Zpoppa)",
+      "url": "https://open.spotify.com/track/2rwT5yfTQYULSvrERWfxa8"
     },
     {
       "album": {
@@ -13190,7 +13256,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 214173,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/5lYoa8Ta0GwwHf8bJlDnIM"
@@ -13814,7 +13880,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 149740,
       "name": "Sekunnis (feat. Sexmane)",
       "url": "https://open.spotify.com/track/2K9HxEeocA79vkagSXaFAo"
@@ -13908,6 +13974,28 @@
       "duration_ms": 143014,
       "name": "SELVIYTYJ\u00c4",
       "url": "https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG"
+    },
+    {
+      "album": {
+        "name": "Sexmane x OFF THE BOOTH (Respect on my name)",
+        "url": "https://open.spotify.com/album/3GH3dqxxpqXo0763qfZR29"
+      },
+      "artists": [
+        {
+          "name": "OFF THE BOOTH",
+          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172023,
+      "name": "Sexmane x OFF THE BOOTH (Respect on my name)",
+      "url": "https://open.spotify.com/track/1kBB8qSrHeJD2lewCGhS2C"
     },
     {
       "album": {
@@ -15706,7 +15794,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 209683,
       "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD"
@@ -17017,6 +17105,28 @@
     },
     {
       "album": {
+        "name": "Vastal\u00e4\u00e4ke (feat. Etta)",
+        "url": "https://open.spotify.com/album/0P63Euv9xv2KtazXz1MlXj"
+      },
+      "artists": [
+        {
+          "name": "LEWI",
+          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158087,
+      "name": "Vastal\u00e4\u00e4ke (feat. Etta)",
+      "url": "https://open.spotify.com/track/35IfC9JlQTKhz93mGRLl14"
+    },
+    {
+      "album": {
         "name": "Vastustaa",
         "url": "https://open.spotify.com/album/7xB2ewkdlo9p6q4dpQG4jq"
       },
@@ -17681,6 +17791,24 @@
     },
     {
       "album": {
+        "name": "V\u00e4\u00e4r\u00e4\u00e4n ihmiseen",
+        "url": "https://open.spotify.com/album/1JO9UvzcMtrJJ2nh5Pf7vk"
+      },
+      "artists": [
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127129,
+      "name": "V\u00e4\u00e4r\u00e4\u00e4n ihmiseen",
+      "url": "https://open.spotify.com/track/2x4xLxN2y6c7yUhK9Sxzpq"
+    },
+    {
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/5j3R1mBN3a6e1niKXy32oE"
       },
@@ -18102,6 +18230,32 @@
       "duration_ms": 143538,
       "name": "\u00c4l\u00e4 Lopeta",
       "url": "https://open.spotify.com/track/4jEKDWQ8dVGLhr1ryA9cbl"
+    },
+    {
+      "album": {
+        "name": "\u00c4l\u00e4 tuu kyselee",
+        "url": "https://open.spotify.com/album/7AlvANqxKYuT5oK7lmD9qr"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        },
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221058,
+      "name": "\u00c4l\u00e4 tuu kyselee",
+      "url": "https://open.spotify.com/track/5WtrsvJdBLJOwzFeMEnKHp"
     },
     {
       "album": {

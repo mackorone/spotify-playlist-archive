@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Platform",
+  "description": "What is your love language? Say it in Swahili.  Cover: Rayvanny, Marioo & Harmonize",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -4179,6 +4179,32 @@
     },
     {
       "album": {
+        "name": "Pere",
+        "url": "https://open.spotify.com/album/3R5dZSsRWZf6ufg28aZWIB"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250169,
+      "name": "Pere",
+      "url": "https://open.spotify.com/track/57nGA4UFRfISiYSRbemAJS"
+    },
+    {
+      "album": {
         "name": "Pillow Talk",
         "url": "https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j"
       },
@@ -5426,7 +5452,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 186263,
       "name": "Uwii",
       "url": "https://open.spotify.com/track/1kW4pZ6Wo5Ez2FxAwjgofz"

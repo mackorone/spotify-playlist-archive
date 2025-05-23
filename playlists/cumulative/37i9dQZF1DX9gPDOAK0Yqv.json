@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Backstage",
+        "url": "https://open.spotify.com/album/50XMK7szkVVwVLGjueuKLB"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186692,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/3tjQXSn4jfFNETRVvQotFB"
+    },
+    {
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/55y6u66PkBWKpnnB1f3Wp7"
       },
@@ -4240,7 +4258,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 288115,
       "name": "Find A Way - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf"
@@ -14142,7 +14160,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 161194,
       "name": "U Want It",
       "url": "https://open.spotify.com/track/27nMz34zGy9unSz6VpQ9E3"
@@ -14274,6 +14292,28 @@
       "duration_ms": 201657,
       "name": "Under Your Spine",
       "url": "https://open.spotify.com/track/2qZEyjmUrMdrAfF5gbsHid"
+    },
+    {
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/69wAA6Ok2dQUkgMU8gC9lM"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Zamna Soundsystem",
+          "url": "https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283257,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/0xm4wrbsHLz8xg3NvrcF4S"
     },
     {
       "album": {

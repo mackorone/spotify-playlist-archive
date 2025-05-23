@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: Mandark
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Dizparity x SOPHY
 
-434 songs - 1 day 2 hr 20 min
+435 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Let Me Be Me](https://open.spotify.com/track/2ANnz9Yz84AjRvQbesAN0y) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Let Me Be Me](https://open.spotify.com/album/6ZKIfOnERnUGU5vm73Q68B) | 3:05 | 2025-03-28 |  |
 | [Let Me Know Your Heart](https://open.spotify.com/track/5yr3RAKFt4K64FkxgFWfPZ) | [Makav 真愛](https://open.spotify.com/artist/6dI8nYKfnYDpPr3Z4shaLm) | [寶藏 Treasure](https://open.spotify.com/album/1iC0JGbLqwkkBcGZsgwSbJ) | 4:30 | 2024-06-13 | 2024-07-01 |
 | [Litchi Red](https://open.spotify.com/track/0rCaItAeve5mL7mQzDqLD9) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Litchi Red](https://open.spotify.com/album/0otNdk9nGnf02BgnjWdSH6) | 3:06 | 2025-05-08 |  |
-| [Little Battle](https://open.spotify.com/track/0ulzcJL3ZvQPTpWiBWfNB2) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [Little Battle](https://open.spotify.com/album/1NCB6fYczTAYv1hgbAL3ia) | 1:52 | 2025-04-17 |  |
+| [Little Battle](https://open.spotify.com/track/0ulzcJL3ZvQPTpWiBWfNB2) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [Little Battle](https://open.spotify.com/album/1NCB6fYczTAYv1hgbAL3ia) | 1:52 | 2025-04-17 | 2025-05-23 |
 | [Live Inside My Dream](https://open.spotify.com/track/1QUTGG3Zwn84S4BgsFzwQL) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [People In My Mind](https://open.spotify.com/album/6Obtw6DnxJsR0Nik3tO64W) | 4:57 | 2025-02-27 | 2025-03-29 |
 | [Looonely](https://open.spotify.com/track/1lBxGvrnW7wUVfPNurc9Wj) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T), [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [OOG](https://open.spotify.com/artist/5UG5vVkxLw3HdVJrrxgFqD) | [越洋電話, Vol\. 1](https://open.spotify.com/album/4PsbzDRyyoTbZ9TfN68l97) | 3:55 | 2024-03-28 | 2024-08-23 |
 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-05 | 2025-01-03 |
@@ -292,6 +292,7 @@
 | [The Way We Were \- Remix](https://open.spotify.com/track/4mBjUaCp1tituvl2n9azzE) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [The Way We Were \(Remix\)](https://open.spotify.com/album/3mZj6uUirkPHRde458W9R2) | 3:49 | 2024-01-25 | 2024-03-29 |
 | [Thinking About You](https://open.spotify.com/track/5JDoRZ0rgo9cbvSsCdFJQt) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [Thinking About You](https://open.spotify.com/album/4m1mEGiXCzSqOm4l7Caroe) | 3:16 | 2024-01-25 | 2024-08-09 |
 | [This is My World](https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [This is My World](https://open.spotify.com/album/3F6Sw8AR9dUt4n3Z0e17YX) | 4:41 | 2024-09-26 | 2024-10-18 |
+| [through the echoes](https://open.spotify.com/track/3v6c70hy2lWTisOBOJRiY5) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [through the echoes](https://open.spotify.com/album/5uqI4OPlSpqSRHQ9YkSrdG) | 4:14 | 2025-05-22 |  |
 | [TIME](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [TIME](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 | 2024-10-24 | 2024-11-15 |
 | [Tiramisu \(feat\. BRADD\)](https://open.spotify.com/track/6r3WwbBueAgeJfBTUERMpS) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [June's MENU](https://open.spotify.com/album/7qQyA6FeouGYqFfnHdV4QX) | 4:04 | 2024-10-03 | 2024-11-08 |
 | [To My Audience](https://open.spotify.com/track/6qQsWs0vbFbFsr6Mroh20x) | [Kalabebe](https://open.spotify.com/artist/1MUaWt8Y92WoQfhLnjumVZ) | [Be My Guest](https://open.spotify.com/album/6RFsBhZK7IWIZirIU2oS3X) | 3:11 | 2024-01-25 |  |

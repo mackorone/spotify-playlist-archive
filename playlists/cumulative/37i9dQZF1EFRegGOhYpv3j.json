@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/0NRMQWeLiLHKubdUSAzz2V"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210674,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5KIZ2mEfechClRNZqq0X0S"
+    },
+    {
+      "album": {
         "name": "Tulip Drive",
         "url": "https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL"
       },

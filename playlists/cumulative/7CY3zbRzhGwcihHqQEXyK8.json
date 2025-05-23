@@ -1203,7 +1203,25 @@
     },
     {
       "album": {
-        "name": "Bang! (feat. Hayley Kiyoko) [AhhHaa Remix]",
+        "name": "Bang! (Remixes)",
+        "url": "https://open.spotify.com/album/0LzG2yUFam5JA6eVHJ8Mlq"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163263,
+      "name": "Bang! - Acoustic",
+      "url": "https://open.spotify.com/track/3GgOfbqyLG6TsT2a9FfbRU"
+    },
+    {
+      "album": {
+        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
         "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
       },
       "artists": [
@@ -1224,26 +1242,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167649,
-      "name": "Bang! (feat. Hayley Kiyoko) - AhhHaa Remix",
+      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
       "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
-    },
-    {
-      "album": {
-        "name": "Bang! (Remixes)",
-        "url": "https://open.spotify.com/album/0LzG2yUFam5JA6eVHJ8Mlq"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "date_added": "2024-12-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163263,
-      "name": "Bang! - Acoustic",
-      "url": "https://open.spotify.com/track/3GgOfbqyLG6TsT2a9FfbRU"
     },
     {
       "album": {

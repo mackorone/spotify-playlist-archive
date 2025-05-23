@@ -4,7 +4,7 @@
 
 > Music from Young Thug, Drake and Lil Tecca.
 
-2,378 songs - 5 day 3 hr 10 min
+2,379 songs - 5 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2065,6 +2065,7 @@
 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 | 2023-08-04 | 2023-11-04 |
 | [The Parables](https://open.spotify.com/track/0uinQuLSYDMua89kLVVnjv) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Parables](https://open.spotify.com/album/2r50ydw2FOuiffavTsvXAM) | 3:14 | 2020-11-25 | 2021-02-06 |
 | [The Plan \- From the Motion Picture "TENET"](https://open.spotify.com/track/551xyaSJsg8hILXFq9JdST) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Plan \(From the Motion Picture "TENET"\)](https://open.spotify.com/album/3S4AQxtnqGJOtw1k6ZT111) | 3:05 | 2020-08-22 | 2020-09-04 |
+| [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2025-05-22 |  |
 | [The Relays \(feat\. Travis Scott\)](https://open.spotify.com/track/3tA12hlBltPtw6ArshsopB) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Brandon Banks](https://open.spotify.com/album/2E5FdSQ0pyo7LHW7XxMYUi) | 2:57 | 2019-07-20 | 2019-07-26 |
 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 | 2022-01-14 | 2022-03-12 |
 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 | 2020-04-24 | 2020-08-07 |

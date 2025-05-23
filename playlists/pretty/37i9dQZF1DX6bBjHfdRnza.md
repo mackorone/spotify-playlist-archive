@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring Matsu\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,309 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,383 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 28 | [If U Believe](https://open.spotify.com/track/1YQyG2YBapjFhObkpqNFyL) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU) | [Flow \(Deluxe Edition\)](https://open.spotify.com/album/5gSc1fuxTEZJR14kG0krhM) | 2:40 |
 | 29 | [Back to You](https://open.spotify.com/track/0Faw8f2myhjtZrE3MUYfu5) | [Evenity](https://open.spotify.com/artist/2xvIl9tkJtch2KY7rbRsjv) | [Back to You](https://open.spotify.com/album/17FWRvyqViodC7t5q4lZHR) | 2:42 |
 | 30 | [Deep In My Soul](https://open.spotify.com/track/67P8gf3dsZ9pK72GPcxXno) | [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd) | [Deep In My Soul](https://open.spotify.com/album/6aEztid0k8M1whcWZvBRYF) | 3:10 |
-| 31 | [Dime Girl](https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl) | [Dime Girl](https://open.spotify.com/album/68P4N1NCqbfbTjdtIgPD5c) | 4:46 |
+| 31 | [Dime Girl](https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dime Girl](https://open.spotify.com/album/68P4N1NCqbfbTjdtIgPD5c) | 4:46 |
 | 32 | [ineedu](https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ineedu](https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms) | 2:25 |
 | 33 | [Drift Away](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Drift Away](https://open.spotify.com/album/3dS3AMtub7QTdqzvJn6YvH) | 3:48 |
 | 34 | [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Pesadão](https://open.spotify.com/track/5e43krT4xSgcaFvnxNC00J) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4), [Shuga](https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE) | [Pesadão](https://open.spotify.com/album/54aqaVNIfHMguULs5Cdt4i) | 3:16 |
 | 100 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
 
-Snapshot ID: `aC4xDQAAAAByGdNLYAmMmHSYGRv2xvBv`
+Snapshot ID: `aC6hmQAAAABL4Tf0Fs0gmRmsA/850ccB`

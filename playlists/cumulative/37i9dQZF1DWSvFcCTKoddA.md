@@ -4,7 +4,7 @@
 
 > Découvrez les créateurs de demain.
 
-128 songs - 4 day 0 hr 57 min
+128 songs - 4 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,12 @@
 | [Analyse de société\(+ma life\) : être une femme maghrébine et sortir avec un rebeu](https://open.spotify.com/episode/4FELqDBlUsSRictVSyNYft) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 54:19 | 2024-04-25 | 2024-07-23 |
 | [Anaïs et Marie retombent en enfance avec «Toy Story»](https://open.spotify.com/episode/0Y5l3SauyfnWbskDnniSWx) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 49:13 | 2024-10-08 | 2024-11-13 |
 | [Ancien prisonnier, je suis devenu chef d'entreprise](https://open.spotify.com/episode/3dPdc7n5LtTDv4BQuqBFnG) | [Cordialement, Zoé](https://open.spotify.com/show/4dcaPuhsdUzzZC80cRuc9x) | [Cordialement, Zoé](https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x) | 31:10 | 2023-10-05 | 2024-04-26 |
-| [Avant de respirer le paillasson](https://open.spotify.com/episode/39rHDa32wV8ymvjXMyXnpb) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:14:29 | 2025-01-28 |  |
+| [Avant de respirer le paillasson](https://open.spotify.com/episode/39rHDa32wV8ymvjXMyXnpb) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:12:27 | 2025-01-28 |  |
 | [Avant la barbiche de front ft\. SML](https://open.spotify.com/episode/0oqGsuGYhJMzooNkwaeiZK) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:10:51 | 2023-10-05 | 2024-04-26 |
-| [Avant le gouda tiède](https://open.spotify.com/episode/4TJ8JgYMJr2ExTFYJNLBTE) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:00:09 | 2025-01-28 |  |
+| [Avant le gouda tiède](https://open.spotify.com/episode/4TJ8JgYMJr2ExTFYJNLBTE) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:03:52 | 2025-01-28 |  |
 | [Avant le mythe des tongs\-mocassins](https://open.spotify.com/episode/2LAuS7vFNR1RNramVZHDiq) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:00:35 | 2023-10-05 | 2024-04-26 |
 | [Avant les amours de vacances](https://open.spotify.com/episode/3i9DiXsg1TvxEOSB4f7Tij) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 54:46 | 2023-10-05 | 2024-04-26 |
-| [Avant les conversations de fluncheuses](https://open.spotify.com/episode/4IqA4R188ehtNmeXnx5nc8) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:12:40 | 2025-01-28 |  |
+| [Avant les conversations de fluncheuses](https://open.spotify.com/episode/4IqA4R188ehtNmeXnx5nc8) | [4 Quarts d'Heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 Quarts d'Heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:13:32 | 2025-01-28 |  |
 | [bilan du mois de décembre & mes favoris](https://open.spotify.com/episode/2Eq61PVGDkfMc6iqFufDGN) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 16:59 | 2025-01-06 | 2025-02-11 |
 | [BYE MR.BIG \- RUPTURE PARTIE 1.](https://open.spotify.com/episode/5FbkZgV6v942moEtAXZ6xq) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 36:53 | 2024-07-22 | 2024-09-24 |
 | [ces 5 choses à faire pour passer une bonne journée](https://open.spotify.com/episode/09fW0emSNbnpontHg5WZRx) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 14:22 | 2025-02-10 |  |

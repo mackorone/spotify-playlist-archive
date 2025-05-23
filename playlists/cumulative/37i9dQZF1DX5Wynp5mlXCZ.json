@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Damiano David",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: LATEXFAUNA",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Don't Cry, Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Don't Cry, Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
+    },
+    {
+      "album": {
         "name": "DVD",
         "url": "https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6"
       },
@@ -890,6 +908,24 @@
       "duration_ms": 246007,
       "name": "FeeltheLove",
       "url": "https://open.spotify.com/track/0VUCyV3wA2iAYnzCZCNvhF"
+    },
+    {
+      "album": {
+        "name": "Femina Magna",
+        "url": "https://open.spotify.com/album/4At9kWVMxg96zu2KdFyASm"
+      },
+      "artists": [
+        {
+          "name": "GRISANA",
+          "url": "https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125400,
+      "name": "Femina Magna",
+      "url": "https://open.spotify.com/track/2HPW2FkWUZVbzafaT8PUDm"
     },
     {
       "album": {
@@ -1979,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
+    },
+    {
+      "album": {
         "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
@@ -2044,7 +2098,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 174255,
       "name": "my sea",
       "url": "https://open.spotify.com/track/7xrZKi5jw6GNQlEjbkTI4c"
@@ -2142,6 +2196,24 @@
       "duration_ms": 190760,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
+    },
+    {
+      "album": {
+        "name": "Nich",
+        "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230660,
+      "name": "Nich",
+      "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
     },
     {
       "album": {
@@ -2738,7 +2810,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 155744,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/5pyo1cM0fR2EDJwHLkdOSh"
@@ -2868,7 +2940,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 171176,
       "name": "Stomach Butterflies",
       "url": "https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG"
@@ -3664,7 +3736,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
@@ -3766,7 +3838,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 165028,
       "name": "\u0410\u043a\u0430\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u"
@@ -3810,6 +3882,24 @@
       "duration_ms": 159692,
       "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
       "url": "https://open.spotify.com/track/7tZhv0C5uC5lH7fhheFuRH"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0430\u043b\u043a\u043e\u043d\u0438",
+        "url": "https://open.spotify.com/album/1Zkwp9SEuVoAqZb62NITZe"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "\u0411\u0430\u043b\u043a\u043e\u043d\u0438",
+      "url": "https://open.spotify.com/track/2lzFiA4s2GfjRFDomh8oYD"
     },
     {
       "album": {
@@ -3922,7 +4012,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 171071,
       "name": "\u0412 \u041c\u043e\u0457\u043c \u0421\u0435\u0440\u0446\u0456",
       "url": "https://open.spotify.com/track/1M1NqnPJSvFxWfw9dUVHLl"
@@ -4110,7 +4200,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
@@ -4266,7 +4356,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 152347,
       "name": "\u0414\u043e\u043d\u0431\u0430\u0441 - \u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/6yNy7FmpgcmNxFepoKEfet"
@@ -4491,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "Nova Era",
+        "url": "https://open.spotify.com/album/733WEbkU1APj1Y2KlR51W8"
+      },
+      "artists": [
+        {
+          "name": "The Maneken",
+          "url": "https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199804,
+      "name": "\u0417\u0443\u043f\u0438\u043d\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/4yWrbc8k9R2Ot7GU8BhItt"
+    },
+    {
+      "album": {
         "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
         "url": "https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG"
       },
@@ -4658,7 +4766,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 153777,
       "name": "\u041a\u043e\u043c\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/1uKrEkG8aRqiPW7D0OwkOY"
@@ -5110,7 +5218,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 205500,
       "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay"
@@ -5262,7 +5370,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 169354,
       "name": "\u041d\u0430\u0434\u0456\u044f",
       "url": "https://open.spotify.com/track/6aXnYkG6BhDkVC0APjkjtw"
@@ -5502,6 +5610,24 @@
       "duration_ms": 168000,
       "name": "\u041e\u0440\u0431\u0456\u0442\u0438",
       "url": "https://open.spotify.com/track/2EUtede0ZdQHWZxmD0jajP"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0440\u0456\u0433\u0430\u043c\u0456",
+        "url": "https://open.spotify.com/album/7wSoBkBSN9gZoNCF5m3Dc6"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
+          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "\u041e\u0440\u0456\u0433\u0430\u043c\u0456",
+      "url": "https://open.spotify.com/track/2rdg667wpCwYCqO3JIaYrE"
     },
     {
       "album": {

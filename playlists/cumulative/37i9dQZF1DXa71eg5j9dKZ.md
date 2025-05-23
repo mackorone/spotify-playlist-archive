@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Sofia Kourtesis, Daphni
+> The home for alternative electronic music\. Cover: Juno Mamba, edapollo
 
-1,191 songs - 3 day 9 hr 33 min
+1,193 songs - 3 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A Call Out For Love](https://open.spotify.com/track/4CwiAGMzgLZf0K5fhPRIz8) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [A Call Out For Love](https://open.spotify.com/album/0etWkVuK3tK4Vmfc3Moduv) | 3:26 | 2021-11-24\* | 2021-12-10 |
 | [A Good Place](https://open.spotify.com/track/63Z07zVXKkyankXjpmFEfr) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5) | [A Good Place](https://open.spotify.com/album/3LgIiQCh67KIotDdeYdF2x) | 3:47 | 2021-11-24\* | 2021-12-03 |
 | [A Place 4 MNU](https://open.spotify.com/track/6Fi1TgD8DWMUOWxpQJ4KdK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Close Your Eyes EP](https://open.spotify.com/album/2FJ7LaaSoZomKicEuSdzwy) | 5:37 | 2022-04-01 | 2022-07-08 |
+| [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 | 2025-05-22 |  |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-01 | 2023-01-13 |
 | [Above All Else](https://open.spotify.com/track/3lJOhlC7WMEOfldrkTLpIX) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Small\-Scale Experimental Machine](https://open.spotify.com/album/21FWErRPZbs6NDoLGFNF9I) | 4:53 | 2022-04-15 | 2022-08-05 |
 | [Acid in My Blood](https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Acid / Ganzfeld 12”](https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S) | 4:28 | 2022-03-25 | 2022-06-10 |
@@ -285,7 +286,7 @@
 | [Drift Into The Algorithm](https://open.spotify.com/track/0AwtLf2UOh0t44HsyYh7yE) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Drift Into The Algorithm](https://open.spotify.com/album/2EQtMCY4fIESQ6XR2Yi0Md) | 5:19 | 2023-10-06 | 2024-02-23 |
 | [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 | 2024-07-18 | 2024-10-25 |
 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 | 2023-06-01 | 2023-09-15 |
-| [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 | 2024-11-15 |  |
+| [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 | 2024-11-15 | 2025-05-23 |
 | [druzy@ \- Scuba's Bassdrive Refix](https://open.spotify.com/track/6xBSfBYq1jxwML0cxwQup7) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [druzy@ \(Scuba's Bassdrive Refix\)](https://open.spotify.com/album/08s7An3RglP3KfuFDWDiZA) | 4:42 | 2023-12-01 | 2024-04-19 |
 | [Duofade](https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Duofade](https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK) | 3:56 | 2023-12-08 | 2024-05-17 |
 | [Dusted](https://open.spotify.com/track/7pcGzNF6WLZRvSMpBwF5Ww) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Leonce](https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc) | [Dusted](https://open.spotify.com/album/76AiAMrcIHWRjK8kgNVy0Z) | 3:14 | 2025-02-07 |  |
@@ -388,7 +389,7 @@
 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 | 2024-11-15 |  |
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2022-05-27 | 2022-08-27 |
 | [formula](https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [formula](https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW) | 2:49 | 2025-03-21 |  |
-| [Found Ourselves](https://open.spotify.com/track/6gQoKQoVI4UZw9F8Q1UTPs) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Found Ourselves](https://open.spotify.com/album/6gQ1L1nRRetrcLF1riF2Rc) | 4:53 | 2024-11-29 |  |
+| [Found Ourselves](https://open.spotify.com/track/6gQoKQoVI4UZw9F8Q1UTPs) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Found Ourselves](https://open.spotify.com/album/6gQ1L1nRRetrcLF1riF2Rc) | 4:53 | 2024-11-29 | 2025-05-23 |
 | [Four Thirty](https://open.spotify.com/track/3GRzGFVipiF8cDS3heRdoP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Focus](https://open.spotify.com/album/6ZfkXGIGWjgk7SUn0rOB3S) | 2:43 | 2023-06-08 | 2023-11-03 |
 | [Foxes](https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Foxes](https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD) | 4:15 | 2023-09-15 | 2023-10-15 |
 | [Foxes](https://open.spotify.com/track/3WLckRK4Skgl9kl7DYTxxU) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB) | 4:15 | 2024-01-12 | 2024-02-23 |
@@ -669,6 +670,7 @@
 | [Mandé](https://open.spotify.com/track/3ydhof4E7ANkc33BdTIkLZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Dopa La Vita / Mandé](https://open.spotify.com/album/7FESkU8kbkDSGaGhXUjWHu) | 6:03 | 2022-01-14 | 2022-05-20 |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-12 | 2022-11-25 |
 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 | 2023-04-20 | 2023-09-15 |
+| [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 | 2025-05-22 |  |
 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 | 2023-08-24 | 2024-01-13 |
 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-12-28 | 2022-01-14 |
 | [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 | 2025-05-08 |  |

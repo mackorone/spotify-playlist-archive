@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Haniya Nafisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,194 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,199 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 6 | [Bejaar](https://open.spotify.com/track/6baXCjHU052V7OFZkRugaE) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Bejaar](https://open.spotify.com/album/4G12BeqRBBkgFpY4NmH1QE) | 2:48 |
 | 7 | [Kanmashi](https://open.spotify.com/track/2pHekrQI1PBtRpIcf7IlYv) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [Fatboi Raccoon](https://open.spotify.com/artist/3jZDhH5RtA8K1L61tvUdl4), [Arch Quasar](https://open.spotify.com/artist/41GzR7hUjEGsIduP9UmPQl) | [Kanmashi](https://open.spotify.com/album/58K49jGr06oQaWHeV8U9kS) | 3:21 |
 | 8 | [Chaliye Rani](https://open.spotify.com/track/1MkV4LbxSmW0S9mP2DoPAk) | [Himna Hilari](https://open.spotify.com/artist/1VVEKPxaTnYrNeO1dKp9vT), [Hinitha Hilary](https://open.spotify.com/artist/5qfJ6kEOLgOveQ4T1Zec0O), [Ebin Pallichan](https://open.spotify.com/artist/5adupl0QWDO9lNgtKss4sZ) | [Chaliye Rani](https://open.spotify.com/album/5XCeIqWUVCfwwMHGhtZ2wi) | 2:04 |
-| 9 | [Pachamanga](https://open.spotify.com/track/3HtBCLFlW4vFJJuCLUrPI1) | [Mangosteen Club](https://open.spotify.com/artist/40EvoVRcJ7rhSe5rkSnWUt), [Anuja Unni](https://open.spotify.com/artist/1jILWc7pKfH7yGtXI98RB5), [Hariprasad SR](https://open.spotify.com/artist/3gZVKc4MshUyPATDOzv2Ga), [Ajay Jishnu Sudheyan](https://open.spotify.com/artist/1kbcj7EIQ78QLZFwKTEYLY), [Navjyoth S](https://open.spotify.com/artist/2TkoWHpkIPiV1Vwz7Rw8rM) | [Pachamanga](https://open.spotify.com/album/6OPSRzUgUBpuPvHkHKwbGF) | 3:00 |
+| 9 | [Pachamanga](https://open.spotify.com/track/3HtBCLFlW4vFJJuCLUrPI1) | [Mangosteen Club](https://open.spotify.com/artist/40EvoVRcJ7rhSe5rkSnWUt), [Anuja Unni](https://open.spotify.com/artist/1jILWc7pKfH7yGtXI98RB5), [Hariprasad SR](https://open.spotify.com/artist/3gZVKc4MshUyPATDOzv2Ga), [Ajay Jishnu Sudheyan](https://open.spotify.com/artist/1kbcj7EIQ78QLZFwKTEYLY) | [Pachamanga](https://open.spotify.com/album/6OPSRzUgUBpuPvHkHKwbGF) | 3:00 |
 | 10 | [Thooveyil](https://open.spotify.com/track/2DPKPyfC6UKdQO0oLNQHdx) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Thooveyil](https://open.spotify.com/album/7id2rLVo4RYf2G650usQc9) | 2:56 |
 | 11 | [Qiyamah](https://open.spotify.com/track/0CxqNmgWofnikiYUfoulmw) | [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6) | [Qiyamah](https://open.spotify.com/album/4Uk9qGCVATwNRzNzVaVx96) | 3:00 |
 | 12 | [OLU](https://open.spotify.com/track/0Fdx9OiTsE3zr0G24n5viK) | [Sage End](https://open.spotify.com/artist/1LcEVfkI3SVWHfrnOUxPyE), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [OLU](https://open.spotify.com/album/1XDYboKfWaf7serLJjPujU) | 3:35 |

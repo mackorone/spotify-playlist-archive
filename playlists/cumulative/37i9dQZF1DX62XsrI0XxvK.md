@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: gabsav
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Jebung
 
-108 songs - 6 hr 34 min
+111 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dirimu Yang Lain](https://open.spotify.com/track/61PwUvjOss36ZA2jNaRYIo) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Dirimu Yang Lain](https://open.spotify.com/album/3POl8Gp0VAVrtTwTgrq3eK) | 4:16 | 2025-01-30 |  |
 | [Djakarta](https://open.spotify.com/track/4rfdBCU8fRgmtwpuR0rCOQ) | [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Djakarta](https://open.spotify.com/album/0M8VdQEeFGKbuJ1LutcvmX) | 3:56 | 2024-10-03 |  |
 | [Do Right Baby!](https://open.spotify.com/track/7iR9lD79PCHKBdliUNNLSY) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Do Right Baby!](https://open.spotify.com/album/0lOMc60o5tKvGONQttYUNi) | 4:53 | 2024-10-03 |  |
+| [Do What We Do](https://open.spotify.com/track/1h426ghuQ1iAgHIaHsWmEM) | [Salon RnB](https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7), [Madukina](https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ), [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [Do What We Do](https://open.spotify.com/album/3aeTXYLhgW3SMTYMTYLenE) | 4:34 | 2025-05-22 |  |
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-10-03 | 2025-05-02 |
 | [Falling in Love in Jakarta](https://open.spotify.com/track/0QteQ3SwYCkPGAoQ6YfQKZ) | [Alvin Jo](https://open.spotify.com/artist/3MnsmeScJneDmgu8u3OeNL) | [Falling in Love in Jakarta](https://open.spotify.com/album/5dAAPRXAiD8bKPeKa3Yo5X) | 4:17 | 2024-10-03 | 2025-05-02 |
 | [Gadisku](https://open.spotify.com/track/4cJ0rC60m1KNCq9Ie0rGje) | [Mike Mohede](https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Gadisku](https://open.spotify.com/album/6WbER6eqWKwSJCP2Tt1Cs9) | 3:29 | 2024-11-07 |  |
@@ -53,7 +54,9 @@
 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2024-10-03 |  |
 | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/track/7jVreiuVEbCk86gW9IRpou) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/album/1ulNzGRi72yRkgzyQsogJv) | 3:07 | 2025-02-14 |  |
 | [Jangan pernah](https://open.spotify.com/track/19LPjG1o8NvdveiD6p1s3v) | [Rutinitas Pagi](https://open.spotify.com/artist/341CEIcTf5f6ucLhiViNRd) | [Jangan pernah](https://open.spotify.com/album/4VCZ2bGOwcr6KoyYaQQUNx) | 3:40 | 2024-12-20 |  |
+| [Jawab Aku](https://open.spotify.com/track/4uAzEeTdzl7vYcLvua55oc) | [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Jawab Aku](https://open.spotify.com/album/0cYjH0dc1T885wVjQgFimg) | 3:45 | 2025-05-22 |  |
 | [Kau Pilih Dia](https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH), [Mas Jordan](https://open.spotify.com/artist/60DER02sQPfuD32Y5e5LC1), [Malikoendang](https://open.spotify.com/artist/5F8bwX8A27eKQp8FZw0fZI) | [Kau Pilih Dia](https://open.spotify.com/album/2fiSKPE4Ki58GVOnlwjcfR) | 4:01 | 2024-10-03 |  |
+| [Kembali](https://open.spotify.com/track/76yvmHDxe0lISOmgDsDV3X) | [Christo Edgar](https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Kembali](https://open.spotify.com/album/3iO4HlncpgrtG0VFvoSxKp) | 2:51 | 2025-05-22 |  |
 | [Kembali Masa Lalu](https://open.spotify.com/track/3c4MPWhrFieS1yBONSsZ5v) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3), [Radinal](https://open.spotify.com/artist/3LCQli4pQCvLWw72Z9Y7gC) | [Kembali Masa Lalu](https://open.spotify.com/album/1e8S6A30RdxsRjySznTpGb) | 3:06 | 2024-10-03 | 2025-05-02 |
 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 | 2024-12-20 |  |
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-09 |  |

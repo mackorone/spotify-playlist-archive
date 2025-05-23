@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 14744,
+  "num_followers": 14759,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCvGAAAAAACub8Bat7pJlM4hgrixJPVR",
+  "snapshot_id": "aC0XgAAAAABiq7+kiCe4Nr/ULzN0gQcM",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 222601,
-      "name": "I Still Wear This Crown",
-      "url": "https://open.spotify.com/track/7i3dC9nVXgPFKxnxMUp9ve"
+      "duration_ms": 198185,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/3FFLu7fSNyxsYNCFZnlj3Q"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 198185,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/3FFLu7fSNyxsYNCFZnlj3Q"
+      "duration_ms": 222601,
+      "name": "I Still Wear This Crown",
+      "url": "https://open.spotify.com/track/7i3dC9nVXgPFKxnxMUp9ve"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 194027,
-      "name": "Will To Live",
-      "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 194027,
+      "name": "Will To Live",
+      "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Black",
         "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 210160,
       "name": "Sorrow I Know",
       "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "Whisper Of Death",
+      "url": "https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 176042,
       "name": "Around Your Heart",
       "url": "https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "Whisper Of Death",
-      "url": "https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q"
     },
     {
       "added_at": null,

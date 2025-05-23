@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=9irtkBtMTSS292J3f\_t4ew">Sminofu</a> & <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=ofQ6fp07T6CthU19JmDU\-g">Zee Nxumalo</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=QjLWevRtR1CtFV87y37SlQ">Khuzani</a>
 
-243 songs - 19 hr 23 min
+244 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Imbizo](https://open.spotify.com/track/2UZruglT1zTqdfT1RffTjZ) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Grand Masters Collection: African Roots](https://open.spotify.com/album/3TZZsyFNPwYd6U7HngzQ0R) | 3:58 | 2018-09-25 | 2022-11-13 |
 | [Imbizo](https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce) | 3:58 | 2018-09-25 | 2023-03-10 |
 | [Imbizo](https://open.spotify.com/track/2Kg74EtKg8Lo18r1cUtZBV) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/75ZCcbvBeLAzlzM6aDmcml) | 3:59 | 2018-09-25 | 2022-08-27 |
+| [Imbongolo](https://open.spotify.com/track/7csLHpTInB2j139r7suTET) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Sphesihle](https://open.spotify.com/artist/0bLiVRnGVidMR9P5Cycy5S) | [Angidlali Nezingane](https://open.spotify.com/album/7FKPvAqAJcGxuDvyOfcV0s) | 4:30 | 2025-05-22 |  |
 | [Imfolomane](https://open.spotify.com/track/4AzyXKfE7vRXvbgGDJVmQU) | [Igcokama elisha](https://open.spotify.com/artist/0CfaRCWMy2aXtbVQPCGG15) | [Imfolomane](https://open.spotify.com/album/35X0OmXW0Bja31Gf6hWlCF) | 6:14 | 2023-01-30 | 2023-03-25 |
 | [Imikhuba](https://open.spotify.com/track/26ShN8gJb3wLqgLAA9dUSD) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/0xW1FZv5b6GM6hixos2FDu) | 4:11 | 2018-09-25 | 2022-09-26 |
 | [Imikhuba](https://open.spotify.com/track/4SlVGHwa8dQDr8hAa8ZiDf) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [The Ultimate Collection: Phuzekhemisi](https://open.spotify.com/album/4abzxM3Cy35Dg5Mmjwg8ud) | 4:11 | 2018-09-25 | 2022-11-13 |
@@ -176,7 +177,7 @@
 | [Phakathi Komhlane nembeleko](https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:18 | 2021-10-12 | 2023-04-30 |
 | [Phumani Ematarven](https://open.spotify.com/track/78eZeVX1CsiqZ3aD10HjhT) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [iPolotiki](https://open.spotify.com/album/7fVwjMqcNty3YMad1n9BIg) | 4:34 | 2024-11-14 | 2025-01-25 |
 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 | 2018-09-25 | 2023-02-17 |
-| [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 |  |
+| [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 | 2025-05-23 |
 | [Rush Hour](https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Rush Hour](https://open.spotify.com/album/2mIgt4Y26nVZB7S4RQJ3ma) | 4:31 | 2024-11-07 |  |
 | [S'kushaya Isdakwa](https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [S'kushaya Isdakwa](https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy) | 4:03 | 2023-02-23 | 2024-01-19 |
 | [Sajola Kamnandi](https://open.spotify.com/track/2QVyLdd8FNg33pm5qfju1g) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [Sajola Kamnandi](https://open.spotify.com/album/7mXvm4Rf4JTepqsSMhYPJO) | 4:14 | 2025-04-24 |  |

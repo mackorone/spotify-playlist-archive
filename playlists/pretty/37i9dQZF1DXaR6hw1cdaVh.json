@@ -559,6 +559,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Tricarico",
+        "url": "https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG"
+      },
+      "artists": [
+        {
+          "name": "Tricarico",
+          "url": "https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Io Sono Francesco",
+      "url": "https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 141961,
       "name": "Tutto il resto \u00e8 noia (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Tricarico",
-        "url": "https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG"
-      },
-      "artists": [
-        {
-          "name": "Tricarico",
-          "url": "https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Io Sono Francesco",
-      "url": "https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga"
     },
     {
       "added_at": "2025-03-03 09:30:09",

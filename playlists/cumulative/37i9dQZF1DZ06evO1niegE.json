@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Antonio El Sincero",
+        "url": "https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML"
+      },
+      "artists": [
+        {
+          "name": "Tony True and the Tijuana Tres",
+          "url": "https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177728,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5"
+    },
+    {
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },

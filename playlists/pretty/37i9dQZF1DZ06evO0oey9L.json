@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 93852,
+  "num_followers": 93870,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCvGAAAAAADrtlxbaShzlNJaRBjzFWSR",
+  "snapshot_id": "aC0XgAAAAAAMHpJLhlXzo6y6UZUio1JE",
   "tracks": [
     {
       "added_at": null,
@@ -403,38 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 153289,
-      "name": "JJ Es La Clave",
-      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Destapo Un Bote",
-        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 180166,
-      "name": "Me Destapo Un Bote",
-      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
       },
@@ -451,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 153289,
+      "name": "JJ Es La Clave",
+      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
         "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 241444,
       "name": "Los de La Casa",
       "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Destapo Un Bote",
+        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180166,
+      "name": "Me Destapo Un Bote",
+      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
     },
     {
       "added_at": null,

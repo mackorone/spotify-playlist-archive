@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/introducing-lorem-and-friends?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Check out our May newsletter!</a> Cover: Jim-E Stack, producer extraordinaire",
+  "description": "<a href=\"https://loremandfriends.substack.com/p/put-me-on-a-porch-with-a-crispy-beverage\">Check out our May newsletter!</a> Cover: Jim-E Stack, producer extraordinaire",
   "name": "Lorem",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 141768,
       "name": "A baby girl named Heaven",
       "url": "https://open.spotify.com/track/4PWiV6RlqzS9dVNdCMBGEk"
@@ -10666,7 +10666,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 274012,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG"
@@ -16224,6 +16224,24 @@
       "duration_ms": 183402,
       "name": "elastic",
       "url": "https://open.spotify.com/track/6P1OAtvQe1cHPgecI4qwhn"
+    },
+    {
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "album": {
@@ -23242,10 +23260,28 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+    },
+    {
+      "album": {
+        "name": "Headlock (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220762,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
     },
     {
       "album": {
@@ -27870,7 +27906,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -33442,7 +33478,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 178083,
       "name": "Love90",
       "url": "https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7"
@@ -35767,6 +35803,24 @@
     },
     {
       "album": {
+        "name": "mistake",
+        "url": "https://open.spotify.com/album/6xgMu5oVnuyL4zIemZIX6f"
+      },
+      "artists": [
+        {
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165415,
+      "name": "mistake",
+      "url": "https://open.spotify.com/track/6wjznpOUm54iCCCT6Rgt6R"
+    },
+    {
+      "album": {
         "name": "Mixer",
         "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
@@ -37536,6 +37590,24 @@
       "duration_ms": 204000,
       "name": "Never Cared",
       "url": "https://open.spotify.com/track/5ZGidWqM4SKev5YSnFH9RK"
+    },
+    {
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/645zFwzeoDoEkkSLgup2oq"
     },
     {
       "album": {
@@ -47656,6 +47728,24 @@
       "duration_ms": 178676,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/25vHmfJEW6VimdhvyfpCFt"
+    },
+    {
+      "album": {
+        "name": "sit with you (pain)",
+        "url": "https://open.spotify.com/album/6ibXSghXvbjtGG95JEsdqm"
+      },
+      "artists": [
+        {
+          "name": "Jahnah Camille",
+          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "sit with you (pain)",
+      "url": "https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4"
     },
     {
       "album": {
@@ -57900,7 +57990,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 205870,
       "name": "Vespers",
       "url": "https://open.spotify.com/track/1TYDPK14xDwCsMiDMKxKru"
@@ -59246,7 +59336,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 217674,
       "name": "What Am I? / Radio Tower",
       "url": "https://open.spotify.com/track/6deE3pFCHfa7UrxFneKcFT"
@@ -61646,7 +61736,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"

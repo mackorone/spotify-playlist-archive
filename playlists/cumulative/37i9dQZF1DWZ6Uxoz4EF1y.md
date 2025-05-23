@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-175 songs - 15 hr 54 min
+176 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Me Entrego a Ti](https://open.spotify.com/track/1tjfTjSWNV1Fo6ZnDKrQaE) | [Alejandro Del Bosque](https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 5:02 | 2024-07-01 | 2025-01-07 |
 | [Me Entrego a Ti \(En Vivo\)](https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw) | [Alejandro Del Bosque](https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h) | [Sin Ti No Vivo \(En Vivo\)](https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy) | 4:59 | 2020-09-18 | 2024-04-19 |
 | [Me rindo a ti](https://open.spotify.com/track/1elgJB7cf8pf66fyIeQWzM) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/3slWjvvWZv9pqUgzkI0A22) | 4:51 | 2020-09-18 | 2024-04-19 |
-| [Me rindo a ti](https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa) | 4:51 | 2024-03-20 |  |
+| [Me rindo a ti](https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa) | 4:51 | 2024-03-20 | 2025-05-23 |
 | [Merecedor de Alabanza](https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:27 | 2023-04-09 |  |
 | [Mi Casa Y Yo](https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Mi Casa Y Yo](https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k) | 3:43 | 2020-09-18 |  |
 | [Mi Corazón Te Anhela](https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y) | [Andrea Bernal](https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6) | [Mi Corazón Te Anhela](https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE) | 4:55 | 2023-04-09 | 2024-02-16 |
@@ -163,6 +163,7 @@
 | [Su Sangre \- Radio Edit](https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um), [Jorge Caicedo](https://open.spotify.com/artist/2AahrkcBJ0W6cUW7zv8Y0P) | [Su Sangre](https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp) | 5:49 | 2024-03-20 |  |
 | [Su Vida Me Dio](https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth) | [Samuel Adrián](https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu) | [De Vuelta En Casa](https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S) | 4:55 | 2023-04-09 |  |
 | [Supe Que Me Amabas](https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 4:51 | 2020-09-18 | 2024-04-19 |
+| [Supe Que Me Amabas](https://open.spotify.com/track/74Wc3XWVHqglJEJYLOoYS4) | [Rolando Garcia](https://open.spotify.com/artist/7qBkNjeJFynM52DUiCHBI5) | [7 de Sus Éxitos](https://open.spotify.com/album/5NM8rW3JzYkUfyGi24MYhL) | 4:53 | 2025-04-06 |  |
 | [Sé Entronado \- Live](https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hunter Thompson](https://open.spotify.com/artist/0NjFV1dPOxLHtEn4sPhUTd) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 7:45 | 2023-04-09 |  |
 | [Te Amo Jesús](https://open.spotify.com/track/1G7lUahhD2iJZd8DTwkG9d) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ) | 3:33 | 2023-04-09 | 2024-04-19 |
 | [Te Amo Jesús](https://open.spotify.com/track/1OjgBiVillUN6xXgrZLkyg) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/5wRPQ3vuSsJOd4qCcbszFy) | 3:33 | 2024-03-20 | 2024-06-03 |

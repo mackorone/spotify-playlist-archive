@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 22 min
+89 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ciclos](https://open.spotify.com/track/6n1f4TRCr1G8OzgoZJDAqH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Cachola](https://open.spotify.com/artist/7J3EYB97apm5pjDU6kzife) | [Ciclos](https://open.spotify.com/album/6oX71svzC11H8IS3cgvH51) | 2:48 | 2023-09-18 | 2024-11-23 |
 | [DCAC \- de César a Cristo](https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luciane Dom](https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1) | [DCAC \- de César a Cristo](https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl) | 5:38 | 2023-11-10 |  |
 | [De Longe](https://open.spotify.com/track/5Abx2iApy5yzYgSUk7QciQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Shuna](https://open.spotify.com/artist/1fZ72u620OxAroHzfsFPAW) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:21 | 2024-07-19 |  |
+| [Drive Slow](https://open.spotify.com/track/7FJsOGDaIDO59ptmSlFrox) | [Joabe Reis](https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Drive Slow](https://open.spotify.com/album/4ZkYOm4XXMJvhc1ouMkEXx) | 5:55 | 2025-05-23 |  |
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-09-18 |  |
 | [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 | 2024-06-01 | 2025-01-30 |
 | [Eu e Tu](https://open.spotify.com/track/0mndNKokpOpH5OJYmp3D9v) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:35 | 2024-12-01 |  |

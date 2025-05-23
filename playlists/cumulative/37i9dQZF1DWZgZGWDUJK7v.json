@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: Myst, Might, Mayhem(\uad34\ub825\ub09c\uc2e0)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: Return Your Soul (\uadc0\ud63c)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "tracks": [
     {
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 233647,
       "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
       "url": "https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 255733,
       "name": "Moonlit Nights",
       "url": "https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm"
@@ -2622,6 +2622,24 @@
       "duration_ms": 184993,
       "name": "ReawakeR (feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
+    },
+    {
+      "album": {
+        "name": "Animation \u2018Red Fox\u2019 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1nJsCpyjioz6Jb3z9aT10M"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "Red Fox",
+      "url": "https://open.spotify.com/track/5Qp6CGwMYHrYLF52z2jogK"
     },
     {
       "album": {
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"

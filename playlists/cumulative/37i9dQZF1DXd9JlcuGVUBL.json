@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM?si=wEfaCt5MSqSzxgQT6UQ4Mg\">Morgan Wallen</a>  ",
+  "description": "Die beste country musiek. Omslag: Campbell Brothers",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 239453,
       "name": "4\u00d74\u00d7U",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168167,
+      "name": "BACK IN THE DAY",
+      "url": "https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh"
+    },
+    {
+      "album": {
         "name": "Backseat Driver",
         "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
       },
@@ -446,6 +464,46 @@
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "album": {
+        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+        "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        },
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+      "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
+    },
+    {
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/3Pxzub5bkHxT2LZrw7muFy"
+      },
+      "artists": [
+        {
+          "name": "Campbell Brothers",
+          "url": "https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187322,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/6vIQ1OZYwH4VI2LkwrMDaf"
     },
     {
       "album": {
@@ -612,7 +670,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 227373,
       "name": "Chasing Babies & Raising Dreams",
       "url": "https://open.spotify.com/track/1gVzLqaXlYXApWIK0Hnfvj"
@@ -746,6 +804,24 @@
       "duration_ms": 151000,
       "name": "Country Till I Die",
       "url": "https://open.spotify.com/track/1AwFtV87jGkDKHLm7OZcea"
+    },
+    {
+      "album": {
+        "name": "Cowboy Sh!t",
+        "url": "https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154438,
+      "name": "Cowboy Sh!t",
+      "url": "https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs"
     },
     {
       "album": {
@@ -894,7 +970,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 222473,
       "name": "Deur Die Winters",
       "url": "https://open.spotify.com/track/5kYfjmKb8nUGeTS7YBAslO"
@@ -1275,6 +1351,42 @@
     },
     {
       "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/15rS5gcBR61vgKdhFPAyPk"
+      },
+      "artists": [
+        {
+          "name": "John Casey",
+          "url": "https://open.spotify.com/artist/4zWpC2DxzDParrBvS2TSst"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186236,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/0fityCF7EVsUXZM71GsWAz"
+    },
+    {
+      "album": {
+        "name": "Hang Aan Jou Lippe",
+        "url": "https://open.spotify.com/album/1zQ2HCrBIraog6oB8Jga0z"
+      },
+      "artists": [
+        {
+          "name": "Wilma Van Heerden",
+          "url": "https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212057,
+      "name": "Hang Aan Jou Lippe",
+      "url": "https://open.spotify.com/track/0IldYj4nBc7OGAwRxnsvXF"
+    },
+    {
+      "album": {
         "name": "For Recreational Use Only",
         "url": "https://open.spotify.com/album/4m1rrBwb9R421U1CS0MzYV"
       },
@@ -1290,7 +1402,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 206626,
       "name": "Hangin\u2019 On",
       "url": "https://open.spotify.com/track/7Itz5KrLl0ITKRR1iYL7Ud"
@@ -1464,6 +1576,24 @@
       "duration_ms": 180000,
       "name": "hold on!",
       "url": "https://open.spotify.com/track/0XKQ1R0PW1Rv2iBg5ni9RV"
+    },
+    {
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7"
+      },
+      "artists": [
+        {
+          "name": "Maren Lein",
+          "url": "https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181187,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg"
     },
     {
       "album": {
@@ -1700,7 +1830,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 320961,
       "name": "I Wouldnt Call Her A Lady",
       "url": "https://open.spotify.com/track/3y5uRlx07IXurMiDBePrEs"
@@ -1946,7 +2076,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 163926,
       "name": "Kid Again",
       "url": "https://open.spotify.com/track/1U6Uhl1004YqrzDrkDMASv"
@@ -2618,7 +2748,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -2796,7 +2926,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 222998,
       "name": "Slow Dancing In A Burning Room - Spotify Singles",
       "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
@@ -2818,7 +2948,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 150218,
       "name": "Small Town Girls",
       "url": "https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD"
@@ -3122,7 +3252,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 188200,
       "name": "Superman",
       "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
@@ -3479,6 +3609,28 @@
     },
     {
       "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "album": {
         "name": "What Kinda Man",
         "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
       },
@@ -3605,6 +3757,28 @@
     },
     {
       "album": {
+        "name": "WHY (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
+    },
+    {
+      "album": {
         "name": "Wild & Free",
         "url": "https://open.spotify.com/album/6wsJg5FmpQdBc8rUHSzc1m"
       },
@@ -3692,6 +3866,24 @@
       "duration_ms": 212739,
       "name": "Wrong side of town",
       "url": "https://open.spotify.com/track/051jHFqpoMy8L56sXzX77m"
+    },
+    {
+      "album": {
+        "name": "Yes, I Know",
+        "url": "https://open.spotify.com/album/3IebSqR46WJAtVMSwJZPOn"
+      },
+      "artists": [
+        {
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223472,
+      "name": "Yes, I Know",
+      "url": "https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0"
     },
     {
       "album": {

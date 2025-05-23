@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 208461,
       "name": "favourite jeans",
       "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 224947,
       "name": "Samba Love",
       "url": "https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC"
@@ -1270,10 +1270,28 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "album": {
+        "name": "You'll Be In My Heart",
+        "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241776,
+      "name": "You'll Be in My Heart",
+      "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
     },
     {
       "album": {
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
@@ -1310,6 +1328,24 @@
       "duration_ms": 273535,
       "name": "Zarigani",
       "url": "https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e14\u0e35\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22 (RIPE) [Japanese Version]",
+        "url": "https://open.spotify.com/album/4UVVn8UTFPnTSYXV7NF7w4"
+      },
+      "artists": [
+        {
+          "name": "Benzkhaokhwan",
+          "url": "https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\u0e04\u0e34\u0e14\u0e14\u0e35\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22 (RIPE) - Japanese Version",
+      "url": "https://open.spotify.com/track/4rG2gNvos9eFfnGpNyP8Kr"
     },
     {
       "album": {
@@ -1425,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30f3\u30c0\u30eb",
+        "url": "https://open.spotify.com/album/5kt21vnqezeXOYVYTLydbS"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u60f3\u3044",
+          "url": "https://open.spotify.com/artist/74nDyelvbniQaGrB5D9QuQ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212143,
+      "name": "\u30b5\u30f3\u30c0\u30eb",
+      "url": "https://open.spotify.com/track/3LFJNwEvZ1wZmaTXOByCT8"
+    },
+    {
+      "album": {
         "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6 - Single",
         "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
       },
@@ -1472,7 +1526,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 220500,
       "name": "\u30de\u30cb\u30de\u30cb",
       "url": "https://open.spotify.com/track/7lFjSK6lMzWOLAF0yAoo21"

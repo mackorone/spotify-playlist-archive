@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Shiki",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: MIN",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 530268,
       "name": "BIGTEAM BIGDREAM",
       "url": "https://open.spotify.com/track/0uNiJnKGuiX9SaUoLpXG96"
@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
+      },
+      "artists": [
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227458,
+      "name": "DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6cc5PzJUddXskJGHJINw9F"
+    },
+    {
+      "album": {
         "name": "Ch\u00fac T\u1ebft 2025",
         "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
       },
@@ -2138,6 +2156,28 @@
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
+    },
+    {
+      "album": {
+        "name": "Em C\u00f2n Nh\u1edb Anh Kh\u00f4ng (Htingale X Ryuuko Remix)",
+        "url": "https://open.spotify.com/album/1xWTf7x8PVD447zkwkE44O"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng T\u00f4n",
+          "url": "https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f"
+        },
+        {
+          "name": "Koo",
+          "url": "https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148137,
+      "name": "Em C\u00f2n Nh\u1edb Anh Kh\u00f4ng - Htingale X Ryuuko Remix",
+      "url": "https://open.spotify.com/track/5bOh5gwwjMQfMwgusZS78M"
     },
     {
       "album": {
@@ -5107,6 +5147,28 @@
     },
     {
       "album": {
+        "name": "Ph\u00e9p M\u00e0u (\u0110\u00e0n C\u00e1 G\u1ed7 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2KTHAp1v2iCntbFjNAOCUb"
+      },
+      "artists": [
+        {
+          "name": "MAYDAYs",
+          "url": "https://open.spotify.com/artist/2iYUs3FoNodbZXKf4mkjGM"
+        },
+        {
+          "name": "Minh T\u1ed1c & Lam",
+          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Ph\u00e9p M\u00e0u - \u0110\u00e0n C\u00e1 G\u1ed7 Original Soundtrack",
+      "url": "https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs"
+    },
+    {
+      "album": {
         "name": "FLVR",
         "url": "https://open.spotify.com/album/71L9y03HASgkNoYodycslE"
       },
@@ -6010,7 +6072,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 171741,
       "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi"
@@ -7764,7 +7826,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 223636,
       "name": "\u0110\u00e3 L\u00e2u R\u1ed3i",
       "url": "https://open.spotify.com/track/4sUbVbW9m7WVX1KOZ4zLc9"

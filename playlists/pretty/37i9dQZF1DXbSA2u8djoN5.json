@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Sami G, Badd G",
-  "num_followers": 20999,
+  "num_followers": 21011,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-05-15 21:00:15",
       "album": {
+        "name": "\u0218apte",
+        "url": "https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm"
+      },
+      "artists": [
+        {
+          "name": "Spike",
+          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "\u0218apte",
+      "url": "https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv"
+    },
+    {
+      "added_at": "2025-05-15 21:00:15",
+      "album": {
         "name": "Lini\u0219te",
         "url": "https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 190263,
       "name": "Lini\u0219te",
       "url": "https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv"
-    },
-    {
-      "added_at": "2025-05-15 21:00:15",
-      "album": {
-        "name": "\u0218apte",
-        "url": "https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm"
-      },
-      "artists": [
-        {
-          "name": "Spike",
-          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "\u0218apte",
-      "url": "https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv"
     },
     {
       "added_at": "2025-05-15 21:00:15",

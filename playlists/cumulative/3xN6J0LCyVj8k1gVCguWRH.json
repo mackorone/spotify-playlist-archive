@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 158069,
       "name": "AFTER-PARTY",
       "url": "https://open.spotify.com/track/11BDGlNiqp6F8mJ3VV4dDi"
@@ -5308,7 +5308,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 206743,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/6t3Tl3e0No2vherM7Gx6r6"
@@ -9864,7 +9864,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 206712,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/2vOf8LxwfDg2Zebh1Bq956"
@@ -14804,7 +14804,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 199393,
       "name": "Checklist Kind of Love - Radio Edit",
       "url": "https://open.spotify.com/track/2mTbRBceYPjJ88ENpE8Kln"
@@ -15616,7 +15616,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 135338,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/0VcQgv7lvNXNsm6pUTbm03"
@@ -29965,6 +29965,24 @@
     },
     {
       "album": {
+        "name": "fries, bb",
+        "url": "https://open.spotify.com/album/5mOuxWNonPXnBDlhO4BtbD"
+      },
+      "artists": [
+        {
+          "name": "Jacqui",
+          "url": "https://open.spotify.com/artist/4g07FXwEqS5euGYGo1n6x1"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160017,
+      "name": "fries, bb",
+      "url": "https://open.spotify.com/track/0OkoWVHw2lWwACJ9YQBHtt"
+    },
+    {
+      "album": {
         "name": "Friyay",
         "url": "https://open.spotify.com/album/1WClYo7zdlb8UNe0FYm50Q"
       },
@@ -33712,7 +33730,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 224757,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3NNTrJrHxfizGYZo7TcGK6"
@@ -35160,7 +35178,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 133230,
       "name": "HELLO KITTY",
       "url": "https://open.spotify.com/track/06DuyMObbWGvE1GI5vj6bT"
@@ -58082,7 +58100,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 264000,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/54iO34AZ7Fl0gHd6ZiitKD"
@@ -72872,6 +72890,24 @@
       "duration_ms": 194693,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/7zM9DeSahEHBy5YOZ2aRQR"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/60Duq6NZtAy8HG0lf5KKLa"
+      },
+      "artists": [
+        {
+          "name": "Andy Tongren",
+          "url": "https://open.spotify.com/artist/6NdJZ7cLpyCLcJyXSfsZLG"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135422,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1CALfWfDDq2Nzfw3t1mB23"
     },
     {
       "album": {

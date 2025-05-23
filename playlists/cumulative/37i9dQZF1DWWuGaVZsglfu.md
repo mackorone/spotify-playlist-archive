@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: NAKI, Fahimi
+> The best tracks from the world of music\. Cover: Imran Ajmain
 
 323 songs - 18 hr 19 min
 

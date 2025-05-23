@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Semicenk
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Yıldız Tilbe
 
 150 songs - 7 hr 37 min
 

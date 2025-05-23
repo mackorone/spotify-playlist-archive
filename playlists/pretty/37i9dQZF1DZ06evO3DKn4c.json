@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 39106,
+  "num_followers": 39121,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCvGAAAAAAD6iGYnADNHEBIlv4gvh9kh",
+  "snapshot_id": "aC0XgAAAAACJ0v7cq8mmJuSSuojXttjL",
   "tracks": [
     {
       "added_at": null,
@@ -143,30 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JAH-VAN",
-        "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
+        "name": "Fica At\u00e9 Umas Hora",
+        "url": "https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        },
-        {
-          "name": "Fernando Nunes",
-          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
         }
       ],
-      "duration_ms": 284466,
-      "name": "Meu Bem Querer - JAH-VAN",
-      "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
+      "duration_ms": 228800,
+      "name": "Fica At\u00e9 Umas Hora",
+      "url": "https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS"
     },
     {
       "added_at": null,
@@ -203,18 +191,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica At\u00e9 Umas Hora",
-        "url": "https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq"
+        "name": "JAH-VAN",
+        "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
       },
       "artists": [
         {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        },
+        {
+          "name": "Fernando Nunes",
+          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Fica At\u00e9 Umas Hora",
-      "url": "https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS"
+      "duration_ms": 284466,
+      "name": "Meu Bem Querer - JAH-VAN",
+      "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "Sangue de Free - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JARDINEIROS",
         "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 154413,
       "name": "O RITMO E A RAIVA",
       "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Sangue de Free - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
     },
     {
       "added_at": null,

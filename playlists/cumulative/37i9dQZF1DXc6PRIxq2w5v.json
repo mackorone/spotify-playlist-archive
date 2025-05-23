@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Arde Outra Vez",
+        "url": "https://open.spotify.com/album/3Xi7Ub3YolzcT7hy13f7kR"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204023,
+      "name": "Arde Outra Vez",
+      "url": "https://open.spotify.com/track/6qWzAG4F9VkgXRFGGF9Ak7"
+    },
+    {
+      "album": {
         "name": "As Cores do C\u00e9u",
         "url": "https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF"
       },
@@ -6866,7 +6884,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 264000,
       "name": "Ora\u00e7\u00e3o Em Flow",
       "url": "https://open.spotify.com/track/73VuYED2UOSdGN2qPzBXBq"

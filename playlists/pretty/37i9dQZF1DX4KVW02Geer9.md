@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 69 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 70 | [Kowree Sambazzi](https://open.spotify.com/track/39WZQw0C5qQ9SEw2OGyMIT) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Bembe Segue](https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4) | [KJM COVERS Kyoto Jazz Massive 30th Anniversary Compilation](https://open.spotify.com/album/64tGM8VnNcS2EMWLdmtSbI) | 6:06 |
 
-Snapshot ID: `aCYBlAAAAAD/Kfa0/brMaRIDEes9clF4`
+Snapshot ID: `AAAAAG+GS40/EQv+XZg7+sfWp5nwO7yu`

@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>
+> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>  and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=HAnDya9QRIGtTDBfG7ORiw>Gaise Baba</a>
 
-453 songs - 1 day 15 hr 47 min
+454 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 | 2023-08-25 | 2024-01-04 |
 | [IJO \- Remix](https://open.spotify.com/track/25wN3PxCi7kegOz8YEvyhO) | [TimiTrigger](https://open.spotify.com/artist/7slHpFNcd1m9DSKq4LeM9s), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Majemu](https://open.spotify.com/artist/5w4AeRwjaVNl2Gb44iqjHD) | [IJO \(Remix\)](https://open.spotify.com/album/3wloOkIU3tCCXi7z5SXRxw) | 3:50 | 2023-06-23 | 2023-08-11 |
 | [Ikechi \(Power of God\)](https://open.spotify.com/track/0oLkR9vqXhvBuneYvYcxiA) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/1c5oifFnPegiQreaOY5wju) | 2:57 | 2024-01-03 | 2024-04-19 |
-| [Ikechi \(Power of God\)](https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr) | 2:57 | 2023-07-14 |  |
+| [Ikechi \(Power of God\)](https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr) | 2:57 | 2023-07-14 | 2025-05-23 |
 | [Imagine me](https://open.spotify.com/track/0VAqGWb9Q9MUqgGGbJZZ0E) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Imagine me](https://open.spotify.com/album/3kdwXD4qQzAxuRbHSD87fB) | 2:40 | 2023-06-09 | 2023-06-23 |
 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 | 2023-04-14 | 2023-06-23 |
 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 | 2024-05-10 |  |
@@ -458,6 +458,7 @@
 | [Your Majesty](https://open.spotify.com/track/1cNwtKvurBgKUzO4fqJRBR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 3:27 | 2023-12-31 | 2024-01-04 |
 | [Your Majesty](https://open.spotify.com/track/03X6MyoC2RWPKlQLF6cAZ9) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Your Majesty](https://open.spotify.com/album/1Kum4XMRzZbeh9aLyv6EuD) | 3:39 | 2023-03-31 | 2023-04-28 |
 | [Your Mind \- Special Version](https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Your Mind \(Special Version\)](https://open.spotify.com/album/2xaT3sv1yzdowOog413zn0) | 2:54 | 2023-04-28 | 2023-06-09 |
+| [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 | 2025-05-23 |  |
 | [Zion \(Gbe\)](https://open.spotify.com/track/57p3KH8I42tHFBVrQwtjlw) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Zion \(Gbe\)](https://open.spotify.com/album/2P685NkylY7hPjlsD30EBZ) | 2:44 | 2023-05-05 | 2023-06-02 |
 | [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 | 2023-06-23 |
 | [Zundithwale](https://open.spotify.com/track/6HbOtnuHEmiw4LamzldGO5) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Kuphelele](https://open.spotify.com/album/0vdSnIOGJImM0JdL2m7C94) | 4:35 | 2023-12-31 | 2024-01-04 |

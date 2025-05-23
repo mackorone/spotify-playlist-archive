@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-140 songs - 7 hr 29 min
+141 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alien \- Acoustic](https://open.spotify.com/track/5IYKZF1nw5V0GtxQN7mspQ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien \(Acoustic\)](https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU) | 2:20 | 2022-12-21 | 2023-06-03 |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-12-21 |  |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-12-21 | 2024-04-13 |
+| [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-05-22 |  |
 | [Bad Dreams \- Acoustic](https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams \(Acoustic\)](https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg) | 2:56 | 2024-11-21 |  |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-12-21 |  |
 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 | 2024-03-21 |  |
@@ -94,7 +95,7 @@
 | [Love Not War \(The Tampa Beat\) \(Acoustic\)](https://open.spotify.com/track/0dRYCtYfllnlfDiEufuwOU) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\) \(Acoustic\)](https://open.spotify.com/album/0suzpiXwzpyvN85xQyf699) | 3:11 | 2022-12-21 | 2023-06-03 |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2022-12-21 | 2024-06-15 |
 | [Love Should Be Easy \- Acoustic](https://open.spotify.com/track/1Uf2Jb951trOKmxJZS7HOl) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy \(Acoustic Versions\)](https://open.spotify.com/album/2nrnsrqfLugfpWe1trssSu) | 3:20 | 2023-12-08 | 2024-01-12 |
-| [Lovers In A Past Life \(with Rag'n'Bone Man\) \- Acoustic](https://open.spotify.com/track/5lC9PmD9LGzqO1ejuLYkym) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\) \[Acoustic\]](https://open.spotify.com/album/69qYAZY38cFMWCp3KbcvH4) | 3:09 | 2024-04-12 |  |
+| [Lovers In A Past Life \(with Rag'n'Bone Man\) \- Acoustic](https://open.spotify.com/track/5lC9PmD9LGzqO1ejuLYkym) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\) \[Acoustic\]](https://open.spotify.com/album/69qYAZY38cFMWCp3KbcvH4) | 3:09 | 2024-04-12 | 2025-05-23 |
 | [maman \- acoustique](https://open.spotify.com/track/4XelDEmRacldzskbbclmQY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman \(acoustique\)](https://open.spotify.com/album/081z71DA1Zxex0sPR2QBTY) | 3:04 | 2025-04-17 |  |
 | [miss me \(when you're gone\) \- \[sad version\] \[Acoustic\]](https://open.spotify.com/track/6UWXV4zk4zJCzJQZXHifBX) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:50 | 2023-06-02 | 2023-11-04 |
 | [miss me \(when you’re gone\) \(sad version\) \(Acoustic\)](https://open.spotify.com/track/52vl4KA0ATWJ6Mf7QChsd3) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) remixes](https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I) | 3:50 | 2023-11-02 | 2024-01-06 |

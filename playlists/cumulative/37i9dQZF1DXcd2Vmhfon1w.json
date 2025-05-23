@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. FERNANDOCOSTA, Lia Kali",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Foyone",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 213920,
       "name": "ANOTHER ONE",
       "url": "https://open.spotify.com/track/7DjHTmYCxkfUSHZtU9rPjB"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 198235,
       "name": "Calle Pero Fino",
       "url": "https://open.spotify.com/track/0LXWLqWkxAnvdJllVfA2VP"
@@ -6440,7 +6440,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 160964,
       "name": "Love is Love",
       "url": "https://open.spotify.com/track/6BDM0Zf2lVqhAPVXQOHV7O"
@@ -6560,7 +6560,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 201142,
       "name": "Mala Hierba",
       "url": "https://open.spotify.com/track/4CfXolw5Jw1E7UGVTk5lPV"
@@ -7247,6 +7247,28 @@
     },
     {
       "album": {
+        "name": "Mi Estrella",
+        "url": "https://open.spotify.com/album/6iKQTYUdta9BBDDKAUEMD9"
+      },
+      "artists": [
+        {
+          "name": "RADE",
+          "url": "https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h"
+        },
+        {
+          "name": "Ocer y Rade",
+          "url": "https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Mi Estrella",
+      "url": "https://open.spotify.com/track/6AWpunciSOjLHtm0oOSSwO"
+    },
+    {
+      "album": {
         "name": "Mi Hogar",
         "url": "https://open.spotify.com/album/5z9L4sf0YXaIDipnj3RMSV"
       },
@@ -7784,6 +7806,24 @@
       "duration_ms": 172982,
       "name": "Nanai",
       "url": "https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN"
+    },
+    {
+      "album": {
+        "name": "Narcopiso",
+        "url": "https://open.spotify.com/album/1kYe7s878fq7Ua0CgEpqIK"
+      },
+      "artists": [
+        {
+          "name": "Cecilio G.",
+          "url": "https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211252,
+      "name": "Narcopiso",
+      "url": "https://open.spotify.com/track/4xq8hnFv2DryFeAJFRIbUE"
     },
     {
       "album": {
@@ -8434,6 +8474,24 @@
       "duration_ms": 156521,
       "name": "Otro D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/5hAGYBf1IPrZdPXFPd3Aa5"
+    },
+    {
+      "album": {
+        "name": "OUTRO (Transition)",
+        "url": "https://open.spotify.com/album/5oz4vFEtuwOSzrrYOy7oV8"
+      },
+      "artists": [
+        {
+          "name": "Munic HB",
+          "url": "https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157841,
+      "name": "OUTRO - Transition",
+      "url": "https://open.spotify.com/track/2IDNS1uUf0jfSAPthpRmUa"
     },
     {
       "album": {
@@ -9264,6 +9322,24 @@
       "duration_ms": 91111,
       "name": "RAPSINCORTE 52",
       "url": "https://open.spotify.com/track/3Z71w98ZzC2ff5Pe0deXxc"
+    },
+    {
+      "album": {
+        "name": "RAPSINCORTE 53",
+        "url": "https://open.spotify.com/album/4HK1IM9sdMFpNY7YaPr8Dh"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "RAPSINCORTE 53",
+      "url": "https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1"
     },
     {
       "album": {
@@ -10345,6 +10421,28 @@
     },
     {
       "album": {
+        "name": "Soldado",
+        "url": "https://open.spotify.com/album/5KzUynJHc6e4CodfZfuQNN"
+      },
+      "artists": [
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "Govea La Firma",
+          "url": "https://open.spotify.com/artist/2fvNE0HlLU5xViGXVN6zfG"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Soldado",
+      "url": "https://open.spotify.com/track/4gTbm6emL0JrV70KaLwmZo"
+    },
+    {
+      "album": {
         "name": "Solo pienso en ti",
         "url": "https://open.spotify.com/album/0kmMqkeWJZbgTwtE7yGonU"
       },
@@ -10668,7 +10766,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 167906,
       "name": "Super Tsuki",
       "url": "https://open.spotify.com/track/5uSmJDa4yWYRgF5Kkev3kJ"

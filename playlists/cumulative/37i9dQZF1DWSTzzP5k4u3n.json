@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Klamydia.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa paluun tehnyt Technicolour.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 260866,
       "name": "Alkemistit",
       "url": "https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 235204,
       "name": "Bardi",
       "url": "https://open.spotify.com/track/62qfPnClZ6ynMkDuX2ouD7"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Eero Rivera",
+        "url": "https://open.spotify.com/album/6phfE2Uqg5s6QLyoCPUmhp"
+      },
+      "artists": [
+        {
+          "name": "Eero Rivera",
+          "url": "https://open.spotify.com/artist/0X4YpLbMH9LdgbwbBBlHdy"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156499,
+      "name": "Eero Rivera",
+      "url": "https://open.spotify.com/track/3OzOl4yUW2o9nXQBlN28hd"
+    },
+    {
+      "album": {
         "name": "Ei ihme ettet vastaa",
         "url": "https://open.spotify.com/album/4cXf3WNyW8GkrJp1HK38kH"
       },
@@ -784,7 +802,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 189826,
       "name": "Ei noi muut",
       "url": "https://open.spotify.com/track/17FyLAcIYRhqY4doPeABpO"
@@ -1549,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Id\u00e4njuna",
+        "url": "https://open.spotify.com/album/1OakXi7TIwAMRWkePOY8jY"
+      },
+      "artists": [
+        {
+          "name": "Timo Rautiainen & Trio Niskalaukaus",
+          "url": "https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242447,
+      "name": "Id\u00e4njuna",
+      "url": "https://open.spotify.com/track/21me6KEGFTjccDhZsEjzD5"
+    },
+    {
+      "album": {
         "name": "Illuusio",
         "url": "https://open.spotify.com/album/4LkI587pttwkTqO0lg9Gfv"
       },
@@ -1600,7 +1636,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 236527,
       "name": "Irti Susta",
       "url": "https://open.spotify.com/track/4FmDUdf6rXGsUHyryHftmo"
@@ -2514,7 +2550,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 184676,
       "name": "Kev\u00e4\u00e4n valo",
       "url": "https://open.spotify.com/track/6sGjjjmN08ipX3ga90GrNX"
@@ -2651,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Kiva kes\u00e4kaupunki",
+        "url": "https://open.spotify.com/album/7A9gjiAyUvcNRcxCAGf1cT"
+      },
+      "artists": [
+        {
+          "name": "Grillijono K.O.",
+          "url": "https://open.spotify.com/artist/08QXOSGFgaJw93nk0a2Dk5"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Kiva kes\u00e4kaupunki",
+      "url": "https://open.spotify.com/track/5ku0OzFvKdH54QB55Tpaed"
+    },
+    {
+      "album": {
         "name": "Koiratanssit",
         "url": "https://open.spotify.com/album/2Hu1AZYWOlVsSm317bAXSp"
       },
@@ -2738,6 +2792,24 @@
       "duration_ms": 192108,
       "name": "Koti katoaa \u00f6isin",
       "url": "https://open.spotify.com/track/7zTMUO8M1CV33HeRyTwhqp"
+    },
+    {
+      "album": {
+        "name": "Kotona",
+        "url": "https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh"
+      },
+      "artists": [
+        {
+          "name": "Kormus",
+          "url": "https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Kotona",
+      "url": "https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg"
     },
     {
       "album": {
@@ -3174,7 +3246,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 251348,
       "name": "Lasipalatsi",
       "url": "https://open.spotify.com/track/6rFjlvQDwemt0u7q4aSCh5"
@@ -3334,7 +3406,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 147298,
       "name": "Liekki",
       "url": "https://open.spotify.com/track/12YCELB9ziVIXScQGqoDxF"
@@ -3413,6 +3485,24 @@
     },
     {
       "album": {
+        "name": "Lintu auringon",
+        "url": "https://open.spotify.com/album/6XHfMJRZ4TNLIqNjbvrYFR"
+      },
+      "artists": [
+        {
+          "name": "Lunk",
+          "url": "https://open.spotify.com/artist/1LMjTRL4CAo3ZDMJxaN7y5"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "Lintu auringon",
+      "url": "https://open.spotify.com/track/7dVym1ENmNNzN1XIeXQpDn"
+    },
+    {
+      "album": {
         "name": "Lintumies ja Alhambra",
         "url": "https://open.spotify.com/album/6lhttwkGbO1TOVbPXQ9hfm"
       },
@@ -3424,7 +3514,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 237633,
       "name": "Lintumies ja Alhambra",
       "url": "https://open.spotify.com/track/5uH2zcNYu1WH4Bmq1K3rm2"
@@ -4494,7 +4584,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 236000,
       "name": "Oregonin Buutsit",
       "url": "https://open.spotify.com/track/0qJa1zvHsGa9qPa1huWjJN"
@@ -5042,7 +5132,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 245039,
       "name": "Pitk\u00e4 matka paratiisiin",
       "url": "https://open.spotify.com/track/4gIgXyVv8H3eALVolef5JC"
@@ -5446,7 +5536,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 212932,
       "name": "Run Baby Run",
       "url": "https://open.spotify.com/track/766CpQwggX1G5e70GJNX74"
@@ -5821,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Sinunlaista",
+        "url": "https://open.spotify.com/album/1m0eiEJbLnZayeaKDkfa3J"
+      },
+      "artists": [
+        {
+          "name": "VOLAT",
+          "url": "https://open.spotify.com/artist/2GICWnVHlE827uBFBi5iDu"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138773,
+      "name": "Sinunlaista",
+      "url": "https://open.spotify.com/track/6WDYifmLFwN5gW2nVFnujP"
+    },
+    {
+      "album": {
         "name": "Sinussa on meri",
         "url": "https://open.spotify.com/album/6tO9ULw0zmaoBmEbFuBzkz"
       },
@@ -6095,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "Sumussa",
+        "url": "https://open.spotify.com/album/5LglYOHN4aiar1AfWAjoWW"
+      },
+      "artists": [
+        {
+          "name": "HARMAA PARDON?",
+          "url": "https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254819,
+      "name": "Sumussa",
+      "url": "https://open.spotify.com/track/32ge1loA1wWEEyI3AIWhwP"
+    },
+    {
+      "album": {
         "name": "Sun Silmist\u00e4 Aurinko Nousee",
         "url": "https://open.spotify.com/album/5GKYWz1g4HXTsBFWv8lv1e"
       },
@@ -6222,6 +6348,24 @@
       "duration_ms": 245675,
       "name": "Sut luotiin lumoamaan",
       "url": "https://open.spotify.com/track/5kjwaozp3A3l5TXx8eoLbJ"
+    },
+    {
+      "album": {
+        "name": "Suvi",
+        "url": "https://open.spotify.com/album/1LiiSWqBCgtI6uedCBhVcL"
+      },
+      "artists": [
+        {
+          "name": "Technicolour",
+          "url": "https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170226,
+      "name": "Suvi",
+      "url": "https://open.spotify.com/track/69Jd9PU57qPtisMKrORean"
     },
     {
       "album": {
@@ -6693,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/6Hun1T0xHa5nWkBZwhH4SL"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvaja",
+          "url": "https://open.spotify.com/artist/1pSgv9IDIKVaJBKaqLW7RR"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/6f70owT2mzMIxlMnbL9W1m"
+    },
+    {
+      "album": {
         "name": "Tuhat turhaa tarinaa",
         "url": "https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R"
       },
@@ -6801,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "Tyson",
+        "url": "https://open.spotify.com/album/0tYHP2fvCGdYU4dbHBffG5"
+      },
+      "artists": [
+        {
+          "name": "Okkim",
+          "url": "https://open.spotify.com/artist/0ddugsnMCMlH53rBe8zR1o"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227509,
+      "name": "Tyson",
+      "url": "https://open.spotify.com/track/4FhUEtaa09Xqhqk44gnrJh"
+    },
+    {
+      "album": {
         "name": "Tyynylinna",
         "url": "https://open.spotify.com/album/16vnEbSVInNiijnpJkXvXR"
       },
@@ -6834,6 +7014,24 @@
       "duration_ms": 230080,
       "name": "Ty\u00f6maan kusip\u00e4\u00e4",
       "url": "https://open.spotify.com/track/4LzSTCYHseOdWqXudv5kze"
+    },
+    {
+      "album": {
+        "name": "T\u00e4n\u00e4 kes\u00e4n\u00e4",
+        "url": "https://open.spotify.com/album/0si19geEbmpFebtBEIFY9k"
+      },
+      "artists": [
+        {
+          "name": "LINDA",
+          "url": "https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175546,
+      "name": "T\u00e4n\u00e4 kes\u00e4n\u00e4",
+      "url": "https://open.spotify.com/track/08ObJEPUzVtDPEePCHaF5Z"
     },
     {
       "album": {
@@ -7172,7 +7370,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 184453,
       "name": "VAU",
       "url": "https://open.spotify.com/track/4WjdbLfPOhHjFE6KW2VDfq"
@@ -7502,6 +7700,24 @@
       "duration_ms": 167455,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/0N3ufYCnqo8lwAH3iWoIPT"
+    },
+    {
+      "album": {
+        "name": "Wunderbaum",
+        "url": "https://open.spotify.com/album/2myfAXzHfogCf4o4nKTGQ3"
+      },
+      "artists": [
+        {
+          "name": "Tero Lahtinen",
+          "url": "https://open.spotify.com/artist/5Rb2spkAH3O0KmPZB6Qnil"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215498,
+      "name": "Wunderbaum",
+      "url": "https://open.spotify.com/track/7ifDSBlNaD3bk3SfJj75A2"
     },
     {
       "album": {

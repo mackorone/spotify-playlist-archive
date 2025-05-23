@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-10",
-  "description": "Strictly Nigerian worship songs. Cover: \"<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>",
+  "description": "Strictly Nigerian worship songs. Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>",
   "name": "Naija Worship",
   "tracks": [
     {
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 223675,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/5G80Slm9gl5Y372d0suB05"
@@ -1716,6 +1716,28 @@
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
+      "album": {
+        "name": "I give you praise",
+        "url": "https://open.spotify.com/album/0bqQE5CKXex5wgd7H2fJnY"
+      },
+      "artists": [
+        {
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+        },
+        {
+          "name": "Dare David",
+          "url": "https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 816599,
+      "name": "I give you praise",
+      "url": "https://open.spotify.com/track/3aQcVHyOORVlwSFKgz5aDU"
     },
     {
       "album": {
@@ -3006,7 +3028,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 556500,
       "name": "Revival Is Here",
       "url": "https://open.spotify.com/track/3MevbiyEBTpNq6RXcH99cG"
@@ -3170,6 +3192,24 @@
       "duration_ms": 477280,
       "name": "Tare (Live)",
       "url": "https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB"
+    },
+    {
+      "album": {
+        "name": "Testimony (Choral Version)",
+        "url": "https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233886,
+      "name": "Testimony - Choral Version",
+      "url": "https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3"
     },
     {
       "album": {

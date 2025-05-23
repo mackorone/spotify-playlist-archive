@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Akashi Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,898 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,894 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 60 | [SALA VERMELHA \#23 \- Felp 22](https://open.spotify.com/track/5bBUjdFIYLl2yBljDSkDgM) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#23 \- Felp 22](https://open.spotify.com/album/4LqJdNJnKeueLUWuFYsM8h) | 2:50 |
 | 61 | [Entendeu O Que Nois Sente?](https://open.spotify.com/track/4s0JTr0WZRrQvvvRIFOMCF) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Dj Djotah](https://open.spotify.com/artist/797mYQMrtowonecvFPLoQU) | [Entendeu O Que Nois Sente?](https://open.spotify.com/album/6ddQStH1HPOsYXQfriMbAf) | 3:19 |
 | 62 | [Fake](https://open.spotify.com/track/4TTVEPqAKz5BQmb5gqRSFF) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Fake](https://open.spotify.com/album/5Obd8POJspOCF0jTxqIgvB) | 3:03 |
-| 63 | [SonoTWS Type Beat](https://open.spotify.com/track/5fqiYtfBMyBlWpfZstfJPb) | [Tiago Frugoli](https://open.spotify.com/artist/6ujtQf0H9bDPnZjr60RuWb), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [SonoTWS Type Beat](https://open.spotify.com/album/0s4EJAvpVvWD5acUzEoVSY) | 1:26 |
+| 63 | [SonoTWS Type Beat](https://open.spotify.com/track/5fqiYtfBMyBlWpfZstfJPb) | [Tiago Frúgoli](https://open.spotify.com/artist/5tydAZWpspUQXaoN9ZFnts), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [SonoTWS Type Beat](https://open.spotify.com/album/0s4EJAvpVvWD5acUzEoVSY) | 1:26 |
 | 64 | [O Nosso Rap](https://open.spotify.com/track/6gf1LxhdAY4PkTKYNWStxB) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [O Nosso Rap](https://open.spotify.com/album/5slAZ6OsQ3E7mYmKdkCXE7) | 3:28 |
 | 65 | [Amarelinha de 2002](https://open.spotify.com/track/7oc808pfRXitYbpDVlUkUI) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Bradockdan](https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [PRA SEMPRE NO MESMO BAIRRO](https://open.spotify.com/album/5Cc1z7x5KA1eo20fmWG4Zi) | 3:22 |
 | 66 | [Saudade de lascar](https://open.spotify.com/track/6VsuYT0NBkZ8EyFjrzwP77) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 2:30 |

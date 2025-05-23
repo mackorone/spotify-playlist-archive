@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs?si=n\_R64Y\_HT9mjQOxUm8Ig5A"> Asiahn</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,401 likes - 434 songs - 21 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,478 likes - 434 songs - 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -443,4 +443,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 433 | [Only One](https://open.spotify.com/track/2iXkVMSRxoqRKV1JrEoDd3) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [FairXchange](https://open.spotify.com/album/4bddJB0oeqZgCzWwJ38v2a) | 2:49 |
 | 434 | [How Long?](https://open.spotify.com/track/0bFiS83jnXUTojsrO6p77A) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [I Chose to Keep Going](https://open.spotify.com/album/1w66h1lj1jU89X2LXn9xVJ) | 2:25 |
 
-Snapshot ID: `aC39qQAAAAD0khRUG6XF4PU4RnmLOpJf`
+Snapshot ID: `aC39qQAAAAB22D9NO7pBIxOnOpmHZUmU`

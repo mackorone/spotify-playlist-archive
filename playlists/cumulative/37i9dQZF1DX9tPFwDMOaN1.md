@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: Jin\)
+> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: RIIZE\)
 
 648 songs - 1 day 9 hr 51 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Paola Pizzino in cover della playlist dell'R&B italiano \ud83c\udfa7",
+  "description": "Lauryyn in cover della playlist dell'R&B italiano \ud83c\udfa7",
   "name": "anima R&B",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 176727,
       "name": "'A Passion",
       "url": "https://open.spotify.com/track/4ym7q5FBvi0hBpDLmdRrCA"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 197052,
       "name": "All You Can Eat",
       "url": "https://open.spotify.com/track/1JISjw9u6PFosBSdiwiiXo"
@@ -670,6 +670,24 @@
       "duration_ms": 189227,
       "name": "Alla Follia",
       "url": "https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY"
+    },
+    {
+      "album": {
+        "name": "Aritmia",
+        "url": "https://open.spotify.com/album/64OFnYN9MqorVX2fpHQpTN"
+      },
+      "artists": [
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/7HiVEN2qbdkAJI9cM3c6MR"
     },
     {
       "album": {
@@ -870,7 +888,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 146024,
       "name": "antidt",
       "url": "https://open.spotify.com/track/5eYGbLQ97nuDEZwEcn7aoo"
@@ -888,7 +906,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 166381,
       "name": "Apollo 12",
       "url": "https://open.spotify.com/track/58APyqFAronCSnzG9EBD0t"
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 190029,
       "name": "C'\u00e8 Silenzio",
       "url": "https://open.spotify.com/track/599dEwtqHsZEQX8uSjbjJR"
@@ -2598,6 +2616,24 @@
       "duration_ms": 89238,
       "name": "COLD",
       "url": "https://open.spotify.com/track/68Hw42cJIFcUnF364etWtX"
+    },
+    {
+      "album": {
+        "name": "CRISALIDE",
+        "url": "https://open.spotify.com/album/37XoPU9JXgqWCR2pW0utiP"
+      },
+      "artists": [
+        {
+          "name": "CARRESE",
+          "url": "https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "COLLISIONE",
+      "url": "https://open.spotify.com/track/3E1TuHUDzlbquMmvkzbSqS"
     },
     {
       "album": {
@@ -3396,7 +3432,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 281578,
       "name": "Dazzled Prince",
       "url": "https://open.spotify.com/track/27T3eU2RWpAWu0SdR8jbTz"
@@ -3687,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Digitare",
+        "url": "https://open.spotify.com/album/4KlPZhlCj9eqmF48qtVJNU"
+      },
+      "artists": [
+        {
+          "name": "Yasmina",
+          "url": "https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Digitare",
+      "url": "https://open.spotify.com/track/6CVTgmt9kKJ2N1nZiooMgG"
+    },
+    {
+      "album": {
         "name": "Dimmi (Pills One)",
         "url": "https://open.spotify.com/album/0iKTHZi3RigfBLoiIri2Pv"
       },
@@ -3720,6 +3774,24 @@
       "duration_ms": 144375,
       "name": "Dimmi che rimane",
       "url": "https://open.spotify.com/track/0STT4OWd2cPc6CRJWzhb6i"
+    },
+    {
+      "album": {
+        "name": "Dinala Khar (Ti Aspetter\u00f2)",
+        "url": "https://open.spotify.com/album/4F84V0iB3PVxiMrPPnIKtc"
+      },
+      "artists": [
+        {
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185446,
+      "name": "Dinala Khar (Ti Aspetter\u00f2)",
+      "url": "https://open.spotify.com/track/0HBWGWmsjlatn4i90d2big"
     },
     {
       "album": {
@@ -3828,7 +3900,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 182812,
       "name": "Distratto",
       "url": "https://open.spotify.com/track/2a3byqLItqONzGYg3lr1v3"
@@ -4050,6 +4122,28 @@
       "duration_ms": 168228,
       "name": "Duemila treni",
       "url": "https://open.spotify.com/track/50Y1GKVJ0m0jqp3kpXhzs0"
+    },
+    {
+      "album": {
+        "name": "E Se Quando",
+        "url": "https://open.spotify.com/album/73ZJxgMFHBCKqjxORtwVFL"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        },
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378760,
+      "name": "E Se Quando",
+      "url": "https://open.spotify.com/track/2yi9BQCTVKwOFnneh4oxBy"
     },
     {
       "album": {
@@ -4276,6 +4370,28 @@
       "duration_ms": 178909,
       "name": "Falso",
       "url": "https://open.spotify.com/track/5kWdR0rTD6S7duWejL0JtL"
+    },
+    {
+      "album": {
+        "name": "fango (feat. Latrelle)",
+        "url": "https://open.spotify.com/album/45x3Y3qa30DGpNtNCPkyn2"
+      },
+      "artists": [
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        },
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "fango (feat. Latrelle)",
+      "url": "https://open.spotify.com/track/6z1KelkhtONfx2zOQWrlX2"
     },
     {
       "album": {
@@ -5486,7 +5602,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 207999,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6h0LjT9ypFfN2d9NqRfIAw"
@@ -10130,7 +10246,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 152408,
       "name": "oscur",
       "url": "https://open.spotify.com/track/77QEGyMs6TGJeYu5lkkxwG"
@@ -10220,7 +10336,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 153021,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/1C6llxLuSiq6DMTLV4sMdB"
@@ -13004,7 +13120,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 197333,
       "name": "SOTTOVUOTO",
       "url": "https://open.spotify.com/track/6ebMDFSbcN7DuMBBsbHSN4"
@@ -13278,7 +13394,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 231243,
       "name": "Stay",
       "url": "https://open.spotify.com/track/00rV7NRdXgyBNPJTLgcuou"
@@ -14826,7 +14942,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 153802,
       "name": "Vedi Me",
       "url": "https://open.spotify.com/track/4Zm2e7UNkTwG4ZqrxsXWJ0"

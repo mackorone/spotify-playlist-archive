@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?si=\-r1y93FHRMeE1JfZcgNglA">Obongjayar</a>
+> The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG?si=qdILn\_9sT260KeE\_LkwZuA">Gemma Griffiths</a>
 
-204 songs - 10 hr 55 min
+205 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Hey! \- A COLORS SHOW](https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Hey! \- A COLORS SHOW](https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN) | 2:37 | 2023-03-30 | 2023-04-21 |
 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 | 2025-02-28 |  |
 | [HOW FAR](https://open.spotify.com/track/5CjhYoihryk132uTkmyE1d) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [À Nu](https://open.spotify.com/album/1aJEZXVCfXrggxd5CrHMo8) | 3:40 | 2025-02-14 | 2025-03-01 |
-| [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 | 2023-05-25 |  |
+| [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 | 2023-05-25 | 2025-05-23 |
 | [I Don't Usually Fall, But When I Do...](https://open.spotify.com/track/3E0smb4bG5SKBiePR5tbQc) | [Aidan Fraser](https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx) | [I Don't Usually Fall, But When I Do...](https://open.spotify.com/album/3QOb81DKEDB0HFPQR8tkwE) | 2:51 | 2023-06-08 | 2023-06-27 |
 | [i just want you](https://open.spotify.com/track/08UEjr8Y5oRSyHf3krYiNM) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [i just want you](https://open.spotify.com/album/44Ut5MnUWlRUVt9J6Vbg00) | 2:36 | 2023-04-27 | 2023-05-06 |
 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-03-30 | 2024-07-19 |
@@ -177,6 +177,7 @@
 | [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2025-02-14 | 2025-03-01 |
 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 | 2023-03-30 | 2023-04-07 |
 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 | 2023-04-20 | 2024-10-12 |
+| [Tariro](https://open.spotify.com/track/3AqBDvLglwUIZBGh6At7hq) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Feli Nandi](https://open.spotify.com/artist/5FRNc8KgPwQohXVLrn9UNg) | [Gemma](https://open.spotify.com/album/06FFDnJvTkMYjFmBR7clLy) | 2:39 | 2025-05-22 |  |
 | [Te Sexy](https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Te Sexy](https://open.spotify.com/album/71xdfwNNDvqJ9gso3bS5zP) | 2:56 | 2023-05-05 | 2023-07-08 |
 | [TELL ME WHAT THE COST IS](https://open.spotify.com/track/6i9XoASSA4yR8GuRR3FPzB) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [TELL ME WHAT THE COST IS](https://open.spotify.com/album/0hVpAd1caXNVeDfVPOiPrf) | 3:01 | 2023-10-13 | 2024-07-19 |
 | [Thandabuza](https://open.spotify.com/track/0npNCJQ1GpHOQWWJnlGcrt) | [Yanga YaYa](https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ) | [Alright let's see](https://open.spotify.com/album/0ePtwNJUOCmiSlIx6Pr9H0) | 3:34 | 2025-02-14 | 2025-03-01 |

@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-315 songs - 15 hr 33 min
+316 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Miracle](https://open.spotify.com/track/0XI9fHxiWRWqiSuoYMX55V) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Miracle](https://open.spotify.com/album/5Fhhsqq3bSRu0R6ZEss7jA) | 2:58 | 2024-07-26 | 2024-08-31 |
 | [Mirror On The Wall](https://open.spotify.com/track/14lWiJlw5WoVn9X8JFC9HW) | [Sorvats Nivek](https://open.spotify.com/artist/6oI4m51P3UAbjIAgNmtSwW), [DERWA](https://open.spotify.com/artist/4N1XdIRXks3iNWTqpdgaua) | [Mirror On The Wall](https://open.spotify.com/album/17LHSqG2e6y93o7oDv31ZV) | 2:10 | 2022-09-15 | 2022-09-30 |
 | [Miss You](https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Miss You](https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA) | 4:39 | 2024-01-11 | 2025-01-16 |
-| [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 | 2023-09-07 |  |
+| [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 | 2023-09-07 | 2025-05-23 |
 | [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 | 2022-09-15 | 2023-05-12 |
 | [Moundé](https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Moundé](https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q) | 3:14 | 2022-09-29 | 2024-08-31 |
 | [My Darling](https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [My Darling](https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq) | 2:54 | 2022-09-15 | 2024-08-31 |
@@ -307,6 +307,7 @@
 | [Wake Me Up](https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Wake Me Up](https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz) | 2:45 | 2024-03-28 |  |
 | [Water](https://open.spotify.com/track/6CD5nbE9zvNOdJbnwfQyVM) | [Trey Mirror](https://open.spotify.com/artist/2rnoTsgsrF3cPszkdu6fDw), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Water](https://open.spotify.com/album/0cJTcnsVBKcXzgHbVUhWTK) | 5:40 | 2024-07-26 | 2024-08-02 |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2022-09-15 | 2023-11-04 |
+| [Waves \- :DARREN Remix](https://open.spotify.com/track/3o4evb4nIjAthxMify0LrF) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [:DARREN](https://open.spotify.com/artist/2qMQoOiPuxNiXRay6VE3Yf) | [Waves \(:DARREN Remix\)](https://open.spotify.com/album/3XeVEDhRpAfNoCH3O46gto) | 4:32 | 2025-05-22 |  |
 | [What You Do to Me](https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [What You Do to Me](https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1) | 2:44 | 2022-12-21 | 2024-12-13 |
 | [What You Do to Me](https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [What You Do to Me](https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO) | 2:44 | 2023-10-02 | 2024-04-19 |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-05-24 | 2024-08-02 |

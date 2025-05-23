@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Doony Graff ",
-  "num_followers": 90769,
+  "num_followers": 90889,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
+        "name": "Veterinario",
+        "url": "https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU"
+      },
+      "artists": [
+        {
+          "name": "Aguila DS",
+          "url": "https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv"
+        },
+        {
+          "name": "Alberto Producer",
+          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
+        }
+      ],
+      "duration_ms": 164126,
+      "name": "Veterinario",
+      "url": "https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
         "name": "Tu Consentido",
         "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 190515,
       "name": "Tu Consentido",
       "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
-        "name": "Veterinario",
-        "url": "https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU"
-      },
-      "artists": [
-        {
-          "name": "Aguila DS",
-          "url": "https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv"
-        },
-        {
-          "name": "Alberto Producer",
-          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
-        }
-      ],
-      "duration_ms": 164126,
-      "name": "Veterinario",
-      "url": "https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
         "name": "amar t duele",
         "url": "https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 150000,
       "name": "amar t duele",
       "url": "https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -695,30 +695,6 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Bailar",
-        "url": "https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "BadWolf",
-          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
-        },
-        {
-          "name": "Mafflab",
-          "url": "https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH"
-        }
-      ],
-      "duration_ms": 208639,
-      "name": "Bailar",
-      "url": "https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 148800,
       "name": "Chaka",
       "url": "https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
+        "name": "Bailar",
+        "url": "https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "BadWolf",
+          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
+        },
+        {
+          "name": "Mafflab",
+          "url": "https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH"
+        }
+      ],
+      "duration_ms": 208639,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Viento Feroz",
-        "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
-      },
-      "artists": [
-        {
-          "name": "Mermelada de Pepino",
-          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
-        }
-      ],
-      "duration_ms": 196107,
-      "name": "Viento Feroz",
-      "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
         "name": "Un Altar A Tu Nombre",
         "url": "https://open.spotify.com/album/5lPTNzQ3135JVrCPiGOdvC"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 145604,
       "name": "Un Altar a Tu Nombre",
       "url": "https://open.spotify.com/track/5L6RL6SZt6rscyADpsQzgs"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
+        "name": "Viento Feroz",
+        "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
+      },
+      "artists": [
+        {
+          "name": "Mermelada de Pepino",
+          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
+        }
+      ],
+      "duration_ms": 196107,
+      "name": "Viento Feroz",
+      "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
     },
     {
       "added_at": "2025-05-09 06:00:12",

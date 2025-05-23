@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-305 songs - 19 hr 36 min
+307 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Call of the Wild](https://open.spotify.com/track/6ocXgZkJXgd1VnWRbSFGLS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [High Life](https://open.spotify.com/album/6JMceOsAz0CRAfAnUaWgmo) | 8:52 | 2022-12-05 | 2023-03-09 |
 | [Calm Waters](https://open.spotify.com/track/4C2PiEuyuMVrJvPhV1yl7q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Calm Waters](https://open.spotify.com/album/49du69iKacbpouSotoaiCQ) | 4:55 | 2024-06-28 |  |
 | [Can I Get a Witness](https://open.spotify.com/track/0enKYk1ZUqInfYMLVhA4Wq) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 1:27 | 2022-10-30 | 2025-03-08 |
+| [Catch](https://open.spotify.com/track/25Yv7YfWb4kDBVTR0ZUWKn) | [Thyme Flies](https://open.spotify.com/artist/5vvTzfxq87iU4vbka11aEj), [SOPH](https://open.spotify.com/artist/2IOxZ1jOFUN6lxzgOnF8js) | [Catch](https://open.spotify.com/album/1owOw7rhVR0qIeUiOrph0Y) | 3:04 | 2025-05-22 |  |
 | [Change Your Mind](https://open.spotify.com/track/0v49IQxhKOEw2eWv7hYiCn) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Change Your Mind](https://open.spotify.com/album/3BTH2AziFRHfvTEEruGyWp) | 3:50 | 2025-02-10 |  |
 | [Changes](https://open.spotify.com/track/2BRlr1GWfNxtZllyf5YB17) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Changes](https://open.spotify.com/album/2oow0cVzVXw7FOAxKyjD1v) | 3:32 | 2025-02-10 |  |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2025-04-04 |  |
@@ -67,7 +68,7 @@
 | [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 | 2024-11-08 |  |
 | [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 | 2024-04-11 |  |
 | [Deep](https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Below Dawn](https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw) | 4:10 | 2024-06-28 |  |
-| [Diamonds in the rough](https://open.spotify.com/track/0DltlSIHRJQR74DKrk9dvB) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Diamonds in the rough](https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz) | 3:36 | 2023-10-19 |  |
+| [Diamonds in the rough](https://open.spotify.com/track/0DltlSIHRJQR74DKrk9dvB) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Diamonds in the rough](https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz) | 3:36 | 2023-10-19 | 2025-05-23 |
 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 | 2021-12-13 | 2022-10-01 |
 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07), [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 | 2021-12-13 | 2024-06-29 |
 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 | 2025-01-06 |  |
@@ -140,6 +141,7 @@
 | [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 | 2024-04-11 |  |
 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 | 2022-10-10 | 2024-02-24 |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2021-12-13 | 2022-10-13 |
+| [Lacuna](https://open.spotify.com/track/0apf5s4dsNMkUSwzISx3lz) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Lacuna](https://open.spotify.com/album/0gA3jwUeZMuOFtwEzQgZdB) | 3:22 | 2025-05-22 |  |
 | [Lay In The Sun](https://open.spotify.com/track/0BBB3QcVfHHY7w5lXT8ig6) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Lay In The Sun](https://open.spotify.com/album/3qTp8ABtfxzoxb70pUy015) | 2:15 | 2025-02-03 |  |
 | [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 | 2025-01-06 |  |
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2021-12-13 | 2024-09-21 |
@@ -222,7 +224,7 @@
 | [Seú Days](https://open.spotify.com/track/14A3i3kN1Ch5hbMnhDgCWg) | [Siegfried Hart](https://open.spotify.com/artist/4ltScyJGi3NVTEeSj0D4xP) | [Super\-Sonic Family Vol\. 2 \- Part 1](https://open.spotify.com/album/06WzFxDa5CjgpBhwRrvyKO) | 4:25 | 2023-10-03 | 2024-06-29 |
 | [Shaquille Sama](https://open.spotify.com/track/5lBSxxvADqvpKTvbCi8ETo) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [ORCHIDEA](https://open.spotify.com/album/1x2TVjnEoSS2TBZdH2E0Bo) | 3:20 | 2022-06-16 | 2025-01-11 |
 | [Shine On Me](https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Shine On Me](https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa) | 3:34 | 2025-04-04 |  |
-| [SHOULD'VE BEEN YOU](https://open.spotify.com/track/6XbfAA4NymHlQ52zeMitGK) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [SHOULD'VE BEEN YOU](https://open.spotify.com/album/3dlAyZb5RjxYAirDWSREwW) | 3:14 | 2023-12-01 |  |
+| [SHOULD'VE BEEN YOU](https://open.spotify.com/track/6XbfAA4NymHlQ52zeMitGK) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [SHOULD'VE BEEN YOU](https://open.spotify.com/album/3dlAyZb5RjxYAirDWSREwW) | 3:14 | 2023-12-01 | 2025-05-23 |
 | [Show Me Your Love](https://open.spotify.com/track/378Q2WXtvtDmb7oprRr4ag) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:31 | 2025-05-19 |  |
 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 | 2021-12-13 | 2024-02-24 |
 | [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-12-13 | 2022-06-17 |

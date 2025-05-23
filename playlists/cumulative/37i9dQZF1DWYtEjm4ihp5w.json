@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "a7san ma kayn f rap maghribi. Cover: Dollypran",
+  "description": "Stormy en t\u00eate d'affiche de la playlist num\u00e9ro 1 du rap marocain.",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -2110,6 +2110,24 @@
       "duration_ms": 189098,
       "name": "Farabi",
       "url": "https://open.spotify.com/track/02o7lbyZIApp7NBkPdCaTc"
+    },
+    {
+      "album": {
+        "name": "K\u00b0",
+        "url": "https://open.spotify.com/album/29mZb79vD9uxVblI4Xh1hp"
+      },
+      "artists": [
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151063,
+      "name": "FASMA",
+      "url": "https://open.spotify.com/track/7l2fdBuvtRt4tyWO8qtsR0"
     },
     {
       "album": {
@@ -4276,7 +4294,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 177142,
       "name": "Microbe",
       "url": "https://open.spotify.com/track/1qRP8FUUWV9WYPweUn1SLz"

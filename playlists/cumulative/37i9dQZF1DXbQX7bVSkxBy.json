@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover: Tim Godfrey",
+  "description": "Raise a voice and testify the goodness of God.  Cover: Awinnah",
   "name": "Testify",
   "tracks": [
     {
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 324572,
       "name": "Dansaki",
       "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
@@ -3912,7 +3912,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 715973,
       "name": "IDINMA (Mercy Prevails) - Live",
       "url": "https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
@@ -5580,7 +5580,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 138857,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/1sGQPI8NOyXaH7yFlUXufh"
@@ -6082,7 +6082,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 382824,
       "name": "Otua",
       "url": "https://open.spotify.com/track/0j7SDzXYdMozTH5uB1fgln"
@@ -6984,6 +6984,24 @@
       "duration_ms": 136276,
       "name": "Talk N Do",
       "url": "https://open.spotify.com/track/6X2jbH1M9sA8x2B2e37TKH"
+    },
+    {
+      "album": {
+        "name": "Tender Love",
+        "url": "https://open.spotify.com/album/3A4hndO1mMtdSTtzzFcZRu"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134489,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr"
     },
     {
       "album": {

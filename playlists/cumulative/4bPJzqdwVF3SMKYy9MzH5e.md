@@ -4,7 +4,7 @@
 
 > 
 
-2,155 songs - 4 day 19 hr 46 min
+2,156 songs - 4 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,7 +810,7 @@
 | [HANGING MYSELF WITH MY PHONE CHARGER](https://open.spotify.com/track/0S7lPakgLryN1QiD79osFY) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [SWAMP](https://open.spotify.com/album/6Vhnu49bSHfEnnuwiN1Rf7) | 2:33 | 2021-08-05 |  |
 | [Happiness](https://open.spotify.com/track/31pLXM60VQAB63S9yqkvq4) | [Starry Cat](https://open.spotify.com/artist/7lKlhPmLxToffa6icA7vk3) | [Starry Cat](https://open.spotify.com/album/3KVP8EcIWaGWXQHq6uYkvA) | 1:33 | 2022-04-14 |  |
 | [Hard](https://open.spotify.com/track/52YAwjBYcJYtcpwa5ArHL7) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Hard](https://open.spotify.com/album/6Gex23AoYN3Wg9lqrtqKqK) | 3:21 | 2021-11-14 |  |
-| [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/6a6hIUla9XUJ5SYWCRLpTq) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/6ZWeBtiYMo5BGf7bt86kMn) | 3:49 | 2025-04-17 |  |
+| [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/6a6hIUla9XUJ5SYWCRLpTq) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Revive](https://open.spotify.com/artist/1p4Wda6913uLolLqcSa0wB) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/6ZWeBtiYMo5BGf7bt86kMn) | 3:49 | 2025-04-17 |  |
 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 | 2022-06-13 |  |
 | [Hatchback](https://open.spotify.com/track/12hVQgYR254ZziANtiKVWQ) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Hatchback](https://open.spotify.com/album/1GqVf0wkVpT32Mxj7NGxpL) | 2:29 | 2021-08-05 |  |
 | [Hate Bein' Sober](https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:40 | 2024-12-31 |  |
@@ -976,6 +976,7 @@
 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 | 2022-04-26 |  |
 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2021-08-05 |  |
 | [ifeelgr8](https://open.spotify.com/track/7D55wBuxcj3FMjac3RsIjD) | [death insurance](https://open.spotify.com/artist/3XsNms43CQkU0iyoWB19tP) | [i'm in your walls](https://open.spotify.com/album/0zPnbF1WrbaB7sLBlTCXDE) | 2:26 | 2023-04-16 |  |
+| [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-22 |  |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2021-08-05 |  |
 | [Imaginary Places](https://open.spotify.com/track/5AKt3W3OVWidHOD8E9QR6v) | [BUSDRIVER](https://open.spotify.com/artist/43SXnO2N4X024u3l9MfvXD), [D\-Styles](https://open.spotify.com/artist/0Xqx5Wr906GcxJnRNOCPSr) | [Temporary Forever](https://open.spotify.com/album/3qqN6mooGpvl7tyRz06c9J) | 3:15 | 2021-08-05 |  |
 | [imagine](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:32 | 2021-08-05 |  |

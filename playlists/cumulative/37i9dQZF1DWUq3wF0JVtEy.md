@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-528 songs - 1 day 1 hr 45 min
+529 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Bass Face](https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Young Lyxx](https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk) | [Bass Face](https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw) | 3:03 | 2024-02-02 |  |
 | [Bass Face](https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Bass Face](https://open.spotify.com/album/3w7pSN07nFeY7fqlVEBkFc) | 2:30 | 2021-10-29 | 2022-06-10 |
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-10-29 | 2022-03-21 |
-| [Bass Is Pumpin'](https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Bass Is Pumpin'](https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH) | 3:12 | 2025-02-14 |  |
+| [Bass Is Pumpin'](https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Bass Is Pumpin'](https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH) | 3:12 | 2025-02-14 | 2025-05-23 |
 | [BB Got Me Like](https://open.spotify.com/track/75lHY2V0DN0SvRoF2BJQfn) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [BB Got Me Like](https://open.spotify.com/album/04F6eKFDiQUnVJvICSKwjV) | 2:28 | 2021-10-29 | 2022-07-24 |
 | [Be Good](https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Be Good](https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4) | 2:51 | 2021-10-29 | 2022-11-12 |
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-10-06 | 2025-02-16 |
@@ -60,6 +60,7 @@
 | [Big Racks](https://open.spotify.com/track/3Hmsr9kGbncO4TQhsJaFV8) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg) | [187 Proof](https://open.spotify.com/album/610B0UKf4Tkt1DVXK6nqgp) | 3:21 | 2021-10-29 | 2022-07-04 |
 | [Black Out](https://open.spotify.com/track/7s9GCH2s1koH3AwgQHRwYh) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Black Out](https://open.spotify.com/album/2pStTbKsMaxqbsRIgPx0r5) | 3:11 | 2021-10-29 | 2022-07-28 |
 | [Bloodstream](https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Bloodstream](https://open.spotify.com/album/3uzIdtMI1baix8yp2GeiFQ) | 2:28 | 2021-10-29 | 2022-08-06 |
+| [Body and Mind](https://open.spotify.com/track/6FxSYM7dXGM1gZdcgXNSYo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Silver Nova](https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3) | [Body and Mind](https://open.spotify.com/album/15IO4CZYQTVgzFxmRIfBDu) | 3:25 | 2025-05-16 |  |
 | [Body Move](https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Aries](https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH) | [Body Move](https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG) | 2:10 | 2023-12-01 | 2024-01-07 |
 | [Body Movin](https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP) | [Body Movin](https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb) | 2:48 | 2023-12-15 | 2024-11-09 |
 | [Bodymorph](https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Serathrone](https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt) | [Bodymorph](https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3) | 4:03 | 2023-11-24 | 2024-04-29 |

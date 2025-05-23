@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Gravagerz, kiki wera
+> The UK's biggest dance playlist! Cover: Rudimental, Khalid
 
 670 songs - 1 day 10 hr 52 min
 

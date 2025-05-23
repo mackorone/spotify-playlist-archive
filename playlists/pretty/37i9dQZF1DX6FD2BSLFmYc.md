@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,153 likes - 117 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,172 likes - 117 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 107 | [Inharmonic](https://open.spotify.com/track/4dBF8Rb7rTZP08ndwnNZ4p) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:21 |
 | 108 | [Satipatthana](https://open.spotify.com/track/3tEE3niJ4lrKYT4bWJr3Bo) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/54yk5I0Xqd2gL3B4h8Nff4) | 3:04 |
 | 109 | [Circle 37](https://open.spotify.com/track/2iTObOUJM22lmxonH1jOiO) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Circle 37](https://open.spotify.com/album/5XKDsIv1XdMf1VLM2DtYU2) | 3:19 |
-| 110 | [Fata Morgana](https://open.spotify.com/track/6zRvf3jurHHzJ1n0le2Sv9) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Elise](https://open.spotify.com/artist/1s2FeB2te4ulS2txcWxWiT) | [Fata Morgana](https://open.spotify.com/album/505m8WKfTZiorTjwGvxZHX) | 8:29 |
+| 110 | [Fata Morgana](https://open.spotify.com/track/6zRvf3jurHHzJ1n0le2Sv9) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Alina Markina](https://open.spotify.com/artist/6HwVYPPEkMgVi1r78S01gK) | [Fata Morgana](https://open.spotify.com/album/505m8WKfTZiorTjwGvxZHX) | 8:29 |
 | 111 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 |
 | 112 | [Ecos Pulso](https://open.spotify.com/track/01U5xQTJxU8kv52qLHKHkM) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Privier Temporada 1](https://open.spotify.com/album/0BO1yUsaHNYjyhYrrsetng) | 2:15 |
 | 113 | [Tigran](https://open.spotify.com/track/7saYTAW50Y9yMiPCswjZow) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Tigran](https://open.spotify.com/album/3P4NlCQWlNlzTs5dPNRuoM) | 3:01 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 116 | [Inner Peace](https://open.spotify.com/track/1WncuU7QUZnx6eSrBa8oYJ) | [Eduardo Tarilonte](https://open.spotify.com/artist/49fzCZLTuqOWwAGVcljy9p) | [Inner Peace](https://open.spotify.com/album/1V6lIWNIfAujMejrTw97J7) | 4:25 |
 | 117 | [Seconds](https://open.spotify.com/track/6paPhK0t3NtGSluML2U7NW) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Seconds](https://open.spotify.com/album/2cuefX4OEnxfsviXEdI0oV) | 2:47 |
 
-Snapshot ID: `aBn+SQAAAACXWDb+XNtN/hJ6o6rf1E6z`
+Snapshot ID: `AAAAABTdzQrjb7XClPojnlOffeIAwamX`

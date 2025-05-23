@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 198000,
       "name": "bye bye",
       "url": "https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0"
@@ -1287,6 +1287,28 @@
     },
     {
       "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296080,
+      "name": "Flower Moon",
+      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
+    },
+    {
+      "album": {
         "name": "Fly Like an Eagle",
         "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
       },
@@ -1754,7 +1776,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 295493,
       "name": "How Can I Do",
       "url": "https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx"
@@ -2013,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Love Is... Infinite",
+        "url": "https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Mitchell",
+          "url": "https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400321,
+      "name": "It... What or Why?",
+      "url": "https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ"
+    },
+    {
+      "album": {
         "name": "Jardin d'hiver",
         "url": "https://open.spotify.com/album/6QbLl6S6aVnJFELwqdw1gR"
       },
@@ -2176,7 +2216,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 223000,
       "name": "L'avventura",
       "url": "https://open.spotify.com/track/059jLJwzwUHfNSLj2LWlbi"
@@ -2234,7 +2274,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
@@ -3238,7 +3278,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 183720,
       "name": "Sitting, Waiting, Wishing",
       "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
@@ -3384,6 +3424,24 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
       "album": {
@@ -3711,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "The Eyes Of C\u00e9cilia",
+        "url": "https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt"
+      },
+      "artists": [
+        {
+          "name": "Charles Pasi",
+          "url": "https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "The Eyes Of C\u00e9cilia",
+      "url": "https://open.spotify.com/track/7cQ2BmsLbPSapjBmo8tku4"
+    },
+    {
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -3744,6 +3820,24 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "album": {
+        "name": "All in Time",
+        "url": "https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW"
+      },
+      "artists": [
+        {
+          "name": "Shake Shake Go",
+          "url": "https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247939,
+      "name": "The Lovers Side",
+      "url": "https://open.spotify.com/track/0d9tFcFuTCaCcFpCFDnaCu"
     },
     {
       "album": {
@@ -4162,6 +4256,24 @@
       "duration_ms": 233600,
       "name": "Water Ran",
       "url": "https://open.spotify.com/track/4u4NcX9VdRHTLIJQqXne3I"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135866,
+      "name": "Welcome to the Mood",
+      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
     },
     {
       "album": {

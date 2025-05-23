@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> WizTheMC au top des bangers dance/electro du moment !
+> AVAION x Sofiya Nzau au top des bangers dance/electro du moment !
 
 261 songs - 12 hr 0 min
 

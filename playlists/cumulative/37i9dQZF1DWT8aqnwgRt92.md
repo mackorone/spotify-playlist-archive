@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,977 songs - 5 day 2 hr 59 min
+1,978 songs - 5 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [From Season to Season!](https://open.spotify.com/track/6HX1Lswa8KH7hnIilwjWCG) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [KICS](https://open.spotify.com/artist/2mIL6foP0C2WznBB5Mtgyf) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:50 | 2025-04-24 | 2025-05-07 |
 | [Frontiers](https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Frontiers](https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C) | 2:36 | 2025-01-04 | 2025-04-11 |
 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2022-12-22 | 2023-01-18 |
-| [Fun! Fun! Fun!](https://open.spotify.com/track/1VfpwHeU9pho57Ag6T4crZ) | [新浜レオン](https://open.spotify.com/artist/6WHw9pdyHYT9c952yPaGM2) | [Fun! Fun! Fun!](https://open.spotify.com/album/09CblIw8WSWkHyPTY6A9sR) | 4:11 | 2025-04-15 |  |
+| [Fun! Fun! Fun!](https://open.spotify.com/track/1VfpwHeU9pho57Ag6T4crZ) | [新浜レオン](https://open.spotify.com/artist/6WHw9pdyHYT9c952yPaGM2) | [Fun! Fun! Fun!](https://open.spotify.com/album/09CblIw8WSWkHyPTY6A9sR) | 4:11 | 2025-04-15 | 2025-05-23 |
 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-07-28 | 2022-08-17 |
 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 | 2023-08-01 | 2023-10-08 |
 | [Future→Feature](https://open.spotify.com/track/77fsSyr1iVk6YMTOjX4AY8) | [岡本信彦](https://open.spotify.com/artist/4LnBMr1Dx4lzwe4txArNCR) | [Future→Feature](https://open.spotify.com/album/4Hbt1vIonjuoIFtzlbw6It) | 3:25 | 2024-05-09 | 2024-05-15 |
@@ -375,6 +375,7 @@
 | [Haiiro](https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Haiiro](https://open.spotify.com/album/5N12cQsHxO70Xs3wWiBwJ2) | 3:53 | 2023-07-18 | 2023-09-06 |
 | [HAKKA](https://open.spotify.com/track/5UZmTPGkbToC1IwGrQpivM) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [HAKKA ENDING SONG FROM TV SERIES ”ISHURA”](https://open.spotify.com/album/2o75VUqpKWrakvfO4hNVTy) | 3:50 | 2024-01-11 | 2024-03-20 |
 | [Hallo Gallo](https://open.spotify.com/track/5tEcZDbPrZDoPf5EYU9Y84) | [フィン \(CV.入野自由\)](https://open.spotify.com/artist/19Eztn3ipHq4vAh5bkWidF), [ミト \(クラムボン\)](https://open.spotify.com/artist/1jpK6BQogVa5NnFoX4okCu) | [Hallo Gallo](https://open.spotify.com/album/7dKjwg0fhfKTWFyhvR3Ucu) | 5:17 | 2022-08-30 | 2022-09-21 |
+| [HALO](https://open.spotify.com/track/35wZiQV2QPEEGjyh6XScaz) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [HALO](https://open.spotify.com/album/05X7klCQo760eyhjGMB87Q) | 3:06 | 2025-05-22 |  |
 | [hana saku michi de](https://open.spotify.com/track/5WlBH3TfTyYzCAfFT9v6fs) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [hana saku michi de](https://open.spotify.com/album/78rDdUEeYDf2ZImQVYvq2s) | 4:13 | 2025-04-10 |  |
 | [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 | 2023-04-04 | 2023-05-10 |
 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 | 2022-08-02 | 2022-10-05 |

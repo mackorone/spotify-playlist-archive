@@ -5195,6 +5195,24 @@
     },
     {
       "album": {
+        "name": "lemon tree",
+        "url": "https://open.spotify.com/album/3HDamI9fVuEi3Ao281APel"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "lemon tree",
+      "url": "https://open.spotify.com/track/71qHrRlWDAN4SJFPPEaUAK"
+    },
+    {
+      "album": {
         "name": "Les amis",
         "url": "https://open.spotify.com/album/7kSUMlTFtg8OVUzpLnyW0G"
       },
@@ -10942,7 +10960,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 105714,
       "name": "Who's Calling",
       "url": "https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX"

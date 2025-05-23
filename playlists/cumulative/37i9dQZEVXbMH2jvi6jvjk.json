@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Busisiwe",
+        "url": "https://open.spotify.com/album/69b2uVSk7HZokFQhNlXbRj"
+      },
+      "artists": [
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "Amandla Akho",
+      "url": "https://open.spotify.com/track/33vjvmN2HbsfKgDws80fJ5"
+    },
+    {
+      "album": {
         "name": "Amaneighbour",
         "url": "https://open.spotify.com/album/5FoWUwSYwWGGym4oVzNrOq"
       },
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 293877,
       "name": "Awuhlabe Kabili",
       "url": "https://open.spotify.com/track/5nVQ2bPZjV9wlD2hboLe6l"
@@ -5614,7 +5632,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -17345,6 +17363,28 @@
     },
     {
       "album": {
+        "name": "Sukulila",
+        "url": "https://open.spotify.com/album/3xbC7NEhRzkRVuGZK4P1aM"
+      },
+      "artists": [
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        },
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234900,
+      "name": "Hamba Naye",
+      "url": "https://open.spotify.com/track/6hKfk07KnmzaShGS33ITy6"
+    },
+    {
+      "album": {
         "name": "All You Need Is Piano 2",
         "url": "https://open.spotify.com/album/3ohWLYfrmnv4gew4DvZ9Qm"
       },
@@ -21268,6 +21308,24 @@
       "duration_ms": 132093,
       "name": "investigate",
       "url": "https://open.spotify.com/track/07jtHiI9zY9k5nDGXDn80h"
+    },
+    {
+      "album": {
+        "name": "Sukulila",
+        "url": "https://open.spotify.com/album/3xbC7NEhRzkRVuGZK4P1aM"
+      },
+      "artists": [
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210214,
+      "name": "Inyanga",
+      "url": "https://open.spotify.com/track/1bQVBe8sQEWnGVw8QUatkP"
     },
     {
       "album": {
@@ -25606,7 +25664,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -28860,7 +28918,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 348357,
       "name": "Mina Nawe",
       "url": "https://open.spotify.com/track/5TsjcsZxlhw85ChHMktd2g"
@@ -30250,7 +30308,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 146086,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
@@ -31682,7 +31740,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 241685,
       "name": "Ngiyabonga",
       "url": "https://open.spotify.com/track/2fOazsCfbGoDQqwxIJLUzG"
@@ -37846,7 +37904,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 271305,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ"

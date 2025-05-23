@@ -2,9 +2,9 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Pola & Bryson
+> The world's biggest Drum 'n' Bass playlist! Cover: Kanine
 
-916 songs - 2 day 6 hr 43 min
+917 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,7 +743,7 @@
 | [Special Powers](https://open.spotify.com/track/3dIKsuKDHXRfiZ56lm8g7T) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw) | [Special Powers](https://open.spotify.com/album/5jFsLa5dmeVcATvgI87FNK) | 2:44 | 2022-06-23 | 2023-07-21 |
 | [Spell It Out](https://open.spotify.com/track/4cTwHTffdp6UdKq3qJm5Lk) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Spell It Out](https://open.spotify.com/album/0jkspFJpxo3ICEQ3T5GPzK) | 2:20 | 2025-05-01 |  |
 | [Spend The Night](https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Spend The Night](https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7) | 3:07 | 2024-05-10 | 2024-11-08 |
-| [Spire](https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Spire](https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x) | 4:12 | 2024-12-13 |  |
+| [Spire](https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Spire](https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x) | 4:12 | 2024-12-13 | 2025-05-23 |
 | [Stampede](https://open.spotify.com/track/13wc1JCW2FmxT1niR2LrXc) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Stampede](https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l) | 3:48 | 2025-01-17 |  |
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-07-25 | 2023-07-07 |
 | [Stan Smith](https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/52Lz9d2VVZAkVhHNWCHFIC) | 3:55 | 2022-04-08 | 2022-07-27 |
@@ -768,6 +768,7 @@
 | [Submarine](https://open.spotify.com/track/0YFQ2syQ37ZXHtSJCdM2nx) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Submarine](https://open.spotify.com/album/2alm8iGBhMm7JNALYsKAk0) | 3:09 | 2023-07-13 | 2023-09-08 |
 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 | 2022-06-10 | 2022-10-07 |
 | [Summer Sun](https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Summer Sun](https://open.spotify.com/album/6lnZT31iC2GgoBswi0aBJF) | 3:00 | 2022-04-08 | 2022-06-21 |
+| [Sunglasses At Night](https://open.spotify.com/track/14tKvbr12aZpKkXFwcDCJw) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Zyntherius](https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM) | [Sunglasses At Night](https://open.spotify.com/album/50c9BrqsbHSj0iwoA7FDRl) | 2:59 | 2025-05-22 |  |
 | [Superstylin'](https://open.spotify.com/track/0BNAjscngqHA9dNXjok3Hp) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Superstylin’](https://open.spotify.com/album/135xhHMYLnTJj7J6zAniQ6) | 2:30 | 2025-03-28 |  |
 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 | 2022-04-08 | 2022-05-03 |
 | [Survival](https://open.spotify.com/track/52JMjyFeAF0Jtuowyafv3V) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Survival](https://open.spotify.com/album/5QU5KOIANu9uZqLAjglHbT) | 3:24 | 2023-07-27 | 2023-08-03 |

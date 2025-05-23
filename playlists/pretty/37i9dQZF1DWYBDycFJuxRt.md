@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: YOASOBI\*👉 <a href="https://spice.eplus.jp/articles/337967">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,594 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,612 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 73 | [YAPPARI SOKKURI](https://open.spotify.com/track/7mIHhtZGkfYn1acjJswaFH) | [毎日ユニーク](https://open.spotify.com/artist/3ozNqNNLtBozfYz8xU8BP2) | [YAPPARI SOKKURI](https://open.spotify.com/album/3YRMPFCWNMOVkOidXUKRQ0) | 1:31 |
 | 74 | [ANNEX\-KANラビリンス](https://open.spotify.com/track/3LqNkn6T60iOtcyGM3mx3H) | [秋山竜次](https://open.spotify.com/artist/05su5IDMhEOjMnd9JbJcX8) | [秋山歌謡祭2023－2025](https://open.spotify.com/album/1KeIDpA2EoDIaJykjKeFej) | 2:52 |
 
-Snapshot ID: `AAAAAPyAjabkO9Zzs1ZuoMcREcvtPlPj`
+Snapshot ID: `aC3OcQAAAABTg9AQo8ip6n5wr/Mwq1Lt`

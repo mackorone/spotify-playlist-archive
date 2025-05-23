@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Kazy Lambist
 
-640 songs - 1 day 10 hr 43 min
+642 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [DOWN BY YOU](https://open.spotify.com/track/5fagnXIy20bLyP4XoIXOwV) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DOWN BY YOU](https://open.spotify.com/album/2AaP0Nw0YjC1UFDMFT3l2X) | 3:04 | 2023-09-28 | 2023-10-27 |
 | [Down the Line](https://open.spotify.com/track/0CCa34HlzzqL4IbV4G7uTl) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Down the Line](https://open.spotify.com/album/2aUQUtNhw2UQjnPhI07eFS) | 3:13 | 2024-05-16 | 2024-06-14 |
 | [Draw The Line](https://open.spotify.com/track/0CBPfpPRbJSJBiwwB4iba9) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1), [JoshSimmons](https://open.spotify.com/artist/0JFppXf80RNwxZ2nrtdh4H) | [Draw The Line](https://open.spotify.com/album/4UJYP88mzdccx0buZsNUzM) | 2:37 | 2023-06-01 | 2023-07-07 |
-| [Dreaming](https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Dreaming](https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K) | 3:36 | 2025-05-01 |  |
+| [Dreaming](https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Dreaming](https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K) | 3:36 | 2025-05-01 | 2025-05-23 |
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2021-12-16 | 2022-06-10 |
 | [DUI](https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [DUI](https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1) | 4:07 | 2023-12-08 | 2024-09-06 |
 | [Décla](https://open.spotify.com/track/05LxLrui38KJAD1Ui1yGqN) | [Nina Lili J](https://open.spotify.com/artist/4pFzPeaxtoh7hF3XOXKicA) | [Décla](https://open.spotify.com/album/0EzXEOwPCp4gbdh9WKdzHe) | 3:38 | 2023-01-12 | 2023-09-15 |
@@ -531,13 +531,15 @@
 | [Start over](https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [YUMA](https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS) | 3:31 | 2023-06-01 | 2024-02-16 |
 | [Stay](https://open.spotify.com/track/7jkJWgGqpS8QrkibLlfMhz) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Stay](https://open.spotify.com/album/6DizoLGqfn6IXI4xk3yDwU) | 3:29 | 2022-10-13 | 2023-01-20 |
 | [Stay Tonight](https://open.spotify.com/track/2cQEVcWkIBoOPk2e6Wtgo7) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Stay Tonight](https://open.spotify.com/album/5FmKYqoVguD3KLINAfW9sn) | 2:41 | 2023-12-14 | 2024-04-12 |
+| [Stolen Dance](https://open.spotify.com/track/502dJfwWwiTbmwviMxieIL) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Stolen Dance](https://open.spotify.com/album/6VkRQLIih9vsX5QyPukzXQ) | 3:34 | 2025-05-22 |  |
 | [Storytelling](https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Storytelling](https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r) | 4:18 | 2024-09-19 |  |
 | [Störm](https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Störm](https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8) | 4:24 | 2022-04-14 | 2022-06-03 |
 | [Sucré Salé](https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [MOLITOR 24](https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9) | 2:42 | 2024-07-04 | 2025-05-09 |
 | [Suddenly](https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Suddenly](https://open.spotify.com/album/6jdkk8PtJCXpKnaMVeYhZ6) | 2:46 | 2023-10-19 | 2024-01-26 |
 | [Summer Song](https://open.spotify.com/track/7mJeABldzfdo4aBmTLYqPq) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Summer Song](https://open.spotify.com/album/0bfoUIARISlCk2tGnJFRhd) | 2:53 | 2023-06-22 | 2023-10-06 |
+| [summer1](https://open.spotify.com/track/0rJtuVlhDkwgyddZpkChKe) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [summer1](https://open.spotify.com/album/7G7sc7S8H489o4Mth2Rzdw) | 2:28 | 2025-05-22 |  |
 | [Sun](https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Sun](https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr) | 3:16 | 2022-02-17 | 2022-05-20 |
-| [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 | 2024-11-21 |  |
+| [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 | 2024-11-21 | 2025-05-23 |
 | [Sunlight](https://open.spotify.com/track/6kkBXPMpoQPFQ6SrgSQ7IK) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Sunlight](https://open.spotify.com/album/0J4ZjIpLALO2xXcyUBxI6G) | 2:51 | 2025-04-10 |  |
 | [sunny face](https://open.spotify.com/track/4gTNHEwcUaCmHRUQi5n6Cn) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [sunny face](https://open.spotify.com/album/0hEPMULhG0Jt96XKWIPnC4) | 2:52 | 2022-09-01 | 2022-09-10 |
 | [Superficial](https://open.spotify.com/track/0FiuPK0P2AkuBnhcW4Ahmu) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [Superficial](https://open.spotify.com/album/0sMKi2d10AIPHSyICczf4s) | 3:40 | 2023-04-13 | 2023-05-05 |

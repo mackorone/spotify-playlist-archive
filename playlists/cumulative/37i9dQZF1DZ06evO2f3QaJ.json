@@ -287,6 +287,32 @@
     },
     {
       "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/4ZkYOm4XXMJvhc1ouMkEXx"
+      },
+      "artists": [
+        {
+          "name": "Joabe Reis",
+          "url": "https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355032,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/7FJsOGDaIDO59ptmSlFrox"
+    },
+    {
+      "album": {
         "name": "EGOT",
         "url": "https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: pablopablo, Amaia.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 186505,
       "name": "a la cara",
       "url": "https://open.spotify.com/track/3alDWlvGPYBEOOzTXZ5RWo"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 249124,
       "name": "Abraxas!",
       "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
@@ -532,6 +532,24 @@
       "duration_ms": 164133,
       "name": "Amor A\u00e9reo",
       "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
+    },
+    {
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/1U6lF9IVUl1XtPRuGBdtgj"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/6KfTEMJQvxjymEKPEqi71E"
     },
     {
       "album": {
@@ -1189,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Cl\u00edmax",
+        "url": "https://open.spotify.com/album/2Q2n29Ql0hrp4BZycSDPyc"
+      },
+      "artists": [
+        {
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178048,
+      "name": "Cl\u00edmax",
+      "url": "https://open.spotify.com/track/4AO4y1C38GlVToUZ49VLKa"
+    },
+    {
+      "album": {
         "name": "Colmillo",
         "url": "https://open.spotify.com/album/6vre2iawu3WWpNO14XYk1d"
       },
@@ -1471,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Cuando T\u00fa Est\u00e1s Aqu\u00ed",
+        "url": "https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        },
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187650,
+      "name": "Cuando T\u00fa Est\u00e1s Aqu\u00ed",
+      "url": "https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58"
+    },
+    {
+      "album": {
         "name": "cuando vienes t\u00fa",
         "url": "https://open.spotify.com/album/0w3uVaDDwl9m52UdIvGkB6"
       },
@@ -1544,6 +1602,28 @@
       "duration_ms": 213429,
       "name": "Dar Dos",
       "url": "https://open.spotify.com/track/2TzV7yrc3A8ejmytkN1z2P"
+    },
+    {
+      "album": {
+        "name": "Canciones En Mi",
+        "url": "https://open.spotify.com/album/1shj8Q3BAMvtZkaG9m0mfI"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/4tWY6b0JHtTariStxqR00v"
     },
     {
       "album": {
@@ -2808,7 +2888,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 176992,
       "name": "Fan\u00e1tica",
       "url": "https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A"
@@ -4209,6 +4289,28 @@
     },
     {
       "album": {
+        "name": "Lo bien que suenas",
+        "url": "https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy"
+      },
+      "artists": [
+        {
+          "name": "ELYELLA",
+          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210107,
+      "name": "Lo bien que suenas",
+      "url": "https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2"
+    },
+    {
+      "album": {
         "name": "Lo Contrario",
         "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
       },
@@ -4398,7 +4500,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 133242,
       "name": "LOCOS POR EL SURF",
       "url": "https://open.spotify.com/track/3UjfIiw59usBg7nhf6m6qS"
@@ -5976,7 +6078,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 275213,
       "name": "Obst\u00e1culo",
       "url": "https://open.spotify.com/track/10lVyE5ysDdxnJUtpRYMeL"
@@ -6268,7 +6370,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 201000,
       "name": "Perro de Pavlov",
       "url": "https://open.spotify.com/track/5obec7ZQ16Z6rkYsAaU9cC"
@@ -6844,6 +6946,24 @@
       "duration_ms": 205989,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/19yzA9PaNcxNBDTddBIfpC"
+    },
+    {
+      "album": {
+        "name": "malamoneda",
+        "url": "https://open.spotify.com/album/5BQzNvtWUpMkdsDfghEMYe"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160271,
+      "name": "roto",
+      "url": "https://open.spotify.com/track/1zaS3LMDcXD809bgVRZYYu"
     },
     {
       "album": {
@@ -8132,7 +8252,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-23",
       "duration_ms": 166740,
       "name": "Vienen de pas\u00e1rselo bien con Tulsa",
       "url": "https://open.spotify.com/track/3KO1M1W2HiBYEMG3wLj0ep"

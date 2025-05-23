@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-872 songs - 1 day 13 hr 51 min
+873 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [i'm so tired...](https://open.spotify.com/track/7FamXhIzUQfZksaeBVLyxg) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [i'm so tired...](https://open.spotify.com/album/7ticB10Ylch3lT5iTUTVc6) | 2:41 | 2023-09-22 | 2024-09-21 |
 | [I'm Sorry](https://open.spotify.com/track/2FAMLWLM7BNIoSwIZFhqjM) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [I'm Sorry](https://open.spotify.com/album/1M3PT3o7HRXFfXDdPX7QGp) | 2:47 | 2025-04-11 |  |
 | [I'm Yours](https://open.spotify.com/track/0FSQnNreMgesQQOMF1IVae) | [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Majesto](https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI), [Beachlife](https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF) | [I'm Yours](https://open.spotify.com/album/0GFW4pgmxE3yX0zwzUa2CU) | 1:56 | 2024-07-13 |  |
+| [I've Got A Thing](https://open.spotify.com/track/20eiFohvshchsvXj5XN399) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [I've Got A Thing](https://open.spotify.com/album/0lV7tR7GHKddLAqIPdwV4C) | 2:29 | 2025-05-22 |  |
 | [If I Imagine](https://open.spotify.com/track/4m9JsyxusOEq2YM9ywoI4k) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [If I Imagine](https://open.spotify.com/album/3MyX5bXEJdBAmnCniqxzSa) | 2:41 | 2025-01-12 |  |
 | [If I Only Knew](https://open.spotify.com/track/0VN4l7R6O7UcPKJhwaZfNN) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [If I Only Knew](https://open.spotify.com/album/1ejZy43GaJpxtdIOVP4k3L) | 2:27 | 2024-05-17 | 2024-06-27 |
 | [If You Had My Love](https://open.spotify.com/track/0JWSMYurMhPmlD5H8VRoTn) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [If You Had My Love](https://open.spotify.com/album/4QLYrQJNjyLWOZmXtmGxUO) | 2:54 | 2023-09-22 |  |

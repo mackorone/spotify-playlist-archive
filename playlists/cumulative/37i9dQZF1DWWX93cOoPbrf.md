@@ -4,7 +4,7 @@
 
 > Lo más fresco de los corridones\. Edgardo Nuñez en portada.
 
-1,531 songs - 3 day 6 hr 2 min
+1,532 songs - 3 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [El Pollo Coyote](https://open.spotify.com/track/6DYai2NoxXnvreCeFOZLiw) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Pollo Coyote](https://open.spotify.com/album/0IlUiMespppDPeiewsm7uc) | 2:31 | 2023-06-23 | 2023-08-05 |
 | [El Postre](https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Somos Leyenda](https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D) | 2:50 | 2025-05-02 |  |
 | [El Prieto Bereta](https://open.spotify.com/track/4ou6FcWqtjorBer6znaAuU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Prieto Bereta](https://open.spotify.com/album/6ltDtyvsiOU4AF6XZZr5o9) | 3:35 | 2024-03-22 | 2024-04-13 |
+| [El Primero](https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Primero](https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG) | 2:55 | 2025-05-16 |  |
 | [El Primito](https://open.spotify.com/track/1zh4DhpFFRqRr08HMMrTvA) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [El Primito](https://open.spotify.com/album/2SixJMrW7F9ialORZrc7Kp) | 4:25 | 2024-11-29 | 2025-01-25 |
 | [El Primito](https://open.spotify.com/track/6M269T5bCl9Z5krUPZ389A) | [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [El Primito](https://open.spotify.com/album/1M76nO5nmruPUkJXjVUCoG) | 2:32 | 2024-08-16 | 2024-09-07 |
 | [El Primito](https://open.spotify.com/track/07ENRSIr0dRqvlJI76DF03) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Grupo Vanguardia](https://open.spotify.com/artist/5qrmJRfUakYkbZZPXdD2FE) | [El Primito](https://open.spotify.com/album/16n9JAWP37liELwCRM4oHv) | 2:54 | 2023-10-13 | 2023-11-18 |

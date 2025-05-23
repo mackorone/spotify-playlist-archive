@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Aminé, Latto, Snoop Dogg and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,431 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,495 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 40 | [Khaled](https://open.spotify.com/track/4Q811FafwYaILJOAMXoMvO) | [SlimeGetEm](https://open.spotify.com/artist/7b5FD1wsy3KBIrMjTqTNBi) | [2923 Hours](https://open.spotify.com/album/0NSx6MillgK7cAkeawsdcO) | 1:56 |
 | 41 | [Sade](https://open.spotify.com/track/4ANCcqpF3Yv9MfFRPjKrPz) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ) | [Sade](https://open.spotify.com/album/2VlDEdciA2rvMhdM3QwgYI) | 2:03 |
 | 42 | [Top That \(feat\. DRAM\)](https://open.spotify.com/track/6Eg6RyGAQiYfO8R7QF4f1o) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [EGONOMICS](https://open.spotify.com/album/33fOm2vnd94oesfk9TiSla) | 2:41 |
-| 43 | [Pop Out](https://open.spotify.com/track/1z5lT4q90zv9d3QdVrhPFY) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Pop Out](https://open.spotify.com/album/4KyCFw42RjIyjfBIUTn3zA) | 1:45 |
+| 43 | [Pop Out](https://open.spotify.com/track/1z5lT4q90zv9d3QdVrhPFY) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Pop Out](https://open.spotify.com/album/4KyCFw42RjIyjfBIUTn3zA) | 1:54 |
 | 44 | [No Hook](https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [No Hook](https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z) | 1:36 |
 | 45 | [The Moment \(ft\. Busta Rhymes & JasonMartin\)](https://open.spotify.com/track/2W4OnbVE9uxlnp58XTZUSR) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Kingmaker](https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR) | 3:07 |
 | 46 | [Black Don't Dead \(with Dj Too Tuff\)](https://open.spotify.com/track/3HI6ycE5uGKVJ7PXrM59uK) | [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Dj Too Tuff](https://open.spotify.com/artist/3t0hCLaJCxirLsmb0orKRt) | [Chuck D Presents Enemy Radio: Radio Armageddon](https://open.spotify.com/album/4sfmz7wqSPCtni6cN1G81Y) | 3:51 |

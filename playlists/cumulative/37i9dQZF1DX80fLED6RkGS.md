@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: Mejja
+> Only the hottest Gengetone coming out of Kenya\. Cover: Joefes
 
-444 songs - 23 hr 47 min
+445 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Izi Ndio Isaa](https://open.spotify.com/track/2rkXSg0O8H4OwKMeEQzb2M) | [Akasha \(Jeshi Jinga\)](https://open.spotify.com/artist/6sauKsK1CoTdZoeDP6vzuK), [Smady, D'mike](https://open.spotify.com/artist/0qryoSxhorJEeAKg3dBrTf) | [Izi Ndio Isaa](https://open.spotify.com/album/00ni4YtYPDvFuN9V9yPORg) | 3:42 | 2021-10-07 | 2022-02-05 |
 | [JANA](https://open.spotify.com/track/4ibcqueUy2IIsRye4LVQbv) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [JANA](https://open.spotify.com/album/4vwaqJ3M2Ub4pHEagVZ6mT) | 2:34 | 2025-05-09 |  |
 | [JIBAMBEZ](https://open.spotify.com/track/3h0E0CYbU0vCN4pR6i5ntC) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [JIBAMBEZ](https://open.spotify.com/album/6irFHxFR1y763M6JEWLVbP) | 3:57 | 2024-06-20 | 2024-11-15 |
+| [Jiji la Makata](https://open.spotify.com/track/0SNTqHFiOQXnHmTNUlti0Q) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [Jiji la Makata](https://open.spotify.com/album/1GTl9lSois1Vr4e4aJwqFb) | 2:11 | 2025-05-22 |  |
 | [Ka Unaweza](https://open.spotify.com/track/7awoDNq8TDADZwXoqiafsK) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ka Unaweza](https://open.spotify.com/album/7rsoVA4Gx2zR8RfELk6tBe) | 3:14 | 2022-06-23 | 2022-12-17 |
 | [Ka Unaweza](https://open.spotify.com/track/7lk6GK9hQSXbeornMmYll5) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ka Unaweza](https://open.spotify.com/album/5DoBdO4BJ2QfGJ7DqjwdqO) | 3:14 | 2022-06-23 | 2023-10-13 |
 | [Kafyat](https://open.spotify.com/track/4GAr9xYzRrWimnKpTgr9rO) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Kafyat](https://open.spotify.com/album/3nKwGcOBnexiNPBvKnK47D) | 3:04 | 2025-05-01 |  |
@@ -201,7 +202,7 @@
 | [Kutu](https://open.spotify.com/track/0eiLAJfMigbmOTsbcHRqZW) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Kutu](https://open.spotify.com/album/6bMS8Ihr84rmSOHOPzfV5j) | 2:47 | 2023-03-23 | 2023-11-10 |
 | [Kutu](https://open.spotify.com/track/4YPBFJLxizy9Ekh8gnTSMD) | [VDJ JONES](https://open.spotify.com/artist/0esgHtr7W67AGn1vQXcuYJ), [Kabagazi](https://open.spotify.com/artist/5eyHBFX9iqlzI3l5b0MCDN), [Bussa J](https://open.spotify.com/artist/6HfixcCzHBEujApZAry6ps), [Oneboy](https://open.spotify.com/artist/47oldowktpKnQKl9xfr1rN), [Onlydelo](https://open.spotify.com/artist/0X6CnPwP67OnlfH1F3Pdy1) | [Kutu](https://open.spotify.com/album/2P4hE2Rhu49t3P21qmo9q6) | 4:13 | 2021-09-23 | 2022-02-25 |
 | [Kuzitoka](https://open.spotify.com/track/3mWRoagkKOGliBMhYmK4mE) | [TheLuchi](https://open.spotify.com/artist/7As9lFEIoGFHpYL40hVHtC), [Unspoke Salaton](https://open.spotify.com/artist/6BwrI2yCzVpnyjBCb31e65), [Mluhyaflani](https://open.spotify.com/artist/4B0hzYTjXATjN6D2sOdNnS), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Kuzitoka](https://open.spotify.com/album/79xtxVgisjoKuUYaxAtjCp) | 3:18 | 2024-11-08 |  |
-| [Kwa Ndae](https://open.spotify.com/track/0gDISI8zi3d9EwYk7IKq8W) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [Kwa Ndae](https://open.spotify.com/album/0MhBL1y515Ozl3MXIyhDzt) | 2:46 | 2024-10-17 |  |
+| [Kwa Ndae](https://open.spotify.com/track/0gDISI8zi3d9EwYk7IKq8W) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [Kwa Ndae](https://open.spotify.com/album/0MhBL1y515Ozl3MXIyhDzt) | 2:46 | 2024-10-17 | 2025-05-23 |
 | [Kwa News](https://open.spotify.com/track/0HFkGjtYuGrQold42bscTz) | [Vdj Jones](https://open.spotify.com/artist/4q66q8I9GZAdNtes3j2yuK), [Kartelo](https://open.spotify.com/artist/0FlrwOVoB67O9oi1F63vx6), [LUCCI](https://open.spotify.com/artist/75J9pMyFad9anrPlIbHMj4) | [Kwa News](https://open.spotify.com/album/1NxSdHbSm1oO7TH18kd9mu) | 3:32 | 2022-06-02 | 2023-02-10 |
 | [Kwaito](https://open.spotify.com/track/0Ufi9fI168Dv2QJqeyxtH6) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [IPhoolish](https://open.spotify.com/artist/2BbyG4ASBFbjeWY9zSCXjB) | [Kwaito](https://open.spotify.com/album/64zRVubmwMV7HerKmfrWoS) | 2:58 | 2022-06-30 | 2023-08-18 |
 | [Laptop](https://open.spotify.com/track/1PrVaagY1pWFwB6M2sOQ0N) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Laptop](https://open.spotify.com/album/1uRnKxFbtH0VVfDKBcXQIv) | 3:24 | 2024-07-11 | 2025-02-22 |
