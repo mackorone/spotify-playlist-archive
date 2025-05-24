@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Wilma Van Heerden, Franja Du Plessis, Francois Van Coke en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,400 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,529 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 12 | [In Die Bos](https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [In Die Bos](https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba) | 2:58 |
 | 13 | [Kyk Terug](https://open.spotify.com/track/03LFyc9Ma8c87I69JT6P4F) | [Vreemd](https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9) | [Alles, Almal, Iewers](https://open.spotify.com/album/6i6wvlNYJ21tvNAbbreUaf) | 2:41 |
 | 14 | [Woeste Manne Van Worcester](https://open.spotify.com/track/0wlnohG52coUKnHq0CxRl7) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Woeste Manne Van Worcester](https://open.spotify.com/album/0qeAeQD2UHKYBJUV7HiwAW) | 3:23 |
-| 15 | [Moes Maar Ek Moenie](https://open.spotify.com/track/17Sqz5allooXiGaO6VzxQU) | [Liza Nel](https://open.spotify.com/artist/47UOjT0nxjQ4jynAtmKKeX) | [Moes Maar Ek Moenie](https://open.spotify.com/album/1Msqqo7bcdmpMrgD8YEzTj) | 2:57 |
+| 15 | [Moes Maar Ek Moenie](https://open.spotify.com/track/17Sqz5allooXiGaO6VzxQU) | [Liza Nel](https://open.spotify.com/artist/2A972WrIIrzfdsI5IeSS3z) | [Moes Maar Ek Moenie](https://open.spotify.com/album/1Msqqo7bcdmpMrgD8YEzTj) | 2:57 |
 | 16 | [Brand](https://open.spotify.com/track/0n8AJV8zUCY9NX4z2DMq9z) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Brand](https://open.spotify.com/album/31NYcCU26A7NutXOIsfM2q) | 3:00 |
 | 17 | [Lewenslyn](https://open.spotify.com/track/39zjzCO4UWIq6371ZLzHKg) | [Damian Beer](https://open.spotify.com/artist/643J2yCzPlJwRf2Taru6l9) | [Lewenslyn](https://open.spotify.com/album/5qVtNOX0RfHuyYaPqioXTx) | 3:14 |
 | 18 | [Gat In Jou Sak](https://open.spotify.com/track/2rYnthFlKKbV2VHhaQW7BF) | [JACOBUS](https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt) | [Gat In Jou Sak](https://open.spotify.com/album/5k0M1lOOTdkiRSDhusuMTg) | 3:30 |

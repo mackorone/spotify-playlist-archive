@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196 likes - 64 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 198 likes - 64 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 9 | [If I Didn't Know Better](https://open.spotify.com/track/6GBxfhz2eKwlF1OaYGy7Cx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:07 |
 | 10 | [Your Secret Love](https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:12 |
 | 11 | [Wait for Love](https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 5:17 |
-| 12 | [Liberation Agitato / A Brand New Day / Liberation Ballet](https://open.spotify.com/track/3isUhqgO9KBLLP4fJ4oESl) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Nipsey Russell](https://open.spotify.com/artist/4SgnrTFxTLvwUfw98OsRsF), [Ted Ross](https://open.spotify.com/artist/3XeCvWBEUvxkF1IHZmB6rq), [The Wiz Choir](https://open.spotify.com/artist/1tT2npbBvB62y5sjsdfve2) | [The Wiz](https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y) | 7:48 |
-| 13 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:45 |
+| 12 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:45 |
+| 13 | [Liberation Agitato / A Brand New Day / Liberation Ballet](https://open.spotify.com/track/3isUhqgO9KBLLP4fJ4oESl) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Nipsey Russell](https://open.spotify.com/artist/4SgnrTFxTLvwUfw98OsRsF), [Ted Ross](https://open.spotify.com/artist/3XeCvWBEUvxkF1IHZmB6rq), [The Wiz Choir](https://open.spotify.com/artist/1tT2npbBvB62y5sjsdfve2) | [The Wiz](https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y) | 7:48 |
 | 14 | [Get It Right](https://open.spotify.com/track/1zaigPe4NB94tc4CRshK46) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right](https://open.spotify.com/album/0Pe124sDVootFFmCMhqeHO) | 6:17 |
 | 15 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
 | 16 | [Power of Love / Love Power](https://open.spotify.com/track/6ep87j7rt6j8Fok55N9NOs) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Power Of Love](https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f) | 6:42 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 45 | [Nights In Harlem](https://open.spotify.com/track/6lh0AqT1So3DLXmLCOq7lO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Precise](https://open.spotify.com/artist/1DCg5oUIDsOQKJNgvsfq8U) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:57 |
 | 46 | [Love Forgot](https://open.spotify.com/track/1SdTlnlYsIuLqzvKIACKIf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:36 |
 | 47 | [Dream Lover](https://open.spotify.com/track/6ci6IogNBgBxSMLKm78HUf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:32 |
-| 48 | [Love me Again](https://open.spotify.com/track/4wNjohHSHCdeL6HvrUN5tc) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 6:07 |
-| 49 | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/track/66ytWEGo1GFennEcymEXN3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 5:29 |
+| 48 | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/track/66ytWEGo1GFennEcymEXN3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 5:29 |
+| 49 | [Love me Again](https://open.spotify.com/track/4wNjohHSHCdeL6HvrUN5tc) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 6:07 |
 | 50 | [If You Can't Dance](https://open.spotify.com/track/4VMVGxnZFOZrEHAE6UrIkG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu) | 2:27 |
 | 51 | [This Time I'm Right](https://open.spotify.com/track/2LDW5y5yegRYQp7Es7wLVz) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 5:07 |
 | 52 | [Too Far Down](https://open.spotify.com/track/5g1uxnBbI1OXtvJ78MxdhV) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 6:12 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 63 | [A Brand New Day \- Radio Mix](https://open.spotify.com/track/4NrRL6djROkYxWrfYidbee) | [Emerald](https://open.spotify.com/artist/4PdFh3s3gKyoCB1Pcpci9l) | [A Brand New Day](https://open.spotify.com/album/3qkEyGnitBPZpFL9aqimXl) | 3:14 |
 | 64 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AbyIHgAAAACEh7zuP9vT9jPLtmBdOpSp`
+Snapshot ID: `AbyNoAAAAABOgzEFO/ljtsfUTbv9tnSm`

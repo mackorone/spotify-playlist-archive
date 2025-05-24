@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française\. Photo: Bertrand Belin
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,144 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,230 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 7 | [Nos sentiers secrets](https://open.spotify.com/track/6EaZgo6RRRl16qYqASvwUP) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Le vert et le bleu](https://open.spotify.com/album/3KC3oY8ptXntPvoy52MR78) | 4:34 |
 | 8 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 |
 | 9 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 |
-| 10 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:03 |
+| 10 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 |
 | 11 | [Je sais pas être seule](https://open.spotify.com/track/3FcFUaNTx17En4eVR7ygvB) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [Le Cabaret des Pleurs](https://open.spotify.com/album/0k6GwHDCtvQwqWucVnBwiZ) | 2:42 |
 | 12 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
 | 13 | [Deux ailes à Ella](https://open.spotify.com/track/25o0EUIimN9sL43v63diz3) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Instant](https://open.spotify.com/album/1zud2YbK4ULbu4HDmwmKY7) | 7:28 |

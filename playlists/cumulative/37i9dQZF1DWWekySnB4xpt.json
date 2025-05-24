@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Alleh & Yorghaki",
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Mau y Ricky, Danny Ocean, Yorghaki",
   "name": "Made In Venezuela",
   "tracks": [
     {
@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239324,
+      "name": "capricho",
+      "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
+    },
+    {
+      "album": {
         "name": "CARACAS EN EL 2000",
         "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
@@ -626,7 +644,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 216250,
       "name": "Coquette (Remix)",
       "url": "https://open.spotify.com/track/5HrjBJVKnfPOgDAIo3Wow4"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 155294,
       "name": "EL FAVORITO DE MAMI",
       "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
@@ -2508,6 +2526,32 @@
       "duration_ms": 191075,
       "name": "Reset",
       "url": "https://open.spotify.com/track/2vGR2udwxxgDzH1nRkIAAa"
+    },
+    {
+      "album": {
+        "name": "saman\u00e1",
+        "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160575,
+      "name": "saman\u00e1",
+      "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
     },
     {
       "album": {

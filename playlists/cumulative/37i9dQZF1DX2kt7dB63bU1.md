@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-830 songs - 2 day 9 hr 34 min
+831 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Fría](https://open.spotify.com/track/5NAeSWjK4FDxeS5XYxyHbf) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Fría](https://open.spotify.com/album/0qRzUphYxhnYuSd2KX2zaI) | 2:54 | 2022-07-08 | 2022-09-05 |
 | [Garden of Love](https://open.spotify.com/track/6cQ00DBioHKxFK01kbJH0x) | [Andrea Superstein](https://open.spotify.com/artist/4BwtTvlrVEs9cjpEK8RmDm) | [Worlds Apart](https://open.spotify.com/album/5fJxOK6q6GBWIYbmG5Xj00) | 4:04 | 2020-10-09 | 2022-02-17 |
 | [Genuine](https://open.spotify.com/track/4bfkTfeGVeuqDUS7SCBtym) | [Roderick Harper](https://open.spotify.com/artist/5iozeIflBLGYjTvkk6eIi6) | [Genuine](https://open.spotify.com/album/1ZDGAGwPxFdRyIX657qW48) | 4:18 | 2023-03-17 | 2024-06-29 |
+| [Get Out of Town](https://open.spotify.com/track/5974nBdPM0feVCxqOodh9a) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town](https://open.spotify.com/album/4fqNWJL8PQEt6eRX6AJ08Q) | 5:22 | 2025-05-23 |  |
 | [Getting to Know You](https://open.spotify.com/track/6W2bvbDFUNjEWm1EfAd34w) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 6:19 | 2021-02-19 | 2022-10-08 |
 | [Getting to Know You](https://open.spotify.com/track/6ma51lucUQZ6ApvpE0XA6K) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Getting to Know You](https://open.spotify.com/album/3j3BzKfVDmdgOLyxQvE6vd) | 6:19 | 2021-02-19 | 2022-07-29 |
 | [Ghost in the Night](https://open.spotify.com/track/1hn9FXzDObHWssesbc7CqL) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Ghost in the Night](https://open.spotify.com/album/28KDOnndNTfgACJVhaYzmS) | 5:56 | 2022-02-18 | 2022-04-20 |
@@ -635,7 +636,7 @@
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 | 2022-03-18 | 2023-02-25 |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG) | 3:48 | 2022-03-18 | 2022-07-29 |
 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 | 2021-06-18 | 2022-02-19 |
-| [Stairway to the Stars](https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Stairway to the Stars](https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80) | 5:18 | 2025-01-17 |  |
+| [Stairway to the Stars](https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Stairway to the Stars](https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80) | 5:18 | 2025-01-17 | 2025-05-24 |
 | [Stardust](https://open.spotify.com/track/1SC7yyif78lqVKvfhyRQV8) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Stardust](https://open.spotify.com/album/7kMzUihLu60fHLRIUCuw60) | 3:53 | 2021-06-01 | 2022-07-29 |
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2021-06-01 | 2022-10-08 |
 | [Stars \(Endless Stars\)](https://open.spotify.com/track/2MMhv3V5bTrhvN2S7qoEkg) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Stars \(Endless Stars\)](https://open.spotify.com/album/4wnntLk0X1xA6jKsclQsfk) | 6:01 | 2024-10-18 |  |

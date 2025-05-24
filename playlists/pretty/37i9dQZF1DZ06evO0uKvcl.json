@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 30029,
+  "num_followers": 30033,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAD08hw+uHVldG6o/EP/CuaA",
+  "snapshot_id": "aC5pAAAAAADo02O+Ukk1iIje8Qu8gS1X",
   "tracks": [
     {
       "added_at": null,
@@ -386,11 +386,15 @@
         {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Rockin' Daddy",
-      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
+      "duration_ms": 175413,
+      "name": "Worried About My Baby",
+      "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
     },
     {
       "added_at": null,
@@ -466,15 +470,11 @@
         {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Worried About My Baby",
-      "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
+      "duration_ms": 223946,
+      "name": "Rockin' Daddy",
+      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "I've Been Abused - Single Version",
-      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electro Blues - In House Selection",
         "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 227240,
       "name": "Cryin' at Daybreak",
       "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "Just Like I Treat You - Single Version",
-      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 175663,
       "name": "Wolf Is At Your Door",
       "url": "https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "Just Like I Treat You - Single Version",
+      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Hidden Charms - Single Version",
-      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 191194,
       "name": "Color And Kind",
       "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "I Better Go Now - Single Version",
-      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 554826,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "I Better Go Now - Single Version",
+      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
     },
     {
       "added_at": null,

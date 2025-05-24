@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring DAMEDAME*.",
+  "description": "What's happening in r&b, right now \u2013 featuring GIV\u0112ON.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 217815,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/3uDZc1Mzf7smj1KuaY5YSG"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 243125,
       "name": "Don't Forget About Us - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
@@ -5658,7 +5658,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 234666,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/0LzEr4WBgwYaMG2zzDk5IW"
@@ -6944,7 +6944,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 203784,
       "name": "Gimme a Chance",
       "url": "https://open.spotify.com/track/1ilwbRKyYcgs41eRpiH6jG"
@@ -8847,6 +8847,28 @@
     },
     {
       "album": {
+        "name": "Ikigai (feat. Loonie)",
+        "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Loonie",
+          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245729,
+      "name": "Ikigai (feat. Loonie)",
+      "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
+    },
+    {
+      "album": {
         "name": "NiiGHTBEFORESERVICE",
         "url": "https://open.spotify.com/album/3Z78nNMXYqQ6HDaRZ8YaxZ"
       },
@@ -9556,6 +9578,28 @@
       "duration_ms": 195186,
       "name": "JEANS (with Miguel)",
       "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
+    },
+    {
+      "album": {
+        "name": "JOURNEY",
+        "url": "https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "S'ABLE SOUNDS",
+          "url": "https://open.spotify.com/artist/6U7WxgiiEN0thKCXwAFah7"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "JOURNEY",
+      "url": "https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU"
     },
     {
       "album": {
@@ -10777,6 +10821,24 @@
     },
     {
       "album": {
+        "name": "Lil' Obsession",
+        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181921,
+      "name": "Lil' Obsession",
+      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj"
       },
@@ -11722,7 +11784,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 189473,
       "name": "Make Me Feel (with LaRussell)",
       "url": "https://open.spotify.com/track/3fWFpIGeEWYgrwV1peKywx"
@@ -16493,6 +16555,24 @@
     },
     {
       "album": {
+        "name": "Say The Word",
+        "url": "https://open.spotify.com/album/2HSD32LyK8M3kfy7zk9uJo"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216481,
+      "name": "Say The Word",
+      "url": "https://open.spotify.com/track/7IaENsQHPSGcY62vzbEtYj"
+    },
+    {
+      "album": {
         "name": "Say Yea",
         "url": "https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS"
       },
@@ -19823,6 +19903,32 @@
     },
     {
       "album": {
+        "name": "To Be Found",
+        "url": "https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr"
+      },
+      "artists": [
+        {
+          "name": "DHANYA",
+          "url": "https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220165,
+      "name": "To Be Found",
+      "url": "https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF"
+    },
+    {
+      "album": {
         "name": "To This Day",
         "url": "https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI"
       },
@@ -20392,7 +20498,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 171955,
       "name": "TWENTIES",
       "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"

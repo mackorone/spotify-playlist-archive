@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Maria Becerra.
+> La música que te acompaña en el amor\. Foto: Alejandro Sanz & Shakira.
 
-225 songs - 12 hr 22 min
+226 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bombón](https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT) | 2:40 | 2023-03-31 | 2024-03-04 |
 | [Bombón](https://open.spotify.com/track/4sd6xpcv4ofP86B9X09idi) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/0jrwykrCrzrdlubEvniMN1) | 2:40 | 2024-02-16 | 2024-04-19 |
 | [Bombón](https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g) | 2:40 | 2022-07-15 |  |
+| [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 | 2025-05-23 |  |
 | [Bésame](https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bésame](https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT) | 2:50 | 2022-01-14 | 2022-04-02 |
 | [Cambiar el Destino](https://open.spotify.com/track/3crnfOW3frAX6OBGr2ARrD) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Cambiar el Destino](https://open.spotify.com/album/525KnEdbZfVNh8rdWSdN6d) | 3:12 | 2023-04-21 | 2025-03-22 |
 | [Canción Sin Nombre Numero 477](https://open.spotify.com/track/6By9OQDpPYsAlZDW0OZ7tQ) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM) | [Canción Sin Nombre Numero 477](https://open.spotify.com/album/4kjO6dDuzfOoKQx4AtxBwu) | 3:34 | 2022-07-15 | 2022-07-30 |

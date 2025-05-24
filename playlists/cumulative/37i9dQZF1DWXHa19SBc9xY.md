@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-148 songs - 7 hr 53 min
+149 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2023-06-23 |  |
 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 | 2023-06-23 |  |
 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 | 2023-06-23 |  |
+| [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 | 2025-05-23 |  |
 | [Coisa de Contar](https://open.spotify.com/track/4OTk4Bb4In0msne2ctxD1Q) | [Victor Mus](https://open.spotify.com/artist/2chMd942hjEdCQWYDGVIXw), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Coisa de Contar](https://open.spotify.com/album/3PNpuS5h9p94XBIYNZNnNI) | 3:14 | 2023-06-23 | 2023-10-07 |
 | [Coisa Mais Linda](https://open.spotify.com/track/2xCN1ZiUbeYNnSl7Gin8c8) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Coisa Mais Linda](https://open.spotify.com/album/1VSbHxrlJdkwsanhiSCPuY) | 2:44 | 2025-02-22 |  |
 | [Com Certeza](https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Com Certeza](https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7) | 3:32 | 2023-06-23 |  |
@@ -83,7 +84,7 @@
 | [Lua Nova](https://open.spotify.com/track/7gob58REjZ8OLz3sXwYKg4) | [PH Moraes](https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Lua Nova](https://open.spotify.com/album/77HrVoVJjktmHBy9XRfBIc) | 2:41 | 2023-11-24 | 2025-04-05 |
 | [Lua Vai, Lua Vem](https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS) | [Thaïs Morell](https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB) | [Lua Vai, Lua Vem](https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX) | 3:36 | 2023-06-23 |  |
 | [Lugar Secreto](https://open.spotify.com/track/001B5pHMglvqiOuAVtssA7) | [Hugo Almeida](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Lugar Secreto](https://open.spotify.com/album/12qZrh454aUaPazYprUWjd) | 2:07 | 2025-02-07 | 2025-02-22 |
-| [Magnética](https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Magnética](https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI) | 3:16 | 2025-04-04 |  |
+| [Magnética](https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Magnética](https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI) | 3:16 | 2025-04-04 | 2025-05-24 |
 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 | 2023-06-23 | 2025-02-22 |
 | [Mais Perto](https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre Homens e Automóveis](https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6) | 3:09 | 2023-06-23 | 2024-04-19 |
 | [Mais Perto](https://open.spotify.com/track/4Z5l9Xdxs5GJZxSd5GEz33) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Mais Perto](https://open.spotify.com/album/6ueqxBAa5wYjO9dvjcxsjP) | 3:09 | 2023-11-24 | 2025-02-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 237286,
+  "num_followers": 237372,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAADYh7cHa8zRhnrWwqszZqYx",
+  "snapshot_id": "aC5pAAAAAACcXTZX0DkIJPZophCgXpmg",
   "tracks": [
     {
       "added_at": null,
@@ -487,38 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 260732,
-      "name": "Connaissais de Face",
-      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 221218,
-      "name": "The No.4",
-      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -539,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 221218,
+      "name": "The No.4",
+      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 260732,
+      "name": "Connaissais de Face",
+      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -551,38 +551,6 @@
       "duration_ms": 120720,
       "name": "Farolim de Felgueiras",
       "url": "https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "C\u00f3mo Me Quieres",
-      "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Master Of Life",
-      "url": "https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV"
     },
     {
       "added_at": null,
@@ -607,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
       },
       "artists": [
         {
@@ -616,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 185165,
-      "name": "Father Bird, Mother Bird",
-      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
+      "duration_ms": 181224,
+      "name": "Master Of Life",
+      "url": "https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV"
     },
     {
       "added_at": null,
@@ -632,15 +600,15 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 240742,
-      "name": "Evan Finds the Third Room",
-      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
+      "duration_ms": 225153,
+      "name": "C\u00f3mo Me Quieres",
+      "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
@@ -648,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 308913,
-      "name": "Right",
-      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
+      "duration_ms": 185165,
+      "name": "Father Bird, Mother Bird",
+      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
     },
     {
       "added_at": null,
@@ -675,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
       },
       "artists": [
         {
@@ -684,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 239030,
-      "name": "Khuda Bhi Aasman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s"
+      "duration_ms": 308913,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
     },
     {
       "added_at": null,
@@ -700,15 +668,15 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 242536,
-      "name": "C\u00f3mo Te Quiero",
-      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
+      "duration_ms": 240742,
+      "name": "Evan Finds the Third Room",
+      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
       },
       "artists": [
         {
@@ -716,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 286997,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/7JbBwnIVC92yt9eXjQi1lZ"
+      "duration_ms": 239030,
+      "name": "Khuda Bhi Aasman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s"
     },
     {
       "added_at": null,
@@ -739,6 +707,38 @@
       "duration_ms": 301242,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 286997,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/7JbBwnIVC92yt9eXjQi1lZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 242536,
+      "name": "C\u00f3mo Te Quiero",
+      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
     },
     {
       "added_at": null,

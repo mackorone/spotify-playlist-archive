@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,909 likes - 64 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,041 likes - 64 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 59 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 60 | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV) | 3:02 |
 | 61 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
-| 62 | [Pájaro y Demonio \- En Vivo en Estadio Ferro](https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio \(En Vivo en Estadio Ferro\)](https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun) | 4:11 |
-| 63 | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS) | 6:02 |
-| 64 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
+| 62 | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS) | 6:02 |
+| 63 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
+| 64 | [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 |
 
 Snapshot ID: `aBQ1VgAAAACV1RbxWx/ZqMv7a7sniBKH`

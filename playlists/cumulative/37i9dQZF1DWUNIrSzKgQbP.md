@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-764 songs - 1 day 23 hr 52 min
+765 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Hey Honey](https://open.spotify.com/track/2li2MJc9kjQwl1DgRpliaJ) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Lucky](https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7) | 3:41 | 2023-06-21 | 2024-08-29 |
 | [Hey There](https://open.spotify.com/track/3qtoDCoIv3wZcI7MQ1ttz7) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Hey There](https://open.spotify.com/album/6Gf2sDTI91ylHSawIT5CNf) | 3:34 | 2021-12-20 | 2022-03-22 |
 | [Hey, Coyote](https://open.spotify.com/track/0A6EA2DzjNqaoRghXFKGzK) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Let A Little Light In](https://open.spotify.com/album/4KF4JcMVA5WbW02qPTIHp6) | 3:35 | 2021-12-20 | 2022-03-22 |
+| [High and Dry](https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [High and Dry](https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT) | 2:33 | 2025-05-23 |  |
 | [Ho Hey](https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/2MTEiVNgRgIvVIrJAqHNBu) | 2:43 | 2024-08-28 | 2024-12-18 |
 | [Hold My Name](https://open.spotify.com/track/4HMzLKeycLwJuJba2IAOeP) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:34 | 2023-08-30 | 2024-12-18 |
 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 | 2022-03-21 | 2022-06-08 |

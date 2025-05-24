@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Ruby Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,723 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,747 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Coast Is Clear](https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Like Love](https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL) | 4:04 |
 | 100 | [Ashamed That You Hate It](https://open.spotify.com/track/4dqbCKCkSXFPqBy2yNmMlw) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [Ashamed That You Hate It](https://open.spotify.com/album/17WILF08O3PIq8YEcZyGKW) | 3:12 |
 
-Snapshot ID: `aC+lggAAAACOOqgOwyNI0V2rldvaPdIZ`
+Snapshot ID: `aC+lggAAAAAA/H/YkYO1z+V0WmZ6bdKK`

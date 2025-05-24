@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Djonga
 
-647 songs - 1 day 9 hr 57 min
+648 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Amizade](https://open.spotify.com/track/6tKrTI5SKtawkFOS2LLjaa) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Dj Samu AKA Suguiura](https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs) | [Amizade](https://open.spotify.com/album/2ffQLHgo0WBQX2LSVW6Pdz) | 3:02 | 2024-07-12 | 2024-08-10 |
 | [Analógico \(Under Sesh \#1\)](https://open.spotify.com/track/4YeBh1bp978Zd7XnczF6yF) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Analógico \(Under Sesh \#1\)](https://open.spotify.com/album/4WgLN3LkqFeHkn2LlqlLQP) | 1:50 | 2024-08-09 | 2024-09-14 |
 | [Andarilha do Tempo](https://open.spotify.com/track/1Y3by7ZupeBXWVl4PRHLxN) | [ANABYA](https://open.spotify.com/artist/6h24s9GjdLrcYHbJ81XkmK), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Andarilha do Tempo](https://open.spotify.com/album/6YUkBx9d3v6pmVjqDsvy1G) | 2:20 | 2024-01-20 | 2024-02-10 |
+| [Anfitrião](https://open.spotify.com/track/2P1ZoSC3w6tlcNhx0NfC63) | [Risco](https://open.spotify.com/artist/3HSQdRTCChW6SL76LJFEvX) | [Aquelas Notas](https://open.spotify.com/album/6IIX6Jbma40wOEOg1POXO3) | 4:12 | 2025-05-23 |  |
 | [Anonimato](https://open.spotify.com/track/4Oa8D641Abg3l7RtLm7oG4) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Anonimato](https://open.spotify.com/album/4oFpikH9Hhy49QfGS6EePq) | 2:14 | 2023-01-20 | 2023-03-11 |
 | [Anos Dourados do Blues](https://open.spotify.com/track/6JkidEArRc9jjElEVjqzgL) | [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Bvga Beats](https://open.spotify.com/artist/3oieThVKTaeSiRY5kh2Iq9), [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [Me Disseram Que Eu Não Podia](https://open.spotify.com/album/1bdASmiUSIBhHaTsf1WEOI) | 2:30 | 2024-05-20 |  |
 | [Ansi](https://open.spotify.com/track/5K7fehaAjZkS64r9wg6CLH) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Ansi](https://open.spotify.com/album/4w5KWzjvYhSwtZci3VVn8Z) | 3:06 | 2024-07-12 | 2024-08-10 |
@@ -614,7 +615,7 @@
 | [Veja Como o Mundo Roda](https://open.spotify.com/track/3zvgMHDI226Xb6PzMqreJK) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Veja Como o Mundo Roda](https://open.spotify.com/album/6UHzMFQvOT316hYAhRStQ1) | 2:16 | 2024-09-27 | 2024-10-19 |
 | [Velozes na Contramão](https://open.spotify.com/track/6nhE4lscGt5GfteXW5OD9d) | [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mahal Reis](https://open.spotify.com/artist/5jG0MAA7TLDdeZq2O03s8U) | [Deuses & Planetas](https://open.spotify.com/album/0VzkWTZdKMJMUmh1FxRzGo) | 3:02 | 2022-09-09 | 2022-11-26 |
 | [Vem K](https://open.spotify.com/track/1nxJuKgBnR6IPV9MKimoM7) | [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [ZAG](https://open.spotify.com/artist/61H6f0WzgLeZVJDIWwmlQO), [Brad Savage](https://open.spotify.com/artist/4bukCSzHFmnP9XlzFeSQOe), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Vem K](https://open.spotify.com/album/5i04mIP0JhPI9RbKlcrHnQ) | 3:51 | 2022-05-27 | 2022-06-25 |
-| [Vem Leve](https://open.spotify.com/track/3xAxKoiZGoOygbepLmO0JV) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Vem Leve](https://open.spotify.com/album/0Vsi1zAQGyG6CUovjxzkeL) | 2:37 | 2025-05-16 |  |
+| [Vem Leve](https://open.spotify.com/track/3xAxKoiZGoOygbepLmO0JV) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Vem Leve](https://open.spotify.com/album/0Vsi1zAQGyG6CUovjxzkeL) | 2:37 | 2025-05-16 | 2025-05-24 |
 | [Vendaval](https://open.spotify.com/track/4RVtgNDHgQ3TIXOQLgOHZS) | [Dukes1Soldado](https://open.spotify.com/artist/2fOcfLmY2VQi6NEOMNKqdJ), [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW) | [Vendaval](https://open.spotify.com/album/1i1MQlF0Jm80D0tbNHWTzr) | 3:09 | 2022-09-09 | 2023-07-29 |
 | [VENENO2000](https://open.spotify.com/track/4RjazBL4eR8UtT9OW5Z9A7) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [VENENO2000](https://open.spotify.com/album/1OIsbKAMUNuR4BlF6liyaQ) | 2:00 | 2023-07-21 | 2023-10-07 |
 | [Verão Verão](https://open.spotify.com/track/0vsRt6M9AtBsF08Gz5Dpbz) | [COLASNI](https://open.spotify.com/artist/0guOyrCTXlSdhKScVTLEHl), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Verão Verão](https://open.spotify.com/album/5CZcc4GVQy3Dh7ijy43swG) | 3:17 | 2025-01-06 | 2025-02-01 |

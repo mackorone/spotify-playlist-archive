@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-322 songs - 19 hr 5 min
+324 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Lemon Pepper Wings](https://open.spotify.com/track/3hD8O27M5vmBkTAAS5RIvY) | [Rae](https://open.spotify.com/artist/0utsXXc4i5jfRRiZf5lsm3) | [Lemon Pepper Wings](https://open.spotify.com/album/2DCzyOJ9AU6Eaca5LZ0x5B) | 3:21 | 2023-10-18 |  |
 | [Let the Horns Blow \(feat\. Homeboy Sandman\)](https://open.spotify.com/track/1sCeyN1qc6ZED5A4hLSVBY) | [Evitan](https://open.spotify.com/artist/6fzMpJdUUk726BGGwCr6IC), [Homeboy Sandman](https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb) | [Speed of Life](https://open.spotify.com/album/6yW9RTxNp7h7TkY0liCiXi) | 3:34 | 2023-10-18 |  |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-05-17 |  |
+| [Libations](https://open.spotify.com/track/36HgC7vFvjVnKc3tUeZD57) | [Novel](https://open.spotify.com/artist/5EkPgNzxiQ16jv7ajN5feK) | [Libations](https://open.spotify.com/album/1Lv9AfFZfgnTqQKKuKE0yx) | 3:57 | 2025-05-23 |  |
 | [Lifetimes](https://open.spotify.com/track/5c913GVjOVRzS1e7Dr3trd) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Lifetimes](https://open.spotify.com/album/66pt9gYLhrURu6u5LZPLqC) | 2:47 | 2023-10-18 |  |
 | [Like We Usd 2](https://open.spotify.com/track/4rbI44pPP8CK4v426MlOze) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [20seventeen](https://open.spotify.com/album/1T04e6chm4CPXlVVEfVbKq) | 3:21 | 2023-10-18 |  |
 | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu) | 3:20 | 2024-06-21 |  |
@@ -294,6 +295,7 @@
 | [Truth Tastes Good](https://open.spotify.com/track/7yPa4TS1M07r56E5Tyf432) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Free Mickey Part 2](https://open.spotify.com/album/56sGIX9HXr2Zxjc3h7G3Ph) | 1:09 | 2023-10-18 |  |
 | [Try](https://open.spotify.com/track/4tyUOfJO4F1zoxOITM6bKq) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7), [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Military Mindset Productions](https://open.spotify.com/artist/0LAYLmZKxwwiEUaIE7Dhyn) | [Behind Enemy Lines](https://open.spotify.com/album/14nYTal2Bm96I4m6M5SDNh) | 3:08 | 2024-06-07 |  |
 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 | 2023-10-18 |  |
+| [Tuff](https://open.spotify.com/track/5yoztgebGjM9Xj2M7CEe2n) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Grandson, Vol\. 1](https://open.spotify.com/album/5BAggP8hO7VWDSTKkNGyCi) | 2:28 | 2025-05-23 |  |
 | [Tunnel Vision](https://open.spotify.com/track/4F66QDs0ujbJLhphEatn9n) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Tunnel Vision](https://open.spotify.com/album/6rZnPmKnVp6BpkDyKNOdlB) | 3:53 | 2023-10-18 |  |
 | [Tunnel Vision](https://open.spotify.com/track/7BTt5fCGD9RCNrXYU6pc5k) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Moved](https://open.spotify.com/album/036hmr7bSYXlwSId6GTtJk) | 3:53 | 2023-10-18 |  |
 | [Twin](https://open.spotify.com/track/0XwNnzjpdHDCBUEfIhAYJX) | [Jake & Papa](https://open.spotify.com/artist/0t8jcjbcfE79FcWSpIkGdR), [Tayler Green](https://open.spotify.com/artist/5p6kJ3wW6g1CvKDjuBuLqu) | [Twin](https://open.spotify.com/album/7A6ZPKiHQlYFkKdMfk3FCt) | 3:53 | 2023-10-18 |  |

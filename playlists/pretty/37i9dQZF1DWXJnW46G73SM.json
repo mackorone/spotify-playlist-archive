@@ -1,6 +1,6 @@
 {
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0646\u0628\u064a\u0644",
-  "num_followers": 142210,
+  "num_followers": 142262,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-05-22 19:05:12",
       "album": {
+        "name": "\u062c\u063a\u0631\u0627\u0641\u064a\u064b\u0627",
+        "url": "https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "duration_ms": 182509,
+      "name": "\u062c\u063a\u0631\u0627\u0641\u064a\u064b\u0627",
+      "url": "https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S"
+    },
+    {
+      "added_at": "2025-05-22 19:05:12",
+      "album": {
         "name": "WARANA EH",
         "url": "https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9"
       },
@@ -36,7 +52,7 @@
           "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         }
       ],
-      "duration_ms": 194999,
+      "duration_ms": 195107,
       "name": "WARANA EH",
       "url": "https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii"
     },

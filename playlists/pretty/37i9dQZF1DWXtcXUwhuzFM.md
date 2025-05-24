@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Lauri Haavilta & Mirellalta, Nelli Matulalta & Sara Siipolalta, HUGOlta ja Goldielocksilta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,835 likes - 111 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,974 likes - 111 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 89 | [Sweetest Love Of All](https://open.spotify.com/track/6CPZHblzfQ2UPePrHpct5Z) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Sweetest Love Of All](https://open.spotify.com/album/5txqT4SNvEaHSESLz68vO2) | 3:00 |
 | 90 | [Last Forever](https://open.spotify.com/track/3fghHh3Md2fDNx03vvhOhJ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Last Forever](https://open.spotify.com/album/16YAydZvzNFRVlGmtzZPX6) | 2:56 |
 | 91 | [Beg](https://open.spotify.com/track/1Myx8hh4GSIwH13SBexdfk) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Beg](https://open.spotify.com/album/6VNULfa4TAQEL4LFMNyANp) | 2:59 |
-| 92 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \(Spotify Singles\)](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
+| 92 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \- Spotify Singles](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
 | 93 | [Before I Die](https://open.spotify.com/track/2U3lwYLUzozIzjCuVMtygq) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Before I Die](https://open.spotify.com/album/0FjfGlLVSyvbfqhyWLaCDR) | 4:02 |
 | 94 | [A Little Bit Of Light Banter](https://open.spotify.com/track/221xGz5OU5S726yZf3I1uw) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [A Little Bit Of Light Banter](https://open.spotify.com/album/1CQB0XSC3p0HP0fC0HID5T) | 3:30 |
 | 95 | [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 |

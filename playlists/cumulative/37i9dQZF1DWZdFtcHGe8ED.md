@@ -2,7 +2,7 @@
 
 ### [Thrashers](https://open.spotify.com/playlist/37i9dQZF1DWZdFtcHGe8ED)
 
-> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Sodom
+> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
 440 songs - 1 day 7 hr 10 min
 

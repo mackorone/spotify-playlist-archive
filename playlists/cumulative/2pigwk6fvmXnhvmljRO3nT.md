@@ -4,7 +4,7 @@
 
 > 
 
-7,222 songs - 18 day 18 hr 26 min
+7,225 songs - 18 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [a p p l y i n g \. p r e s s u r e](https://open.spotify.com/track/1d7q712nXjG98HiwHk7HFS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:57 | 2025-01-03 |  |
 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 | 2025-01-03 |  |
 | [A Sky Full Of Stars](https://open.spotify.com/track/25lM0BMctmXtAczIKGu3s5) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/7qEqyrW2t0r5dE2KFaYiiV) | 2:46 | 2024-12-07 |  |
-| [A Sky Full Of Stars](https://open.spotify.com/track/2uAE3kSlanqv3U1KfdAhra) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) | 2:46 | 2025-04-20 |  |
+| [A Sky Full Of Stars](https://open.spotify.com/track/2uAE3kSlanqv3U1KfdAhra) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) | 2:46 | 2025-04-20 | 2025-05-24 |
 | [A Spike Lee Joint \(feat\. Anthony Flammia\)](https://open.spotify.com/track/5I4ipBNoOOXF20YY0pOjCx) | [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Anthony Flammia](https://open.spotify.com/artist/4Aq0I7zm89FSHuqvvh63rw) | [3001: A Laced Odyssey](https://open.spotify.com/album/4Qohh8LwXoV7ucmjCU4MYL) | 4:15 | 2025-01-03 |  |
 | [A Tale Of 2 Citiez](https://open.spotify.com/track/52A8OAP8lTQKZCj4Rce92B) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:29 | 2025-01-03 |  |
 | [A thought on an autumn night](https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [JANNABI's Small Pieces l](https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk) | 3:07 | 2025-01-03 |  |
@@ -432,6 +432,7 @@
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2025-01-04 |  |
 | [Anywhere \(feat\. Snoop Dogg & The Last Artful, Dodgr\)](https://open.spotify.com/track/4n02GblHZte3q5AzcLHlIK) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 3:46 | 2024-12-05 |  |
 | [Anywhere But Home](https://open.spotify.com/track/7vRodvsF37NGUYRSVMIRXj) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:21 | 2025-04-12 |  |
+| [Aoi, Koi, Daidaiiro No Hi](https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 4:42 | 2025-05-23 |  |
 | [apart of me](https://open.spotify.com/track/2D79qw6Zobv0O7MMD74V6C) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/5KlfFTd7TRddz1sBKAHNoL) | 1:16 | 2025-04-21 |  |
 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 | 2025-01-15 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2024-12-14 |  |
@@ -2730,6 +2731,7 @@
 | [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 | 2025-05-07 |  |
 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 | 2024-12-14 |  |
 | [Illumination](https://open.spotify.com/track/1qNskrrkQNbWMHrUc1EuqI) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/4URnSuDHWlAMwRc2oBTzYC) | 4:26 | 2025-01-15 |  |
+| [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2025-05-24 |  |
 | [Ima Boss \(feat\. Rick Ross\)](https://open.spotify.com/track/7sjwaBQ6M3aVigYfBjm1sL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 1](https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4) | 4:10 | 2025-01-04 |  |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2025-05-19 |  |
 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2025-01-03 |  |
@@ -6412,6 +6414,7 @@
 | [きらきらにひかる](https://open.spotify.com/track/3aEJm1mvtT8Ufiv9ooDECN) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [きらきらにひかる](https://open.spotify.com/album/272hrfH8F1eIQSE5YB8MIJ) | 5:03 | 2025-01-03 |  |
 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 | 2025-01-03 |  |
 | [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 | 2025-01-03 |  |
+| [ここから、ここから](https://open.spotify.com/track/2dzf7W5dhalC2Ap7Xzajk0) | [玉木マリ\(CV:水瀬いのり\)](https://open.spotify.com/artist/4NWpE4yoDn3dZGq7VGZx5x), [小淵沢報瀬\(CV:花澤香菜\)](https://open.spotify.com/artist/1UfJ7p7f2bGcYSkIayANn8), [三宅日向\(CV:井口裕香\)](https://open.spotify.com/artist/7r3cqpsjY440vtROHi8IJL), [白石結月\(CV:早見沙織\)](https://open.spotify.com/artist/0kCAiZgz2lE3XCJNUdWB4c) | [TVアニメ「宇宙よりも遠い場所」エンディングテーマ「ここから、ここから」](https://open.spotify.com/album/3Tr6R0K8QPAmOOEWp8PidI) | 4:36 | 2025-05-23 |  |
 | [ごまかし](https://open.spotify.com/track/2xxaEkevNabHj6CDgX0BZT) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 4:13 | 2025-01-15 |  |
 | [ずっとずっとずっと](https://open.spotify.com/track/2He9deEfdXYWxnTUi0oOb0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ずっとずっとずっと](https://open.spotify.com/album/0M301Q5tEcjOINfUsJGiyo) | 3:48 | 2025-01-15 |  |
 | [そっけない](https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 6:32 | 2025-01-15 |  |

@@ -1,13 +1,29 @@
 {
   "description": "a little indie, a little pop.  Cover: Alessi Rose",
-  "num_followers": 227147,
+  "num_followers": 227164,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCfndgAAAABHcCqkZBBppWuQe/2FFiet",
+  "snapshot_id": "aC/y8AAAAAC61ayHJbZiFBEgmE6vmpCB",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "Stunner",
+        "url": "https://open.spotify.com/album/7CdSPlqEI5a2yYlESsTIgG"
+      },
+      "artists": [
+        {
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "Stunner",
+      "url": "https://open.spotify.com/track/55g2TpbGrXxLdekbyui2Sl"
+    },
     {
       "added_at": "2025-05-16 04:00:10",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 156165,
       "name": "Same Mouth",
       "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
+    },
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "body language",
+        "url": "https://open.spotify.com/album/5UyYQgjEMqHNX7EqUZ28cb"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "body language",
+      "url": "https://open.spotify.com/track/6xs1WkRjbCHuYrfsCWT7ap"
+    },
+    {
+      "added_at": "2025-05-16 04:00:10",
+      "album": {
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ"
     },
     {
       "added_at": "2025-05-02 04:00:38",
@@ -41,6 +89,38 @@
       "url": "https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX"
     },
     {
+      "added_at": "2025-02-28 05:01:00",
+      "album": {
+        "name": "Almost, So Close, Maybe",
+        "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 167404,
+      "name": "Almost, So Close, Maybe",
+      "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
+    },
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/26xYxvPRYotRrZuQyZ1XBF"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "duration_ms": 169636,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1c6bj876zIW0aApA07uW30"
+    },
+    {
       "added_at": "2025-05-16 04:00:10",
       "album": {
         "name": "Cinematic",
@@ -55,22 +135,6 @@
       "duration_ms": 196440,
       "name": "Cinematic",
       "url": "https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe"
-    },
-    {
-      "added_at": "2025-05-16 04:00:10",
-      "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "The Boys",
-      "url": "https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -103,6 +167,22 @@
       "duration_ms": 195789,
       "name": "Out of Your League",
       "url": "https://open.spotify.com/track/1oU2liz5XrN3xpT23F6Q3O"
+    },
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "We Are Young (But Only Once)",
+        "url": "https://open.spotify.com/album/26U5LNJjy2sH7zCrl0t6rF"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 212325,
+      "name": "We Are Young (But Only Once)",
+      "url": "https://open.spotify.com/track/142EQzJO3uObw6Y21dgdGM"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -791,22 +871,6 @@
     {
       "added_at": "2025-03-21 04:01:01",
       "album": {
-        "name": "I Could Love U",
-        "url": "https://open.spotify.com/album/74pxu890q1Fi8cChdbBXSx"
-      },
-      "artists": [
-        {
-          "name": "Logan Priest",
-          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
-        }
-      ],
-      "duration_ms": 198049,
-      "name": "I Could Love U",
-      "url": "https://open.spotify.com/track/7CtzUcqgOnJF722PJ2Yf88"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
         "name": "part time thing",
         "url": "https://open.spotify.com/album/3RbW8HTCIc30mhFCiGa0N3"
       },
@@ -819,22 +883,6 @@
       "duration_ms": 118952,
       "name": "part time thing",
       "url": "https://open.spotify.com/track/3xlVGQ7uZhoErYlPNa0HB8"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 137191,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
     },
     {
       "added_at": "2025-02-21 05:00:23",
@@ -869,38 +917,6 @@
       "url": "https://open.spotify.com/track/3WUBOD1vDawuuHFlnUXjmV"
     },
     {
-      "added_at": "2025-03-14 04:00:02",
-      "album": {
-        "name": "Make Me Forget",
-        "url": "https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf"
-    },
-    {
-      "added_at": "2025-02-28 05:01:00",
-      "album": {
-        "name": "Almost, So Close, Maybe",
-        "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 167404,
-      "name": "Almost, So Close, Maybe",
-      "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
-    },
-    {
       "added_at": "2025-02-28 05:01:00",
       "album": {
         "name": "Sorry I'm Here For Someone Else",
@@ -931,22 +947,6 @@
       "duration_ms": 192257,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS"
-    },
-    {
-      "added_at": "2025-02-28 05:01:00",
-      "album": {
-        "name": "I Keep On Messing It Up",
-        "url": "https://open.spotify.com/album/03kfZ6iKeJfyJkYPAvt8py"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 163060,
-      "name": "I Keep On Messing It Up",
-      "url": "https://open.spotify.com/track/3dGU74UBKhHkeCAO8kyyPK"
     },
     {
       "added_at": "2025-02-14 05:00:19",

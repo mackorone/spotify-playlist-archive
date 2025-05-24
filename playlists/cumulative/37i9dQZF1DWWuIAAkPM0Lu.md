@@ -4,7 +4,7 @@
 
 > Det er fredag, og ny musik fra Anton Westerlin, Alex Warren, Mads Langer og mange flere 👀
 
-5,611 songs - 12 day 1 hr 46 min
+5,613 songs - 12 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Breakup Season](https://open.spotify.com/track/0D30OUjaoipecpVymehaia) | [Baseløs](https://open.spotify.com/artist/2sl62O87N2M6Jn90uM5Dme) | [Breakup Season](https://open.spotify.com/album/74Nj7S2aTPWOkja7oByj03) | 2:27 | 2024-10-03 | 2024-10-11 |
 | [Breathe](https://open.spotify.com/track/2mdYfDWB3dDUCZLugnUJgR) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Breathe](https://open.spotify.com/album/2N83yqFlea2VIIpvfQAPqQ) | 2:58 | 2024-09-19 | 2024-09-27 |
 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 | 2025-01-30 | 2025-02-07 |
+| [bridesmaid](https://open.spotify.com/track/2LZ24cM1dh7nIs1tblxiwV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [bridesmaid](https://open.spotify.com/album/26KBwbUyMsbzjiAXyrOKP8) | 3:12 | 2025-05-23 |  |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 | 2024-08-16 |
 | [Bright Side](https://open.spotify.com/track/15LBM9tQ27R6enLObXICnJ) | [Ki!](https://open.spotify.com/artist/68ZbJ6NBdeGlDRxv3jM0DP), [Carl Coleman](https://open.spotify.com/artist/3XSSbCAIs4BzdCNBMbwCfA) | [Bright Side](https://open.spotify.com/album/58TieXLlpK1e3eATWEElr5) | 3:15 | 2024-10-10 | 2024-10-18 |
 | [Bring Back The Summer](https://open.spotify.com/track/65onuJpCDWFkvSGljQ3LWw) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [Bring Back The Summer](https://open.spotify.com/album/12XqSpOFoZ0xHr97I7zaCH) | 2:54 | 2024-06-20 | 2024-06-28 |
@@ -1242,6 +1243,7 @@
 | [Don't Break My Heart In July](https://open.spotify.com/track/1o4UmeppyRtxw4Xais4IJb) | [Tobias Samuel](https://open.spotify.com/artist/00omZR1oli1xrucHrqR3QW), [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [Don't Break My Heart In July](https://open.spotify.com/album/3tyIcnrtZENJS2BhdWuUjG) | 2:42 | 2024-06-27 | 2024-07-05 |
 | [Don't Call](https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Call](https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP) | 3:49 | 2024-06-27 | 2024-07-05 |
 | [Don't Call Me Out \- Gerd Janson Rework](https://open.spotify.com/track/7rn5rtK1nPqy3UlOXpuwPU) | [Julie Pavon](https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [My House Is Yours](https://open.spotify.com/album/2LfTdFJ7ap83KLKIWq7CzY) | 6:16 | 2024-08-16 | 2024-08-23 |
+| [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 | 2025-05-23 |  |
 | [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 | 2025-03-13 | 2025-03-21 |
 | [don't feel right](https://open.spotify.com/track/5XFocsEyJBFiPyS2BxapZo) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG) | [don't feel right](https://open.spotify.com/album/5wHaPyGswVYaht3w4PmbVJ) | 2:40 | 2024-06-20 | 2024-06-28 |
 | [don't forget about me](https://open.spotify.com/track/7zrGDodwUZ2yU0ZgzV78DF) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [don't forget about me](https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa) | 2:52 | 2024-06-06 | 2024-06-14 |
@@ -3991,7 +3993,7 @@
 | [Pressure](https://open.spotify.com/track/3rLyUo8KBJCP5YPA3Getfj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [12 Summers](https://open.spotify.com/album/2vwrznrv1jDOypUWHGKTi5) | 2:19 | 2024-07-25 | 2024-08-02 |
 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-09-26 | 2024-10-04 |
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-22 |  |
-| [Pretending](https://open.spotify.com/track/6UKrdEn4dTLD9RBTSsrXae) | [Vilma Crow](https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww) | [Good Dog for Sale](https://open.spotify.com/album/579SG8DeMJ3ZvRbi82vnpw) | 4:20 | 2025-05-22 |  |
+| [Pretending](https://open.spotify.com/track/6UKrdEn4dTLD9RBTSsrXae) | [Vilma Crow](https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww) | [Good dog for sale](https://open.spotify.com/album/579SG8DeMJ3ZvRbi82vnpw) | 4:20 | 2025-05-22 |  |
 | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/track/7sGQ4jAOUs3YG1CFyjDxdc) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/album/6oJAjOS2cydCmNmBmmqNQU) | 3:58 | 2025-05-08 | 2025-05-16 |
 | [Prettier \(No\. 1, 09\-05\-2024\)](https://open.spotify.com/track/09mGNuvJI9MOtEkGm12ZwY) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Prettier \(No\. 1, 09\-05\-2024\)](https://open.spotify.com/album/5KXqrd9bvT9uxf6MFOsgDe) | 2:52 | 2024-11-21 | 2024-11-29 |
 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 | 2025-02-27 | 2025-03-07 |

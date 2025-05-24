@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356455,
+  "num_followers": 356428,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Bailar (feat. Elvis Crespo) [Radio Edit]",
+        "url": "https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 137661,
+      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
+      "url": "https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Bailar (feat. Elvis Crespo) [Radio Edit]",
-        "url": "https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 137661,
-      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
-      "url": "https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Rockafeller Skank",
         "url": "https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 145568,
       "name": "Rockafeller Skank",
       "url": "https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Shots & Squats",
-        "url": "https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA"
-      },
-      "artists": [
-        {
-          "name": "Vigiland",
-          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
-        },
-        {
-          "name": "Tham Sway",
-          "url": "https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv"
-        }
-      ],
-      "duration_ms": 171799,
-      "name": "Shots & Squats",
-      "url": "https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -679,6 +659,26 @@
       "duration_ms": 286875,
       "name": "Din tid kommer - Otto Knows Remix",
       "url": "https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Shots & Squats",
+        "url": "https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA"
+      },
+      "artists": [
+        {
+          "name": "Vigiland",
+          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+        },
+        {
+          "name": "Tham Sway",
+          "url": "https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv"
+        }
+      ],
+      "duration_ms": 171799,
+      "name": "Shots & Squats",
+      "url": "https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "B\u00e6rum Bitches (Mannschaft)",
-        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "B\u00e6rum Bitches (Mannschaft)",
-      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Man In Finance (G6 Trust Fund)",
         "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "B\u00e6rum Bitches (Mannschaft)",
+        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "B\u00e6rum Bitches (Mannschaft)",
+      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
     },
     {
       "added_at": "2024-06-13 22:00:00",

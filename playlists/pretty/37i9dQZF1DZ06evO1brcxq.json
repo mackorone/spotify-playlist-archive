@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 160444,
+  "num_followers": 160708,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAABkilJIfBk60uhj7CZLuIJ/",
+  "snapshot_id": "aC5pAAAAAACL6aDmjLc9oBBGbvuiVzSe",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Next Level Charli",
-      "url": "https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 162585,
       "name": "Boys",
       "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Next Level Charli",
+      "url": "https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16"
     },
     {
       "added_at": null,

@@ -1,37 +1,13 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 122420,
+  "num_followers": 122436,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAADmG685JYdtOh76UTKyhNGZ",
+  "snapshot_id": "aC5pAAAAAADbUsutkQjszwvdFLZJVge4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oro en la Medalla",
-        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
-      },
-      "artists": [
-        {
-          "name": "Nash",
-          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "AYWA",
-          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Oro en la Medalla",
-      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
-    },
     {
       "added_at": null,
       "album": {
@@ -363,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Para Olvidarme De Tus Besos",
-      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -411,6 +367,26 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
     },
     {
       "added_at": null,
@@ -959,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mecha Corta",
-        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 210645,
-      "name": "Mecha Corta",
-      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhala",
         "url": "https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS"
       },
@@ -999,6 +955,26 @@
       "duration_ms": 245500,
       "name": "Inhala",
       "url": "https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mecha Corta",
+        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 210645,
+      "name": "Mecha Corta",
+      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
     },
     {
       "added_at": null,
@@ -1067,6 +1043,30 @@
       "duration_ms": 293325,
       "name": "La Misi\u00f3n (Episodio 4)",
       "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oro en la Medalla",
+        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "AYWA",
+          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Oro en la Medalla",
+      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
     }
   ],
   "unique_name": "This Is Dharius",

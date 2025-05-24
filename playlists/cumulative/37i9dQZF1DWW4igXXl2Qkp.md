@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:2QgCj5pd8aIys9jvr3A1GZ">Myaap<br/></a>
 
-1,786 songs - 3 day 4 hr 50 min
+1,788 songs - 3 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Anything I Want](https://open.spotify.com/track/4B9hLmAE1ln9HFWeyd5R3L) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Anything I Want](https://open.spotify.com/album/4oM14dSjci8M4412lOqNQN) | 2:12 | 2023-09-27 | 2023-11-30 |
 | [Anything You Want](https://open.spotify.com/track/4hinXOJmKCmYv6p2maNGpw) | [Lil Sil](https://open.spotify.com/artist/6XMLYRQKAjxZF6V9IlxjVq) | [Anything You Want](https://open.spotify.com/album/3YUIX8vSWKkk6GnYmhyTh5) | 2:12 | 2021-12-01 | 2022-01-14 |
 | [Anytime](https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Anytime](https://open.spotify.com/album/5HNPfgoy393M0xbdZzAmKd) | 2:00 | 2022-04-06 | 2022-05-19 |
+| [Anyways](https://open.spotify.com/track/3ISlnQ4IjlcezriNDhJ8WV) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [TnTXD](https://open.spotify.com/artist/3MnXXt7rpUrlpgrvgzYFAp) | [Anyways](https://open.spotify.com/album/3PyytgXdiBfLQsa7mKU25V) | 1:36 | 2025-05-23 |  |
 | [apathy](https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6) | [apathy](https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD) | 1:53 | 2023-03-29 | 2023-05-18 |
 | [APPARENT](https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [APPARENT](https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy) | 1:36 | 2022-06-01 | 2022-08-04 |
 | [appetite](https://open.spotify.com/track/0fdHJqg7tEprDJAk32pMow) | [Mati](https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8) | [appetite](https://open.spotify.com/album/05CpKNKVTuiPgqnVkpksrw) | 3:08 | 2024-06-19 | 2024-08-29 |
@@ -352,6 +353,7 @@
 | [Codeine, Percocets, Marijuana](https://open.spotify.com/track/6ErTDhNDx4H2KmtscQYimm) | [RRoxket](https://open.spotify.com/artist/4Pu14kX4BlhnDHP7DRmmGS) | [Codeine, Percocets, Marijuana](https://open.spotify.com/album/3FAck3V05K2btaAWadT4oo) | 1:50 | 2025-03-05 | 2025-03-08 |
 | [cold](https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [cold](https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1) | 3:15 | 2022-02-16 | 2022-03-10 |
 | [Collateral Damage](https://open.spotify.com/track/48dhuuXSIRH40dLdfURue2) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Collateral Damage](https://open.spotify.com/album/3pZ9mSSrXsfI8zjY4ut9Xi) | 2:24 | 2022-05-18 | 2022-07-01 |
+| [Come Home](https://open.spotify.com/track/0OUJusExWi6PM06g3cpwbV) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [Come Home](https://open.spotify.com/album/6dgiL9q5Ckw8U3V14w1zYH) | 2:32 | 2025-05-23 |  |
 | [Comfortable](https://open.spotify.com/track/5WcBWDjcGiXbAOsV5rt53b) | [Azjah](https://open.spotify.com/artist/3VFIf5Tn1WYGKodgtyVwjL), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Comfortable](https://open.spotify.com/album/2ZUStWzOtvqEZvk5U5PRtM) | 2:48 | 2025-03-12 | 2025-03-20 |
 | [COMING IN DIFFERENT](https://open.spotify.com/track/2mMVuFeBmY319d4zERWLn1) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [COMING IN DIFFERENT](https://open.spotify.com/album/5WR2XQBrtovXiAneMZdvVs) | 2:01 | 2022-03-23 | 2022-04-14 |
 | [comme crisis](https://open.spotify.com/track/0It9pdTaX2mAX30b4EYNhO) | [phil](https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY), [kare](https://open.spotify.com/artist/2tcbWv8P2JYCCADlS63ygq), [kwes e](https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy) | [BLACK DOG](https://open.spotify.com/album/2up1fZiqUhLBqBfurVxpvy) | 3:07 | 2022-05-11 | 2022-05-26 |
@@ -473,7 +475,7 @@
 | [Drop](https://open.spotify.com/track/1gtQcKsKB32UmxzwihNDe4) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 3:32 | 2023-03-29 | 2023-05-24 |
 | [Drop Dat](https://open.spotify.com/track/4zWT8C2JhU1rLbmFeTeYxo) | [Larry Alabi](https://open.spotify.com/artist/2sxFUmv71CURKSJCgDXGF8), [Smilez](https://open.spotify.com/artist/6a6XQx0GYcdhqqy2zskc5E), [A9Nikz](https://open.spotify.com/artist/2DLW1xMXGTtdBNwhxXP9oN) | [Drop Dat](https://open.spotify.com/album/1XvSoqy1umTOvO7lq3AOqe) | 3:58 | 2021-12-01 | 2022-01-14 |
 | [DROP TOP](https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [EXTRA](https://open.spotify.com/album/4LGQZ0SlcfHMzr9jZ1USp2) | 2:13 | 2023-11-08 | 2023-11-30 |
-| [Drugs Callin](https://open.spotify.com/track/1WnvTJMxPIoXT7PV9mdNHk) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Perfect Storm](https://open.spotify.com/album/4StaOoKvc1slai3SMaOhCZ) | 2:36 | 2025-02-12 |  |
+| [Drugs Callin](https://open.spotify.com/track/1WnvTJMxPIoXT7PV9mdNHk) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Perfect Storm](https://open.spotify.com/album/4StaOoKvc1slai3SMaOhCZ) | 2:36 | 2025-02-12 | 2025-05-24 |
 | [Drunk](https://open.spotify.com/track/4Y0O8smeKZqhauJh9zT8iS) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drunk](https://open.spotify.com/album/5LcckaVsEQOadgwP3INJOt) | 6:30 | 2023-05-10 | 2023-07-27 |
 | [Dumb City](https://open.spotify.com/track/4jK3WFqTP6U9SFg4ub7qCM) | [BHM Pezzy](https://open.spotify.com/artist/7xaXPnSn6yifWRDZmDoKPw) | [12 Shades Of Grey](https://open.spotify.com/album/3z0lFMR35H4lnHNYZqOxh5) | 2:32 | 2024-08-28 | 2024-12-05 |
 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 | 2024-02-07 | 2024-02-29 |
@@ -1132,7 +1134,7 @@
 | [No Reason](https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO) | [808Riot](https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe), [JAKOBI](https://open.spotify.com/artist/3IeagIAbCK3T2TRQUO0Wwt) | [No Reason](https://open.spotify.com/album/5Mrxmb4rgY5yFs6wQy9UCB) | 2:04 | 2024-01-10 | 2024-04-11 |
 | [No Reddit](https://open.spotify.com/track/0JoGNwd82CGzVsOe40atmX) | [Lil Dre6o](https://open.spotify.com/artist/3HT9jbDp89eu9Dxi3vAZzG), [Lil Rae](https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA) | [Taking It There 2 \(Deluxe\)](https://open.spotify.com/album/5nH20YNSh8KbC692JF0nrP) | 1:33 | 2024-05-15 | 2024-06-13 |
 | [No Rookies](https://open.spotify.com/track/7eOlibdTwwwPQLqB5YZkja) | [Jetbkeezy](https://open.spotify.com/artist/4TMzyfyfYDMBlG3Evr8wUg) | [No Rookies](https://open.spotify.com/album/3ERQRL32GpGKnEqOONOSRQ) | 1:39 | 2025-05-21 |  |
-| [No Talking](https://open.spotify.com/track/5EeEoX66ydpX8cvIfkG3Zm) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf) | [Just Getting Started](https://open.spotify.com/album/1oM5CBuZaD1k8SBSEBAq8c) | 2:32 | 2025-05-14 |  |
+| [No Talking](https://open.spotify.com/track/5EeEoX66ydpX8cvIfkG3Zm) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf) | [Just Getting Started](https://open.spotify.com/album/1oM5CBuZaD1k8SBSEBAq8c) | 2:32 | 2025-05-14 | 2025-05-24 |
 | [NO TELLIN](https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [NO TELLIN](https://open.spotify.com/album/247yuZ7hBgYGX7S3Sh5Fdw) | 2:11 | 2022-09-07 | 2022-11-24 |
 | [no time no mercy](https://open.spotify.com/track/1D2akzA0vpVXeBB2Rr950O) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [of the world](https://open.spotify.com/album/3SemQGEAAdNBjRyyP77HsA) | 2:27 | 2025-05-02 |  |
 | [No Waist](https://open.spotify.com/track/6mKPdbKxAGhYFsQAr1pMlo) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [No Waist](https://open.spotify.com/album/2dRWmwcXG3C1nZl0FVm0v5) | 2:01 | 2025-01-15 | 2025-03-13 |

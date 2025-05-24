@@ -1,12 +1,12 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Spacey Jane",
-  "num_followers": 831477,
+  "description": "Explore all things indie rock right now. Featuring music from Wolf Alice",
+  "num_followers": 831377,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4YAAAAACh9yP+c9uByv+PJfa2J7ug",
+  "snapshot_id": "AAAAAD7JhlHG8U8yyubkmmRSrYqV2ktJ",
   "tracks": [
     {
       "added_at": "2025-05-16 04:00:32",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
     },
     {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Mixtape (Edit)",
+        "url": "https://open.spotify.com/album/1lReFHyY3Oj9f8USB2q9Bv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 125782,
+      "name": "Richer Feeling",
+      "url": "https://open.spotify.com/track/72o0dEaBzdIUlg8vR2yQmu"
+    },
+    {
       "added_at": "2025-05-16 04:00:32",
       "album": {
         "name": "Door",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
     },
     {
-      "added_at": "2025-05-16 04:00:32",
+      "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
+        "name": "Achilles And",
+        "url": "https://open.spotify.com/album/17WDuxWOOaKgoJIDbR4gd4"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
         }
       ],
-      "duration_ms": 193141,
-      "name": "Heartthrob",
-      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
+      "duration_ms": 254920,
+      "name": "Achilles And",
+      "url": "https://open.spotify.com/track/74yoALVa8n1cOi4zdAZQ0t"
     },
     {
       "added_at": "2025-05-16 04:00:32",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/18MOovkpxIHWOSMB37PGKf"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "duration_ms": 148455,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/0PCB6i5MHdB94K3gEFvn2Q"
+    },
+    {
       "added_at": "2025-05-16 04:00:32",
       "album": {
         "name": "Lucy",
@@ -103,6 +135,54 @@
       "duration_ms": 218151,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Break Right",
+        "url": "https://open.spotify.com/album/2TPBBafXEdnyCPcU1Q9xGD"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "duration_ms": 224351,
+      "name": "Break Right",
+      "url": "https://open.spotify.com/track/1orNLulzsRmGur5fwQuBfZ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Return of Youth",
+        "url": "https://open.spotify.com/album/0rBtZug6roUoHxRSVCpPWC"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 458000,
+      "name": "Return of Youth",
+      "url": "https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw"
+    },
+    {
+      "added_at": "2025-05-16 04:00:32",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 193141,
+      "name": "Heartthrob",
+      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
     },
     {
       "added_at": "2025-05-16 04:00:32",
@@ -135,6 +215,22 @@
       "duration_ms": 220865,
       "name": "Pie in the Sky",
       "url": "https://open.spotify.com/track/5aAQKNQROaiA2uVQo8Bp1t"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "7 Months",
+        "url": "https://open.spotify.com/album/2dLMn2hMMJP9SnO4aBYemA"
+      },
+      "artists": [
+        {
+          "name": "Forth Wanderers",
+          "url": "https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs"
+        }
+      ],
+      "duration_ms": 152880,
+      "name": "7 Months",
+      "url": "https://open.spotify.com/track/3QIprxybtXTK5mifthT4Q5"
     },
     {
       "added_at": "2025-05-16 04:00:32",
@@ -183,6 +279,22 @@
       "duration_ms": 225726,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Hex Key",
+        "url": "https://open.spotify.com/album/71gvpd2oNaGwGmbqXOk8zk"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "duration_ms": 128679,
+      "name": "#1 Best of All Time",
+      "url": "https://open.spotify.com/track/77gSoBAAZoqvbzH0naiobU"
     },
     {
       "added_at": "2025-05-16 04:00:32",
@@ -1391,54 +1503,6 @@
     {
       "added_at": "2025-05-16 04:00:32",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 246288,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG"
-    },
-    {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
-        "name": "Sinister Grift",
-        "url": "https://open.spotify.com/album/7dQ09jOwQBuBcm6qRBQcP9"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        }
-      ],
-      "duration_ms": 211126,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe"
-    },
-    {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
-        "name": "Surgery and Pleasure",
-        "url": "https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 219854,
-      "name": "Beta Fish",
-      "url": "https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U"
-    },
-    {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
         "name": "Anomaly II",
         "url": "https://open.spotify.com/album/6q4rT0kjP8zoMgfDwzz5ij"
       },
@@ -1467,22 +1531,6 @@
       "duration_ms": 218272,
       "name": "Burnout Days",
       "url": "https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y"
-    },
-    {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
-        "name": "Super Pedestrian",
-        "url": "https://open.spotify.com/album/1VWd62Gbw17U0BUEp1jZE6"
-      },
-      "artists": [
-        {
-          "name": "Annie DiRusso",
-          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
-        }
-      ],
-      "duration_ms": 215045,
-      "name": "Good Ass Movie",
-      "url": "https://open.spotify.com/track/46PtYBXwf9KYL2TF7llg6b"
     },
     {
       "added_at": "2025-05-16 04:00:32",
@@ -1551,42 +1599,6 @@
     {
       "added_at": "2025-05-16 04:00:32",
       "album": {
-        "name": "No Front Teeth",
-        "url": "https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        },
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "No Front Teeth",
-      "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
-    },
-    {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
-        "name": "Mega Circuit",
-        "url": "https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "Mega Circuit",
-      "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
-    },
-    {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
         "name": "Mountain",
         "url": "https://open.spotify.com/album/4e0AsgwbmUBQhy92uMUZfv"
       },
@@ -1603,22 +1615,6 @@
       "duration_ms": 179664,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/2L2gjXyR49y51IyBz7wKvl"
-    },
-    {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
-        "name": "Billy (Yeah Yeah Yeah)",
-        "url": "https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 245251,
-      "name": "Billy (Yeah Yeah Yeah)",
-      "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
     },
     {
       "added_at": "2025-05-16 04:00:32",

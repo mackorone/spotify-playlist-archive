@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: JO
+> Cele mai noi hituri pop românești\. Cover: Andia
 
-242 songs - 11 hr 28 min
+244 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,13 +30,14 @@
 | [Apari în vise](https://open.spotify.com/track/5JA2h10ZUi5vAEZViXJamz) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [VANILLA BOY](https://open.spotify.com/album/206zVYtuYhyAV3JdVyVoPv) | 2:48 | 2024-08-08 | 2024-08-23 |
 | [Apă și Pământ](https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Apă și Pământ](https://open.spotify.com/album/6gtAXlAUBM9gt9uLECMfqG) | 2:40 | 2024-09-26 | 2024-12-20 |
 | [Arde cerul](https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB) | [Betty Salam](https://open.spotify.com/artist/6YoV1pQqV1SX4m40yQ6LOd), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Arde cerul](https://open.spotify.com/album/3cRgSc1gEzhjTsJv4wyG7T) | 2:38 | 2024-12-12 | 2025-03-21 |
+| [Asa ne da dragostea](https://open.spotify.com/track/65JqNtKD6mWh0pkyECafxX) | [Keo](https://open.spotify.com/artist/5VWiSi6ROTFyo3f5ENrQTT), [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Asa ne da dragostea](https://open.spotify.com/album/4TxlP494hA8betsRDMMvqN) | 2:40 | 2025-05-23 |  |
 | [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 | 2025-05-01 |  |
 | [Așa, cum ești tu](https://open.spotify.com/track/6ESlixRsvSuqBdm5y60njA) | [Elena](https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq), [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Așa, cum ești tu](https://open.spotify.com/album/7lOJpV3hrFUslhp8gmLEQo) | 3:21 | 2024-06-27 | 2024-09-13 |
 | [Ba e soare, ba e ploaie](https://open.spotify.com/track/7ffVzMf2rW26TlWkPhYvPk) | [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2) | [Ba e soare, ba e ploaie](https://open.spotify.com/album/2QNvNrO1u2o7hLJJ8lfhap) | 2:27 | 2024-06-27 | 2024-07-05 |
 | [Bahebek](https://open.spotify.com/track/5Ks0xMrdqAQhzTEoRKrDDv) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Bahebek](https://open.spotify.com/album/7wwHJYVoehYIp6IZvopzjy) | 2:13 | 2024-10-31 | 2025-04-05 |
 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:29 | 2024-11-21 | 2025-05-09 |
 | [Bea, Daca Vrei](https://open.spotify.com/track/0Jrjh6uUm8piWAWGP8erR2) | [Anda Adam](https://open.spotify.com/artist/5Xf9tWz0AarRXKqKKxJkNE), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk) | [Bea, Daca Vrei](https://open.spotify.com/album/2ktHpw0rjUnhPmVJS5erVH) | 2:54 | 2024-11-28 | 2025-01-24 |
-| [Bilet doar dus](https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Bilet doar dus](https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp) | 2:21 | 2024-11-28 |  |
+| [Bilet doar dus](https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Bilet doar dus](https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp) | 2:21 | 2024-11-28 | 2025-05-24 |
 | [Bug a Boo](https://open.spotify.com/track/4ErxIoEHvAaebb3D2CpJ2T) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Bug a Boo](https://open.spotify.com/album/60NlVLHgcMjcxjyjPLyNMx) | 3:24 | 2024-06-27 | 2024-09-06 |
 | [Bună](https://open.spotify.com/track/4IiPQyYNKqKntL5c40gDsN) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Bună](https://open.spotify.com/album/2MdqeKqGHNb9zpl1QI4zGK) | 2:40 | 2025-02-27 | 2025-05-16 |
 | [Burning Love \- Roton 3.0 Sessions](https://open.spotify.com/track/5CVsCx9UvrOblhZv2LVHbm) | [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Burning Love \(Roton 3.0 Sessions\)](https://open.spotify.com/album/7ER3S7FN1mKpX3sLIHW8gv) | 2:26 | 2024-08-22 | 2024-09-13 |
@@ -115,7 +116,7 @@
 | [Inainte de tine](https://open.spotify.com/track/4s9X4G4U0cae4N9bk2sO1M) | [Magda Ignat](https://open.spotify.com/artist/29LRdyJfm8dM5mlSkV8vUh), [Dorian Popa](https://open.spotify.com/artist/7qY3EcnVR7pBXBzaHi3bYo) | [Inainte de tine](https://open.spotify.com/album/5ldejlreA1OPV5Y6L4eEJC) | 3:04 | 2024-12-05 | 2025-04-11 |
 | [Inainte sa pleci](https://open.spotify.com/track/5hvllpMgrrroUcUtjf4Y9F) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Amangoi](https://open.spotify.com/album/1pEvO9aEvYdcadtQ7OhILi) | 2:24 | 2025-01-23 | 2025-02-28 |
 | [Inca O Noapte](https://open.spotify.com/track/0lCoCuzOaHaQK07CUiEkMx) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Inca O Noapte](https://open.spotify.com/album/6pOa0ra42T1R4SbSLSgSsX) | 3:01 | 2024-06-27 | 2024-08-16 |
-| [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 | 2024-11-21 |  |
+| [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 | 2024-11-21 | 2025-05-24 |
 | [INTERSTELAR](https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [INTERSTELAR](https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R) | 2:55 | 2024-10-03 | 2024-11-01 |
 | [Iubire cu parfum de lavandă](https://open.spotify.com/track/24uvX3TV4BpxgGvaIDWdzT) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Iubire cu parfum de lavandă](https://open.spotify.com/album/4uxK4MDS3eUXtZAZI8WU9L) | 2:32 | 2024-09-12 | 2024-12-13 |
 | [Iubirile din liceu](https://open.spotify.com/track/2elnblz6YE4uUgi3geYmqD) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Iubirile din liceu](https://open.spotify.com/album/4LNuAusexX5dlRpqTHNrWS) | 3:24 | 2024-10-10 | 2024-11-08 |
@@ -196,6 +197,7 @@
 | [Prin Bucuresti](https://open.spotify.com/track/0E1Q4Se6b7Y1xehxBtBhVl) | [Magda Ignat](https://open.spotify.com/artist/29LRdyJfm8dM5mlSkV8vUh), [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Prin Bucuresti](https://open.spotify.com/album/1ca2pxjyN7NH34esE1w4lC) | 2:59 | 2025-04-24 |  |
 | [Prințul din Belair](https://open.spotify.com/track/3UGVjCOvhsaUgxhyUW9nXZ) | [Lino Golden](https://open.spotify.com/artist/1FLxXnFMMpCQYzHTIYtYLH) | [Prințul din Belair](https://open.spotify.com/album/0EQhQplPIxWq0m9hkAQkGI) | 2:55 | 2024-11-07 | 2024-11-22 |
 | [Puerto Rico](https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Puerto Rico](https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx) | 3:04 | 2024-06-27 | 2024-11-29 |
+| [Pământul](https://open.spotify.com/track/12MeAowVpmKBChLgAL0jtl) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Pământul](https://open.spotify.com/album/7gNoNV1qYU0aqE2sM3zBSS) | 2:47 | 2025-05-23 |  |
 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 | 2024-06-27 | 2025-02-21 |
 | [Quédate Aquí](https://open.spotify.com/track/5o1MYCoDAFXofcbhDQAOY8) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Quédate Aquí](https://open.spotify.com/album/00Af8jm2Qd720jaMIpBF1l) | 2:45 | 2025-04-17 | 2025-05-16 |
 | [Ratat](https://open.spotify.com/track/3FLkFHEz6dQZwW9L5Vasew) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Ratat](https://open.spotify.com/album/6cHl7jHIJnUSJ5BG82ZQRR) | 2:53 | 2024-10-24 | 2025-01-24 |

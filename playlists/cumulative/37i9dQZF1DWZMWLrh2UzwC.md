@@ -4,7 +4,7 @@
 
 > New music from Ernie Zakri, Anggi Marito, Reneé Rapp, Elliot James Reay, and more!
 
-15,904 songs - 36 day 9 hr 7 min
+15,906 songs - 36 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6890,6 +6890,7 @@
 | [JUMP!](https://open.spotify.com/track/19Zse5dr7LTFUi77AHI2OD) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Boys will be Boys \- MIRAE 5th Mini Album](https://open.spotify.com/album/1R6UaNMEH24yL4wyTxRGc5) | 2:52 | 2023-07-20 | 2023-07-28 |
 | [Jumper \(Feat\. Gaeko, MINO\)](https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [mino](https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X) | [Remember Archive](https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1) | 3:35 | 2023-03-16 | 2023-03-25 |
 | [JUMPSHOT!](https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [JUMPSHOT!](https://open.spotify.com/album/0jUh0PoLQtLry0B3JXyDiW) | 2:59 | 2022-04-28 | 2022-05-06 |
+| [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 | 2025-05-22 |  |
 | [June](https://open.spotify.com/track/5a03GptTz6jtPu5b2ExJmi) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [June](https://open.spotify.com/album/2capgtsFePeNINhMLKzP0X) | 2:48 | 2024-11-14 | 2024-11-22 |
 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 | 2024-09-26 | 2024-10-04 |
 | [June/July](https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [June/July](https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl) | 3:25 | 2023-05-25 | 2023-06-02 |
@@ -7012,6 +7013,7 @@
 | [KEEP IT](https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5) | [Kid Culture](https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU) | [KEEP IT](https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1) | 2:20 | 2023-01-19 | 2023-01-27 |
 | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 | 2023-02-09 | 2023-02-17 |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 | 2023-08-25 |
+| [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 | 2025-05-22 |  |
 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 | 2022-07-21 | 2022-07-29 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-27 | 2022-02-04 |
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-12 | 2024-12-20 |

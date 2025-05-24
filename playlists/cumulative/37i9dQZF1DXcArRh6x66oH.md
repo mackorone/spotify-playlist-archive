@@ -4,7 +4,7 @@
 
 > roots run deep
 
-381 songs - 22 hr 49 min
+382 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Waging War](https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Waging War](https://open.spotify.com/album/74Syb2oEmqiXOuh1u8gRcd) | 4:01 | 2024-02-16 | 2024-05-25 |
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-24 |  |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2023-02-24 | 2023-07-01 |
+| [Washed](https://open.spotify.com/track/0bgijbvBSiTi4slIRi1OwC) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Washed](https://open.spotify.com/album/1TukpTVBvtfpuGn59YEDGa) | 3:27 | 2025-05-23 |  |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2024-01-31 |  |
 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2025-01-10 |  |
 | [West Of Tulsa](https://open.spotify.com/track/30CTixQQMXTkbBUKrLQpbe) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [West Of Tulsa](https://open.spotify.com/album/42B5HibLdk0bbfsG8atoOU) | 3:23 | 2023-09-22 | 2023-11-23 |

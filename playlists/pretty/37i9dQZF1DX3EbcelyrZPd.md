@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Barnaba & Diamond Platnumz
+> Get your fill of vibes straight out of Tanzania\. Cover: Jux
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,056 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,119 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 79 | [Fallen Angel \(feat\. Billnass\)](https://open.spotify.com/track/1uxoH5vs4qnyMUt5Omb6nD) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Fallen Angel \(feat\. Billnass\)](https://open.spotify.com/album/4H1Lh115qAiFHuGRWvc5Uf) | 4:20 |
 | 80 | [Sir God \(feat\. D Voice & Billnass\)](https://open.spotify.com/track/2BVmswbLRnULCTiAkpTdwO) | [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Sir God \(feat\. D Voice & Billnass\)](https://open.spotify.com/album/1Dr2rDsA0rsiTOaDahpuX2) | 4:43 |
 
-Snapshot ID: `aC+6UwAAAADZtBjg4zx8jRIIxY78pjZT`
+Snapshot ID: `aDBIGAAAAACq9m1iJkuu6SR8itg+Ag1G`

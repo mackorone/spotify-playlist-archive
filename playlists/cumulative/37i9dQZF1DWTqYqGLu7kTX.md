@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover: AP Dhillon
+> Best of Punjabi Hip\-Hop! Cover: Sukha
 
-267 songs - 13 hr 13 min
+268 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [999](https://open.spotify.com/track/4cvXI7BmYsK7jTF460fkJz) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [999](https://open.spotify.com/album/14uIRCjKU4lcuO7INNkFFb) | 2:51 | 2024-09-18 |  |
 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 | 2024-08-23 |  |
 | [Adhiya](https://open.spotify.com/track/5LEjxlKCcYH8irGpRtjbj0) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Adhiya](https://open.spotify.com/album/6ClVAtYBeQ6zjy3RnzR0ZV) | 2:57 | 2023-03-18 | 2023-09-05 |
-| [Ain't Loyal](https://open.spotify.com/track/1q5K6uD24v0z9P54tnWNkz) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO), [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi) | [Ain't Loyal](https://open.spotify.com/album/38S3I6MbtMwwgNlul9GQo1) | 3:09 | 2024-11-26 |  |
+| [Ain't Loyal](https://open.spotify.com/track/1q5K6uD24v0z9P54tnWNkz) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO), [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi) | [Ain't Loyal](https://open.spotify.com/album/38S3I6MbtMwwgNlul9GQo1) | 3:09 | 2024-11-26 | 2025-05-24 |
 | [Albatta](https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1) | [Welcome To Punjab](https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA) | 2:35 | 2024-05-16 | 2024-08-31 |
 | [Aloof](https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [YOLO](https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV) | 2:46 | 2023-03-18 | 2024-04-06 |
 | [Ambarsaria](https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:32 | 2024-07-26 |  |
@@ -79,6 +79,7 @@
 | [DASS JATTA](https://open.spotify.com/track/7040CjemGFRjCvVzVEwa6R) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2003](https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF) | 2:35 | 2024-08-23 | 2024-11-21 |
 | [Dawood](https://open.spotify.com/track/6hHmenkXJDvL7XcKNxSoRU) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB), [AJ Gill](https://open.spotify.com/artist/3CqwuXmwcjkf4MgtwkRl7g) | [Dawood](https://open.spotify.com/album/2vkv2Z0G3tV2It4lgMeYo6) | 3:25 | 2024-03-29 | 2024-07-27 |
 | [Deeply](https://open.spotify.com/track/5JXr0sWJbEqxuRojwLQaNl) | [Gurdeep Singh Garry](https://open.spotify.com/artist/4o7TyECXFcrJlwZCrbZIrk) | [Crazily Madly Deeply](https://open.spotify.com/album/2HinCCd58BSYDzim12EEtg) | 1:55 | 2024-08-26 | 2024-08-28 |
+| [Deewana](https://open.spotify.com/track/2KDDpTTvMODGoo3vmz29x4) | [BAGI MUNDA](https://open.spotify.com/artist/0HBnrWuJIS5VK5HVNP5y6Y), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [SANJU & SALLU RETURNS](https://open.spotify.com/album/14DNtUvxgQ2eIh7BCmo6D1) | 3:31 | 2025-05-23 |  |
 | [Defend](https://open.spotify.com/track/4VzztRJEEEKEdLYC4TyFTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Defend](https://open.spotify.com/album/0MM2pqDPIMijqUHeZeukc1) | 2:53 | 2023-03-18 | 2023-09-05 |
 | [Deja Vu](https://open.spotify.com/track/7qsFkZtxVdJYZaCmEnHRGo) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Real Sheikh](https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR) | [Deja Vu](https://open.spotify.com/album/4j8ZHrjf3cgM96KJU4WYNP) | 1:25 | 2024-10-16 | 2024-11-09 |
 | [Deposit](https://open.spotify.com/track/0CTKJBq4x6M9jz4MxGTaOv) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Deposit](https://open.spotify.com/album/7iMYIzz1CcVJYs2m2buUbF) | 2:11 | 2024-02-09 | 2024-02-16 |

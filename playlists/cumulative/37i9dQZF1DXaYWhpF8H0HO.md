@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Salon RnB
 
-371 songs - 21 hr 38 min
+372 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [I’LL BE YOUR PAIN](https://open.spotify.com/track/4muyJ5JfkGoc7CPjuYf8y1) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [I’LL BE YOUR PAIN](https://open.spotify.com/album/4dQ6dOXgZjN4B0YaclfOOf) | 3:52 | 2024-11-21 | 2025-03-14 |
 | [Jinx](https://open.spotify.com/track/5WMLBSaC8XfOvbfKyGBl2P) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Jinx](https://open.spotify.com/album/1KHhFytVw5or6be6L4jQUO) | 2:30 | 2025-05-22 |  |
 | [Jump](https://open.spotify.com/track/76IkPiWvPLWxKUxeQp1iTc) | [Shae](https://open.spotify.com/artist/3exdJhXYXKtHAx95vCXwe1) | [Jump](https://open.spotify.com/album/5oCS8P1yjKhrv4yUIoiDcm) | 2:59 | 2024-12-12 | 2025-03-14 |
+| [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 | 2025-05-22 |  |
 | [Just A Matter Of Time](https://open.spotify.com/track/6lKxwOcrkrj5qzWFBdytwt) | [Tobias Hosea](https://open.spotify.com/artist/7cPc3OavyjUwdMjfugxoAp) | [Just A Matter Of Time](https://open.spotify.com/album/7zBav3UT0TUO4ewfDTcey4) | 3:42 | 2024-07-11 | 2024-09-27 |
 | [Just Like That \(feat\. Dennis Ferdinand\)](https://open.spotify.com/track/36x6ogJbxwR0v1hV5ULjKS) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX), [Dennis Ferdinand](https://open.spotify.com/artist/2c0Z5c4cQrata4sdpjvMgI) | [Just Like That \(feat\. Dennis Ferdinand\)](https://open.spotify.com/album/66tL2IIF6pAAEgr9xpmJor) | 3:38 | 2025-04-24 |  |
 | [Just Say Yes](https://open.spotify.com/track/5gWJbPFDoCmFyw8MVOiAO6) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Life in Bloom](https://open.spotify.com/album/7qYAWD0OVYi5JLlr88Tf9Y) | 3:44 | 2025-05-08 |  |

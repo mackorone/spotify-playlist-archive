@@ -4,7 +4,7 @@
 
 > Merayakan 10 tahun Fresh Finds, temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Adifa
 
-4,670 songs - 11 day 22 hr 19 min
+4,671 songs - 11 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [Cinta](https://open.spotify.com/track/6xprI29GhFegVwo34wvezE) | [Ferencia Annabele](https://open.spotify.com/artist/05o1DCODTHgzZKeyliMh0C) | [Cinta](https://open.spotify.com/album/2VHDlMC7r7ekjifRqMYvzh) | 3:11 | 2024-10-04 | 2024-11-01 |
 | [Cinta Atau Fana](https://open.spotify.com/track/5daf7GC0u1VJIedJJlnkfD) | [Gerral Chandra](https://open.spotify.com/artist/7Cnyo1uXypIzlbC9u5uf2R) | [Cinta Atau Fana](https://open.spotify.com/album/2PMUC5dsyirCQyRLU4iPlM) | 3:28 | 2024-10-18 | 2024-11-08 |
 | [Cinta begini salah](https://open.spotify.com/track/4yzo3BndtnTeoqnr9EhOg9) | [Iva Andina](https://open.spotify.com/artist/4F23qvBStFXjosTJOP6XJw) | [Cinta begini salah](https://open.spotify.com/album/7HfbDKaGScjnf0TJXWDV7u) | 3:46 | 2022-06-16 | 2022-07-08 |
+| [CINTA CAMPURSARI](https://open.spotify.com/track/1PFFxlVF8WnHSzEA8vUgJL) | [Van Axxel](https://open.spotify.com/artist/1J8UaXqBf0WrL6NokqoIJ8), [BELVA](https://open.spotify.com/artist/6PI0wF8Op3lqFWqc1Ilvwj) | [CINTA CAMPURSARI](https://open.spotify.com/album/0FtwCLRKzs8kbzRDin9qYA) | 3:09 | 2025-05-22 |  |
 | [Cinta Dalam Diam](https://open.spotify.com/track/59BE22Hll2jUOUrdPFVaER) | [Mercusuar](https://open.spotify.com/artist/3Nn2oO4bmYOTJ551q1CFbq) | [Cinta Dalam Diam](https://open.spotify.com/album/45DUsMmGM45nwwR2xYQqjy) | 3:15 | 2024-06-28 | 2024-07-27 |
 | [Cinta Dan Amarah](https://open.spotify.com/track/06pWaRWQzLKCauGwJEfIub) | [Dhia](https://open.spotify.com/artist/7qaMMDVjiPIsxtJCH9GBrg) | [Cinta Dan Amarah](https://open.spotify.com/album/2e8dz2f5x8ktxHI5cRk6gk) | 4:26 | 2024-10-18 | 2024-11-08 |
 | [Cinta Fiksi](https://open.spotify.com/track/2yAoQaguk6TT3fB19I07At) | [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU), [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Cinta Fiksi](https://open.spotify.com/album/3LdTK3XWLlgjKRU8iuq5tS) | 3:21 | 2023-08-11 | 2023-08-25 |

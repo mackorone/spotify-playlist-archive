@@ -4,7 +4,7 @@
 
 > Brand new music from Myles Smith, Burna Boy ft Travis Scott, Reneé Rapp and more!
 
-16,389 songs - 36 day 21 hr 43 min
+16,390 songs - 36 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,7 +808,7 @@
 | [An Ever Changing View](https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 6:32 | 2023-09-07 | 2023-09-15 |
 | [An Idea Was Born](https://open.spotify.com/track/7MMT2yeDKLjbxV3HS7k8Gf) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [An Idea Was Born](https://open.spotify.com/album/1MbqtSUEXS79NyHJ2rx63M) | 2:07 | 2023-12-15 | 2023-12-22 |
 | [an object of desire](https://open.spotify.com/track/3IIXPTEZtS9S3jNEotp4A0) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [an object of desire](https://open.spotify.com/album/4qG1quz1w49tJhuHpbQE5d) | 3:38 | 2024-02-23 | 2024-03-01 |
-| [Anansi](https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Prove Them Wrong](https://open.spotify.com/album/4wq0ynVCbHno5QJFuAR1yZ) | 2:50 | 2025-05-22 |  |
+| [Anansi](https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Prove Them Wrong](https://open.spotify.com/album/4wq0ynVCbHno5QJFuAR1yZ) | 2:49 | 2025-05-22 |  |
 | [Ancestral \(feat\. Hak Baker\)](https://open.spotify.com/track/7KR5oBw1mokFI0bHEaaLa3) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Ancestral \(feat\. Hak Baker\)](https://open.spotify.com/album/0FHympywUjFke5C2AzW29O) | 3:16 | 2023-07-20 | 2023-07-28 |
 | [Anchor](https://open.spotify.com/track/3ApJK6w9s4FzFSqnkydRge) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Anchor](https://open.spotify.com/album/2kiy3FCTSKxwWhW6DnXLtY) | 3:18 | 2023-07-27 | 2023-08-04 |
 | [And 1](https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [And 1](https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT) | 3:31 | 2024-03-29 | 2024-04-05 |
@@ -13652,6 +13652,7 @@
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-10 | 2023-03-18 |
 | [Taboo](https://open.spotify.com/track/35TLtBc85Bxe5fPqhJPIfw) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR) | [Taboo](https://open.spotify.com/album/2QvzNlP0yEZpjnvc3yoA6M) | 3:50 | 2024-03-22 | 2024-03-29 |
 | [Taboo](https://open.spotify.com/track/5TayUSHcEJnNc4DR2KQiBo) | [Liét](https://open.spotify.com/artist/1ES79pFtKmov7q67DnoxXI) | [Taboo](https://open.spotify.com/album/5kmc5m7ur027pnqmuyEA0n) | 3:00 | 2024-05-23 | 2024-06-01 |
+| [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 | 2025-05-23 |  |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-08-29 | 2024-09-06 |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-10-10 | 2024-10-18 |
 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 | 2024-03-22 | 2024-03-29 |
@@ -14011,7 +14012,7 @@
 | [THE CHEMICALS](https://open.spotify.com/track/4NLvDJiZ1fcOF8eqZRBbxc) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [THE CHEMICALS](https://open.spotify.com/album/5SmtHJw6OE9m8oTUdzV03c) | 4:04 | 2023-08-10 | 2023-08-18 |
 | [The Climb](https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Climb](https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP) | 3:21 | 2024-04-04 | 2024-04-12 |
 | [The Coast](https://open.spotify.com/track/2INATzqXrQvaCQWL0RpC0k) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [The Coast](https://open.spotify.com/album/1gOk1PppEtDgAeEGbmS03a) | 3:08 | 2023-03-24 | 2023-03-31 |
-| [The Code \- Radio Edit](https://open.spotify.com/track/25hxls3e8zCxnzKRmX8bbL) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [MESSIE](https://open.spotify.com/artist/4VsVLz3Uw6d0fdM6gFtLfo) | [The Code \(Radio Edit\)](https://open.spotify.com/album/62BPV6LeBW0Xww9x8AM3sa) | 2:51 | 2025-05-22 |  |
+| [The Code](https://open.spotify.com/track/25hxls3e8zCxnzKRmX8bbL) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [MESSIE](https://open.spotify.com/artist/4VsVLz3Uw6d0fdM6gFtLfo) | [The Code](https://open.spotify.com/album/62BPV6LeBW0Xww9x8AM3sa) | 2:51 | 2025-05-22 |  |
 | [The Color Violet](https://open.spotify.com/track/3aBOX8zZPFHEfugtg6Dtch) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [The Color Violet](https://open.spotify.com/album/36dWBfIQbv0BDmQ95TWCnB) | 4:58 | 2023-12-22 | 2024-01-05 |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 | 2024-01-12 | 2024-01-19 |
 | [The Commons](https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Commons](https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d) | 5:24 | 2024-10-03 | 2024-10-11 |

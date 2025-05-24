@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,276 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,535 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,13 +124,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 114 | [Solo Esta Vez](https://open.spotify.com/track/3yMJkJfWoJW1vo2vVmW23J) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez](https://open.spotify.com/album/3nQLgjWf79JfcowiGMQWZr) | 3:20 |
 | 115 | [Me Dicen El Coyote](https://open.spotify.com/track/6tS1jMgrY8UKF9kfvPOnaB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 2\)](https://open.spotify.com/album/4WfvdBmvwXXv4RMq9eOWVV) | 2:22 |
 | 116 | [El Alacrán](https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM) | 2:34 |
-| 117 | [Pobre Bohemio](https://open.spotify.com/track/6ifPyD2GhPOy54fqbcd9IV) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Puras Rancheras Con Cuisillos](https://open.spotify.com/album/1rk9AlqRtw4KEj3LoACMnp) | 2:53 |
+| 117 | [Te He de Querer](https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:33 |
 | 118 | [La Bota](https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:28 |
 | 119 | [Te He Prometido](https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof) | [El Original De La Sierra](https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc) | [Te He Prometido](https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG) | 3:12 |
 | 120 | [Viejo Joven El](https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:36 |
 | 121 | [El Anonimo](https://open.spotify.com/track/1teRpnRo534fWUj6uDwVkr) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Colección Privada](https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq) | 2:29 |
 | 122 | [Si Tu No Estas](https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 3:30 |
-| 123 | [Te He de Querer](https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:33 |
+| 123 | [Pobre Bohemio](https://open.spotify.com/track/6ifPyD2GhPOy54fqbcd9IV) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Puras Rancheras Con Cuisillos](https://open.spotify.com/album/1rk9AlqRtw4KEj3LoACMnp) | 2:53 |
 | 124 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
 | 125 | [Cuatro Rosas](https://open.spotify.com/track/5a53BoBNOKSUW6n4lEZOAk) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver A Verte](https://open.spotify.com/album/7aEMpk1yvAh8MA6dgpMuQ2) | 4:08 |
 | 126 | [Un Ángel](https://open.spotify.com/track/3B16J1eQNHrPq2kk7wfivj) | [Banda Espuela De Oro](https://open.spotify.com/artist/4ZlUjn2j38IZlKiaASimrw) | [Lo Mismo Pero No Iguales](https://open.spotify.com/album/4C0m6IZz4550GljWVHqWIj) | 3:08 |

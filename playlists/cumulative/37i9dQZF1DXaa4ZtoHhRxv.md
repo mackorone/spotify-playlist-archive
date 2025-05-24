@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-218 songs - 11 hr 40 min
+219 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [No Peace \(feat\. RaeLynn\)](https://open.spotify.com/track/0qNROkepgSyjuzGC2TAKkz) | [RoadHouse](https://open.spotify.com/artist/6Nf3jLrIOWnKsvdpJcup2y), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [RoadHouse](https://open.spotify.com/album/3ACmOsG39mP5LfCw3FF1wm) | 3:13 | 2021-12-10 |  |
 | [No Peace \(feat\. Raelynn\)](https://open.spotify.com/track/79Pbqbd32IUbeYSrmKCbd2) | [Roadhouse](https://open.spotify.com/artist/3I8ZwvgzfDF1OtQNXay4EC), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [RoadHouse \- EP](https://open.spotify.com/album/6CCynmRT6vWoHPbfUhYdsy) | 3:13 | 2023-09-15 | 2024-04-19 |
 | [Nobody \(R3HAB Remix\)](https://open.spotify.com/track/2Z0Ie1NJJLkp14ClmTx5P5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Nobody \(R3HAB Remix\)](https://open.spotify.com/album/3B64IR7UJccjEtcIPQsvDk) | 2:14 | 2021-12-10 |  |
+| [Not At This Party \- David Guetta Remix](https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Not At This Party \(David Guetta Remix\)](https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR) | 2:51 | 2025-05-23 |  |
 | [Old Town Road \(Diplo Remix\)](https://open.spotify.com/track/0PqK2PJF68X1RUV7pnGoko) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 3:24 | 2023-04-28 | 2023-06-10 |
 | [Old Town Road \- Diplo Remix](https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Old Town Road \(Diplo Remix\)](https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl) | 3:24 | 2023-06-09 |  |
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2021-12-10 | 2023-04-29 |

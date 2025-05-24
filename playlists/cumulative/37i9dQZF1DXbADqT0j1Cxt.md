@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-726 songs - 22 hr 13 min
+730 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Dreams of Us](https://open.spotify.com/track/20Fpq9gEh0oOPNapG27Ihv) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Dreams of Us](https://open.spotify.com/album/7vtj7hTrxhTMYOB9KV3u6w) | 1:52 | 2023-03-17 | 2025-03-05 |
 | [Dreamslide](https://open.spotify.com/track/7xbXN5zQ89EwsU4Lcz6J3V) | [Curly Purples](https://open.spotify.com/artist/34BqjxKhJHCPhOJNfeGhDC) | [Dreamslide](https://open.spotify.com/album/0qv7ygBZbyKPyI5Q9LnkbH) | 1:35 | 2021-10-07 | 2023-10-06 |
 | [Dreamswing](https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM) | [Vincent Lundborg](https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A) | [Dreamswing](https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp) | 1:58 | 2024-01-05 | 2024-05-24 |
-| [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 | 2023-12-22 |  |
+| [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 | 2023-12-22 | 2025-05-24 |
+| [Drift Away With Me](https://open.spotify.com/track/3ydoWKqaBvnxV25o1KSDfl) | [Som Nus](https://open.spotify.com/artist/4BcEQAc8ueUmqBeLFGV5L7) | [Drift Away With Me](https://open.spotify.com/album/1D3PkwFgj5E7MeGgOpWGfO) | 2:02 | 2025-05-23 |  |
 | [Drifting Off](https://open.spotify.com/track/6XFxCAlMKQ22za0hPQZm5T) | [A\. Rustique](https://open.spotify.com/artist/45a6vDcpLuV4ACyTwptNvN) | [Drifting Off](https://open.spotify.com/album/5u5TWcrEnzFN9zxl7F7CtA) | 1:19 | 2025-04-11 |  |
 | [Drifting Off](https://open.spotify.com/track/08mDKHVrKDN7NeIXvZ1J33) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Drifting Off](https://open.spotify.com/album/0l4j3CpfWQCu4jdZa7NZJz) | 2:33 | 2021-10-07 | 2024-04-19 |
 | [Drømmenes verden](https://open.spotify.com/track/71tEUkRXpGDFEqAkVIcOkX) | [Demi Rasmussen](https://open.spotify.com/artist/6bYwWlhCzdXNlqFmwyZOTD) | [Drømmenes verden](https://open.spotify.com/album/34hkOMErIOW4N5Gp9o6gXj) | 2:17 | 2022-12-09 | 2025-03-05 |
@@ -353,6 +354,7 @@
 | [Little pony](https://open.spotify.com/track/3Qyy4PT4gWJVedjM31t2gE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Little pony](https://open.spotify.com/album/0Grvlj3TuPZu0QZrRxeC9a) | 1:18 | 2024-05-03 |  |
 | [Little Robin Redbreast](https://open.spotify.com/track/6rCqiXs9GaZCG2tvCHxL5E) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [Little Robin Redbreast](https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso) | 1:25 | 2021-10-07 | 2023-01-13 |
 | [Little Spring Song](https://open.spotify.com/track/2AtS0OYVTIBxRRgWGioJrl) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Little Spring Song](https://open.spotify.com/album/6QrQoAvanfAf6HRGxjT7xA) | 2:09 | 2024-07-08 |  |
+| [Little Star, Shine Bright](https://open.spotify.com/track/45plraUYyFLPdwuq0mvzVA) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Little Star, Shine Bright](https://open.spotify.com/album/6hVB8RtqL9AjQKDY7NO1g8) | 1:46 | 2025-05-23 |  |
 | [Little Sweetheart](https://open.spotify.com/track/5CLD2SV9D7MigUOl6r5UO7) | [Olivia Boward](https://open.spotify.com/artist/5qlZWNHgu2oBOjY6hSvfOe) | [Little Sweetheart](https://open.spotify.com/album/3nCtIf8Zrvt9BwdHrUAKA8) | 1:50 | 2021-10-07 | 2024-03-29 |
 | [Little Tiger](https://open.spotify.com/track/1YfOi6EOZxp3zKIXuXTxYA) | [Calista Barrett](https://open.spotify.com/artist/3XfWyEYMiQxHvtAXl3m1ih) | [Little Tiger](https://open.spotify.com/album/6cflbsdLEBdDJQaIyWvSEK) | 1:25 | 2022-02-10 | 2024-05-04 |
 | [London Bridge](https://open.spotify.com/track/3D0h9ZFiwZqL068mV7Fj0X) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [London Bridge](https://open.spotify.com/album/0JlKJ9j505MZXTHt5msDUZ) | 2:12 | 2023-09-08 |  |
@@ -407,6 +409,7 @@
 | [My BFF](https://open.spotify.com/track/3ChAmrKYXUcgt720JkVfnb) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [My BFF](https://open.spotify.com/album/0AW32j89QIZXIOBZQE5xxX) | 1:48 | 2024-09-30 |  |
 | [My Bonnie Lies Over the Ocean](https://open.spotify.com/track/7A5T3WgbiojUSYNKvSQrur) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [My Bonnie Lies Over the Ocean](https://open.spotify.com/album/1GsWEPZgxInPsKc3dqjQIy) | 2:08 | 2023-11-17 | 2025-03-05 |
 | [My Bonnie lies over the ocean](https://open.spotify.com/track/7ClgKhsbFMHT6SctPSBezr) | [Jascha van Nuenen](https://open.spotify.com/artist/0wxmGu7bfQkix7ZeK8A0mz) | [My Bonnie lies over the ocean](https://open.spotify.com/album/2oF4b0hzO8kR2uAFHRlFji) | 0:58 | 2021-10-07 | 2022-03-18 |
+| [My Bonnie Lies Over The Ocean](https://open.spotify.com/track/5Q2vjHQQelZWA5Gc7b5gnU) | [Nicola Gisin](https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s) | [My Bonnie Lies Over The Ocean](https://open.spotify.com/album/1k9pH68xMmyqBm2Y23o0SR) | 1:31 | 2025-05-23 |  |
 | [My Deer Friend](https://open.spotify.com/track/49EEQXTPYcKUeoBbXXCtcd) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [My Deer Friend](https://open.spotify.com/album/41qgkgJTMGPgJsSGfKQWOE) | 1:53 | 2023-08-10 |  |
 | [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
 | [My Everything](https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk) | [All About The Children](https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL) | [My Everything](https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7) | 2:12 | 2024-08-30 |  |
@@ -689,6 +692,7 @@
 | [Twinklepaws](https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Twinklepaws](https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C) | 1:42 | 2024-10-18 |  |
 | [Two Little Blackbirds](https://open.spotify.com/track/4GrJb2CouAQIqymFQEdweV) | [Melanie Peters](https://open.spotify.com/artist/2xuGQvF3z0rrsgxZVM0D0S) | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/album/0nFZ4ryJUrrf4bbIDFAN1I) | 1:52 | 2021-10-07 | 2022-10-29 |
 | [Two Little Puppies](https://open.spotify.com/track/4GlMPAwMs4zrQBoSKPtC2N) | [Elliott Spalding](https://open.spotify.com/artist/690gVgjN9rkeuiQvRNo4Ei) | [Two Little Puppies](https://open.spotify.com/album/4wg136q3fjaQjTiXhehZjh) | 1:35 | 2021-10-07 | 2022-12-24 |
+| [Umbrella for Two](https://open.spotify.com/track/6c4kqvZuy6zutHoawVZcz5) | [Charlie Gray](https://open.spotify.com/artist/1pv2nF0KVHypPpj26VGnsz) | [Umbrella for Two](https://open.spotify.com/album/10Fla80u42PwJz5ahetyPL) | 2:21 | 2025-05-23 |  |
 | [Under the stars](https://open.spotify.com/track/7a9IECeJJ1GsGhkLzHoY5k) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Under the stars](https://open.spotify.com/album/7AwyluhQXhubHEvuUKYDSW) | 1:33 | 2024-03-01 |  |
 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 | 2023-08-10 |  |
 | [Until morning light](https://open.spotify.com/track/4CqPp4KenTy68DLT9optnH) | [Mandy Hoyer](https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw) | [Until morning light](https://open.spotify.com/album/58FSNhzOxK0x494h7KmmFb) | 2:00 | 2021-10-07 | 2024-05-24 |
@@ -713,7 +717,7 @@
 | [When You Opened Up Your Eyes](https://open.spotify.com/track/37kjqjUgTdKgvvjgsExBKB) | [Lucille Shannon](https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN) | [When You Opened Up Your Eyes](https://open.spotify.com/album/6P3HYig1wH5WnwtxttXPgN) | 1:04 | 2021-10-07 | 2025-03-05 |
 | [When You Sleep](https://open.spotify.com/track/4h1HSn6yB1musNToOSIIRp) | [Nia Glynn](https://open.spotify.com/artist/6qHUfCJ0xqPOXDYb3Vg1FM) | [When You Sleep](https://open.spotify.com/album/43jxhKZdMjJM1JhOtcZO6b) | 1:17 | 2023-04-07 | 2025-03-05 |
 | [When you wish upon a star](https://open.spotify.com/track/42HxzqryZgSkMlvlhL8Zg2) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Suo Gân](https://open.spotify.com/album/4MzHmjCCN4IhCGc8uBXH6j) | 2:01 | 2021-10-07 | 2022-10-29 |
-| [When You Wish Upon a Star](https://open.spotify.com/track/2jgqPeRJrWyu1FXxBGifO4) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [When You Wish Upon a Star](https://open.spotify.com/album/5xKiC8TCmet0xTaPhXqPqe) | 1:52 | 2023-02-10 |  |
+| [When You Wish Upon a Star](https://open.spotify.com/track/2jgqPeRJrWyu1FXxBGifO4) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [When You Wish Upon a Star](https://open.spotify.com/album/5xKiC8TCmet0xTaPhXqPqe) | 1:52 | 2023-02-10 | 2025-05-24 |
 | [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 | 2023-03-17 |  |
 | [Who’s afraid of the big bad wolf?](https://open.spotify.com/track/1neL0jQJCbl6e7BDYD6Bdm) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Who’s afraid of the big bad wolf?](https://open.spotify.com/album/072xjdjbNqGy8stuVeBJUj) | 1:24 | 2024-06-07 |  |
 | [Wiegenlied Op\. 49, No\. 4](https://open.spotify.com/track/3fPNPY67AJQUwpjBpBBHxs) | [Benjamin Sweet](https://open.spotify.com/artist/6faEASxbrKf7pUBruyhRlU) | [Wiegenlied Op\. 49, No\. 4](https://open.spotify.com/album/27bEa6mhDCatJAhBp1Qgv4) | 2:16 | 2024-05-24 |  |

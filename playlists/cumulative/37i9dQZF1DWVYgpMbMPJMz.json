@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Sons Of Sunday",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  ELEVATION RHYTHM",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 432766,
       "name": "At The Altar",
       "url": "https://open.spotify.com/track/2QmFBXdMGeXlsE0AV8j5qA"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 195124,
       "name": "Calm",
       "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 378518,
       "name": "City On A Hill",
       "url": "https://open.spotify.com/track/6vfNrWcbC5OB8ExG8eRXPY"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 731000,
       "name": "Desirable",
       "url": "https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 395624,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/6zf4N3NFytcu7olEUXwugw"
@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 299871,
       "name": "Glory On The Other Side",
       "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"
@@ -4766,7 +4766,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 264521,
       "name": "Good Shepherd",
       "url": "https://open.spotify.com/track/0qunForAChEb3cxRJ0KIZK"
@@ -5218,7 +5218,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 235200,
       "name": "He Has Done Great Things",
       "url": "https://open.spotify.com/track/16sauYch9w6REG9p5xi9C2"
@@ -6870,6 +6870,24 @@
       "duration_ms": 369923,
       "name": "I Want Jesus - Live",
       "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
+    },
+    {
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275910,
+      "name": "I Was, But God",
+      "url": "https://open.spotify.com/track/3FHO4DclRzmdiciKgdKsMi"
     },
     {
       "album": {
@@ -10209,6 +10227,24 @@
     },
     {
       "album": {
+        "name": "Nothing But Goodness (Studio Version)",
+        "url": "https://open.spotify.com/album/3uKklbkdo89UZPAkegFUM9"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Nothing But Goodness (Studio Version)",
+      "url": "https://open.spotify.com/track/33ASvfit1pt8Xcb1w4EDHl"
+    },
+    {
+      "album": {
         "name": "Nothing Else (Live)",
         "url": "https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP"
       },
@@ -10812,6 +10848,32 @@
       "duration_ms": 414859,
       "name": "Open - Live",
       "url": "https://open.spotify.com/track/0mmcXH66QN5K2VPFjD50bF"
+    },
+    {
+      "album": {
+        "name": "Our God Reigns (Over All The Earth) [Live]",
+        "url": "https://open.spotify.com/album/6mSgVWFisouBbLnSvvX9pl"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563562,
+      "name": "Our God Reigns (Over All The Earth) - Live",
+      "url": "https://open.spotify.com/track/6AZ5rlcvoh3VHG7A6dgUuB"
     },
     {
       "album": {
@@ -13371,6 +13433,24 @@
     },
     {
       "album": {
+        "name": "Testimony (Choral Version)",
+        "url": "https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233886,
+      "name": "Testimony - Choral Version",
+      "url": "https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3"
+    },
+    {
+      "album": {
         "name": "Thank You For The Cross",
         "url": "https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4"
       },
@@ -15621,6 +15701,28 @@
     },
     {
       "album": {
+        "name": "Washed",
+        "url": "https://open.spotify.com/album/5mLoMRKwLT3Zm3vAizRpNX"
+      },
+      "artists": [
+        {
+          "name": "Newlands Worship",
+          "url": "https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317071,
+      "name": "Washed",
+      "url": "https://open.spotify.com/track/6ZJEBlM2Q2jglDpPpSQU84"
+    },
+    {
+      "album": {
         "name": "REVERE: Brasil",
         "url": "https://open.spotify.com/album/7C1oFsJIw85C1Bi6zRkqwb"
       },
@@ -16126,6 +16228,28 @@
       "duration_ms": 292075,
       "name": "Where You're Wanted - Live",
       "url": "https://open.spotify.com/track/3GcfJsiKzQKlp7RlsbLPuH"
+    },
+    {
+      "album": {
+        "name": "Who Else",
+        "url": "https://open.spotify.com/album/4oZaexnq27sRnGmpSa1Opj"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        },
+        {
+          "name": "Chase & Co.",
+          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213291,
+      "name": "Who Else",
+      "url": "https://open.spotify.com/track/1bZbXxbxS2yIpmHNVYKJE9"
     },
     {
       "album": {

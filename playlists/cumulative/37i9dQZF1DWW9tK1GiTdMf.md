@@ -4,7 +4,7 @@
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Vale LP e Lil Jolie in cover
 
-1,363 songs - 2 day 14 hr 28 min
+1,364 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [nella tua festa](https://open.spotify.com/track/3LvKKBtrUsOI3KhYyXIRdZ) | [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1) | [EXTRACÙTE](https://open.spotify.com/album/47q6J1efJi5k9L1JKNMD8W) | 2:48 | 2025-05-15 |  |
 | [NEON](https://open.spotify.com/track/5mxvimD3oUGQdsxyTAF8mc) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [MANTISTECH VOL.3](https://open.spotify.com/album/6KIXtd5hXBvJedG2F2inCo) | 2:44 | 2024-05-02 | 2024-05-24 |
 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-03-28 | 2024-04-05 |
+| [Nero Tetro](https://open.spotify.com/track/02WIPzYAGtKznU0Awfl9bG) | [RAFCOVI](https://open.spotify.com/artist/4jjVXEWdvT55GqDdnOFzC6), [HIDE ASHINA](https://open.spotify.com/artist/1i0aPf5R1oIczuMoWkCzwO), [Flex Dolph](https://open.spotify.com/artist/0TQtdHDvp1bCjmXIg93t3B) | [Nero Tetro](https://open.spotify.com/album/0xltnBBZMbFZ7zZ6tWt4CN) | 1:40 | 2025-05-23 |  |
 | [Nessuno](https://open.spotify.com/track/0kKBRhNxYw3np5uKQPFylX) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Nessuno](https://open.spotify.com/album/4AF1T4eeQwTzjwakQ4J0qr) | 2:24 | 2022-05-19 | 2022-09-09 |
 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 | 2025-04-03 | 2025-05-09 |
 | [Niente](https://open.spotify.com/track/51N94z9FlFrjIaVzlRxeo7) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Niente](https://open.spotify.com/album/0iBornB76x1EohLe697bvd) | 2:22 | 2024-06-27 | 2024-09-20 |

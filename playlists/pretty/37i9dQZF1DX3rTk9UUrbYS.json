@@ -1,13 +1,41 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 62107,
+  "num_followers": 62124,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI6QAAAABDHOUlukPUMPB/tjGW/AZf",
+  "snapshot_id": "aC/y5gAAAAAGvWA7oa1JJc27xfeFUFPB",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:37",
+      "album": {
+        "name": "Paternoster",
+        "url": "https://open.spotify.com/album/36cQ4dqTtfptZC4seRp7MZ"
+      },
+      "artists": [
+        {
+          "name": "OVERS\u00c1EZ",
+          "url": "https://open.spotify.com/artist/5rUZUacnS7ZE0IXustbxyN"
+        },
+        {
+          "name": "Sandro S\u00e1ez",
+          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
+        },
+        {
+          "name": "Jonas Westergaard",
+          "url": "https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P"
+        },
+        {
+          "name": "Nathan Ott",
+          "url": "https://open.spotify.com/artist/76wzsAW48HynNLEf180nGg"
+        }
+      ],
+      "duration_ms": 535135,
+      "name": "Paternoster",
+      "url": "https://open.spotify.com/track/1L1ZKH2hcdCIOSKbEWZBII"
+    },
     {
       "added_at": "2025-04-25 04:00:41",
       "album": {
@@ -1203,38 +1231,6 @@
       "duration_ms": 399560,
       "name": "Composite",
       "url": "https://open.spotify.com/track/2IXxhyBkczi3kz6QRWuIsQ"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Erik Satie: Musique d'entracte",
-        "url": "https://open.spotify.com/album/32FZhvtuj2SQ4jZsKKGdGc"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Fumio Yasuda",
-          "url": "https://open.spotify.com/artist/119ZjIwmcMJo9hEFWaczPX"
-        },
-        {
-          "name": "Joachim Badenhorst",
-          "url": "https://open.spotify.com/artist/4WdhTZmQC14NRbEUSPb2qA"
-        },
-        {
-          "name": "Julie L\u00e4derach",
-          "url": "https://open.spotify.com/artist/3W1oujj8zBBHdNKHj4pV2e"
-        }
-      ],
-      "duration_ms": 375173,
-      "name": "Cinema: entr'acte symphonique de Relache (arr. for chamber ensemble)",
-      "url": "https://open.spotify.com/track/0dixluAn0piS3iY1JsoQI0"
     },
     {
       "added_at": "2022-02-25 05:02:00",

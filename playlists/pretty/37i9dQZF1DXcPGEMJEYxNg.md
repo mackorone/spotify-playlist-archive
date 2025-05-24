@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists:  SNOW WIFE, Chance Emerson and Luna Li.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,480 likes - 48 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,482 likes - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \(Spotify Singles\)](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
+| 1 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \- Spotify Singles](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
 | 2 | [All My Love \- Spotify Singles](https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [All My Love \- Spotify Singles](https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a) | 3:44 |
-| 3 | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Rose Colored Lenses \(Spotify Singles\)](https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN) | 2:23 |
+| 3 | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN) | 2:23 |
 | 4 | [Fantasy \(with Raveena\)](https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Fantasy \(with Raveena\)](https://open.spotify.com/album/7dEJfJNC8FTuvu1fbnXedb) | 3:54 |
 | 5 | [Bodyology](https://open.spotify.com/track/5jbJxbG9cqhRknyCjr741q) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/3TrkqEFslRqaWu7FDhomTU) | 2:28 |
 | 6 | [Plant A Forest](https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Plant A Forest](https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z) | 2:44 |

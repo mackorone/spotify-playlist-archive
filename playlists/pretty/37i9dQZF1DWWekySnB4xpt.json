@@ -1,13 +1,53 @@
 {
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Alleh & Yorghaki",
-  "num_followers": 257250,
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Mau y Ricky, Danny Ocean, Yorghaki",
+  "num_followers": 257354,
   "original_name": "Made In Venezuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iEeQAAAABvgYtVqdUOBUXKJstwb3F7",
+  "snapshot_id": "aDAMHwAAAADR/oBWMjU/CeYg1Rr633Qm",
   "tracks": [
+    {
+      "added_at": "2025-05-23 05:48:14",
+      "album": {
+        "name": "saman\u00e1",
+        "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "saman\u00e1",
+      "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
+    },
+    {
+      "added_at": "2025-05-23 05:48:14",
+      "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 239324,
+      "name": "capricho",
+      "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
+    },
     {
       "added_at": "2025-04-11 02:54:49",
       "album": {
@@ -323,26 +363,6 @@
     {
       "added_at": "2025-04-11 02:54:49",
       "album": {
-        "name": "SOTORIUS",
-        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "EL FAVORITO DE MAMI",
-      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
-    },
-    {
-      "added_at": "2025-04-11 02:54:49",
-      "album": {
         "name": "el Alquimista (versi\u00f3n piano)",
         "url": "https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g"
       },
@@ -375,30 +395,6 @@
       "duration_ms": 191866,
       "name": "No Escuches Esta Canci\u00f3n",
       "url": "https://open.spotify.com/track/6KAuZJVlWj9yOcw0CJTNKR"
-    },
-    {
-      "added_at": "2025-04-11 02:54:49",
-      "album": {
-        "name": "Coquette (Remix)",
-        "url": "https://open.spotify.com/album/30WEmCF5a1YNZv5uzBMdvA"
-      },
-      "artists": [
-        {
-          "name": "Briella",
-          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Coquette (Remix)",
-      "url": "https://open.spotify.com/track/5HrjBJVKnfPOgDAIo3Wow4"
     },
     {
       "added_at": "2025-04-11 02:54:49",

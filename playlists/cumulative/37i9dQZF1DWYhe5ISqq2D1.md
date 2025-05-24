@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: THE CHARM PARK
 
-633 songs - 1 day 16 hr 11 min
+634 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Today \-胸いっぱいの愛を\-](https://open.spotify.com/track/1y5dvIVaZEkx1QcKXZewMo) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [Today \-胸いっぱいの愛を\-](https://open.spotify.com/album/1La6hRkmXbxrpZfzwiBPmA) | 3:58 | 2025-04-29 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
-| [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 |  |
+| [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 | 2025-05-24 |
 | [Tsukaten](https://open.spotify.com/track/7fwJjPv8RCKRQERdX78S9r) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [Tsukaten](https://open.spotify.com/album/2c0XZG8JPjYRwnj9U9Y6Gz) | 3:21 | 2025-03-04 | 2025-03-12 |
 | [Tsukiakari](https://open.spotify.com/track/5DyQXyEblxE1vY3Ijf2oNk) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [SWARM!!](https://open.spotify.com/album/7rQQBh6vvKFMF3ytBXfDzk) | 2:56 | 2025-02-18 | 2025-02-26 |
 | [Twilight](https://open.spotify.com/track/7vqSdw6XjuBYp7Lq1Q1eiw) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Twilight](https://open.spotify.com/album/3NdU6xvqxUw2h5Ay7xNjHH) | 3:27 | 2025-01-14 | 2025-01-22 |
@@ -518,6 +518,7 @@
 | [幸せな約束。](https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [軌跡](https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt) | 3:49 | 2025-01-14 |  |
 | [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 | 2025-01-14 |  |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-08-06 | 2024-12-25 |
+| [後悔史](https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [後悔史](https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW) | 4:20 | 2025-05-21 |  |
 | [徘徊](https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [徘徊](https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH) | 3:11 | 2025-04-15 |  |
 | [快晴浪漫](https://open.spotify.com/track/19nqy9tmxZ7GvqesKym1PR) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [快晴浪漫](https://open.spotify.com/album/2ROR9v4EDlZOLiZKRPA5py) | 4:39 | 2024-07-09 | 2024-07-17 |
 | [怪物](https://open.spotify.com/track/048PMBca62rmCNnGt4eEp0) | [Shigeru Izumiya](https://open.spotify.com/artist/2cEudNpRawXl3CAGMNYsLS) | [怪物](https://open.spotify.com/album/3fITb3Ay7HqTO4ilSCJ3yP) | 8:36 | 2025-02-11 | 2025-02-19 |

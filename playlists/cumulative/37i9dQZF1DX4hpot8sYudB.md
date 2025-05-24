@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-401 songs - 20 hr 55 min
+402 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Brown Noise Ocean](https://open.spotify.com/track/3n6Do4bOgibg9HTVpSJ4QI) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Brown Noise Ocean](https://open.spotify.com/album/6PlKH2ZMZvz9u0AfGjmZfH) | 4:27 | 2022-05-05 |  |
 | [Brown Noise Ocean](https://open.spotify.com/track/4qGiOPcyKsVdvjVUIXA3Vy) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Deep Brown Noise Sleep Sounds](https://open.spotify.com/album/4CURTNRuP58SPdt4JTnb8d) | 2:44 | 2022-07-29 | 2023-03-10 |
 | [Brown Noise of Autumn](https://open.spotify.com/track/100AqXdj8P1efDl4Q9rfrZ) | [Wandering Decibel](https://open.spotify.com/artist/5xmx9PoyVfm1ECDJwPlvUm) | [Brown Noise of Autumn](https://open.spotify.com/album/4TS1k3kDVGRGaosv0IR8Af) | 2:31 | 2022-12-16 | 2023-03-10 |
-| [Brown Noise Relaxation](https://open.spotify.com/track/7B2NN0WqqfO2qypdg1ygss) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Steady Brown Noise](https://open.spotify.com/album/5ovoVmC46xmJ7mjb4PN0a1) | 3:17 | 2023-10-26 |  |
+| [Brown Noise Relaxation](https://open.spotify.com/track/7B2NN0WqqfO2qypdg1ygss) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Steady Brown Noise](https://open.spotify.com/album/5ovoVmC46xmJ7mjb4PN0a1) | 3:17 | 2023-10-26 | 2025-05-24 |
 | [Brown Noise Relaxation](https://open.spotify.com/track/6LGqTES8rFuDHbn0y40iGX) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:43 | 2022-02-03 | 2023-10-27 |
 | [Brown Noise Relief](https://open.spotify.com/track/7drH3S1l0MqDm2UVMk9tdX) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Brown Noise Relief](https://open.spotify.com/album/5EhrB9ltapNNJaYBgShoql) | 5:45 | 2024-07-26 | 2024-12-12 |
 | [Brown Noise REM](https://open.spotify.com/track/6i0UjMkl7g9TcP7cLGyMND) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Brown Noise Deep Sleep](https://open.spotify.com/album/1TVk7P9fQqEmHbUlDkyvWj) | 3:00 | 2022-01-07 |  |
@@ -312,6 +312,7 @@
 | [Mindful Brown Noise](https://open.spotify.com/track/2Bfw6lDeURvYO6qDhPlzKD) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Mindful Brown Noise](https://open.spotify.com/album/2iMT6dvSyaPApqE6WdCurr) | 4:23 | 2024-07-26 | 2024-12-07 |
 | [Mother Nature Brown Noise](https://open.spotify.com/track/257E4a5tb1Fs63wB94rl5K) | [Andiman](https://open.spotify.com/artist/1eDXoT9A8y5E9xIDrHV4yH) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1X1p7zdya8kn57EXdwkd25) | 2:17 | 2022-12-16 |  |
 | [Mother Nature Sings The Brown Noise](https://open.spotify.com/track/1vAFKdX7G6lRDERa1Me3a4) | [Breez Bing](https://open.spotify.com/artist/6etNuBwGVHTfpyZmaoZHFH) | [The Brown Noise Lullaby](https://open.spotify.com/album/0JvSaEWuFbUL6dFlT7JtjZ) | 2:24 | 2022-10-26 |  |
+| [Muddy Brown Noise](https://open.spotify.com/track/2OGCZ8s24qg46kN8dfsp8I) | [Scientists of Noise](https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA) | [Muddy Brown Noise](https://open.spotify.com/album/2c44QGgmEcOX1VFAjn75mN) | 4:27 | 2025-02-25 |  |
 | [Natural Brown Noise](https://open.spotify.com/track/1jKLICBM8As16eSgPP1qKg) | [Lübecker](https://open.spotify.com/artist/0dnss17AER9aBUwr90XH5o) | [Woodland Brown Noise](https://open.spotify.com/album/3o6IGYg0QZtY6mm1p242fV) | 2:13 | 2023-06-28 |  |
 | [Nature Sounds & Brown Noise](https://open.spotify.com/track/69KhM6G8FxEnZfZNGoX3NP) | [Julia Sono](https://open.spotify.com/artist/7Bbr5r0eIb5k773rp7En9q) | [Brown Noise for Relaxation](https://open.spotify.com/album/1E6F6GgZyFaMDxSXgLVZ7J) | 2:39 | 2023-01-20 |  |
 | [Nighttime Brown Noise](https://open.spotify.com/track/1fFQRjliSkgx8k58BXRc1O) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [Nighttime Brown Noise](https://open.spotify.com/album/7bOwzgHmf9neP2ApwS6xEO) | 2:30 | 2023-10-26 |  |

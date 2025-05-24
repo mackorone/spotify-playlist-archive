@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Loud Luxury
 
-234 songs - 12 hr 23 min
+235 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 | 2025-04-11 |  |
 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 | 2023-12-15 | 2024-09-04 |
 | [Lil Boo Thang \- Luca Schreiner Remix](https://open.spotify.com/track/3QlC3KNNrJ7D13GRWcYcDF) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lil Boo Thang \(Luca Schreiner Remix\)](https://open.spotify.com/album/0UUCrCIuu5A6FleEa3NWtW) | 2:01 | 2023-12-08 | 2023-12-16 |
+| [Lonely Tonight \(feat\. Justin Jesso & Parson James\)](https://open.spotify.com/track/6IybPItcMGSzx7lHeNCHKk) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:35 | 2025-05-23 |  |
 | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/track/5AuZZDslOUpGGSFU4vUJoK) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Badlook](https://open.spotify.com/artist/0X1pUgwNe1hDigWHccoRvo) | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/album/1jBMug2yq6r4F4IpLEAL9W) | 3:49 | 2025-04-04 |  |
 | [Lose Control](https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [Lose Control](https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL) | 2:57 | 2025-03-14 | 2025-03-18 |
 | [Lose This Feeling](https://open.spotify.com/track/39D5kQQJUO4xPFXUSnFKBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/3VYph5PjoXJW1xVW2hkpbu) | 2:26 | 2023-12-08 | 2024-04-20 |

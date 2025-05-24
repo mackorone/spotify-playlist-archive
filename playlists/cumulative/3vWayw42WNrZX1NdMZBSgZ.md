@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits 2025](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Prince Royce
+> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Becky G &amp; Manuel Turizo
 
-894 songs - 1 day 23 hr 39 min
+895 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 | 2022-10-31 | 2023-05-26 |
 | [Foto de Perfil](https://open.spotify.com/track/39IkVWszvdXMPozlCYi0yX) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [BESITOS Y BESITAS](https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5) | 3:43 | 2022-04-18 | 2023-05-26 |
 | [Francotirador](https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Francotirador](https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb) | 2:23 | 2024-09-20 |  |
+| [FRESH](https://open.spotify.com/track/74kLIWUGkBj9fvGAevAhZS) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FRESH](https://open.spotify.com/album/7psjGlv0cm7uhTrk7hYIwb) | 2:21 | 2025-05-23 |  |
 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-02 |  |
 | [Fría \- Dutch Remix](https://open.spotify.com/track/0q49LzgiTZf80iLCvjgh8g) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Fría \(Dutch Remix\)](https://open.spotify.com/album/2UDSKRSFMkjg1oNH04bsF1) | 2:01 | 2024-08-09 |  |
 | [Fría \- French Remix](https://open.spotify.com/track/0iTVdlRhA4TT9pLKjEmjsD) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Tiana Da Rocha](https://open.spotify.com/artist/3KYdnM0Ba2MngqmElBqIZk) | [Fría \(French Remix\)](https://open.spotify.com/album/3amOCLytIzLu6aK7vN3GSi) | 2:56 | 2024-06-14 |  |

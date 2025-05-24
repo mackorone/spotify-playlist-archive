@@ -1,13 +1,45 @@
 {
   "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
-  "num_followers": 40148,
+  "num_followers": 40196,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBCCMwAAAABH6RWbBMSp5giul1A/nhzM",
+  "snapshot_id": "aDBFhQAAAAAp4CaJSHgkNdGENh6MJept",
   "tracks": [
+    {
+      "added_at": "2025-05-23 09:53:09",
+      "album": {
+        "name": "\u0635\u0627\u062d\u064a \u0625\u0646\u062a",
+        "url": "https://open.spotify.com/album/75oqfhopGFZ5thgCAqzxYd"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "duration_ms": 224207,
+      "name": "\u0635\u0627\u062d\u064a \u0625\u0646\u062a",
+      "url": "https://open.spotify.com/track/5k3lV9HQgXaH7UhWFaNGf1"
+    },
+    {
+      "added_at": "2025-05-23 09:53:09",
+      "album": {
+        "name": "Al Wafaa Le Albadr Mohammed Abdo - Ahad Saal Aani 2025",
+        "url": "https://open.spotify.com/album/7zqfNeYEIJRAvIDrANdD1T"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Abdu",
+          "url": "https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB"
+        }
+      ],
+      "duration_ms": 341962,
+      "name": "Ahad Saal Aani",
+      "url": "https://open.spotify.com/track/6HacasDCKj2cwBuJ8yFLGU"
+    },
     {
       "added_at": "2025-04-28 07:47:09",
       "album": {

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-734 songs - 1 day 11 hr 47 min
+735 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [La Cascada](https://open.spotify.com/track/2WGKo3sflN4aUNtesZw4Py) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bella Unión](https://open.spotify.com/album/2zfjHiF04uCEQEBMrrp6aX) | 3:01 | 2023-03-23 | 2024-02-09 |
 | [Ladybugs](https://open.spotify.com/track/0bPOqdsUdPCOayNdh0ERNW) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Ladybugs](https://open.spotify.com/album/1EgGcnjTXA2Ci9Bt882r6C) | 3:09 | 2023-03-23 | 2024-02-09 |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2023-03-23 | 2024-05-21 |
+| [Laomedeia](https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Laomedeia](https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B) | 2:51 | 2025-05-20 |  |
 | [Latitude](https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt) | [Niranja](https://open.spotify.com/artist/05na68HA7aLe286zVkDg7B) | [Latitude](https://open.spotify.com/album/3FrqjMioXMdod4NEdio5cA) | 2:28 | 2025-01-08 |  |
 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 | 2023-03-23 | 2024-01-18 |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2023-03-23 | 2024-02-09 |
@@ -571,7 +572,7 @@
 | [Seeking Solace](https://open.spotify.com/track/4P3rf7bwHPHVl6w35aE7Ej) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Seeking Solace](https://open.spotify.com/album/6Y13gSWy6ajX4IZRQleN9E) | 2:12 | 2024-04-05 | 2025-04-15 |
 | [Sehnsucht](https://open.spotify.com/track/5iiPukjaEZxWXC0EAzFujm) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Sehnsucht](https://open.spotify.com/album/4bQsNgAsXxKkCuWXGNqBbA) | 2:50 | 2023-03-23 | 2024-07-10 |
 | [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2023-03-23 | 2024-01-18 |
-| [Sensibility](https://open.spotify.com/track/6i1rajo3ylTTlD3DCITSTo) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Sensibility](https://open.spotify.com/album/58EFgaGnzP9Xwxq1VN9jZ9) | 2:36 | 2024-05-20 |  |
+| [Sensibility](https://open.spotify.com/track/6i1rajo3ylTTlD3DCITSTo) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Sensibility](https://open.spotify.com/album/58EFgaGnzP9Xwxq1VN9jZ9) | 2:36 | 2024-05-20 | 2025-05-24 |
 | [Separated](https://open.spotify.com/track/24Q4s34r5lTO9bCkdZnNaO) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Separated](https://open.spotify.com/album/3PGOAxYU1IJgQgwTY0ddSQ) | 2:37 | 2023-03-23 | 2024-01-18 |
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2023-03-23 | 2024-02-09 |
 | [Seraphic](https://open.spotify.com/track/1b7z2LtX0p9R1gNNY5RxtP) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Seraphic](https://open.spotify.com/album/0Nr7f5qqSI60FvHddijltq) | 2:22 | 2025-04-23 |  |

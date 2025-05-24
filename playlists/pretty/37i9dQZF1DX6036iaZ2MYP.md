@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Tekno
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,351 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,745 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [100K](https://open.spotify.com/track/3nSqcUglgyOF0sE7e0fF4U) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [100K](https://open.spotify.com/album/6ebZCGvcdZ1YG8kGygdahG) | 2:35 |
 | 49 | [LIFESTYLE](https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gen Z](https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK) | 2:55 |
 
-Snapshot ID: `aC+eiQAAAAChWl/vTg3NcjLA3hNAY7NP`
+Snapshot ID: `aDB3cwAAAAA13P3K7kKFLHtxZpmcMJrA`

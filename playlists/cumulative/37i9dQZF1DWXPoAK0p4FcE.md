@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: AYLA's
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Lower Mansion
 
-113 songs - 7 hr 52 min
+114 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [ความทรงจำ](https://open.spotify.com/track/6xaJ9fG1q0zMWzQ8VD0AHJ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ความทรงจำ](https://open.spotify.com/album/4cLr6pzhz6u1ejVJVMd4gf) | 3:12 | 2025-01-31 | 2025-03-01 |
 | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2024-06-27 | 2024-11-29 |
 | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/track/3ey4oaB0Dx9N6d4qWcORFx) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/album/3ij1193Ulks1bLmlMvc73W) | 3:58 | 2024-06-27 |  |
+| [จากกันแค่ร่างกาย](https://open.spotify.com/track/2Y4N4EWVpJlbwvw865Zsq6) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [จากกันแค่ร่างกาย](https://open.spotify.com/album/5WtiUrvq9PsNjgkh4P4moT) | 4:45 | 2025-05-23 |  |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2024-06-27 | 2024-12-27 |
 | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2024-06-27 | 2024-10-05 |
 | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [BAY6IX](https://open.spotify.com/artist/3IQnUNxVytImduQRIg84qJ), [LALA](https://open.spotify.com/artist/031xscLHmwMfKVrhUCdGoq) | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA) | 4:56 | 2024-06-27 | 2024-08-17 |
@@ -73,7 +74,7 @@
 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-06-27 | 2024-11-09 |
 | [ยังมี \| Better Next Day](https://open.spotify.com/track/6vzHVDu4OtkvXcGar8mDM2) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ยังมี \| Better Next Day](https://open.spotify.com/album/7bqfOLuEACwFsP7mcJNvV0) | 2:56 | 2025-03-21 |  |
 | [รถมันติด \(Romantic\)](https://open.spotify.com/track/1nifHQL0R1vZKYaoeqhJCM) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [รถมันติด \(Romantic\)](https://open.spotify.com/album/0NbbkbliUaaqnxYRNKDY44) | 4:14 | 2025-04-11 |  |
-| [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2024-06-27 |  |
+| [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2024-06-27 | 2025-05-24 |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2024-06-27 | 2025-01-24 |
 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 | 2024-06-27 | 2025-05-02 |
 | [ร้อง](https://open.spotify.com/track/0dz7CG4PilygZufNh79F7Q) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [6lur](https://open.spotify.com/album/4cVtKN4sHwYxAACCBUYTRW) | 4:17 | 2024-10-25 | 2024-11-29 |

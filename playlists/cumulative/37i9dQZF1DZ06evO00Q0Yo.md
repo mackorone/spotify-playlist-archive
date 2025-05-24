@@ -4,7 +4,7 @@
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-99 songs - 4 hr 36 min
+100 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Goddess \(feat\. Flo Milli\)](https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:28 | 2024-05-21 | 2024-10-05 |
 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 | 2022-10-28 | 2023-07-09 |
 | [Got The Juice](https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 1:47 | 2024-03-16 |  |
-| [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/7KxvXm90toCbgzJW58xlUT) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/0mPExzX1w2pAoKDXuB0qzh) | 2:52 | 2025-04-27 |  |
+| [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 | 2025-05-24 |  |
+| [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/7KxvXm90toCbgzJW58xlUT) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/0mPExzX1w2pAoKDXuB0qzh) | 2:52 | 2025-04-27 | 2025-05-24 |
 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 | 2022-10-28 | 2024-03-23 |
 | [Hottie \(feat\. BabyFace Ray\)](https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 3:01 | 2022-10-28 |  |
 | [I Am \(feat\. Flo Milli\)](https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:02 | 2022-10-28 |  |

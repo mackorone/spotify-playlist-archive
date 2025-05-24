@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,942 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,980 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 33 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
 | 34 | [Straight From Holland](https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Straight From Holland](https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH) | 2:01 |
 | 35 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 |
-| 36 | [Mambo Italiano](https://open.spotify.com/track/1y6QYYCh7Jp0hwAsu7gWTf) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Mambo Italiano](https://open.spotify.com/album/7BRteG2b8skCcFxtoBKWew) | 1:49 |
+| 36 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 |
 | 37 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
-| 38 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 |
-| 39 | [13th Hour](https://open.spotify.com/track/1rgdTcDjGjOLW1apRVcIA7) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [13th Hour](https://open.spotify.com/album/3o1ZBqfs69XWB4JvEyLRUG) | 2:41 |
-| 40 | [We Will Rumble](https://open.spotify.com/track/58h8tLK8J1A6aRLYBNYUXM) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [MC Raise](https://open.spotify.com/artist/36Bocpahok6SYyJhPWnlht) | [We Will Rumble](https://open.spotify.com/album/0O4Ka0QaHSxRRhubBLPPvh) | 2:43 |
+| 38 | [Mambo Italiano](https://open.spotify.com/track/1y6QYYCh7Jp0hwAsu7gWTf) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Mambo Italiano](https://open.spotify.com/album/7BRteG2b8skCcFxtoBKWew) | 1:49 |
+| 39 | [We Will Rumble](https://open.spotify.com/track/58h8tLK8J1A6aRLYBNYUXM) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [MC Raise](https://open.spotify.com/artist/36Bocpahok6SYyJhPWnlht) | [We Will Rumble](https://open.spotify.com/album/0O4Ka0QaHSxRRhubBLPPvh) | 2:43 |
+| 40 | [13th Hour](https://open.spotify.com/track/1rgdTcDjGjOLW1apRVcIA7) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [13th Hour](https://open.spotify.com/album/3o1ZBqfs69XWB4JvEyLRUG) | 2:41 |
 | 41 | [Come Take My Hand \- Spiady Remix](https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Come Take My Hand \(Spiady Remix\)](https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6) | 2:40 |
 | 42 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
 | 43 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |

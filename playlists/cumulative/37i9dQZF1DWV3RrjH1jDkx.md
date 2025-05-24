@@ -4,7 +4,7 @@
 
 > Ny musikk fra Alex Warren, Molly Sandén & Astrid S, Katastrofe og mange flere!🎵
 
-5,774 songs - 12 day 10 hr 17 min
+5,775 songs - 12 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,6 @@
 | [Battling Guns](https://open.spotify.com/track/5D7tZUZKZCgS1r0uyensG0) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Battling Guns](https://open.spotify.com/album/55OBjBeDyNMXaaDzG2uuH4) | 4:55 | 2024-07-18 | 2024-07-27 |
 | [BAUS](https://open.spotify.com/track/4cblGoHGkvppIFiASQlv4P) | [Generalen](https://open.spotify.com/artist/5oud9gmLpNuZfvGs74Dy5n) | [BAUS](https://open.spotify.com/album/5nlHLQGNiAetf7j4nL4X6K) | 2:18 | 2024-12-05 | 2024-12-13 |
 | [Bayonetta \(feat\. Sli0h\)](https://open.spotify.com/track/2LJqO6P4mLoNG6DfmCX63W) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj), [Sli0h](https://open.spotify.com/artist/4kM0BoIoIhOahEhyt0RSNO) | [Halvt mann, halvt geit](https://open.spotify.com/album/58WMiyZ6AQY9IKBl94rN9C) | 2:09 | 2024-11-28 | 2024-12-06 |
-| [BB](https://open.spotify.com/track/5cXi5jK1qbeoomHGcWBnhS) | [Benjiz](https://open.spotify.com/artist/7fgX1bg0tR0qXOK9pguneg), [Clöben](https://open.spotify.com/artist/6SFJ1zh51RDH7rTfx036cW) | [BB](https://open.spotify.com/album/5AsXjAkYiaZjGFFHDXYpT9) | 3:04 | 2025-05-22 |  |
 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 | 2024-09-05 | 2024-09-13 |
 | [BBB \(Michelin\)](https://open.spotify.com/track/0xY21qVCRJ7Vr3BZJl5jN3) | [Maras](https://open.spotify.com/artist/4Q9pYCbURQWgy70VLyBesT), [Snøhvit](https://open.spotify.com/artist/3f1fzYZdfvYOeLIRsqbQIy), [KNIP$](https://open.spotify.com/artist/2QleoNe2YudEAeNajU9K5e) | [BBB \(Michelin\)](https://open.spotify.com/album/62Okzb2wHDdmbRqJQcNryo) | 2:01 | 2024-09-19 | 2024-09-27 |
 | [BBL \(feat\. Oral Bee & Jaa9\)](https://open.spotify.com/track/3l79foYTwpohY1NdO0oVRg) | [ego](https://open.spotify.com/artist/7gHyf9B2QETXJdJpm7HpmK), [Oral Bee](https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4) | [BBL \(feat\. Oral Bee & Jaa9\)](https://open.spotify.com/album/291t3JI7epEqd2OFmo1AXO) | 3:04 | 2024-12-13 | 2024-12-20 |
@@ -1827,6 +1826,7 @@
 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 | 2024-12-13 | 2024-12-20 |
 | [Fruängen](https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Molly från Fruängen](https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7) | 3:48 | 2024-09-27 | 2024-10-04 |
 | [Frøken](https://open.spotify.com/track/5E1hvyflzOeYaQcQLfdzgi) | [Lille Saus](https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0), [Kushko](https://open.spotify.com/artist/5ssA04MpBRTymDVVa347OE), [Hilnigger](https://open.spotify.com/artist/0PrGJue8vZyvaitX3kGIrk) | [Frøken](https://open.spotify.com/album/0xCkmZd6HM4SQBRRxdXXoj) | 2:48 | 2024-06-27 | 2024-07-05 |
+| [FRØKEN \(BB\)](https://open.spotify.com/track/5cXi5jK1qbeoomHGcWBnhS) | [Benjiz](https://open.spotify.com/artist/7fgX1bg0tR0qXOK9pguneg), [Clöben](https://open.spotify.com/artist/6SFJ1zh51RDH7rTfx036cW) | [FRØKEN \(BB\)](https://open.spotify.com/album/5AsXjAkYiaZjGFFHDXYpT9) | 3:04 | 2025-05-22 |  |
 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 | 2024-06-20 | 2024-06-28 |
 | [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-05-02 | 2024-05-10 |
 | [Fuck ditt liv](https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Fuck ditt liv](https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0) | 2:42 | 2024-08-15 | 2024-08-23 |
@@ -5167,6 +5167,7 @@
 | [Tinnitus](https://open.spotify.com/track/1Vg8nVA7saUhI7DhJ2OuRQ) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Tinnitus](https://open.spotify.com/album/0rqpGmci0z8C9AGQQzwYB2) | 1:46 | 2025-05-15 | 2025-05-23 |
 | [Tio av tio](https://open.spotify.com/track/1BTm9JTZDYJQUGJ9c6vw1K) | [Lucianoz](https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP) | [Tio av tio](https://open.spotify.com/album/5VSSqluDharF1ecj8BR6wF) | 3:26 | 2025-01-02 | 2025-01-10 |
 | [Tipp Topp Humør](https://open.spotify.com/track/4jdqbnHs8xNf4NpkT2TT2r) | [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD), [Joddski](https://open.spotify.com/artist/5tfrFbvyCsgWoKlXrAgGUD) | [Tipp Topp Humør](https://open.spotify.com/album/0DDszi5SJ6ooRqrKbRBxpf) | 3:17 | 2025-03-06 | 2025-03-14 |
+| [Tiptoes](https://open.spotify.com/track/4xEB0FMkEGNf9wFOqEqO3C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Tiptoes](https://open.spotify.com/album/35ztU2856725LlF8yN9iuK) | 2:35 | 2025-05-23 |  |
 | [Tired Old Dog](https://open.spotify.com/track/0LRZQMdQ60Q6rw9TtRfFYF) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Tired Old Dog](https://open.spotify.com/album/7unMOEpf90o4CTywSHmbX1) | 2:44 | 2024-04-26 | 2024-05-03 |
 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2024-10-10 | 2024-10-18 |
 | [To a New Day](https://open.spotify.com/track/68VxRbvBOxc1q3VQtzwur2) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Sønderjysk Pigekor](https://open.spotify.com/artist/0OYX2MQG7fkZ5eaSA9ZC09) | [To a New Day](https://open.spotify.com/album/4PAlZMe3jbqDfXkY08XLfn) | 3:44 | 2024-07-26 | 2024-08-02 |

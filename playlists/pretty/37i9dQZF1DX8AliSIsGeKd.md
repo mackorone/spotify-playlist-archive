@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: TH;EN
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,426 likes - 90 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,623 likes - 90 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 15 | [Christina](https://open.spotify.com/track/4qODjiz2RhoXiGTqmFs6XW) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Moses Mehdi](https://open.spotify.com/artist/6Yu9IOVArsS5Rl8LouRp26) | [Christina](https://open.spotify.com/album/3VCNETOEhVwpM1ztvcHYJP) | 5:17 |
 | 16 | [Fantasy](https://open.spotify.com/track/4Ljl4W305QcrYJLnQb4iVN) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Fantasy](https://open.spotify.com/album/2d4dmwjB2t78Wa1sK0zf2m) | 7:19 |
 | 17 | [Space Base](https://open.spotify.com/track/5ZS2uH0kb2RhianAFwRydQ) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Space Base](https://open.spotify.com/album/0Ea1FYOikc2UY9XW9heM4q) | 5:27 |
-| 18 | [Wind of Time](https://open.spotify.com/track/2sxn4oVynuyNXxhxTYZ9Zf) | [Cyantist](https://open.spotify.com/artist/1u7JDHuc3k2tlRMuaPOP9v), [pragma](https://open.spotify.com/artist/4vKiQNQJgleS4dbTovYKki), [Mr.Main](https://open.spotify.com/artist/5clMkOZxSMXlddnQrdtzrk) | [Wind of Time](https://open.spotify.com/album/6eXjGqh1HzOXJYoDDnTvJu) | 5:52 |
+| 18 | [Wind of Time](https://open.spotify.com/track/2sxn4oVynuyNXxhxTYZ9Zf) | [Cyantist](https://open.spotify.com/artist/1u7JDHuc3k2tlRMuaPOP9v), [Pragma](https://open.spotify.com/artist/7sKqE29ytC9wBDEk6HmWEt), [Mr.Main](https://open.spotify.com/artist/5clMkOZxSMXlddnQrdtzrk) | [Wind of Time](https://open.spotify.com/album/6eXjGqh1HzOXJYoDDnTvJu) | 5:52 |
 | 19 | [Oasis](https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Oasis](https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE) | 4:03 |
 | 20 | [JUST FRIENDS](https://open.spotify.com/track/37QEOk1qyAZFVLL5YApiht) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [JUST FRIENDS](https://open.spotify.com/album/2KNsDuRNuH5DxQui3aqEyV) | 2:24 |
 | 21 | [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 |

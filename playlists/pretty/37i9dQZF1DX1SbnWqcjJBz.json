@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 126628,
+  "num_followers": 126663,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "With The Music I Die (Deluxe)",
-        "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
-      },
-      "artists": [
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 241920,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "With The Music I Die (Deluxe)",
+        "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
+      },
+      "artists": [
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "A Public Affair",
-        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
-      },
-      "artists": [
-        {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "A Public Affair",
-      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "SuperLove",
         "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 193163,
       "name": "SuperLove",
       "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "A Public Affair",
+        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "A Public Affair",
+      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
     },
     {
       "added_at": "2024-06-02 21:23:10",

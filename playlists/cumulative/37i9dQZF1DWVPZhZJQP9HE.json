@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 268902,
       "name": "Buddy",
       "url": "https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 186352,
       "name": "Ethili Neeye",
       "url": "https://open.spotify.com/track/3okcBUyVoHK9XRiOtyh4dE"
@@ -5779,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "Kollaathey",
+        "url": "https://open.spotify.com/album/23yUcMx7AgxBYVKTUrMuMs"
+      },
+      "artists": [
+        {
+          "name": "Vidusan Kaneswaran",
+          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Kollaathey",
+      "url": "https://open.spotify.com/track/3quKD6cr7vtSpLThkcSmzp"
+    },
+    {
+      "album": {
         "name": "Kolladha Kannala",
         "url": "https://open.spotify.com/album/1DTOTwhnX4pjxPZi0N7oOs"
       },
@@ -8012,7 +8030,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 312000,
       "name": "Nataraja Tamil",
       "url": "https://open.spotify.com/track/58K90qSZm4yM1UKeiPPN0g"
@@ -9898,6 +9916,36 @@
       "duration_ms": 184000,
       "name": "Peekaboo Icecream",
       "url": "https://open.spotify.com/track/6ZrPtBgS6uLRdKLUEFtTdY"
+    },
+    {
+      "album": {
+        "name": "PEMES",
+        "url": "https://open.spotify.com/album/6NMgQ6oxpj9O4uZyK7n24Y"
+      },
+      "artists": [
+        {
+          "name": "Shameshan Mani Maran",
+          "url": "https://open.spotify.com/artist/3EBxlkAlKf2YflBPp8GSa4"
+        },
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        },
+        {
+          "name": "Rubba bend",
+          "url": "https://open.spotify.com/artist/2zLFxR8109nEpEz1Q7b3cT"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224183,
+      "name": "PEMES",
+      "url": "https://open.spotify.com/track/6uHC0BprGLjaBS44N8O007"
     },
     {
       "album": {
@@ -14232,6 +14280,36 @@
       "duration_ms": 166242,
       "name": "Why Penne",
       "url": "https://open.spotify.com/track/1n6M3gie50BzLiCbvCnZoq"
+    },
+    {
+      "album": {
+        "name": "Will You Be Mine",
+        "url": "https://open.spotify.com/album/5ATQlFGgWXzydpRFNm20u1"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Pragathi Guruprasad",
+          "url": "https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F"
+        },
+        {
+          "name": "Pa Hariharan",
+          "url": "https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187928,
+      "name": "Will You Be Mine",
+      "url": "https://open.spotify.com/track/6RgavOARUlNnQW7xnRV4t5"
     },
     {
       "album": {

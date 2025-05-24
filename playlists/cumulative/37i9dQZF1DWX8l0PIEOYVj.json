@@ -1643,6 +1643,28 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/4qGzXp7Rtj0CPpyKGkdah9"
+      },
+      "artists": [
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        {
+          "name": "zoska",
+          "url": "https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/09IX3DHZOc95yJs23HNxv0"
+    },
+    {
+      "album": {
         "name": "Borderline (feat. EMELINE)",
         "url": "https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz"
       },
@@ -6638,7 +6660,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 232000,
       "name": "Heaven Again",
       "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
@@ -6792,6 +6814,32 @@
       "duration_ms": 215000,
       "name": "Here & Now (Holding On)",
       "url": "https://open.spotify.com/track/6CixeFGuC6v6scnGWFvIiD"
+    },
+    {
+      "album": {
+        "name": "Here's To Hope",
+        "url": "https://open.spotify.com/album/3OKG40YRnB3mpXBoLRRZqj"
+      },
+      "artists": [
+        {
+          "name": "Orlost",
+          "url": "https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy"
+        },
+        {
+          "name": "UNDEFYND",
+          "url": "https://open.spotify.com/artist/71RXcyQVb3RTCvESEn4Rmy"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Here's To Hope",
+      "url": "https://open.spotify.com/track/6AmJIwAsOu4xZlKLADcobh"
     },
     {
       "album": {
@@ -9814,7 +9862,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 209523,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/0CSrYMvh3j8EvgXHqLC9eK"
@@ -10580,7 +10628,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 180903,
       "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
       "url": "https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR"
@@ -14397,6 +14445,28 @@
     },
     {
       "album": {
+        "name": "Symptoms (feat. Luma)",
+        "url": "https://open.spotify.com/album/3N6OLCuyidOZjhM3jMNq8i"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226451,
+      "name": "Symptoms (feat. Luma)",
+      "url": "https://open.spotify.com/track/07sDxcYttYRG8I89MHgCEw"
+    },
+    {
+      "album": {
         "name": "Take You Home (feat. Dia Frampton)",
         "url": "https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95"
       },
@@ -15624,7 +15694,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 239142,
       "name": "vision (wish u could see)",
       "url": "https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN"
@@ -16994,7 +17064,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 298666,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/1nZhZTjI2G6nL8RpxUDg0n"

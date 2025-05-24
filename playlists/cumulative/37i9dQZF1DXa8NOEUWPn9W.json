@@ -4586,7 +4586,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 155538,
       "name": "Coolin",
       "url": "https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11"
@@ -8112,7 +8112,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 188321,
       "name": "Fun",
       "url": "https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo"
@@ -14179,6 +14179,24 @@
     },
     {
       "album": {
+        "name": "Man\u00eda",
+        "url": "https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171112,
+      "name": "Man\u00eda",
+      "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
+    },
+    {
+      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -16014,6 +16032,24 @@
       "duration_ms": 145200,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
+    },
+    {
+      "album": {
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ"
+      },
+      "artists": [
+        {
+          "name": "Quliano",
+          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4"
     },
     {
       "album": {
@@ -19089,6 +19125,28 @@
     },
     {
       "album": {
+        "name": "Shiny Disco Balls",
+        "url": "https://open.spotify.com/album/1tgSEOSxqlemShSJDQwmes"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180301,
+      "name": "Shiny Disco Balls",
+      "url": "https://open.spotify.com/track/64YbQpF1rTpXpvxbZNAXO9"
+    },
+    {
+      "album": {
         "name": "Nothing But... House Party, Vol. 09",
         "url": "https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8"
       },
@@ -20508,7 +20566,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 218003,
       "name": "Sunshine 2025",
       "url": "https://open.spotify.com/track/5uTjgnvttrNUfVFETRJ8TP"

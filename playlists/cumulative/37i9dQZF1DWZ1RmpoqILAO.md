@@ -4,7 +4,7 @@
 
 > indie tunes w/ country experimentation feat\. music from Greg Freeman 🌟🌟🌟
 
-294 songs - 18 hr 50 min
+296 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [About](https://open.spotify.com/track/4sOPZqn8nkweocgJQZJwmH) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Land](https://open.spotify.com/album/36W3NXzrIHvMSnIY8h5em3) | 2:47 | 2023-12-08 | 2024-01-13 |
 | [Acolyte](https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 5:16 | 2023-07-21 |  |
 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 | 2024-07-26 | 2024-11-16 |
-| [All My Thoughts](https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu) | 3:45 | 2023-03-03 |  |
+| [All My Thoughts](https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu) | 3:45 | 2023-03-03 | 2025-05-24 |
 | [All My Thoughts](https://open.spotify.com/track/1tOdpTjRfTuDiM330DCKDD) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/6iKPa0KYi9BmKjhfYiRvS1) | 3:45 | 2024-03-01 | 2024-04-19 |
 | [All The People](https://open.spotify.com/track/57bKfKNtMDKNbnLBM8grVL) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [All The People](https://open.spotify.com/album/5d8DEQYEV1n4xcWLJj4fHF) | 3:11 | 2024-09-27 |  |
 | [Amy](https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Amy](https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv) | 3:36 | 2023-09-08 |  |
@@ -63,7 +63,7 @@
 | [Cold Nights](https://open.spotify.com/track/193hTIvHqhYRYYxh6HweYR) | [Guantanamo Bay Surf Club](https://open.spotify.com/artist/5JO05d5V4vSBMq5JAzmEoF) | [Cold Nights](https://open.spotify.com/album/0c5KkHDXYu3MTbRqbk4ZNM) | 4:11 | 2023-05-12 | 2023-07-15 |
 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-28 |  |
-| [Cool God](https://open.spotify.com/track/0nJkRTWpbpTYxHVNk4bMlb) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Songs for Moms](https://open.spotify.com/album/4tIlizlhNok4XGEXjrSVp6) | 4:11 | 2023-02-23 |  |
+| [Cool God](https://open.spotify.com/track/0nJkRTWpbpTYxHVNk4bMlb) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Songs for Moms](https://open.spotify.com/album/4tIlizlhNok4XGEXjrSVp6) | 4:11 | 2023-02-23 | 2025-05-24 |
 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 | 2023-06-30 |  |
 | [Cowboy](https://open.spotify.com/track/1Pxk92XAQEuTGWvu9w4OGN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 4:35 | 2023-02-23 |  |
 | [Cowboy Dream](https://open.spotify.com/track/43SSANT3vfxLkLdriz3VFp) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Cowboy Dream](https://open.spotify.com/album/0W8iflSWh33zJ4GjepIL9E) | 3:11 | 2023-02-23 | 2023-07-15 |
@@ -72,7 +72,7 @@
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-23 |  |
 | [Cowgirl](https://open.spotify.com/track/5SOmWCeB99slbaycsmndY8) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Formless](https://open.spotify.com/album/1gGoQORTeRJPQ7fZrqJGMq) | 2:49 | 2024-09-06 |  |
 | [Cowgirl Giving](https://open.spotify.com/track/5iByVlZlOmIVTPbF34VSTM) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Cowgirl Giving](https://open.spotify.com/album/3f62q827UrlNTwvJS8v6oq) | 5:05 | 2023-07-28 |  |
-| [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 | 2024-04-14 |  |
+| [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 | 2024-04-14 | 2025-05-24 |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-02-23 | 2024-04-19 |
 | [Daisy](https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Daisy](https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2) | 4:02 | 2023-10-13 | 2024-05-04 |
 | [Daisy](https://open.spotify.com/track/50qVPaum8Ggach5KclAujQ) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Imaginary People](https://open.spotify.com/album/0YtV6XAjLphsqF6UxxQHD1) | 4:34 | 2024-04-14 | 2024-05-04 |
@@ -234,6 +234,7 @@
 | [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 | 2024-07-31 | 2024-08-24 |
 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 | 2023-12-09 |
 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 | 2024-10-11 |  |
+| [shenandoah](https://open.spotify.com/track/6rP5DugWCwy0ME5OtDwqIA) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [Hunting Season](https://open.spotify.com/album/6p4ZnK7kF9sfdwMoO0qyfD) | 3:58 | 2025-05-23 |  |
 | [Shirley](https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Shirley](https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I) | 1:19 | 2023-03-17 | 2023-10-27 |
 | [Shirley](https://open.spotify.com/track/7i7vzTKLeeLzbJ3crsTqRB) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends \(UNRATED EDITION\)](https://open.spotify.com/album/4XNH2tkgSe8rtFuGRdgWp2) | 1:19 | 2023-10-13 | 2023-12-02 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-25 |  |
@@ -279,6 +280,7 @@
 | [Topanga Two Step](https://open.spotify.com/track/7kw5cNXsR6LiAADMVF9Ocw) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:58 | 2023-06-09 | 2024-04-19 |
 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 | 2023-02-23 |  |
 | [Truck](https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Truck](https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu) | 3:53 | 2023-07-21 | 2023-12-02 |
+| [Truck Flipped Over '19](https://open.spotify.com/track/2pOHy7YsTJIjpcGCEdQRgq) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Truck Flipped Over '19](https://open.spotify.com/album/3EZXvsZXpN5xhpTCzAf208) | 3:56 | 2025-05-23 |  |
 | [True Love](https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 4:11 | 2023-02-23 |  |
 | [True Love Will Find You in the End](https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [1990](https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa) | 1:51 | 2023-12-08 |  |
 | [Turn Red](https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 3:56 | 2023-12-08 | 2024-08-27 |

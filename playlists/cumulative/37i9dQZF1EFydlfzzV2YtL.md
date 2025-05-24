@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-191 songs - 10 hr 25 min
+192 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Masterpiece](https://open.spotify.com/track/4PYiIgzcp4o5pEYji1xY9q) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:40 | 2024-04-11 |  |
 | [Masterpiece](https://open.spotify.com/track/5NwgcuLPcg8GW9KF015pPi) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker](https://open.spotify.com/album/6PNYy8L5NHXXEtbNnA1gQv) | 3:40 | 2024-02-27 | 2024-04-12 |
 | [Mind Show](https://open.spotify.com/track/6VqltFXeOseAHnpJkRBz0i) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:08 | 2025-02-16 |  |
+| [Mine Right Now](https://open.spotify.com/track/7zvwxSE35TwHoXiolyjRDX) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:23 | 2025-05-23 |  |
 | [Mirror](https://open.spotify.com/track/46XBrXzTAYXdRMeVxVeA6G) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:36 | 2024-02-27 |  |
 | [Mistake Like You](https://open.spotify.com/track/53lLOdZjoiUZALcgiAIREE) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:30 | 2024-02-27 |  |
 | [mizu](https://open.spotify.com/track/7wwUAXyxw2VhSobdpCn1Mt) | [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [Sophia Black](https://open.spotify.com/album/1L2c6U1HszcdQOfvE7pW8p) | 3:22 | 2024-02-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Raaban, Hypaton, TOOMANYLEFTHANDS
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,649 likes - 30 songs - 1 hr 24 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,638 likes - 24 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,5 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 22 | [SISTEM ERROR](https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV) | [GIØ](https://open.spotify.com/artist/1DTuf3cqItmyesR4lICN1M) | [SISTEM ERROR](https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1) | 4:02 |
 | 23 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 |
 | 24 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 |
-| 25 | [Right Here, Right Now](https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Right Here, Right Now](https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ) | 2:32 |
-| 26 | [Manta](https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Manta](https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5) | 4:07 |
-| 27 | [We Own The Night \(feat\. Chandan Shetty\) \[RCB Anthem\]](https://open.spotify.com/track/2XdU173I0vnlcgT8LAEBy7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [We Own The Night \(feat\. Chandan Shetty\) \[RCB Anthem\]](https://open.spotify.com/album/5QAqZusJWVUs4EVadWu1Oc) | 2:25 |
-| 28 | [Are You Ready?](https://open.spotify.com/track/5aKdwua6dUc5tanuER7jDM) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Akeey](https://open.spotify.com/artist/57pK9aeCJdlHlCEcGQ4kzI), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Are You Ready?](https://open.spotify.com/album/07eS3tozCxCPmz79QDdzrm) | 3:01 |
-| 29 | [LaLaLa \(Everybody's Up\) \[HEDEGAARD Edit\]](https://open.spotify.com/track/02FtftCAOKlxmMSmqbqYmH) | [Sommer Ray](https://open.spotify.com/artist/7EdXiDSXhpAzHmb2PWd2Kp), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [LaLaLa \(Everybody's Up\) \[HEDEGAARD Edit\]](https://open.spotify.com/album/428yRGYOE7yM4l7jBsZVwN) | 2:21 |
-| 30 | [Shooting Stars](https://open.spotify.com/track/0Vn1ko7vBs5qGf07s3XrFV) | [MAN](https://open.spotify.com/artist/50wV19gCROFUtMt3zcO4K8), [Guy Katch](https://open.spotify.com/artist/12Nw1wrfrjwSf0KeDoXm72) | [Shooting Stars](https://open.spotify.com/album/5NEiHpZcVucoDCXYDoMu13) | 2:20 |
 
-Snapshot ID: `AAAfZPU8aZ6XQi9X+wWz9dYVdaPYwGYi`
+Snapshot ID: `AAAfZdpFxkIbvy1sZ/Xwz4pZpm3YcN8Q`

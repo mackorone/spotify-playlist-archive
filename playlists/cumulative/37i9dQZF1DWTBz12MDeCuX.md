@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Lina Maly, Contec
 
-2,691 songs - 5 day 6 hr 5 min
+2,692 songs - 5 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Aus dem Nichts](https://open.spotify.com/track/233zgukbOI7quzjK124SfJ) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [aus dem nichts tape](https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6) | 2:42 | 2024-12-12 | 2025-01-24 |
 | [Aus dem Ruder](https://open.spotify.com/track/0tDVo5p1oTSg8ArsE209t8) | [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd), [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz) | [Aus dem Ruder](https://open.spotify.com/album/7hWK0RSJgBXeAbp13KfAFi) | 3:16 | 2024-07-11 | 2024-09-10 |
 | [AUS MEIN KOPF \(SLOWED\)](https://open.spotify.com/track/6CLKlJ1sCnH2J7A9XISMAU) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [AUS MEIN KOPF \(SLOWED\)](https://open.spotify.com/album/3pa8NpXZkR9nqPpKakdRjm) | 2:17 | 2022-11-24 | 2022-12-24 |
-| [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 | 2025-04-17 |  |
+| [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 | 2025-04-17 | 2025-05-24 |
 | [AUSMACHT](https://open.spotify.com/track/5EqNQy5SQgXIRQ86oYvUlf) | [Emilio](https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF) | [AUSMACHT](https://open.spotify.com/album/1l35wpORDxzKGwnsfWQnWv) | 2:28 | 2022-06-09 | 2022-06-24 |
 | [Ausreden](https://open.spotify.com/track/6ocEdv3r2yASPGP7moFUeZ) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Ausreden](https://open.spotify.com/album/68bqFhNUUavffB9OpTP065) | 2:13 | 2024-01-25 | 2024-02-13 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-28 | 2024-06-01 |
@@ -1368,6 +1368,7 @@
 | [Licht aus](https://open.spotify.com/track/2ICTOUkSaXWPrdJGZhJIkS) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Licht aus](https://open.spotify.com/album/6rr25QYhr7Npg4qRfFoR7i) | 2:15 | 2023-11-16 | 2023-11-24 |
 | [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-01-30 | 2025-05-23 |
 | [Lichter der Stadt](https://open.spotify.com/track/4Xv9vueZxlgrIATOOj6nyj) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Lichter der Stadt](https://open.spotify.com/album/0mcPNQ7MIX3NrMh8PC23FS) | 2:39 | 2024-12-05 | 2024-12-10 |
+| [Liebe](https://open.spotify.com/track/4v0t3smi3vu3l62ltzjr2E) | [dygc](https://open.spotify.com/artist/4VzpQOfr6tDGQfGPA110kb), [Alex Connor](https://open.spotify.com/artist/76Z88rc0ungPTkneNslp2J) | [Liebe](https://open.spotify.com/album/1ZFhSIHX4ArRkXJyvgilH7) | 2:16 | 2025-05-23 |  |
 | [Liebe & Hass](https://open.spotify.com/track/3U2M7tUTZkiJSim1UDByW7) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Liebe & Hass](https://open.spotify.com/album/0HxPoLqapwXRynFXCraywC) | 2:49 | 2024-08-22 | 2024-09-27 |
 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/1moKZKZydvCRie5SQ8wlis) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [NUR FÜR DICH 2](https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf) | 3:13 | 2024-10-24 | 2025-04-18 |
 | [Liebe = Schmerz](https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Liebe = Schmerz](https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK) | 2:37 | 2024-02-06 | 2024-03-05 |

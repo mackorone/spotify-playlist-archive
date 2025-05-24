@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-1,562 songs - 2 day 23 hr 29 min
+1,563 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [princeofscale](https://open.spotify.com/track/6ZeLntDg0f0Jrdzgg8YBQy) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [princeofscale](https://open.spotify.com/album/08RXi5NpG8YTYzDV8JT7bB) | 1:13 | 2024-06-16 | 2024-07-05 |
 | [PROTECT THE CROSS](https://open.spotify.com/track/14bslKpx9hB3ddBQgbx12j) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop) | 2:49 | 2025-02-06 | 2025-02-08 |
 | [PROTECTION CHARM](https://open.spotify.com/track/42zD05iksMrXWgagZvW6NA) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [EMBRACE CHAOS I](https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde) | 2:57 | 2024-02-12 | 2024-02-21 |
+| [PULSE](https://open.spotify.com/track/1B34X7J6imvAXnEs0F2iMw) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [PULSE](https://open.spotify.com/album/6z5En9VkQ2bydUFbYGvimV) | 2:01 | 2025-05-23 |  |
 | [pulse \- slowed](https://open.spotify.com/track/372rmyPPtoYC4z4QYt0mWW) | [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [pulse](https://open.spotify.com/album/3uZ6WC66oVP9BH2isXLe2x) | 1:37 | 2024-04-13 | 2024-05-15 |
 | [PUSSY](https://open.spotify.com/track/5lCBVhOPjQ4zrn3aLt28Rm) | [Nikitsunami](https://open.spotify.com/artist/4c3MW0zXRdPk3mu5TmEH4z) | [PUSSY](https://open.spotify.com/album/7fXdRwpydDgbSMBzVdLO5I) | 1:34 | 2025-01-14 | 2025-01-16 |
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-02-04 | 2025-02-26 |
@@ -1177,7 +1178,7 @@
 | [М](https://open.spotify.com/track/4avSodl4opi0dNSJWkzSxF) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Хрупко](https://open.spotify.com/album/0CFMWLs7VceyfMJ0JhxEe4) | 3:20 | 2025-04-01 | 2025-04-03 |
 | [Мажоры](https://open.spotify.com/track/4EDZzfLnMPVihXHmdVxOh4) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Мажоры](https://open.spotify.com/album/0rOZF6Rq3Lyy9NPIHZoIYA) | 2:10 | 2024-07-20 | 2024-07-27 |
 | [Майами](https://open.spotify.com/track/3YY8gp6IDGySRIfnsgaKRR) | [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz), [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs) | [Майами](https://open.spotify.com/album/2OPGGzX2izLNHMmsuxrGuK) | 1:57 | 2024-01-29 | 2024-02-01 |
-| [Мало тебя](https://open.spotify.com/track/46iTc86JYw3p1SKXgjMQNU) | [Wildways](https://open.spotify.com/artist/5iftm9Sk7OBBnVqa7DbICi), [SEREBRO](https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ) | [Мало тебя](https://open.spotify.com/album/0Dh3k4HEfZg1DdjRfpAccx) | 3:30 | 2025-05-20 |  |
+| [Мало тебя](https://open.spotify.com/track/46iTc86JYw3p1SKXgjMQNU) | [Wildways](https://open.spotify.com/artist/5iftm9Sk7OBBnVqa7DbICi), [SEREBRO](https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ) | [Мало тебя](https://open.spotify.com/album/0Dh3k4HEfZg1DdjRfpAccx) | 3:30 | 2025-05-20 | 2025-05-24 |
 | [мальчик](https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww) | [кис\-кис](https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3) | [Магазин игрушек для взрослых](https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu) | 3:02 | 2024-09-14 | 2024-10-20 |
 | [Мам, я умираю](https://open.spotify.com/track/0lMfnxtuOMdnACle7Ewraj) | [pxnguin](https://open.spotify.com/artist/50IRqlllbhbFuGugTTbern) | [Опианариум](https://open.spotify.com/album/0ysUVI697JZwF53TUG0ujP) | 2:29 | 2024-05-07 | 2024-05-17 |
 | [Мама](https://open.spotify.com/track/1EHK9VXiqTS637LZSYLRXR) | [NAVIBAND](https://open.spotify.com/artist/3VPwrxGAeBDIeBLdNVCAMi) | [Мама](https://open.spotify.com/album/01jQ3KBXCoJStnm9bNidgs) | 2:16 | 2024-07-23 | 2024-07-25 |

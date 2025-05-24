@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-423 songs - 1 day 2 hr 25 min
+424 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-17 | 2023-06-19 |
 | [Farewell Party](https://open.spotify.com/track/06OO9hB9riQOLRGNCsZiQl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:08 | 2021-12-10 | 2022-07-26 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-24 |  |
-| [Feathered Indians](https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Feathered Indians](https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL) | 3:10 | 2022-07-29 |  |
+| [Feathered Indians](https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Feathered Indians](https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL) | 3:10 | 2022-07-29 | 2025-05-24 |
 | [Feeling Whitney](https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Feeling Whitney](https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw) | 3:37 | 2022-10-03 | 2024-02-17 |
 | [Fishin' in the Dark](https://open.spotify.com/track/6DV9CGdFzQeF4CIFZ2cFtl) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [Fishin' in the Dark](https://open.spotify.com/album/3Ns6oLKSrW8DDVG4FAC2pH) | 3:55 | 2022-01-07 | 2022-07-29 |
 | [Five O'Clock World](https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 3:04 | 2021-12-10 | 2022-07-28 |
@@ -256,6 +256,7 @@
 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2wZrc1KD0oKVec9hpTtOD3) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 2:37 | 2021-12-10 | 2022-07-29 |
 | [Much Too Young To Feel This Damn Old \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 2:37 | 2023-11-24 | 2024-04-19 |
 | [My Girl](https://open.spotify.com/track/1yOCSAjEuF3qqT9GKqoJtj) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Dancin' On The Boulevard](https://open.spotify.com/album/5eFin2KdsXEYNrbdLE02wG) | 3:08 | 2021-12-10 | 2022-07-29 |
+| [Name \(Talco Tapes Version\)](https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [The Talco Tapes](https://open.spotify.com/album/4EEXpOAW6fuB8zB8yPfVFj) | 4:20 | 2025-05-23 |  |
 | [Natural Woman / Tennessee Whiskey](https://open.spotify.com/track/0xuRUusdZbvVB3QFmmtXEB) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [Natural Woman / Tennessee Whiskey](https://open.spotify.com/album/0pKoro4vHJvudMIxBk29WX) | 3:00 | 2022-02-04 | 2022-07-26 |
 | [Neon Moon](https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Neon Moon](https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX) | 4:36 | 2024-10-18 |  |
 | [Neon Moon \(with Morgan Wallen\)](https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:11 | 2024-11-15 |  |

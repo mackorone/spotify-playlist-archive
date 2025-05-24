@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: رامي جمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,010 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,136 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 |
-| 2 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:14 |
+| 2 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 |
 | 3 | [TARQEES](https://open.spotify.com/track/36Yh3W7CVaM6ccGntNTDO2) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [TARQEES](https://open.spotify.com/album/2oiSur6voqu9Tpr8wnToYj) | 3:05 |
 | 4 | [رسينى](https://open.spotify.com/track/49Lw1thFEsqq1qQuxFplte) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [رسينى](https://open.spotify.com/album/765hT0CXO2Ttfthkxsa7tt) | 3:38 |
 | 5 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 |

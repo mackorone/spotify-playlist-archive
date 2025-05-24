@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Seyi Vibez",
-  "num_followers": 251180,
+  "num_followers": 251232,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-05-23 00:01:34",
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2025-05-23 00:01:34",
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 183000,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
-    },
-    {
-      "added_at": "2025-05-23 00:01:34",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2025-05-23 00:01:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-05-23 00:01:34",
       "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        }
-      ],
-      "duration_ms": 76269,
-      "name": "US",
-      "url": "https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU"
-    },
-    {
-      "added_at": "2025-05-23 00:01:34",
-      "album": {
         "name": "Mukutu",
         "url": "https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 170666,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
+    },
+    {
+      "added_at": "2025-05-23 00:01:34",
+      "album": {
+        "name": "US",
+        "url": "https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        }
+      ],
+      "duration_ms": 76269,
+      "name": "US",
+      "url": "https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU"
     },
     {
       "added_at": "2025-05-23 00:01:34",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-05-23 00:01:34",
       "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2025-05-23 00:01:34",
+      "album": {
         "name": "Why You Lying",
         "url": "https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 173023,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX"
-    },
-    {
-      "added_at": "2025-05-23 00:01:34",
-      "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "added_at": "2025-05-23 00:01:34",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2025-05-23 00:01:34",
       "album": {
-        "name": "Reflection Station",
-        "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
+        "name": "EMIKO",
+        "url": "https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 165431,
-      "name": "Reflection Station",
-      "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
+      "duration_ms": 179005,
+      "name": "EMIKO",
+      "url": "https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2"
     },
     {
       "added_at": "2025-05-23 00:01:34",
@@ -1195,6 +1199,22 @@
     {
       "added_at": "2025-05-23 00:01:34",
       "album": {
+        "name": "Reflection Station",
+        "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 165431,
+      "name": "Reflection Station",
+      "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
+    },
+    {
+      "added_at": "2025-05-23 00:01:34",
+      "album": {
         "name": "Ouu wee (brown)",
         "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
-    },
-    {
-      "added_at": "2025-05-23 00:01:34",
-      "album": {
-        "name": "EMIKO",
-        "url": "https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3"
-      },
-      "artists": [
-        {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 179005,
-      "name": "EMIKO",
-      "url": "https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2"
     },
     {
       "added_at": "2025-05-23 00:01:34",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-05-23 00:01:34",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW"
-      },
-      "artists": [
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 195505,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU"
-    },
-    {
-      "added_at": "2025-05-23 00:01:34",
-      "album": {
         "name": "Cocoa Butter",
         "url": "https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 113571,
       "name": "Cocoa Butter",
       "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
+    },
+    {
+      "added_at": "2025-05-23 00:01:34",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU"
     },
     {
       "added_at": "2025-05-23 00:01:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-05-23 00:01:34",
       "album": {
-        "name": "Tete",
-        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 163665,
-      "name": "Tete",
-      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
-    },
-    {
-      "added_at": "2025-05-23 00:01:34",
-      "album": {
         "name": "Face My Fears",
         "url": "https://open.spotify.com/album/5bIf2qZ1TjwmIIZ2Gl9oIK"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 213750,
       "name": "Face My Fears",
       "url": "https://open.spotify.com/track/5X7ce6sAmV173M4RU740lM"
+    },
+    {
+      "added_at": "2025-05-23 00:01:34",
+      "album": {
+        "name": "Tete",
+        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 163665,
+      "name": "Tete",
+      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
     },
     {
       "added_at": "2025-05-23 00:01:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,682 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,709 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 97 | [HOT \- From Miami Bici 2 The Movie](https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Andrei G](https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [HOT \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW) | 2:50 |
 | 98 | [Yali, Yali](https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Yali, Yali](https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g) | 2:35 |
 | 99 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
-| 100 | [Scrum](https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Dhali](https://open.spotify.com/artist/5dJZz1wDTaRM9UBo1AODI2) | [Scrum](https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj) | 3:24 |
+| 100 | [Fostu'](https://open.spotify.com/track/2JbeodXdyFyGFcPFY4jSEi) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX), [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Fostu'](https://open.spotify.com/album/41iBFhMZNyrgjQWxsVIajf) | 2:55 |
 
 Snapshot ID: `aCIVUwAAAAB5lqSBleIJ6xq9pnylkgsQ`

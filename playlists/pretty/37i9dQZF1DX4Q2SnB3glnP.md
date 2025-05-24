@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,774 likes - 199 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,789 likes - 199 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 198 | [Walking Alongside the Gates of Heaven](https://open.spotify.com/track/6vOynuMgg62np7cBtV5qjk) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:04 |
 | 199 | [Agua viva](https://open.spotify.com/track/5zH1V6C1gkeNji64dQ4rBc) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Agua viva](https://open.spotify.com/album/2jQXtoSONAJpPY8UfxlhHS) | 3:14 |
 
-Snapshot ID: `aCyE9wAAAACb14Y2dMwkB/qc0Lxq7J/K`
+Snapshot ID: `aCyE9wAAAACwOqdUY7GGF72UdrNc5vpq`

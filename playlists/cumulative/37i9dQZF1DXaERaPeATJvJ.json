@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Tigapagi",
+  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: The Morning After",
   "name": "Memorindie",
   "tracks": [
+    {
+      "album": {
+        "name": "Another Day Like Today (Remastered 2025)",
+        "url": "https://open.spotify.com/album/2AdW0aaBHxSzBqK6FjZEjL"
+      },
+      "artists": [
+        {
+          "name": "THE MORNING AFTER",
+          "url": "https://open.spotify.com/artist/3C9gOaI1GJKO2cxGCOlfiL"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "#1 - Remastered 2025",
+      "url": "https://open.spotify.com/track/13pWbRv2lDtFHA0cDPZu3R"
+    },
     {
       "album": {
         "name": "Unrescued World",
@@ -630,6 +648,24 @@
       "duration_ms": 308750,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/2yC8xYKZl6QcuI18QHnd79"
+    },
+    {
+      "album": {
+        "name": "Another Day Like Today (Remastered 2025)",
+        "url": "https://open.spotify.com/album/2AdW0aaBHxSzBqK6FjZEjL"
+      },
+      "artists": [
+        {
+          "name": "THE MORNING AFTER",
+          "url": "https://open.spotify.com/artist/3C9gOaI1GJKO2cxGCOlfiL"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265266,
+      "name": "Dengar Dan Diam - Remastered 2025",
+      "url": "https://open.spotify.com/track/1jSiA8t1iYgKBU1pVtA4QO"
     },
     {
       "album": {
@@ -3168,6 +3204,24 @@
       "duration_ms": 233337,
       "name": "Tribute for you",
       "url": "https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX"
+    },
+    {
+      "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
+      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
     },
     {
       "album": {

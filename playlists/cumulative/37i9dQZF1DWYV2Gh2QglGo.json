@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Tenille Arts",
+  "description": "The home of The Reklaws and Canadian country music. ",
   "name": "North Country",
   "tracks": [
     {
@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/0tDsJddA8lRaQC2Y5zE5X2"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        },
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161749,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2J2lkDj2UeHdCLLkszHN6s"
+    },
+    {
+      "album": {
         "name": "Better Mistake",
         "url": "https://open.spotify.com/album/0akU8Sc3cY9N8BV7lkkGkQ"
       },
@@ -370,7 +392,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 235108,
       "name": "Born to Lose",
       "url": "https://open.spotify.com/track/3LuZ6UdShLmxUY0FeHkxBt"
@@ -2123,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ryan",
+          "url": "https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141401,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2"
+    },
+    {
+      "album": {
         "name": "Jealous Of Jesus",
         "url": "https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj"
       },
@@ -2768,6 +2808,24 @@
       "duration_ms": 219396,
       "name": "Neon Cowgirl",
       "url": "https://open.spotify.com/track/6EViVjzk04NKzhVMtMxvbk"
+    },
+    {
+      "album": {
+        "name": "Never Drinking Again",
+        "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149854,
+      "name": "Never Drinking Again",
+      "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
     },
     {
       "album": {
@@ -3608,7 +3666,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 257693,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/4wFZ05jtrJfOPrIoUvUqpp"
@@ -4438,7 +4496,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 192475,
       "name": "We're Back Baby",
       "url": "https://open.spotify.com/track/7s7vDLLuk3yVjwsoVPMkyH"

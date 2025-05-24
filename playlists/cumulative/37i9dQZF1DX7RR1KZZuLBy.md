@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-342 songs - 1 day 7 hr 33 min
+343 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All Our Days \(Live at Zeal '23\)](https://open.spotify.com/track/6zd3ll2iOHP3mZ6bV30yfU) | [Shofarband](https://open.spotify.com/artist/5SQke12fP5vvpAv4krgAwJ), [Shaun Kwela](https://open.spotify.com/artist/0QviQJJya2B5q4cF8RNJMg) | [All Our Days \(Live at Zeal '23\)](https://open.spotify.com/album/4l368XXQgrIIoG0ltP3VeW) | 5:31 | 2023-10-06 | 2023-11-10 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2024-08-08 | 2024-08-16 |
 | [Alpha And Omega \- Live](https://open.spotify.com/track/61DPLakz3GX3KTliq6Xwek) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Alive In South Africa](https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn) | 8:00 | 2024-08-08 | 2024-08-16 |
+| [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 | 2025-05-23 |  |
 | [Angels Camped](https://open.spotify.com/track/6gq7WEznvSLDDVtmHNaYJQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI), [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc), [Nat Lauren](https://open.spotify.com/artist/2snS4684SFSBRAB9LIvSDL) | [Angels Camped](https://open.spotify.com/album/6mIsNU9mUBnx6WVZQdz7r3) | 2:32 | 2023-10-27 | 2023-11-10 |
 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 | 2023-10-20 | 2023-11-03 |
 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-08-19 | 2025-02-07 |
@@ -316,7 +317,7 @@
 | [When God Dips His Love In My Heart](https://open.spotify.com/track/3odt0FL3JwouXcCG4EKZRt) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [When God Dips His Love In My Heart](https://open.spotify.com/album/3CujbbhqewBAsV5ilH3WAq) | 2:40 | 2023-07-21 | 2023-08-04 |
 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 7:29 | 2020-03-31 | 2023-04-14 |
 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/5X1UuCoUPxUKL2w81YGN6l) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 7:29 | 2020-03-31 | 2022-11-13 |
-| [Won't He Do It](https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Greenleaf Soundtrack \- Season 2](https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt) | 3:29 | 2024-08-08 |  |
+| [Won't He Do It](https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Greenleaf Soundtrack \- Season 2](https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt) | 3:29 | 2024-08-08 | 2025-05-24 |
 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2024-08-08 |  |
 | [Work It Out](https://open.spotify.com/track/5pol8d0lIHv6664Ow4l9XE) | [Chané](https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE), [Julanie J](https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD) | [Work It Out](https://open.spotify.com/album/74aAyivHbswbVLoqBBwpOV) | 3:04 | 2023-09-15 | 2023-11-03 |
 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 | 2024-05-31 | 2025-05-09 |

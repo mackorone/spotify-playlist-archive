@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z y Peso Pluma en portada.",
   "name": "EDM\u00e9xico",
   "tracks": [
     {
@@ -628,6 +628,32 @@
       "duration_ms": 167555,
       "name": "BAMBOLE - TAAO REMIX",
       "url": "https://open.spotify.com/track/5b2alA5jFTuaGs0aSjqvcV"
+    },
+    {
+      "album": {
+        "name": "Bandidas",
+        "url": "https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142714,
+      "name": "Bandidas",
+      "url": "https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V"
     },
     {
       "album": {
@@ -1974,7 +2000,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 206250,
       "name": "DIMENSION",
       "url": "https://open.spotify.com/track/04ov9cKdUNs5keDboPcZ31"
@@ -2938,7 +2964,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 91428,
       "name": "GIRL AINT GOT NO GIRL",
       "url": "https://open.spotify.com/track/2e6oiikJChTNpGldvAG8cS"
@@ -3880,6 +3906,28 @@
       "duration_ms": 170666,
       "name": "La Rosa del Penal (Llamar)",
       "url": "https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45"
+    },
+    {
+      "album": {
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153262,
+      "name": "LA TROKA",
+      "url": "https://open.spotify.com/track/7xj4fHsCPJDZwZZzgZQ9z0"
     },
     {
       "album": {

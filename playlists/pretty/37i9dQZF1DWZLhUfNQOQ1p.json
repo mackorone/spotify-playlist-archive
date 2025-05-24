@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83c\udf79",
-  "num_followers": 251575,
+  "num_followers": 251623,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,18 @@
     {
       "added_at": "2025-05-18 22:01:13",
       "album": {
-        "name": "V\u00e1rias Queixas (Radio Edit)",
-        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
+        "name": "Rah That's A Mad Question",
+        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 155702,
-      "name": "V\u00e1rias Queixas - Radio Edit",
-      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
+      "duration_ms": 227123,
+      "name": "Rah That's A Mad Question",
+      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
     },
     {
       "added_at": "2025-05-18 22:01:13",
@@ -807,50 +799,26 @@
     {
       "added_at": "2025-05-18 22:01:13",
       "album": {
-        "name": "Rah That's A Mad Question",
-        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
+        "name": "V\u00e1rias Queixas (Radio Edit)",
+        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 227123,
-      "name": "Rah That's A Mad Question",
-      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
-    },
-    {
-      "added_at": "2025-05-18 22:01:13",
-      "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
-      },
-      "artists": [
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 120508,
-      "name": "Pollen",
-      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
-    },
-    {
-      "added_at": "2025-05-18 22:01:13",
-      "album": {
-        "name": "Acid Latino (Sonido Real)",
-        "url": "https://open.spotify.com/album/7tQe00fnEbW82f3OnQlwWz"
-      },
-      "artists": [
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
         {
-          "name": "Paula Tape",
-          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Acid Latino (Sonido Real)",
-      "url": "https://open.spotify.com/track/0Rbs8SwS2ei1B2kSorPoUH"
+      "duration_ms": 155702,
+      "name": "V\u00e1rias Queixas - Radio Edit",
+      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
     },
     {
       "added_at": "2025-05-18 22:01:13",
@@ -871,6 +839,38 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+    },
+    {
+      "added_at": "2025-05-18 22:01:13",
+      "album": {
+        "name": "Acid Latino (Sonido Real)",
+        "url": "https://open.spotify.com/album/7tQe00fnEbW82f3OnQlwWz"
+      },
+      "artists": [
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid Latino (Sonido Real)",
+      "url": "https://open.spotify.com/track/0Rbs8SwS2ei1B2kSorPoUH"
+    },
+    {
+      "added_at": "2025-05-18 22:01:13",
+      "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 120508,
+      "name": "Pollen",
+      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
     },
     {
       "added_at": "2025-05-18 22:01:13",

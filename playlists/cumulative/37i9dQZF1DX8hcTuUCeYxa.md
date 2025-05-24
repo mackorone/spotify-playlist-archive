@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: White Lies
 
-1,432 songs - 3 day 10 hr 13 min
+1,433 songs - 3 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [I’ve Got A Feeling \(Stay Lucky\)](https://open.spotify.com/track/776iJudZLw4s2F0P7hARgm) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [The Machine Starts To Sing](https://open.spotify.com/album/4bkObIgJvZmP7XwsdMEYy6) | 3:22 | 2025-02-20 | 2025-03-07 |
 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 | 2025-04-03 | 2025-04-11 |
 | [January](https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [January](https://open.spotify.com/album/6T5T4i3QJ3obyHDddhjM3I) | 4:13 | 2024-08-01 | 2024-08-30 |
+| [JAZZ FLUTE](https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [JAZZ FLUTE](https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ) | 2:27 | 2025-05-22 |  |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2024-11-08 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-04-10 | 2025-05-02 |
 | [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 | 2024-09-19 | 2024-10-11 |

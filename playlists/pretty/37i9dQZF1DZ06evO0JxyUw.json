@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 272688,
+  "num_followers": 272710,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAADqDkjNKX+42cOPOAX+nKLJ",
+  "snapshot_id": "aC5pAAAAAAA3udKEXJ8sE71LCyKNEE3l",
   "tracks": [
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+        "name": "17",
+        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
       },
       "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 217996,
-      "name": "Reflection (2020)",
-      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
+      "duration_ms": 252706,
+      "name": "Nobody Wants to Be Lonely (with Christina Aguilera)",
+      "url": "https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9"
     },
     {
       "added_at": null,
@@ -599,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
       },
       "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 252706,
-      "name": "Nobody Wants to Be Lonely (with Christina Aguilera)",
-      "url": "https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9"
+      "duration_ms": 217996,
+      "name": "Reflection (2020)",
+      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "XNDA",
-          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Pipe (feat. XNDA)",
-      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 206542,
       "name": "Cuando Me D\u00e9 la Gana",
       "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "XNDA",
+          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Pipe (feat. XNDA)",
+      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
     },
     {
       "added_at": null,

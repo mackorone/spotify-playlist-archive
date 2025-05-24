@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-349 songs - 19 hr 48 min
+350 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Algific](https://open.spotify.com/track/29QoOnSfdU6jpzaeDS2UqO) | [Astro II](https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK) | [Algific](https://open.spotify.com/album/5L8ygYB2fsLyqfAOzqFlFe) | 3:04 | 2024-06-10 |  |
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 | 2021-10-28 | 2023-12-23 |
-| [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 |  |
+| [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 | 2025-05-24 |
 | [Andromeda](https://open.spotify.com/track/3ILiff34ZwEKw1mrVG4D6D) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Nebuleuses](https://open.spotify.com/album/2pZfWVip25OGJeQAx5CBT2) | 2:37 | 2020-12-08\* | 2021-03-18 |
 | [Andromeda](https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 3:16 | 2023-04-17 |  |
 | [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 |  |
@@ -54,6 +54,7 @@
 | [Awash](https://open.spotify.com/track/4vU5TfGGHeIwKVzWSov8TM) | [Manual](https://open.spotify.com/artist/57OTTQNo2lt78ydJsxwOLm) | [Awash](https://open.spotify.com/album/5G1QrK23ZwsQrKDjpbVNo7) | 5:39 | 2020-12-08\* | 2021-05-27 |
 | [Back to the Start](https://open.spotify.com/track/10yIs9zsN0BNnXJpejnZ2v) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Back to the Start \- Single](https://open.spotify.com/album/5nIpv7xaUzcjTyp3V1jgd9) | 4:46 | 2021-01-15 | 2022-07-29 |
 | [Back to the Start](https://open.spotify.com/track/4Pdnt4VOAv26b1ILvtAoRj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:47 | 2022-07-22 | 2023-02-27 |
+| [Beautiful Design](https://open.spotify.com/track/1Vnqd9ySFHFnXUuOeflQqr) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Beautiful Design](https://open.spotify.com/album/49owziR1u29dhr8009A3ey) | 3:18 | 2025-05-14 |  |
 | [Becoming](https://open.spotify.com/track/03UL1scBVN2RB1ZcRaVAPE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for Dying Earth](https://open.spotify.com/album/3kRQEsk9IVeoHmgN9kGReU) | 1:25 | 2020-12-08\* | 2021-09-22 |
 | [believer](https://open.spotify.com/track/1wt1hh3O4qKFvANKQWd3HE) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [believer](https://open.spotify.com/album/2SkOFDz5z5d9Hrm9pwkQ6h) | 2:16 | 2025-05-14 |  |
 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 | 2020-12-08\* | 2021-05-27 |

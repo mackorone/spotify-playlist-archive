@@ -1,13 +1,57 @@
 {
   "description": "The best in blues right now. Cover: D.K. Harrell",
-  "num_followers": 139531,
+  "num_followers": 139555,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4SAAAAADsN8XkJKfrC/n8eRf3b3AF",
+  "snapshot_id": "aC/y5AAAAADybdW0WWGILWAJAvYdBVHC",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:36",
+      "album": {
+        "name": "Drive By The Exit Sign",
+        "url": "https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Drive By The Exit Sign",
+      "url": "https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH"
+    },
+    {
+      "added_at": "2025-05-23 04:00:36",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/16r3kluiUqc070LB2fpGQR"
+      },
+      "artists": [
+        {
+          "name": "Playing For Change",
+          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 271542,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/1rLcJO2vaUNPEW8ByunN0o"
+    },
     {
       "added_at": "2025-05-16 04:00:08",
       "album": {
@@ -611,22 +655,6 @@
       "duration_ms": 229640,
       "name": "Serves Me Right To Suffer",
       "url": "https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J"
-    },
-    {
-      "added_at": "2024-09-13 04:02:00",
-      "album": {
-        "name": "Scarlet Town",
-        "url": "https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 477238,
-      "name": "Scarlet Town",
-      "url": "https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i"
     },
     {
       "added_at": "2024-08-29 04:00:00",
@@ -1731,26 +1759,6 @@
       "duration_ms": 276264,
       "name": "Daughter Of Zion [Feat. Joe Walsh]",
       "url": "https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Life Don't Miss Nobody",
-        "url": "https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP"
-      },
-      "artists": [
-        {
-          "name": "Tracy Nelson",
-          "url": "https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS"
-        },
-        {
-          "name": "Jontavious Willis",
-          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "Your Funeral And My Trial (feat. Jontavious Willis)",
-      "url": "https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN"
     },
     {
       "added_at": "2023-06-16 04:01:00",

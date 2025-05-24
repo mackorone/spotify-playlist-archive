@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1980s.",
-  "num_followers": 91345,
+  "num_followers": 91354,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Run For Cover",
-        "url": "https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Empty Rooms",
-      "url": "https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Heavy Nova (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/0GpLCi7mAAflASQlR26oib"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 254293,
       "name": "Simply Irresistible",
       "url": "https://open.spotify.com/track/7mmhMfqs3knRMMlvnMPTHn"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Run For Cover",
+        "url": "https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Empty Rooms",
+      "url": "https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1"
     },
     {
       "added_at": "2024-07-12 14:55:35",

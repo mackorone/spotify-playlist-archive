@@ -2,7 +2,7 @@
 
 ### [Broadway Rising](https://open.spotify.com/playlist/37i9dQZF1DWUakt2wHhaeT)
 
-> The best songs from the new shows and the buzziest hits\. Cover: Idina Menzel in Redwood
+> The best songs from the new shows and the buzziest hits\. Cover: SMASH
 
 161 songs - 10 hr 6 min
 

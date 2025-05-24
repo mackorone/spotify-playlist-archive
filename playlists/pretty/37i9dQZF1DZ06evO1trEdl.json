@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6347,
+  "num_followers": 6346,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAACKlGmsd9Sx0cDys++uXQbV",
+  "snapshot_id": "aC5pAAAAAAAHLFs/gX4GwS+kFfytr8RL",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 262040,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
+      "duration_ms": 234800,
+      "name": "Givin' Up Givin' In",
+      "url": "https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Givin' Up Givin' In",
-      "url": "https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG"
+      "duration_ms": 262040,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees Live",
         "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 163626,
       "name": "Free Ride - Live at Bailey's, London, England - 1975",
       "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6BUXiC6FX1ijEQWGf5iQoD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Roulette Years",
         "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "70's Deep Funk",
-        "url": "https://open.spotify.com/album/7nlO16jDzNDHVfxUt8vPAY"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Who Is She and What Is She to You",
-      "url": "https://open.spotify.com/track/64ZPcaZ4LrUht1wGJS62AL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 234146,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Women",
+        "url": "https://open.spotify.com/album/2RDRYxhQQFnLqURaI9QKDu"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/5R9bmodfbYD5dJ7Xx4ieNl"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
       "duration_ms": 277320,
       "name": "Together",
       "url": "https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Women",
-        "url": "https://open.spotify.com/album/2RDRYxhQQFnLqURaI9QKDu"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/5R9bmodfbYD5dJ7Xx4ieNl"
     }
   ],
   "unique_name": "This Is The Three Degrees",

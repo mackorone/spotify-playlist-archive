@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 366741,
+  "num_followers": 366780,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "Ego Slide",
         "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 218181,
       "name": "Ego Slide",
       "url": "https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "this is no longer a dream [DELUXE]",
         "url": "https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 215357,
       "name": "transcending (Karen Nyame KG remix) - Remix",
       "url": "https://open.spotify.com/track/3IKM5Dt9fZA1CIVbM91CNY"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2025-05-08 23:00:18",

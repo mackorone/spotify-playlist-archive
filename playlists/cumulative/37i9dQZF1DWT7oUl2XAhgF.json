@@ -4201,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/7qWegR8dyfgNmGNTLxolo3"
+      },
+      "artists": [
+        {
+          "name": "The Slim Kings",
+          "url": "https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288300,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/0Nwyp9Qg3qCB17GaoYrdQo"
+    },
+    {
+      "album": {
         "name": "A Good Woman",
         "url": "https://open.spotify.com/album/0Z8ZC3m2EbhMMXcmlpB2S1"
       },
@@ -8426,7 +8444,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 204300,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2"

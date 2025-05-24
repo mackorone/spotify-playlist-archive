@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
+    },
+    {
+      "album": {
         "name": "coastline",
         "url": "https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy"
       },
@@ -1556,6 +1574,24 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "album": {
+        "name": "The Drama Deluxe (The Encore!)",
+        "url": "https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140005,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB"
     },
     {
       "album": {
@@ -2916,7 +2952,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 190754,
       "name": "Heart By Heart",
       "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
@@ -4536,7 +4572,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 192000,
       "name": "maybe i'm the problem now",
       "url": "https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9"

@@ -4,7 +4,7 @@
 
 > ang lalim
 
-223 songs - 13 hr 52 min
+225 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dear](https://open.spotify.com/track/0tJVONdzeXt2ZfNH77FkKx) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Dear](https://open.spotify.com/album/0PKDAS1gX4hAuXatya1kgM) | 5:06 | 2023-10-18 | 2023-11-11 |
 | [Di Man Tinadhana](https://open.spotify.com/track/7osu5JQDE0riRg4ewMNHrg) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Di Man Tinadhana](https://open.spotify.com/album/3xPg2ALbLbmE4w6qQsEX53) | 4:10 | 2023-10-18 | 2024-11-05 |
 | [Di Mapakali](https://open.spotify.com/track/1AqyT79FxsN0PhqSty5BS2) | [Pattia](https://open.spotify.com/artist/5lsGsDuEgkJJVIupE3kupJ) | [Di Mapakali](https://open.spotify.com/album/6sJYwdvd3qvopepHz1111k) | 3:48 | 2024-12-16 | 2025-02-18 |
-| [Did You Like Her In The Morning?](https://open.spotify.com/track/1PASE7Ext8mjvfNE6UtApD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/1DWudTaW5joeHaG6wgSNSS) | 3:37 | 2025-01-22 |  |
+| [Did You Like Her In The Morning?](https://open.spotify.com/track/1PASE7Ext8mjvfNE6UtApD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/1DWudTaW5joeHaG6wgSNSS) | 3:37 | 2025-01-22 | 2025-05-24 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-10-18 | 2024-12-30 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-14 |  |
 | [DKSI!](https://open.spotify.com/track/3z5GSDFNexYsTnswjJAYTe) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [L0VER G!RL](https://open.spotify.com/album/5ifAePO10zjHrgzi6IXGck) | 3:14 | 2024-02-07 | 2024-06-06 |
@@ -126,7 +126,7 @@
 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 | 2024-03-04 | 2024-06-06 |
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2024-02-07 | 2024-04-19 |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-17 | 2025-04-01 |
-| [loved you better](https://open.spotify.com/track/18XTAbnDaMIzRqtxCjc6zO) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [loved you better](https://open.spotify.com/album/4ZSB9Ro38U9HbqU0WsQ35z) | 2:30 | 2025-04-14 |  |
+| [loved you better](https://open.spotify.com/track/18XTAbnDaMIzRqtxCjc6zO) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [loved you better](https://open.spotify.com/album/4ZSB9Ro38U9HbqU0WsQ35z) | 2:30 | 2025-04-14 | 2025-05-24 |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-11 | 2024-07-18 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-07-17 | 2025-02-12 |
 | [Medisina](https://open.spotify.com/track/0pFWRoaSuxR0GmkF9NxxV0) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Medisina](https://open.spotify.com/album/7sAp0E6Q4dqnrwWkpytEaN) | 5:12 | 2023-10-18 | 2024-11-05 |
@@ -136,6 +136,7 @@
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2024-12-16 |  |
 | [Mina\(mahal ko\)](https://open.spotify.com/track/7lLzAoAmxEKKAIovgzGP2D) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Mina\(mahal ko\)](https://open.spotify.com/album/2I5JcZl4k1379f2kJd1wOb) | 4:42 | 2023-10-18 | 2024-11-05 |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-06-05 | 2024-07-18 |
+| [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-23 |  |
 | [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 | 2023-10-18 | 2024-11-05 |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-17 |  |
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2023-10-18 |  |
@@ -210,6 +211,7 @@
 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2023-10-18 | 2024-04-19 |
 | [time with myself](https://open.spotify.com/track/4ffDArfIwz860wAUypa8aL) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [time with myself](https://open.spotify.com/album/1v4C6G5j2UCKyDxb8msCCN) | 3:04 | 2024-11-11 | 2024-12-17 |
 | [too much](https://open.spotify.com/track/0VQG0zuOXJd4JSTGJOUmJC) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [too much](https://open.spotify.com/album/5JciRe7QXL2zK8fMrwHtVk) | 2:11 | 2023-10-18 | 2024-11-05 |
+| [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-23 |  |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-16 |  |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-03-03 |  |
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2024-06-05 | 2024-06-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La esquina donde el urbano y la m\u00fasica mexicana se unen.  Picus en portada.",
+  "description": "La esquina donde el urbano y la m\u00fasica mexicana se unen.  Yubeili en portada.",
   "name": "El Junte",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 201251,
       "name": "Acelerado",
       "url": "https://open.spotify.com/track/094qJC8pjGy6X6uCRrRNFf"
+    },
+    {
+      "album": {
+        "name": "Adios Mama",
+        "url": "https://open.spotify.com/album/1eUU76PicOtLdcSc42vgIA"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284338,
+      "name": "Adios Mama",
+      "url": "https://open.spotify.com/track/5ynXbvpVZ3HZoWdMeg8okp"
     },
     {
       "album": {
@@ -3641,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8"
+    },
+    {
+      "album": {
         "name": "La Esquina del Mall",
         "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
       },
@@ -4306,7 +4342,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 170000,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/2axhW4wllSrMM9yRIRjGdE"
@@ -4402,6 +4438,32 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
+    },
+    {
+      "album": {
+        "name": "Mala Suerte",
+        "url": "https://open.spotify.com/album/4ueZPWC5oxrgUOh9nxF99r"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202067,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/5XoFPmVH1utr6vSS1AkFnT"
     },
     {
       "album": {
@@ -5172,7 +5234,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 188750,
       "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
       "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
@@ -5720,7 +5782,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 178394,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/2vboHgWzsOMBMJJwlUHnWj"

@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105180,
+  "num_followers": 105203,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
-    },
-    {
-      "added_at": "2025-05-22 22:00:41",
-      "album": {
         "name": "Priceless (feat. LISA)",
         "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 163352,
       "name": "Priceless (feat. LISA)",
       "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
+    },
+    {
+      "added_at": "2025-05-22 22:00:41",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "Sweet Dreams (feat. Miguel)",
-        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 172952,
-      "name": "Sweet Dreams (feat. Miguel)",
-      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
-    },
-    {
-      "added_at": "2025-05-22 22:00:41",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+    },
+    {
+      "added_at": "2025-05-22 22:00:41",
+      "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-05-22 22:00:41",
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
       },
@@ -799,6 +815,22 @@
       "duration_ms": 183747,
       "name": "Siren sounds (bonus)",
       "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
+    },
+    {
+      "added_at": "2025-05-22 22:00:41",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -823,22 +855,6 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": "2025-05-22 22:00:41",
-      "album": {
         "name": "Love Me To Heaven",
         "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 206561,
       "name": "Love Me To Heaven",
       "url": "https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr"
-    },
-    {
-      "added_at": "2025-05-22 22:00:41",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
+        "name": "Invincible (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 155495,
+      "name": "Invincible - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+    },
+    {
+      "added_at": "2025-05-22 22:00:41",
+      "album": {
         "name": "Sunshine & Rain...",
         "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
       },
@@ -939,18 +955,22 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "Invincible (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 155495,
-      "name": "Invincible - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -983,26 +1003,6 @@
       "duration_ms": 212437,
       "name": "Not At This Party",
       "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
-    },
-    {
-      "added_at": "2025-05-22 22:00:41",
-      "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "Et sted hvor vi de f\u00f8rste",
-        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 207639,
-      "name": "Et sted hvor vi de f\u00f8rste",
-      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
-    },
-    {
-      "added_at": "2025-05-22 22:00:41",
-      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "i guess u never really cared about me",
-        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
+        "name": "Et sted hvor vi de f\u00f8rste",
+        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 191150,
-      "name": "i guess u never really cared about me",
-      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
+      "duration_ms": 207639,
+      "name": "Et sted hvor vi de f\u00f8rste",
+      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -1235,6 +1219,22 @@
       "duration_ms": 222960,
       "name": "By a Monster\u2019s Hand",
       "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
+    },
+    {
+      "added_at": "2025-05-22 22:00:41",
+      "album": {
+        "name": "i guess u never really cared about me",
+        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "i guess u never really cared about me",
+      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
     },
     {
       "added_at": "2025-05-22 22:00:41",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "Kun Os",
-        "url": "https://open.spotify.com/album/63DY4bmIG6gBTwK4zELvBj"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Kun Os",
-      "url": "https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9"
-    },
-    {
-      "added_at": "2025-05-22 22:00:41",
-      "album": {
         "name": "Let It Talk To Me",
         "url": "https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
+        "name": "Kun Os",
+        "url": "https://open.spotify.com/album/63DY4bmIG6gBTwK4zELvBj"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Kun Os",
+      "url": "https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9"
+    },
+    {
+      "added_at": "2025-05-22 22:00:41",
+      "album": {
         "name": "Rene Hjerter Vinder Altid",
         "url": "https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM"
       },
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2025-05-22 22:00:41",
       "album": {
-        "name": "Come With Me (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
       },
       "artists": [
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 214886,
-      "name": "Come With Me (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     }
   ],
   "unique_name": "De nye",

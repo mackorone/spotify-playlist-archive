@@ -1,13 +1,105 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44132,
+  "num_followers": 44128,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaLDQ7ubvSZg5uLLA8DHuoEuQgwyGd",
+  "snapshot_id": "AAAaMOmHAEmx/YQatu21k6+z1g4XmOvB",
   "tracks": [
+    {
+      "added_at": "2025-05-23 15:00:17",
+      "album": {
+        "name": "Beat Goes On (feat. Casey Cook)",
+        "url": "https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 169350,
+      "name": "Beat Goes On (feat. Casey Cook)",
+      "url": "https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy"
+    },
+    {
+      "added_at": "2025-05-23 14:59:39",
+      "album": {
+        "name": "Leave The Light On (Last Heroes Remix)",
+        "url": "https://open.spotify.com/album/1IYM3R0L3sR0FjWWS59pbU"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        },
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Leave The Light On - Last Heroes Remix",
+      "url": "https://open.spotify.com/track/5AV5Bv5BrjlnbcTQ03t6Ww"
+    },
+    {
+      "added_at": "2025-05-23 14:59:53",
+      "album": {
+        "name": "Leave The Light On (Rameses B Remix)",
+        "url": "https://open.spotify.com/album/19kpqmfRS8HvGaTzCipM8x"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        },
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Leave The Light On - Rameses B Remix",
+      "url": "https://open.spotify.com/track/7aWOLTdqi8ycDxDyFEsxXp"
+    },
+    {
+      "added_at": "2025-05-23 14:59:45",
+      "album": {
+        "name": "Leave The Light On (RUSH AVENUE Remix)",
+        "url": "https://open.spotify.com/album/7rowucm5CZnaKwtdNoA8Mj"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        },
+        {
+          "name": "RUSH AVENUE",
+          "url": "https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP"
+        }
+      ],
+      "duration_ms": 207981,
+      "name": "Leave The Light On - RUSH AVENUE Remix",
+      "url": "https://open.spotify.com/track/6wCSpBbQ46pjILc0CzZdjJ"
+    },
     {
       "added_at": "2025-05-20 20:10:01",
       "album": {

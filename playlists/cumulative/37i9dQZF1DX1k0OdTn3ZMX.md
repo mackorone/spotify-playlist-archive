@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with Nevertel.
 
-277 songs - 15 hr 38 min
+280 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 | 2024-01-27 |
 | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV) | 3:43 | 2025-05-16 |  |
 | [Butterscotch Biscuits](https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Butterscotch Biscuits](https://open.spotify.com/album/5e1P3vP44iAIDK21yypNEB) | 3:15 | 2024-08-23 | 2024-09-28 |
+| [Caged](https://open.spotify.com/track/2ZpqEDBKQ0QfolgfvgWumY) | [bbdalena](https://open.spotify.com/artist/1Bz7JYqdlG394tjNShtqAV) | [Caged](https://open.spotify.com/album/5fHryC7OYjmx6guAgkmEJt) | 2:52 | 2025-05-23 |  |
 | [Cold](https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Cold](https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8) | 2:58 | 2025-04-04 | 2025-05-10 |
 | [COME ALIVE](https://open.spotify.com/track/246bjBGHwB1YIEnOiSF1iZ) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [COME ALIVE](https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol) | 3:13 | 2024-09-20 | 2025-05-10 |
 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 | 2023-09-13 | 2024-03-02 |
@@ -186,6 +187,7 @@
 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 | 2025-03-07 |  |
 | [Prepackaged](https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Prepackaged](https://open.spotify.com/album/0V2vrD3pKBj5R58x0z8Hfo) | 5:03 | 2024-07-19 | 2024-09-14 |
 | [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ) | 3:19 | 2024-05-17 | 2024-07-19 |
+| [Pure Adrenaline](https://open.spotify.com/track/4WZlNmXZnO4AP963muV38u) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Pure Adrenaline](https://open.spotify.com/album/5xakafpbkKzImSJ7lge4n5) | 2:22 | 2025-05-23 |  |
 | [Push](https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [Push](https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG) | 3:56 | 2024-04-05 | 2024-06-01 |
 | [Qué Linda](https://open.spotify.com/track/6aIihWCXDxues6MiGrM3rX) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Qué Linda](https://open.spotify.com/album/5ld8B0HseNBSGQiJyDAON5) | 2:45 | 2024-04-19 | 2024-05-18 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-12 | 2024-11-09 |
@@ -207,6 +209,7 @@
 | [SERPENTINE](https://open.spotify.com/track/75K9O7QpjCNkRcgVfRowwq) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [SERPENTINE](https://open.spotify.com/album/6uaVMHKaeF1vHiNfaNAEQR) | 3:18 | 2024-10-11 | 2025-03-08 |
 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-06-28 |  |
 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 | 2023-09-13 | 2024-02-10 |
+| [Silence](https://open.spotify.com/track/5nCkU8SFcpmRMDSQ72Krd0) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Silence](https://open.spotify.com/album/2KjHwgdCvcgmOBCA2jnxUY) | 3:28 | 2025-05-23 |  |
 | [Sit On It](https://open.spotify.com/track/4Ej8mKdpBikpOyDgRLK0i4) | [Jigsaw Youth](https://open.spotify.com/artist/4nyGm04ANLhY9t8TnId45y) | [Sit On It](https://open.spotify.com/album/0Zrn61By1Ey8A9YQjAcm4v) | 2:24 | 2023-11-10 | 2023-11-25 |
 | [Sloth](https://open.spotify.com/track/1BarxzQGZySsAadBOlwRUq) | [LEXX](https://open.spotify.com/artist/4ofinupphwqEBqASKEAKWd) | [Sloth](https://open.spotify.com/album/66HE5AoPOKwR7bP7uDC8HM) | 4:02 | 2025-05-16 |  |
 | [Smoking Gun](https://open.spotify.com/track/2o9dvPJhjxmeYeQnbHRSAq) | [Tommy Vext](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [ANTARCTICA](https://open.spotify.com/album/3bFDW5uWGM0jcNPav9iO47) | 3:40 | 2024-07-05 | 2024-10-26 |

@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring frances mistry 🎀
 
-256 songs - 13 hr 56 min
+257 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 | 2024-06-14 | 2025-04-13 |
 | [Crushing!](https://open.spotify.com/track/6h4m0ZZhvGnFPrRJ8qmax1) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [Crushing!](https://open.spotify.com/album/1JxCqmjMtWU2HXPSNNoWgA) | 3:05 | 2025-04-12 | 2025-05-09 |
 | [crying in chanel](https://open.spotify.com/track/0vrZ7IPhmPflJv57GWB5gh) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [crying in chanel](https://open.spotify.com/album/0oXGHpzA98ax17AznYBCMO) | 2:29 | 2025-05-01 | 2025-05-13 |
+| [Daisy](https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI) | [Leona Rue](https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe) | [Daisy](https://open.spotify.com/album/4ckNbXTzlhv3EE1xfOQGWv) | 3:15 | 2025-05-22 |  |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-06-14 | 2024-12-06 |
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2025-05-01 |  |
 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2025-04-12 |  |
@@ -258,7 +259,7 @@
 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 | 2024-06-14 | 2024-07-13 |
 | [Who](https://open.spotify.com/track/36Qy5JWTlosQe8mliqKCjw) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Who](https://open.spotify.com/album/6dUqAzE6hZbHbhIhtvoXA0) | 3:07 | 2024-06-14 | 2024-07-13 |
 | [Why Won't We](https://open.spotify.com/track/6293vQ1jOawXNqDhHZvFP5) | [Jack Panther](https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN) | [Why Won't We](https://open.spotify.com/album/1TnPgz3o5exKqZ2Ypdj80v) | 3:44 | 2025-01-24 | 2025-02-24 |
-| [With u](https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [With u](https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h) | 2:20 | 2025-01-24 |  |
+| [With u](https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [With u](https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h) | 2:20 | 2025-01-24 | 2025-05-24 |
 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 | 2025-04-12 |  |
 | [Yard](https://open.spotify.com/track/1pounXkmSnY4qudGv079kS) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Applesauce](https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0) | 3:08 | 2025-04-12 | 2025-05-02 |
 | [you say that i'm crazy](https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [you say that i'm crazy](https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9) | 2:26 | 2025-01-24 | 2025-04-13 |

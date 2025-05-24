@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Spacey Jane",
+  "description": "The best and latest rock and alternative. Cover: Big Wreck",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/7zyoBrlgU9IznoMOvbrnet"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286186,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/7dpT7mBli8ORIJAeUfUH8O"
+    },
+    {
+      "album": {
         "name": "bella / i can't find anyone",
         "url": "https://open.spotify.com/album/2oMSoRAvlKoz4yPK2iFgwD"
       },
@@ -900,6 +918,24 @@
       "duration_ms": 238988,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe"
+    },
+    {
+      "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
     },
     {
       "album": {
@@ -1452,7 +1488,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 260946,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB"
@@ -1510,6 +1546,24 @@
       "duration_ms": 211186,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/1Gq7qJGtmzdqVjAzeoV1Kx"
+    },
+    {
+      "album": {
+        "name": "Lonesome High",
+        "url": "https://open.spotify.com/album/4nxTG4gCfU6NCW0ysPsR1S"
+      },
+      "artists": [
+        {
+          "name": "Dear Rouge",
+          "url": "https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211186,
+      "name": "Garbage",
+      "url": "https://open.spotify.com/track/4oxHIcwJkJsENTuTXclWhh"
     },
     {
       "album": {
@@ -1828,6 +1882,24 @@
       "duration_ms": 203129,
       "name": "History",
       "url": "https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2nQoXfaAd6ZFqb6ylCqySD"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3hyV8JBxMuARHhVwVDj6Qx"
     },
     {
       "album": {
@@ -2220,7 +2292,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 172506,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
@@ -2854,7 +2926,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
@@ -3614,10 +3686,28 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 217103,
       "name": "Seems Like You Don\u2019t Know Me",
       "url": "https://open.spotify.com/track/6z4XC6ijxA4sGZznuwyVMh"
+    },
+    {
+      "album": {
+        "name": "Self-Made",
+        "url": "https://open.spotify.com/album/4fiY1fnaP5RUxFrm06adpo"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Self-Made",
+      "url": "https://open.spotify.com/track/4BTsvHUXQUc8N877rIIMqs"
     },
     {
       "album": {
@@ -4570,7 +4660,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn"

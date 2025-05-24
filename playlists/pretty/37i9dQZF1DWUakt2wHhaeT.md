@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 ### [Broadway Rising](https://open.spotify.com/playlist/37i9dQZF1DWUakt2wHhaeT)
 
-> The best songs from the new shows and the buzziest hits\. Cover: Idina Menzel in Redwood
+> The best songs from the new shows and the buzziest hits\. Cover: SMASH
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,531 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,532 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In the Leaves](https://open.spotify.com/track/6dvLYjhqprthcB6b4v3WyO) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Original Broadway Cast of Redwood](https://open.spotify.com/artist/05gJ005XevdmT8XK1vS1kK) | [In the Leaves](https://open.spotify.com/album/2ZZysVfn8CW27dXqO3jAEL) | 4:24 |
-| 2 | [Don't Forget Me](https://open.spotify.com/track/3T8Im78k7i7fg148A2V759) | [Caroline Bowman](https://open.spotify.com/artist/0gu3llwN4eXvpqpy8Z4REK), [Robyn Hurder](https://open.spotify.com/artist/1saEviAIhddEAjIOvZEeDi), [Brooks Ashmanskas](https://open.spotify.com/artist/78jrMIbX0AQ9frBm04lKt4), [‘SMASH’ Original Broadway Cast](https://open.spotify.com/artist/0lIS6nH9VDtHlsLHn1STyM) | [SMASH \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2x60w553yPI3eafK51BgsH) | 3:25 |
+| 1 | [Don't Forget Me](https://open.spotify.com/track/3T8Im78k7i7fg148A2V759) | [Caroline Bowman](https://open.spotify.com/artist/0gu3llwN4eXvpqpy8Z4REK), [Robyn Hurder](https://open.spotify.com/artist/1saEviAIhddEAjIOvZEeDi), [Brooks Ashmanskas](https://open.spotify.com/artist/78jrMIbX0AQ9frBm04lKt4), [‘SMASH’ Original Broadway Cast](https://open.spotify.com/artist/0lIS6nH9VDtHlsLHn1STyM) | [SMASH \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2x60w553yPI3eafK51BgsH) | 3:25 |
+| 2 | [In the Leaves](https://open.spotify.com/track/6dvLYjhqprthcB6b4v3WyO) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Original Broadway Cast of Redwood](https://open.spotify.com/artist/05gJ005XevdmT8XK1vS1kK) | [In the Leaves](https://open.spotify.com/album/2ZZysVfn8CW27dXqO3jAEL) | 4:24 |
 | 3 | [She Knocks Me Out](https://open.spotify.com/track/7zaCoHhmiCq0rTOBJH7cjK) | [Ainsley Melham](https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM), [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Original Broadway Cast of Boop! The Musical](https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT) | [She Knocks Me Out](https://open.spotify.com/album/6gcJAl6HZ3fzN7MXCxlBv3) | 3:08 |
 | 4 | [When You're in Love](https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql) | [Helen J Shen](https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Maybe Happy Ending \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd) | 2:42 |
 | 5 | [Making a Man](https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb) | [Operation Mincemeat](https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX) | [Operation Mincemeat: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3) | 9:39 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 54 | [Done For](https://open.spotify.com/track/3MfTo3Q0ZCrhCsQJZ8u6iZ) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Talya Sindel](https://open.spotify.com/artist/2cjhj5CXQPAr8nHi0Sd8fz) | [EPIC: The Circe Saga \(Official Concept Album\)](https://open.spotify.com/album/5a3uE0AyEWhLumIHo9WkWN) | 2:27 |
 | 55 | [Feel Like This](https://open.spotify.com/track/7i07v9Uf3jgHcSh2D2Zkjn) | [Jonny Amies](https://open.spotify.com/artist/2JY5SABZuugEGP21u683ye), [The Little Big Things](https://open.spotify.com/artist/5Z72Rl23lcZZ8ipkWfLcnw) | [The Little Big Things \(Original West End Cast Recording\)](https://open.spotify.com/album/7FUdcVrbpNnC6mDEqwNeHn) | 3:22 |
 
-Snapshot ID: `aCa4SwAAAADheC6IXaKxecaaQ6cblU4w`
+Snapshot ID: `aC/y6gAAAACqOqONFZqbA18x3FlhK56R`

@@ -1,13 +1,81 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 89191,
+  "num_followers": 89202,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxhJXExyDhkUcOa1bF+LzI/8xzT",
+  "snapshot_id": "aC/y4gAAAADmBUh4JRsIQv1/yM77LRLM",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:34",
+      "album": {
+        "name": "Music For People Who Believe In Love",
+        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 198460,
+      "name": "Honey Blonde",
+      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Love You For A Long Time",
+        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Love You For A Long Time",
+      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2025-02-28 05:00:37",
+      "album": {
+        "name": "Are You Even Real (feat. Giv\u0113on)",
+        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
+    },
+    {
+      "added_at": "2025-05-23 04:00:34",
+      "album": {
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
     {
       "added_at": "2025-04-11 15:27:37",
       "album": {
@@ -49,22 +117,6 @@
       "url": "https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Love You For A Long Time",
-        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Love You For A Long Time",
-      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
-    },
-    {
       "added_at": "2025-04-04 04:00:25",
       "album": {
         "name": "Phases",
@@ -97,6 +149,22 @@
       "url": "https://open.spotify.com/track/00aC5vOKuBjjEIkNQJwfBy"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
       "added_at": "2025-03-21 04:00:44",
       "album": {
         "name": "Over and Over",
@@ -127,26 +195,6 @@
       "duration_ms": 210926,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
-    },
-    {
-      "added_at": "2025-02-28 05:00:37",
-      "album": {
-        "name": "Are You Even Real (feat. Giv\u0113on)",
-        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
       "added_at": "2025-04-11 04:00:21",
@@ -351,22 +399,6 @@
       "duration_ms": 151000,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -829,22 +861,6 @@
       "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "Won't Be Long",
-        "url": "https://open.spotify.com/album/5DcTe15NEkFhVrX171TYuU"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Won't Be Long",
-      "url": "https://open.spotify.com/track/7FUhfnNPBB7xZUAougxPUJ"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "After the First Kiss",
@@ -1071,22 +1087,6 @@
       "duration_ms": 223344,
       "name": "The Angel And The Saint",
       "url": "https://open.spotify.com/track/4JATzwy5FXaVytfAXlNwt8"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",

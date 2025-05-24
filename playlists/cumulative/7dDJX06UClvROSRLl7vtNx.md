@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-873 songs - 1 day 13 hr 54 min
+874 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Midas](https://open.spotify.com/track/3tGbBKvJ85qyKAnUb3kVbD) | [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Her Majesty](https://open.spotify.com/artist/4a8Lrkd7Ca9gdqytlXXU6X) | [Midas](https://open.spotify.com/album/19YAYDHe2uXvBQk73PiR3L) | 2:44 | 2025-03-16 |  |
 | [Middle Of The Night](https://open.spotify.com/track/2jk1D4XSvC4L4H8dtDmX5R) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Middle Of The Night](https://open.spotify.com/album/6pOvfjmyFdhsSvJoS4VpRG) | 2:20 | 2023-09-22 | 2023-12-31 |
 | [Million Miles](https://open.spotify.com/track/3efWEdQrAdIFvvjzby1I22) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Jordan Jade](https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz) | [Million Miles](https://open.spotify.com/album/5TRcZcBW7qadS5REkoQRPO) | 1:57 | 2024-07-30 |  |
+| [Mina Kupenda](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Mina Kupenda](https://open.spotify.com/album/2QgrBSLmCtCyue5UIsfdjs) | 2:04 | 2025-05-23 |  |
 | [Miracle](https://open.spotify.com/track/25eUoeaRmrhl82hllLHLau) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Miracle](https://open.spotify.com/album/32YlG5aLf8UbMLCzvWRLxc) | 2:45 | 2024-02-04 | 2024-04-11 |
 | [Miss a Thing](https://open.spotify.com/track/74JoJh1W94YJfQmnxyQE36) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Miss a Thing](https://open.spotify.com/album/46fffKThWU6zXKL3x9qQCF) | 1:56 | 2025-01-24 | 2025-02-21 |
 | [Miss California \(DeejaVu Remix\)](https://open.spotify.com/track/5iiI3Aw0AruRfiZItxEHRx) | [Le Boeuf](https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe), [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Miss California \(DeejaVu Remix\)](https://open.spotify.com/album/2sFp6y92TdXxw1bxwRuu7e) | 2:34 | 2023-11-12 | 2024-01-15 |

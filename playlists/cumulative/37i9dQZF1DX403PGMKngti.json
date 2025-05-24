@@ -384,28 +384,6 @@
     {
       "album": {
         "name": "Champetua",
-        "url": "https://open.spotify.com/album/1U3LfdYkbiI8ZqpfKHUioR"
-      },
-      "artists": [
-        {
-          "name": "Oscar Prince",
-          "url": "https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp"
-        },
-        {
-          "name": "BIP",
-          "url": "https://open.spotify.com/artist/7wxIOUfiitxXo8IWJ1O7IR"
-        }
-      ],
-      "date_added": "2023-12-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236786,
-      "name": "Champetua",
-      "url": "https://open.spotify.com/track/4cdwkVSwjdM2NxIMLpfKJ4"
-    },
-    {
-      "album": {
-        "name": "Champetua",
         "url": "https://open.spotify.com/album/4joMs1H6WBYzUIv17uYN5N"
       },
       "artists": [
@@ -424,6 +402,28 @@
       "duration_ms": 238066,
       "name": "Champetua",
       "url": "https://open.spotify.com/track/6qUVpuObKhwKiXeC5zBXz1"
+    },
+    {
+      "album": {
+        "name": "Champetua",
+        "url": "https://open.spotify.com/album/1U3LfdYkbiI8ZqpfKHUioR"
+      },
+      "artists": [
+        {
+          "name": "Oscar Prince",
+          "url": "https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp"
+        },
+        {
+          "name": "Grupo Bip",
+          "url": "https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Champetua",
+      "url": "https://open.spotify.com/track/4cdwkVSwjdM2NxIMLpfKJ4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ☕️☕️ espresso macchiato por favore ☕️☕️
 
-1,615 songs - 3 day 13 hr 6 min
+1,616 songs - 3 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [\#doyalike](https://open.spotify.com/track/0axgY4AiWx0spzdQb1gSjg) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN) | 3:03 | 2022-05-19 | 2023-01-06 |
 | [\#doyalike](https://open.spotify.com/track/18BDx58loqHIBqVLjYUmkh) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL), [Ren0wned](https://open.spotify.com/artist/0U9UOUZ2iSmDR1tBe7F7tt) | [\#doyalike](https://open.spotify.com/album/5iHYg2FDgirPCnT2wnRPy3) | 3:02 | 2022-12-24 | 2023-01-01 |
 | [\#doyalike](https://open.spotify.com/track/6uslpvuKJHzn419mms2oP5) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/22VSVD9GpnYa7oecqOXW2q) | 3:03 | 2022-12-08 | 2022-12-11 |
+| [\#eurodab](https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [\#eurodab](https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA) | 2:38 | 2025-05-23 |  |
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2023-06-12 | 2025-01-08 |
 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 | 2023-10-24 | 2025-01-08 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-23 | 2025-01-08 |

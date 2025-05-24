@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Jebung
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,686 likes - 86 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,689 likes - 86 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

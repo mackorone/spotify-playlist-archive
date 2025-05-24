@@ -2,12 +2,13 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Tigapagi
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: The Morning After
 
-175 songs - 12 hr 14 min
+178 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#1 \- Remastered 2025](https://open.spotify.com/track/13pWbRv2lDtFHA0cDPZu3R) | [THE MORNING AFTER](https://open.spotify.com/artist/3C9gOaI1GJKO2cxGCOlfiL) | [Another Day Like Today \(Remastered 2025\)](https://open.spotify.com/album/2AdW0aaBHxSzBqK6FjZEjL) | 3:19 | 2025-05-23 |  |
 | [\(Ouch\) Mighty Love](https://open.spotify.com/track/6fKHg8pucl8ZFj07NVEBvk) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Unrescued World](https://open.spotify.com/album/0knRYnWDxaU96s6cOEu8BF) | 4:11 | 2021-11-25 |  |
 | [100 Km/Jam](https://open.spotify.com/track/1tfr5ePg7gEIt6WiXeorNJ) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [The Brandals](https://open.spotify.com/album/7umiNnEcvqhsCLFGmc1QDO) | 2:40 | 2022-12-16 |  |
 | [100% Kontrol](https://open.spotify.com/track/24giWUT5X8fFPFE8quTB3v) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 2:21 | 2022-12-16 |  |
@@ -42,6 +43,7 @@
 | [Cermin](https://open.spotify.com/track/3QqEFHU2gPzV0nq277y9fK) | [WONDERGEL](https://open.spotify.com/artist/7kqRQuWrQEUJECtxamxmr3) | [Wondergel](https://open.spotify.com/album/0ljj3xlOQw965rlOFF5xnJ) | 4:21 | 2022-04-14 |  |
 | [Confession, Pt\. 2](https://open.spotify.com/track/1KJDoezH79kJuyYIjOaD4J) | [Media Distorsi](https://open.spotify.com/artist/0lPD0oAckOuHRAq9CsxqEz), [Maria Claudine](https://open.spotify.com/artist/2dQVm4j9XcZF1ZbCGT55mF) | [Chapter 01: The Beginning](https://open.spotify.com/album/34GK92dwjZYXYPza1Uettt) | 5:56 | 2021-11-25 |  |
 | [Curtains](https://open.spotify.com/track/2yC8xYKZl6QcuI18QHnd79) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Quo Vadis, SORE?](https://open.spotify.com/album/53TkUEJhzjqYY6ljR3XoKS) | 5:08 | 2024-03-22 | 2024-04-05 |
+| [Dengar Dan Diam \- Remastered 2025](https://open.spotify.com/track/1jSiA8t1iYgKBU1pVtA4QO) | [THE MORNING AFTER](https://open.spotify.com/artist/3C9gOaI1GJKO2cxGCOlfiL) | [Another Day Like Today \(Remastered 2025\)](https://open.spotify.com/album/2AdW0aaBHxSzBqK6FjZEjL) | 4:25 | 2025-05-23 |  |
 | [Desire \- Remastered 2006](https://open.spotify.com/track/09W7rB2LtPqaAjZ4caPRNT) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Desire \(Remastered 2006\)](https://open.spotify.com/album/2fdzGZ4azyny9eXwKBZe23) | 4:03 | 2024-07-04 |  |
 | [Detektif Flamboyan](https://open.spotify.com/track/6LxII7H3DAC6Of4XaP7AdA) | [C'mon Lennon](https://open.spotify.com/artist/1RDrenzYUkREj4MDKQmdnP) | [Ketika La La La](https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd) | 4:03 | 2022-05-12 |  |
 | [Di Sayidan](https://open.spotify.com/track/5lTnUb4IgWgsEiJseldpkM) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Di Sayidan](https://open.spotify.com/album/1UYpybR1fl9rAxK89RbCEH) | 5:14 | 2021-11-25 |  |
@@ -179,6 +181,7 @@
 | [Topstar \- Remastered 2023](https://open.spotify.com/track/3YgYfnCjpnN0oSZv3bkaX7) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Topstar Collection \(Remastered 2023\)](https://open.spotify.com/album/7GQQVzcfWoxWQzIcsG305K) | 3:01 | 2023-08-30 |  |
 | [Train Song](https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67) | [LAIN](https://open.spotify.com/artist/7jl1uHLFhjyTBm7VhEJkfc) | [Djakarta Goodbye](https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo) | 3:16 | 2021-11-25 |  |
 | [Tribute for you](https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX) | [Pestolaer](https://open.spotify.com/artist/1gpfHCNfV3ODeF7f6YfsSF) | [Best of the Best](https://open.spotify.com/album/0ywMYhZ1UwaSMvuIO2HiMI) | 3:53 | 2022-04-14 |  |
+| [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2025-05-23 |  |
 | [Waking Hour](https://open.spotify.com/track/0cs8SUKFfyO9yUPlVCY6oh) | [Hightime Rebellion](https://open.spotify.com/artist/6pdlU4FPMqLG74BWDxcTEO) | [Neurobic](https://open.spotify.com/album/6qwfwz47DEnXUQw6MD2dc6) | 4:43 | 2022-06-03 |  |
 | [When You Love Someone](https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Nowhere to Go](https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU) | 4:31 | 2022-08-04 |  |
 | [Winter Holiday](https://open.spotify.com/track/0IxXRtwQGRBZTEYPmG00Ag) | [Olivetree](https://open.spotify.com/artist/0YrrDoXzukjGeE16uxqQft) | [Return of Strawberry Rock](https://open.spotify.com/album/5PsgYpiJfgCwkbfRUL97B2) | 3:15 | 2022-04-14 |  |

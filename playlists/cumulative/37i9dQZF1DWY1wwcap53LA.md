@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Sacha
 
-223 songs - 11 hr 36 min
+226 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-03-29 |  |
 | [Blessed](https://open.spotify.com/track/3iy3WGBub3OWs2t4GFTGA9) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Blessed](https://open.spotify.com/album/3MbNdzvZq9sYQ0eibEbiol) | 3:18 | 2022-05-13 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-03 |  |
+| [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-05-23 |  |
 | [Blue Jean Masterpiece](https://open.spotify.com/track/27vFxHgbfyhmyQO0BOEYW4) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Blue Jean Masterpiece](https://open.spotify.com/album/4mq8g0JxrnZSzm15qYJgBo) | 2:55 | 2023-09-15 |  |
 | [Broken Umbrella](https://open.spotify.com/track/1xRguz8lsbOY33273bAheF) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Broken Umbrella](https://open.spotify.com/album/7iCUNsYl3SXnIWNB1eO9nd) | 2:43 | 2021-12-03 |  |
 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2023-07-21 |  |
@@ -67,6 +68,7 @@
 | [Get Low, Get High](https://open.spotify.com/track/7n4HT2w1thbnN6MhbamJMU) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Get Low, Get High](https://open.spotify.com/album/3UuVq0rn3sNPtQew0f3XcS) | 2:44 | 2021-12-03 | 2022-09-03 |
 | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/track/7vV9b8mBZhw6eiCc80VOSb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Todd](https://open.spotify.com/artist/0DjXhpFVGNYlevPm7EGjrp) | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/album/5egAPl3SGfXZIW2dIzqDpo) | 3:38 | 2022-09-02 | 2024-04-23 |
 | [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 | 2023-02-17 |  |
+| [Going Blonde](https://open.spotify.com/track/2kPgG5d0fKYhMzr7kt4ZBs) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Going Blonde](https://open.spotify.com/album/4NqtPM6LWMtAiMG0tajWXh) | 3:47 | 2025-05-23 |  |
 | [Gone to Dust](https://open.spotify.com/track/4gpZy3Ky2clmrdCFqzSzAz) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ) | [Gone to Dust](https://open.spotify.com/album/2aReSsKe0ZLHjpJM3Zi6EJ) | 3:08 | 2025-01-24 |  |
 | [Goner](https://open.spotify.com/track/5aoAYO5gJL9VnCxWU3q0EU) | [Skyelor Anderson](https://open.spotify.com/artist/5bclkN4UM70TfIa6NGMGcr) | [Bonfire](https://open.spotify.com/album/2DuONDxO2ITx5MNJbjPnr5) | 3:00 | 2021-12-03 |  |
 | [Gonna Be Alright](https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Gonna Be Alright](https://open.spotify.com/album/6jlXxGbWeMOMbSEU9TJ3K9) | 2:56 | 2023-02-17 |  |
@@ -201,6 +203,7 @@
 | [Til You Called My Name](https://open.spotify.com/track/4WywFqh2R5dFCZiB2FRrp8) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 3:22 | 2023-09-15 | 2024-04-19 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/2w955aKTkdFKlW2Wr5kNr8) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:14 | 2022-10-07 | 2024-04-23 |
 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2022-11-18 | 2024-02-03 |
+| [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 | 2025-05-23 |  |
 | [Un\-Break My Heart \(Spotify Singles\)](https://open.spotify.com/track/2ypb4O6v2rZgmqxw8lPF2W) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:16 | 2023-11-03 | 2024-04-19 |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2024-04-27 |
 | [Used to Love That Song](https://open.spotify.com/track/6uSKxEhO9JKYkrPUhPBSa9) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/1CI87J6036yNvbzyksedMH) | 2:59 | 2022-08-12 | 2023-02-18 |

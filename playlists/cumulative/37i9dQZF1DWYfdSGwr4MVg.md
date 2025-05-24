@@ -2,7 +2,7 @@
 
 ### [Baby Lullabies 2025](https://open.spotify.com/playlist/37i9dQZF1DWYfdSGwr4MVg)
 
-> Gentle lullabies that soothe, relax, and ease your baby to sleep\. 💤🧸🌙
+> Gentle lullabies that soothe, relax, and ease your baby to sleep 🧸🌙💤
 
 150 songs - 4 hr 48 min
 

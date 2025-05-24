@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,729 likes - 20 songs - 1 hr 16 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,737 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 |
-| 2 | [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 |
-| 3 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 |
-| 4 | [TOES!](https://open.spotify.com/track/5xyttaYPcls5oPMqu8ZPMl) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [TOES!](https://open.spotify.com/album/5iAW91ztSFFhi1prcn1K6E) | 3:50 |
-| 5 | [PRINCELESS PRINCESS](https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1) | 3:43 |
-| 6 | [Spider Dream](https://open.spotify.com/track/5Dp9ycsJw85HYYLVPrun8p) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Spider Dream](https://open.spotify.com/album/2F7dDfYuRiv7XWkK8QhCor) | 2:48 |
-| 7 | [june](https://open.spotify.com/track/6PBJfoq40a8gsUULbn0oyG) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [june](https://open.spotify.com/album/3cJDOznDVbYVwk8XwzYPfn) | 2:48 |
-| 8 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
-| 9 | [Limerence](https://open.spotify.com/track/6kBqHAw2OGoPDUg4Q3Khp9) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [Limerence](https://open.spotify.com/album/46hSkpRbOltSbJbVKpJsEP) | 3:57 |
-| 10 | [Sing Like A Siren](https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Sing Like A Siren](https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD) | 3:12 |
-| 11 | [Helena \- Live for BBC Radio 1's "The Lock Up", 2005](https://open.spotify.com/track/2zM0y9myTgpjie1asYen3g) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Helena \(Live for BBC Radio 1's "The Lock Up", 2005\)](https://open.spotify.com/album/1fQmTkk29UtTykTBaj2M98) | 3:21 |
-| 12 | [Bathroom Floor](https://open.spotify.com/track/2eaCpEuKcMTevpa65KFtGK) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Bathroom Floor](https://open.spotify.com/album/5cdwy5tE7mFaubPQoWl610) | 3:07 |
-| 13 | [Thirst](https://open.spotify.com/track/6USFQ4zfUMvZvwMeVKHbC5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/1O1n5i2i7ZKRXk1A86jqfC) | 4:18 |
-| 14 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 |
-| 15 | [Limbo](https://open.spotify.com/track/3W1VuI94GuNjtD31Z4DG3m) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc) | [Limbo](https://open.spotify.com/album/4jkJ3kXCYhrVd6g0ZtWBmL) | 3:13 |
-| 16 | [Wide Awake](https://open.spotify.com/track/3Link655QbLbSLj8iunFG7) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Wide Awake](https://open.spotify.com/album/5M54uawIq9qyn5ZZ3TPScG) | 2:39 |
-| 17 | [Heaven](https://open.spotify.com/track/5iOaHX0UqdLWfxQLgTn40E) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Heaven](https://open.spotify.com/album/5SxcBzH9KLImpRk2xxY13X) | 4:21 |
-| 18 | [Running a Cemetery Without a License](https://open.spotify.com/track/3nf7bTCBWKGnuaSTAf2YkA) | [Intercourse](https://open.spotify.com/artist/5YB0PBvIdALzf0TWcaXt7U) | [Running A Cemetery Without A License](https://open.spotify.com/album/0VuhEVupr7APHdo4mI1DzR) | 3:55 |
-| 19 | [Happy As Lazarus](https://open.spotify.com/track/1lbOVdbkGWXxjhL1Eu2xAG) | [Atlas : Empire](https://open.spotify.com/artist/7tuHV2YoRolcuztmCKuLfc) | [Happy As Lazarus](https://open.spotify.com/album/02SJu3VUnOwjbOIVm2vnrl) | 4:15 |
-| 20 | [Obsession](https://open.spotify.com/track/2BZaPYIq43Su7X7DPvra45) | [Bleed Again](https://open.spotify.com/artist/46LujUEMc60oJPGikI1C1F) | [Obsession](https://open.spotify.com/album/79KBX1nkditbB3TKWRFuAy) | 3:39 |
+| 1 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
+| 2 | [Salt The Wound](https://open.spotify.com/track/6nLjrvLgI1JDqrh5CgrDUn) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Salt The Wound](https://open.spotify.com/album/3d2PMCB7rFiUNYKFHmz9OF) | 4:08 |
+| 3 | [Violent Nature](https://open.spotify.com/track/4wG1qk65XGBixayITnktbO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe) | 2:10 |
+| 4 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 |
+| 5 | [Ithaca](https://open.spotify.com/track/1T0V0nLKUUsLRXkTlIKJw3) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [Ithaca](https://open.spotify.com/album/5yFjnW2VN6dIT0uDVvI1yJ) | 5:43 |
+| 6 | [Well Made Play](https://open.spotify.com/track/2k1D1kmI8G7OvahKjyrP0V) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Well Made Play](https://open.spotify.com/album/2J2JF6blayfBEEbvUjPE5T) | 2:13 |
+| 7 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
+| 8 | [Risk](https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Risk](https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH) | 2:59 |
+| 9 | [I Feel Everything](https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [I Feel Everything](https://open.spotify.com/album/2ocVKzxMyOPFzVRLl7b15B) | 2:55 |
+| 10 | [Salvation](https://open.spotify.com/track/1rrR4Bah1eMMSnk7FPudug) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Salvation](https://open.spotify.com/album/22HppaRF9YW1WMxH9kTjyA) | 3:51 |
+| 11 | [Deadweight](https://open.spotify.com/track/4wmOY1zLRlQpUSVRIWprJI) | [VOWER](https://open.spotify.com/artist/4B27SA6MuuYfEbzz1BObjY) | [Deadweight](https://open.spotify.com/album/2mJW2gRshEFANnoiCbhbCU) | 4:13 |
+| 12 | [Grey Mourning \(feat\. Jade Puget\)](https://open.spotify.com/track/6gL36S4NQwLDP6HkW2gb9s) | [Blood Vulture](https://open.spotify.com/artist/0Fj1yT5P3GE8EPaRsTUieo), [Jade Puget](https://open.spotify.com/artist/1S23kG7qUey9n3PFqrHw5k) | [Grey Mourning \(feat\. Jade Puget\)](https://open.spotify.com/album/5ZKNoGlhjlqRcQHZmNL4cQ) | 4:29 |
+| 13 | [Attention](https://open.spotify.com/track/2erLfgbS7MlzO5BUIyOUNR) | [Friends of Friends](https://open.spotify.com/artist/40ok5HAzsmqFmyJnjE37cI) | [Attention](https://open.spotify.com/album/0VDw9A16Uw7H2twsEeSYcZ) | 2:07 |
+| 14 | [In Devastation](https://open.spotify.com/track/3GxCZUgVRSH8SXz9UzItUH) | [Sinsaenum](https://open.spotify.com/artist/4IC0vJuY4fw72mSBesfO5B) | [In Devastation](https://open.spotify.com/album/23Kv3ejTtYMiRmaEawBoVP) | 4:50 |
+| 15 | [24Seven \(feat\. Melrose Avenue\)](https://open.spotify.com/track/1GcqDUHJETSMWIbN2ShwiM) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Melrose Avenue](https://open.spotify.com/artist/21VOqis8anMJTRx6GqI13b) | [24Seven \(feat\. Melrose Avenue\)](https://open.spotify.com/album/72az3xZm3NNPOVlr0miHZz) | 2:55 |
+| 16 | [Row She Said](https://open.spotify.com/track/2lyAT3F7xraaydmQKAj0et) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Row She Said](https://open.spotify.com/album/4XDTrOgQIfPj15VW1zECNq) | 3:31 |
+| 17 | [Fist Full Of Worms](https://open.spotify.com/track/4SRIY4AGBwJc1NgqugZzeY) | [Believe In Nothing](https://open.spotify.com/artist/2mkYfrT58YGRBySZQ7EDnw) | [Fist Full Of Worms](https://open.spotify.com/album/7tbKoOsmBkPZxnTiFtaQ2Z) | 3:05 |
+| 18 | [Phone Call](https://open.spotify.com/track/2W8we1cEUcRfhwbDbutSlC) | [Death Pill](https://open.spotify.com/artist/3qbHwF3dxYHSbz1BC2UuX5) | [Phone Call](https://open.spotify.com/album/3V8C7f1TZfXEA2uJiDHATL) | 3:04 |
+| 19 | [Cri de coeur](https://open.spotify.com/track/6f89e0P6bbjmuCgmGjVZK7) | [The Prestige](https://open.spotify.com/artist/0vqVZAiY4XJe400rsQSzPo) | [Cri de coeur](https://open.spotify.com/album/2cYrEuaqD9S5XWTBqY0pd9) | 6:04 |
+| 20 | [Nothing](https://open.spotify.com/track/3tDFdo1khwU48JA2vVjpL1) | [Blind Equation](https://open.spotify.com/artist/0tPLXpO9Br4cvdm2EF8lWS) | [Nothing](https://open.spotify.com/album/5kcWjHUtCWCNbcHcXq0V6g) | 2:41 |
 
-Snapshot ID: `AAAM25ic5ldfSCBAFt+kHSFIt89Qm6vg`
+Snapshot ID: `AAAM3rImqIHGkJBt6FbUdFgw2ds+PywH`

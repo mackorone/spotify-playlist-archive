@@ -4,7 +4,7 @@
 
 > Reggaeton pero al sabor de Cristo! Foto: Jay Kalyl
 
-185 songs - 11 hr 24 min
+186 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Coronando](https://open.spotify.com/track/2ZOo4S1nhgSzmmKqJFkbAu) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Coronando](https://open.spotify.com/album/0AMXPaVIqLuWmDTmAyXkfv) | 3:43 | 2020-08-28 | 2024-06-26 |
 | [Coronao \(Remix\)](https://open.spotify.com/track/1jb58dibwlo7eOjZGrgiNP) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [R.M.S Rap Misión Santa](https://open.spotify.com/artist/2eIhYvGR0I7QPqFsfE5U1r), [Clerigo RMS](https://open.spotify.com/artist/7GKxQpXcJdUmybVwEuSMub) | [Coronao \(Remix\)](https://open.spotify.com/album/6jycVRgtJn36bLrbDaigrs) | 4:42 | 2020-08-28 | 2024-06-26 |
 | [Cristo Cambia](https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx) | [Llegaron Los Cristianos](https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG) | 2:40 | 2025-04-30 |  |
+| [Cuando Me Ves](https://open.spotify.com/track/0jRyIKI1afOiFsaOxwx63E) | [Junior Delgado Music](https://open.spotify.com/artist/0cVT6RdWUCUZIDu2PN1Brb), [Obedoyoque](https://open.spotify.com/artist/0ZV3RlJLxlSiCjiWO2WFXS), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt), [La Qadra Music](https://open.spotify.com/artist/2bTPXV9qqB8r1ujLb7K19m) | [Cuando Me Ves](https://open.spotify.com/album/2j0dWJIWZjxynM4uBnH2BO) | 2:39 | 2025-05-23 |  |
 | [Cuando Te Busco](https://open.spotify.com/track/0ZI4ue844ftpgHjaOdANLB) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Cuando Te Busco](https://open.spotify.com/album/1qK3RtooARb8tMHjeh8hXp) | 3:29 | 2024-12-11 | 2025-03-01 |
 | [Da'Corner](https://open.spotify.com/track/5LwNC2DrJ0UjdD13Ub8Mad) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Da'Corner](https://open.spotify.com/album/3CneL0S5CG89mc2ZC0aUEA) | 3:44 | 2020-08-28 | 2024-06-26 |
 | [De Buenas](https://open.spotify.com/track/4aza6ni2rG8tp6MiBKAeCe) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [De Buenas](https://open.spotify.com/album/5xCwBhSdQoC3TKY98ApcD0) | 3:25 | 2024-12-11 |  |
@@ -164,7 +165,7 @@
 | [Superé](https://open.spotify.com/track/08qcoqqMipWulibdQqCeAo) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Superé](https://open.spotify.com/album/79OTAEbSUBtSrNpo27hT8q) | 4:20 | 2020-08-28 | 2024-06-26 |
 | [Te Bendeciré](https://open.spotify.com/track/1OBWc30FzvJHFEJaGlN5QE) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Te Bendeciré](https://open.spotify.com/album/59sf5c1YPBH2wxNMjOECQh) | 4:46 | 2024-12-11 |  |
 | [Te Necesito \- Remix](https://open.spotify.com/track/21fY89VrTRDdgavfv5jm9u) | [Samuel Adorno](https://open.spotify.com/artist/18uNULJ5iZf4hIcGq5WvbZ), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Te Necesito \(Remix\)](https://open.spotify.com/album/7JtlXGjAvs41d2cQ6jfhMz) | 5:16 | 2024-12-11 |  |
-| [Tenías Razón](https://open.spotify.com/track/5FUHlcHuan6KcrNaokTNlQ) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF) | [Tenías Razón](https://open.spotify.com/album/6TCZ667caK2F7eybnWpu7s) | 2:14 | 2025-02-28 |  |
+| [Tenías Razón](https://open.spotify.com/track/5FUHlcHuan6KcrNaokTNlQ) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF) | [Tenías Razón](https://open.spotify.com/album/6TCZ667caK2F7eybnWpu7s) | 2:14 | 2025-02-28 | 2025-05-24 |
 | [The Grace](https://open.spotify.com/track/1Gqsa9pacCojrPOO3On8It) | [Casdapro](https://open.spotify.com/artist/3DL44Lztjajt2EnANMCk2X) | [The Grace](https://open.spotify.com/album/0JhC81hi8MQwHtwnLmd0Fl) | 2:13 | 2024-06-25 | 2024-12-12 |
 | [TIEMPOS BUENOS](https://open.spotify.com/track/290xEFjIStrnGFQAe4xnVR) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 3:10 | 2024-12-11 |  |
 | [Toda Gloria](https://open.spotify.com/track/4Soi6SrZ2BWNXAaYBXJiYM) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Toda Gloria](https://open.spotify.com/album/37R6TuehPiLMocUlUQI2Df) | 3:14 | 2024-06-25 | 2024-12-12 |

@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: grentperez
 
-432 songs - 1 day 0 hr 42 min
+433 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Dancing My Way](https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:04 | 2021-12-03 | 2023-01-28 |
 | [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 | 2022-02-25 | 2023-02-16 |
 | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/album/6g0IHMPMy2e0VENropaA4b) | 3:07 | 2022-03-25 | 2024-03-02 |
-| [Daydreaming](https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Daydreaming](https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14) | 3:19 | 2025-03-28 |  |
+| [Daydreaming](https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Daydreaming](https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14) | 3:19 | 2025-03-28 | 2025-05-24 |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-03-31 |  |
 | [Do It](https://open.spotify.com/track/05PwdsH3uVKwunbP3L0QZR) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Do It](https://open.spotify.com/album/3hJMCwzbffy8E1TqVtsZWb) | 3:01 | 2021-12-03 | 2022-07-29 |
 | [Do Re Mi](https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Do Re Mi](https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq) | 2:41 | 2022-01-28 | 2024-03-02 |
@@ -423,6 +423,7 @@
 | [Whisper My Name](https://open.spotify.com/track/31RMjIWGSWCuj6S3CaaBu8) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/0W8Rm6qBMnykppCswQyMTO) | 4:00 | 2021-12-03 | 2022-05-22 |
 | [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 | 2021-12-03 | 2023-01-28 |
 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 | 2025-03-21 |  |
+| [Who Knew Dancing Was A Sin](https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Who Knew Dancing Was A Sin](https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA) | 3:14 | 2025-05-23 |  |
 | [Whoops](https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:28 | 2024-06-07 |  |
 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2021-12-03 | 2023-01-28 |
 | [With A Little Help From My Friends \- Poppin Mix](https://open.spotify.com/track/1m0WIodfeFyevAYuHsWk0w) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [With A Little Help From My Friends](https://open.spotify.com/album/17wWiySB4jS3DBZQaMmGhN) | 2:37 | 2022-01-28 | 2023-08-05 |

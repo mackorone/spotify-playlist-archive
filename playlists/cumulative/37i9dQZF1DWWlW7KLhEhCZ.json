@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Shenlong, SV, Orochi",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: N.A.N.A.",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 144000,
       "name": "2016",
       "url": "https://open.spotify.com/track/4VhIltesJK3LWhex0cRgMX"
+    },
+    {
+      "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/30qXESHr0KuIp3gfuLqZzi"
+      },
+      "artists": [
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/14XmKSlgewQWk9N4nz7ngD"
     },
     {
       "album": {
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 159995,
       "name": "AFTERPARTY",
       "url": "https://open.spotify.com/track/0TUjqkGrfPKD6GFE4W9oAJ"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 240000,
       "name": "ALCATRAZ",
       "url": "https://open.spotify.com/track/5kdXGAW9DuWcNp7Sfw72e7"
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 127042,
       "name": "ATRIZ",
       "url": "https://open.spotify.com/track/0PcDw3WKELbUgHLKhQSOG2"
@@ -7569,6 +7587,28 @@
     },
     {
       "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/4NBMzkzwB16Cojyp2hHGrp"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/7aUbV4k1quxoJS5AubhEqL"
+    },
+    {
+      "album": {
         "name": "TR\u00caS2",
         "url": "https://open.spotify.com/album/2J97EXryA6yvyAK9y5ZOqH"
       },
@@ -9188,6 +9228,24 @@
       "duration_ms": 125901,
       "name": "Dchefe",
       "url": "https://open.spotify.com/track/0fIrZwWPBe4rnili6ECsuN"
+    },
+    {
+      "album": {
+        "name": "DDP",
+        "url": "https://open.spotify.com/album/2DUc1hCzl7JBeX7MxJp49t"
+      },
+      "artists": [
+        {
+          "name": "Mattyahu",
+          "url": "https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136502,
+      "name": "DDP",
+      "url": "https://open.spotify.com/track/51UnLYseIIvjEWJDSixbeC"
     },
     {
       "album": {
@@ -14732,7 +14790,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 197421,
       "name": "Fora de Sp",
       "url": "https://open.spotify.com/track/5eOf60kCLBfEh2VxSJ56f1"
@@ -17976,7 +18034,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 117457,
       "name": "Joias Caras",
       "url": "https://open.spotify.com/track/0Cm0idjtgjvMcrlhh7CadV"
@@ -20987,6 +21045,28 @@
     },
     {
       "album": {
+        "name": "Meia Volta",
+        "url": "https://open.spotify.com/album/2rrtMJ3IW8sDQIckIgeXIz"
+      },
+      "artists": [
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154822,
+      "name": "Meia Volta",
+      "url": "https://open.spotify.com/track/72xAgfV9Suj970c4zzg5b5"
+    },
+    {
+      "album": {
         "name": "Melhor Dia 8: Confia",
         "url": "https://open.spotify.com/album/2XvscC4yr3gfdHFwfngGSZ"
       },
@@ -23430,7 +23510,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 151034,
       "name": "Nois Ta Com o Passe",
       "url": "https://open.spotify.com/track/0AARzhj6D13adhLxWaCWbZ"
@@ -24052,6 +24132,36 @@
       "duration_ms": 225750,
       "name": "n\u00e3o mais",
       "url": "https://open.spotify.com/track/7dSOWUPP9KkixmLRHnmHgL"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o me entrego (vers\u00f5es)",
+        "url": "https://open.spotify.com/album/0UoF88LEAyel6YE4fjaQqf"
+      },
+      "artists": [
+        {
+          "name": "SNIF",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        },
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        },
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193918,
+      "name": "N\u00e3o me entrego",
+      "url": "https://open.spotify.com/track/7dvGKMnDyxEY2wmKRrCoGM"
     },
     {
       "album": {
@@ -26790,6 +26900,32 @@
       "duration_ms": 180000,
       "name": "Piru Marcad\u00e3o",
       "url": "https://open.spotify.com/track/5t8LgC0jHNajpSi3n1AFME"
+    },
+    {
+      "album": {
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "PIR\u00c2MIDE",
+      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
     },
     {
       "album": {
@@ -30485,6 +30621,24 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/0E6T2hpzvXKts6R93vEWOm"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97346,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7c0uOOnaG0jbeG8YkdNOfp"
+    },
+    {
+      "album": {
         "name": "Saudades",
         "url": "https://open.spotify.com/album/6ODl6gQoDKXpSiYvslpCnW"
       },
@@ -31522,7 +31676,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 147692,
       "name": "Sig",
       "url": "https://open.spotify.com/track/54sw768MA6lH07Ygy7y7ME"
@@ -32351,6 +32505,28 @@
     },
     {
       "album": {
+        "name": "Sucesso do Gueto",
+        "url": "https://open.spotify.com/album/1g33eUZQGw6fgzAjYI8reS"
+      },
+      "artists": [
+        {
+          "name": "KOVY",
+          "url": "https://open.spotify.com/artist/0i0cvYipeELJcNl9l8jLLK"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138452,
+      "name": "Sucesso do Gueto",
+      "url": "https://open.spotify.com/track/2rSOQCND0WK7NwMusqqSCh"
+    },
+    {
+      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -32810,7 +32986,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 189333,
       "name": "Tabaco",
       "url": "https://open.spotify.com/track/6E4HbTb30XyQsFY7uW3qfa"
@@ -36194,7 +36370,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 137151,
       "name": "Voc\u00ea Sabe",
       "url": "https://open.spotify.com/track/5Xpj8Z85aR3IjAnC4QAauT"
@@ -36905,6 +37081,40 @@
     },
     {
       "album": {
+        "name": "zaza",
+        "url": "https://open.spotify.com/album/5sUfmDmImKYdl78AbCODyj"
+      },
+      "artists": [
+        {
+          "name": "offshino",
+          "url": "https://open.spotify.com/artist/4N4kqyYIGUt0KAQQFpanfK"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "Tuti",
+          "url": "https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM"
+        },
+        {
+          "name": "NovaChance",
+          "url": "https://open.spotify.com/artist/7gQSUv8yp5lKdxra1Dvk9L"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132964,
+      "name": "zaza",
+      "url": "https://open.spotify.com/track/6Asc5kP4mYUpUXaAqYJV3x"
+    },
+    {
+      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/7Hzb7rsrfyIrKZcYA715AD"
       },
@@ -36994,7 +37204,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 196809,
       "name": "Zero Zero",
       "url": "https://open.spotify.com/track/0FnWtGORbAVaJ6VMfRuymK"

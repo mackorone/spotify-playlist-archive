@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: SNIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,821 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,880 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 17 | [Gia Sena](https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Gia Sena](https://open.spotify.com/album/0xh2nXqadeywn61LgjmOe7) | 2:57 |
 | 18 | [DIEFTHINTIS](https://open.spotify.com/track/1R3ISkeACOnqpDDqsUV8tL) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [DIEFTHINTIS](https://open.spotify.com/album/2KLXS2kXMYkWpqwO6anvAb) | 2:21 |
 | 19 | [BLOUZAKI](https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 |
-| 20 | [FOS STO DROMO](https://open.spotify.com/track/1R3RMMX96zftzTPnboEa6N) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 3:14 |
+| 20 | [FOS STO DROMO](https://open.spotify.com/track/1R3RMMX96zftzTPnboEa6N) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 3:14 |
 | 21 | [MCMG](https://open.spotify.com/track/77Wm22dAxuoUaanH6Rx7aT) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [MCMG](https://open.spotify.com/album/6qmiCrOXBSVeP6ZTg4UF9K) | 2:57 |
 | 22 | [Ola Gia Ola](https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Ola Gia Ola](https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo) | 4:41 |
 | 23 | [No Mercy](https://open.spotify.com/track/51Tml3ct9q8cSQsegHWpdt) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [No Mercy](https://open.spotify.com/album/0bTE9qjXIHrX9swhkMGGvi) | 2:47 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 37 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 |
 | 38 | [KRISTY](https://open.spotify.com/track/7Eo50lcMqtHXAfjVW3ladX) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [GUARANTEE](https://open.spotify.com/album/2nQHKHLCJ7dqjQeld96iFK) | 3:04 |
 | 39 | [FETIX](https://open.spotify.com/track/6pLi4EGcJvdOWBBQ9fDV0e) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [FETIX](https://open.spotify.com/album/0MJLiwidFMsh0VrIujksn7) | 2:26 |
-| 40 | [EISAI KALA?](https://open.spotify.com/track/2E8VKbqDuwa9XWJ35K3nhm) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 3:08 |
+| 40 | [EISAI KALA?](https://open.spotify.com/track/2E8VKbqDuwa9XWJ35K3nhm) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 3:08 |
 | 41 | [ILEGAL](https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [ILEGAL](https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF) | 2:48 |
 | 42 | [ELA ELA](https://open.spotify.com/track/2lByStAOzPu4XHPp7ZPX7V) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [ELA ELA](https://open.spotify.com/album/0MvDvf4Zv43yfDVVlXDGd5) | 2:56 |
 | 43 | [5G](https://open.spotify.com/track/1zFopnWXPb0lWocBU5eSnw) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [5G](https://open.spotify.com/album/5PRrzJZQTL2KeYgLEvBruP) | 3:29 |

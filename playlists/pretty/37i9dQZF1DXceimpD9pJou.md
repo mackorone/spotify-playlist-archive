@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 ### [Todas Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
-> Las mejores nuevas canciones Cristianas\.  Foto: Mosaic MSC
+> Las mejores nuevas canciones Cristianas\.  Foto: Pescao Vivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,450 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,593 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Sígueme](https://open.spotify.com/track/4n5YYbFO6qjaNfqy6IJXHe) | [AGNES](https://open.spotify.com/artist/2RcbIluD3SQIskGL6jx2YI) | [Sígueme](https://open.spotify.com/album/1G3q7qNdVG3V4zHPIBohbv) | 3:58 |
 | 100 | [El Gran Yo Soy \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/track/3nhMMgppBDJ8SzMhRteUtC) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Memorias](https://open.spotify.com/album/2WQT5EY40VXJxnClhRbDR4) | 5:48 |
 
-Snapshot ID: `aCbzYQAAAAAvQbeszJkL5HnQsKAbVIqY`
+Snapshot ID: `aDACEwAAAABVEFiyEP2y4gKcb9SbmBP2`

@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: It All Started In May Artwork: Isu Kim
 
-3,228 songs - 7 day 21 hr 15 min
+3,230 songs - 7 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | ['Keep On Holding On Pt\. 2](https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Paradiso](https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI) | 3:01 | 2024-05-23 | 2024-06-21 |
 | ['Lam Mong Wasak!](https://open.spotify.com/track/5np0AbtU6amknviWyhRkPx) | [Kenji The Plague](https://open.spotify.com/artist/7xPWLmOfBpEW4mCHMwnfLx) | ['Lam Mong Wasak!](https://open.spotify.com/album/3cfbuiHISZYHNDGkkguZgs) | 2:36 | 2023-05-25 | 2023-06-09 |
 | ['TIL THE DAYLIGHT](https://open.spotify.com/track/5wb2sOGuo0NyCIGJuJu0Cr) | [ACE$](https://open.spotify.com/artist/4JJnEFAIo6EiPMfmDVeQtS), [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR) | ['TIL THE DAYLIGHT](https://open.spotify.com/album/14oKoPCchlmdAhEeHJuHl2) | 3:36 | 2022-03-03 | 2022-04-01 |
+| [\(D.I.Y\) DO IT YOURS](https://open.spotify.com/track/0hnDL2kwaTyeHenzh9MjfS) | [Icetizy](https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh), [BABY P.](https://open.spotify.com/artist/7HYJVAHw6q3EO1XzKZILqf), [FULLY LOADED](https://open.spotify.com/artist/1Gut210BB6BEtrhamu5F75), [GOLDSOME](https://open.spotify.com/artist/5tbFoKM16HEWyR0Dllt3Oe), [T\-JAY](https://open.spotify.com/artist/57pcQtB8BmZAmEwgXgcjz7) | [\(D.I.Y\) DO IT YOURS](https://open.spotify.com/album/1nkCx9YFOC5RHYL6bajvj6) | 3:13 | 2025-05-22 |  |
 | [\(I'm So\) Into You](https://open.spotify.com/track/5B2gvzruSHxFbADMNSlTHT) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [\(I'm So\) Into You](https://open.spotify.com/album/2E9QRp6RyeH9uzSqeq3bzc) | 3:46 | 2023-11-02 | 2023-12-09 |
 | [\(Life in Parenthesis\)](https://open.spotify.com/track/0T85vwx6wCLth3TO21uCXw) | [Stephanie Zubiri](https://open.spotify.com/artist/7hYTGQTPWe83vCza935TDi) | [\(Life in Parenthesis\)](https://open.spotify.com/album/3r9HrEIROYMknOZ56XWSw4) | 3:51 | 2025-03-13 | 2025-04-25 |
 | [040412](https://open.spotify.com/track/5JzMweDMqHqkxYGDLEoH8A) | [OG Presko](https://open.spotify.com/artist/3JfCT6OJ0gBsOw0VbKKOJd) | [040412](https://open.spotify.com/album/7Ew9iMLetRzKWfS7aVtPiV) | 1:51 | 2024-11-29 | 2024-12-05 |
@@ -2376,6 +2377,7 @@
 | [Quiet Room](https://open.spotify.com/track/22zxubZJ74fRwA85dkX3yC) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx) | [Quiet Room](https://open.spotify.com/album/6Xz9OaW7rZCyjU2Q6iiJts) | 3:48 | 2022-03-24 | 2022-04-01 |
 | [R U OK?](https://open.spotify.com/track/1FDUxXuLvN0a1FHMg7EyXE) | [Michael Keith](https://open.spotify.com/artist/51YYVvx3m9Sk2GPk2eaT1S) | [R U OK?](https://open.spotify.com/album/0aq3TzzskcZUCe2CU5w0VU) | 3:19 | 2024-08-01 | 2024-08-30 |
 | [Rad Child](https://open.spotify.com/track/2J7zOUpBggWlqIWfcthNfZ) | [8Teen](https://open.spotify.com/artist/42NFOSRcfn6z0CiaYcUica), [Sindirella](https://open.spotify.com/artist/2TxFOzUEP6GYYUjOlQuBVM) | [Rad Child](https://open.spotify.com/album/483CEytwk6vWxaxuUuSUjM) | 4:31 | 2023-06-15 | 2023-07-07 |
+| [Rags2richez](https://open.spotify.com/track/2n5YMuMlXNSBcQ6NPPQN6o) | [Bi$ente](https://open.spotify.com/artist/3zeNbe2tLKH1YsOvBvtCDZ) | [Rags2richez](https://open.spotify.com/album/76IUiAsBn9hQSTTTNFSiks) | 4:49 | 2025-05-22 |  |
 | [rain on me](https://open.spotify.com/track/1fee18mlyrReMegptaJ9pM) | [Ryu Temples](https://open.spotify.com/artist/4apdMdM1s7jhXy4ox4TU6d), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [rain on me](https://open.spotify.com/album/7bgMotfq7ZSwfXJ4HfVH3j) | 2:44 | 2023-07-06 | 2023-07-28 |
 | [Rainbow Coffee](https://open.spotify.com/track/5JMgdosuqGaEEfItCh9gET) | [Dune 32](https://open.spotify.com/artist/09iCssmMxNmpBqYP05TSPU) | [P.S\. \(Party Serenade\)](https://open.spotify.com/album/7APZrZtoXbpRF2nWwVzS54) | 2:45 | 2022-04-07 | 2022-04-22 |
 | [Rainman](https://open.spotify.com/track/5LYel7cXR1MM5A8k0Sao4L) | [G.Lonzo](https://open.spotify.com/artist/1IxojqPnoRQg4l7C2mnJ7l) | [Rainman](https://open.spotify.com/album/5uon23HFPCFWE0dtvyz3He) | 2:57 | 2025-02-14 | 2025-04-04 |

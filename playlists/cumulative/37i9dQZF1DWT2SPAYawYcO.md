@@ -4,7 +4,7 @@
 
 > Brand new music from Alex Warren, Jelly Roll, Burna Boy, Travis Scott, Ruby Fields + more
 
-8,739 songs - 19 day 17 hr 54 min
+8,740 songs - 19 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3869,6 +3869,7 @@
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-24 | 2023-09-01 |
 | [Ice u out](https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [girl EDM](https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu) | 3:23 | 2024-05-16 | 2024-05-24 |
 | [Iced Coffee](https://open.spotify.com/track/3h1ZlYnc7KQo6y3IAW6imf) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Iced Coffee](https://open.spotify.com/album/5W0HY2B1O4Iql7gnsGuMGi) | 2:18 | 2024-11-21 | 2024-11-29 |
+| [Ichiban](https://open.spotify.com/track/4OFkzgZ2nbnMdl0nKx4xtf) | [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Ichiban](https://open.spotify.com/album/3uVg4xESevPRE7xdqHZlJR) | 3:26 | 2025-05-22 |  |
 | [ICNBYH](https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [ICNBYH](https://open.spotify.com/album/4FneHoDgdZFai9ZzwSfVkB) | 3:17 | 2025-02-13 | 2025-02-21 |
 | [idc](https://open.spotify.com/track/7vrfix8RNAHL82knHS4AMh) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [idc](https://open.spotify.com/album/2yY2qhG6BDnalfqmq9y3sK) | 2:52 | 2023-11-16 | 2023-11-24 |
 | [IDC](https://open.spotify.com/track/1nENpJRx06z84gj5Jhk4hw) | [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [IDC](https://open.spotify.com/album/5isDrdtR5nTYcoshIfRJG8) | 2:55 | 2023-11-09 | 2023-11-17 |

@@ -4,13 +4,14 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-239 songs - 16 hr 42 min
+240 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 | 2020-10-30 | 2022-04-09 |
 | [2nd Place](https://open.spotify.com/track/3OSS6R3an41FservLqCpZH) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Stay Rad](https://open.spotify.com/album/5bCLbLEowvZ6GHtC6LCuHz) | 4:58 | 2023-02-17 | 2024-11-23 |
 | [A Message from the Meters](https://open.spotify.com/track/0uV4hoKCnJIlveeJZKhgux) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Jeannie's Getdown](https://open.spotify.com/album/6xzRzbqzsfE3uEkcgZkKrn) | 3:06 | 2020-10-30 | 2022-04-09 |
+| [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 | 2025-05-23 |  |
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 |  |
 | [Africvillean Funk](https://open.spotify.com/track/5xCbruMkIhwhRESa9YBUPr) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:12 | 2022-07-01 | 2024-04-19 |
 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 | 2022-07-01 | 2023-04-30 |
@@ -196,7 +197,7 @@
 | [Strip It](https://open.spotify.com/track/7niZ29ThcE6jGHLxWQIVd6) | [The Niceguys](https://open.spotify.com/artist/2BtdDW3N2t1JbNXLFjoXj5), [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit), [Prop Dylan](https://open.spotify.com/artist/6oVl1muvHp8VLrJ5lv6lBh) | [Strip It](https://open.spotify.com/album/52ieD7PbYx5fJB4jkOd8a9) | 3:12 | 2023-10-20 |  |
 | [Stuff](https://open.spotify.com/track/62jUuzrmyy1QMaPiVsr6mZ) | [Kyle Hollingsworth](https://open.spotify.com/artist/0fzfdKzpTTZIywU3CKRgog), [Kim Dawson](https://open.spotify.com/artist/3WcJ7X5w7FgtCbdzr8pPOF), [Darren Kramer](https://open.spotify.com/artist/5VHHmWeebiauudEnj0YEvR), [Gabriel Mervine](https://open.spotify.com/artist/36zEaPtAj9teSJruKMMWvC), [Drew Sayers](https://open.spotify.com/artist/4nZMEnBFlPhHSNpF02zwce) | [Stuff](https://open.spotify.com/album/0DdaLgAvhG6u4lGeSc3fq0) | 4:47 | 2020-10-30 | 2022-04-09 |
 | [Supa Luv \- Single Edit](https://open.spotify.com/track/1uxbslkj4RMMcMzgjcfCO4) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH), [Terri Green](https://open.spotify.com/artist/4HZ66P83S8A8xzUwnyQv46), [Hermann Behrens](https://open.spotify.com/artist/73bjEl8ZsFAD9bseNBNP8F) | [Supa Luv](https://open.spotify.com/album/1yKfYG8NDgwaKPp07ac52p) | 3:16 | 2024-05-10 |  |
-| [Super Solid Soul Vehicle](https://open.spotify.com/track/1iU70BDVxffXYeY9R9XgNG) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Super Solid Soul Vehicle](https://open.spotify.com/album/3V3LrCNJUo1bhVpO1yuM47) | 4:37 | 2021-03-12 |  |
+| [Super Solid Soul Vehicle](https://open.spotify.com/track/1iU70BDVxffXYeY9R9XgNG) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Super Solid Soul Vehicle](https://open.spotify.com/album/3V3LrCNJUo1bhVpO1yuM47) | 4:37 | 2021-03-12 | 2025-05-24 |
 | [Superstar](https://open.spotify.com/track/62cpkcxwJTpfX5PYSiyBEn) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Superstar](https://open.spotify.com/album/1QHjv73OxqWy8AoUVI3i2n) | 4:51 | 2020-10-30 | 2022-04-09 |
 | [Superstatic](https://open.spotify.com/track/50PHCDLzmVxGqkMXFYOZGN) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Superstatic](https://open.spotify.com/album/7mKOHy8pzENnuoQn5FYZys) | 4:05 | 2020-10-30 | 2022-04-09 |
 | [Tequila](https://open.spotify.com/track/3NuoTeIShELS6qTu2I71oS) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [Shake Your Money](https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r) | 3:54 | 2020-10-30 | 2022-04-09 |

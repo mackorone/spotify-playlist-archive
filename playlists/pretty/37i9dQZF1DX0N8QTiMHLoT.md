@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,963 likes - 90 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,986 likes - 90 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Slapageddon](https://open.spotify.com/track/67silxixfmq4O2KBZTwrT2) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Slapageddon](https://open.spotify.com/album/4nD2AKVdc8SQ9Fgg6ibZCq) | 2:16 |
+| 1 | [Slapocalypse Reborn](https://open.spotify.com/track/1Bqwr14lwvzUmIkvXZ2Z8W) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Alex Hutchings](https://open.spotify.com/artist/1qgI5ZUZuPXqVDylA1vt4j), [Tom Quayle](https://open.spotify.com/artist/4RgDxIZczeVdhT1gOIdJA3), [Ben Romano](https://open.spotify.com/artist/1IPYdDrCMmemkV00h0ddJb), [Danny Sapko](https://open.spotify.com/artist/1NgGrppqqB4K7frhzs1RGD), [Kahil Ferraris](https://open.spotify.com/artist/3ITfYlwQbhB7vrvCYWsLhN), [Marco Baldi](https://open.spotify.com/artist/6JwPTOpFvE42mK3LtPL8gd), [Peter Luha](https://open.spotify.com/artist/467JXUyvdp874McCFZGx0Z) | [Slapocalypse Reborn](https://open.spotify.com/album/2adrSp5rUSisnBg6RenKDU) | 2:43 |
 | 2 | [New Beastly](https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [New Beastly](https://open.spotify.com/album/2vkO4H8COwHd3CPEtC0I4t) | 4:11 |
 | 3 | [Bringing It Down to the Bass](https://open.spotify.com/track/03wJyKd87QKIz3q2KnPIjm) | [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH), [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy), [Alex Foster](https://open.spotify.com/artist/1FOmilcr94cgU8VTgZ02RV) | [Bringing It Down to the Bass](https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir) | 5:34 |
 | 4 | [Silly Putty](https://open.spotify.com/track/6lmJXCIzXrTrV2VKX6AckU) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [Silly Putty](https://open.spotify.com/album/3H3ccGDt74f1vAYQffYzoF) | 4:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 89 | [Aeon](https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H) | [We Are All You \(Extended Edition\)](https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr) | 2:22 |
 | 90 | [Twilight \- Radio Edit](https://open.spotify.com/track/5cKoSv9uuKyRYb1rWa665T) | [Mitchell Coleman Jr](https://open.spotify.com/artist/0LDxl2T9yhlXFXVq4DAS6b) | [Twilight](https://open.spotify.com/album/5o1AgueoytBvJOnvd62Gi3) | 4:24 |
 
-Snapshot ID: `Z8FC/QAAAABu7x8wbIPDR5AD3jP/aeNQ`
+Snapshot ID: `aDDiNwAAAAC6/gW3LFeFLzJbZ2429kvZ`

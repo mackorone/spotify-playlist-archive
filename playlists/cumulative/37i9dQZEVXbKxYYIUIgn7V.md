@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-1,754 songs - 3 day 14 hr 5 min
+1,755 songs - 3 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1364,7 +1364,7 @@
 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 | 2024-01-30 | 2024-02-01 |
 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 | 2024-10-01 | 2024-10-18 |
 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 | 2024-04-30 | 2024-05-06 |
-| [Shabab\(e\)s im VIP](https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [grünewürfelflow](https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv) | 1:55 | 2025-05-20 |  |
+| [Shabab\(e\)s im VIP](https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [grünewürfelflow](https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv) | 1:55 | 2025-05-20 | 2025-05-24 |
 | [Shadow](https://open.spotify.com/track/28DPhVcDjE7MoBAfECyyUI) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Vertigo](https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg) | 3:21 | 2024-12-29 | 2024-12-31 |
 | [Shadow](https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey](https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K) | 2:37 | 2024-03-26 | 2024-04-17 |
 | [Shake It](https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Shake It](https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ) | 2:24 | 2024-12-09 | 2025-01-29 |
@@ -1711,6 +1711,7 @@
 | [wunderschön](https://open.spotify.com/track/2Bi7IhhjS7ZgzSe7FMaHs1) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [wunderschön](https://open.spotify.com/album/4S6wMQKfcUq1hCj1wt7FVV) | 2:44 | 2025-04-02 | 2025-04-05 |
 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-15 | 2024-08-18 |
 | [WW3](https://open.spotify.com/track/1XMQl1X1rpfqdSAg0UJqTS) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [WW3](https://open.spotify.com/album/1swjwGPv1aHBed9jy9ASDk) | 1:43 | 2025-04-25 | 2025-05-23 |
+| [WW3](https://open.spotify.com/track/4uBbeKZTXNRRV4bMIcKx45) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [WW3](https://open.spotify.com/album/4mR2wE9umceVbQXeax2xvs) | 1:44 | 2025-05-23 |  |
 | [WZF?! 2.4](https://open.spotify.com/track/3ygJYMQVJblPotwf7ci1A9) | [Das Lumpenpack](https://open.spotify.com/artist/1yoERhqOE1iKKzKELHhEWM), [Alligatoah](https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb) | [WZF?! 2.4](https://open.spotify.com/album/5kWuJDVzajDUMnmeY6LQTV) | 3:45 | 2024-10-15 | 2024-10-30 |
 | [Y\-3 x Shababs Botten](https://open.spotify.com/track/7icJUZLZXNag4LVJBnHRux) | [prod.67](https://open.spotify.com/artist/3wKcnxVgBBbeR3yIVOReYS), [67.ege](https://open.spotify.com/artist/1qTvjIrzZW0sOne2lRbnOj) | [Y\-3 x Shababs Botten](https://open.spotify.com/album/4AyMtiPy1X4TfKipAbwgwQ) | 2:10 | 2024-09-19 | 2024-09-25 |
 | [Y\-3 X Shababs Botten](https://open.spotify.com/track/0Nkgdg43f9wGgOx1O4aE7S) | [subbtrahiert](https://open.spotify.com/artist/2o55cg9WRjdVKZK4qGqCEA), [Nousey Beats](https://open.spotify.com/artist/2Hh6sLrJ1ugJFpqkEGIHlW) | [Y\-3 X Shababs Botten](https://open.spotify.com/album/4B7ZuC9DlwNN93oJb31grU) | 2:10 | 2024-09-25 | 2024-10-16 |

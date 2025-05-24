@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 253702,
       "name": "Historia de Amor",
       "url": "https://open.spotify.com/track/7JbXcqksdCJq12cbj1lPce"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 139081,
       "name": "Karamanduka",
       "url": "https://open.spotify.com/track/5vro5fQlVcklzry0BsfjVM"
@@ -3351,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Mi nena",
+        "url": "https://open.spotify.com/album/0y0uxUtH57bWINrULxDZdu"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164193,
+      "name": "Mi nena",
+      "url": "https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN"
+    },
+    {
+      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
@@ -4696,7 +4714,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 204403,
       "name": "RA",
       "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
@@ -6050,6 +6068,24 @@
       "duration_ms": 182679,
       "name": "Vuelta en U",
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
+    },
+    {
+      "album": {
+        "name": "Historia de Amor",
+        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
+      },
+      "artists": [
+        {
+          "name": "Franno",
+          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214990,
+      "name": "Vuelve con \u00c9l",
+      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
     },
     {
       "album": {

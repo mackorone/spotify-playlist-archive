@@ -6063,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "Siste farvel",
+        "url": "https://open.spotify.com/album/5qy2NCz2kL0hBwDlLYftjS"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176436,
+      "name": "Siste farvel",
+      "url": "https://open.spotify.com/track/45UXXykuHGkwKAGIctXfu7"
+    },
+    {
+      "album": {
         "name": "Slide Away",
         "url": "https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E"
       },

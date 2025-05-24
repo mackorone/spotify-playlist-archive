@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 107897,
+  "num_followers": 107939,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAC3HkvUiyS1Jl35ukkKdpy9",
+  "snapshot_id": "aC5pAAAAAACJUEYpbPATvi8j/bhJa95/",
   "tracks": [
     {
       "added_at": null,
@@ -475,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
       },
       "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 162626,
-      "name": "Me Gusta Tener de a Dos",
-      "url": "https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A"
+      "duration_ms": 212053,
+      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
+      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
     },
     {
       "added_at": null,
@@ -507,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
       "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 212053,
-      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
-      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
+      "duration_ms": 162626,
+      "name": "Me Gusta Tener de a Dos",
+      "url": "https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A"
     },
     {
       "added_at": null,

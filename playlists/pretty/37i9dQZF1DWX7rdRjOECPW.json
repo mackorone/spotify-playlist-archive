@@ -1,6 +1,6 @@
 {
   "description": "Bald ist Sommer \u2600\ufe0f",
-  "num_followers": 1522158,
+  "num_followers": 1522198,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
+    },
+    {
+      "added_at": "2025-05-22 15:53:34",
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-    },
-    {
-      "added_at": "2025-05-22 15:53:34",
-      "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c"
-    },
-    {
-      "added_at": "2025-05-22 15:53:34",
-      "album": {
         "name": "Have You Ever Seen The Rain",
         "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 125109,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
+    },
+    {
+      "added_at": "2025-05-22 15:53:34",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        }
-      ],
-      "duration_ms": 158161,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
-    },
-    {
-      "added_at": "2025-05-22 15:53:34",
-      "album": {
         "name": "By Your Side (In My Mind)",
         "url": "https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 177148,
       "name": "By Your Side (In My Mind)",
       "url": "https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89"
+    },
+    {
+      "added_at": "2025-05-22 15:53:34",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        }
+      ],
+      "duration_ms": 158161,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -1475,26 +1475,18 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Graham Candy",
-          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
-        },
-        {
-          "name": "Lahos",
-          "url": "https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2"
+      "duration_ms": 153100,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -1519,18 +1511,26 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        },
+        {
+          "name": "Lahos",
+          "url": "https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w"
         }
       ],
-      "duration_ms": 153100,
-      "name": "Simple Life",
-      "url": "https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD"
+      "duration_ms": 153103,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2"
     },
     {
       "added_at": "2025-05-22 15:53:34",

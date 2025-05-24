@@ -1,67 +1,267 @@
 {
-  "description": "<a href=\"spotify:artist:12LgviUQ9DbfYJJ9niDWRq\">Walter Trout</a> is taking over to share his blues favorites",
-  "num_followers": 471109,
-  "original_name": "In the Name of the Blues: Walter Trout Takeover",
+  "description": "<a href=\"spotify:artist:1aTDTChWWyiJH3SEnYrdVp\">Taj Mahal</a> and <a href=\"spotify:artist:6iDaoPZVgxrTkndDCisX8F\">Keb' Mo'</a> are taking over to share their blues favorites",
+  "num_followers": 471145,
+  "original_name": "In the Name of the Blues: Taj Mahal & Keb' Mo' Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZowunQAAAABE+XHggZXiFWTi79mK0pgS",
+  "snapshot_id": "AAAAANFvxsjOclIwQ0XQtq6+gfbjuYao",
   "tracks": [
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+        "name": "Room On The Porch [Feat. Ruby Amanfu]",
+        "url": "https://open.spotify.com/album/0JfWoPk879EM5WZDjlbpCH"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Born in Chicago",
-      "url": "https://open.spotify.com/track/0dvPuXBdAudLyBnCmYYu68"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "Dark Was the Night, Cold Was the Ground",
-      "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/2wPwMww3vLuD5vh5a0krZw"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         },
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
         }
       ],
-      "duration_ms": 290007,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/3dhamjUEZo7psHbg8w4pRJ"
+      "duration_ms": 245482,
+      "name": "Room On The Porch [Feat. Ruby Amanfu]",
+      "url": "https://open.spotify.com/track/7pP1IYTzfviqtXtXEjy4ae"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "I'm Jimmy Reed",
+        "url": "https://open.spotify.com/album/4dWBAPMMPEkot90oS5h4UY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "You Don't Have To Go",
+      "url": "https://open.spotify.com/track/5WiDYbAx2kqcf1QvSGypDX"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Leaps And Bounds",
+        "url": "https://open.spotify.com/album/7BPFyFzT4e9dxYFQ1QRo6n"
+      },
+      "artists": [
+        {
+          "name": "Bill Doggett",
+          "url": "https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Honky Tonk Pt. 1",
+      "url": "https://open.spotify.com/track/17vPHgh4mReVZZNKEoTqmB"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Leaps And Bounds",
+        "url": "https://open.spotify.com/album/7BPFyFzT4e9dxYFQ1QRo6n"
+      },
+      "artists": [
+        {
+          "name": "Bill Doggett",
+          "url": "https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY"
+        }
+      ],
+      "duration_ms": 156226,
+      "name": "Honky Tonk Pt 2",
+      "url": "https://open.spotify.com/track/0glCNGEoJQKfNS96TgW9oJ"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "My Darling My Dear",
+        "url": "https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 260653,
+      "name": "Junkyard Dog",
+      "url": "https://open.spotify.com/track/6B4jSkEcmSsckivT1KjTPX"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 268346,
+      "name": "Diving Duck Blues",
+      "url": "https://open.spotify.com/track/53pwDJrjKebdQdPKoluuQz"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "The Genius Sings the Blues",
+        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "The Right Time",
+      "url": "https://open.spotify.com/track/1piX68vNesm5gA3ZRM3z6Y"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Rockin\u2019 Classics",
+        "url": "https://open.spotify.com/album/4ySPLzGC1NUc78dp9IoFYV"
+      },
+      "artists": [
+        {
+          "name": "Ray Sharpe",
+          "url": "https://open.spotify.com/artist/4Tnu2xPRWy7IsD0ja3WP7D"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Linda Lu",
+      "url": "https://open.spotify.com/track/5eFtAb55Lmb9wj739PBi0O"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Little Brother Montgomery (1930-1954)",
+        "url": "https://open.spotify.com/album/0FDwQ6Uy56ez9wsm6gsdrx"
+      },
+      "artists": [
+        {
+          "name": "Little Brother Montgomery",
+          "url": "https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Vicksburg Blues",
+      "url": "https://open.spotify.com/track/38XrBJszxnGA5y6jZnrsAP"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "My Darling My Dear",
+        "url": "https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "My Darling My Dear",
+      "url": "https://open.spotify.com/track/74B59u2Q87CZ2IJFKirdpM"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Oh Me, Oh My",
+        "url": "https://open.spotify.com/album/5iH7mjO3slFhxigRPVTb5i"
+      },
+      "artists": [
+        {
+          "name": "Jessie Hill",
+          "url": "https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Ooh Poo Pah Doo, Part 1",
+      "url": "https://open.spotify.com/track/2LZ670fNl1hhi58pP9my0Q"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Shake For Me",
+      "url": "https://open.spotify.com/track/5kj3Q1fVwgb2f8SxFT6bD5"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Music Fuh Ya' (Musica Para Tu)",
+        "url": "https://open.spotify.com/album/5WpJGo7sLd1zGx4CjWSQ71"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 286333,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/53oVXPr7TTjvrAq2xQ5zqr"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Room On The Porch",
+        "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Wendy Moten",
+          "url": "https://open.spotify.com/artist/6X0dG1JElAP4z0ardgJGjY"
+        }
+      ],
+      "duration_ms": 303765,
+      "name": "Better Than Ever [Feat. Wendy Moten]",
+      "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
       "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
@@ -72,435 +272,251 @@
           "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Rollin' & Tumblin'",
-      "url": "https://open.spotify.com/track/0kmGmyuZpjRRdcz5dk4PDL"
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 324733,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
+      "duration_ms": 187773,
+      "name": "Blues With A Feeling",
+      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "Climbing!",
-        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
       },
       "artists": [
         {
-          "name": "Mountain",
-          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 151293,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+      "duration_ms": 301373,
+      "name": "Don't Leave Me Here",
+      "url": "https://open.spotify.com/track/6YYGRnnA5b9H2WP130ITPd"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "Battle Scars (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3wbemnknELSpKiGkS4dBcY"
+        "name": "Blues Jam in Chicago, Vol. 2",
+        "url": "https://open.spotify.com/album/0wLDpHkO9TN4SPeysHnajk"
       },
       "artists": [
         {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 337520,
-      "name": "Almost Gone",
-      "url": "https://open.spotify.com/track/6Yn5fMEVs0hhtzBEZsvyUM"
+      "duration_ms": 346426,
+      "name": "Hungry Country Girl",
+      "url": "https://open.spotify.com/track/3kBTC2FUe4Wd5oMj3NlwNn"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
       "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Howlin' For My Darlin'",
+      "url": "https://open.spotify.com/track/4LYZ56NfIsuIizQewrfEr9"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Room On The Porch",
+        "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 222098,
+      "name": "Nobody Knows You When You\u2019re Down And Out",
+      "url": "https://open.spotify.com/track/0yolueQDOjP2AtvD3vJw6K"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "If I Had My Way: Early Home Recordings",
+        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 286426,
+      "name": "If I Had My Way",
+      "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Father Of The Delta Blues: The Complete 1965 Sessions",
+        "url": "https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk"
+    },
+    {
+      "added_at": "2025-05-23 13:17:04",
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 383200,
-      "name": "A Man And The Blues",
-      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
+      "duration_ms": 236466,
+      "name": "Good Morning Schoolgirl",
+      "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "Nonplusultra - Rock",
-        "url": "https://open.spotify.com/album/7aC1J4bXfkRe5379eNsdRi"
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
       "artists": [
         {
-          "name": "Moby Grape",
-          "url": "https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 139013,
-      "name": "Omaha",
-      "url": "https://open.spotify.com/track/2rMFw4RKfdUZxNTw7D4rm2"
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "Ordinary Madness",
-        "url": "https://open.spotify.com/album/3JJD7rE9C5upqXiE1WSstr"
+        "name": "Blues At Home 2",
+        "url": "https://open.spotify.com/album/7p6xBQmWvYoO7JK4Obdtkc"
       },
       "artists": [
         {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+          "name": "Sam Chatmon",
+          "url": "https://open.spotify.com/artist/43zvSKiJXk1dzluo4Vum5J"
         }
       ],
-      "duration_ms": 391306,
-      "name": "All Out Of Tears",
-      "url": "https://open.spotify.com/track/1XaT6J8S7NxuqowON5gDNv"
+      "duration_ms": 214413,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/5o70eqFclRStLVu1gBMgs1"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "Who Else!",
-        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Brush with the Blues",
-      "url": "https://open.spotify.com/track/5MsvQCtWYbA16F5OFIX1AY"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "You Don't Know the Blues",
-      "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 200704,
-      "name": "Live Strong",
-      "url": "https://open.spotify.com/track/2vwTMItwEoXCJj0GpN3f6f"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/63HcrN85osouBEC9p1ZfLH"
-      },
-      "artists": [
-        {
-          "name": "Danny Bryant",
-          "url": "https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn"
-        }
-      ],
-      "duration_ms": 172523,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/5YGkR1hpo8k5pTaNjrMezW"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Chicago Line",
-        "url": "https://open.spotify.com/album/4Kde1khLv8Xs8qbdcj3Tx5"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "One Life To Live",
-      "url": "https://open.spotify.com/track/2vXPju3PsyINz4ZSmndNWg"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/3XXt7jo30yi07AseATCdby"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 242258,
-      "name": "Falls Apart",
-      "url": "https://open.spotify.com/track/6pRzBtnH4R3SwKyQVPMhlz"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Canned Heat",
-        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/6U7gN4xpuuNFKJhE0WImuw"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Weight of the World",
-        "url": "https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Waking Up the Dead",
-      "url": "https://open.spotify.com/track/6OMYFGOOTgfC7hyv2Eiie7"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "War In My Mind",
-        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 238928,
-      "name": "Sugar Shack",
-      "url": "https://open.spotify.com/track/7aYUwUxQgSBwtJur3XDNjr"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Harlem",
-        "url": "https://open.spotify.com/album/40eXcTxKtRRv68e4g6k29k"
-      },
-      "artists": [
-        {
-          "name": "King Solomon Hicks",
-          "url": "https://open.spotify.com/artist/1kwMZiFnFBuniUpHpNHEds"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "421 South Main",
-      "url": "https://open.spotify.com/track/4Pu2Es4ayOB4VneMuhUsOe"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Life Is Hard",
-        "url": "https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 292386,
-      "name": "Nobody Moves Me Like You Do",
-      "url": "https://open.spotify.com/track/5onbRnL3JLv37ICf4Stjfr"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/4R4gKKq06GNityZMTHGdVo"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Dirt On My Diamonds, Vol. 1",
-        "url": "https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Dirt On My Diamonds",
-      "url": "https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 220974,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Death Valley Paradise",
-        "url": "https://open.spotify.com/album/64YWR8ekaKvFbFc3cSzkbe"
-      },
-      "artists": [
-        {
-          "name": "Kris Barras Band",
-          "url": "https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv"
-        }
-      ],
-      "duration_ms": 230111,
-      "name": "These Voices",
-      "url": "https://open.spotify.com/track/7hakZtqzXWZ38vMcRd9LmA"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "West Of Flushing, South Of Frisco",
-        "url": "https://open.spotify.com/album/2GShlVogGOk1HyGmHelTDF"
-      },
-      "artists": [
-        {
-          "name": "Supersonic Blues Machine",
-          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         },
         {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 161306,
-      "name": "Running Whiskey",
-      "url": "https://open.spotify.com/track/1C13yaQ2km1s6BEuCN2W3l"
+      "duration_ms": 202160,
+      "name": "All Around The World",
+      "url": "https://open.spotify.com/track/6ZeSrUdJ9sqZI3Qs5dftoc"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "We're All In This Together",
-        "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
+        "name": "Presenting Tampa Red",
+        "url": "https://open.spotify.com/album/0rkgubKMe8PInoXKK5NWcU"
       },
       "artists": [
         {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        },
-        {
-          "name": "Jon Trout",
-          "url": "https://open.spotify.com/artist/2xMoMWcwSLKgRvLDHq6yT4"
+          "name": "Tampa Red",
+          "url": "https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg"
         }
       ],
-      "duration_ms": 262693,
-      "name": "Do You Still See Me At All",
-      "url": "https://open.spotify.com/track/6ogTXpbWZAHqKjxs6akFs8"
+      "duration_ms": 172493,
+      "name": "You Can't Get That Stuff No More",
+      "url": "https://open.spotify.com/track/15co8gy9duJ3D0bRgVqddi"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-05-23 13:17:04",
       "album": {
-        "name": "Levee Town",
-        "url": "https://open.spotify.com/album/2OjQfeMEfVK3B2r7lT3YJN"
+        "name": "Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935",
+        "url": "https://open.spotify.com/album/1Q2F3ap707VLHoqmMq3DGp"
       },
       "artists": [
         {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/3l4HdjB4azgGjltvL9ov5Y"
         }
       ],
-      "duration_ms": 249133,
-      "name": "Pedal To the Metal",
-      "url": "https://open.spotify.com/track/0G9j4ORbupmxMe02m7a1lh"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "I Want To Shout About It",
-      "url": "https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS"
+      "duration_ms": 152853,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/05Fqtv0hpBriJj803R6x8i"
     }
   ],
-  "unique_name": "In the Name of the Blues: Walter Trout Takeover",
+  "unique_name": "In the Name of the Blues: Taj Mahal & Keb' Mo' Takeover",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV"
 }

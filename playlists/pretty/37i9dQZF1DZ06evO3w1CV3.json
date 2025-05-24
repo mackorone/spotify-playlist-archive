@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 28706,
+  "num_followers": 28731,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAABEP8+J2Hw7CUfuZaIm9Esw",
+  "snapshot_id": "aC5pAAAAAADTYN9iS5OF22xnOW9/GH5V",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/44gBofMgplbG0f1XQwTraO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE NEW WORLD",
         "url": "https://open.spotify.com/album/7mNF4Ef0UZpZyOc9NTOmx1"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 309093,
       "name": "HOW I'VE BEEN (feat. Joy Crookes, JNR Williams, Loyle Carner & Kojey Radical)",
       "url": "https://open.spotify.com/track/0WfENrbos3cdD4TZaT4tEk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perception EP",
-        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Darkest Hour",
-      "url": "https://open.spotify.com/track/44gBofMgplbG0f1XQwTraO"
     },
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },
       "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 183151,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
+      "duration_ms": 201933,
+      "name": "Strength (R U Ready) [feat. Joy Crookes]",
+      "url": "https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz"
     },
     {
       "added_at": null,
@@ -475,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
       },
       "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Strength (R U Ready) [feat. Joy Crookes]",
-      "url": "https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz"
+      "duration_ms": 183151,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
     },
     {
       "added_at": null,

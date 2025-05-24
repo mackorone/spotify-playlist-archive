@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63139,
+  "num_followers": 63164,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
       "added_at": "2022-01-11 02:50:37",
       "album": {
         "name": "Con Sabor a M\u00e9xico",
@@ -55,6 +39,22 @@
       "duration_ms": 271053,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -141,20 +141,20 @@
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2023-01-07 01:43:47",
       "album": {
-        "name": "Tino Contreras",
-        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 168198,
-      "name": "Orfeo en los Tambores",
-      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -173,20 +173,20 @@
       "url": "https://open.spotify.com/track/1nvgi76oESzmuaLUto6eqp"
     },
     {
-      "added_at": "2023-01-07 01:43:47",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "Tino Contreras",
+        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+      "duration_ms": 168198,
+      "name": "Orfeo en los Tambores",
+      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
     },
     {
+      "added_at": "2023-03-16 20:51:30",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Retazos",
@@ -309,22 +325,6 @@
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
-    },
-    {
       "added_at": "2024-08-29 03:09:23",
       "album": {
         "name": "Tlapaler\u00eda Don Chuy",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
     },
     {
-      "added_at": "2023-03-16 20:51:30",
+      "added_at": "2023-04-12 01:24:34",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -499,6 +483,22 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Vientos Del Norte",
-        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Valor De Volar",
-      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "So\u00f1e - Jazz Mexicano",
         "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Vientos Del Norte",
+        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Valor De Volar",
+      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
     },
     {
       "added_at": "2021-07-28 16:44:28",

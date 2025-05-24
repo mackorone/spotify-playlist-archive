@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,624 songs - 4 day 2 hr 12 min
+1,625 songs - 4 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Machagama \(平安名のマチャガマ\)](https://open.spotify.com/track/4Qxwp7wq2tpbnrmHIJaxl8) | [HARIKUYAMAKU](https://open.spotify.com/artist/2RANRmuadtyn5Pb3bX1Ih0) | [Machagama](https://open.spotify.com/album/0Gb5oTPO3RCY64SztMHhes) | 4:20 | 2023-07-18 | 2023-07-26 |
 | [mad cooking machine](https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [mad cooking machine](https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU) | 3:05 | 2024-01-30 | 2024-02-14 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-26 | 2022-06-29 |
+| [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 |  |
 | [Made him cry](https://open.spotify.com/track/1oCRbUky5RypOeKKAKCRBS) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Made him cry](https://open.spotify.com/album/1edNAj94b5QsfldraHrJnb) | 2:50 | 2024-04-12 | 2024-04-19 |
 | [Made him cry](https://open.spotify.com/track/3U5ID8XObI90bi4EIvGQ5Y) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Made him cry](https://open.spotify.com/album/5GFe4zpqYQ3UCnH2IvBjnV) | 2:50 | 2024-04-16 | 2024-05-15 |
 | [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 | 2023-10-18 |
@@ -1313,7 +1314,7 @@
 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 | 2023-09-20 | 2023-10-25 |
 | [わたし、蝶々。](https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [わたし、蝶々。](https://open.spotify.com/album/4GPiPfhjaCQWNbo8EgtEQp) | 4:24 | 2024-03-05 | 2024-04-13 |
 | [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-06 | 2023-09-09 |
-| [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 | 2024-12-10 |  |
+| [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 | 2024-12-10 | 2025-05-24 |
 | [アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:31 | 2024-04-12 | 2025-01-22 |
 | [アンダーザサン](https://open.spotify.com/track/2DvpmT2AdkIYMzjLJtDE5N) | [鉄火](https://open.spotify.com/artist/22p4GZWnJAirONhy0SupZI) | [アンダーザサン](https://open.spotify.com/album/7a32W586FUM4q07jkJFM0V) | 2:26 | 2024-01-09 | 2024-01-17 |
 | [イマジン](https://open.spotify.com/track/4feGdGnL0YIUhEQbiQLhTn) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [イマジン](https://open.spotify.com/album/610DjzHmV6tPQhsZxp4mQN) | 3:56 | 2024-01-30 | 2024-02-07 |

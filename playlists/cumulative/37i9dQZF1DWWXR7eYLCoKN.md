@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-163 songs - 9 hr 36 min
+164 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Na Linha do Mar](https://open.spotify.com/track/42aSI7u7ppT7euMshF3qUM) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Cantoras do Brasil \(Coleção Canal Brasil\)](https://open.spotify.com/album/6ZVb6XSNhEM3bEHOGOUxKQ) | 3:12 | 2024-01-19 |  |
 | [Na Linha do Mar](https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cantoras do Brasil](https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI) | 3:12 | 2023-07-28 | 2024-04-19 |
 | [NASCENTE DA PAZ](https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Manual Prático Do Novo Samba Tradicional, Vol\. 2: TIA DARCI](https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7) | 3:53 | 2025-01-30 | 2025-04-05 |
+| [Nem Lá, Nem Cá](https://open.spotify.com/track/4ofq9YFrrZEdc8K0hYmG83) | [Cleber Augusto](https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Minhas Andanças \(Completo\)](https://open.spotify.com/album/7ms6TgkVh9MYlaIG1crwSs) | 4:04 | 2025-05-23 |  |
 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 | 2023-04-28 |  |
 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Voz Do Samba](https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4) | 4:26 | 2024-01-19 |  |
 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Samba Social Clube](https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8) | 4:28 | 2023-07-28 | 2024-04-19 |
@@ -116,7 +117,7 @@
 | [Pode Ser](https://open.spotify.com/track/2opMS46C0A83CbZUrImjKS) | [Orquestra Imperial](https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Fazendo as Pazes Com o Swing](https://open.spotify.com/album/1WG25Pe3FbldwSOhv0AzO8) | 3:10 | 2023-07-28 | 2024-04-19 |
 | [Preciso Me Encontrar](https://open.spotify.com/track/5AKrqJ7RiOCfCaaCuxxGk0) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1976\)](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b) | 2:58 | 2024-01-19 | 2025-01-05 |
 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 | 2023-04-28 | 2024-04-19 |
-| [Princípio, Meio e Fim](https://open.spotify.com/track/1DdX2dJfr2xrwvh3PxXkuZ) | [Camilla Araujo](https://open.spotify.com/artist/62NqspbrWjKE0LG4hihjHg), [Serginho Meriti](https://open.spotify.com/artist/6EH4BjCKPhFfbzFaErcbXI), [Leàndro Máttos](https://open.spotify.com/artist/4ICyNLr5zrJ4BO6bM7P8iO) | [Princípio, Meio e Fim](https://open.spotify.com/album/7hvbQZR2cEykFbhb5Og0V0) | 3:51 | 2025-01-04 |  |
+| [Princípio, Meio e Fim](https://open.spotify.com/track/1DdX2dJfr2xrwvh3PxXkuZ) | [Camilla Araujo](https://open.spotify.com/artist/62NqspbrWjKE0LG4hihjHg), [Serginho Meriti](https://open.spotify.com/artist/6EH4BjCKPhFfbzFaErcbXI), [Leàndro Máttos](https://open.spotify.com/artist/4ICyNLr5zrJ4BO6bM7P8iO) | [Princípio, Meio e Fim](https://open.spotify.com/album/7hvbQZR2cEykFbhb5Og0V0) | 3:51 | 2025-01-04 | 2025-05-24 |
 | [Prova Dos Nove](https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:32 | 2023-04-28 | 2024-04-19 |
 | [Prova dos Nove](https://open.spotify.com/track/7KXjiSy1p54I0EIxW1zcwx) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/3hXXMdT2z0lunHoz5KalQY) | 4:32 | 2024-01-19 | 2024-09-28 |
 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 | 2023-04-28 |  |

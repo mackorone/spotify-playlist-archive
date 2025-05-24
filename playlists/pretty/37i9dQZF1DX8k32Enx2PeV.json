@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 13244,
+  "num_followers": 13256,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 256847,
       "name": "Quiromancia (feat. Vic Mirallas)",
       "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1249,26 +1249,6 @@
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
     },
     {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
-    },
-    {
       "added_at": "2024-10-25 03:08:26",
       "album": {
         "name": "Museo",
@@ -1287,6 +1267,26 @@
       "duration_ms": 165923,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
     },
     {
       "added_at": "2024-08-09 04:23:31",

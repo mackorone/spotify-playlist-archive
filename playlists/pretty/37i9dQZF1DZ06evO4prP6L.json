@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17359,
+  "num_followers": 17358,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAABU7bE4B33nFNXwoUH7XwJo",
+  "snapshot_id": "aC5pAAAAAAAWZYzR6joqB8z0Igvyc8Sm",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Hat Town - Remastered 2017",
+      "url": "https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2ArOZ03jowNHxbbnmkwc4A"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 204000,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/6G5tFKEf5pcWwV4frnavIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hat Town",
-        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Hat Town - Remastered 2017",
-      "url": "https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "I Was Only 19 (A Walk in the Green Light)",
-      "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4zxVQlfTfrEFNmQTHYjF1X"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 210938,
       "name": "Lights on the Hill",
       "url": "https://open.spotify.com/track/0Odp6NXvX6Rhq6tiRJbkCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "I Was Only 19 (A Walk in the Green Light)",
+      "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "When the First Bombs Fell",
-      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Rodeo",
         "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 193146,
       "name": "Something in the Water - Remastered 2017",
       "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "When the First Bombs Fell",
+      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1959",
-        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Skinny Dippin' - Remastered 2017",
-      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 171704,
       "name": "Drive On",
       "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "I Milk Cows - Remastered 2017",
-      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
     },
     {
       "added_at": null,
@@ -727,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hat Town",
-        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
       "artists": [
         {
@@ -736,29 +704,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 235466,
-      "name": "Goondiwindi Moon - Remastered 2017",
-      "url": "https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "John Schumann",
-          "url": "https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Kokoda - Only the Brave Ones",
-      "url": "https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw"
+      "duration_ms": 186933,
+      "name": "Skinny Dippin' - Remastered 2017",
+      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
     },
     {
       "added_at": null,
@@ -772,9 +720,25 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 218786,
-      "name": "Planet Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
     },
     {
       "added_at": null,
@@ -795,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
       },
       "artists": [
         {
@@ -804,9 +768,45 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 260426,
-      "name": "Electric Rodeo - Remastered 2017",
-      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+      "duration_ms": 235466,
+      "name": "Goondiwindi Moon - Remastered 2017",
+      "url": "https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "Planet Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "John Schumann",
+          "url": "https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "Kokoda - Only the Brave Ones",
+      "url": "https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 226360,
-      "name": "To the Top of the Hill",
-      "url": "https://open.spotify.com/track/1xJEdYW95KoX8WNVZ52TR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hat Town",
         "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 188960,
       "name": "Cowgirls Do - Remastered 2017",
       "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "To the Top of the Hill",
+      "url": "https://open.spotify.com/track/1xJEdYW95KoX8WNVZ52TR9"
     },
     {
       "added_at": null,

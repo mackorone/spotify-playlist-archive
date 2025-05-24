@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa\_9WSXQAGcMj9SpxUMJQ">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,613 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,615 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 22 | [Private](https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Private](https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT) | 3:00 |
 | 23 | [Spanga](https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Spanga](https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk) | 3:00 |
 | 24 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
-| 25 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
-| 26 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
+| 25 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
+| 26 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
 | 27 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
 | 28 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
 | 29 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 45 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
 | 46 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
 | 47 | [Tyd Saam](https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z) | [EAZY CPT](https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm) | [Tyd Saam](https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c) | 2:47 |
-| 48 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
+| 48 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 |
 | 49 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
 | 50 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-370 songs - 1 day 0 hr 4 min
+371 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 |  |
 | [Easy Love Part 1](https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk) | 4:07 | 2025-01-24 |  |
 | [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 | 2023-07-14 |  |
+| [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 | 2025-05-23 |  |
 | [Feeling Lucky](https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Feeling Lucky](https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW) | 5:52 | 2025-02-14 | 2025-03-15 |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2023-09-30 |
@@ -191,7 +192,7 @@
 | [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 |  |
 | [Light Of The Moon](https://open.spotify.com/track/6fZqH2RSqDS0DWIi1US4BO) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 3:13 | 2021-07-30 | 2024-04-19 |
 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 | 2021-04-16 |  |
-| [Little More Rope](https://open.spotify.com/track/0wqXrS4GJ7ZK1n4MYPiI63) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Little More Rope](https://open.spotify.com/album/6IxOUgY9J3IWg7qPXXWsm8) | 2:51 | 2025-02-21 |  |
+| [Little More Rope](https://open.spotify.com/track/0wqXrS4GJ7ZK1n4MYPiI63) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Little More Rope](https://open.spotify.com/album/6IxOUgY9J3IWg7qPXXWsm8) | 2:51 | 2025-02-21 | 2025-05-24 |
 | [Little Thing Gone Wild](https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV) | 3:19 | 2020-10-16 |  |
 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 | 2020-10-16 | 2024-04-19 |
 | [Lonely Road](https://open.spotify.com/track/38hLO27dbXiuyDoLdq2hHh) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Lonely Road](https://open.spotify.com/album/5VL4wl6fXGSQoAIJTC1ISo) | 3:44 | 2023-04-21 | 2023-06-24 |

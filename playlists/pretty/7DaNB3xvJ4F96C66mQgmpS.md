@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 85,964 likes - 141 songs - 7 hr 34 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 85,965 likes - 141 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 3 | [New Cash](https://open.spotify.com/track/4NNyZ9w119c7FJLn6FoRJg) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [New Cash](https://open.spotify.com/album/25ZcUBzPwZxKVBk40kNzXu) | 2:24 |
 | 4 | [PYRAMIDZ](https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [PYRAMIDZ](https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab) | 3:02 |
 | 5 | [SISTA WIVES \- from the Short Film "Red Clay"](https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SISTA WIVES \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng) | 2:29 |
-| 6 | [Hit \(feat\. Gucci Mane\)](https://open.spotify.com/track/0tIaLYi74Aw4ayWMW97rhS) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hit \(feat\. Gucci Mane\)](https://open.spotify.com/album/3rDdDQ040X9gZugXDuw6bw) | 2:55 |
-| 7 | [Take Her Down](https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Take Her Down](https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz) | 3:15 |
-| 8 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
-| 9 | [Shot Callin](https://open.spotify.com/track/4rFqRV4UCQubpw348acBq3) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Shot Callin](https://open.spotify.com/album/68SBxb7HlBIt6gIcKsS5A7) | 3:45 |
-| 10 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 |
-| 11 | [Blue Devil](https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:19 |
-| 12 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
+| 6 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
+| 7 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
+| 8 | [Hit \(feat\. Gucci Mane\)](https://open.spotify.com/track/0tIaLYi74Aw4ayWMW97rhS) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hit \(feat\. Gucci Mane\)](https://open.spotify.com/album/3rDdDQ040X9gZugXDuw6bw) | 2:55 |
+| 9 | [Take Her Down](https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Take Her Down](https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz) | 3:15 |
+| 10 | [Shot Callin](https://open.spotify.com/track/4rFqRV4UCQubpw348acBq3) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Shot Callin](https://open.spotify.com/album/68SBxb7HlBIt6gIcKsS5A7) | 3:45 |
+| 11 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 |
+| 12 | [Blue Devil](https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:19 |
 | 13 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 14 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |
 | 15 | [fine shyt \(feat\. BIA\)](https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:19 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 140 | [What The Price](https://open.spotify.com/track/7sO0dVFCfixpLshm4daMH3) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/2AvupjUeMnSffKEV05x222) | 4:08 |
 | 141 | [m.A.A.d city](https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 5:50 |
 
-Snapshot ID: `AAALfCmoLEgGzBVrAM7c3jLYlUFT11mY`
+Snapshot ID: `AAALfg1s86AgroZmqujx8KxAXxmwp0zU`

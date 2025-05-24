@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 627996,
+  "num_followers": 628032,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "The Trap",
-        "url": "https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj"
-      },
-      "artists": [
-        {
-          "name": "Hushpuppies",
-          "url": "https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "You're Gonna Say Yeah",
-      "url": "https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+        "name": "The Trap",
+        "url": "https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+          "name": "Hushpuppies",
+          "url": "https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k"
         }
       ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+      "duration_ms": 191213,
+      "name": "You're Gonna Say Yeah",
+      "url": "https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1255,6 +1239,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2024-10-08 12:05:02",

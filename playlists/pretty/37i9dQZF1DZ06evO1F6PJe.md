@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,796 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,810 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
-| 2 | [Drive](https://open.spotify.com/track/2knqdlYKjS0J27lYyyRllU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:47 |
-| 3 | [Driving Towards the Daylight](https://open.spotify.com/track/4i8D5dh2n2B1mUWgQSC5ZO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 4:49 |
-| 4 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
-| 5 | [So Many Roads](https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [You & Me](https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv) | 7:05 |
-| 6 | [Dust Bowl](https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:33 |
-| 7 | [Sloe Gin](https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 8:12 |
+| 1 | [Drive](https://open.spotify.com/track/2knqdlYKjS0J27lYyyRllU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:47 |
+| 2 | [Driving Towards the Daylight](https://open.spotify.com/track/4i8D5dh2n2B1mUWgQSC5ZO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 4:49 |
+| 3 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
+| 4 | [So Many Roads](https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [You & Me](https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv) | 7:05 |
+| 5 | [Dust Bowl](https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:33 |
+| 6 | [Sloe Gin](https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 8:12 |
+| 7 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
 | 8 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 |
-| 9 | [Still Walking With Me](https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Still Walking With Me](https://open.spotify.com/album/2ws6PyyFhmVuk6eEqxVadk) | 3:40 |
-| 10 | [Shake This Ground](https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Shake This Ground](https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs) | 4:07 |
+| 9 | [Shake This Ground](https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Shake This Ground](https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs) | 4:07 |
+| 10 | [Still Walking With Me](https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Still Walking With Me](https://open.spotify.com/album/2ws6PyyFhmVuk6eEqxVadk) | 3:40 |
 | 11 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
 | 12 | [That's What Love Will Make You Do](https://open.spotify.com/track/1s9pvVcRTbeGjT7RqMGVa1) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:05 |
 | 13 | [Different Shades of Blue](https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 49 | [Scarlet Town](https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Scarlet Town](https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM) | 7:57 |
 | 50 | [Ball Peen Hammer](https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:27 |
 
-Snapshot ID: `aC0XgAAAAABwbZPHptHCcMAkunqAN/bc`
+Snapshot ID: `aC5pAAAAAAAuAz7GsW+pETMpImvztONl`

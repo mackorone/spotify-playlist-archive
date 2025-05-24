@@ -2,9 +2,9 @@
 
 ### [Esto es Pop](https://open.spotify.com/playlist/37i9dQZF1DWYf9NHV7zfs7)
 
-> y nada más que pop ✨✨✨<br/>📷  Maxi Espindola.
+> y nada más que pop ✨✨✨<br/>📷  Abel Pintos
 
-349 songs - 18 hr 48 min
+350 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 | 2024-05-17 | 2024-09-07 |
 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 | 2023-10-23 | 2024-07-31 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2023-07-14 | 2023-10-24 |
-| [Eres](https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Eres](https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ) | 3:06 | 2025-04-04 |  |
+| [Eres](https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Eres](https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ) | 3:06 | 2025-04-04 | 2025-05-24 |
 | [Es ahora](https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Es ahora](https://open.spotify.com/album/7KS2HnDSQ2O9pAyoSBEMwF) | 3:26 | 2024-05-10 |  |
 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2023-10-23 | 2024-02-29 |
 | [Experiencia religiosa](https://open.spotify.com/track/0uLhztL9TkJPC8UoyStJU1) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Experiencia religiosa](https://open.spotify.com/album/2Y5Rqv0qKqei0Iic7LXV3M) | 3:44 | 2024-02-23 | 2024-03-02 |
@@ -224,6 +224,7 @@
 | [Nada De Nada](https://open.spotify.com/track/5i2PsmvTOoVYtEDUAe365B) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2), [Manu Piró](https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA) | [Nada De Nada](https://open.spotify.com/album/43Yf94ncPa1wN4C6IP3DtQ) | 2:48 | 2025-02-21 | 2025-02-28 |
 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 | 2024-02-23 | 2024-05-25 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2023-07-14 | 2023-10-24 |
+| [No](https://open.spotify.com/track/0rZWg45KfPQn17GvI6ryNF) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Gracias a la Vida](https://open.spotify.com/album/5p0YTkU041GFeyGOscsIFg) | 4:08 | 2025-05-23 |  |
 | [no eres tú soy yo](https://open.spotify.com/track/7fYYDgWxCMFleHPZmRPrGT) | [Lu de la Tower](https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ) | [no eres tú soy yo](https://open.spotify.com/album/7wFqHJm35rSBQlnsVFH2BR) | 2:23 | 2024-09-13 | 2024-09-28 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2023-07-14 | 2023-10-24 |
 | [No hay nadie como tú](https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [No hay nadie como tú](https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF) | 3:05 | 2024-04-26 | 2024-05-25 |

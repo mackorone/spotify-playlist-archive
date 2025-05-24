@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover:  DAMEDAME*",
+  "description": "R&B of the moment by the artists of the future. Cover:  Reggie Becton",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 220833,
       "name": "1-800 Heartbreak",
       "url": "https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 180000,
       "name": "Afraid, Pt. 2 - feat. Xenia Manasseh",
       "url": "https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 150706,
       "name": "All In",
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 228579,
       "name": "All the Diamonds - Remix",
       "url": "https://open.spotify.com/track/6JhugsxbhvNVScxzp6oD7O"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 186053,
       "name": "Another Man's Life",
       "url": "https://open.spotify.com/track/13Td777M2ReYcBLsNRfDA6"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 230782,
       "name": "Are U Still",
       "url": "https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 222000,
       "name": "Back in My Body",
       "url": "https://open.spotify.com/track/1QAmVJiBVbCr3MYQ7XNQAY"
@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 117173,
       "name": "Cheeky",
       "url": "https://open.spotify.com/track/3HyIoBwlwXxP1EpqRh1gtB"
@@ -4838,7 +4838,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 176785,
       "name": "CUT UP",
       "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
@@ -5221,6 +5221,24 @@
     },
     {
       "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/3f70zg9qFwcrxBVdiZtrs9"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197922,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/5CltNqbB9fsOCzgUQTLkl8"
+    },
+    {
+      "album": {
         "name": "Different Ways",
         "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
       },
@@ -5232,7 +5250,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 208379,
       "name": "Different Ways",
       "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
@@ -6266,7 +6284,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 207046,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0"
@@ -6632,7 +6650,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 129029,
       "name": "F.N.F.",
       "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
@@ -6806,7 +6824,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 150400,
       "name": "Fallin 4 A Thug",
       "url": "https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP"
@@ -8018,7 +8036,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 135602,
       "name": "Fur Coat",
       "url": "https://open.spotify.com/track/6ndnCPIrXUMMIOK5QfaFlY"
@@ -9006,7 +9024,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 135647,
       "name": "GREY",
       "url": "https://open.spotify.com/track/41ZGDLBTRWnOoOfEa3P86W"
@@ -9144,6 +9162,24 @@
       "duration_ms": 181039,
       "name": "Handle Me Gently",
       "url": "https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l"
+    },
+    {
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD"
     },
     {
       "album": {
@@ -9660,6 +9696,24 @@
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "album": {
+        "name": "Holding Fire",
+        "url": "https://open.spotify.com/album/49jp3Z3WoKxZX4U9aUCtet"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158061,
+      "name": "Holding Fire",
+      "url": "https://open.spotify.com/track/0r0F65GN6g3Bo2QGLqfocv"
     },
     {
       "album": {
@@ -10552,7 +10606,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 188526,
       "name": "IFY",
       "url": "https://open.spotify.com/track/4eGv1j6aUzhGXXOuGdsZ3u"
@@ -10826,7 +10880,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 145055,
       "name": "In Your Absence",
       "url": "https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp"
@@ -11307,6 +11361,28 @@
     },
     {
       "album": {
+        "name": "JOURNEY",
+        "url": "https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "S'ABLE SOUNDS",
+          "url": "https://open.spotify.com/artist/6U7WxgiiEN0thKCXwAFah7"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "JOURNEY",
+      "url": "https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU"
+    },
+    {
+      "album": {
         "name": "1320",
         "url": "https://open.spotify.com/album/3C442Onkmd4SFO1JCvaDji"
       },
@@ -11738,7 +11814,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 163984,
       "name": "Laid Back/Old Skool Chevy (feat. Kenyon Dixon)",
       "url": "https://open.spotify.com/track/6ut8pLAqCv4kH0W5ura187"
@@ -12156,6 +12232,28 @@
       "duration_ms": 134279,
       "name": "Letter To Ur N(ex)t",
       "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "album": {
+        "name": "Letting You Run",
+        "url": "https://open.spotify.com/album/4F3xoxabdXmm4rHduXVnCN"
+      },
+      "artists": [
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "Letting You Run",
+      "url": "https://open.spotify.com/track/73dCTAnLDKbL1MpwarKLCP"
     },
     {
       "album": {
@@ -13356,6 +13454,24 @@
       "duration_ms": 209990,
       "name": "Made For 2",
       "url": "https://open.spotify.com/track/0mxezMhQVXJuzdVbVvL6wb"
+    },
+    {
+      "album": {
+        "name": "Magic !",
+        "url": "https://open.spotify.com/album/4FEms9JIMreEr7Yorl6rgZ"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Magic !",
+      "url": "https://open.spotify.com/track/1SjD13SA4gJyyikO61Ny8e"
     },
     {
       "album": {
@@ -14636,7 +14752,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 145651,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/0UEA1XtQAnIhPZRSHVPtDL"
@@ -14890,7 +15006,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 184790,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0AVJqxP92URE44WBzBHryV"
@@ -17684,7 +17800,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 151820,
       "name": "Regular Girl",
       "url": "https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq"
@@ -17969,6 +18085,28 @@
     },
     {
       "album": {
+        "name": "Risk It All (feat. Honey Bxby)",
+        "url": "https://open.spotify.com/album/270peq8BtBB3gRLJxI0Ouo"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        },
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178543,
+      "name": "Risk It All (feat. Honey Bxby)",
+      "url": "https://open.spotify.com/track/0YwFzB0wgGn2XhloqPzVH6"
+    },
+    {
+      "album": {
         "name": "Risky",
         "url": "https://open.spotify.com/album/0AIIBXCTsv1tWuFv4hO64y"
       },
@@ -18054,6 +18192,24 @@
       "duration_ms": 180480,
       "name": "RN (Right Now)",
       "url": "https://open.spotify.com/track/4c4u5ExVRuo9SnzPqol94P"
+    },
+    {
+      "album": {
+        "name": "robbery",
+        "url": "https://open.spotify.com/album/1BjQLTksPyD5ZvgxD19bR5"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158902,
+      "name": "robbery",
+      "url": "https://open.spotify.com/track/5debpjgROE9Q7IiyrAZtF0"
     },
     {
       "album": {
@@ -18148,7 +18304,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 167586,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/7cWhXtvDtQ3aOfb62rllyx"
@@ -18924,7 +19080,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 167503,
       "name": "SINCERITY",
       "url": "https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1"
@@ -19306,7 +19462,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 146930,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4KB2iNdOKRbEg3YElV0l9p"
@@ -19516,7 +19672,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 133846,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3"
@@ -19964,7 +20120,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 218349,
       "name": "Stop Playing",
       "url": "https://open.spotify.com/track/4RNzOJPCNc3kgRrwboMZ1q"
@@ -20341,6 +20497,28 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3vHgYDk5LfZtGTHZLNFBMY"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        },
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216568,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jjKqaSvjK6giy5R60MPIt"
+    },
+    {
+      "album": {
         "name": "Sunshine (feat. Foushe\u00e9)",
         "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
       },
@@ -20472,7 +20650,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 152666,
       "name": "SUPERSONICS",
       "url": "https://open.spotify.com/track/7yUnhwAewhRV8PcEbh4u8O"
@@ -20534,7 +20712,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 163812,
       "name": "Suzette",
       "url": "https://open.spotify.com/track/7gEuNBqXluQqu0LJXyHxeV"
@@ -21418,7 +21596,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 149501,
       "name": "THERAPIST - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48"
@@ -21922,7 +22100,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 167756,
       "name": "Too Often",
       "url": "https://open.spotify.com/track/03GAUqifa6bI0mFcYyz1DS"
@@ -23444,7 +23622,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 179594,
       "name": "WHY",
       "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
@@ -24010,7 +24188,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 243185,
       "name": "YOU (feat. Eli Derby)",
       "url": "https://open.spotify.com/track/6ke6lBHa6yJFmKb708qh7g"

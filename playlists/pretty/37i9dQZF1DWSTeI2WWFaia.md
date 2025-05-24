@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,590,209 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,590,156 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 39 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
 | 40 | [Acts 1.5](https://open.spotify.com/track/1eX082TmxuRRtteicQDtgv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 1:58 |
 | 41 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 |
-| 42 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |
+| 42 | [The Dead Apple](https://open.spotify.com/track/3E0vJ5w8BmK4KapEJ5ZWUI) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [The Dead Apple / New York Crash](https://open.spotify.com/album/5XwaABkGUxYERVfV9q6e4L) | 4:14 |
 | 43 | [OUTLANDER](https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 3:09 |
 | 44 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
-| 45 | [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 |
-| 46 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
-| 47 | [Misery](https://open.spotify.com/track/1GnwRHSnwZ0clkFJgfHHBS) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Misery](https://open.spotify.com/album/7CvfOOp2EzaJtlaHe0rmIH) | 2:12 |
+| 45 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |
+| 46 | [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 |
+| 47 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
 | 48 | [30secchop \(feat\. Joseph Chilliams and Jean Deaux\)](https://open.spotify.com/track/7wflBf6P8TFqpPkkxK5UXE) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 2:27 |
-| 49 | [CEMETERY lanterns](https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [CEMETERY lanterns](https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2) | 3:45 |
-| 50 | [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 |
+| 49 | [Misery](https://open.spotify.com/track/1GnwRHSnwZ0clkFJgfHHBS) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Misery](https://open.spotify.com/album/7CvfOOp2EzaJtlaHe0rmIH) | 2:12 |
+| 50 | [CEMETERY lanterns](https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [CEMETERY lanterns](https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2) | 3:45 |
 
-Snapshot ID: `aB191QAAAABrYqv7BIDM6RPU2tkW5lpJ`
+Snapshot ID: `aC/y6wAAAABU1ISVZ6HNOI+4qex05dsE`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 213129,
+  "num_followers": 213165,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-01-10 17:43:02",
       "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "Sirena Encantadora",
+      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
+    },
+    {
+      "added_at": "2025-01-10 17:43:02",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -431,24 +447,8 @@
     {
       "added_at": "2025-01-10 17:43:02",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "Sirena Encantadora",
-      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
-    },
-    {
-      "added_at": "2025-01-10 17:43:02",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 253066,
-      "name": "T\u00fa Vas a Volar",
-      "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2025-01-10 17:43:02",
@@ -587,8 +587,8 @@
     {
       "added_at": "2025-01-10 17:43:02",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 253066,
+      "name": "T\u00fa Vas a Volar",
+      "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"
     },
     {
       "added_at": "2025-01-10 17:43:02",

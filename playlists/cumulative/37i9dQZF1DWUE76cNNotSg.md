@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-572 songs - 1 day 11 hr 38 min
+573 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5) | 3:13 | 2023-12-08 | 2024-05-04 |
 | [Breathing](https://open.spotify.com/track/0OY1Iyu2yuiCpQBrhkV7zV) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Breathing](https://open.spotify.com/album/6D3bxM6aNBo2Qk3gBD0NEm) | 3:53 | 2024-01-12 | 2024-03-16 |
 | [BUTTER BREAD](https://open.spotify.com/track/2S4pfn4eZbyOLpJwy6T8kA) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [BUTTER BREAD](https://open.spotify.com/album/6IjENtVmf4WU836bGcBWv0) | 3:34 | 2025-04-04 |  |
+| [california](https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb) | [SUBURBIA \(after dark\)](https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA) | 3:28 | 2025-05-23 |  |
 | [Can't Stop Cryin'](https://open.spotify.com/track/4jJs2ohRchPCc7VrYWpjbN) | [Austin Manuel](https://open.spotify.com/artist/0ih9NQR8CkKRwxfN9yXozi) | [Can't Stop Cryin'](https://open.spotify.com/album/0hL9VPzSao6NlX3aSEPkym) | 3:13 | 2020-12-22 | 2022-07-29 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-03-19 |  |
 | [Canopée \- Superorganism Remix](https://open.spotify.com/track/1F3ati0gSU5eAF4YMJZrFQ) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Canopée \(Superorganism Remix\)](https://open.spotify.com/album/5HrVirr3BJQLBSgS69kxeH) | 4:06 | 2020-12-22 | 2022-04-02 |
@@ -140,7 +141,7 @@
 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 | 2023-11-10 | 2024-01-06 |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-24 |  |
 | [Ecstasy](https://open.spotify.com/track/5wzGHgamBPcqrWwuhGDfam) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Ecstasy](https://open.spotify.com/album/6BcSwoWKyFgB4CoVIYLxac) | 5:03 | 2020-12-22 | 2022-04-19 |
-| [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-04-11 |  |
+| [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-04-11 | 2025-05-24 |
 | [Electric Fish](https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama De Gato Que Eu Sou Sua](https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP) | 4:12 | 2023-11-24 | 2024-03-02 |
 | [Electric Soul](https://open.spotify.com/track/3bhwkMjQpHAHWjbYt17mEv) | [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [Melancholy](https://open.spotify.com/album/4vW0eQKEuPKQmiL1dS59iI) | 2:20 | 2024-01-26 | 2024-08-17 |
 | [Enchanté](https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Enchanté](https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM) | 2:42 | 2024-06-07 |  |

@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 225062,
       "name": "All My Thoughts",
       "url": "https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 251253,
       "name": "Cool God",
       "url": "https://open.spotify.com/track/0nJkRTWpbpTYxHVNk4bMlb"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
@@ -4165,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Hunting Season",
+        "url": "https://open.spotify.com/album/6p4ZnK7kF9sfdwMoO0qyfD"
+      },
+      "artists": [
+        {
+          "name": "Home Is Where",
+          "url": "https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238091,
+      "name": "shenandoah",
+      "url": "https://open.spotify.com/track/6rP5DugWCwy0ME5OtDwqIA"
+    },
+    {
+      "album": {
         "name": "Shirley",
         "url": "https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I"
       },
@@ -5008,6 +5026,24 @@
       "duration_ms": 233786,
       "name": "Truck",
       "url": "https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ"
+    },
+    {
+      "album": {
+        "name": "Truck Flipped Over '19",
+        "url": "https://open.spotify.com/album/3EZXvsZXpN5xhpTCzAf208"
+      },
+      "artists": [
+        {
+          "name": "Florry",
+          "url": "https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236706,
+      "name": "Truck Flipped Over '19",
+      "url": "https://open.spotify.com/track/2pOHy7YsTJIjpcGCEdQRgq"
     },
     {
       "album": {

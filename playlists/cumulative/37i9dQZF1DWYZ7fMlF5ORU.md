@@ -4,7 +4,7 @@
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-133 songs - 9 hr 12 min
+134 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Permanecer](https://open.spotify.com/track/5Jrh9mDvWKTCWbUhyqKThN) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH) | 2:46 | 2023-08-04 | 2024-04-19 |
 | [Pirei \- Ao Vivo](https://open.spotify.com/track/3qowb3VU8LBMd2FL3tOmoU) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Ton Carfi 20 anos \(Ao Vivo\)](https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p) | 5:13 | 2025-02-28 |  |
 | [Pista do Céu \(Quase 30\)](https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9), [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Pista do Céu \(Quase 30\)](https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT) | 7:12 | 2024-07-19 |  |
-| [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 | 2023-04-15 |  |
+| [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 | 2023-04-15 | 2025-05-24 |
 | [Pra Sempre](https://open.spotify.com/track/2FXflEzTBQwLOkwFm4Q7Th) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Pra Sempre](https://open.spotify.com/album/3W7kyJ8IvivKgSZ04v4NOF) | 4:13 | 2023-04-15 | 2023-07-15 |
 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 | 2023-04-15 |  |
 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 | 2023-04-15 |  |
@@ -115,6 +115,7 @@
 | [Sangue de Jesus](https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK) | [Thalita Pertuzatti](https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg) | [Soul Gospel](https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3) | 3:11 | 2023-08-04 | 2024-07-19 |
 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s Groove \(Ao Vivo\)](https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9) | 4:37 | 2024-12-13 |  |
 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 | 2025-02-14 |  |
+| [SoLámento](https://open.spotify.com/track/03WxyQeysg0DnQiTvtOUOM) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X) | [SoLámento](https://open.spotify.com/album/6WgpLh2PWatLc4oFuq2Tgn) | 3:43 | 2025-05-23 |  |
 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 | 2024-07-12 |  |
 | [Tamo Junto](https://open.spotify.com/track/0yRIxxhhedtPAyTOU3HlwC) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r), [Lorena Fadi](https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê? \- Preto no Branco](https://open.spotify.com/album/4bb5jJoAgoohfvy3ZcE4xb) | 3:15 | 2024-10-16 | 2024-11-09 |
 | [Tamo Junto](https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r), [Lorena Fadi](https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tamo Junto](https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6) | 3:15 | 2023-04-15 |  |

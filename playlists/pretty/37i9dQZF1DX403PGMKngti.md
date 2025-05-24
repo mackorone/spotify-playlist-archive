@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,095 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,104 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 | 54 | [Busco Alguien Que Me Quiera](https://open.spotify.com/track/1IHSUlfPjNiixMcoG1P8f2) | [El Afinaito](https://open.spotify.com/artist/2n3i5T3VD5GwwjlQCnT51Z) | [Se Pegó la Champeta en Cartagena, Vol\. 2](https://open.spotify.com/album/0BKQRH2gMvlBcPbpNJpwOF) | 4:25 |
 | 55 | [El Serrucho](https://open.spotify.com/track/3G0A071AKOi2877n9zTjXZ) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Presidente de la Champeta](https://open.spotify.com/album/0ZIfrtY7dovkdlcxXcbTJB) | 3:19 |
 | 56 | [Los Trapitos al Agua](https://open.spotify.com/track/6o69gA3Vy2CH29MhgJftJk) | [Mr.Black](https://open.spotify.com/artist/61ILbtwJ8xiy4FG0cAYvvb) | [El Rey del Triqueteo](https://open.spotify.com/album/6gFZeBC49Dqv1X9woMKEGp) | 4:07 |
-| 57 | [Champetua](https://open.spotify.com/track/4cdwkVSwjdM2NxIMLpfKJ4) | [Oscar Prince](https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp), [BIP](https://open.spotify.com/artist/7wxIOUfiitxXo8IWJ1O7IR) | [Champetua](https://open.spotify.com/album/1U3LfdYkbiI8ZqpfKHUioR) | 3:56 |
+| 57 | [Champetua](https://open.spotify.com/track/4cdwkVSwjdM2NxIMLpfKJ4) | [Oscar Prince](https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp), [Grupo Bip](https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC) | [Champetua](https://open.spotify.com/album/1U3LfdYkbiI8ZqpfKHUioR) | 3:56 |
 | 58 | [Asómate a la Ventana \- Remix](https://open.spotify.com/track/1MoXIcWrVK6LvUTW7tFMuf) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [La Supremacía](https://open.spotify.com/album/3xp7ThCCttw1tliBPWkqjA) | 3:28 |
 | 59 | [El Bololo](https://open.spotify.com/track/2WlvAXYRoVuZq9ZHBXCqwa) | [Bazurto All Stars](https://open.spotify.com/artist/0BhgcfRYexO5WqUGuqOgGF) | [El Bololo](https://open.spotify.com/album/5e22WcFEFmz4MOhoZYsHue) | 2:59 |
 | 60 | [Apretaito al Pickup](https://open.spotify.com/track/1WLHpbWDgZG21hQBI9pDQc) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [15 Años Maquinando](https://open.spotify.com/album/4EiJpcfvlTpCB3N6R6I8Kf) | 3:40 |

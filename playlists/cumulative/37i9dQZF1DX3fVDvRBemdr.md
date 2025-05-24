@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Quido van de Graaf
 
-319 songs - 15 hr 37 min
+320 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Kleine After](https://open.spotify.com/track/1RlvrCBtdbogpHYnrSL1Nq) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kleine After](https://open.spotify.com/album/1rMiNhxe1SzzQRkhSZSbYx) | 2:34 | 2024-09-12 | 2024-12-13 |
 | [Kleine Meid](https://open.spotify.com/track/76FzoYmWYRX5e7NvYOLFai) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Kleine Meid](https://open.spotify.com/album/5DVSNlsQMv8pi5AGUaPQkd) | 3:31 | 2025-01-28 | 2025-04-18 |
 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 | 2024-06-13 | 2024-09-13 |
+| [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/track/6OAdOFNze8XTDckoLu5vT5) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/album/6xJd2kw2n7YmqgQ8TP1ZAu) | 2:19 | 2025-05-22 |  |
 | [Kom Op En Zing Met Me Mee](https://open.spotify.com/track/1kZrr0uwYBuR7fdkTlocto) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Kom Op En Zing Met Me Mee](https://open.spotify.com/album/48cpiwZscMfRP07Tkp5MR6) | 3:00 | 2024-08-29 | 2025-02-21 |
 | [Kom Terug](https://open.spotify.com/track/0N551xcSek0OFH8nQ2ORp3) | [Martin van Waveren](https://open.spotify.com/artist/0A85Nyv0pCEHBaTiCj31DZ) | [Kom Terug](https://open.spotify.com/album/7v4zNEleZXvRDwLsLYDxpX) | 3:03 | 2024-11-21 | 2025-03-08 |
 | [Koning van het plein](https://open.spotify.com/track/3RdTVF7yjt6wFkylc1uRlo) | [Edo Barends](https://open.spotify.com/artist/7AnNU4xr4GSDqjrf9sl534), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Koning van het plein](https://open.spotify.com/album/3AehYYdSmF4xZ8PDRWbS0N) | 3:24 | 2024-09-12 | 2024-11-22 |

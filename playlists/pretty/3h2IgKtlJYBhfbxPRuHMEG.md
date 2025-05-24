@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Torcha
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 506 likes - 61 songs - 3 hr 28 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 505 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 59 | [Berserker](https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Berserker](https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX) | 4:28 |
 | 60 | [Rude Boy 22 \- Spotify Singles](https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 2:15 |
 | 61 | [My Favourite Dream](https://open.spotify.com/track/2UtkFuF09Bu0y7UIZnIx3I) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [My Favourite Dream](https://open.spotify.com/album/1a4ZSU5OGdzce2xLnbrwl4) | 3:52 |
+| 62 | [RELOADED](https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [RELOADED](https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k) | 3:48 |
 
-Snapshot ID: `AAAEhiofsysxg2CgIkL39Y4AUoyShezI`
+Snapshot ID: `AAAEh7e+On++ByYJ6JjAE5PdeCdvy9MG`

@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 239728,
       "name": "Adorador por Excel\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
@@ -1243,6 +1243,32 @@
     },
     {
       "album": {
+        "name": "O Segredo da Felicidade",
+        "url": "https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv"
+      },
+      "artists": [
+        {
+          "name": "Tamy Klaus",
+          "url": "https://open.spotify.com/artist/2Zl9rN1av3SmE8V284GXI4"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        },
+        {
+          "name": "Misael Coelho",
+          "url": "https://open.spotify.com/artist/60ThKVjUZ4GrqNu4o7aBtS"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200294,
+      "name": "O Segredo da Felicidade",
+      "url": "https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP"
+    },
+    {
+      "album": {
         "name": "Olha Eu Aqui",
         "url": "https://open.spotify.com/album/02aqcp4nVGbYoujee8jXSy"
       },
@@ -1490,7 +1516,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 236078,
       "name": "Se N\u00e3o Fosse Ele",
       "url": "https://open.spotify.com/track/49aAR1k1YDjcHPPUaP1GTR"
@@ -1892,6 +1918,24 @@
       "duration_ms": 295555,
       "name": "Vencer \u00c9 Preciso - Voz e Viol\u00e3o",
       "url": "https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE"
+    },
+    {
+      "album": {
+        "name": "Voz e Viol\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324082,
+      "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
+      "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
     },
     {
       "album": {

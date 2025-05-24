@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,138 likes - 101 songs - 5 hr 20 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,139 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,9 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 99 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 100 | [lose you again \(feat\. parmalee\)](https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:43 |
 | 101 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |
+| 102 | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 |
+| 103 | [MIGHT BE DANGEROUS](https://open.spotify.com/track/7FdWBc0RRt4joQxSSJUnG0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:20 |
+| 104 | [GRAVE](https://open.spotify.com/track/2YvricIxdfPXF8ztbHPcpP) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [let go letters](https://open.spotify.com/album/0u2pxDH76QyAKifAdQykXg) | 3:11 |
+| 105 | [House Again \(with Miranda Lambert\)](https://open.spotify.com/track/1jR5heh1OlXAvkP35M8Utx) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [House Again \(with Miranda Lambert\) / The House That Built Me](https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs) | 3:23 |
 
-Snapshot ID: `AAAbgKz4Dw7ONGYmJgNPGJVaEF5G8P0R`
+Snapshot ID: `AAAbh4V6zR7/EHjWsS9lS2oibYHWJVfF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,970 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,015 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [大丈夫](https://open.spotify.com/track/0OaPd2X0KFIn8iOxEtZZQG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大丈夫](https://open.spotify.com/album/4tPpQo2WZed5nCjl1oIaia) | 4:08 |
 | 85 | [Aufheben](https://open.spotify.com/track/6MUrRnnRRJBozvU9fq8Ipm) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Aufheben](https://open.spotify.com/album/1wumlbuZd1SLWIQLE6UbPA) | 2:52 |
 
-Snapshot ID: `aC88CAAAAAC4xQwMKS+w530BgtdyEkXt`
+Snapshot ID: `aC88CAAAAAC6nu26OtZA1fqDNFKEPtY1`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAACjEN2Ahm9CrXVNUA1+kpbd",
+  "snapshot_id": "aC5pAAAAAAD/tGJkMGJUIDStVFB9Wt2r",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
+        "name": "Callas, Maria: Liebeslieder",
+        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
       },
       "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Orchestra of the San Carlos Opera House, Lisbon",
-          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
+          "name": "RAI Symphony Orchestra, Rome",
+          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
         },
         {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         }
       ],
-      "duration_ms": 204226,
-      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
-      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
+      "duration_ms": 150480,
+      "name": "Turandot, Act I: Signore, ascolta!",
+      "url": "https://open.spotify.com/track/49xX0JOQufLKlueVBPzT0r"
     },
     {
       "added_at": null,
@@ -667,30 +671,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas, Maria: Liebeslieder",
-        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
+        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
       },
       "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "RAI Symphony Orchestra, Rome",
-          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
+          "name": "Orchestra of the San Carlos Opera House, Lisbon",
+          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
         },
         {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
         }
       ],
-      "duration_ms": 150480,
-      "name": "Turandot, Act I: Signore, ascolta!",
-      "url": "https://open.spotify.com/track/49xX0JOQufLKlueVBPzT0r"
+      "duration_ms": 204226,
+      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
+      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandiose Stimmen: Maria Callas",
+        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 131933,
+      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
         "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 71506,
       "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
       "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandiose Stimmen: Maria Callas",
-        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 131933,
-      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
-      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
     },
     {
       "added_at": null,
@@ -1227,34 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas at La Scala - Callas Remastered",
-        "url": "https://open.spotify.com/album/1zeY15OCHd9zCb7fraGFHo"
-      },
-      "artists": [
-        {
-          "name": "Gaspare Spontini",
-          "url": "https://open.spotify.com/artist/7yxeJll1absl3LxWoIrBj5"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 151760,
-      "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
-      "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maria Callas - Popular Music from TV, Film and Opera",
         "url": "https://open.spotify.com/album/4K9eC1HOM3nlJKKSI8ng39"
       },
@@ -1279,6 +1251,34 @@
       "duration_ms": 155226,
       "name": "La Vestale (1997 Digital Remaster): O nome tutelar",
       "url": "https://open.spotify.com/track/1cu4pJSgf2n0ALIDJu5TDJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas at La Scala - Callas Remastered",
+        "url": "https://open.spotify.com/album/1zeY15OCHd9zCb7fraGFHo"
+      },
+      "artists": [
+        {
+          "name": "Gaspare Spontini",
+          "url": "https://open.spotify.com/artist/7yxeJll1absl3LxWoIrBj5"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
+      "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"
     },
     {
       "added_at": null,

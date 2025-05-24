@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Clair de Lune (Arr. for String Quartet by Hao Zhou)",
+        "url": "https://open.spotify.com/album/6aJUXpIG150LXvr6Gy8Q4O"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Viano Quartet",
+          "url": "https://open.spotify.com/artist/5xjhUni1nLAHAvJ03jGt64"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279125,
+      "name": "Clair de Lune (Arr. for String Quartet by Hao Zhou)",
+      "url": "https://open.spotify.com/track/4FCPAxjEYSaP9YMJupQvjx"
+    },
+    {
+      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/69q5BWCtoQAgoeNxx6kvWB"
       },

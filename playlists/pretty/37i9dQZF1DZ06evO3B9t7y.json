@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1060760,
+  "num_followers": 1060993,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAD3bxgAEjgAsYS3GcgBcoay",
+  "snapshot_id": "aC5pAAAAAABId+z/lwgVIxqvneqi8S0B",
   "tracks": [
     {
       "added_at": null,
@@ -598,15 +598,11 @@
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
         }
       ],
-      "duration_ms": 191250,
-      "name": "\u2060Aviso importante",
-      "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
+      "duration_ms": 174206,
+      "name": "Por culpa de un tercero",
+      "url": "https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX"
     },
     {
       "added_at": null,
@@ -670,11 +666,15 @@
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
         }
       ],
-      "duration_ms": 174206,
-      "name": "Por culpa de un tercero",
-      "url": "https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX"
+      "duration_ms": 191250,
+      "name": "\u2060Aviso importante",
+      "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 180542,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 154837,
       "name": "Ocupo Una Limpia",
       "url": "https://open.spotify.com/track/70e72bFvwBdxU4OlVCkpby"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 180542,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
     },
     {
       "added_at": null,
@@ -939,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
+        "name": "REGALO DE DIOS",
+        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
       },
       "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 174262,
-      "name": "Si una Vez - En Vivo",
-      "url": "https://open.spotify.com/track/1ZYPtJnVttoAT4O5rbTdCm"
+      "duration_ms": 270328,
+      "name": "REGALO DE DIOS",
+      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
     }
   ],
   "unique_name": "This Is Car\u00edn Le\u00f3n",

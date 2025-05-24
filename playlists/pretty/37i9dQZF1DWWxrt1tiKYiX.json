@@ -1,12 +1,12 @@
 {
   "description": "Lovely, acoustic pop. Cover: Ariana Grande",
-  "num_followers": 161733,
+  "num_followers": 161757,
   "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEcr28HODDDwyXbLosIKSt4ayeCH",
+  "snapshot_id": "aC/y6QAAAADx/WrIvt1l/fuC/J8ZdUXV",
   "tracks": [
     {
       "added_at": "2024-09-09 19:12:03",
@@ -55,6 +55,42 @@
       "duration_ms": 181485,
       "name": "Please Please Please - Acoustic",
       "url": "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:41",
+      "album": {
+        "name": "Azizam (Acoustic)",
+        "url": "https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 160758,
+      "name": "Azizam - Acoustic",
+      "url": "https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Fortnight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -127,26 +163,6 @@
       "duration_ms": 161931,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Fortnight (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
-      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
     },
     {
       "added_at": "2025-03-21 04:00:41",
@@ -879,26 +895,6 @@
       "duration_ms": 208066,
       "name": "SNAP - Acoustic",
       "url": "https://open.spotify.com/track/4cJfy4NKPrgJuT95gruimF"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Life Goes On (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210208,
-      "name": "Life Goes On (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
       "added_at": "2024-08-09 04:00:00",

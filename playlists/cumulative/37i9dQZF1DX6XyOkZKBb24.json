@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
@@ -1310,6 +1310,24 @@
       "duration_ms": 200066,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4yZSlqXWEeZ7M2eUiGi7dQ"
+    },
+    {
+      "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247648,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr"
     },
     {
       "album": {
@@ -3237,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212483,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "album": {
         "name": "Regardless",
         "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
       },
@@ -3644,7 +3680,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
@@ -4276,6 +4312,24 @@
       "duration_ms": 247829,
       "name": "Way I Go",
       "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
+    },
+    {
+      "album": {
+        "name": "We Don't Have to Be Alone",
+        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166436,
+      "name": "We Don't Have to Be Alone",
+      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
       "album": {

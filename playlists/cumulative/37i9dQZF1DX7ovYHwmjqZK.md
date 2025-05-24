@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-162 songs - 9 hr 41 min
+163 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Eu Sambo Mesmo](https://open.spotify.com/track/3AqxAq1Z6lZ4BkdvFtEGDH) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 4:08 | 2022-10-14 | 2023-04-01 |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 | 2021-11-26 |  |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/7CPcuPG4fEMdGNHLRdxTPb) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: Hits & Rarities](https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69) | 4:08 | 2021-11-26 | 2022-11-15 |
-| [Even Bossa If I Have To](https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Even Bossa If I Have To](https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ) | 2:31 | 2024-07-18 |  |
+| [Even Bossa If I Have To](https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Even Bossa If I Have To](https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ) | 2:31 | 2024-07-18 | 2025-05-24 |
 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 | 2021-11-26 |  |
 | [Flor De Lis](https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 3:02 | 2021-11-26 |  |
 | [Garoto \- Ao Vivo](https://open.spotify.com/track/6O2l61ZGgLo2X4jk37L62k) | [Wanderson Lopez](https://open.spotify.com/artist/6h9bYkUKLSwIz5QpU5pQ5A), [Daniel Freire](https://open.spotify.com/artist/6onbHhPrPUlO3oZVI3d2gF), [Gabriela Deps](https://open.spotify.com/artist/2opxc4s9hYeX6m64w0P1eI), [Ariana Mendonça](https://open.spotify.com/artist/4F41zUk5aoh9aBmZojdSMF), [Cristiano Costa](https://open.spotify.com/artist/2pVlCFhYdHicGSXHKLZQad), [Renato Rocha](https://open.spotify.com/artist/57mFL4s85u6sFhZKuEYxxf), [Gabriel Novaes](https://open.spotify.com/artist/4TwEzkGnAshfu8bJtpbxQZ), [Roger Bezerra](https://open.spotify.com/artist/0zQ9H0IO107WhC2nQZWQEW), [Hugo Maciel](https://open.spotify.com/artist/3MqqQAc1pTbDBlj9N6jbtG), [Jonathan Yoshikawa](https://open.spotify.com/artist/6lRUToyBDaLfA88MMwTTYA) | [Garoto \- Wanderson Lopez Ensemble \(Ao Vivo\)](https://open.spotify.com/album/56Qvs3eXRYJhbZhXBZSWJT) | 3:29 | 2023-07-07 |  |
@@ -147,6 +147,7 @@
 | [Terra do Nunca](https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO), [Romero Lubambo](https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV), [Mauro Senise](https://open.spotify.com/artist/6ZhhPmNwS3jI2DTAnlPegi) | [Quase Memória](https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6) | 3:46 | 2021-11-26 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2021-11-26 | 2025-02-08 |
 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Tin Tin Por Tin Tin](https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK) | 2:20 | 2021-11-26 |  |
+| [Tristeza de Nós Dois](https://open.spotify.com/track/217s4JPQy0sZkKzB6aqcxn) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Mauricio Einhorn](https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI) | [Tristeza de Nós Dois](https://open.spotify.com/album/27um7gvskpbYdoD4QnU1EP) | 3:42 | 2025-05-23 |  |
 | [Um Caso Perdido](https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo Zé Renato canta Paulinho da Viola](https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e) | 2:52 | 2021-11-26 | 2024-04-19 |
 | [Um Caso Perdido](https://open.spotify.com/track/5IAoNNSqOtbApvFarcAXSq) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo \- Zé Renato Canta Paulinho da Viola](https://open.spotify.com/album/0jdtilr4ow2LiQXW0A6ecm) | 2:52 | 2021-11-26 |  |
 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 | 2021-11-26 |  |

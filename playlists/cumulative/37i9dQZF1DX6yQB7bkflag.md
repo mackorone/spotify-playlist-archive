@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: D'MASIV
 
-1,694 songs - 4 day 2 hr 25 min
+1,696 songs - 4 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [Jika Nanti](https://open.spotify.com/track/1EatXWpl3HD6QwD00urZ2W) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Jika Nanti](https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt) | 3:42 | 2024-05-24 | 2024-06-28 |
 | [Jikalau](https://open.spotify.com/track/2147Yv28iamhOzjeVLemJp) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Jikalau](https://open.spotify.com/album/0XrsEP282PTvbWhaloP5Rd) | 2:49 | 2024-08-01 | 2024-09-14 |
 | [Joyride](https://open.spotify.com/track/6n8KUQZOne1iMIyJYhWUrj) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 2:59 | 2024-05-24 | 2024-06-14 |
+| [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 | 2025-05-22 |  |
 | [Jungkir Balik](https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Jungkir Balik](https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp) | 3:50 | 2024-07-25 | 2024-09-14 |
 | [just a girl](https://open.spotify.com/track/0A53ixVdk0LYKSJKPQzm9q) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [just a girl](https://open.spotify.com/album/0H5hmZbrMRlTS7UmOVJcSf) | 2:49 | 2025-05-22 |  |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 | 2025-04-11 |
@@ -767,6 +768,7 @@
 | [Kawan \(with Yoseph Sitompul, Bayu Risa, Ranya Badudu\)](https://open.spotify.com/track/6oGAntrPuwI3pdaZ2i0VWB) | [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Kawan \(with Yoseph Sitompul, Bayu Risa, Ranya Badudu\)](https://open.spotify.com/album/2YqZTlrwJe1sbXtJp5wfbH) | 4:04 | 2025-05-22 |  |
 | [KECANDUAN](https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [KECANDUAN](https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI) | 3:37 | 2024-10-25 | 2024-11-22 |
 | [Kecil Tapi Bercahaya \- Theme song Superstar Junior MentariTV](https://open.spotify.com/track/48lYwgNeDZJptRP9lVC2Ub) | [Glitter](https://open.spotify.com/artist/71MEhfwtdSht8OZJGlDx1c) | [Kecil Tapi Bercahaya \- Theme song Superstar Junior MentariTV](https://open.spotify.com/album/1JaHTxk1jFzXh6ztM676cx) | 2:51 | 2024-10-31 | 2024-12-06 |
+| [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 | 2025-05-22 |  |
 | [Kehadiran](https://open.spotify.com/track/6MBugUCVzXWEeZdqvzLnti) | [Parade Hujan](https://open.spotify.com/artist/12FqhPQ5x6a1V3UeN7hD9z), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Kehadiran](https://open.spotify.com/album/0YwyFtQzlWuCYX6S59HTyb) | 3:56 | 2024-12-20 | 2025-01-18 |
 | [Kehilanganmu](https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kehilanganmu](https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us) | 3:53 | 2024-05-09 | 2024-06-14 |
 | [Keluarga \- From" Glenn Fredly The Movie"](https://open.spotify.com/track/6HXZEmzDZ1lc87YKVhEnCg) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Keluarga \(From" Glenn Fredly The Movie"\)](https://open.spotify.com/album/2dHxY8VTmKUjfIxGtxi0ns) | 3:54 | 2024-03-14 | 2024-05-03 |

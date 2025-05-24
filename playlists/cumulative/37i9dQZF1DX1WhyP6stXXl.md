@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Nico Santos
 
-1,085 songs - 2 day 6 hr 46 min
+1,086 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,6 +940,7 @@
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Tears on the dancefloor](https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Tears on the dancefloor](https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj) | 2:53 | 2024-08-22 | 2024-09-20 |
 | [Tears To Stay](https://open.spotify.com/track/702sclnvy3bqY7KcUZarpr) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Tears To Stay](https://open.spotify.com/album/56v1Xxrq0f6iodYsedT9Bw) | 2:05 | 2024-07-04 | 2024-08-02 |
+| [That's Just Love](https://open.spotify.com/track/3axt8o9qCEM8EPjHHLn0mR) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [HEARTSTRINGS](https://open.spotify.com/album/3M4BDnaYzmeRD0HD3LPNiR) | 3:00 | 2025-05-23 |  |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-10 | 2025-05-09 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2024-11-15 |
 | [The Alchemist](https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist](https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC) | 3:32 | 2024-12-05 | 2025-01-10 |

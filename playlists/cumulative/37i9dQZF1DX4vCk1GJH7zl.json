@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Diz que me ama (Lua)",
+        "url": "https://open.spotify.com/album/6WYGShHH2DUZywA4DlAzXW"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180351,
+      "name": "Diz que me ama (Lua)",
+      "url": "https://open.spotify.com/track/62mknPDv8tCAbcnCJPc25e"
+    },
+    {
+      "album": {
         "name": "Seres Humanos (e a Intelig\u00eancia Artificial)",
         "url": "https://open.spotify.com/album/76vczkF1upttoxgHfgHjo3"
       },
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"

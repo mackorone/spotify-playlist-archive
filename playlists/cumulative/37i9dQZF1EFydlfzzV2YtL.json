@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Sucker Punch",
+        "url": "https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203570,
+      "name": "Mine Right Now",
+      "url": "https://open.spotify.com/track/7zvwxSE35TwHoXiolyjRDX"
+    },
+    {
+      "album": {
         "name": "How To Let Go",
         "url": "https://open.spotify.com/album/4V714KyABj469FBI9Dao8T"
       },

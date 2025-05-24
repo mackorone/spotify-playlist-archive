@@ -1,28 +1,32 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Prince Royce",
-  "num_followers": 53356,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Becky G &amp; Manuel Turizo",
+  "num_followers": 53355,
   "original_name": "Pop Latin Hits 2025",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAATbJSMLeO5MTe49Sa0aCuSbeoyw0nN",
+  "snapshot_id": "AAATcwo/VT+oWzaFoWV2FQlcnUmovFBG",
   "tracks": [
     {
-      "added_at": "2025-05-16 01:40:11",
+      "added_at": "2025-05-09 04:26:35",
       "album": {
-        "name": "I Want It That Way",
-        "url": "https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs"
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 156500,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb"
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
       "added_at": "2025-05-22 23:02:26",
@@ -45,24 +49,36 @@
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
     },
     {
-      "added_at": "2025-05-09 04:26:35",
+      "added_at": "2025-05-23 21:55:27",
       "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/7psjGlv0cm7uhTrk7hYIwb"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
+      "duration_ms": 141901,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/74kLIWUGkBj9fvGAevAhZS"
+    },
+    {
+      "added_at": "2025-05-16 01:40:11",
+      "album": {
+        "name": "I Want It That Way",
+        "url": "https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb"
     },
     {
       "added_at": "2025-04-11 00:49:26",

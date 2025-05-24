@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 37211,
+  "num_followers": 37239,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Right Here - Human Nature Radio Mix",
-      "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
         "name": "Homebase",
         "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 270973,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Beautifully Human: Words and Sounds Vol. 2",
@@ -1147,6 +1131,22 @@
       "duration_ms": 231560,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
     },
     {
       "added_at": "2023-06-16 17:58:31",

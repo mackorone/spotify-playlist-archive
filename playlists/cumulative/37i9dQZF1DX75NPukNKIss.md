@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
 
-121 songs - 5 hr 37 min
+122 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Got You](https://open.spotify.com/track/237yt61ZnMPZBeLylJ43lI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Set The Tone](https://open.spotify.com/album/1R2kDXi7J13y9NMUGYiQVm) | 3:06 | 2025-05-09 |  |
 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-10-25 |  |
 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 | 2024-10-25 |  |
+| [Heavenly pt3](https://open.spotify.com/track/7wLWyvTZbhkoDHj7xX4d6C) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Heavenly pt3](https://open.spotify.com/album/2ZVSpquFwdo2Hz4et5ULEn) | 2:53 | 2025-05-23 |  |
 | [Hood Love Story](https://open.spotify.com/track/6YqllTrCzrCJQghRu4vdtS) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Hood Love Story](https://open.spotify.com/album/3jPCWncrNMtE7eJRHEkGNP) | 2:36 | 2024-11-22 | 2024-11-30 |
 | [IMU](https://open.spotify.com/track/7JuKh9giCATc0CD2GMegYW) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 3:15 | 2024-10-25 |  |
 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 | 2024-10-25 |  |

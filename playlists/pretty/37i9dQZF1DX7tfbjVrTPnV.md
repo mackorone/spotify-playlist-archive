@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,996 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,019 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 18 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
 | 19 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
 | 20 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
-| 21 | [Look At Miss Ohio](https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 4:16 |
-| 22 | [Do I Look Worried](https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 4:33 |
+| 21 | [Do I Look Worried](https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 4:33 |
+| 22 | [Look At Miss Ohio](https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 4:16 |
 | 23 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 24 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 |
 | 25 | [A House Is A Home](https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ellen Harper](https://open.spotify.com/artist/6cGzcfuIBFaQjjcuW688Dy) | [Childhood Home](https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX) | 2:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 64 | [Django and Jimmie](https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:53 |
 | 65 | [One's On The Way \(feat\. Margo Price\)](https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Still Woman Enough](https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv) | 2:41 |
 | 66 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 |
-| 67 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
-| 68 | [Whole Lotta Highway \(With A Million Miles to Go\)](https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB) | 3:18 |
+| 67 | [Whole Lotta Highway \(With A Million Miles to Go\)](https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB) | 3:18 |
+| 68 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
 | 69 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 |
 | 70 | [Time After Time \- Live from Spotify NYC](https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Spotify Sessions](https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf) | 5:29 |
 | 71 | [Oh Soul](https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Trouble and Love](https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR) | 5:26 |

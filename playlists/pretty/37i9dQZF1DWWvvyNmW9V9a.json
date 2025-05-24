@@ -1,13 +1,65 @@
 {
   "description": "\ud83d\udc97 forever and ever \ud83d\udc97",
-  "num_followers": 2113227,
+  "num_followers": 2113025,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALTTgR+m2o2rULtcKVjfOHDxZNMh",
+  "snapshot_id": "aC/y8AAAAADnYUL3YaLSuHQd5ohrWbRC",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 141738,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
+    },
+    {
+      "added_at": "2025-03-21 04:01:01",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
     {
       "added_at": "2025-05-16 04:00:12",
       "album": {
@@ -27,22 +79,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-05-16 04:00:12",
@@ -79,6 +115,54 @@
     {
       "added_at": "2025-05-16 04:00:12",
       "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby - Stereo Mix",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+    },
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "Sue me",
+        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "Stateside",
+        "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Stateside",
+      "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
+    },
+    {
+      "added_at": "2025-05-16 04:00:12",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
@@ -91,6 +175,22 @@
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "added_at": "2025-04-15 19:30:27",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 164398,
+      "name": "Seoul City",
+      "url": "https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX"
     },
     {
       "added_at": "2025-05-09 04:00:34",
@@ -129,38 +229,6 @@
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
-      "added_at": "2025-05-16 04:00:12",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
-      "added_at": "2025-05-16 04:00:12",
-      "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 137316,
-      "name": "Gnarly",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
-    },
-    {
       "added_at": "2024-12-27 04:59:47",
       "album": {
         "name": "Love Me Not / Love Is Blind",
@@ -179,18 +247,66 @@
     {
       "added_at": "2025-05-16 04:00:12",
       "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
       },
       "artists": [
         {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby - Stereo Mix",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "Who Knew Dancing Was A Sin",
+        "url": "https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Who Knew Dancing Was A Sin",
+      "url": "https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA"
+    },
+    {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "Little Secret (From \u201cThe Buccaneers S2\u201d Soundtrack)",
+        "url": "https://open.spotify.com/album/5HZCn5QMkHbiLqfemtx8xY"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Little Secret - From \u201cThe Buccaneers S2\u201d Soundtrack",
+      "url": "https://open.spotify.com/track/0eyv0UtzSvjCWPJhXvReDi"
+    },
+    {
+      "added_at": "2025-05-16 04:00:12",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
     },
     {
       "added_at": "2025-05-09 04:00:34",
@@ -209,6 +325,22 @@
       "url": "https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n"
     },
     {
+      "added_at": "2025-05-23 04:00:48",
+      "album": {
+        "name": "Closest Thing",
+        "url": "https://open.spotify.com/album/3F2Oyu797ixoao5346Hu5h"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 179873,
+      "name": "Closest Thing",
+      "url": "https://open.spotify.com/track/2VQ8sUv17EhbDYPTFikF1J"
+    },
+    {
       "added_at": "2025-05-02 04:00:39",
       "album": {
         "name": "French Girls",
@@ -225,36 +357,20 @@
       "url": "https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j"
     },
     {
-      "added_at": "2025-04-25 04:00:38",
+      "added_at": "2025-05-23 04:00:48",
       "album": {
-        "name": "Stateside",
-        "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
+        "name": "We are",
+        "url": "https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 168040,
-      "name": "Stateside",
-      "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
-    },
-    {
-      "added_at": "2025-04-15 19:30:27",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 164398,
-      "name": "Seoul City",
-      "url": "https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX"
+      "duration_ms": 154386,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
     },
     {
       "added_at": "2025-05-09 04:00:34",
@@ -273,22 +389,6 @@
       "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
     },
     {
-      "added_at": "2025-05-09 04:00:34",
-      "album": {
-        "name": "Sue me",
-        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
-    },
-    {
       "added_at": "2025-02-07 05:00:27",
       "album": {
         "name": "Ordinary",
@@ -303,6 +403,22 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "A-Lister",
+        "url": "https://open.spotify.com/album/6tprOLk7H0tCHRZEj2nKFR"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "A-Lister",
+      "url": "https://open.spotify.com/track/7GRPnTVWiFqlC3EAvFiKvY"
     },
     {
       "added_at": "2025-05-09 04:00:34",
@@ -403,22 +519,6 @@
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
-    },
-    {
-      "added_at": "2025-05-09 04:00:34",
-      "album": {
-        "name": "A-Lister",
-        "url": "https://open.spotify.com/album/6tprOLk7H0tCHRZEj2nKFR"
-      },
-      "artists": [
-        {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "A-Lister",
-      "url": "https://open.spotify.com/track/7GRPnTVWiFqlC3EAvFiKvY"
     },
     {
       "added_at": "2025-05-09 04:00:34",
@@ -1497,26 +1597,6 @@
       "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
     },
     {
-      "added_at": "2025-02-21 05:00:19",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 156222,
-      "name": "I know love (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
-    },
-    {
       "added_at": "2025-03-21 00:00:14",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -1549,54 +1629,6 @@
       "url": "https://open.spotify.com/track/0P81XsLbHOGPMzTwMtmxfP"
     },
     {
-      "added_at": "2025-03-28 04:31:12",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
-    },
-    {
-      "added_at": "2025-03-21 04:09:22",
-      "album": {
-        "name": "southbound / test drive",
-        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 137923,
-      "name": "southbound",
-      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
-    },
-    {
-      "added_at": "2025-01-28 21:09:53",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
-    },
-    {
       "added_at": "2025-03-21 00:00:14",
       "album": {
         "name": "What A Devastating Turn of Events",
@@ -1611,78 +1643,6 @@
       "duration_ms": 217578,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ"
-    },
-    {
-      "added_at": "2025-02-14 05:00:22",
-      "album": {
-        "name": "AMORTAGE",
-        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 190806,
-      "name": "earthquake",
-      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:27",
-      "album": {
-        "name": "Born Again (feat. Doja Cat & RAYE)",
-        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 231174,
-      "name": "Born Again (feat. Doja Cat & RAYE)",
-      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
-      "added_at": "2025-02-04 01:16:49",
-      "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
     },
     {
       "added_at": "2024-10-18 04:00:00",

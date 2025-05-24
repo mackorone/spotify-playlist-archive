@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-797 songs - 1 day 18 hr 38 min
+798 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 | 2022-10-31 |
 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 | 2023-03-10 | 2023-07-08 |
 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 |  |
-| [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 | 2024-09-23 |  |
+| [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 | 2024-09-23 | 2025-05-24 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-10-01 |
 | [DIET\_](https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 2:23 | 2021-09-03 | 2022-02-17 |
 | [Different](https://open.spotify.com/track/4B9eAQnzraeMTZ2B0ioKQG) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [4\-Pack Fridays, Vol\. 2](https://open.spotify.com/album/1r3C3zQtoiMi4d9VL1QKoD) | 3:21 | 2022-03-25 | 2022-04-18 |
@@ -712,6 +712,7 @@
 | [The Caliphate \(feat\. Vince Staples\)](https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [The Caliphate \(feat\. Vince Staples\)](https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD) | 3:50 | 2023-09-15 | 2024-03-02 |
 | [The Chosen](https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [The Chosen](https://open.spotify.com/album/1Xbrko0o19AaO2GzsNbWRE) | 2:55 | 2023-04-28 | 2023-05-13 |
 | [The Dakota](https://open.spotify.com/track/6KeSzWJ7a6fotPJgAmi3jd) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [DviousMindz](https://open.spotify.com/artist/1Vg7Gc56gwZOTWYNdlaJBt) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:31 | 2022-02-04 | 2022-04-18 |
+| [The Dead Apple](https://open.spotify.com/track/3E0vJ5w8BmK4KapEJ5ZWUI) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [The Dead Apple / New York Crash](https://open.spotify.com/album/5XwaABkGUxYERVfV9q6e4L) | 4:14 | 2025-05-23 |  |
 | [The Elephant Man's Bones](https://open.spotify.com/track/0l2cfkm5quNvOiaHTmgUwu) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:37 | 2023-11-03 | 2023-11-18 |
 | [THE FINAL CALL \(feat\. Jay Electronica\)](https://open.spotify.com/track/7eIAKM9rfW6CWvRehVlpBL) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [The Final Call](https://open.spotify.com/album/727O17Cvp3DDONyTshbrG6) | 4:00 | 2025-02-21 | 2025-04-26 |
 | [The Game](https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [The Game](https://open.spotify.com/album/26tRs1uVatxA2XXvsavBcW) | 2:44 | 2021-09-03 | 2022-03-18 |

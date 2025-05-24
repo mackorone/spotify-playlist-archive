@@ -1,33 +1,13 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 48198,
+  "num_followers": 48224,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAACk5Q91VwRAi65R+Z7Wj9Ma",
+  "snapshot_id": "aC5pAAAAAADADoJTzUF/1U3BB1Q5wGvC",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Jesus Come",
-        "url": "https://open.spotify.com/album/0BsrlJXKGeo6ncE0qdkrSt"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 291196,
-      "name": "Come Jesus Come",
-      "url": "https://open.spotify.com/track/7ERIyVaNIDWfnWpHc3jSzN"
-    },
     {
       "added_at": null,
       "album": {
@@ -199,6 +179,26 @@
       "duration_ms": 327215,
       "name": "How Great Is Our God/How Great Thou Art - Medley",
       "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/0BsrlJXKGeo6ncE0qdkrSt"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 291196,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/7ERIyVaNIDWfnWpHc3jSzN"
     },
     {
       "added_at": null,
@@ -452,7 +452,7 @@
       "added_at": null,
       "album": {
         "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
       "artists": [
         {
@@ -462,7 +462,7 @@
       ],
       "duration_ms": 212053,
       "name": "Just To Be Close To You - Live",
-      "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
+      "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 51466,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
+      "duration_ms": 288866,
+      "name": "It Wasn't Easy",
+      "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 288866,
-      "name": "It Wasn't Easy",
-      "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
+      "duration_ms": 51466,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
     },
     {
       "added_at": null,

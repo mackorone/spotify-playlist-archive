@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 23 min
+62 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Barce\-Loner](https://open.spotify.com/track/5JsxX5mxbXvgX8e8R0uH5x) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:15 | 2022-09-16 |  |
 | [Bella](https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 2:45 | 2022-12-20 |  |
 | [Bella](https://open.spotify.com/track/70XGnbj2KKcAaTEwZRqzYR) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 2:45 | 2022-09-16 | 2022-12-21 |
+| [Big Dogs](https://open.spotify.com/track/3XgZv8J2mB73xJiDQ7MjgR) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Big Dogs](https://open.spotify.com/album/2LCJWfVoj8pusZE9Ed2F93) | 2:44 | 2025-05-24 |  |
 | [Black Limousine](https://open.spotify.com/track/3mme63UbfIFkTTX9g4nxXp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:17 | 2024-06-24 | 2024-07-03 |
 | [Broken Knee](https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:33 | 2022-09-16 |  |
 | [Celebrity Mansions](https://open.spotify.com/track/2cGYrleMCxBKTYbsiGXF56) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:38 | 2022-09-16 |  |

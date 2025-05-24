@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26864,
+  "num_followers": 26874,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAABWQUkLrnkcsV1JKBxO+DHg",
+  "snapshot_id": "aC5pAAAAAAAMJMFGjl2fXkmLbvAyQ0nL",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+        "name": "CHECK",
+        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
       },
       "artists": [
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
+      "duration_ms": 207000,
+      "name": "CHECK",
+      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
     },
     {
       "added_at": null,
@@ -619,26 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHECK",
-        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
       },
       "artists": [
-        {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 207000,
-      "name": "CHECK",
-      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,

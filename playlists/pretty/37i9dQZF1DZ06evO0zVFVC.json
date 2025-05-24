@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 104038,
+  "num_followers": 104064,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAACVmni+jNPIZk3forWPDaj/",
+  "snapshot_id": "aC5pAAAAAAAfzGYrb05sax92Dh6DtO7I",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f"
+      "duration_ms": 241033,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 241033,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
+      "duration_ms": 229173,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        },
+        {
+          "name": "No Apologies",
+          "url": "https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt"
         }
       ],
-      "duration_ms": 210012,
-      "name": "Into the Dark",
-      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
+      "duration_ms": 201653,
+      "name": "Dead Man's Chest",
+      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
     },
     {
       "added_at": null,
@@ -675,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        },
-        {
-          "name": "No Apologies",
-          "url": "https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Dead Man's Chest",
-      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
+      "duration_ms": 210012,
+      "name": "Into the Dark",
+      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
     },
     {
       "added_at": null,

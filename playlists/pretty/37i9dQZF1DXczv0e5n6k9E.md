@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: VLOSPA, Sadam, Dof Twogee
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,308 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,325 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 3 | [BARS ARE BACK](https://open.spotify.com/track/2S4GtshD15cdkk8I1ATdvr) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [BARS ARE BACK](https://open.spotify.com/album/0PUR4yyQSOtWW3drzdowMB) | 3:00 |
 | 4 | [SOSA](https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [SOSA](https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx) | 2:48 |
 | 5 | [NARCOTRAFICANTE](https://open.spotify.com/track/4vpn2IGV4Eb3249OJ5X3dH) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [M3NTRA](https://open.spotify.com/artist/2PGUfaiMdCRUBN4h0hcVcn) | [NARCOTRAFICANTE](https://open.spotify.com/album/5ll2b0AmYBnCkjWmvAFAg7) | 2:31 |
-| 6 | [EKANA TO LATHOS](https://open.spotify.com/track/70r70apaAnBPVf8va0IR3K) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 2:58 |
+| 6 | [EKANA TO LATHOS](https://open.spotify.com/track/70r70apaAnBPVf8va0IR3K) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 2:58 |
 | 7 | [Delay](https://open.spotify.com/track/20mZEbn4B984Rw7WH0Q075) | [Rammenos Assos](https://open.spotify.com/artist/3pb0mN0l2oMj8RIkJFI2t4), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Delay](https://open.spotify.com/album/1kOvdqcmRZiUR5zw2ZIh82) | 2:28 |
 | 8 | [ATHINA](https://open.spotify.com/track/6KURM9fEiDWxHsepuicdx1) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [SE5EIMAIEKEI](https://open.spotify.com/album/0af7T692JsA9UIYXFdimyh) | 2:03 |
 | 9 | [Pempth Vrady](https://open.spotify.com/track/3bBjzzozUPxQw2w7XYYKJ4) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Pempth Vrady](https://open.spotify.com/album/12rLp4XOcIPPiRrewJdFdn) | 2:49 |

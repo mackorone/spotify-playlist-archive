@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Mario Pelchat, Isabelle Boulay
 
-160 songs - 8 hr 38 min
+161 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Jouer](https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Jouer](https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg) | 3:06 | 2025-02-21 |  |
 | [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:10 | 2024-06-28 |  |
 | [L'autre hémisphère](https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'autre hémisphère](https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH) | 3:41 | 2024-08-09 | 2025-05-17 |
+| [L'embranchement](https://open.spotify.com/track/6YnVdI1YVBLsp2wBCrsTb3) | [Stéphane Archambault](https://open.spotify.com/artist/5mW94dZAqDWHpnj23vvXdF) | [Point](https://open.spotify.com/album/54amvrCm1neA2wWwLRX7Wo) | 3:52 | 2025-05-23 |  |
 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 | 2024-06-28 |  |
 | [La fête \- Radio Edit](https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2) | [Éléonore Lagacé](https://open.spotify.com/artist/3el018EY0lmSRv79CZORvk) | [La fête \(Radio Edit\)](https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS) | 3:05 | 2024-06-28 |  |
 | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ) | 3:56 | 2024-06-28 | 2024-10-05 |
@@ -137,7 +138,7 @@
 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 | 2024-06-28 |  |
 | [Ses dents](https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Domino](https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D) | 2:47 | 2024-11-22 |  |
 | [Shalala](https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [Shalala](https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt) | 2:42 | 2024-06-28 |  |
-| [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 | 2024-06-28 |  |
+| [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 | 2024-06-28 | 2025-05-24 |
 | [Si tu demandais](https://open.spotify.com/track/5LFJRjiD32OZbLnaMSWWpj) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Tour de force](https://open.spotify.com/album/7FZTXjf8KGLUZTdHA5PE90) | 4:20 | 2025-01-24 |  |
 | [Solitaire](https://open.spotify.com/track/2aEywV56tFZ5TMxtY7KRa4) | [Dan Daraîche](https://open.spotify.com/artist/3WStoaPPIQwKa2kYgZWniI) | [Solitaire](https://open.spotify.com/album/1myDYKhNWqKI4RJm0pWAeM) | 3:21 | 2025-04-18 |  |
 | [Sous terre](https://open.spotify.com/track/78DTEJgFp4ZqEd3WiLm5E0) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Sous terre](https://open.spotify.com/album/4FZAZueu52fRQLMZfbJPtO) | 3:21 | 2024-06-28 | 2024-08-24 |

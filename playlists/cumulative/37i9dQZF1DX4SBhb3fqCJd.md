@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: PARTYNEXTDOOR & Drake
+> Where R&B lives\. Cover: GIVĒON
 
 643 songs - 1 day 11 hr 55 min
 

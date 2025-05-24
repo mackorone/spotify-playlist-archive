@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Nelli Matula ja Sara Siipola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,177 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,194 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 74 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 75 | [Parasta aikaa](https://open.spotify.com/track/5v8BGpuURGF8ydZAomM0WZ) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Parasta aikaa](https://open.spotify.com/album/1GIr1W3rj6izFP6EVshBo0) | 2:08 |
 
-Snapshot ID: `aC+QqQAAAAB85OsrXigQsb+yTxXn7+Ns`
+Snapshot ID: `aDAVFwAAAACHJQhwXEGHEzTKoEvOs9pV`

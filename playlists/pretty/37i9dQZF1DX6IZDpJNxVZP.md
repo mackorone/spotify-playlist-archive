@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,354 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,344 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 59 | [Halloween Costume Party](https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Halloween Sing Along](https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT) | 2:59 |
 | 60 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
 | 61 | [Who Let The Ghosts Out](https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:46 |
-| 62 | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi) | 2:20 |
-| 63 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
+| 62 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
+| 63 | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi) | 2:20 |
 | 64 | [Skeleton Dance](https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 2:06 |
 | 65 | [I Picked One Pumpkin](https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [I Picked One Pumpkin](https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ) | 2:10 |
 | 66 | [Dracula Spectacular](https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo), [John Bayne](https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE) | [Dracula Spectacular](https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc) | 2:29 |

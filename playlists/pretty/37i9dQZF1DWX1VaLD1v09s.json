@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 83942,
+  "num_followers": 83943,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Azusa The Next Generation",
-        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        }
-      ],
-      "duration_ms": 441546,
-      "name": "Every Praise - (album edit)",
-      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Fear No More",
         "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Azusa The Next Generation",
+        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "duration_ms": 441546,
+      "name": "Every Praise - (album edit)",
+      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Stars Go Dim",
         "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 206648,
       "name": "You Are Loved",
       "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Holy Jesus",
-        "url": "https://open.spotify.com/album/2XzkenTIwnHipgyRC61WQ2"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        },
-        {
-          "name": "Mariah McManus Goss",
-          "url": "https://open.spotify.com/artist/4NFdgVfqbDIAzHDhQKB6In"
-        }
-      ],
-      "duration_ms": 448503,
-      "name": "Holy Jesus",
-      "url": "https://open.spotify.com/track/1NcL8hR3dfpDyUwNqQLbY8"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 414391,
       "name": "Look To The Lamb",
       "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Holy Jesus",
+        "url": "https://open.spotify.com/album/2XzkenTIwnHipgyRC61WQ2"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        },
+        {
+          "name": "Mariah McManus Goss",
+          "url": "https://open.spotify.com/artist/4NFdgVfqbDIAzHDhQKB6In"
+        }
+      ],
+      "duration_ms": 448503,
+      "name": "Holy Jesus",
+      "url": "https://open.spotify.com/track/1NcL8hR3dfpDyUwNqQLbY8"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Yes I Will",
-        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "CAIN - EP",
         "url": "https://open.spotify.com/album/3CniQsVV0nPx2OoUQh0CfZ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 198747,
       "name": "Yes He Can",
       "url": "https://open.spotify.com/track/5QJRT6u1hJuHSE0BeuEEud"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Yes I Will",
+        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "What You Could Do With Me",
-        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 231550,
-      "name": "What You Could Do With Me",
-      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 201401,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "What You Could Do With Me",
+        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 231550,
+      "name": "What You Could Do With Me",
+      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Precious Gold",
-        "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
-      },
-      "artists": [
-        {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Precious Gold",
-      "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Love Has A Name (Studio Version)",
         "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
       },
@@ -1775,18 +1755,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+        "name": "Precious Gold",
+        "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 376253,
-      "name": "Mighty Cross",
-      "url": "https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0"
+      "duration_ms": 216400,
+      "name": "Precious Gold",
+      "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 376253,
+      "name": "Mighty Cross",
+      "url": "https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Valley of the Shadow",
         "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
       },
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Already Not Yet - EP",
-        "url": "https://open.spotify.com/album/6XYL9HyAKieqmNHCwB9CCJ"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Nothing but the Blood",
-      "url": "https://open.spotify.com/track/065Co6FqBnpguEmwSOzJ4q"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "The Hymns",
         "url": "https://open.spotify.com/album/7i8SdLdKus9UP5WufzYwiN"
       },
@@ -1851,6 +1835,38 @@
       "duration_ms": 242240,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/07N7sIm0fVSeyHA4O8Hv9u"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Resurrection Power",
+        "url": "https://open.spotify.com/album/2YhFqn45YFhsEup9Av0lrh"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Resurrection Power",
+      "url": "https://open.spotify.com/track/20bD4lkiXkxl5VVg0Y7Tjz"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Already Not Yet - EP",
+        "url": "https://open.spotify.com/album/6XYL9HyAKieqmNHCwB9CCJ"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Nothing but the Blood",
+      "url": "https://open.spotify.com/track/065Co6FqBnpguEmwSOzJ4q"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1883,22 +1899,6 @@
       "duration_ms": 237866,
       "name": "Untitled Hymn (Come To Jesus)",
       "url": "https://open.spotify.com/track/7CC5wCbUKZtyfrruQgp86v"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "Resurrection Power",
-        "url": "https://open.spotify.com/album/2YhFqn45YFhsEup9Av0lrh"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Resurrection Power",
-      "url": "https://open.spotify.com/track/20bD4lkiXkxl5VVg0Y7Tjz"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "A Better Word",
-        "url": "https://open.spotify.com/album/2SHolEGtQ0budBudf8LYaZ"
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
       },
       "artists": [
         {
-          "name": "Bethany Barnard",
-          "url": "https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 301002,
-      "name": "High & Lowly",
-      "url": "https://open.spotify.com/track/3JJ0ir0D41tww1n28pBWEV"
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+        "name": "A Better Word",
+        "url": "https://open.spotify.com/album/2SHolEGtQ0budBudf8LYaZ"
       },
       "artists": [
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Bethany Barnard",
+          "url": "https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk"
         }
       ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+      "duration_ms": 301002,
+      "name": "High & Lowly",
+      "url": "https://open.spotify.com/track/3JJ0ir0D41tww1n28pBWEV"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Faith And Wonder (Live)",
-        "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 359374,
-      "name": "Who Could (Live)",
-      "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Josh White & Josh Garrels",
         "url": "https://open.spotify.com/album/5kayrzna2TfsoTeVcjk1kx"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 224520,
       "name": "Hallelujah For The Cross",
       "url": "https://open.spotify.com/track/6TVUJKNnDfvPM6jtXWMcrO"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Faith And Wonder (Live)",
+        "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 359374,
+      "name": "Who Could (Live)",
+      "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Two Coasts for Comfort",
+        "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Were You There",
+      "url": "https://open.spotify.com/track/59NpCm0lOMObumSe0soohI"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Look At What The Blood Has Done (Live)",
         "url": "https://open.spotify.com/album/7zCjHQRVh97TQZFeD3yS0U"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 350857,
       "name": "Look At What The Blood Has Done - Live",
       "url": "https://open.spotify.com/track/7i2ELDMeAw0I3HtFYbUmws"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "Two Coasts for Comfort",
-        "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Were You There",
-      "url": "https://open.spotify.com/track/59NpCm0lOMObumSe0soohI"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2519,26 +2519,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Said And Done (feat. Connor Thompson & TEMITOPE)",
-        "url": "https://open.spotify.com/album/4ZX4fNWjfYoV4hgZISXQWl"
+        "name": "All My Praise",
+        "url": "https://open.spotify.com/album/2SGRAtlh30q2on1fgkcArw"
       },
       "artists": [
         {
-          "name": "Lakepointe Music",
-          "url": "https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a"
-        },
-        {
-          "name": "Connor Thompson",
-          "url": "https://open.spotify.com/artist/49BdsMaSi1CRYDoTO2M72M"
-        },
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Said And Done (feat. Connor Thompson & TEMITOPE)",
-      "url": "https://open.spotify.com/track/3lGQJt3bz1fTUVfVI9EEOB"
+      "duration_ms": 207438,
+      "name": "All My Praise",
+      "url": "https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2559,18 +2551,26 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "All My Praise",
-        "url": "https://open.spotify.com/album/2SGRAtlh30q2on1fgkcArw"
+        "name": "Said And Done (feat. Connor Thompson & TEMITOPE)",
+        "url": "https://open.spotify.com/album/4ZX4fNWjfYoV4hgZISXQWl"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Lakepointe Music",
+          "url": "https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a"
+        },
+        {
+          "name": "Connor Thompson",
+          "url": "https://open.spotify.com/artist/49BdsMaSi1CRYDoTO2M72M"
+        },
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
         }
       ],
-      "duration_ms": 207438,
-      "name": "All My Praise",
-      "url": "https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk"
+      "duration_ms": 317000,
+      "name": "Said And Done (feat. Connor Thompson & TEMITOPE)",
+      "url": "https://open.spotify.com/track/3lGQJt3bz1fTUVfVI9EEOB"
     },
     {
       "added_at": "2025-04-17 21:35:44",

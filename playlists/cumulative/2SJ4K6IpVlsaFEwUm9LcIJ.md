@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-583 songs - 1 day 9 hr 41 min
+586 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Dust beam](https://open.spotify.com/track/2R6VAECQgZYy4Zn8tIXGi6) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 2:06 | 2024-12-27 | 2025-01-12 |
 | [Dust To Dust](https://open.spotify.com/track/3XSlfc6P1mXb1L8E8LnP1r) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Other Music](https://open.spotify.com/album/0yy1zI58b41lIbcICxNTbE) | 3:37 | 2024-09-23 | 2024-11-14 |
 | [Ease the Work](https://open.spotify.com/track/71YNoaT0JZ1UUqX00lluRp) | [Hour](https://open.spotify.com/artist/4o9osC05KC6Gayy2WN78p3) | [Ease the Work](https://open.spotify.com/album/6NjKoUqVBjCROQR34U1iE0) | 3:54 | 2024-07-17 | 2024-09-08 |
+| [Easy](https://open.spotify.com/track/7ljOUUgZGtG5euoSjAwBKU) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 3:15 | 2025-05-23 |  |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
 | [Elastic Dance](https://open.spotify.com/track/0WteRY4jMvEd1zEAdmlfhe) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 3:58 | 2025-03-01 | 2025-05-09 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-13 | 2024-05-16 |
@@ -166,6 +167,7 @@
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 | 2024-11-14 |
 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 | 2025-02-26 | 2025-03-03 |
 | [Feeling Sad Tonight](https://open.spotify.com/track/3UKhzKdWIM8vd1qWPxLRkP) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:13 | 2024-11-13 | 2025-01-12 |
+| [Feisty](https://open.spotify.com/track/5b3yINi6jbTdURfGU4nKoC) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:40 | 2025-05-23 |  |
 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 | 2025-02-26 | 2025-03-02 |
 | [First it was a movie, then it was a book](https://open.spotify.com/track/7ExHIXcOVFpQ3LexAhjl3u) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [First it was a movie, then it was a book](https://open.spotify.com/album/1Rie4axh0gfYJhuN358run) | 6:50 | 2025-04-12 | 2025-05-09 |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 | 2024-03-10 |
@@ -307,6 +309,7 @@
 | [Left Handed \- Maxi Version](https://open.spotify.com/track/2VpFGTK1Z7UBhq1NMNuCpn) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Left Handed](https://open.spotify.com/album/5Qs51CPwMKeOB7rdC7OBpn) | 3:43 | 2024-11-25 | 2024-12-04 |
 | [Let Me Speak](https://open.spotify.com/track/2r1yGtdhw3O9GmgD1ygTCe) | [Gemma Cullingford](https://open.spotify.com/artist/6WR6hPeb9Qq39fAm88GtcL) | [Let Me Speak](https://open.spotify.com/album/6VE153qE47R8O4ac49XxrM) | 3:37 | 2024-12-09 | 2025-01-12 |
 | [Let the Moon Get Into It](https://open.spotify.com/track/1stYzcsEDzXXKyjQ2zyLx5) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 6:29 | 2025-04-02 | 2025-05-09 |
+| [Life & Soul](https://open.spotify.com/track/06bQjjfW8ajdj6hTRcdbvk) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 2:37 | 2025-05-23 |  |
 | [Like Fire Like Ice](https://open.spotify.com/track/2J2Xzrf5nUnX3YZE6lPa8n) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Alternity](https://open.spotify.com/album/7zS98tpOYwsJje1Qs9KhOx) | 1:58 | 2024-03-26 | 2024-05-16 |
 | [Like Lovers Do](https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Like Lovers Do](https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W) | 2:50 | 2024-06-08 | 2024-07-12 |
 | [Lip Reader](https://open.spotify.com/track/7ooMmZLFTrbHW0jZK97DsB) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Disaster Trick](https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki) | 2:31 | 2024-09-08 | 2024-11-14 |

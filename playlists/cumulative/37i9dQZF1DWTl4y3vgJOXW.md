@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: NBA MVP Shai Gilgeous\-Alexander
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and Tyrese Haliburton
 
-808 songs - 1 day 17 hr 34 min
+810 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Do The Most](https://open.spotify.com/track/5zUV9himo9PjjEkw9M7YNF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [New Year's Eve Club Pre\-Drink](https://open.spotify.com/album/4NHf6vTLGhAyyHrw2Y14bC) | 2:24 | 2022-09-02 | 2022-11-13 |
 | [Do The Most](https://open.spotify.com/track/6ZBqCuo8fUGSZJGYR9LNwL) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Do The Most](https://open.spotify.com/album/1l0LngTiAHc8RvL3nqZ9Z4) | 2:24 | 2021-09-02 | 2022-07-29 |
 | [Do The Most](https://open.spotify.com/track/7n0lXKEOaFxrAU0R93fIQh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:24 | 2022-06-24 | 2022-12-31 |
+| [Dogshit Talker](https://open.spotify.com/track/4cwRFHg9RMuV86lWzxXOnZ) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:52 | 2025-05-23 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-29 | 2023-08-12 |
 | [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2021-09-02 | 2024-07-27 |
 | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/track/1qXQmENykriAHunVaZc6FW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:45 | 2024-10-25 | 2024-11-02 |
@@ -202,6 +203,7 @@
 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/7LRmDx4pMTQuOBBwRT1MCT) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Plead The 5th](https://open.spotify.com/album/56as8vSyIlRSTNoCgIJb4S) | 3:27 | 2022-06-24 | 2022-12-31 |
 | [Donda Bag](https://open.spotify.com/track/28o1xjzPuXjjj3IfnM6pko) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 3:08 | 2023-08-25 | 2023-09-02 |
 | [DONNY DARKO \(FEAT\. LIL UZI VERT\)](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 1:56 | 2024-06-28 | 2024-09-28 |
+| [Doonies](https://open.spotify.com/track/20q3k9ApOXMEQQbte9zGfC) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Doonies](https://open.spotify.com/album/1vZvyqDmrjD8QqENx3mjjL) | 2:17 | 2025-05-23 |  |
 | [Dope Boy \(with Nigo\)](https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Dope Boy](https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe) | 1:32 | 2024-09-27 |  |
 | [Double Trouble \(Quavo feat\. Meek Mill\)](https://open.spotify.com/track/5YSfZJE0EYrGVsWeYqv9xo) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:56 | 2021-09-02 | 2022-06-25 |
 | [Down Bad \(feat\. JID, Bas, J\. Cole, EARTHGANG & Young Nudy\)](https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 2:49 | 2021-09-02 | 2023-03-03 |

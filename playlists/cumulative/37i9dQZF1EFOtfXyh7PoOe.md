@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 6 hr 53 min
+144 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 | 2025-03-23 |  |
 | [Silence](https://open.spotify.com/track/60hmi2DksV0PYXBMoyiz88) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 1:57 | 2024-06-13 |  |
 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 | 2025-01-07 |  |
+| [Sorry Daniel](https://open.spotify.com/track/7kluw2d1pXKY8qXrLDhBPz) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:14 | 2025-05-23 |  |
 | [Start Walking](https://open.spotify.com/track/3rCnBkJlXQMDvivFU4NEtC) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 3:14 | 2024-06-13 |  |
 | [Stay](https://open.spotify.com/track/0BouPBCd9OuwPtnDhA3ZNK) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 3:00 | 2024-06-13 |  |
 | [Take It Or Leave It](https://open.spotify.com/track/5cZ1TPZO4miMEOO1UNknyd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:07 | 2024-06-13 |  |

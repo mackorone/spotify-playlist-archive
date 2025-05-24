@@ -2605,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "RELOADED",
+        "url": "https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228804,
+      "name": "RELOADED",
+      "url": "https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL"
       },

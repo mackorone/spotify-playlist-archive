@@ -2975,6 +2975,32 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Stisema",
+          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
+        },
+        {
+          "name": "Lulu Voxx",
+          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168124,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+    },
+    {
+      "album": {
         "name": "English Lad",
         "url": "https://open.spotify.com/album/3ro8vbWl5i4D6Sr83aLmur"
       },
@@ -9942,7 +9968,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 189257,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT"

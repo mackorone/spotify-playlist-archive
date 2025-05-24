@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 266526,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5cXQqSOPLb1ZYLBaRcR2LP"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 241714,
       "name": "Amandla Akho",
       "url": "https://open.spotify.com/track/33vjvmN2HbsfKgDws80fJ5"
@@ -17378,7 +17378,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 234900,
       "name": "Hamba Naye",
       "url": "https://open.spotify.com/track/6hKfk07KnmzaShGS33ITy6"
@@ -21322,7 +21322,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 210214,
       "name": "Inyanga",
       "url": "https://open.spotify.com/track/1bQVBe8sQEWnGVw8QUatkP"
@@ -25682,7 +25682,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -30308,7 +30308,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 146086,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
@@ -37904,7 +37904,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 271305,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ"
@@ -43120,7 +43120,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -47916,7 +47916,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 356306,
       "name": "Ungukuphila",
       "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
@@ -49818,7 +49818,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 268051,
       "name": "Warning",
       "url": "https://open.spotify.com/track/6czlLSXNBHkipJ8EpbRuF1"
@@ -50078,7 +50078,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
@@ -52786,6 +52786,28 @@
       "duration_ms": 334778,
       "name": "Ziyakhala",
       "url": "https://open.spotify.com/track/2IQyUReaCs3vy8mg3mijjc"
+    },
+    {
+      "album": {
+        "name": "ZOJIKI IZINTO",
+        "url": "https://open.spotify.com/album/6Yj5YIo7Vp2wU50jJf6ZFh"
+      },
+      "artists": [
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        },
+        {
+          "name": "Fezeka Dlamini",
+          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258665,
+      "name": "ZOJIKI IZINTO",
+      "url": "https://open.spotify.com/track/18FD2GirNEG0XGcGrCux5m"
     },
     {
       "album": {

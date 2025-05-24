@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,975 songs - 1 day 16 hr 2 min
+1,977 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -939,6 +939,7 @@
 | [Lakeside Glow](https://open.spotify.com/track/22mC0rcLewDI58bO48x6VS) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Lakeside Glow](https://open.spotify.com/album/1TtRW8NpfHl3xBAXVwlcpC) | 1:02 | 2022-06-25 |  |
 | [Lakeside Memories](https://open.spotify.com/track/7fTj0UztNFyneHcUNEu7Ww) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Lakeside Memories](https://open.spotify.com/album/7KMx0WHptsg55aFuhamz5q) | 1:02 | 2022-06-26 |  |
 | [Lakeside Waves](https://open.spotify.com/track/7ERjlR0HEknC5ikVnx7e4D) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
+| [Lanterns](https://open.spotify.com/track/7chcNjTO6zQeu1rn4QQIi1) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Lanterns](https://open.spotify.com/album/5vwaROhLCJ1jZ1ar1yjb1p) | 1:00 | 2025-05-23 |  |
 | [Largo \- Cello Version](https://open.spotify.com/track/03t7boXDpq6YRlwrhVtdtz) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Largo \(Cello Version\)](https://open.spotify.com/album/6pcHxlR7ZeDaPzNG3Nu2nj) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Largo Reimagined](https://open.spotify.com/track/6VVygTksotaGbvfyPxMKQ2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Largo Reimagined](https://open.spotify.com/album/6d40xo3GwfVbtUFLPTwxiT) | 1:36 | 2022-01-20 | 2024-01-30 |
 | [Last Year \- Strings Version](https://open.spotify.com/track/4CdRwixEKAMwzudtTIxuGQ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Silent Sunset, Vol\. 2 \(Strings Version\)](https://open.spotify.com/album/3LQhrHUYb4EsaVfYxK3fju) | 1:05 | 2024-02-09 | 2024-02-13 |
@@ -1263,6 +1264,7 @@
 | [Pastel Sky](https://open.spotify.com/track/26EaDK7eL2Qbvh4aAsrZPj) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:03 | 2022-03-08 |  |
 | [Patapan \- Cello Version](https://open.spotify.com/track/2YLYWflhmlnBkKWuoX3lLG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Patapan \(Cello Version\)](https://open.spotify.com/album/0Z7ihQHdJR3AHFJIr5JLEX) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Patapan Arr\. For Cello And Piano](https://open.spotify.com/track/2uoVXMexTdfjEqfXLOpo0l) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Patapan Arr\. For Cello And Piano](https://open.spotify.com/album/0hZLVJdVhdBt9HmWxm1lX5) | 1:07 | 2024-02-09 | 2024-02-13 |
+| [Path](https://open.spotify.com/track/5Vt1C5qZINtmDqhGrSZjjO) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Path](https://open.spotify.com/album/1fmPw4FYgQ7c9PN9cx6k3i) | 1:00 | 2025-05-23 |  |
 | [Patience](https://open.spotify.com/track/0ojel7AP7L7mmyqKjtOhHe) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Patience](https://open.spotify.com/album/4qB0cmvSbzr5IJEBD4ptj4) | 1:00 | 2024-10-08 |  |
 | [Patience And Hope](https://open.spotify.com/track/1Scfz6anlCdK9BdnVNHrii) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 | 2024-01-30 |
 | [Patience and Longing](https://open.spotify.com/track/7kBo7y4VJf1eJ8TCvdrKgV) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:24 | 2022-01-12 |  |

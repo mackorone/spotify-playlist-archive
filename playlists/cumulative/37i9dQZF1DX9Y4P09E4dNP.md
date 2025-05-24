@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: AratheJay and Bella Shmurda
 
-264 songs - 16 hr 53 min
+265 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Demon](https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Behind The Scenes](https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd) | 2:38 | 2024-05-31 | 2024-08-31 |
 | [Dondo](https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:51 | 2020-02-20 | 2022-07-29 |
 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 | 2020-02-20 | 2024-03-05 |
-| [Dreamer](https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:20 | 2025-04-07 |  |
+| [Dreamer](https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:20 | 2025-04-07 | 2025-05-24 |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2021-11-18 | 2024-04-04 |
 | [Effiakuma Broken Heart](https://open.spotify.com/track/3ebcYH7mX3q6muQUBiWhNT) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Effiakuma Broken Heart](https://open.spotify.com/album/4lpN5pNVf6HDWpIrBFd3aC) | 3:09 | 2024-04-19 |  |
 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 | 2025-03-31 |  |
@@ -126,7 +126,7 @@
 | [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 | 2024-09-30 |  |
 | [June July](https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [June July + Pharasee](https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG) | 3:40 | 2024-07-19 | 2024-08-31 |
 | [Keep It Sexy](https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Keep It Sexy](https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0) | 2:39 | 2024-11-15 |  |
-| [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 | 2024-06-21 |  |
+| [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 | 2024-06-21 | 2025-05-24 |
 | [Knees & Bend II \- Remix](https://open.spotify.com/track/2TRpqKAo2M1uSPzjKaBfy9) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Knees & Bend II \(Remix\)](https://open.spotify.com/album/7a2XiDYe5XYoZXBLBEKoAv) | 3:39 | 2025-04-07 |  |
 | [Konkontiba \(feat\. Batman\)](https://open.spotify.com/track/53Y4oaiD8nykrG6pT6pUaQ) | [Obour](https://open.spotify.com/artist/3gPfj7Ur5rEUNRNd8kPjRv), [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:41 | 2020-02-20 | 2022-03-16 |
 | [Kotosa](https://open.spotify.com/track/3mBRt8Ca7OhCew1X1tac0G) | [Wutah](https://open.spotify.com/artist/15YvgMGSsybKVkZIIqOheJ) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:04 | 2020-02-20 | 2022-07-25 |
@@ -240,6 +240,7 @@
 | [Take Away](https://open.spotify.com/track/4u06gL0vNj2Q4UF1cT19GV) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Kofi OO Kofi](https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v) | 2:53 | 2024-05-10 | 2025-04-08 |
 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 | 2022-05-19 | 2024-04-04 |
 | [Tebidi \(feat\. Michael Dwamena\)](https://open.spotify.com/track/3aDUSS1u60v9OIwtQQw3p9) | [Kool Joe](https://open.spotify.com/artist/5M9sGpyOMhWysL6CKLbUKw), [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:56 | 2020-02-20 | 2022-07-29 |
+| [Thank You](https://open.spotify.com/track/0ddHaqvtaq7tVFiIeUo8jS) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Thank You](https://open.spotify.com/album/1EMXcQR3uuFepCADgtQYsT) | 3:10 | 2025-05-23 |  |
 | [Theresa](https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Daddy Lumba Essentials](https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE) | 5:37 | 2020-02-20 | 2022-07-29 |
 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 | 2020-02-20 | 2024-03-05 |
 | [Theresa](https://open.spotify.com/track/5JbM70NquXzGUzMM02M3hQ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [The Very Best of Daddy Lumba, Vol\. 1](https://open.spotify.com/album/2QG8g2t5FiTT6VnpmTO81q) | 5:39 | 2020-02-20 | 2022-11-13 |

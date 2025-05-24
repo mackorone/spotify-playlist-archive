@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. Cover: Linkin Park",
+  "description": "Rock never dies. Cover: House of Protection",
   "name": "MARROW",
   "tracks": [
     {
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 205239,
       "name": "BALCONY",
       "url": "https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 219854,
       "name": "Beta Fish",
       "url": "https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 491696,
       "name": "CCF (I'm Gonna Stay With You)",
       "url": "https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ"
@@ -4551,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189009,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
+    },
+    {
+      "album": {
         "name": "Nonfiction",
         "url": "https://open.spotify.com/album/5tnu3rGzSZuZhkqoKLofh4"
       },
@@ -4722,10 +4740,28 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 153133,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57"
+    },
+    {
+      "album": {
+        "name": "Forgiving",
+        "url": "https://open.spotify.com/album/7trEwuPPg2WdoGBkEkp9bY"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160687,
+      "name": "Forgiving",
+      "url": "https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv"
     },
     {
       "album": {
@@ -5401,6 +5437,24 @@
     },
     {
       "album": {
+        "name": "Outrun You All",
+        "url": "https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
       },
@@ -5746,7 +5800,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 208293,
       "name": "Hearse For Two (feat. Lilith Czar)",
       "url": "https://open.spotify.com/track/0Z831ytcQOgMDimNBObLCI"
@@ -7457,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Kill You Off",
+      "url": "https://open.spotify.com/track/3Z66u0yqHKVX8NwZuWsg3B"
+    },
+    {
+      "album": {
         "name": "kill[h]er",
         "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
       },
@@ -8204,6 +8276,24 @@
       "duration_ms": 260575,
       "name": "Look At The Time",
       "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
+    },
+    {
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "album": {
@@ -14618,7 +14708,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 186453,
       "name": "Tall People Don't Live Long",
       "url": "https://open.spotify.com/track/3hhVZKJSMnCG1LjZkYSohk"
@@ -14856,7 +14946,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 197849,
       "name": "the cost of giving up",
       "url": "https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme"

@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Kilo Kish
+> New and approved indie pop\. Cover: Love Spells
 
-2,119 songs - 4 day 16 hr 8 min
+2,122 songs - 4 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2021-05-08 | 2022-04-15 |
 | [bon iver](https://open.spotify.com/track/10Dm3hTVWVFhOcSo0pVB2R) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [bon iver](https://open.spotify.com/album/7fj2RvovFO6aRoQusbC8nf) | 3:16 | 2020-10-13\* | 2021-06-03 |
 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 | 2022-09-16 | 2022-10-08 |
+| [Bones And All](https://open.spotify.com/track/32NRHTXx7dWCBHaKtinsZ6) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [The Love I Showed You Was Yours To Keep](https://open.spotify.com/album/6mk2yI6dHBQSFlkFiuZXAn) | 3:14 | 2025-05-23 |  |
 | [Bonita](https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Bonito](https://open.spotify.com/album/1XoRwACvB8LyKkBV2cSeVB) | 2:52 | 2022-02-25 | 2022-04-21 |
 | [Bop Ba](https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:32 | 2024-08-30 | 2025-01-24 |
 | [bop it up!](https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [bop it up!](https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC) | 2:46 | 2020-10-24 | 2020-11-15 |
@@ -615,7 +616,7 @@
 | [End Of The World](https://open.spotify.com/track/08CQNIi20pWkYtp2Cd4t3o) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [End Of The World](https://open.spotify.com/album/7K6WpKqY0jElSM2DWvrixK) | 3:12 | 2022-01-28 | 2022-06-07 |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-11 | 2021-11-28 |
 | [enknee1](https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [enknee1](https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci) | 3:44 | 2023-08-25 | 2023-09-30 |
-| [enough](https://open.spotify.com/track/5F5o8qBRbzpkK8yvrWkjPU) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [enough](https://open.spotify.com/album/3NihohRMjIZ6PPAYzi7Mj3) | 3:02 | 2025-05-16 |  |
+| [enough](https://open.spotify.com/track/5F5o8qBRbzpkK8yvrWkjPU) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [enough](https://open.spotify.com/album/3NihohRMjIZ6PPAYzi7Mj3) | 3:02 | 2025-05-16 | 2025-05-24 |
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-15 | 2020-11-15 |
 | [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 | 2023-04-07 | 2023-09-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 | 2024-04-20 |
@@ -970,7 +971,7 @@
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2021-01-15 | 2021-03-02 |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-06-17 | 2022-12-07 |
 | [If Nobody Likes U](https://open.spotify.com/track/7aHpcQcGlehH1LNJaTHUkW) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [If Nobody Likes U](https://open.spotify.com/album/1BjzbpWTiPQQchpat72gCH) | 3:33 | 2022-10-28 | 2022-11-12 |
-| [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 |  |
+| [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-05-24 |
 | [If Only With You](https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If Only With You](https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ) | 3:14 | 2025-02-07 | 2025-04-05 |
 | [If You Ever Leave, I'm Coming with You \- Roosevelt Remix](https://open.spotify.com/track/30k5z3e9VqlkfJuW4cYqvW) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [If You Ever Leave, I'm Coming with You \(Roosevelt Remix\)](https://open.spotify.com/album/08Y1kohczdii3C0YCiBQh5) | 3:30 | 2021-09-24 | 2022-07-29 |
 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 | 2020-10-20 | 2021-05-24 |
@@ -1190,6 +1191,7 @@
 | [Mailbox](https://open.spotify.com/track/5i2Z8cglE6nKOOJBvgEsQf) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Prosthetic Boombox](https://open.spotify.com/album/1K7jPoakaKuGPdwDfnL8fk) | 3:52 | 2021-10-13 | 2021-10-14 |
 | [Main Character](https://open.spotify.com/track/1S62NSjJqkg7b6FaAH7eCL) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Main Character](https://open.spotify.com/album/0iA3gAJ8KxPTaq5todPOqF) | 3:07 | 2021-11-15 | 2021-11-22 |
 | [make believe](https://open.spotify.com/track/5cBco0HKWcHygJPIjuJAKz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [make believe](https://open.spotify.com/album/5li4Bm415QWjC3EB0Ozrke) | 2:34 | 2021-08-07 | 2021-10-16 |
+| [Make Me a Better Man](https://open.spotify.com/track/7uwALmo7FmErDKhNj3Yw7X) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:30 | 2025-05-23 |  |
 | [Make of It](https://open.spotify.com/track/1JhAUdnlUyUqZocC2mvpwH) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Make of It](https://open.spotify.com/album/3XUQkz7PDrkyWbxgUSFgYO) | 2:35 | 2021-09-24 | 2022-04-13 |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-10-02 | 2022-06-15 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-13 | 2024-10-26 |
@@ -1253,7 +1255,7 @@
 | [Mirror](https://open.spotify.com/track/3ojRuwQJsUQz7o9AYbtfUr) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Mirror](https://open.spotify.com/album/0aqHu5PjLZH3jsbY3hkCF8) | 4:05 | 2022-04-08 | 2022-04-17 |
 | [miss andry](https://open.spotify.com/track/4IxRx6byFf1RuXcbNny5qj) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [miss andry](https://open.spotify.com/album/4BeN8xu9ZEPUIPEFVFHuN6) | 4:23 | 2020-10-13\* | 2020-11-10 |
 | [miss me if u want to](https://open.spotify.com/track/5rwDHRNX2ntvlJbcb8xONo) | [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr) | [miss me if u want to](https://open.spotify.com/album/5JZ2VGDwBYO2sZwZJOk3A0) | 2:37 | 2020-10-13\* | 2020-11-20 |
-| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 |  |
+| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 | 2025-05-24 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-05-07 | 2022-04-09 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-25 | 2022-07-02 |
 | [Mona Lisa](https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Mona Lisa](https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5) | 3:33 | 2021-11-12 | 2022-04-21 |
@@ -1953,6 +1955,7 @@
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-08-31 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-10-26 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 |  |
+| [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 |  |
 | [trash tv](https://open.spotify.com/track/5Ht7XiNME36YH0716Svm1j) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 3:18 | 2021-02-13 | 2021-03-23 |
 | [Treat You Right](https://open.spotify.com/track/5Dv6S0ds5gRUlmUV0kONEL) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Treat You Right](https://open.spotify.com/album/4A5ujUcjBtJpi59ul0NZyH) | 3:41 | 2021-05-04 | 2021-10-14 |
 | [Trees](https://open.spotify.com/track/1WxmIERVQy1GK44xEWaeCT) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Trees](https://open.spotify.com/album/17VGUrnHFgwP77ZT6kpn8z) | 3:13 | 2022-05-13 | 2022-07-29 |

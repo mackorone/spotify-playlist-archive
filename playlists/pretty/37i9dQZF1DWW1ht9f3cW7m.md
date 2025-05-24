@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring frances mistry 🎀
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,026 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,027 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 38 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
 | 39 | [Vertigo](https://open.spotify.com/track/3jowQzeDQU4dIAKQg7ahXh) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/4zWfJm5YZnk7ML3mRRi0Xo) | 2:53 |
 | 40 | [Silver Ford](https://open.spotify.com/track/1tpgA9lmb1m3qZm1qTnJtD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Devotion](https://open.spotify.com/album/27vmolsE6YhpGbZoMfdjcv) | 3:56 |
-| 41 | [Dusty](https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:05 |
-| 42 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
+| 41 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
+| 42 | [Dusty](https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:05 |
 | 43 | [God Help Me Now](https://open.spotify.com/track/7s3r1vrkIKndzUmgugLO5J) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [God Help Me Now](https://open.spotify.com/album/4rXoeb8zZTmH7YOriJWRZt) | 3:36 |
 | 44 | [russian doll \- smaller](https://open.spotify.com/track/00iPwEqAow8PUdV73vvIsu) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [russian doll \(smaller\)](https://open.spotify.com/album/0YVvrkQ2UAKBI0svaDhXTe) | 1:01 |
 | 45 | [terabyte](https://open.spotify.com/track/7v4pVIgKXUpDP5mbSQlQcJ) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [terabyte](https://open.spotify.com/album/6T1xqrGXUHVwsgRPTcNeUn) | 4:15 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 48 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 |
 | 49 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 |
 | 50 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
-| 51 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 |
-| 52 | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/track/0Onrt3Z8Q1AKS1KbhtyD9I) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/album/41DncHDKfjpnIUmbDMiFWb) | 3:45 |
+| 51 | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/track/0Onrt3Z8Q1AKS1KbhtyD9I) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/album/41DncHDKfjpnIUmbDMiFWb) | 3:45 |
+| 52 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 |
 | 53 | [Killing the Game](https://open.spotify.com/track/4uKMuSSz5efdaVKZINX0Mi) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/52IVBszkmihtHkZ1QQqjki) | 4:01 |
 | 54 | [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 |
 | 55 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 |
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 65 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 |
 | 66 | [All that !](https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [All that !](https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8) | 3:24 |
 | 67 | [Imposter](https://open.spotify.com/track/1OYOObc7WZnhkhvNgfrB2M) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:33 |
-| 68 | [Sisyphus](https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Sisyphus](https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz) | 3:14 |
-| 69 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 |
-| 70 | [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 |
-| 71 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
+| 68 | [missing everything](https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [missing everything](https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT) | 3:06 |
+| 69 | [Sisyphus](https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Sisyphus](https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz) | 3:14 |
+| 70 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 |
+| 71 | [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 |
 | 72 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 |
-| 73 | [God Isn't Real](https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [God Isn't Real](https://open.spotify.com/album/2aebxXPrkZTqvW6ssEijwT) | 3:56 |
-| 74 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 |
-| 75 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
-| 76 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 |
-| 77 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 |
-| 78 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
-| 79 | [missing everything](https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [missing everything](https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT) | 3:06 |
-| 80 | [With u](https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [With u](https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h) | 2:20 |
+| 73 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
+| 74 | [God Isn't Real](https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [God Isn't Real](https://open.spotify.com/album/2aebxXPrkZTqvW6ssEijwT) | 3:56 |
+| 75 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 |
+| 76 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 |
+| 77 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
+| 78 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 |
+| 79 | [Daisy](https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI) | [Leona Rue](https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe) | [Daisy](https://open.spotify.com/album/4ckNbXTzlhv3EE1xfOQGWv) | 3:15 |
+| 80 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
 
 Snapshot ID: `aC+sfwAAAACDiIbTw97eBPuvq5m6Ae1M`

@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 180059,
       "name": "20",
       "url": "https://open.spotify.com/track/2QgOpD1FsePyvDhx1THvjS"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 205142,
       "name": "247",
       "url": "https://open.spotify.com/track/73QW0R1GUPpsRe2aBwkHhR"
@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 164210,
       "name": "Currency",
       "url": "https://open.spotify.com/track/6s1FbmEGAIm8lfKUv8HUfe"
@@ -8679,6 +8679,24 @@
     },
     {
       "album": {
+        "name": "Money Moves",
+        "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163633,
+      "name": "Money Moves",
+      "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
+    },
+    {
+      "album": {
         "name": "Money Road",
         "url": "https://open.spotify.com/album/0WmazXdNjuGZyKwRnPWwFY"
       },
@@ -9571,6 +9589,24 @@
     },
     {
       "album": {
+        "name": "Oblee",
+        "url": "https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp"
+      },
+      "artists": [
+        {
+          "name": "Tolibian",
+          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157263,
+      "name": "Oblee",
+      "url": "https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr"
+    },
+    {
+      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
       },
@@ -9674,7 +9710,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 166684,
       "name": "Ogun Tio Je",
       "url": "https://open.spotify.com/track/0LsvMLjxPjWk9emU5LvsiD"
@@ -10016,7 +10052,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 170769,
       "name": "Ordinary Person",
       "url": "https://open.spotify.com/track/26pB3AyHUcr3kKzQ1pqI2p"
@@ -10842,6 +10878,28 @@
       "duration_ms": 177600,
       "name": "Pray Hard",
       "url": "https://open.spotify.com/track/49CQhcJkjozkJqlWcaQUpC"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/75tnsxQug4p92qj2Zv5xbb"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Gbolar Mighty",
+          "url": "https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166687,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2cTU9raZgRNam8zvSVP6ei"
     },
     {
       "album": {

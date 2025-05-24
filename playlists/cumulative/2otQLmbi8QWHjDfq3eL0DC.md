@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-313 songs - 15 hr 11 min
+315 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Buscando Money \(with Sean Paul\)](https://open.spotify.com/track/0YlQWYxFRimlpT6egt5414) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buscando Money \(with Sean Paul\)](https://open.spotify.com/album/3yCTRJxxc6EMqobSdBuWcA) | 2:33 | 2024-07-26 | 2024-08-03 |
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-11-03 | 2023-12-16 |
 | [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-11-03 |  |
+| [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-23 |  |
 | [Catchin' Fire](https://open.spotify.com/track/05bAjwIoHLUiIBpjpQVCkq) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Catchin' Fire](https://open.spotify.com/album/0uI0SVmStSPBpulbuoXftT) | 2:51 | 2023-11-03 | 2023-12-02 |
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-17 |  |
 | [Chemistry](https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C), [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Chemistry](https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz) | 2:46 | 2023-11-03 | 2024-12-07 |
@@ -211,6 +212,7 @@
 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-06-10 | 2024-06-15 |
 | [Out Of My Mind](https://open.spotify.com/track/33Xli0CAclZaH5tIhvHOi3) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Out Of My Mind](https://open.spotify.com/album/49gy07qeAjcFvAhM1VSD5K) | 3:26 | 2023-11-03 | 2024-02-03 |
 | [Outta My Head](https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Outta My Head](https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA) | 2:38 | 2023-12-01 | 2024-02-03 |
+| [Over You](https://open.spotify.com/track/6CYt2eYE7TwRNSvFwkEOIp) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Over You](https://open.spotify.com/album/1POC1JA8bQUBjHu6yEmW7R) | 2:42 | 2025-05-23 |  |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2023-11-03 |  |
 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 | 2023-12-01 | 2024-05-11 |
 | [peace u need](https://open.spotify.com/track/4A8tKYA7gwZzQ4jVwIv1sv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 5:44 | 2024-09-06 | 2024-09-21 |

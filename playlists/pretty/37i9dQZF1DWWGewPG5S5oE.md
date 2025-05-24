@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Alter Ego
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,629 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,633 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 38 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
 | 39 | [Darn That Stream](https://open.spotify.com/track/1KePdA771IrZuwbnVkMugX) | [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg), [David Bryant](https://open.spotify.com/artist/2jGd4zEZ9WqoOqhdDjT8PX), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Tokyo Quartet](https://open.spotify.com/album/3LTdeLIwuoWVbxvJml5AG7) | 4:28 |
 | 40 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
-| 41 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 |
-| 42 | [Day 1](https://open.spotify.com/track/1k75rxQyqIuitzhLndCxKe) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Day 1](https://open.spotify.com/album/5U54cWgevUzWQBuFU79eUq) | 8:53 |
+| 41 | [Day 1](https://open.spotify.com/track/1k75rxQyqIuitzhLndCxKe) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Day 1](https://open.spotify.com/album/5U54cWgevUzWQBuFU79eUq) | 8:53 |
+| 42 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 |
 | 43 | [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 |
-| 44 | [Sísifa esperança](https://open.spotify.com/track/1bNa9DyUQLExb9nyfHWttT) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1), [Marcelo Kimura Group](https://open.spotify.com/artist/70x0HGiEbqkyD6JiwRaUEJ) | [Art in the Moment](https://open.spotify.com/album/7f3kZrecPXfuqhc1YXlBIs) | 4:39 |
+| 44 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 |
 | 45 | [Samsara](https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [火の鳥](https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm) | 4:39 |
-| 46 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 |
-| 47 | [Find You Find Me](https://open.spotify.com/track/4d2I2W72Hnal6K6w86mYK9) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Find You Find Me](https://open.spotify.com/album/1xYZtlGvIcHC5qYtjdTy9N) | 3:58 |
-| 48 | [Made In New York](https://open.spotify.com/track/5e7KO7EvjJ3aSzEDGlSJEZ) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs), [King TJ](https://open.spotify.com/artist/6DMTo31eFZKRL4uF5BYGVT) | [Made In New York](https://open.spotify.com/album/6j23V92RmuD9h6SbZeXULT) | 3:33 |
-| 49 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 |
+| 46 | [Made In New York](https://open.spotify.com/track/5e7KO7EvjJ3aSzEDGlSJEZ) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs), [King TJ](https://open.spotify.com/artist/6DMTo31eFZKRL4uF5BYGVT) | [Made In New York](https://open.spotify.com/album/6j23V92RmuD9h6SbZeXULT) | 3:33 |
+| 47 | [Sísifa esperança](https://open.spotify.com/track/1bNa9DyUQLExb9nyfHWttT) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1), [Marcelo Kimura Group](https://open.spotify.com/artist/70x0HGiEbqkyD6JiwRaUEJ) | [Art in the Moment](https://open.spotify.com/album/7f3kZrecPXfuqhc1YXlBIs) | 4:39 |
+| 48 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 |
+| 49 | [Find You Find Me](https://open.spotify.com/track/4d2I2W72Hnal6K6w86mYK9) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Find You Find Me](https://open.spotify.com/album/1xYZtlGvIcHC5qYtjdTy9N) | 3:58 |
 | 50 | [All in your palms](https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [All in your palms](https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW) | 4:04 |
 
 Snapshot ID: `aCyY8wAAAAA9193gpkaIHxHrdOCTaNh0`

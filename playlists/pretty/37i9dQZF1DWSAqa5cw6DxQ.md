@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,827 likes - 116 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,872 likes - 116 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 115 | [Adventurous](https://open.spotify.com/track/6AjiIsSmEBzpPhMyFQoFts) | [Ezra Santos](https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX) | [Adventurous](https://open.spotify.com/album/1Rqe6lIGKSpz4NpU3fnWAj) | 3:04 |
 | 116 | [Sunset at the Veranda](https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Sunset at the Veranda](https://open.spotify.com/album/0mnIZBUOqZjxG0Gn8Asp2o) | 2:38 |
 
-Snapshot ID: `aCc1UwAAAAAn5xQcWORaCwrj9rV5b8zN`
+Snapshot ID: `aCc1UwAAAACIieCwxDSG6bbxx2Or/ggt`

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-509 songs - 1 day 6 hr 37 min
+510 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 | 2025-03-14 |  |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-09-09 | 2023-03-25 |
 | [Keep Me In Mind](https://open.spotify.com/track/3Uq6ndKDd34GsphNxrzmZg) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4), [Renaldo Domino](https://open.spotify.com/artist/1khTv30muAt1j7qrqvjN4U) | [Keep Me In Mind](https://open.spotify.com/album/0RBuoBJVCQx2l3qQx6rSEb) | 3:12 | 2025-04-11 |  |
+| [Keep On](https://open.spotify.com/track/0Nwyp9Qg3qCB17GaoYrdQo) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Keep On](https://open.spotify.com/album/7qWegR8dyfgNmGNTLxolo3) | 4:48 | 2025-05-23 |  |
 | [Keep Your Light on Me](https://open.spotify.com/track/6K5amLJlmAibFCpzMooDv7) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [A Good Woman](https://open.spotify.com/album/0Z8ZC3m2EbhMMXcmlpB2S1) | 4:07 | 2023-04-28 | 2023-06-03 |
 | [Kinda Cowgirl](https://open.spotify.com/track/4Hk2jzwMXxMkVBcODfcILC) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Kinda Cowgirl](https://open.spotify.com/album/6BoTRlw3qryfJxVaObaFjp) | 4:17 | 2023-10-06 | 2024-01-13 |
 | [Lady Love](https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lady Love](https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc) | 3:02 | 2022-08-19 | 2022-09-19 |
@@ -451,7 +452,7 @@
 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 | 2021-12-17 | 2023-02-18 |
 | [Tied To You](https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Tied To You](https://open.spotify.com/album/1glLyrDFBwTwsurwQiQlrh) | 3:17 | 2024-10-04 | 2024-10-19 |
 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 | 2024-02-09 |  |
-| [Togetherness](https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Togetherness](https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX) | 3:24 | 2024-08-16 |  |
+| [Togetherness](https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Togetherness](https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX) | 3:24 | 2024-08-16 | 2025-05-24 |
 | [Too Late](https://open.spotify.com/track/18zkFoB4z8Tlo9JpGhy12M) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Too Late](https://open.spotify.com/album/3PjN3kcgqMQQGq4nz19JVW) | 4:17 | 2024-08-30 |  |
 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 | 2023-08-18 | 2024-04-19 |
 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 | 2025-04-12 |

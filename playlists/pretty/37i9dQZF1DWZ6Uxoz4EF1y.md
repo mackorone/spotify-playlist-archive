@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,743 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,840 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 7 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
 | 8 | [Como Río En Primavera](https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [El Mismo Cielo](https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r) | 3:50 |
 | 9 | [Jesús](https://open.spotify.com/track/7tRG2dgIkcZUPvZINWfR7B) | [caminodevida música](https://open.spotify.com/artist/26uYihnzGQPWmX5208Hdiq) | [Tetelestai \(Todo hecho está\)](https://open.spotify.com/album/2kJ9Wkj82r6N9rq8XAAkzc) | 7:23 |
-| 10 | [En Tu Presencia](https://open.spotify.com/track/1YUjGUPt2KLzJSRnvs7VTW) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [En Tu Presencia](https://open.spotify.com/album/6K7dzB9G1E8FmIPHpZnzA5) | 5:34 |
-| 11 | [Jesús, Has Mi Carácter](https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Sólo Tu Gracia](https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi) | 4:42 |
+| 10 | [Jesús, Has Mi Carácter](https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Sólo Tu Gracia](https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi) | 4:42 |
+| 11 | [En Tu Presencia](https://open.spotify.com/track/1YUjGUPt2KLzJSRnvs7VTW) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [En Tu Presencia](https://open.spotify.com/album/6K7dzB9G1E8FmIPHpZnzA5) | 5:34 |
 | 12 | [En Memoria De Ti](https://open.spotify.com/track/62fL5RqurblUV6egM3IVjf) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Lluvia Richards](https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [En Memoria De Ti](https://open.spotify.com/album/0KKXwGOfPCVNNV9tbtS0ZO) | 5:23 |
 | 13 | [No Hay Otro Nombre](https://open.spotify.com/track/1pd2PDUnXUjLShY22utTzc) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 7:19 |
 | 14 | [No hay Nadie Como tú](https://open.spotify.com/track/2L6tC6T3EMhgtARt8Rgt6Q) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Marco Barrientos Auditorio Nacional](https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC) | 5:38 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 51 | [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 |
 | 52 | [Vamos Pa' Arriba](https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Con el Mundo de Cabeza](https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96) | 3:19 |
 | 53 | [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 |
-| 54 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
-| 55 | [Santa Cruz](https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Triduo](https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv) | 2:39 |
+| 54 | [Santa Cruz](https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Triduo](https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv) | 2:39 |
+| 55 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
 | 56 | [Alegre](https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Alegre](https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX) | 2:49 |
 | 57 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |
 | 58 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |

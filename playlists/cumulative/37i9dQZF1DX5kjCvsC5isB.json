@@ -7097,6 +7097,24 @@
     },
     {
       "album": {
+        "name": "So Happy",
+        "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173783,
+      "name": "So Happy",
+      "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
+    },
+    {
+      "album": {
         "name": "So Mean",
         "url": "https://open.spotify.com/album/76BpMoIfLe9CEPmCCjytwK"
       },
@@ -8406,7 +8424,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"

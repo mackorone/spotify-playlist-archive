@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-119 songs - 7 hr 27 min
+120 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Red Light](https://open.spotify.com/track/4brsAsm0UZztPTUuMZaLn4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Together](https://open.spotify.com/album/40eFBdD9yoC9f6NbqlYZbp) | 5:22 | 2022-10-20 | 2022-10-31 |
 | [Red Light](https://open.spotify.com/track/5pxDzfU6DyOHOtCICFUQOI) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 5:42 | 2025-01-05 | 2025-01-20 |
 | [Requiem](https://open.spotify.com/track/5da5BnxJydeLtlmhjwCBaA) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 4:34 | 2023-09-02 | 2025-01-23 |
+| [Requiem](https://open.spotify.com/track/6BUXiC6FX1ijEQWGf5iQoD) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 4:34 | 2025-05-24 |  |
 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 | 2022-05-25 |  |
 | [Somos Novios \(It's Impossible\)](https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 | 2022-05-25 | 2022-11-05 |
 | [Standing Up For Love](https://open.spotify.com/track/6v4WVyvDlAvpTBuQe9RL8B) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:39 | 2023-05-02 | 2023-05-04 |
@@ -117,7 +118,7 @@
 | [When Will I See You Again](https://open.spotify.com/track/4euw74YAO8Q0dsOClYq0cM) | [Thomas Anders](https://open.spotify.com/artist/5YST2BJLoQVVhyXoZfbCZ0), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [When Will I See You Again](https://open.spotify.com/album/0KAz7SC26vWkTyllKBC239) | 3:30 | 2022-05-25 |  |
 | [When Will I See You Again / Love Train \- Live Medley](https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 8:01 | 2022-05-27 |  |
 | [Who Is She and What Is She to You](https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:17 | 2022-05-25 | 2025-04-20 |
-| [Who Is She and What Is She to You](https://open.spotify.com/track/64ZPcaZ4LrUht1wGJS62AL) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [70's Deep Funk](https://open.spotify.com/album/7nlO16jDzNDHVfxUt8vPAY) | 3:17 | 2025-02-25 |  |
+| [Who Is She and What Is She to You](https://open.spotify.com/track/64ZPcaZ4LrUht1wGJS62AL) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [70's Deep Funk](https://open.spotify.com/album/7nlO16jDzNDHVfxUt8vPAY) | 3:17 | 2025-02-25 | 2025-05-24 |
 | [Without You](https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:04 | 2024-05-02 |  |
 | [Woman in Love](https://open.spotify.com/track/4r6kWCkQEI5Ef3LQCu5zoV) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:13 | 2022-05-25 |  |
 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 | 2022-05-25 |  |

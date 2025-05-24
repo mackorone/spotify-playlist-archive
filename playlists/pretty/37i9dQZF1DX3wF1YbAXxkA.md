@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,201 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,282 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 75 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
 | 76 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
 | 77 | [Everybody's Different](https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 4:00 |
-| 78 | [Richer](https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Richer](https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi) | 2:57 |
-| 79 | [Blindside](https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Blindside](https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk) | 2:54 |
+| 78 | [Blindside](https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Blindside](https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk) | 2:54 |
+| 79 | [Richer](https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Richer](https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi) | 2:57 |
 | 80 | [Big Man](https://open.spotify.com/track/10vuEcEgX3uG7NNf4rAp7k) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/68jC22x5sVxqj9GJHziVr8) | 4:13 |
 | 81 | [Soul](https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Soul](https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c) | 2:37 |
 | 82 | [NOBODY // ME](https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [NOBODY // ME](https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4) | 3:35 |

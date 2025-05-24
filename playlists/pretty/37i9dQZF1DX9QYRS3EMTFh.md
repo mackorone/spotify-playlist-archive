@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Genezio x Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,262 likes - 40 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,353 likes - 40 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 |
 | 2 | [Ta meuf](https://open.spotify.com/track/17709i83p9cPzoPaPCq9jm) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Ta meuf](https://open.spotify.com/album/2Q7fKtZMhmXi6PV4tDSH2o) | 1:49 |
-| 3 | [PAS JALOUSE](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 |
+| 3 | [Pas Jalouse](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 |
 | 4 | [Shake It To The Max \(FLY\) \- Kalash & Maureen Remix](https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Shake It To The Max \(FLY\) \(Kalash & Maureen Remix\)](https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle) | 3:01 |
 | 5 | [La piraterie](https://open.spotify.com/track/6sJncGrdz5lcomB5D2Te9C) | [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV), [BIGDA](https://open.spotify.com/artist/7zVRNjTpd96uUDsDbRr879), [Loeil](https://open.spotify.com/artist/4AOjG0hai0eDiUdy1TEuaN) | [La piraterie](https://open.spotify.com/album/1AEqrjs8dvbBH8mmE7U9Zy) | 2:50 |
 | 6 | [Shamballa](https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1) | [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [Shamballa](https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf) | 2:27 |

@@ -2,9 +2,9 @@
 
 ### [Pop Romántico](https://open.spotify.com/playlist/37i9dQZF1DX7Qo2zphj7u3)
 
-> Las románticas de hoy con las de siempre\. Foto: Ricardo Montaner, Camilo & Evaluna Montaner
+> Las románticas de hoy con las de siempre\. Foto: Alejandro Sanz & Shakira
 
-502 songs - 1 day 9 hr 15 min
+503 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 | 2022-01-25 | 2023-05-15 |
 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 | 2022-01-25 | 2024-05-11 |
 | [Brazos de Sol \- Si Fuera Mía](https://open.spotify.com/track/2MWVSR5b853R2ikn0cAVda) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Brazos de Sol \(Si Fuera Mía\)](https://open.spotify.com/album/1ApT7fQZcVOSU2ffem3dOX) | 3:57 | 2022-01-25 | 2022-07-29 |
+| [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 | 2025-05-23 |  |
 | [Bésame](https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:12 | 2022-01-25 |  |
 | [Bésame](https://open.spotify.com/track/7kcSKOl5rR4zGxFNYhkeRX) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 3:20 | 2022-01-25 | 2024-05-11 |
 | [Bésame](https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Besame](https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg) | 3:56 | 2022-01-25 | 2023-04-01 |
@@ -246,7 +247,7 @@
 | [Me Siento Tan Sola](https://open.spotify.com/track/50VA65XjCfHjXzJeOMYfaa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 4:01 | 2022-01-25 | 2024-05-18 |
 | [Me Siento Tan Sola](https://open.spotify.com/track/3h2XWByAhTuWGLAzyyjWo2) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG) | 4:06 | 2024-02-09 | 2024-04-19 |
 | [Me Soltaste](https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:49 | 2022-01-25 | 2025-05-21 |
-| [Me Toca A Mí](https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Me Toca A Mí](https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5) | 3:00 | 2025-03-28 |  |
+| [Me Toca A Mí](https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Me Toca A Mí](https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5) | 3:00 | 2025-03-28 | 2025-05-24 |
 | [Me Va a Extrañar \(Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 | 2022-01-25 |  |
 | [Mentiras](https://open.spotify.com/track/0FMxHUwc6l3ew3MC2kDKLJ) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 4:10 | 2022-01-25 | 2024-04-29 |
 | [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 | 2022-01-25 | 2024-04-19 |

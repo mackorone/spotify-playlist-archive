@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 44264,
+  "num_followers": 44271,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAA2by1vzLIaVFmb9jf0eeba",
+  "snapshot_id": "aC5pAAAAAAD7hsq1mEhREplmybIgZoPP",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maka",
-          "url": "https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m"
-        }
-      ],
-      "duration_ms": 144829,
-      "name": "EL CONDENAO",
-      "url": "https://open.spotify.com/track/6Ve9LTqkZJqf9qj1S7sQ7q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LAGRIMAS DE UN MALEANTE",
         "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maka",
+          "url": "https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m"
+        }
+      ],
+      "duration_ms": 144829,
+      "name": "EL CONDENAO",
+      "url": "https://open.spotify.com/track/6Ve9LTqkZJqf9qj1S7sQ7q"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOMBOLEWA (Remix)",
-        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
-      },
-      "artists": [
-        {
-          "name": "Suzete",
-          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 171469,
-      "name": "KOMBOLEWA - Remix",
-      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 209533,
       "name": "DE PLASTILINA",
       "url": "https://open.spotify.com/track/6HyNrYrY8gegxrZQuQQ1GJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOMBOLEWA (Remix)",
+        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
+      },
+      "artists": [
+        {
+          "name": "Suzete",
+          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 171469,
+      "name": "KOMBOLEWA - Remix",
+      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
     },
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "c\u00f3mo te va?",
-        "url": "https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD"
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 218853,
-      "name": "c\u00f3mo te va?",
-      "url": "https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD"
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+        "name": "c\u00f3mo te va?",
+        "url": "https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+      "duration_ms": 218853,
+      "name": "c\u00f3mo te va?",
+      "url": "https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD"
     },
     {
       "added_at": null,

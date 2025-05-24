@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,217 likes - 160 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,230 likes - 160 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 159 | [Moonlight](https://open.spotify.com/track/5kxplUhUr8OpwOpJ2Ururp) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Moonlight](https://open.spotify.com/album/1JCaugOpvQEqJxoKFxBkqd) | 3:18 |
 | 160 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 |
 
-Snapshot ID: `AAAAAGnHKrmeBSc451AP/qHz7hCZaUzQ`
+Snapshot ID: `aC24xgAAAACDnJErkaZI2QSyMHcizD3z`

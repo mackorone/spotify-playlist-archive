@@ -1,13 +1,29 @@
 {
-  "description": "New jazz for open minds. Cover: B\u00e9la Fleck, Edmar Casta\u00f1eda & Antonio S\u00e1nchez",
-  "num_followers": 952220,
+  "description": "New jazz for open minds. Cover: Hamilton De Holanda",
+  "num_followers": 952225,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCtERAAAAAArOBpA6s2y7yKwS1NqpLVV",
+  "snapshot_id": "aC/y1QAAAADtwX5Z92XC0vIcqA1PzlpQ",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:21",
+      "album": {
+        "name": "Hamilton de Holanda Trio - Live in NYC",
+        "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        }
+      ],
+      "duration_ms": 315110,
+      "name": "Todo Dia \u00c9 Um Recome\u00e7o",
+      "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
+    },
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
@@ -33,6 +49,38 @@
       "url": "https://open.spotify.com/track/2V5TR2NkI29foggEFzgNvd"
     },
     {
+      "added_at": "2025-05-23 04:00:21",
+      "album": {
+        "name": "Get Deep",
+        "url": "https://open.spotify.com/album/7siqN6LqKZ0EOrrOMfgtdo"
+      },
+      "artists": [
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 280639,
+      "name": "Get Deep",
+      "url": "https://open.spotify.com/track/4TdW6NTxwtGSFj0wHTG6sZ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:21",
+      "album": {
+        "name": "Reflection Eternal",
+        "url": "https://open.spotify.com/album/7flx6vvh3i9bDRUYwRf11Z"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 138330,
+      "name": "Reflection Eternal",
+      "url": "https://open.spotify.com/track/7wLH62MhVqsqbLxdYUkctr"
+    },
+    {
       "added_at": "2025-05-16 04:00:24",
       "album": {
         "name": "SHINE",
@@ -51,6 +99,30 @@
       "duration_ms": 170467,
       "name": "Us",
       "url": "https://open.spotify.com/track/3yG45WqilUjnG51kE35npx"
+    },
+    {
+      "added_at": "2025-05-23 04:00:21",
+      "album": {
+        "name": "Sin Forma",
+        "url": "https://open.spotify.com/album/0XgS30wt2tth832y3Qdj17"
+      },
+      "artists": [
+        {
+          "name": "Anibal Seminario",
+          "url": "https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p"
+        },
+        {
+          "name": "Dayhan D\u00edaz",
+          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
+        },
+        {
+          "name": "Anibal Seminario Big Band",
+          "url": "https://open.spotify.com/artist/5YuMzi9SwR687RDHqIMDQS"
+        }
+      ],
+      "duration_ms": 348012,
+      "name": "Sin Forma",
+      "url": "https://open.spotify.com/track/2aVeWCuIyYNHcpylIH2Oz1"
     },
     {
       "added_at": "2025-05-16 04:00:24",
@@ -179,22 +251,6 @@
       "duration_ms": 419478,
       "name": "So It Goes",
       "url": "https://open.spotify.com/track/6NlDnhn61geWuWSUHhOTN9"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "Gadabout Season",
-        "url": "https://open.spotify.com/album/6dqczzcOgNJro0Nv3rB9FS"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        }
-      ],
-      "duration_ms": 285567,
-      "name": "Gadabout Season",
-      "url": "https://open.spotify.com/track/3CbgZjjdLxd1tr5p4Gt6Q9"
     },
     {
       "added_at": "2025-05-09 04:00:03",
@@ -1613,30 +1669,6 @@
       "url": "https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/5F9W0ZzmESRfGUvMluW1kU"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        },
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 240538,
-      "name": "Remember (feat. Samara Joy, Robert Glasper)",
-      "url": "https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "ceremonial contrafact (empathogen deluxe)",
@@ -1695,30 +1727,6 @@
       "duration_ms": 366048,
       "name": "Come Home (feat. Filah Lah Lah)",
       "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Heavier Yet (Lays The Crownless Head)",
-        "url": "https://open.spotify.com/album/2xsxl1780BXMEfxw5ZsTja"
-      },
-      "artists": [
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 523306,
-      "name": "Emi Aluta",
-      "url": "https://open.spotify.com/track/0EDeblRUiwI7ICqPj4uELR"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1807,22 +1815,6 @@
       "duration_ms": 219830,
       "name": "The Cool (Constantly Operating On Love)",
       "url": "https://open.spotify.com/track/6ILjgccPqtpAizFpj4k8da"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Blues Blood",
-        "url": "https://open.spotify.com/album/06soS30HJn1VxcuucuWydD"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "MATTE GLAZE",
-      "url": "https://open.spotify.com/track/6n2KR1LDTDOvb6mFhgA4p0"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-276 songs - 17 hr 59 min
+279 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [I Just Wanna Have Something To Do \- 2024 Remaster](https://open.spotify.com/track/5bGVtLRW7GQs14UnCu8FdE) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [I Just Wanna Have Something To Do / Betcha \(2024 Remaster\)](https://open.spotify.com/album/2aFACqpuUVQt2qXQcbASWG) | 2:25 | 2024-05-23 |  |
 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 | 2023-10-16 | 2024-05-24 |
 | [I Miss You, Don't Call Me](https://open.spotify.com/track/3xbiVkfxjHIpd1CVEtrJ8R) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:20 | 2024-07-19 |  |
+| [I Predict A Riot \- Big Nurse Remix](https://open.spotify.com/track/5yCGZqZVb7eEON10mBXe0q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt), [Big Nurse](https://open.spotify.com/artist/1Chw1wtks4AFlbUO3HD0uJ) | [I Predict A Riot \(Big Nurse Remix\)](https://open.spotify.com/album/6rcENFfLzXHpXOKro1F30N) | 4:27 | 2025-05-23 |  |
 | [I Wanna Get Better](https://open.spotify.com/track/4WPcZxkaJJxAZcbuIVWbhK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Happiness Forever](https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O) | 3:24 | 2023-10-16 | 2024-05-24 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-06 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2023-10-16 | 2024-05-24 |
@@ -177,6 +178,7 @@
 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 | 2024-05-23 |  |
 | [POCKET DIAL](https://open.spotify.com/track/67ncoM7tI1xcsmZL6Ifrr2) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [BLack On BLonde+](https://open.spotify.com/album/1b3nLfYDeIL0ND1BzTzpZc) | 3:06 | 2025-02-21 |  |
 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 | 2023-10-16 | 2024-05-24 |
+| [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/6c8CdiWueTEQAXCPhcR6mq) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Pretty Little Baby \(International Versions\)](https://open.spotify.com/album/2DKvJzWgA3I5Np9872Iozh) | 2:22 | 2025-05-23 |  |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 4:55 | 2023-10-16 | 2024-05-24 |
 | [Quicksand \(feat\. Rianne Downey\)](https://open.spotify.com/track/6g2a2Vyba3fz4T4C3xNIj0) | [Paul Heaton](https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j), [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Quicksand \(feat\. Rianne Downey\)](https://open.spotify.com/album/04b1OC73C5JBNZ9zI4uqAa) | 3:01 | 2024-08-30 |  |
 | [Radioactive](https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:06 | 2023-10-16 | 2024-05-24 |
@@ -237,6 +239,7 @@
 | [The Night Comes Down \- 2024 Mix](https://open.spotify.com/track/7r8TzaVB9vfqOLspvyp7iN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Night Comes Down \(2024 Mix\)](https://open.spotify.com/album/3TBlXIgEhJuCPyZP2jkkiF) | 4:21 | 2024-09-13 |  |
 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 | 2024-08-30 |  |
 | [The Showman \- Stories Of Surrender Version](https://open.spotify.com/track/3gLXrIvMPuomkpzZ3DHWW3) | [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Showman \(Stories Of Surrender Version\)](https://open.spotify.com/album/11e7rgEntll0BwbR585Eb7) | 3:10 | 2025-05-16 |  |
+| [The Way I Am \- Live From MTV VMAs / 2000](https://open.spotify.com/track/6ipijfvYSL9ddfKjbRVuxU) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP \(25th Anniversary\)](https://open.spotify.com/album/2DQ6hHlAGj6DiT0Y068bnK) | 2:10 | 2025-05-23 |  |
 | [There’s Always Gonna Be Something](https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [There's Always Gonna Be Something](https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl) | 4:02 | 2025-01-31 |  |
 | [This Is The Sound Of Your Voice](https://open.spotify.com/track/2G75SQhhr9B6boZFgnK4In) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [This Is The Sound Of Your Voice](https://open.spotify.com/album/4IitM3XDHnMJQQXcW65Dd4) | 4:30 | 2024-07-05 |  |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2023-10-16 | 2024-05-24 |

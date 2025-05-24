@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 28 min
+56 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,13 @@
 | [Baa Baa Black Sheep](https://open.spotify.com/track/2YPzs7MqwyDeV5koISgp5i) | [Rosemary Lauter](https://open.spotify.com/artist/4Omowtg1gZ1ziXFl4rHQU1) | [Five Little Monkeys](https://open.spotify.com/album/4ijvU9elNltEYZ2xPhEgkP) | 1:46 | 2022-03-25 |  |
 | [Baby Mine](https://open.spotify.com/track/045JBbRNQtCgJEz1Xclt1A) | [Lonna James](https://open.spotify.com/artist/2SHJupYEzTVUuG3PNLq7j3) | [Baby Mine](https://open.spotify.com/album/4fyoP4v8E2zQhLWCUlO99W) | 2:32 | 2022-03-25 | 2025-04-12 |
 | [Beauty And The Beast \(From Disney's Beauty And The Beast\)](https://open.spotify.com/track/7rans12owwbmjU27W7uKXi) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Disney Songs on Dreamy Piano](https://open.spotify.com/album/5fcoYBBvxXdZDxDFBvevHX) | 3:29 | 2022-03-25 |  |
+| [Bedtime Prayer](https://open.spotify.com/track/0j6eDYURv89w76w1KO3DUp) | [Carrie Milner](https://open.spotify.com/artist/1VtwdRrn7SpoillH5EvHbD) | [Bedtime Prayer](https://open.spotify.com/album/2V6y1TCe1SDym6wH9lB3Wn) | 2:20 | 2025-05-23 |  |
 | [Blackbird](https://open.spotify.com/track/5yIPJh0PJpNRRtdNZ9qbCC) | [The Inchworms](https://open.spotify.com/artist/1Cj3ggAp2ZVFNfTvw2ta0l) | [Insect Lullabies](https://open.spotify.com/album/2fmwMSrlgUI34MEk66hvFs) | 3:07 | 2022-03-25 |  |
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 | 2022-03-25 |  |
 | [Can't Stop The Feeling](https://open.spotify.com/track/774ntZvICHcabVvH3ZnvHa) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 3:44 | 2022-03-25 |  |
 | [Colors Of The Wind \(From Disney's Pocahontas\)](https://open.spotify.com/track/3vGd81ueaHEsXEeKyGBFUl) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Disney Songs on Dreamy Piano](https://open.spotify.com/album/5fcoYBBvxXdZDxDFBvevHX) | 4:11 | 2022-03-25 |  |
+| [Count Two for Tea](https://open.spotify.com/track/1IH3zsX9rbi1bnc5LVDlIh) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Count Two for tea](https://open.spotify.com/album/1bv14gMJ1TA0sxnXWqNyhJ) | 1:44 | 2025-05-23 |  |
+| [Cradle in the Willow Tree](https://open.spotify.com/track/4eyDFny1cS7EBssbsryV5x) | [Benjamin Kalel](https://open.spotify.com/artist/6Xv5gfuyaokTCLiExXE21P) | [Cradle in the Willow Tree](https://open.spotify.com/album/4RiWkkpCTb2WJoJLBADjsY) | 1:49 | 2025-05-23 |  |
 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/2vwIMdSn7LSjFk5YleHKqF) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:08 | 2022-03-25 |  |
 | [Fields Of Green](https://open.spotify.com/track/4jt9Dt3XgsnTvYbodHH12q) | [Algoth Holmes](https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl) | [Way Back Home](https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh) | 2:47 | 2022-03-25 |  |
 | [Forrest Gump \- Main Title \(Feather Theme\)](https://open.spotify.com/track/4SNS6KMBDrfK676bO1hQj9) | [Jordan Barns](https://open.spotify.com/artist/4NhmH4PFEHpmuRCYsqCvst) | [Forrest Gump \- Main Title \(Feather Theme\)](https://open.spotify.com/album/1cLj9aIkZRAf2Zb1iqtVz0) | 3:21 | 2022-03-25 |  |
@@ -37,6 +40,7 @@
 | [Lucid Dreams](https://open.spotify.com/track/6t4wvXs57U4Z0SusITrHwk) | [Romans Veiss](https://open.spotify.com/artist/6a1NBji7Ei3pEtuNnF8Vgp) | [My View](https://open.spotify.com/album/0sXQQtvGm5Zuptex8PaGTC) | 2:51 | 2022-03-25 |  |
 | [Minuet for Fairies](https://open.spotify.com/track/31RKwxKKutUwW9RABYOVdc) | [William Bonn](https://open.spotify.com/artist/77dsYvwvqG93BJw7uN15VO) | [Minuet for Fairies](https://open.spotify.com/album/4XDBqV8q9Cd9bx8bB1VkVp) | 2:24 | 2025-04-11 |  |
 | [My favourite things](https://open.spotify.com/track/5hIO1kXI2a69iDSgdgjERm) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [Lullabies](https://open.spotify.com/album/6v9K3CTqFHLK5SMavLKn5U) | 2:40 | 2022-03-25 |  |
+| [Nightfall](https://open.spotify.com/track/3LiDF2rmkScl3NkwLePjC9) | [Little Sweetheart](https://open.spotify.com/artist/5fFQWAPO4GC9ZlDujUER5h) | [Nightfall](https://open.spotify.com/album/47W6Rpxkj0Cxzx746cm6tE) | 2:22 | 2025-05-23 |  |
 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 | 2022-03-25 |  |
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3FbKnCRNzHwIudovtaKa7x) | [Lenox Martin](https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw) | [You Are My Sunshine](https://open.spotify.com/album/30rgKeVh7lKTgCv2HNP0fC) | 3:04 | 2022-03-25 |  |
 | [Redemption Song \(Originally Performed by Bob Marley\) \[Lullaby Version\]](https://open.spotify.com/track/5JS1BSAn0apNtA5fumhEuK) | [Kids Biz](https://open.spotify.com/artist/2ZKdJLIOpqOHfjbNOyavWS) | [One Love Lullaby Tribute to Bob Marley](https://open.spotify.com/album/5ds8KNJaNgmlOy1LCqyIRE) | 3:27 | 2022-03-25 | 2025-04-12 |
@@ -45,9 +49,11 @@
 | [Row Row Row Your Boat](https://open.spotify.com/track/0QxSzOxBmkXmWINFAZTMBK) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:15 | 2022-03-25 |  |
 | [Say You Wont Let Go](https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:50 | 2022-03-25 |  |
 | [Shallow](https://open.spotify.com/track/19pOWdI17nYv5WidFpNzOS) | [Francesca Sanchez](https://open.spotify.com/artist/6oOwFwJ5HylL5In2mQ5lMw) | [Shallow](https://open.spotify.com/album/1Tqj8mhmcaklLMTxvbWzMP) | 3:54 | 2022-03-25 | 2025-04-12 |
-| [Sleep Tight](https://open.spotify.com/track/38CA9KVMYFy08RT8VSj6By) | [Le Sommeil](https://open.spotify.com/artist/1QtEcHt7VQWPC9jHMNgn80) | [Sleep Tight](https://open.spotify.com/album/4eoSEeZS7XNTSraap87SPB) | 2:53 | 2022-03-25 |  |
+| [Sleep Tight](https://open.spotify.com/track/38CA9KVMYFy08RT8VSj6By) | [Le Sommeil](https://open.spotify.com/artist/1QtEcHt7VQWPC9jHMNgn80) | [Sleep Tight](https://open.spotify.com/album/4eoSEeZS7XNTSraap87SPB) | 2:53 | 2022-03-25 | 2025-05-24 |
+| [Sleepy Panda's Hug](https://open.spotify.com/track/0YsG5hkVVNPeiB0iLyB1sz) | [Zachary Keys](https://open.spotify.com/artist/6E2LwU4Tpdlf6Adjx89Wxv) | [Sleepy Panda's Hug](https://open.spotify.com/album/2D0FDW6fB1tATp4pDwq0L7) | 2:26 | 2025-05-23 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/2D0MHlqDa6DyUSACPNotOq) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Someday My Prince Will Come](https://open.spotify.com/album/1d9N39CgtwApgjZZllItQM) | 3:30 | 2022-03-25 |  |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/21x8sFXK0oOS6rYJTgDF2R) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:43 | 2022-03-25 |  |
+| [Starry Moon](https://open.spotify.com/track/220DxDXsbad852044JvLEz) | [Noah Cloud](https://open.spotify.com/artist/2u5MmECnGkUbYKNHhOQ6rf) | [Starry Moon](https://open.spotify.com/album/4xL03E7TS87lIiqQ8AXrxp) | 1:49 | 2025-05-23 |  |
 | [Suo Gân](https://open.spotify.com/track/0lcWJwNwjB6XSNOulUBa0T) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Suo Gân](https://open.spotify.com/album/4MzHmjCCN4IhCGc8uBXH6j) | 1:11 | 2022-03-25 |  |
 | [Tomorrow](https://open.spotify.com/track/3ansqkO7A68z6xDhErpKpi) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [Lullabies](https://open.spotify.com/album/6v9K3CTqFHLK5SMavLKn5U) | 3:18 | 2022-03-25 |  |
 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 | 2022-03-25 |  |

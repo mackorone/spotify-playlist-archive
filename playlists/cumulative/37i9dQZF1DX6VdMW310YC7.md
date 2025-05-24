@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,767 songs - 5 day 0 hr 29 min
+1,768 songs - 5 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 |  |
 | [Called](https://open.spotify.com/track/3KtxQAgNxCEINXNgVuzsun) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Called](https://open.spotify.com/album/4pT6jidjPodWkfoVSEHViq) | 6:04 | 2020-03-17 | 2022-04-19 |
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-03-10 | 2024-04-06 |
+| [can't hold the light](https://open.spotify.com/track/4DBmErhbpFFYN1ugnu4wCy) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Nick Shadow](https://open.spotify.com/artist/7tZfUc01UkhgbBUWZvRNf0), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [can't hold the light](https://open.spotify.com/album/2MbcAJPVC3u2vlg8aa0xRn) | 2:36 | 2025-05-23 |  |
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-14 |  |
 | [Canopée des Cîmes](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Canopée des Cîmes](https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u) | 4:56 | 2022-07-01 | 2023-09-09 |
 | [Can’t Stop Loving You \- Poolside Mix](https://open.spotify.com/track/31jNPoOdc4AXUJRl4ABbfH) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [Can’t Stop Loving You \(Poolside Mix\)](https://open.spotify.com/album/10jta1EMIwQXiGbWFQ5yjW) | 3:01 | 2020-05-22 | 2021-03-06 |
@@ -1561,7 +1562,7 @@
 | [The Rest of My Days](https://open.spotify.com/track/4ABiRDaBGg0hHeAWeAEcNq) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [The Rest of My Days](https://open.spotify.com/album/3mW3G4u6bGp4TMRLzhHjFW) | 3:13 | 2020-07-18 | 2020-10-09 |
 | [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-12-16 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
-| [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 |  |
+| [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 | 2025-05-24 |
 | [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 |  |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |

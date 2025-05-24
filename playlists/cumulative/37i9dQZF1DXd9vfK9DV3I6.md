@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-312 songs - 22 hr 46 min
+313 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,10 +121,11 @@
 | [Give a Little \(feat\. Naila\)](https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Give a Little \(feat\. Naila\)](https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b) | 3:54 | 2020-12-08 |  |
 | [Give It To Me \(feat\. Ezgi Kosa\) \- Padé Remix](https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn), [Rednod](https://open.spotify.com/artist/5AiAZqe3QhCSrROQCAtWpE), [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz), [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Give It To Me \(feat\. Ezgi Kosa\) \[Remixes\]](https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW) | 2:44 | 2021-04-24 | 2023-03-18 |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2020-11-06 | 2021-02-12 |
+| [Habibi](https://open.spotify.com/track/4MZytAHR3UT93DGooSwVcs) | [Havana](https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I), [Yaar](https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll) | [Habibi](https://open.spotify.com/album/6T0OA3rWZYVLj7ans9AIly) | 2:57 | 2025-05-19 |  |
 | [Hajaruni \(Suray Remix\)](https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Suray](https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn), [Hossam wahab](https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C) | [Hajaruni \(Suray Remix\)](https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH) | 5:31 | 2024-05-17 |  |
 | [Hasat](https://open.spotify.com/track/2AozWD8d95Q39J740Ba070) | [Hey! Douglas](https://open.spotify.com/artist/72xb37kgUWGPVJqqBFhGKq) | [Hasat](https://open.spotify.com/album/192JWsGEt8HNOKHHzuh3ux) | 3:15 | 2023-09-29 | 2023-11-11 |
 | [Hatiralar](https://open.spotify.com/track/2qL4uCMnilvl0uIHcwYyWv) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h) | [Hatiralar](https://open.spotify.com/album/53OVidFRRrLBKb9avHiIBf) | 5:09 | 2025-01-17 |  |
-| [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 | 2024-03-13 |  |
+| [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 | 2024-03-13 | 2025-05-24 |
 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 | 2023-07-03 |  |
 | [Hebele Hubulu](https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt) | [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Hebele Hubulu & Belantash](https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj) | 8:04 | 2021-03-08 | 2024-06-30 |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2020-10-18\* | 2023-04-24 |

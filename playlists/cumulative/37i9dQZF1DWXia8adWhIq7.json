@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Marcela Ta\u00eds",
+  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Rapha Gon\u00e7alves",
   "name": "Pop Gospel",
   "tracks": [
     {
@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Entardecer",
+        "url": "https://open.spotify.com/album/3vK0UgEbZSAvTOQRfVIxL0"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        },
+        {
+          "name": "Thiago Ramalho",
+          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218863,
+      "name": "Entardecer",
+      "url": "https://open.spotify.com/track/7dc6mrQJRolSAjV8PlAm2A"
+    },
+    {
+      "album": {
         "name": "Entre Milh\u00f5es",
         "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
       },
@@ -1734,7 +1756,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 191530,
       "name": "Gra\u00e7a Sobre Gra\u00e7a",
       "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
@@ -1834,7 +1856,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 315700,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/2sedWM4k480cPjlIOS8MfG"
@@ -2970,6 +2992,24 @@
       "duration_ms": 219857,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+    },
+    {
+      "album": {
+        "name": "Jardim",
+        "url": "https://open.spotify.com/album/1Q1Q78b7Ncq5Blw13VXwPc"
+      },
+      "artists": [
+        {
+          "name": "Rapha Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341437,
+      "name": "Primeiro Lugar",
+      "url": "https://open.spotify.com/track/3piwSIldkuUBVBK5VFFmpn"
     },
     {
       "album": {

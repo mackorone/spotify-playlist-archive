@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 396620,
+  "num_followers": 396617,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9ZgAAAABN/WouEbGvq6CeNi22yP6n",
+  "snapshot_id": "aC/y6gAAAAD7WQvygoefm31f3cM+ZTl1",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:42",
+      "album": {
+        "name": "African Coast",
+        "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
+      },
+      "artists": [
+        {
+          "name": "Balkan Beat Box",
+          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+        },
+        {
+          "name": "Trinidad James",
+          "url": "https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7"
+        }
+      ],
+      "duration_ms": 182638,
+      "name": "African Coast",
+      "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
+    },
     {
       "added_at": "2025-03-07 05:00:22",
       "album": {
@@ -1635,22 +1655,6 @@
       "duration_ms": 247092,
       "name": "Nothing I Wanna Know About",
       "url": "https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1"
-    },
-    {
-      "added_at": "2021-03-12 05:00:00",
-      "album": {
-        "name": "Super Solid Soul Vehicle",
-        "url": "https://open.spotify.com/album/3V3LrCNJUo1bhVpO1yuM47"
-      },
-      "artists": [
-        {
-          "name": "Tom McGuire & the Brassholes",
-          "url": "https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp"
-        }
-      ],
-      "duration_ms": 277357,
-      "name": "Super Solid Soul Vehicle",
-      "url": "https://open.spotify.com/track/1iU70BDVxffXYeY9R9XgNG"
     },
     {
       "added_at": "2020-10-30 04:02:00",

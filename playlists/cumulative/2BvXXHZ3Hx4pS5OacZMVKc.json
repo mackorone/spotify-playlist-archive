@@ -279,6 +279,40 @@
     },
     {
       "album": {
+        "name": "Around Us",
+        "url": "https://open.spotify.com/album/1MgahvG4uCKryZxzslYw8Z"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9"
+        },
+        {
+          "name": "VALLO",
+          "url": "https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ"
+        },
+        {
+          "name": "Carlos Ukareda",
+          "url": "https://open.spotify.com/artist/0qucCKkoXx09qP0KCITOiW"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136810,
+      "name": "Around Us",
+      "url": "https://open.spotify.com/track/15j1hHVYdw4dTtyuNpSAZc"
+    },
+    {
+      "album": {
         "name": "Avatar",
         "url": "https://open.spotify.com/album/0VMsnqlax1FZNXdPzBHwn3"
       },

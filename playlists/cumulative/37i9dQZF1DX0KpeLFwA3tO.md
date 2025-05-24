@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Neck Deep
 
-2,478 songs - 5 day 3 hr 48 min
+2,479 songs - 5 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Chaos](https://open.spotify.com/track/7iAue4sPIFYxbWLsPLyHqO) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Chaos](https://open.spotify.com/album/0flAFOXNfYloq2KK4mQn0m) | 3:06 | 2022-02-25 | 2022-03-25 |
 | [CHASING DAYLIGHT](https://open.spotify.com/track/0GbR5S3hwd82Bk34FhjtQQ) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [CHASING DAYLIGHT](https://open.spotify.com/album/39sPvZlY3dkNblSzDgeMVp) | 2:43 | 2022-05-12 | 2022-06-24 |
 | [Chatter](https://open.spotify.com/track/5cRLUG25OLkWgPpONp8tyx) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Chatter](https://open.spotify.com/album/3nyTfMdlp5XzjgHzVB1o4i) | 1:46 | 2024-02-02 | 2024-03-22 |
+| [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 | 2025-05-23 |  |
 | [Cheap Shots & Setbacks X \(feat\. Mallory Knox and ROAM\)](https://open.spotify.com/track/5NHaiowtCSpQbkIduUFAYI) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ), [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq), [Mikey Chapman](https://open.spotify.com/artist/785WIfCKrAIVM2FxiRCr4L) | [Cheap Shots & Setbacks X \(feat\. Mallory Knox and ROAM\)](https://open.spotify.com/album/3q6x4H2UbM9NiKMveSAo3u) | 2:52 | 2025-03-28 | 2025-05-16 |
 | [Checking In](https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Checking In](https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ) | 2:59 | 2023-05-11 | 2023-07-07 |
 | [Ched Man](https://open.spotify.com/track/6EEPiK1SwQ7ZqA2r5luaJQ) | [Deaf Charlie](https://open.spotify.com/artist/2PW9udMnD3PeyX5hcXRyce) | [Catastrophic Metamorphic](https://open.spotify.com/album/0yll3KhEFD5Surw9nSPVqB) | 2:17 | 2023-06-29 | 2023-07-21 |

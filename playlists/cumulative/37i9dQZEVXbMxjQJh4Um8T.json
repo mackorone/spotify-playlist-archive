@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208236,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
+    },
+    {
+      "album": {
         "name": "166",
         "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
       },
@@ -1796,7 +1818,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
@@ -2390,6 +2412,24 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5"
     },
     {
       "album": {
@@ -5650,7 +5690,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 242386,
       "name": "Elefants",
       "url": "https://open.spotify.com/track/7aMxgxCCbkmtRpNNB5OWgY"
@@ -6148,6 +6188,24 @@
     {
       "album": {
         "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "album": {
+        "name": "Espresso Macchiato",
         "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
       },
       "artists": [
@@ -6158,7 +6216,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -6224,7 +6282,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 184432,
       "name": "estar\u00e9 millor dem\u00e0",
       "url": "https://open.spotify.com/track/7xQAF1XU7q3TlT6ICE3c0e"
@@ -6748,7 +6806,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 175200,
       "name": "FLIPA",
       "url": "https://open.spotify.com/track/1dnKyTHMBWzbYZ2LDXBefu"
@@ -7716,7 +7774,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 133650,
       "name": "Heredero",
       "url": "https://open.spotify.com/track/7oFt9FaDLL6ySUIfFvtSmL"
@@ -10770,7 +10828,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 245723,
       "name": "Luzbel",
       "url": "https://open.spotify.com/track/0rnZoY4wdBcLPHTAa8p8IK"
@@ -10906,6 +10964,24 @@
       "duration_ms": 206550,
       "name": "MALA (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0"
+    },
+    {
+      "album": {
+        "name": "solo",
+        "url": "https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180195,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
     },
     {
       "album": {
@@ -11108,6 +11184,36 @@
       "duration_ms": 164365,
       "name": "Martini",
       "url": "https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH"
+    },
+    {
+      "album": {
+        "name": "Mayor Que Yo 3",
+        "url": "https://open.spotify.com/album/571drPm82JNSynpu9yhEEX"
+      },
+      "artists": [
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304746,
+      "name": "Mayor Que Yo 3",
+      "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
     },
     {
       "album": {
@@ -11526,7 +11632,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -12246,7 +12352,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 184615,
       "name": "NINFO",
       "url": "https://open.spotify.com/track/1CTTIrl42flqn1WYUoxl0H"
@@ -12570,7 +12676,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -13100,7 +13206,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 125548,
       "name": "PA QUE LO BAILES (BAILALO ROCKY)",
       "url": "https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B"
@@ -14122,7 +14228,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -17776,7 +17882,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 229708,
       "name": "Toa (with De La Rose)",
       "url": "https://open.spotify.com/track/1gaBfa1HWh1HVmuUAdBpzs"
@@ -17976,7 +18082,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "Tot el que ens queda",
       "url": "https://open.spotify.com/track/2QcmLFnAZme6TIzmV3NZCT"
@@ -18136,6 +18242,24 @@
       "duration_ms": 198000,
       "name": "Triple Impacto",
       "url": "https://open.spotify.com/track/28uKuAQpVIB9mTr3BLGu66"
+    },
+    {
+      "album": {
+        "name": "Triple Lavada",
+        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165790,
+      "name": "Triple Lavada",
+      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
       "album": {
@@ -18496,7 +18620,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 149522,
       "name": "Un petonet",
       "url": "https://open.spotify.com/track/778GQ3Md4lKITSgMPdHU1l"
@@ -19070,7 +19194,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"

@@ -1,13 +1,29 @@
 {
-  "description": "The best of right now. Cover: Lola Young",
-  "num_followers": 2045774,
+  "description": "The best of right now. Cover: Stereolab",
+  "num_followers": 2044992,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4YQAAAABct/TeQ+/S0hOGFjnfRZY8",
+  "snapshot_id": "aC/y7wAAAADNb8qwurzgZRF7VN4KwzUR",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Transmuted Matter",
+        "url": "https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 256156,
+      "name": "Transmuted Matter",
+      "url": "https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf"
+    },
     {
       "added_at": "2025-05-16 04:00:33",
       "album": {
@@ -23,70 +39,6 @@
       "duration_ms": 227586,
       "name": "Bloom Baby Bloom",
       "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
-    },
-    {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 191244,
-      "name": "Walk The Way",
-      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 237809,
-      "name": "At The Beach, In Every Life",
-      "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
-    },
-    {
-      "added_at": "2025-05-16 04:00:33",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
-      "added_at": "2025-05-16 04:00:33",
-      "album": {
-        "name": "Yougotmefeeling",
-        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 183462,
-      "name": "Yougotmefeeling",
-      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -105,6 +57,22 @@
       "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
     },
     {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 197113,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
+    },
+    {
       "added_at": "2025-05-16 04:00:33",
       "album": {
         "name": "Inland Ocean",
@@ -119,6 +87,234 @@
       "duration_ms": 294026,
       "name": "Inland Ocean",
       "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Pie in the Sky",
+        "url": "https://open.spotify.com/album/06DqehjwWgo8PSf4k7dR28"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "duration_ms": 220865,
+      "name": "Pie in the Sky",
+      "url": "https://open.spotify.com/track/5aAQKNQROaiA2uVQo8Bp1t"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "moody",
+        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "moody",
+      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "As Two People Drift Apart",
+        "url": "https://open.spotify.com/album/39RaADaRlWnM4QrEchGzHy"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "duration_ms": 242480,
+      "name": "As Two People Drift Apart",
+      "url": "https://open.spotify.com/track/56BnRYMVVAKtvkIZIQbfCq"
+    },
+    {
+      "added_at": "2025-04-25 04:00:55",
+      "album": {
+        "name": "Learn To Let You Go",
+        "url": "https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        },
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 191166,
+      "name": "Learn To Let You Go",
+      "url": "https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib"
+    },
+    {
+      "added_at": "2025-04-25 04:00:55",
+      "album": {
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 237809,
+      "name": "At The Beach, In Every Life",
+      "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Dudu",
+        "url": "https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 186129,
+      "name": "Dudu",
+      "url": "https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/7oFy92JeQxGcDSDv26c5TF"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/3vSmp9ofxhYBS0CgHWMtg3"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Cathode Ray",
+        "url": "https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 249609,
+      "name": "Cathode Ray",
+      "url": "https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 191244,
+      "name": "Walk The Way",
+      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Athlete",
+        "url": "https://open.spotify.com/album/1t0UNINwdgxwzTjIeyRt5m"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 165682,
+      "name": "Athlete",
+      "url": "https://open.spotify.com/track/6ahKvQI9D9lZ4780BP1D8H"
     },
     {
       "added_at": "2025-05-16 04:00:33",
@@ -173,22 +369,6 @@
       "url": "https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI"
     },
     {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
-        "name": "moody",
-        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "moody",
-      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
-    },
-    {
       "added_at": "2025-05-16 04:00:33",
       "album": {
         "name": "Pink Elephant",
@@ -203,26 +383,6 @@
       "duration_ms": 365426,
       "name": "Circle of Trust",
       "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "Learn To Let You Go",
-        "url": "https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        },
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 191166,
-      "name": "Learn To Let You Go",
-      "url": "https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib"
     },
     {
       "added_at": "2025-05-02 04:20:58",
@@ -261,6 +421,38 @@
       "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
     },
     {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "I'm Losing It",
+        "url": "https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "duration_ms": 186058,
+      "name": "I'm Losing It",
+      "url": "https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf"
+    },
+    {
       "added_at": "2025-04-11 04:00:36",
       "album": {
         "name": "SABLE, fABLE",
@@ -275,22 +467,6 @@
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
-    },
-    {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
-        "name": "Equus Caballus",
-        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
     },
     {
       "added_at": "2025-05-16 04:00:33",

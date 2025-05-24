@@ -2,7 +2,7 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Barnaba & Diamond Platnumz
+> Get your fill of vibes straight out of Tanzania\. Cover: Jux
 
 543 songs - 1 day 7 hr 1 min
 

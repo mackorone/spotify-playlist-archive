@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1336105,
+  "num_followers": 1336672,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAADJ1hQVt1WNWyYjQwFFFQF8",
+  "snapshot_id": "aC5pAAAAAABVN2hHsFRS8uierHtRapbC",
   "tracks": [
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Por Ella (feat. KAROL G)",
-        "url": "https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Vivo Por Ella (feat. KAROL G)",
-      "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivo Por Ella (feat. KAROL G)",
+        "url": "https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Vivo Por Ella (feat. KAROL G)",
+      "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
     },
     {
       "added_at": null,

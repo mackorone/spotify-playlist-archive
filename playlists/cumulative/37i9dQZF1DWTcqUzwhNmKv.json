@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Sleep Token are on top of today's best Metal playlist.",
+  "description": "Linkin Park are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 245767,
       "name": "bad luck",
       "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 158999,
       "name": "Devil Left Me On Read",
       "url": "https://open.spotify.com/track/2VWkJzH8TTZ2D0MI50iaBx"
@@ -5240,7 +5240,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 189103,
       "name": "Elevator Operator",
       "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
@@ -6284,7 +6284,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 204526,
       "name": "from me to u (feat. Poppy)",
       "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
@@ -7920,7 +7920,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 254742,
       "name": "If It's All The Same To You",
       "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
@@ -8098,6 +8098,24 @@
       "duration_ms": 213000,
       "name": "In The Mean Time (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
+    },
+    {
+      "album": {
+        "name": "In the Name of the Father",
+        "url": "https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227156,
+      "name": "In the Name of the Father",
+      "url": "https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf"
     },
     {
       "album": {
@@ -10649,6 +10667,24 @@
     },
     {
       "album": {
+        "name": "no rest for the dreamer",
+        "url": "https://open.spotify.com/album/4XdijybRm85vm6RZZGNg3v"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "no rest for the dreamer",
+      "url": "https://open.spotify.com/track/0qCdxP1pLL3a5qdOBTasDT"
+    },
+    {
+      "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
       },
@@ -11668,7 +11704,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 239640,
       "name": "Perfect Soul",
       "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
@@ -12393,6 +12429,24 @@
     },
     {
       "album": {
+        "name": "Revery",
+        "url": "https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192911,
+      "name": "Revery",
+      "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn"
       },
@@ -12639,6 +12693,24 @@
     },
     {
       "album": {
+        "name": "SACRIFICE",
+        "url": "https://open.spotify.com/album/42BtRB0B4hZs9xrHyUdDi8"
+      },
+      "artists": [
+        {
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160910,
+      "name": "SACRIFICE",
+      "url": "https://open.spotify.com/track/652voO2ddpn77vv687YIN7"
+    },
+    {
+      "album": {
         "name": "Safe And Sound",
         "url": "https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH"
       },
@@ -12716,6 +12788,24 @@
       "duration_ms": 207602,
       "name": "Salt (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44"
+    },
+    {
+      "album": {
+        "name": "Salt The Wound",
+        "url": "https://open.spotify.com/album/3d2PMCB7rFiUNYKFHmz9OF"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248474,
+      "name": "Salt The Wound",
+      "url": "https://open.spotify.com/track/6nLjrvLgI1JDqrh5CgrDUn"
     },
     {
       "album": {
@@ -14360,7 +14450,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 178560,
       "name": "Stress",
       "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
@@ -16892,6 +16982,24 @@
       "duration_ms": 235640,
       "name": "Violent Nature",
       "url": "https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT"
+    },
+    {
+      "album": {
+        "name": "Violent Nature",
+        "url": "https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130806,
+      "name": "Violent Nature",
+      "url": "https://open.spotify.com/track/4wG1qk65XGBixayITnktbO"
     },
     {
       "album": {

@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "All the Way Down",
+        "url": "https://open.spotify.com/album/5AyOJ8o2kQCd4uHSDQf9xI"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "All the Way Down",
+      "url": "https://open.spotify.com/track/6k8yVeEdbvkEbPYTCp0v20"
+    },
+    {
+      "album": {
         "name": "All Things Must Change",
         "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
       },
@@ -5767,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "E.V.I.L.",
+        "url": "https://open.spotify.com/album/2axYCY96RLFOZS7v2zOzHz"
+      },
+      "artists": [
+        {
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212702,
+      "name": "E.V.I.L.",
+      "url": "https://open.spotify.com/track/0kUgbL0dardbBDzeD4nXzU"
+    },
+    {
+      "album": {
         "name": "How Much a Heart Can Take Before It Breaks",
         "url": "https://open.spotify.com/album/47i2T4XU4iyXiEQHEUhbg7"
       },
@@ -7877,6 +7913,28 @@
     },
     {
       "album": {
+        "name": "God Is A Weapon",
+        "url": "https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215444,
+      "name": "God Is A Weapon",
+      "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
+    },
+    {
+      "album": {
         "name": "GODLESS",
         "url": "https://open.spotify.com/album/2Fb2NcUF1CS6CrxtgCnVDD"
       },
@@ -9872,7 +9930,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 163071,
       "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
       "url": "https://open.spotify.com/track/60v42pjlxbc23kDrJxQuYP"
@@ -13208,7 +13266,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 209866,
       "name": "Mortal Dread",
       "url": "https://open.spotify.com/track/78H8tG1mxDnKGPidHweKIz"
@@ -20622,7 +20680,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 352242,
       "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1"

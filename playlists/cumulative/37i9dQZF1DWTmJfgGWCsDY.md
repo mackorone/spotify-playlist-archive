@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-138 songs - 9 hr 21 min
+139 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Kwetu](https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Kwetu](https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ) | 3:29 | 2023-01-26 | 2025-04-16 |
 | [La Ushindi](https://open.spotify.com/track/3NI2b999rHr1ntGXtHXN1t) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13) | [Mapendezo](https://open.spotify.com/album/2DcHNnu496QJx0h9LmvozD) | 2:30 | 2025-02-28 |  |
 | [Linga Linga \- feat\. Makaveli](https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre) | [Bamba Pana, Makaveli](https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST) | [Poaa](https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm) | 4:38 | 2022-08-05 | 2024-04-19 |
+| [Lipa](https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB) | [Kiwanda](https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT), [Aslam Tz](https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O) | [Lipa](https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH) | 3:43 | 2025-05-22 |  |
 | [Lisabella](https://open.spotify.com/track/4MNTtgGg6ORM3j8ZFnlopz) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13) | [Lisabella](https://open.spotify.com/album/5k4rAgk1d9lgV3BdF2OQ0f) | 5:03 | 2025-02-20 |  |
 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 | 2022-08-05 |  |
 | [Magetoni](https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Magetoni](https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E) | 5:14 | 2023-12-15 |  |

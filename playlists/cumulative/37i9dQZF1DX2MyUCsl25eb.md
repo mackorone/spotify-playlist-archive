@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-931 songs - 2 day 5 hr 51 min
+932 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,7 +863,7 @@
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 |  |
 | [Want That Back](https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Want That Back](https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [Warm Animal](https://open.spotify.com/track/7oiZRx7OZbUAYUiYeFTXrf) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [What's It Like?](https://open.spotify.com/album/5LJzP85Zn7B2IAt7zhLImG) | 3:31 | 2021-08-04 | 2022-03-30 |
-| [WASH](https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [WASH](https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A) | 3:39 | 2025-03-21 |  |
+| [WASH](https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [WASH](https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A) | 3:39 | 2025-03-21 | 2025-05-24 |
 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2021-08-04 | 2022-03-30 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-09-26 |
 | [way after forever](https://open.spotify.com/track/0uhGgihlgkmAGZvp93rUwm) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [way after forever](https://open.spotify.com/album/2IHqIp7JN9bbL5sV4qdgx4) | 2:53 | 2023-03-10 | 2023-09-30 |
@@ -896,6 +896,7 @@
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 | 2023-02-18 |
 | [Where U Goin' Tonight?](https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Magic 8ball](https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5) | 4:23 | 2021-08-04 | 2022-04-21 |
 | [Where You're At](https://open.spotify.com/track/34jjJlejyRswRpHQiX3Jgq) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/0BMS4lZqxjh2DELNAVYl8P) | 2:50 | 2021-10-01 | 2022-07-29 |
+| [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 | 2025-05-23 |  |
 | [Why Not](https://open.spotify.com/track/1u4vnt92EF8arsXwCtGsdP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Why Not](https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID) | 3:39 | 2021-10-15 | 2022-07-29 |
 | [Wide Open](https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Wide Open](https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x) | 3:09 | 2023-07-14 | 2023-08-12 |
 | [Wine](https://open.spotify.com/track/4Oka2tfYfPIjh1J1cVwnwf) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Wine](https://open.spotify.com/album/3m3lD0j9e3yINFfCi0be98) | 3:13 | 2024-09-13 |  |

@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> POP YOURS開催まであと1日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tade Dust
+> いよいよPOP YOURS開催! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
 
-954 songs - 1 day 20 hr 6 min
+955 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [182](https://open.spotify.com/track/3ldNfg1ZlOuQa0Qxq8veHK) | [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7), [stb](https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr) | [182](https://open.spotify.com/album/0TfqmMoAE7DPWlXSTfAfnQ) | 2:23 | 2024-01-24 | 2024-03-06 |
 | [1983 \- Remix](https://open.spotify.com/track/4meJlE98KPiocYKoU4sBJh) | [NFN TEFER](https://open.spotify.com/artist/1NSFnnA4MXBixX18Bpacqg), [masaya](https://open.spotify.com/artist/0Lz0k07KkiYpfzt46Hy69t) | [1983 \(Remix\)](https://open.spotify.com/album/3fekclYq1I7ZJ7afUUeTYy) | 2:22 | 2024-11-12 |  |
 | [1X1](https://open.spotify.com/track/4L0WVXIq2JFOgMO4yBIFpe) | [FASM](https://open.spotify.com/artist/0mm2ifAJogZFO1ASP6y5gq) | [1X1](https://open.spotify.com/album/7E95N86lPUfvENxJuHYzXX) | 2:32 | 2024-09-03 | 2024-11-06 |
-| [2000](https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [2000](https://open.spotify.com/album/4atx65eawftO33EBEZJRJf) | 2:50 | 2025-05-17 | 2025-05-19 |
+| [2000](https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [2000](https://open.spotify.com/album/4atx65eawftO33EBEZJRJf) | 2:50 | 2025-05-17 |  |
 | [2017](https://open.spotify.com/track/2YfrrbUJjivaDTeWZPBT65) | [jailu](https://open.spotify.com/artist/0DylgEDqe2x4CAUzqXlMik) | [2017](https://open.spotify.com/album/4iOZLeRPgnTkSERqcdiKFa) | 2:00 | 2024-12-17 | 2025-02-12 |
 | [20221218](https://open.spotify.com/track/6fcN2s2sZzUYntuHwye4J5) | [NOIZE](https://open.spotify.com/artist/5qSNCHO1r9WTh9BJKZ9GlZ) | [20221218](https://open.spotify.com/album/1D8dTSNeuKZD6Gr8CYCbPk) | 2:07 | 2024-07-09 | 2024-10-23 |
 | [2025 Freestyle](https://open.spotify.com/track/4ZOps6xTaAjxdkFMYR5rwm) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [2025 Freestyle](https://open.spotify.com/album/1JGhfNCUVpixfswmsTTywR) | 1:42 | 2025-02-18 |  |
@@ -546,7 +546,7 @@
 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 | 2024-01-30 | 2024-03-06 |
 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 | 2024-02-01 |
 | [Next One](https://open.spotify.com/track/0uZTN9Q9GTVTuolAQ9lNXR) | [Luka Hatakeyama](https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy), [Kotaro Takaki](https://open.spotify.com/artist/3HufT5Dj9H5YGsy6reFzjg), [ZETTON](https://open.spotify.com/artist/2ANelKZy7C4j2ZYy1cEbPW) | [Next One](https://open.spotify.com/album/664zCUuW5wOOAKCdngHFdx) | 2:21 | 2024-10-23 | 2024-12-11 |
-| [nichijou:loopmania](https://open.spotify.com/track/680941jGFEU6BykwJaCi0A) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:16 | 2025-05-18 | 2025-05-20 |
+| [nichijou:loopmania](https://open.spotify.com/track/680941jGFEU6BykwJaCi0A) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:16 | 2025-05-18 |  |
 | [NIGHT DŌTONBORI](https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ) | [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d), [Yuki Namba](https://open.spotify.com/artist/1JWIHaz1I1QsNp3e789p4J) | [Ambivert Pt\. 2](https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH) | 2:23 | 2023-12-07 | 2023-12-20 |
 | [night time friends](https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [night time friends](https://open.spotify.com/album/1EwLfKRYRLYkLlJhBT0WHP) | 2:22 | 2025-04-22 |  |
 | [Nightmare](https://open.spotify.com/track/2rXdHhhMR5KsW3pqwvl8nO) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [In the Midst](https://open.spotify.com/album/4QT2lSpsyIm7gcwvdCMTRA) | 3:21 | 2024-08-07 | 2024-08-09 |
@@ -739,6 +739,7 @@
 | [SPEND MY TIME](https://open.spotify.com/track/3F9VGQmXajdFHOLOJ4eHHs) | [AMY McFLY](https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG), [Y2](https://open.spotify.com/artist/71oYGYgvAWdULjk3ffj1oy) | [SPEND MY TIME](https://open.spotify.com/album/5kahTU9HMIBriBysTGKZtG) | 2:37 | 2025-03-04 | 2025-04-02 |
 | [Stars](https://open.spotify.com/track/3zxVf4Dfuoxo2a3TZXdHTO) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [RE:](https://open.spotify.com/album/1pyFlOU8LqbmVAhh6IRmfj) | 1:58 | 2024-06-18 | 2024-06-26 |
 | [START LINE](https://open.spotify.com/track/07YkDtsYl4tbkxg1gciaR8) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [START LINE](https://open.spotify.com/album/6iTkEqQ1XZaeAo25fsuiuV) | 2:19 | 2024-07-16 | 2024-09-04 |
+| [Step In To The Pure Life](https://open.spotify.com/track/0ofGiZlbAGY3UkxyfJ4WmI) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Step In To The Pure Life](https://open.spotify.com/album/6i9BXn4SohQEhgX2yEaqN8) | 3:06 | 2025-05-23 |  |
 | [Step In To The Pure Life](https://open.spotify.com/track/4kv4cjJMaFO6dsFagTlvup) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Step In To The Pure Life](https://open.spotify.com/album/0AuBKTk1ut0UQ8OgPCDXeE) | 3:06 | 2025-02-04 |  |
 | [Step My Game Up \(feat\. Sadajyo\)](https://open.spotify.com/track/3hZuFGWsaFXxDYQLLCiE7L) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Gradis Nice](https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc), [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L) | [Day'N'Nite 2](https://open.spotify.com/album/4S8rLJZa2GAFA5OrTZy2sw) | 3:09 | 2024-10-23 | 2025-01-15 |
 | [Still Fly](https://open.spotify.com/track/19r9afNN7X9t5UbZHDnuQ1) | [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [Still Fly](https://open.spotify.com/album/55nDfsFusGk7UgRH7Un9zx) | 3:32 | 2024-04-24 | 2024-06-19 |

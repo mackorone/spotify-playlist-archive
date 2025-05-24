@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Dharius y Yayo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,370 likes - 102 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,388 likes - 102 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 10 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
 | 11 | [Mi Vida Mi Muerte](https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97) | 2:55 |
 | 12 | [Forget About It](https://open.spotify.com/track/2YnA7qH7YVRiEiId3AucWN) | [Ricardo Amadeus](https://open.spotify.com/artist/5rg7WVho1KFidmPyNCgsx6), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Forget About It](https://open.spotify.com/album/4o5BAejSwDDV0OG7hF5zIF) | 4:30 |
-| 13 | [Ahuevo Que Simon](https://open.spotify.com/track/1yDCWV2CobxJ79axpAjxNj) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Sr\. Ahuevo](https://open.spotify.com/album/7LGNl9hAHJnRyzBMrBHvFa) | 2:34 |
+| 13 | [Ahuevo Que Simon](https://open.spotify.com/track/1yDCWV2CobxJ79axpAjxNj) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Danny Brasco](https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY) | [Sr\. Ahuevo](https://open.spotify.com/album/7LGNl9hAHJnRyzBMrBHvFa) | 2:34 |
 | 14 | [Fiesta De Barrio](https://open.spotify.com/track/1vqejJVjdEvb3d7zoQnhB0) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Fiesta De Barrio](https://open.spotify.com/album/069edRbz8dGWvqvcgMUJDw) | 3:18 |
 | 15 | [Graciela / "Carta a Mi Abuela"](https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 2:52 |
 | 16 | [KUMIKO](https://open.spotify.com/track/0QGwfIHIp3xYDYcoXFd3qG) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Pobre Drums](https://open.spotify.com/artist/4j3S0DKZF3Lc8ccqMPdMsM) | [KUMIKO](https://open.spotify.com/album/1poDExjmuuiO7HP4Ln3yjQ) | 2:58 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 101 | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/track/7aFBy1CBLGnZE1Iv6TvEZE) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/album/6sJLYcfLIb9wNyLy1hdeyM) | 3:19 |
 | 102 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 
-Snapshot ID: `AAAAAJUZf8EOvg4XronuUuknoMRgLNhR`
+Snapshot ID: `aCdvSwAAAACrgPYnD8TzU7KB25T1sBEi`

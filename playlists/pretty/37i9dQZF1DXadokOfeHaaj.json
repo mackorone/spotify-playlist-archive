@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 36131,
+  "num_followers": 36139,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "24h In A Disco",
+        "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "24h In A Disco",
+      "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "24h In A Disco",
-        "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "24h In A Disco",
-      "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
-        "name": "Rush (Missing Out On Me)",
-        "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "cherry chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        },
-        {
-          "name": "Purient",
-          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
-        }
-      ],
-      "duration_ms": 144802,
-      "name": "Rush (Missing Out On Me)",
-      "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
         "name": "Put Your Love On Me (feat. Henry Camamile)",
         "url": "https://open.spotify.com/album/2nQZyTRC7ckSchCSdvL9Vg"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 199718,
       "name": "Put Your Love On Me (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/3vgDmz3zXSanBA52SeTmtD"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
+        "name": "Rush (Missing Out On Me)",
+        "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Purient",
+          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
+        }
+      ],
+      "duration_ms": 144802,
+      "name": "Rush (Missing Out On Me)",
+      "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "Lying In The Sand",
         "url": "https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 199968,
       "name": "Lying In The Sand",
       "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2025-05-08 23:00:20",

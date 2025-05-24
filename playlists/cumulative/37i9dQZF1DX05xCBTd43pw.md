@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-350 songs - 18 hr 2 min
+351 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Chlorine](https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Chlorine](https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY) | 3:00 | 2024-12-20 |  |
 | [Chosen One](https://open.spotify.com/track/6dqTj5gKTMni9esU8TO5jd) | [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Chosen One](https://open.spotify.com/album/4VQXn7Ine5IpFCHWGrJxKJ) | 1:44 | 2025-05-15 | 2025-05-23 |
 | [Clean](https://open.spotify.com/track/6Bl5lqZBzc2tgH6fbBoaor) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Clean](https://open.spotify.com/album/6fzC2pvNHICrZG8j5YUX06) | 3:37 | 2025-05-15 | 2025-05-23 |
+| [Close To You](https://open.spotify.com/track/7l5Zm7d4veyUk6iHX6QkOW) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Close To You](https://open.spotify.com/album/2AtTsN3JdjAyA6ZTIWROCG) | 2:53 | 2025-05-22 |  |
 | [closer somehow](https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [closer somehow](https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0) | 2:46 | 2025-03-21 |  |
 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 | 2024-10-03 |  |
 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 | 2024-06-27 |  |
@@ -110,7 +111,7 @@
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [Ewigi Liäbi](https://open.spotify.com/track/5ZhhqmfPUKOvrtApk9fSOh) | [Mash](https://open.spotify.com/artist/3B57Z4DUtbwlGvAlTWzCPl) | [Nid Vo Bärn](https://open.spotify.com/album/1bL3dNNhKomStmA6QuE6KY) | 4:21 | 2025-05-08 | 2025-05-16 |
 | [F\*gg Di](https://open.spotify.com/track/7Ke1aQ1Ppg8vzVgp6IHeIH) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Ostbärn gseh und stärbe](https://open.spotify.com/album/7lfj26zC3hF9Gm9mHSqxyk) | 3:39 | 2025-04-24 | 2025-05-02 |
-| [Fading Fire](https://open.spotify.com/track/6MByHM4f80ba7SdRgNDdtZ) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Fading Fire](https://open.spotify.com/album/4948hTZx3MeXxnG39mSniT) | 2:33 | 2025-05-22 |  |
+| [Fading Fire](https://open.spotify.com/track/6MByHM4f80ba7SdRgNDdtZ) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Fading Fire](https://open.spotify.com/album/4948hTZx3MeXxnG39mSniT) | 2:33 | 2025-05-22 | 2025-05-24 |
 | [Fantasy](https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Fantasy](https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd) | 2:37 | 2025-02-14 | 2025-04-18 |
 | [Fcuk!](https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A) | 3:34 | 2024-11-09 |  |
 | [feel like myself](https://open.spotify.com/track/1FmVcidJ8PFbgRVtDFKmya) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [old sun, new horizon](https://open.spotify.com/album/2GE74gJeibVhjY53B8ae7m) | 3:38 | 2025-02-27 | 2025-03-29 |

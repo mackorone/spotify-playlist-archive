@@ -1143,6 +1143,26 @@
     {
       "added_at": "2025-05-16 03:10:32",
       "album": {
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "added_at": "2025-05-16 03:10:32",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
-    },
-    {
-      "added_at": "2025-05-16 03:10:32",
-      "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
-      },
-      "artists": [
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
     },
     {
       "added_at": "2025-05-16 03:10:32",
@@ -1323,22 +1323,30 @@
     {
       "added_at": "2025-05-16 03:10:32",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+        "name": "Jeito Bom #2",
+        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
       "artists": [
         {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+          "name": "RM no Beat",
+          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
         },
         {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+          "name": "Caio Big",
+          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
+        },
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        },
+        {
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
         }
       ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+      "duration_ms": 209378,
+      "name": "Jeito Bom #2",
+      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
     }
   ],
   "unique_name": "Resenha na Praia",

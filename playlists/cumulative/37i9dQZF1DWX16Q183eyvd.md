@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-172 songs - 7 hr 51 min
+173 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Affirmation Alphabets](https://open.spotify.com/track/23EL7i3uZgzPROoD1NYL4b) | [Phonicsman](https://open.spotify.com/artist/3uBROWn3YUw9MweORiLbFI) | [Affirmation Alphabets](https://open.spotify.com/album/2fNNnhBbvYqbNTnubH9iiC) | 5:08 | 2024-01-30 |  |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2024-01-30 |  |
 | [Apple of My Eye](https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 4:15 | 2021-11-19 | 2024-01-31 |
-| [Aura V Anthem](https://open.spotify.com/track/3mjYCpOCqwyv2q4o7E8F0e) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Aura V Anthem](https://open.spotify.com/album/4cxT3Qi0xKbDSsyHQ6cQVi) | 1:06 | 2025-05-09 |  |
+| [Aura V Anthem](https://open.spotify.com/track/3mjYCpOCqwyv2q4o7E8F0e) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Aura V Anthem](https://open.spotify.com/album/4cxT3Qi0xKbDSsyHQ6cQVi) | 1:06 | 2025-05-09 | 2025-05-24 |
 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 | 2024-01-30 |  |
 | [Believe In Yourself](https://open.spotify.com/track/4fodXSNCm0wF9IfCjqA9SF) | [Cali Sadé](https://open.spotify.com/artist/412wqueGF3MRBHjzYP5KQC) | [Believe In Yourself](https://open.spotify.com/album/6Cr8zKBlb8QtPCHlDaJey7) | 2:33 | 2024-01-30 |  |
 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 | 2024-01-30 |  |
@@ -115,6 +115,7 @@
 | [My Daddy](https://open.spotify.com/track/62PMIjZwq8LjFJqjb5KRDG) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY), [VanVan](https://open.spotify.com/artist/3WxOjk5szKnKRX6uGSTJnl) | [My Daddy](https://open.spotify.com/album/5lrShGJjQB54FR9vSB1vNR) | 2:42 | 2024-05-17 | 2025-05-10 |
 | [NO BULLY ZONE](https://open.spotify.com/track/7FZKNZn3aTCUYfUeG8YubE) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [NO BULLY ZONE](https://open.spotify.com/album/2kF2YdgplUMr4snQdE6XGU) | 1:24 | 2024-03-08 |  |
 | [No Limits](https://open.spotify.com/track/3lp8uKSytH2EkthguoNZcS) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Culture Kidz](https://open.spotify.com/album/20h68tcBMmHaDVobHNilSC) | 2:36 | 2024-06-21 | 2025-03-22 |
+| [Number 1 Fan](https://open.spotify.com/track/7g4nkY0DO585W0yauxcHBX) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Harmony](https://open.spotify.com/album/0PQ19dPwxTPuv4FGxCk8kP) | 4:27 | 2025-05-23 |  |
 | [Nursery Rhyme Rap](https://open.spotify.com/track/0iDfIHCS8JUWqN9UvrZnAx) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Record Player \- Hip Hop](https://open.spotify.com/album/4uvBSaRjYIsXXli1vvWZrq) | 1:05 | 2025-04-04 |  |
 | [Old Town Road](https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Old Town Road](https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn) | 1:50 | 2021-11-19 | 2024-01-31 |
 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 | 2021-11-19 | 2024-01-31 |

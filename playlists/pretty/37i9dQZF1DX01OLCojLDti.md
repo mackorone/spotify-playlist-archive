@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" ©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,083 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,086 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 11 | [ビタミンSUMMER！](https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER！ / Chance Day, Chance Way！ \(第6話盤\)](https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF) | 3:29 |
 | 12 | [Tiny Stars](https://open.spotify.com/track/6OkVKclkNwr3ER4C1Gwhxk) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [未来予報ハレルヤ！ / Tiny Stars \(第1話盤\)](https://open.spotify.com/album/1WK8j1olBIVqzl5LFfHeuV) | 3:53 |
 | 13 | [LIVE with a smile!](https://open.spotify.com/track/2ADhseHRNiaV6NOjP6qZ2X) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1), [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [LIVE with a smile!](https://open.spotify.com/album/440iaSHnfUVbHAu9m6Qtz8) | 5:13 |
-| 14 | [パレードはいつも \- 若菜四季 Ver.](https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:38 |
-| 15 | [エンドレスサーキット \- 唐 可可 Ver.](https://open.spotify.com/track/5v8NI6etnhsmj6MmzkbBpm) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 2:35 |
+| 14 | [エンドレスサーキット \- 唐 可可 Ver.](https://open.spotify.com/track/5v8NI6etnhsmj6MmzkbBpm) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 2:35 |
+| 15 | [パレードはいつも \- 若菜四季 Ver.](https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:38 |
 | 16 | [Flyer's High](https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
 | 17 | [迷宮讃歌 \- 葉月 恋 Ver.](https://open.spotify.com/track/47KDLm74BUrouKPQLr8bhi) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:31 |
 | 18 | [パレードはいつも \- 米女メイ Ver.](https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup) | [米女メイ \(CV.薮島朱音\)](https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:37 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 44 | [Ringing!](https://open.spotify.com/track/2P88zTV5gzpva4y6NtVaqg) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:21 |
 | 45 | [QUESTION99](https://open.spotify.com/track/5KoBxopLdvZNkDjfQOSGd5) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第6話盤】](https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb) | 3:41 |
 | 46 | [シェキラ☆☆☆](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
-| 47 | [真っ赤。](https://open.spotify.com/track/5SUFkTfaqjo6bk3eGogzqu) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第8話盤】](https://open.spotify.com/album/448ZEDvkwjToQcsewy9zzY) | 3:01 |
-| 48 | [始まりは君の空](https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 5:01 |
+| 47 | [始まりは君の空](https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 5:01 |
+| 48 | [真っ赤。](https://open.spotify.com/track/5SUFkTfaqjo6bk3eGogzqu) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第8話盤】](https://open.spotify.com/album/448ZEDvkwjToQcsewy9zzY) | 3:01 |
 | 49 | [青春HOPPERS](https://open.spotify.com/track/7r7rLLgXfOuLeeW6R7CCzF) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Let's be ONE](https://open.spotify.com/album/7s3LovT9EoD7YnaGK3lKY6) | 3:48 |
 | 50 | [Special Color](https://open.spotify.com/track/3DvKZW3rxxf7Uvvzz4iGDU) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 3:47 |
 

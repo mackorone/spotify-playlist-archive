@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover:   FREDDY L
 
-697 songs - 1 day 17 hr 7 min
+698 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Burn The Witch](https://open.spotify.com/track/1giJa0VnP9hpUN8IMdszl0) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Burn The Witch](https://open.spotify.com/album/6rxwdPtLqT7lAu2vN2GqNC) | 3:15 | 2024-11-14 | 2024-12-10 |
 | [Burning Building](https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Burning Building](https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT) | 2:56 | 2023-01-19 | 2023-03-18 |
 | [Burning For You](https://open.spotify.com/track/1alUZS10M2GGYcJiF9cSv2) | [So Kindly](https://open.spotify.com/artist/6fUX9WpmjfZ6brQClEEuWN) | [Burning For You](https://open.spotify.com/album/1H8LTaqQEooW3kxq46koJY) | 3:52 | 2025-03-07 | 2025-04-09 |
+| [Butt Hurt](https://open.spotify.com/track/7LMqMWV3llgIJsDj1g0BkN) | [Lefokolodi](https://open.spotify.com/artist/2AZChLWU9RDlSkGGszB271) | [Butt Hurt](https://open.spotify.com/album/4jwjJzjDI7o0TAktXt9AWD) | 4:06 | 2025-05-23 |  |
 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 | 2025-05-02 |  |
 | [Caligulater](https://open.spotify.com/track/6SK3qzRQe8xBo9xNgUhUsO) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Caligulater](https://open.spotify.com/album/75a8zGSywMRtgsQlb1nQKM) | 6:53 | 2023-03-23 | 2023-04-15 |
 | [Cancelled](https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Cancelled](https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX) | 4:44 | 2022-09-02 | 2022-09-16 |
@@ -172,7 +173,7 @@
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2023-05-06 |
 | [Die Sterre Binne Jou](https://open.spotify.com/track/0SASpYNg8wXAzljJNVkTuv) | [Saarkie](https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf) | [Die Sterre Binne Jou](https://open.spotify.com/album/2LfoCD0e6F2enqGZAhSzIE) | 3:51 | 2025-01-30 | 2025-02-07 |
 | [Die Stryd](https://open.spotify.com/track/6WBOpGhSpsZgNhjENuaeMV) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Die Stryd](https://open.spotify.com/album/0EGGgOzLhMdK9zw88wLQfD) | 3:07 | 2024-12-12 | 2025-02-07 |
-| [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 | 2024-01-04 |  |
+| [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 | 2024-01-04 | 2025-05-24 |
 | [Discount Hearts](https://open.spotify.com/track/4ZLoGWBOmRs5vTog21JEwJ) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Discount Hearts](https://open.spotify.com/album/4fDL2iiY0IXiCgyq6MdVPu) | 2:45 | 2024-07-28 | 2024-08-19 |
 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 | 2025-04-24 |  |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |

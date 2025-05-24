@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 201093,
       "name": "Freak",
       "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
@@ -2956,6 +2956,28 @@
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
+    },
+    {
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159387,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU"
     },
     {
       "album": {
@@ -4084,6 +4106,32 @@
       "duration_ms": 257419,
       "name": "No Reason - Chris Lake Remix",
       "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
+    },
+    {
+      "album": {
+        "name": "No Room For A Saint (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236128,
+      "name": "No Room For A Saint (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
     },
     {
       "album": {

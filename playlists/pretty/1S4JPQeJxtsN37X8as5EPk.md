@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,503 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,501 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 | 24 | [Swanno Mountain](https://open.spotify.com/track/54a8wvCRamd5ZXZpFR9lRm) | [Roscoe Holcomb](https://open.spotify.com/artist/7JZ7Ok3UaKmZmD5otFfcY3) | [An Untamed Sense of Control](https://open.spotify.com/album/2aahFDSJKQc8CeqRDbtrmT) | 3:17 |
 | 25 | [No Depression in Heaven](https://open.spotify.com/track/503NqawTte4PZiwqCG5jgu) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd) | [Songs from the Depression](https://open.spotify.com/album/0aR6PBc0m1rWESLbOzY3KU) | 3:00 |
 | 26 | [Run Around](https://open.spotify.com/track/66ZSRYPKVUOTsir8855Xvx) | [Austin Lucas](https://open.spotify.com/artist/2xXNqL807BAunM2FdmAixU) | [A New Home In The Old World](https://open.spotify.com/album/0rYuSSusgSd5wR18oDsPUx) | 2:53 |
-| 27 | [I Ain't Got No Home in This World Anymore](https://open.spotify.com/track/3SGSZx5jVIFAth3JpYPOqp) | [Sammy Walker](https://open.spotify.com/artist/5MbgNNUvXoRBhhARwa0nPX), [Sis Cunningham](https://open.spotify.com/artist/65Q1w5t5usDLaJN4o3NxPU), [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [Broadside Ballads, Vol\. 8: Song for Patty](https://open.spotify.com/album/5WLwkFwzz5Tv8H8VRNllaP) | 2:16 |
+| 27 | [I Ain't Got No Home](https://open.spotify.com/track/3SGSZx5jVIFAth3JpYPOqp) | [Sammy Walker](https://open.spotify.com/artist/5MbgNNUvXoRBhhARwa0nPX), [Sis Cunningham](https://open.spotify.com/artist/65Q1w5t5usDLaJN4o3NxPU), [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [Broadside Ballads, Vol\. 8: Song for Patty](https://open.spotify.com/album/5WLwkFwzz5Tv8H8VRNllaP) | 2:16 |
 | 28 | [Hard Travelin'](https://open.spotify.com/track/7kUQ5lt1O6IecYeOh6zYkd) | [Ramblin' Jack Elliott](https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b) | [Hard Travelin'](https://open.spotify.com/album/6KuhngYTUSmclhEFXVw6ZS) | 2:32 |
 | 29 | [Strawberry Roan](https://open.spotify.com/track/2DeYIGCgDVliOlUD0BDVVn) | [Dave Stamey](https://open.spotify.com/artist/1RcznpTY0WgHLYFgpDMwh4) | [Campfire Waltz](https://open.spotify.com/album/6kSNmVoXjd8PIWWDxrfEJV) | 3:29 |
 | 30 | [The Great Historical Bum](https://open.spotify.com/track/2ZlCMz42sF9c4TMGnNF6oU) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Ballad For Americans And Other American Ballads](https://open.spotify.com/album/28vDWubxgq2ivoaBkYmOns) | 1:59 |

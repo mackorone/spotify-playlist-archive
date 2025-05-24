@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1718,
+  "num_followers": 1719,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "38 Baby 2",
+        "url": "https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 172669,
+      "name": "Ten Talk",
+      "url": "https://open.spotify.com/track/1IeXZVBNGJJExnzNmXcLRX"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
         "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
       },
@@ -743,26 +759,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "BETTER THAN YOU",
-        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 111970,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -779,18 +775,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "38 Baby 2",
-        "url": "https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex"
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },
       "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
         {
           "name": "YoungBoy Never Broke Again",
           "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 172669,
-      "name": "Ten Talk",
-      "url": "https://open.spotify.com/track/1IeXZVBNGJJExnzNmXcLRX"
+      "duration_ms": 111970,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I Hate YoungBoy",
+        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "I Hate YoungBoy",
+      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -931,26 +947,6 @@
       "duration_ms": 210360,
       "name": "Fuck It",
       "url": "https://open.spotify.com/track/50lOvJmUACTRJDxU62o5f6"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "P.I.M.P. - Snoop Dogg Remix",
-      "url": "https://open.spotify.com/track/7D8gRgQ161fqXNOkcanJfa"
     },
     {
       "added_at": "2022-11-01 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 14580,
+  "num_followers": 14583,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAAa4RAi6XfYN/IgeLMPZAu3",
+  "snapshot_id": "aC5pAAAAAADGfs/mSOLbm0xL7ZzLxmuY",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "News Of The World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 126906,
-      "name": "Captain Jefferson",
-      "url": "https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Hidden Life (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
       },
@@ -123,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+        "name": "News Of The World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
       },
       "artists": [
         {
           "name": "James Newton Howard",
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 86906,
-      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
-      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+      "duration_ms": 126906,
+      "name": "Captain Jefferson",
+      "url": "https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n"
     },
     {
       "added_at": null,
@@ -155,6 +135,26 @@
       "duration_ms": 158613,
       "name": "London",
       "url": "https://open.spotify.com/track/7hS3i9y9gi81OOFT1rCfSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/44qAUS0siEj2plisdS25xw"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 159960,
-      "name": "The Mockingjay",
-      "url": "https://open.spotify.com/track/46EmDxrxAXfkplyXDQKTJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Village",
         "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 271480,
       "name": "The Gravel Road - Score",
       "url": "https://open.spotify.com/track/5ynPIIbdGo2OBoX9vcnUo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/44qAUS0siEj2plisdS25xw"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 159960,
+      "name": "The Mockingjay",
+      "url": "https://open.spotify.com/track/46EmDxrxAXfkplyXDQKTJJ"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sixth Sense (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 55200,
+      "name": "Photographs",
+      "url": "https://open.spotify.com/track/78yA58Dk8ojS5CQyh2iLIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 177493,
       "name": "Inner Sanctum / The Nesting Grounds - From \"Dinosaur\"/Score",
       "url": "https://open.spotify.com/track/5JbuKh2rpieicj3ld8Yy2L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sixth Sense (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 55200,
-      "name": "Photographs",
-      "url": "https://open.spotify.com/track/78yA58Dk8ojS5CQyh2iLIZ"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 124403,
-      "name": "Leta's Theme - Solo Piano",
-      "url": "https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 124403,
+      "name": "Leta's Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
       },
@@ -671,26 +671,6 @@
       "duration_ms": 116189,
       "name": "Tina Takes Newt In / Macusa Headquarters",
       "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
-        "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 116346,
-      "name": "The Sixth Sense: Lonely Boy",
-      "url": "https://open.spotify.com/track/0kpN8g0aaQHpXll0lTYLVX"
     },
     {
       "added_at": null,
@@ -727,6 +707,26 @@
       "duration_ms": 237960,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
+        "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "duration_ms": 116346,
+      "name": "The Sixth Sense: Lonely Boy",
+      "url": "https://open.spotify.com/track/0kpN8g0aaQHpXll0lTYLVX"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic Beasts: The Secrets of Dumbledore (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 155613,
+      "name": "I Know You Are There",
+      "url": "https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
         "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
       },
@@ -795,70 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Tenuous Winners/Returning Home",
-      "url": "https://open.spotify.com/track/3Bx7utlrwP1eAxFBUfqwXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts: The Secrets of Dumbledore (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 155613,
-      "name": "I Know You Are There",
-      "url": "https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlantis: The Lost Empire",
-        "url": "https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
-      "url": "https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dark Knight (Collectors Edition) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/3vARhx9vwOve3Xdu06vM8S"
       },
@@ -879,6 +831,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlantis: The Lost Empire",
+        "url": "https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
+      "url": "https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 125469,
+      "name": "He's Listening to You Tina",
+      "url": "https://open.spotify.com/track/5p8Phi6zi7bm5Ar8Sk4OpT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 89093,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/6GBTGVUSVIvvgWbm17kIGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
     }
   ],
   "unique_name": "This Is James Newton Howard",

@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Torcha
 
-171 songs - 9 hr 38 min
+172 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [PROXIMATE](https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [X1\-Y2](https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R) | [NOVUS](https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83) | 2:59 | 2024-10-18 |  |
 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 | 2024-10-26 | 2024-11-09 |
 | [Puzzle Box](https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Puzzle Box](https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M) | 3:32 | 2023-12-01 | 2025-05-03 |
+| [RELOADED](https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [RELOADED](https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k) | 3:48 | 2025-05-23 |  |
 | [Revival](https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Revival](https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL) | 3:40 | 2024-11-29 |  |
 | [Rollin' Deep](https://open.spotify.com/track/192PapqBQXyC0vuiWc80Bb) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rollin' Deep](https://open.spotify.com/album/61oj3yPyofMulvi48JQLZL) | 4:30 | 2024-02-23 | 2024-11-09 |
 | [Rude Boy \- EAZYBAKED Remix](https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rude Boy \(EAZYBAKED REMIX\)](https://open.spotify.com/album/1yf6gLN59wp1eWCCLqzQe7) | 3:39 | 2024-03-15 | 2024-11-09 |

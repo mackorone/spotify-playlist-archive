@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-468 songs - 1 day 3 hr 21 min
+469 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [If We Get Caught](https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [If We Get Caught](https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY) | 3:14 | 2022-03-25 |  |
 | [In Need of Repair](https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [In Need of Repair](https://open.spotify.com/album/01JnSvaj1iA6nTZsmnwPiG) | 3:56 | 2021-12-02 |  |
 | [In The Light of Day](https://open.spotify.com/track/66zmIFmy6bfgBwld7FDpPF) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [In The Light of Day](https://open.spotify.com/album/57Zs0drMxzptJc9jEElQ3r) | 2:06 | 2020-10-10\* | 2021-02-25 |
+| [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-23 |  |
 | [In This State](https://open.spotify.com/track/4WbOSFjZX7uPIYZS0dpl1s) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [In This State](https://open.spotify.com/album/6VOy3FS05qOf4D9jyWk8Vb) | 3:02 | 2020-10-10\* | 2021-05-13 |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 |  |
 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/5RlKqL2gmUrDGbKBDWGmHY) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 | 2023-03-03 |  |

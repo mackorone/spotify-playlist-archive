@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 158774,
+  "num_followers": 158859,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAADzLo4u0DJwREf6DeIrCTZe",
+  "snapshot_id": "aC5pAAAAAADF+jw1yscWEN2aJiQO/pey",
   "tracks": [
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+        "name": "Mi Amor Por Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 285093,
-      "name": "Todo Cambio",
-      "url": "https://open.spotify.com/track/42wH3dWb4gBBFfJ4YBSIqC"
+      "duration_ms": 239695,
+      "name": "Mi Amor Por Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv"
     },
     {
       "added_at": null,
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Amor Por Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H"
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
       },
       "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 239695,
-      "name": "Mi Amor Por Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv"
+      "duration_ms": 285093,
+      "name": "Todo Cambio",
+      "url": "https://open.spotify.com/track/42wH3dWb4gBBFfJ4YBSIqC"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 214738,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX"
+      "duration_ms": 229584,
+      "name": "Nestor (El Nini)",
+      "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 229584,
-      "name": "Nestor (El Nini)",
-      "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
+      "duration_ms": 214738,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX"
     },
     {
       "added_at": null,

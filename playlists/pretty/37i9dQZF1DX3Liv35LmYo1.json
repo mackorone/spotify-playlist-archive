@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1033,
+  "num_followers": 1036,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "The Time Is Right",
         "url": "https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 253793,
       "name": "Colours Of My Mind",
       "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Ante",
         "url": "https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 260168,
       "name": "Ante",
       "url": "https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Jewels from the Sun EP",
-        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 290847,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Sweet Memory",
         "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 211428,
       "name": "Sweet Memory",
       "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Justine",
-        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Justine",
-      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Basic Instinct",
         "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 284477,
       "name": "SFC - Hommage Mix",
       "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Justine",
+        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Justine",
+      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Higher Elevation",
-        "url": "https://open.spotify.com/album/6p5guaSzlOafeYyHI75yIv"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 373453,
-      "name": "Higher Elevation",
-      "url": "https://open.spotify.com/track/6rOO4rvFRvljFZlcpylgPR"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Higher Elevation",
+        "url": "https://open.spotify.com/album/6p5guaSzlOafeYyHI75yIv"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 373453,
+      "name": "Higher Elevation",
+      "url": "https://open.spotify.com/track/6rOO4rvFRvljFZlcpylgPR"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -623,18 +623,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Poly 61",
-        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
+        "name": "Wall Of Sleep",
+        "url": "https://open.spotify.com/album/72YJcxGTWSbRYRqRzCYdVV"
       },
       "artists": [
         {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 273300,
-      "name": "Poly 61",
-      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+      "duration_ms": 287198,
+      "name": "Wall of Sleep",
+      "url": "https://open.spotify.com/track/1KaS7bkSH7jPsz2tch2ZQ7"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -655,22 +659,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Wall Of Sleep",
-        "url": "https://open.spotify.com/album/72YJcxGTWSbRYRqRzCYdVV"
+        "name": "Poly 61",
+        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
         }
       ],
-      "duration_ms": 287198,
-      "name": "Wall of Sleep",
-      "url": "https://open.spotify.com/track/1KaS7bkSH7jPsz2tch2ZQ7"
+      "duration_ms": 273300,
+      "name": "Poly 61",
+      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -759,38 +759,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Blue Spring",
-        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Mercury Remixes",
         "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
@@ -811,6 +779,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Blue Spring",
+        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Absent",
         "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 189473,
       "name": "Absent",
       "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
     },
     {
       "added_at": "2023-08-31 14:00:00",

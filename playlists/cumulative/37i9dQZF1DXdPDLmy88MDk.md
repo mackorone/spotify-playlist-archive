@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-178 songs - 10 hr 52 min
+179 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Brotin](https://open.spotify.com/track/1ByjUtjfHISyPBH1m4uhvT) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Brotin](https://open.spotify.com/album/1z8AVAZZ8MwD6Q3gBL2IEH) | 3:15 | 2021-11-19 |  |
 | [Bylur](https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 4:11 | 2021-11-19 |  |
 | [Caprice viennois, Op\. 2 \(Arr\. Fougeray for Violin and Guitar\): II\. Andante con moto](https://open.spotify.com/track/29djfJX2smSZgYLEPbpiWC) | [Fritz Kreisler](https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Kreisler: Caprice viennois, Op\. 2 \(Arr\. Fougeray for Violin and Guitar\)](https://open.spotify.com/album/2yHZciyRknuNoEkY1zovFs) | 1:40 | 2024-12-24 |  |
+| [Clair de Lune \(Arr\. for String Quartet by Hao Zhou\)](https://open.spotify.com/track/4FCPAxjEYSaP9YMJupQvjx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Viano Quartet](https://open.spotify.com/artist/5xjhUni1nLAHAvJ03jGt64) | [Clair de Lune \(Arr\. for String Quartet by Hao Zhou\)](https://open.spotify.com/album/6aJUXpIG150LXvr6Gy8Q4O) | 4:39 | 2025-05-23 |  |
 | [Clearly](https://open.spotify.com/track/55tehuewleUyLqkKuovHkQ) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Turning Year](https://open.spotify.com/album/69q5BWCtoQAgoeNxx6kvWB) | 2:29 | 2022-05-11 |  |
 | [Concerto Caboclo: II\. Moda di viola\. Adagio](https://open.spotify.com/track/1mKyd8lD16mbV3XvEHPSCY) | [Paulo Bellinati](https://open.spotify.com/artist/4zsnXJnprWmVTkejnrAHVi), [Brasil Guitar Duo](https://open.spotify.com/artist/43wX0pz8yybXaWJRqWmhhv), [Delaware Symphony Orchestra](https://open.spotify.com/artist/0TiTLP3l0BSmNnxzA2W0dK), [David Amado](https://open.spotify.com/artist/2rwV5OROK1gtA39zK1VMHV) | [Brouwer: The Book of Signs \- Bellinati: Concerto Caboclo](https://open.spotify.com/album/1f0a19AstIvi2AKH74tqoa) | 5:50 | 2021-11-19 | 2022-07-29 |
 | [Concerto Caboclo: II\. Moda di viola\. Adagio](https://open.spotify.com/track/4VsyoFBLxmoVzxhRBWLSVK) | [Paulo Bellinati](https://open.spotify.com/artist/4zsnXJnprWmVTkejnrAHVi), [Brasil Guitar Duo](https://open.spotify.com/artist/43wX0pz8yybXaWJRqWmhhv), [Delaware Symphony Orchestra](https://open.spotify.com/artist/0TiTLP3l0BSmNnxzA2W0dK), [David Amado](https://open.spotify.com/artist/2rwV5OROK1gtA39zK1VMHV) | [Brouwer: The Book of Signs \- Bellinati: Concerto Caboclo](https://open.spotify.com/album/65esujE4ycI0aP8g4Xs5Y0) | 5:50 | 2022-05-11 | 2023-03-16 |

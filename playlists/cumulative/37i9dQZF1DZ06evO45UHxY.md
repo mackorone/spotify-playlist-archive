@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 22 min
+109 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [El Gato del Vecindario](https://open.spotify.com/track/6kfpFMsbGcNrN6CBH87Qyx) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:34 | 2022-06-01 | 2022-10-01 |
 | [El lamento del cornudo](https://open.spotify.com/track/2kbiFgHG5T7qbrh3wXb0aE) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:33 | 2025-03-22 | 2025-03-28 |
 | [El Pasito Perron](https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Pasito Perron](https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k) | 2:51 | 2022-06-01 |  |
-| [El pulpito](https://open.spotify.com/track/0IOo7TJxhsK9NZvFN51u74) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Oro Grupero](https://open.spotify.com/album/7rPkJ0IUPojfPmWka3ZQ1P) | 1:43 | 2025-05-07 |  |
+| [El pulpito](https://open.spotify.com/track/0IOo7TJxhsK9NZvFN51u74) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Oro Grupero](https://open.spotify.com/album/7rPkJ0IUPojfPmWka3ZQ1P) | 1:43 | 2025-05-07 | 2025-05-24 |
 | [El pulpito](https://open.spotify.com/track/3wystEzsZLBcIPr7YdZvbe) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 1:43 | 2022-11-07 | 2022-11-23 |
 | [El Sabio Conocedor](https://open.spotify.com/track/7GzZBCNVabgCDX0jPXtfvc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:44 | 2023-05-01 | 2023-11-11 |
 | [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 | 2022-06-01 | 2023-02-20 |
@@ -76,6 +76,7 @@
 | [La Morena](https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:54 | 2022-06-01 | 2025-05-07 |
 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 | 2022-06-01 | 2024-03-02 |
 | [La Niña Fresa](https://open.spotify.com/track/3sgHiiSR5V8V97FiQtne0u) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:40 | 2023-06-07 |  |
+| [La piedrecita](https://open.spotify.com/track/7JLmJk8qckJuCjR0NMpg9q) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:26 | 2025-05-24 |  |
 | [Lagrimas](https://open.spotify.com/track/7p4X5GcRSkeQcJVLobJXyO) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:52 | 2022-06-03 | 2022-07-14 |
 | [Las Cosas No Son Del Dueno](https://open.spotify.com/track/3lETJ4GYKeoYOrQK0VaqPy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:06 | 2022-06-01 | 2022-11-02 |
 | [Los Días Del Arcoíris](https://open.spotify.com/track/6mYHWQODIsDvZvpFkuIcNX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:03 | 2022-11-01 | 2023-11-11 |

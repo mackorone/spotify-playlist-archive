@@ -12365,6 +12365,36 @@
     },
     {
       "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)",
+      "url": "https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1"
+    },
+    {
+      "album": {
         "name": "Made him cry",
         "url": "https://open.spotify.com/album/1edNAj94b5QsfldraHrJnb"
       },
@@ -26178,7 +26208,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 270900,
       "name": "\u308f\u3092\u3093",
       "url": "https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA"

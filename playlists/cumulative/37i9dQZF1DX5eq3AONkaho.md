@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,038 songs - 2 day 9 hr 36 min
+1,040 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2023-11-04 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2023-11-04 |  |
 | [Changer](https://open.spotify.com/track/5A3BZXpLvw399NrvWatRMJ) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Changer : Dear Eris](https://open.spotify.com/album/1tLwLZEdx1pVmhzzY0L6nf) | 3:23 | 2022-02-03 | 2022-07-28 |
-| [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-11-04 |  |
+| [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-11-04 | 2025-05-24 |
 | [CHECKMATE](https://open.spotify.com/track/0bMghv6sHKkQAov6gwmS3s) | [MXM](https://open.spotify.com/artist/2BXth1dnMzlCfJP9EiCLnv) | [MORE THAN EVER](https://open.spotify.com/album/75uengvwBxwX2hN8VUfIPm) | 3:17 | 2022-03-24 | 2022-04-21 |
 | [CHEER UP](https://open.spotify.com/track/6jIpuClSFwyBoGTwwpkKU5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/4Sm5OwvCBTMxG88fyfOr0T) | 3:28 | 2021-11-17 | 2022-07-27 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-11-21 |  |
@@ -345,6 +345,7 @@
 | [FLOWER](https://open.spotify.com/track/76QwAlBSjI9a08bqlQL92c) | [Varsity](https://open.spotify.com/artist/3T49KbzLgtqWEUhrP8XUJZ) | [Flos Clarissimus](https://open.spotify.com/album/0pPPGolZDYtE2fWuWPbQzs) | 3:33 | 2022-03-24 | 2022-04-20 |
 | [FLOWER ROAD \- KR Ver.](https://open.spotify.com/track/370HUQ80ZczhMaWuFZO54Q) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/5rnN2OpG9EzVaGgpzrkyzH) | 3:48 | 2021-11-17 | 2022-07-28 |
 | [Fly To My Room](https://open.spotify.com/track/3QH8rQGNFX8VLbCgZ7uPTS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:42 | 2021-11-17 | 2022-07-29 |
+| [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 | 2025-05-23 |  |
 | [For You](https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Cinderella & Four Knights, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT) | 4:19 | 2021-11-17 | 2022-04-04 |
 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 | 2021-11-17 |  |
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2021-11-17 | 2022-06-12 |
@@ -465,7 +466,7 @@
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-11-17 |  |
 | [I'll Make You Cry](https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:34 | 2022-01-03 | 2023-07-21 |
 | [I'LL SHOW YOU](https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Bekuh Boom](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:18 | 2021-11-17 | 2023-03-29 |
-| [I'm Not Cool](https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 2:54 | 2021-11-17 |  |
+| [I'm Not Cool](https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 2:54 | 2021-11-17 | 2025-05-24 |
 | [I'm Not Sorry](https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [I'm Not Sorry](https://open.spotify.com/album/59CGYWCNXuLHADvHwBHMhv) | 3:29 | 2021-11-17 | 2022-06-20 |
 | [I'm so sick](https://open.spotify.com/track/3lSM3Wn3RJbzAAHzJ3sX1f) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/5xP2GsTFLRJCtAwYYaNKWh) | 3:19 | 2021-11-17 | 2022-07-21 |
 | [I'm so sick](https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm) | 3:19 | 2021-11-17 | 2025-03-30 |
@@ -560,6 +561,7 @@
 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-02-23 | 2024-11-22 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-05-01 |  |
 | [Love Is The Answer](https://open.spotify.com/track/1UkM6U6lbhA8rMJjwqpXfU) | [Hailey](https://open.spotify.com/artist/20PanKbJuxWBaa547o9Qi7) | [Love Is The Answer](https://open.spotify.com/album/47KfofKRLYHhqtFnCvmECp) | 3:14 | 2021-11-17 | 2022-06-06 |
+| [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 | 2025-05-23 |  |
 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-08-24 |  |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-08-12 | 2023-11-05 |
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-02-16 | 2022-06-26 |

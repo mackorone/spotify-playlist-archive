@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 226197,
+  "num_followers": 226257,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,38 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "Jacobo Grinberg",
+        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 281739,
+      "name": "Jacobo Grinberg",
+      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
       },
@@ -127,38 +159,6 @@
       "duration_ms": 248362,
       "name": "Kamikaze (feat. Victor Mendivil)",
       "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Jacobo Grinberg",
-        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Jacobo Grinberg",
-      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "Vaya Vaya",
+        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 185236,
+      "name": "Vaya Vaya",
+      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 252000,
       "name": "Desvielados",
       "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Vaya Vaya",
-        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 185236,
-      "name": "Vaya Vaya",
-      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1095,6 +1095,34 @@
       "duration_ms": 262883,
       "name": "LA DURANGO",
       "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "TUY",
+        "url": "https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 270575,
+      "name": "TUY",
+      "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1243,54 +1271,6 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "TUY",
-        "url": "https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 270575,
-      "name": "TUY",
-      "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
         "name": "LA BESTIA",
         "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 212519,
       "name": "En La Nube",
       "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Mi T\u00edo Snoop",
-        "url": "https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Mi T\u00edo Snoop",
-      "url": "https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "Mi T\u00edo Snoop",
+        "url": "https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Mi T\u00edo Snoop",
+      "url": "https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "La Bronco Raptor",
-        "url": "https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 218295,
-      "name": "La Bronco Raptor",
-      "url": "https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
       },
@@ -1567,26 +1551,34 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Disfrutando El Proceso",
-        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
+        "name": "La Bronco Raptor",
+        "url": "https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Una Ruedita",
-      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+      "duration_ms": 218295,
+      "name": "La Bronco Raptor",
+      "url": "https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1611,18 +1603,26 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Qui\u00e9n?",
-        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
+        "name": "Disfrutando El Proceso",
+        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
+      "duration_ms": 177230,
+      "name": "Una Ruedita",
+      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "Cementerio De Raperos",
+        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "duration_ms": 238210,
+      "name": "Corren Con Suerte",
+      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 289913,
       "name": "So High",
       "url": "https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Cementerio De Raperos",
-        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
-      },
-      "artists": [
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        }
-      ],
-      "duration_ms": 238210,
-      "name": "Corren Con Suerte",
-      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "Categor\u00eda 5 / Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3ev9hisOVt2otphJBHiJGP"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Categor\u00eda 5 / Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1WvJiky1CYAy6ZhhBVrckj"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "El De La Letra B (Remix)",
         "url": "https://open.spotify.com/album/6zlhI5c5nNI1T7RxRIj7rd"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 191400,
       "name": "El De La Letra B (Remix)",
       "url": "https://open.spotify.com/track/1PLXWZh44pL4f3hQ7YO4g4"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Categor\u00eda 5 / Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3ev9hisOVt2otphJBHiJGP"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Categor\u00eda 5 / Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/1WvJiky1CYAy6ZhhBVrckj"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 206645,
-      "name": "7",
-      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
         "name": "La Misi\u00f3n (Episodio 4)",
         "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
@@ -1991,38 +1975,18 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+        "name": "7",
+        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Lolita Ayala",
-          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
         }
       ],
-      "duration_ms": 108266,
-      "name": "Tocando Tierra",
-      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
+      "duration_ms": 206645,
+      "name": "7",
+      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -2043,6 +2007,42 @@
       "duration_ms": 192720,
       "name": "Adentro de la Disco (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "Robot Montana",
+        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 175730,
+      "name": "Mariguana & Tequila",
+      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
     }
   ],
   "unique_name": "Gaming Belic\u00f3n",

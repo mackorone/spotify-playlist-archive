@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 56344,
+  "num_followers": 56345,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Choirmaster",
         "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
       },
@@ -771,30 +755,18 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Cross Music",
-        "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
       "artists": [
         {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        },
-        {
-          "name": "Dorinda Clark-Cole",
-          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
-        },
-        {
-          "name": "Sean Tillery",
-          "url": "https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3"
-        },
-        {
-          "name": "Changed",
-          "url": "https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 338354,
-      "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
-      "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
+      "duration_ms": 211880,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -827,6 +799,34 @@
       "duration_ms": 467130,
       "name": "The Blood Will Never Lose Its Power",
       "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Cross Music",
+        "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        },
+        {
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        },
+        {
+          "name": "Sean Tillery",
+          "url": "https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3"
+        },
+        {
+          "name": "Changed",
+          "url": "https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm"
+        }
+      ],
+      "duration_ms": 338354,
+      "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
+      "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
     },
     {
       "added_at": "2025-04-06 05:34:41",

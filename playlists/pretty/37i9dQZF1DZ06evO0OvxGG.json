@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7620,
+  "num_followers": 7621,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAB+vKUmLBj330RIuczegIiJ",
+  "snapshot_id": "aC5pAAAAAAAxlpTADCUUG3+oz8UtiJw2",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slipmami On The Radar Freestyle",
         "url": "https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 76363,
       "name": "Slipmami On The Radar Freestyle",
       "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
     },
     {
       "added_at": null,

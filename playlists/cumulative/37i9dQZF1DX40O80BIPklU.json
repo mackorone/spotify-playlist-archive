@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Malandro y Duki en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Myke Towers en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -333,6 +333,32 @@
     },
     {
       "album": {
+        "name": "A Machete",
+        "url": "https://open.spotify.com/album/6QYWrddb1jtDNmcWilA7nJ"
+      },
+      "artists": [
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "El Jose",
+          "url": "https://open.spotify.com/artist/2fNq5sXccbJ8I644s9UWTF"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "A Machete",
+      "url": "https://open.spotify.com/track/0JIaMMiCaqelZVhTRQYolM"
+    },
+    {
+      "album": {
         "name": "A Mi Lado",
         "url": "https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP"
       },
@@ -648,6 +674,10 @@
         {
           "name": "Simpson Ahuevo",
           "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
         }
       ],
       "date_added": "2025-03-04",
@@ -991,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "ANDO XXIL",
+        "url": "https://open.spotify.com/album/2VlUUrcJ3eXaSZmU4djR3P"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "ANDO XXIL",
+      "url": "https://open.spotify.com/track/0LxKI4Y1yMuJZzdJKcttU0"
+    },
+    {
+      "album": {
         "name": "Anfeta",
         "url": "https://open.spotify.com/album/1YcRJyxU6G27341BmPtBhY"
       },
@@ -1072,6 +1120,32 @@
       "duration_ms": 217674,
       "name": "Apago Mi Cel",
       "url": "https://open.spotify.com/track/2rjcAqBiRWot2JCYidIt34"
+    },
+    {
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/0C0FwgtecfoZ9f76ES7Cpr"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Aplausos",
+      "url": "https://open.spotify.com/track/5q9J42PlRZm2ytXzJ4wVFk"
     },
     {
       "album": {
@@ -1240,6 +1314,28 @@
       "duration_ms": 190589,
       "name": "BAD BEHAVIORS",
       "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
+    },
+    {
+      "album": {
+        "name": "Baja California (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/6ZifrTARh9NDIBwrS7PijK"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/1ELivVg3ESWkOmo4phlxXp"
     },
     {
       "album": {
@@ -1954,7 +2050,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 297969,
       "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
       "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
@@ -2242,7 +2338,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 232000,
       "name": "Chamaquito",
       "url": "https://open.spotify.com/track/6uARD0mOA6zjXexD11Mpgs"
@@ -4393,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/7psjGlv0cm7uhTrk7hYIwb"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141901,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/74kLIWUGkBj9fvGAevAhZS"
+    },
+    {
+      "album": {
         "name": "Ecolocalizaci\u00f3n",
         "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
       },
@@ -6306,7 +6420,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 170000,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/2axhW4wllSrMM9yRIRjGdE"
@@ -6390,7 +6504,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 138857,
       "name": "Mala Energ\u00eda",
       "url": "https://open.spotify.com/track/31Eh0vQ9YF40JCRlhpkzFr"
@@ -8938,7 +9052,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 143529,
       "name": "PU\u00d1OS PULSERAS Y PALETAS",
       "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Sarah Farias
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,327 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,722 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 33 | [Gratidão \- Ao Vivo](https://open.spotify.com/track/3A7EVVPiIJhYTBqJ1BYQj2) | [Thiago Henrique](https://open.spotify.com/artist/0H9veqw07CRbB2FPIGAqKY), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp) | [Gratidão \(Ao Vivo\)](https://open.spotify.com/album/7c8qhC1SX8BgpfB3WTPZe2) | 9:02 |
 | 34 | [Minha Escolha É Cristo \- Ao Vivo](https://open.spotify.com/track/51osVjzCy5uBPEzJJJ47EL) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Minha Escolha É Cristo \(Ao Vivo\)](https://open.spotify.com/album/4UZHDeVwryL1EnshmrLofn) | 4:33 |
 | 35 | [Make Room](https://open.spotify.com/track/1iC4UmO5SakR0PXLsARCky) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [CHURCH SONGS](https://open.spotify.com/artist/2DjtXQwkzIKsIwURvMgDbi), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Make Room](https://open.spotify.com/album/5BKX2ikxRWcTurS8rLd7rh) | 7:10 |
-| 36 | [Não há outro Deus](https://open.spotify.com/track/4ihQL6Ql0q4Lb2vT0PJl1H) | [Rafael Bicudo](https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Duda Silva](https://open.spotify.com/artist/0Y46wCcOaSFISKVR8XuSjn), [Giovana Leite](https://open.spotify.com/artist/5i9i8BFHUYLuYoG53bn8OO) | [Não há outro Deus](https://open.spotify.com/album/42Qr0BsDFQtxGJoE4zyCaS) | 6:00 |
+| 36 | [Não há outro Deus](https://open.spotify.com/track/4ihQL6Ql0q4Lb2vT0PJl1H) | [Duda Silva](https://open.spotify.com/artist/0Y46wCcOaSFISKVR8XuSjn), [Giovana Leite](https://open.spotify.com/artist/5i9i8BFHUYLuYoG53bn8OO), [Rafael Bicudo](https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b) | [Não há outro Deus](https://open.spotify.com/album/42Qr0BsDFQtxGJoE4zyCaS) | 6:00 |
 | 37 | [Fala Jesus Querido](https://open.spotify.com/track/79dM105dL5Wwzhd4xGRBDh) | [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Fala Jesus Querido](https://open.spotify.com/album/49CAq0FRZj9xAbx3eMeEFz) | 4:19 |
 | 38 | [Dia Mau + Espontâneo \- Live Acoustic](https://open.spotify.com/track/6xB1FnuZYDCnHh2RMITt2N) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Dia Mau + Espontâneo \(Live Acoustic\)](https://open.spotify.com/album/4SQgggBfjXaBwJh0LcTAQV) | 13:08 |
 | 39 | [Igreja \- Ao Vivo](https://open.spotify.com/track/2JsUx5ryq8UCmDjuTdLg72) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Purples Na Casa \(Ao Vivo\)](https://open.spotify.com/album/7JU7NxYvPpB9dUUWKD9zW9) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Indefeso \- Ao Vivo](https://open.spotify.com/track/7BCOLWluIGAQBwBWOt4lZ8) | [Charles Martins](https://open.spotify.com/artist/0PoK8mi9oxmm3OGq9qqrPu) | [Indefeso \(Ao Vivo\)](https://open.spotify.com/album/2NcDBYfDwb5yQoGe8BLghh) | 7:18 |
 | 50 | [Te Louvo \- Ao Vivo](https://open.spotify.com/track/56ktAOQgZZYVeKz8F7CBGS) | [Hangar 7 Music](https://open.spotify.com/artist/6HyPS4465icEDvFZAC19Oy) | [Te Louvo \(Ao Vivo\)](https://open.spotify.com/album/2acCBu3dmglHQKLPImEygV) | 4:39 |
 
-Snapshot ID: `aC/lBgAAAACmGspf1rtVLBVMLKcbzbB7`
+Snapshot ID: `AAAAAO8/d2ZYF/fyf4ZX7olB3A8fFddX`

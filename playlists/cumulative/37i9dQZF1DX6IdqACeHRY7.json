@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "beholder mit t\u00f8j p\u00e5",
+        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188425,
+      "name": "beholder mit t\u00f8j p\u00e5",
+      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -656,10 +674,28 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 174335,
       "name": "Blind You",
       "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160111,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "album": {
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 201863,
       "name": "Det Modsatte",
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
@@ -1440,6 +1476,24 @@
       "duration_ms": 249428,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1tvJf62LAwhnx8cInsfRZM"
+    },
+    {
+      "album": {
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
       "album": {
@@ -1724,7 +1778,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 284720,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
@@ -2328,7 +2382,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 235715,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle"
@@ -2696,6 +2750,28 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "album": {
+        "name": "Hvor Var Jeg Endt",
+        "url": "https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179157,
+      "name": "Hvor Var Jeg Endt",
+      "url": "https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY"
     },
     {
       "album": {
@@ -5592,7 +5668,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 191304,
       "name": "Sorry Would Go A Long Way",
       "url": "https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO"
@@ -5698,6 +5774,28 @@
       "duration_ms": 183173,
       "name": "Still Waiting to Start",
       "url": "https://open.spotify.com/track/3hAQVgA6Vn9gB8aq70Dm9h"
+    },
+    {
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212471,
+      "name": "Stolt (feat. Lamin)",
+      "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
       "album": {

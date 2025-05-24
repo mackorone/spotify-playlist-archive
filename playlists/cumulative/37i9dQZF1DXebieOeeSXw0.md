@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [205](https://open.spotify.com/track/6ubpGjaiU5aNxpP9rFnQ0H) | [E.T\. Mensah](https://open.spotify.com/artist/4iT5xSPkGz0b9xj528RKvH) | [Day By Day](https://open.spotify.com/album/3iyB309GCGcunEsqLCo5V9) | 3:05 | 2021-12-24 |  |
+| [205](https://open.spotify.com/track/6ubpGjaiU5aNxpP9rFnQ0H) | [E.T\. Mensah](https://open.spotify.com/artist/4iT5xSPkGz0b9xj528RKvH), [The Tempos](https://open.spotify.com/artist/6vWc4bf4L0lLPEzkXPE2vm) | [Day By Day, Classic Highlife Of The 1950s And 1960s](https://open.spotify.com/album/3iyB309GCGcunEsqLCo5V9) | 3:05 | 2021-12-24 |  |
 | [A Bale Ndikuwuzeni](https://open.spotify.com/track/0vE1V3Y53gWBRlyfVqlN7e) | [Gasper Nali](https://open.spotify.com/artist/1iv2bmWnUifiDuSrZq8FeC) | [A Bale Ndikuwuzeni](https://open.spotify.com/album/139z73DOenx2BI9lSFcPGC) | 4:32 | 2021-12-24 |  |
 | [A Go Go](https://open.spotify.com/track/5QsMpZJInX5h1LvqErbrxu) | [Trüby Trio](https://open.spotify.com/artist/04WBarCWtSEs8ESWnYPlm5) | [Elevator Music](https://open.spotify.com/album/76HfzVQBoxWCULabu2WTn0) | 3:32 | 2022-03-30 |  |
 | [A Go Go](https://open.spotify.com/track/5WBbWwR1bTLQlCj9BdtV5q) | [Trüby Trio](https://open.spotify.com/artist/04WBarCWtSEs8ESWnYPlm5) | [Elevator Music](https://open.spotify.com/album/25v6MAAGTHzuGZLHV25UKv) | 3:32 | 2022-03-30 | 2024-04-19 |

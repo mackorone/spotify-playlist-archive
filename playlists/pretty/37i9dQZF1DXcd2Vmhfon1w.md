@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Foyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,729 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,692 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 4 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
 | 5 | [CADENAS](https://open.spotify.com/track/1ZHmlo3B4q8fxtSWoMcAum) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [CADENAS](https://open.spotify.com/album/692W4fGKUrRQ8IoiY7hZxo) | 2:53 |
 | 6 | [Fotos Pliego](https://open.spotify.com/track/3YvHXXBxW0wXf0IThx9BIy) | [Sosad](https://open.spotify.com/artist/1ozak2yMgoDrtWJrMVjXXn) | [Fotos Pliego](https://open.spotify.com/album/5oIOodjHbN7WqZN9YYbQCb) | 2:40 |
-| 7 | [OUTRO \- Transition](https://open.spotify.com/track/2IDNS1uUf0jfSAPthpRmUa) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [OUTRO \(Transition\)](https://open.spotify.com/album/5oz4vFEtuwOSzrrYOy7oV8) | 2:37 |
+| 7 | [OUTRO \(Transition\)](https://open.spotify.com/track/2IDNS1uUf0jfSAPthpRmUa) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [OUTRO \(Transition\)](https://open.spotify.com/album/5oz4vFEtuwOSzrrYOy7oV8) | 2:37 |
 | 8 | [Barzeló](https://open.spotify.com/track/0Jsgj7GfuheJ71MMAlukWn) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6) | [Barzeló](https://open.spotify.com/album/0eTSCHBqausAV2iWuk2jn0) | 2:25 |
 | 9 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |
 | 10 | [Dirhams](https://open.spotify.com/track/4XSznOmC2LEQsqlvEpCGnF) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Richie Rasheed](https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI) | [Dirhams](https://open.spotify.com/album/6e96LqObXcfJ0tQR4s7v6l) | 2:53 |

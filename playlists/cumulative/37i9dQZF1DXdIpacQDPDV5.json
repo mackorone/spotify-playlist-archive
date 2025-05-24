@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: ILLENIUM & HAYLA",
+  "description": "The best of today's dance hits. Cover: CHYL",
   "name": "mint Canada",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 252180,
       "name": "1/17",
       "url": "https://open.spotify.com/track/1EGSotfvgMDQFFtFoUdrv5"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 229804,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/21bMlgNaGwpgjJno0Vo67f"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 215076,
       "name": "Angels For Each Other",
       "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Baby are you okay?",
+        "url": "https://open.spotify.com/album/2VzaEeSAIDBPj2izpsAUQ3"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Baby are you okay?",
+      "url": "https://open.spotify.com/track/7GAJ5aTsSIiqsz7prt53yw"
+    },
+    {
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 156398,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -3880,6 +3898,24 @@
       "duration_ms": 225271,
       "name": "Breathe (feat. Jesse Jo Stark)",
       "url": "https://open.spotify.com/track/2SzJ7NIa2sp3ACcPK8P1Yx"
+    },
+    {
+      "album": {
+        "name": "Breathe Me In / Waves",
+        "url": "https://open.spotify.com/album/1NEtjk8sfM3jeTVLJYDKML"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212112,
+      "name": "Breathe Me In",
+      "url": "https://open.spotify.com/track/6gApAE8LZAddMlgHDlvIY1"
     },
     {
       "album": {
@@ -6728,7 +6764,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 206693,
       "name": "Different",
       "url": "https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6"
@@ -11831,6 +11867,28 @@
     },
     {
       "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+    },
+    {
+      "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -13055,6 +13113,32 @@
     },
     {
       "album": {
+        "name": "HIGHJACK (right back)",
+        "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "HIGHJACK (right back)",
+      "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/0omLFmkXUTdKuXAnixPDo4"
       },
@@ -13982,7 +14066,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
@@ -17716,7 +17800,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 220978,
       "name": "light years (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
@@ -17838,6 +17922,24 @@
       "duration_ms": 253658,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1"
+    },
+    {
+      "album": {
+        "name": "Too Big For B-Side",
+        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224414,
+      "name": "Like I Like It",
+      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
     },
     {
       "album": {
@@ -19494,6 +19596,24 @@
       "duration_ms": 216796,
       "name": "Magnets in the Dark (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/2jIWIrT95AuZoHmBl6DIBX"
+    },
+    {
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj"
     },
     {
       "album": {
@@ -21540,7 +21660,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 217613,
       "name": "Night Bloom",
       "url": "https://open.spotify.com/track/5d3ho8vn1xMfW1gpvq5unv"
@@ -21570,6 +21690,32 @@
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/1ZohrB8KSfWMc0yNkymR93"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+        },
+        {
+          "name": "Max Milner",
+          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw"
     },
     {
       "album": {
@@ -25658,7 +25804,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 191641,
       "name": "Reset",
       "url": "https://open.spotify.com/track/6tRdv220YVrCTppDGqQ9zW"
@@ -29847,6 +29993,28 @@
     },
     {
       "album": {
+        "name": "Supersonic / Hands Up In The Sky",
+        "url": "https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
+    },
+    {
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/5PyoEU40eQMX0OrrNTwd6b"
       },
@@ -30092,6 +30260,24 @@
       "duration_ms": 209714,
       "name": "Synergy",
       "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
+    },
+    {
+      "album": {
+        "name": "Saved My Life EP",
+        "url": "https://open.spotify.com/album/7zuda7ACWqEWR1KQwTNbtw"
+      },
+      "artists": [
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Synthetic Station",
+      "url": "https://open.spotify.com/track/5mebLF9PWEkLl9CsgNabEY"
     },
     {
       "album": {
@@ -31906,6 +32092,32 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        },
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
     },
     {
       "album": {

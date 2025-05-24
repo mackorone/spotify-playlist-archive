@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 245785,
       "name": "another victim",
       "url": "https://open.spotify.com/track/49EMGCMyGebtEJ4lJzrw3k"
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Alle werden alt",
+        "url": "https://open.spotify.com/album/00aDacxHbkR3WvdehjaRU0"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288600,
+      "name": "Bl\u00fctezeit",
+      "url": "https://open.spotify.com/track/2HbgB9DRq172WNwwu87Sxl"
+    },
+    {
+      "album": {
         "name": "90s Summer Hits",
         "url": "https://open.spotify.com/album/2pNtuDfYwYeAKCqT2Ft8gS"
       },
@@ -734,6 +752,24 @@
       "duration_ms": 480642,
       "name": "Castamaer",
       "url": "https://open.spotify.com/track/5nqtCmVai6flScoNJ5GnJf"
+    },
+    {
+      "album": {
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/7Ke0TgxmSypKpjDxwLhgQc"
+      },
+      "artists": [
+        {
+          "name": "Frieder & Jakob",
+          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286937,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/3aAmVM60JnbaeaI5qXsSBW"
     },
     {
       "album": {
@@ -1494,7 +1530,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 247200,
       "name": "Eyes - Frieder & Jakob Remix",
       "url": "https://open.spotify.com/track/4uiVHpQtVdzJahvM3vNvlq"
@@ -4387,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0CTBklMBrNYRcFnTlQ4zlX"
+      },
+      "artists": [
+        {
+          "name": "Stefan Hollaender",
+          "url": "https://open.spotify.com/artist/7nWt0T6CwrGLek3B4686vI"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221708,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/2kpzdPtu5M0m0kHHG3XiPs"
+    },
+    {
+      "album": {
         "name": "Sheila",
         "url": "https://open.spotify.com/album/40rDDuvTlFJUPcUKdxZQcp"
       },
@@ -4968,7 +5022,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 295255,
       "name": "still here?",
       "url": "https://open.spotify.com/track/2Qy9bdkv4Nj7TfTCLzv6il"
@@ -5026,7 +5080,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 306141,
       "name": "Sugar Coded",
       "url": "https://open.spotify.com/track/70W9WXqbzMtqwTF6J3rNjL"
@@ -5480,6 +5534,50 @@
       "duration_ms": 229680,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3sIirp9Pacv9Q4yZ3AfJSJ"
+    },
+    {
+      "album": {
+        "name": "Turbinenhalle",
+        "url": "https://open.spotify.com/album/1aEPw01cva9HsgbWYMVq76"
+      },
+      "artists": [
+        {
+          "name": "ASK:ME",
+          "url": "https://open.spotify.com/artist/39vA0tgkcBq6RYH8Nn4CzU"
+        },
+        {
+          "name": "Freddy Muller",
+          "url": "https://open.spotify.com/artist/0JDbi6u8BHET7t0DVImlgF"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "Turbinenhalle - By Day",
+      "url": "https://open.spotify.com/track/0NS4bL8i44qOK0KPyFjyG5"
+    },
+    {
+      "album": {
+        "name": "Turbinenhalle",
+        "url": "https://open.spotify.com/album/1aEPw01cva9HsgbWYMVq76"
+      },
+      "artists": [
+        {
+          "name": "ASK:ME",
+          "url": "https://open.spotify.com/artist/39vA0tgkcBq6RYH8Nn4CzU"
+        },
+        {
+          "name": "Freddy Muller",
+          "url": "https://open.spotify.com/artist/0JDbi6u8BHET7t0DVImlgF"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Turbinenhalle - By Night",
+      "url": "https://open.spotify.com/track/3Bu5GymlzHIgvaz3NPmPLG"
     },
     {
       "album": {

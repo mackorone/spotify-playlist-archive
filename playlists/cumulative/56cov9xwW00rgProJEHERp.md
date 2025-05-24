@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-260 songs - 14 hr 59 min
+264 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Birdwatcher](https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Birdwatcher](https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ) | 3:12 | 2024-03-22 | 2024-04-27 |
 | [Blue Jean](https://open.spotify.com/track/5B0JVGlC04kLW4qYYos7Rz) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Blue Jean](https://open.spotify.com/album/5Jy6Mldz7QmTpQGjNjX8vI) | 3:07 | 2024-10-18 |  |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-11 |
+| [Bullet](https://open.spotify.com/track/6FRRj2zBwQGKoVIh9q5ozd) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Bullet](https://open.spotify.com/album/5FL2rJK0iAKhw3AwUTTRq5) | 2:40 | 2025-05-23 |  |
 | [bumpercar](https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [bumpercar](https://open.spotify.com/album/3qkjGDRmq1rl1j8ljNHdjk) | 2:24 | 2023-12-08 | 2024-03-16 |
 | [Buses Replace Trains](https://open.spotify.com/track/6zxK1aQo9e61wi9UJWJfrv) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Buses Replace Trains](https://open.spotify.com/album/0jJ8k0Nmv0IwL5EzK9EWJT) | 3:42 | 2025-04-21 |  |
 | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 | 2024-02-09 | 2024-09-14 |
@@ -97,6 +98,7 @@
 | [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 | 2024-04-05 | 2024-09-28 |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-12-08 | 2024-02-24 |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-08 | 2024-11-23 |
+| [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 |  |
 | [Golden Hour](https://open.spotify.com/track/6okiuD2GilqpFbJGjRinSE) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/0FuYgWBwbrQj3s66trgrdx) | 3:21 | 2024-07-12 | 2024-10-19 |
 | [Good Stuff](https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf), [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [Good Stuff](https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5) | 3:04 | 2024-04-12 | 2024-04-20 |
 | [Greenish Yellow](https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Greenish Yellow](https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE) | 3:23 | 2025-01-31 |  |
@@ -171,9 +173,11 @@
 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-12-08 | 2024-03-02 |
 | [Name Your Price](https://open.spotify.com/track/4SHu2GpnbzuIe7eVGmHQZg) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Name Your Price](https://open.spotify.com/album/5ExvE4ttfYYXO47PTRZjBg) | 3:25 | 2024-06-21 | 2024-09-14 |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-12-08 | 2024-02-17 |
+| [Never Come Down](https://open.spotify.com/track/047LgrDy5eFYexDLf0tyDv) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Never Come Down](https://open.spotify.com/album/0Axe600mrLOT9aQk63b3Al) | 3:11 | 2025-05-23 |  |
 | [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 | 2023-12-08 | 2024-01-13 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-08 |  |
 | [Noah \(Stand Still\)](https://open.spotify.com/track/2lXpWg3gOIeH22d1UMhoiL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Noah \(Stand Still\)](https://open.spotify.com/album/33oPNWUuU96juBwswrJeCU) | 3:54 | 2023-12-08 | 2024-02-17 |
+| [Not In A Bad Way](https://open.spotify.com/track/7kG0xEuxb9Det04joUDh0d) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Sprig B Sides](https://open.spotify.com/album/69kymU1rW1EQlHIbsKU5Xp) | 2:59 | 2025-05-23 |  |
 | [Objection!](https://open.spotify.com/track/35i5bteSxtDzork3AfM7as) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Objection!](https://open.spotify.com/album/1UTgkMZcqoBxLARwMnPB8M) | 2:49 | 2025-05-09 |  |
 | [Oceans Of Emotions \- The Circle Session, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Session, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 | 2024-01-12 | 2024-05-25 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2023-12-08 | 2023-12-16 |

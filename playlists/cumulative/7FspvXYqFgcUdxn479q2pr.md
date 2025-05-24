@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: POLTERGST, RØØTZ, Jordan Lindley
 
-524 songs - 1 day 1 hr 50 min
+526 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Afterglow](https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd) | [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ) | [Afterglow](https://open.spotify.com/album/6vi6J8DtwGtGeCWDUgqq3R) | 2:40 | 2024-09-09 | 2024-09-28 |
 | [AI Fantasy](https://open.spotify.com/track/27JWau2VWMsrcsr53xVTrt) | [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [AI Fantasy](https://open.spotify.com/album/7lruKU4dqG2Hm92Mj8MoX5) | 2:35 | 2024-08-23 | 2024-08-31 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/5hg6mJBpptifzsKo8EVzjT) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:09 | 2024-08-30 | 2024-09-14 |
+| [Ain't No Sunshine](https://open.spotify.com/track/4Wy32UaE9CI9nDCdoGZFm2) | [UPHORA](https://open.spotify.com/artist/28cbPA3D1jBIP9BLGU47pe) | [Ain't No Sunshine](https://open.spotify.com/album/1IHoHPcpQvbQWUMgIWQGSK) | 2:19 | 2025-05-23 |  |
 | [Alive](https://open.spotify.com/track/6mN40z3rm6Yg7Pl5L9MSnx) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/5ZLcOtEmIuI9DFQfBSamFs) | 3:12 | 2024-07-12 | 2024-07-19 |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/5QLyajfZXwyusqbdTxpbXP) | [AfroSalto](https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3), [Mednas](https://open.spotify.com/artist/0ifDOttuMQG7tOhatsjuoy), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2aywcLkdlrtfr4BEBbbDcK) | 2:26 | 2025-01-03 | 2025-03-15 |
 | [All My Tears](https://open.spotify.com/track/5tVUZvFsPHGGkQ5RF4CEC9) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Weekend Wonders](https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW) | [All My Tears](https://open.spotify.com/album/3SA1Lqhmx2z2ATtRKIkdAU) | 2:36 | 2024-07-12 | 2024-07-19 |
@@ -189,6 +190,7 @@
 | [Gonna Dance with Somebody](https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Gonna Dance with Somebody](https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh) | 3:07 | 2024-08-01 | 2024-08-09 |
 | [Gonna Kill My Way](https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG) | [Eddy Black](https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK) | [Gonna Kill My Way](https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD) | 3:50 | 2024-08-02 | 2024-08-09 |
 | [Good 2 Me](https://open.spotify.com/track/5usAGjPHCAYJplKub41jnr) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Good 2 Me](https://open.spotify.com/album/0TMJfUjQ01xlLNJOHm323M) | 2:58 | 2025-03-13 |  |
+| [Good Times](https://open.spotify.com/track/0xpDm9HqQHyNBxbaB2W61Y) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Francesco Giglio](https://open.spotify.com/artist/5Ah51IbdpFTEZVBYiTKCyI) | [Good Times](https://open.spotify.com/album/0VgRihA1lavncR0jvKQtl3) | 2:26 | 2025-05-23 |  |
 | [Grapevine](https://open.spotify.com/track/7vgjOfFCwU7dxc3l7tyan3) | [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ), [Moonphazes](https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH) | [Grapevine](https://open.spotify.com/album/26HldAj8uHjalZXRTWo8w9) | 3:41 | 2025-04-24 |  |
 | [Hangin' On](https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Hangin' On](https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G) | 3:15 | 2024-07-26 | 2024-08-02 |
 | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c) | 3:07 | 2024-11-22 | 2024-12-20 |

@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. PRESIDENT
+> welcome to our universe ft\. Julia Wolf
 
-1,127 songs - 2 day 7 hr 3 min
+1,130 songs - 2 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 | 2023-02-02 |
 | [god is dead](https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq) | 2:11 | 2024-02-23 | 2024-06-14 |
 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 | 2021-12-27 | 2022-06-10 |
+| [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 | 2025-05-23 |  |
 | [Going Down](https://open.spotify.com/track/79U3vQSqh7ONz2kunmB6Ri) | [Raven Numan](https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI) | [Going Down](https://open.spotify.com/album/6jjXS29r3Y0VbYMBhyDq0O) | 4:23 | 2024-05-02 | 2024-07-12 |
 | [Good Liar](https://open.spotify.com/track/5w6wKKvBIRlXehML8uga1O) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Good Liar](https://open.spotify.com/album/16HBANpgUfU8grGu6zpNt4) | 2:36 | 2024-09-26 | 2024-11-08 |
 | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty) | 2:34 | 2022-08-27 | 2022-09-02 |
@@ -487,6 +488,7 @@
 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 | 2023-01-21 | 2023-09-01 |
 | [HORSESHOE](https://open.spotify.com/track/6Bmc5FZ5QnrMhPR8nh7OcJ) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [HORSESHOE](https://open.spotify.com/album/012qqLrwZE7qAtRS7zejW1) | 4:04 | 2024-06-21 | 2024-08-23 |
 | [HOUSE FULL OF FAKES](https://open.spotify.com/track/0JV7cWCtX7qGDWNmHbM6YM) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [HOUSE FULL OF FAKES](https://open.spotify.com/album/3OLbjE3KaI4kywWewJ3v4v) | 3:05 | 2024-06-27 | 2024-10-04 |
+| [House of Wax](https://open.spotify.com/track/7pDb3UfesgJfjsWp8JCJpw) | [DeadWax](https://open.spotify.com/artist/6hITQt23nhrKv9bBWvEirP) | [House of Wax](https://open.spotify.com/album/0OIaDOMbHzsmD63MTLLUrk) | 3:27 | 2025-05-23 |  |
 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 | 2025-03-07 |
 | [HURRICANE](https://open.spotify.com/track/49GAjso5aSfuMXltW7rEBI) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HURRICANE](https://open.spotify.com/album/2RQvJEIegkkUFtkCyapMwT) | 2:39 | 2024-06-06 | 2024-12-13 |
 | [hush your mouth!](https://open.spotify.com/track/3SmWq8EWHI9c0QF0zQ6Oi5) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [vivid memories of dreams i've never had](https://open.spotify.com/album/6fe2bdJm6B9yScnNf8lj5F) | 2:28 | 2024-03-29 | 2024-07-12 |
@@ -694,7 +696,7 @@
 | [MISS ME?](https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [MISS ME?](https://open.spotify.com/album/3XhDFR2bBq3EU9A0tGKuH3) | 2:13 | 2022-09-22 | 2023-05-20 |
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2022-04-19 | 2022-04-29 |
 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 | 2023-09-28 | 2024-03-01 |
-| [MOB MENTALITY](https://open.spotify.com/track/4UprhJk2iui8bLAAu0uLPO) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [MOB MENTALITY](https://open.spotify.com/album/2xblgVA7O5tDq7o8cgxDgK) | 3:28 | 2024-10-03 |  |
+| [MOB MENTALITY](https://open.spotify.com/track/4UprhJk2iui8bLAAu0uLPO) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [MOB MENTALITY](https://open.spotify.com/album/2xblgVA7O5tDq7o8cgxDgK) | 3:28 | 2024-10-03 | 2025-05-24 |
 | [Modern Love](https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Modern Love](https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6) | 3:28 | 2023-10-13 | 2024-02-23 |
 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 | 2024-04-25 | 2024-08-16 |
 | [mOmS bAsEmeNt](https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [mOmS bAsEmeNt](https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk) | 2:41 | 2023-07-06 | 2023-12-16 |
@@ -703,7 +705,7 @@
 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 | 2025-04-17 |  |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2022-10-14 |
 | [Moonlight Bop](https://open.spotify.com/track/1nB9wuOJGl3h1M4hdtZeI1) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Moonlight Bop](https://open.spotify.com/album/3TPxD0aPYlGe9F9yJMj5OV) | 1:56 | 2023-06-29 | 2023-09-15 |
-| [More Than Life](https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [More than Life](https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7) | 5:33 | 2025-01-17 |  |
+| [More Than Life](https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [More than Life](https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7) | 5:33 | 2025-01-17 | 2025-05-24 |
 | [moshpit](https://open.spotify.com/track/2mCtLEJmnn1JiY2IQGUCy4) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [moshpit](https://open.spotify.com/album/6PXSrLiT6piovfkbtM3mTs) | 3:38 | 2022-01-28 | 2022-03-25 |
 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 | 2023-04-13 | 2023-06-16 |
 | [Most Viewed \(Himera's Dream\)](https://open.spotify.com/track/2TrvMlffH5wuqAaU17t50K) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD), [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g) | [Most Viewed \(Himera’s Dream\)](https://open.spotify.com/album/6PA0ldKaakuuJHHkIX0pc5) | 3:29 | 2023-05-18 | 2023-06-09 |
@@ -712,6 +714,7 @@
 | [mr\. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [mr\. mole](https://open.spotify.com/album/2vq7eSrcugqlRKxiiRcwG5) | 2:12 | 2024-09-26 | 2024-11-08 |
 | [MURDER](https://open.spotify.com/track/4eQhBK1EkRzUZAxvgqkQ7z) | [BUBZ](https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p) | [MURDER](https://open.spotify.com/album/2GuQlMTTDVRa71Knxe9qyO) | 3:22 | 2024-11-29 | 2025-04-04 |
 | [Muse](https://open.spotify.com/track/0L90eNyjqTtmwbReUTwV1L) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Muse](https://open.spotify.com/album/1AxE7kx5I5yX5fdjdLkGhg) | 2:13 | 2022-11-18 | 2023-01-13 |
+| [Muse](https://open.spotify.com/track/1AUsxFlpISJH7EJ8uNksye) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I'm camera .](https://open.spotify.com/album/4dZSsJjwlpKl8PY77rSS16) | 4:46 | 2025-05-23 |  |
 | [My Bloody Valentine](https://open.spotify.com/track/4hnKoBZJ3XHMkNXCFWvoAm) | [Cottontail](https://open.spotify.com/artist/4TVXVHRuEfI05r7V2iKvss), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9), [Zepkins](https://open.spotify.com/artist/0wXgbtNwH7CcHmmmNcEZRo) | [My Bloody Valentine](https://open.spotify.com/album/261S9u5PrX8u1W6aRLC69Z) | 2:47 | 2021-12-27 | 2022-06-10 |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-06-27 | 2024-11-15 |
 | [My Drummer's Girlfriend \(feat\. Wheatus\)](https://open.spotify.com/track/4jX0GaZfGE9H8QmMBT5XhR) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25), [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [My Drummer's Girlfriend \(feat\. Wheatus\)](https://open.spotify.com/album/5DHouGmGppqYocTJGRL1hO) | 2:34 | 2024-11-15 | 2024-12-13 |
@@ -823,7 +826,7 @@
 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 | 2024-09-20 |  |
 | [Prototype](https://open.spotify.com/track/0vN2Hxw1ECS8325UbkpPnR) | [City Sleeps](https://open.spotify.com/artist/1BdJEosPRMs34GwvwxxtSf) | [Not An Angel](https://open.spotify.com/album/5Q9SL4XfHdaDrpQWr0YaaH) | 3:16 | 2024-05-28 | 2024-06-07 |
 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 | 2023-11-17 | 2024-05-29 |
-| [Pub Watch](https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Pub Watch](https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L) | 3:20 | 2025-04-03 |  |
+| [Pub Watch](https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Pub Watch](https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L) | 3:20 | 2025-04-03 | 2025-05-24 |
 | [Pulling Teeth](https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Pulling Teeth](https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ) | 3:20 | 2024-08-08 | 2024-09-06 |
 | [Puppet](https://open.spotify.com/track/4SDiJRZhvqYTrCQq9Xf1CH) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Puppet](https://open.spotify.com/album/6tmMEsLjo4lCoB4PUGf1rl) | 2:24 | 2023-08-31 | 2024-01-12 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-03-25 | 2022-11-18 |

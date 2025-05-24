@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz & Shakira, Karol G, Mora, Feid, Myke Towers y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,095 likes - 89 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,129 likes - 89 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 39 | [RAPSINCORTE 53](https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [RAPSINCORTE 53](https://open.spotify.com/album/4HK1IM9sdMFpNY7YaPr8Dh) | 2:09 |
 | 40 | [LUJOS Y PLACERES](https://open.spotify.com/track/0ludyAM8i38faVV1Ulxt8A) | [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [LUJOS Y PLACERES](https://open.spotify.com/album/6AEslhVIJ3EpHqUfUhgwuD) | 2:01 |
 | 41 | [Diamonds On Me](https://open.spotify.com/track/31OOudIip2G0t7X4Exn7z4) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Resiliencia](https://open.spotify.com/album/0C0FwgtecfoZ9f76ES7Cpr) | 2:49 |
-| 42 | [OUTRO \- Transition](https://open.spotify.com/track/2IDNS1uUf0jfSAPthpRmUa) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [OUTRO \(Transition\)](https://open.spotify.com/album/5oz4vFEtuwOSzrrYOy7oV8) | 2:37 |
+| 42 | [OUTRO \(Transition\)](https://open.spotify.com/track/2IDNS1uUf0jfSAPthpRmUa) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [OUTRO \(Transition\)](https://open.spotify.com/album/5oz4vFEtuwOSzrrYOy7oV8) | 2:37 |
 | 43 | [ileGALEE](https://open.spotify.com/track/5U2ALbgdlESvY0OF555zM4) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [ileGALEE](https://open.spotify.com/album/6s7lfnzjR03DnrA10hFmqN) | 2:18 |
 | 44 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 |
 | 45 | [quien ama mi alma](https://open.spotify.com/track/53rMmXcIb2gjsupmjKDghd) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [quien ama mi alma](https://open.spotify.com/album/38ktN4YDhrg9z3mMTI8X9x) | 2:39 |

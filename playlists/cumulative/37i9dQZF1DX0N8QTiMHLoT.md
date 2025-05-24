@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-107 songs - 7 hr 43 min
+108 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 | 2021-05-06 |  |
 | [Shadow \(feat\. Chick Corea\)](https://open.spotify.com/track/39x0LosnX3CnytF1fELFB9) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:45 | 2021-05-06 |  |
 | [Silly Putty](https://open.spotify.com/track/6lmJXCIzXrTrV2VKX6AckU) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [Silly Putty](https://open.spotify.com/album/3H3ccGDt74f1vAYQffYzoF) | 4:31 | 2024-06-28 |  |
-| [Slapageddon](https://open.spotify.com/track/67silxixfmq4O2KBZTwrT2) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Slapageddon](https://open.spotify.com/album/4nD2AKVdc8SQ9Fgg6ibZCq) | 2:16 | 2025-02-28 |  |
+| [Slapageddon](https://open.spotify.com/track/67silxixfmq4O2KBZTwrT2) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Slapageddon](https://open.spotify.com/album/4nD2AKVdc8SQ9Fgg6ibZCq) | 2:16 | 2025-02-28 | 2025-05-24 |
+| [Slapocalypse Reborn](https://open.spotify.com/track/1Bqwr14lwvzUmIkvXZ2Z8W) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Alex Hutchings](https://open.spotify.com/artist/1qgI5ZUZuPXqVDylA1vt4j), [Tom Quayle](https://open.spotify.com/artist/4RgDxIZczeVdhT1gOIdJA3), [Ben Romano](https://open.spotify.com/artist/1IPYdDrCMmemkV00h0ddJb), [Danny Sapko](https://open.spotify.com/artist/1NgGrppqqB4K7frhzs1RGD), [Kahil Ferraris](https://open.spotify.com/artist/3ITfYlwQbhB7vrvCYWsLhN), [Marco Baldi](https://open.spotify.com/artist/6JwPTOpFvE42mK3LtPL8gd), [Peter Luha](https://open.spotify.com/artist/467JXUyvdp874McCFZGx0Z) | [Slapocalypse Reborn](https://open.spotify.com/album/2adrSp5rUSisnBg6RenKDU) | 2:43 | 2025-05-23 |  |
 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 | 2021-05-06 |  |
 | [Space Age](https://open.spotify.com/track/6FHuDw2gCmWknjP5qFPPw6) | [Ollie Collins](https://open.spotify.com/artist/5FHOxRGbA8n5jkFhfsVfin) | [A New Direction](https://open.spotify.com/album/3pPILiJIUk6yVdSmMWqYJP) | 3:48 | 2021-05-06 |  |
 | [Straight Up](https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [A Ray of Hope](https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1) | 4:39 | 2021-05-06 | 2024-04-19 |

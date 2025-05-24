@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,231 likes - 41 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,315 likes - 41 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 27 | [East Of The Massanutten](https://open.spotify.com/track/3qUc4SlnZOeD6WjD3veU5X) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:57 |
 | 28 | [GAS!](https://open.spotify.com/track/7FJNM5i0qKjFfCtw18QVAU) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:28 |
 | 29 | [Faithfully](https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:39 |
-| 30 | [Prosperity](https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Prosperity](https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE) | 3:17 |
+| 30 | [Joan Jett](https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Joan Jett](https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT) | 4:06 |
 | 31 | [Finally Over](https://open.spotify.com/track/1Q0STF75iyO3qbMvlZ9RB9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:09 |
-| 32 | [Joan Jett](https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Joan Jett](https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT) | 4:06 |
+| 32 | [Prosperity](https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Prosperity](https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE) | 3:17 |
 | 33 | [Winning Streak](https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:18 |
 | 34 | [Cabelas](https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cabelas](https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61) | 2:57 |
 | 35 | [Steal Her From Me](https://open.spotify.com/track/0aNcni6E5x9xy5cWwIKUhA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:33 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 40 | [Dream](https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:34 |
 | 41 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 
-Snapshot ID: `aC0XgAAAAAC1UWQZsqgZzBOHMhUvq7zx`
+Snapshot ID: `aC5pAAAAAADTBwRpyD0QLVlxgTrwrtBe`

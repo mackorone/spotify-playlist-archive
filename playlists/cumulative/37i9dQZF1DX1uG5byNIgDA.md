@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-437 songs - 23 hr 51 min
+438 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2021-12-06 | 2022-06-06 |
 | [Breakfast](https://open.spotify.com/track/5gVCEqLQrHkZPQzLw8pTXC) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:32 | 2022-04-04 | 2022-04-13 |
 | [Breath](https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath](https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz) | 3:07 | 2021-12-06 | 2022-07-22 |
-| [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-04-05 |  |
+| [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-04-05 | 2025-05-24 |
 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2024-03-27 | 2025-05-02 |
 | [BUT YOU](https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF) | 3:32 | 2022-05-16 | 2022-07-27 |
 | [BUT YOU](https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:32 | 2022-07-04 | 2022-11-13 |
@@ -95,6 +95,7 @@
 | [Don't Regret](https://open.spotify.com/track/52ZJqAyxIpF0T2erjO8Ug2) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Bittersweet](https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx) | 3:15 | 2022-10-15 | 2022-10-30 |
 | [Don't Wait](https://open.spotify.com/track/6Qiky2QbBGortgiF9NlR48) | [K\-NIGHTCORE](https://open.spotify.com/artist/6tWGwa0clzVoHorFsuEhY5) | [Don't Wait](https://open.spotify.com/album/1LxG8aBqe5hGVUbrmFClnP) | 2:29 | 2022-08-15 | 2022-08-25 |
 | [Don't Wanna Go Home](https://open.spotify.com/track/6BbTQKegu1SUAc7FxdrNxh) | [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x) | [Don't Wanna Go Home](https://open.spotify.com/album/7kCbsfGsidjkzm44FkpDKj) | 3:32 | 2022-05-30 | 2022-06-08 |
+| [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-23 |  |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2024-03-27 |  |
 | [Dream](https://open.spotify.com/track/4fhlW2S6GLBVjjSHjUhCvt) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Dream](https://open.spotify.com/album/79WhBDFhzqBOvBvCgfiSYY) | 3:51 | 2023-04-26 | 2023-05-24 |
 | [DREAMER](https://open.spotify.com/track/5S69qVsbHudSKincIUbYSf) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:33 | 2021-12-28 | 2022-07-16 |

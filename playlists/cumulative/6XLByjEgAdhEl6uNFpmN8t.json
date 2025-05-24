@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "AZ ALBUM",
+        "url": "https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162664,
+      "name": "B\u0151rdzseki",
+      "url": "https://open.spotify.com/track/0Q7svGLDz6ENSjCKFm3cWr"
+    },
+    {
+      "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },

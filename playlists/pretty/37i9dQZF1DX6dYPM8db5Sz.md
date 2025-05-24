@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6?si=H2DMPteVR6C4AWRPMgrBfQ">PSILK</a>, <a href="https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=xFG\-SGjhSmuLSt5Mi7gE1A">Thando Zide</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,818 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,820 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: JakoJako",
-  "num_followers": 54128,
+  "num_followers": 54165,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
+        "name": "Holotropica",
+        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Ubiquitous",
+      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
         "name": "Big Majestic",
         "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Impossible Light",
-        "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
-      },
-      "artists": [
-        {
-          "name": "Uboa",
-          "url": "https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl"
-        }
-      ],
-      "duration_ms": 350968,
-      "name": "Endocrine Disruptor",
-      "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Big Room",
         "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Holotropica",
-        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+        "name": "Impossible Light",
+        "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+          "name": "Uboa",
+          "url": "https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Ubiquitous",
-      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+      "duration_ms": 350968,
+      "name": "Endocrine Disruptor",
+      "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Raw Silk Uncut Wood",
-        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 600386,
-      "name": "Raw Silk Uncut Wood",
-      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Raw Silk Uncut Wood",
+        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 600386,
+      "name": "Raw Silk Uncut Wood",
+      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 226613,
       "name": "Amare",
       "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 212432,
-      "name": "Air / Fire",
-      "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 185834,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 212432,
+      "name": "Air / Fire",
+      "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "One Universal Breath",
-        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
-      },
-      "artists": [
-        {
-          "name": "Veryan",
-          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Lift Hands",
-      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "One Universal Breath",
+        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
+      },
+      "artists": [
+        {
+          "name": "Veryan",
+          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Lift Hands",
+      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 640034,
       "name": "Inspirit - Extended Version",
       "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
-        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
-      },
-      "artists": [
-        {
-          "name": "Marta Salogni",
-          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
-        }
-      ],
-      "duration_ms": 236286,
-      "name": "Cross-Contamination",
-      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 227748,
       "name": "Effektology",
       "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
+        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
+      },
+      "artists": [
+        {
+          "name": "Marta Salogni",
+          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+        }
+      ],
+      "duration_ms": 236286,
+      "name": "Cross-Contamination",
+      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Rincones Seguros",
-        "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
-      },
-      "artists": [
-        {
-          "name": "RRUCCULLA",
-          "url": "https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Ciclo del agua",
-      "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
         "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Rincones Seguros",
+        "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
+      },
+      "artists": [
+        {
+          "name": "RRUCCULLA",
+          "url": "https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Ciclo del agua",
+      "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
     },
     {
       "added_at": "2025-04-25 04:00:44",

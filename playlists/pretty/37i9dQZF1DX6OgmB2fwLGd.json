@@ -1,13 +1,77 @@
 {
   "description": "born on the internet. ft. 2hollis",
-  "num_followers": 1375880,
+  "num_followers": 1375852,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAJkTwAAAACxMEA9QIWDgb469s9BkFUc",
+  "snapshot_id": "aC/y6gAAAADvLJat148ugHqtpGaCtLOc",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:42",
+      "album": {
+        "name": "left to right (feat. 2hollis)",
+        "url": "https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ"
+      },
+      "artists": [
+        {
+          "name": "rommulas",
+          "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
+        },
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "left to right (feat. 2hollis)",
+      "url": "https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:42",
+      "album": {
+        "name": "Supernova (feat funeral)",
+        "url": "https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        },
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Supernova (feat funeral)",
+      "url": "https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs"
+    },
+    {
+      "added_at": "2025-05-23 04:00:42",
+      "album": {
+        "name": "MAKKA",
+        "url": "https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "MAKKA",
+      "url": "https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr"
+    },
     {
       "added_at": "2025-04-10 20:56:57",
       "album": {
@@ -25,20 +89,20 @@
       "url": "https://open.spotify.com/track/1eYhBtnXSdQLuqd2179SEY"
     },
     {
-      "added_at": "2025-04-18 14:40:15",
+      "added_at": "2025-05-23 04:00:42",
       "album": {
-        "name": "star",
-        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
+        "name": "true perspective",
+        "url": "https://open.spotify.com/album/6gY2HApVOnrMbn4y47Im0q"
       },
       "artists": [
         {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+          "name": "Lucy Bedroque",
+          "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
         }
       ],
-      "duration_ms": 164117,
-      "name": "flash",
-      "url": "https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W"
+      "duration_ms": 125057,
+      "name": "true perspective",
+      "url": "https://open.spotify.com/track/1uwiTdqmW7fwgsNNcSoqxN"
     },
     {
       "added_at": "2025-03-13 04:44:23",
@@ -65,22 +129,6 @@
       "url": "https://open.spotify.com/track/5XIkzgjs6TJwJmfGaB9jji"
     },
     {
-      "added_at": "2025-03-13 04:44:23",
-      "album": {
-        "name": "father",
-        "url": "https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 105977,
-      "name": "father",
-      "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
-    },
-    {
       "added_at": "2025-04-10 20:56:57",
       "album": {
         "name": "Sexual Fantasies",
@@ -99,6 +147,54 @@
       "duration_ms": 138805,
       "name": "Sexual Fantasies",
       "url": "https://open.spotify.com/track/6gQiWTYr8RmHzMskzB9g6Z"
+    },
+    {
+      "added_at": "2025-03-13 04:44:23",
+      "album": {
+        "name": "father",
+        "url": "https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 105977,
+      "name": "father",
+      "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "ALL IN MOTION",
+        "url": "https://open.spotify.com/album/1UwtlXn6NSciTtyuSNDOj9"
+      },
+      "artists": [
+        {
+          "name": "Yung Fazo",
+          "url": "https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4"
+        }
+      ],
+      "duration_ms": 119186,
+      "name": "ALL IN MOTION",
+      "url": "https://open.spotify.com/track/5wIOSozaIoSKwzmeIBsmfF"
+    },
+    {
+      "added_at": "2025-04-18 14:40:15",
+      "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "flash",
+      "url": "https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W"
     },
     {
       "added_at": "2025-03-27 23:57:55",
@@ -131,22 +227,6 @@
       "duration_ms": 84846,
       "name": "Easter Pink",
       "url": "https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY"
-    },
-    {
-      "added_at": "2025-02-28 05:00:43",
-      "album": {
-        "name": "ALL IN MOTION",
-        "url": "https://open.spotify.com/album/1UwtlXn6NSciTtyuSNDOj9"
-      },
-      "artists": [
-        {
-          "name": "Yung Fazo",
-          "url": "https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4"
-        }
-      ],
-      "duration_ms": 119186,
-      "name": "ALL IN MOTION",
-      "url": "https://open.spotify.com/track/5wIOSozaIoSKwzmeIBsmfF"
     },
     {
       "added_at": "2025-03-13 04:44:23",

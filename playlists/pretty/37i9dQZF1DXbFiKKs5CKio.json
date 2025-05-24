@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 68127,
+  "num_followers": 68134,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "TRAN\u00c7A",
+        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
+      },
+      "artists": [
+        {
+          "name": "Trajano",
+          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
+        }
+      ],
+      "duration_ms": 269062,
+      "name": "OFERENDA",
+      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "Tra\u00e7os",
         "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 167088,
       "name": "Tudo O Que Eu Posso Te Dar",
       "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "TRAN\u00c7A",
-        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
-      },
-      "artists": [
-        {
-          "name": "Trajano",
-          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
-        }
-      ],
-      "duration_ms": 269062,
-      "name": "OFERENDA",
-      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -679,6 +679,30 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "Inspirar",
+        "url": "https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g"
+      },
+      "artists": [
+        {
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
+        },
+        {
+          "name": "Flavia K",
+          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 262105,
+      "name": "Inspirar",
+      "url": "https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "Morrendo de Prazer",
         "url": "https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g"
       },
@@ -715,30 +739,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Inspirar",
-        "url": "https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g"
-      },
-      "artists": [
-        {
-          "name": "Aya",
-          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
-        },
-        {
-          "name": "Flavia K",
-          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 262105,
-      "name": "Inspirar",
-      "url": "https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "Deixa Estar (Sha la la)",
         "url": "https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 325500,
       "name": "Deixa Estar (Sha la la)",
       "url": "https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -783,26 +803,6 @@
       "duration_ms": 206426,
       "name": "98'",
       "url": "https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2025-05-16 03:01:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,152 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,184 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 54 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
 | 55 | [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 |
 | 56 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
-| 57 | [Na Dil Se Aah](https://open.spotify.com/track/4jbAO1579OcItVVPSGLaxM) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Na Dil Se Aah](https://open.spotify.com/album/2ms0l4kgnRIgXfKpV5QPCN) | 5:15 |
-| 58 | [Mehsoos \- From "Jashn \-E\- Ghazal"](https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Mehsoos \(From "Jashn \-E\- Ghazal"\)](https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX) | 5:06 |
-| 59 | [Dil Todne Wale](https://open.spotify.com/track/5VfIOKBXuOYhgxrx0t1oez) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H) | [Charlie Chopra And The Mystery of Solang Valley](https://open.spotify.com/album/4ug5MhYUma7sriDVktAmwm) | 3:58 |
+| 57 | [Mehsoos \- From "Jashn \-E\- Ghazal"](https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Mehsoos \(From "Jashn \-E\- Ghazal"\)](https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX) | 5:06 |
+| 58 | [Dil Todne Wale](https://open.spotify.com/track/5VfIOKBXuOYhgxrx0t1oez) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H) | [Charlie Chopra And The Mystery of Solang Valley](https://open.spotify.com/album/4ug5MhYUma7sriDVktAmwm) | 3:58 |
+| 59 | [Na Dil Se Aah](https://open.spotify.com/track/4jbAO1579OcItVVPSGLaxM) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Na Dil Se Aah](https://open.spotify.com/album/2ms0l4kgnRIgXfKpV5QPCN) | 5:15 |
 | 60 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 |
 | 61 | [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 |
 | 62 | [Khudaayaa](https://open.spotify.com/track/1a6DsCiooKH1PLKP6eDOAE) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Khudaayaa](https://open.spotify.com/album/4bATha5n5JjVwlrxxt5sbZ) | 4:56 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 68 | [Ikhtiyar](https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 4:36 |
 | 69 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 |
 | 70 | [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5DG2W3WACSbK5yFA1WpUiN) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr) | 5:04 |
-| 71 | [Mere Humraaz](https://open.spotify.com/track/5aD83W8ruGtURZvgpH4VKP) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Mere Humraaz](https://open.spotify.com/album/4rW8e3N8i7FTSVgQrBeFtF) | 6:27 |
-| 72 | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt) | [Sanjay Chitale](https://open.spotify.com/artist/20ZicqcJYd2buGoWLNNRWw) | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/album/7tjbfdzVXtrpshvSHVBEGQ) | 4:48 |
+| 71 | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt) | [Sanjay Chitale](https://open.spotify.com/artist/20ZicqcJYd2buGoWLNNRWw) | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/album/7tjbfdzVXtrpshvSHVBEGQ) | 4:48 |
+| 72 | [Mere Humraaz](https://open.spotify.com/track/5aD83W8ruGtURZvgpH4VKP) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Mere Humraaz](https://open.spotify.com/album/4rW8e3N8i7FTSVgQrBeFtF) | 6:27 |
 | 73 | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 |
 | 74 | [Dilse Teri Nigah](https://open.spotify.com/track/1JqabevonrwVWIEzzuaMDM) | [Mithilesh Patankar](https://open.spotify.com/artist/144JYTsFjgpswjlsqQqpKa) | [Dilse Teri Nigah](https://open.spotify.com/album/57BHkfYeoCMGnCUREonodV) | 5:23 |
-| 75 | [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 |
+| 75 | [Aankho Mein Raha](https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 7:54 |
 
 Snapshot ID: `aC/mewAAAABP5LxBcU2sQeUO/fgdV/49`

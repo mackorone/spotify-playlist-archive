@@ -13379,6 +13379,24 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/6z5En9VkQ2bydUFbYGvimV"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121013,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/1B34X7J6imvAXnEs0F2iMw"
+    },
+    {
+      "album": {
         "name": "pulse",
         "url": "https://open.spotify.com/album/3uZ6WC66oVP9BH2isXLe2x"
       },
@@ -23758,7 +23776,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 210461,
       "name": "\u041c\u0430\u043b\u043e \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/46iTc86JYw3p1SKXgjMQNU"

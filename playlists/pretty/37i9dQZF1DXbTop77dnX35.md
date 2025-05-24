@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Seyi Vibez, Bhadboy OML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,353 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,146 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 45 | [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 |
 | 46 | [How](https://open.spotify.com/track/28Mube4Oid2Imbx9sBUhqw) | [Onative](https://open.spotify.com/artist/15P5r9efV3LSqyKbAwFDAV), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [How](https://open.spotify.com/album/2R9VtBEBXULlCvGcV8EA5P) | 2:18 |
 | 47 | [Pere](https://open.spotify.com/track/57nGA4UFRfISiYSRbemAJS) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Pere](https://open.spotify.com/album/3R5dZSsRWZf6ufg28aZWIB) | 4:10 |
-| 48 | [PAS JALOUSE](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 |
+| 48 | [Pas Jalouse](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 |
 | 49 | [YOU AND ME](https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv) | [PapaRaZzle](https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL) | [YOU AND ME](https://open.spotify.com/album/2Lx9x55fGEtryAOZhXorMF) | 2:41 |
 | 50 | [RHODA](https://open.spotify.com/track/3s6QoBib2YKMvRzHdPp7VA) | [CHUMA](https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs) | [RHODA](https://open.spotify.com/album/5RZjrrhEguzshte3jSB7C5) | 3:34 |
 | 51 | [Mad World \- Spotify Singles](https://open.spotify.com/track/4MsgGn3ah2QHZ1NOvzd8BN) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Mad World \(Spotify Singles\)](https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT) | 3:25 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 66 | [Single](https://open.spotify.com/track/6VWLwERP7wzI8brmoaOkAj) | [Mophty](https://open.spotify.com/artist/6ce6iwbNe3sa0gqONeiI8Q), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/02KoJJhtOhP6tguHW7LHrH) | 2:19 |
 | 67 | [Thank You](https://open.spotify.com/track/0ddHaqvtaq7tVFiIeUo8jS) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Thank You](https://open.spotify.com/album/1EMXcQR3uuFepCADgtQYsT) | 3:10 |
 
-Snapshot ID: `aC+7AAAAAADZkuGrMhCZKgAJJWHjxJ5U`
+Snapshot ID: `aC+7AAAAAACoiyjEw01tYJhvRjoGmlNF`

@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-797 songs - 2 day 20 hr 23 min
+799 songs - 2 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Immovable Stone](https://open.spotify.com/track/6yGCKMLGznWxAIRRfwv3Ew) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Immovable Stone](https://open.spotify.com/album/4R9OjWhHTz8eleYOrJ3KXK) | 3:32 | 2021-12-17 | 2023-01-21 |
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-11-22 |  |
 | [In Dreams](https://open.spotify.com/track/4Wtd80eE4GyuzuwVMOxigs) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [In Dreams](https://open.spotify.com/album/6SySbe7lsj4wlbLjuv56pF) | 4:18 | 2021-12-17 | 2022-09-03 |
-| [In Pyrrhic Seas](https://open.spotify.com/track/1wz2xKpmkBwlcqCLf7rTwc) | [Xaon](https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz) | [The Lethean](https://open.spotify.com/album/6huUdAzf941V7em2MyNLsD) | 5:43 | 2022-07-01 |  |
+| [In Pyrrhic Seas](https://open.spotify.com/track/1wz2xKpmkBwlcqCLf7rTwc) | [Xaon](https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz) | [The Lethean](https://open.spotify.com/album/6huUdAzf941V7em2MyNLsD) | 5:43 | 2022-07-01 | 2025-05-24 |
 | [In The Divide](https://open.spotify.com/track/68aqd96LpjdXd6N3MiODnR) | [All Things Fallen](https://open.spotify.com/artist/2ipqxHJWHjOxpgJcLhFeJp) | [In The Divide](https://open.spotify.com/album/5dv5uSah7hltfavx9FEjXC) | 7:30 | 2021-12-17 | 2022-06-07 |
 | [In the Name of War](https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd) | [Whom Gods Destroy](https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH) | [Insanium](https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv) | 6:38 | 2024-06-10 |  |
 | [In Your Face](https://open.spotify.com/track/73YB6qqXBRPYeDfDjUd6IB) | [ADHARMA](https://open.spotify.com/artist/3L9OmtjKGtOmtoMOpzxsMt) | [In Your Face](https://open.spotify.com/album/5ufaWcLX8Ire6Al9J1jd1F) | 2:48 | 2024-03-29 | 2025-02-08 |
@@ -470,6 +470,7 @@
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
 | [Ocean in the Sky](https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/7o7ksjM61aXwu3x91xLS4V) | 6:06 | 2022-09-02 | 2023-01-21 |
 | [Ocean in the Sky](https://open.spotify.com/track/5Q3MQghFZvvkpJJsovhvZP) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures](https://open.spotify.com/album/3OT2KGRdRGRIT83VVrFMdc) | 6:06 | 2021-12-17 | 2022-07-29 |
+| [Of Death](https://open.spotify.com/track/6C6vM7g7l4pytVTAT4sIzz) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Of Death](https://open.spotify.com/album/5NzgRiNRMxIK0fQkE9z5tA) | 5:35 | 2025-05-23 |  |
 | [One](https://open.spotify.com/track/1SXaNlT88KkWotaPlJwosb) | [Fates Warning](https://open.spotify.com/artist/4S6URhg3PMKnCv9clR4ejE) | [Disconnected](https://open.spotify.com/album/6lNHGyqPf6b8qQxamd3uFw) | 4:26 | 2021-12-17 | 2022-01-28 |
 | [Only When I'm Breathing](https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart? \(Bonus Version\)](https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo) | 3:49 | 2024-01-30 |  |
 | [Onsra](https://open.spotify.com/track/2hs76oH0fJ5Hbqc2LhoRFY) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Onsra](https://open.spotify.com/album/10U8LiPvSiWJJSh0wbAUAv) | 2:53 | 2024-11-22 |  |
@@ -614,6 +615,7 @@
 | [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 | 2023-02-24 | 2023-04-02 |
 | [Suffer in Silence](https://open.spotify.com/track/35ID1xiBF9LkSqzECxF9cc) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Suffer in Silence](https://open.spotify.com/album/5iXE5eNja6cC8c3dK2KH7E) | 3:58 | 2025-02-07 |  |
 | [Sundowner](https://open.spotify.com/track/3xktHOVxDZqnfzd5J7YqmA) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Sundowner](https://open.spotify.com/album/5AG9QH3YQSsr2lNO0tYiTK) | 4:22 | 2021-12-17 | 2022-07-28 |
+| [Suneater](https://open.spotify.com/track/3LVSCbae4JCxYMqTr82PXF) | [The Last Bear Ender](https://open.spotify.com/artist/1XiP8X4U0vsAVcbK2fkSZl), [Post Descent](https://open.spotify.com/artist/57PgV72DVxytrhOyeZ4p03) | [Suneater](https://open.spotify.com/album/3Jnmujx8kw40rnBcMx54aN) | 3:53 | 2025-05-23 |  |
 | [Sunshine Dust](https://open.spotify.com/track/2l7nVNOhkH9GveLLidCP6l) | [Skyharbor](https://open.spotify.com/artist/0YbvZPP1HufDyWIsR0ei6K) | [Sunshine Dust](https://open.spotify.com/album/4VWICVl0jvAPNIN0qePUaO) | 6:19 | 2022-01-14 | 2022-01-17 |
 | [Surrounded \- Live in NYC \- 1993](https://open.spotify.com/track/4gi86wbezjWWY6UcSFHZut) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live in NYC \- 1993](https://open.spotify.com/album/02Y334D78pAitL6f5nxgxE) | 5:58 | 2022-03-18 | 2023-05-13 |
 | [Switchblade OST](https://open.spotify.com/track/0pVim0RwDvOnRcGCj9IR75) | [Diamond Construct](https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG) | [Switchblade OST](https://open.spotify.com/album/1VZQcGeXtP6GeULLLUSK5i) | 3:24 | 2024-03-29 | 2024-04-19 |
@@ -794,7 +796,7 @@
 | [Why Do I Care](https://open.spotify.com/track/0jjAghbDie2a2cETSDl1ky) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Why Do I Care](https://open.spotify.com/album/6Ukl77GQ4tlcOS2Na2lQ6q) | 5:00 | 2021-12-31 | 2023-01-21 |
 | [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 | 2023-01-13 |  |
 | [Within the Sphere](https://open.spotify.com/track/1f4BjsMcz7zR7HHtDXlNEC) | [Paralydium](https://open.spotify.com/artist/65X6T9OJ2gXGpkc1DgrYgR) | [Within the Sphere](https://open.spotify.com/album/7FICWjTaVxI1T1sy4ae37L) | 5:15 | 2021-12-17 | 2022-07-11 |
-| [Wonderland](https://open.spotify.com/track/32xzobEEYV8nphwopudnTY) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH), [Skeb](https://open.spotify.com/artist/0l22ZecRDOBWHJdmVmw9Rf) | [Wonderland](https://open.spotify.com/album/2pF7TT6tSoOpkct2Jfsqi1) | 4:05 | 2022-04-22 |  |
+| [Wonderland](https://open.spotify.com/track/32xzobEEYV8nphwopudnTY) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH), [Skeb](https://open.spotify.com/artist/0l22ZecRDOBWHJdmVmw9Rf) | [Wonderland](https://open.spotify.com/album/2pF7TT6tSoOpkct2Jfsqi1) | 4:05 | 2022-04-22 | 2025-05-24 |
 | [Yonder](https://open.spotify.com/track/1n4viFiH0y3iBwoURa8uY3) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Le Grand Voyage](https://open.spotify.com/album/6vkVCBBaqsTiraWDpIbRZV) | 7:32 | 2022-07-08 | 2022-09-03 |
 | [Yonder](https://open.spotify.com/track/6ORWPNIEmo78ohwOZbsOtP) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Yonder](https://open.spotify.com/album/7nTaFlHdv9U3K9970yDTs4) | 7:32 | 2021-12-17 | 2022-07-29 |
 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 | 2021-12-17 | 2023-01-21 |

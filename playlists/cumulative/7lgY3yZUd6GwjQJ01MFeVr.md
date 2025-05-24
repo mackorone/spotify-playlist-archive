@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-225 songs - 12 hr 8 min
+229 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baby Blue](https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Baby Blue](https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe) | 4:08 | 2025-01-18 |  |
 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 | 2025-05-05 |  |
 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 | 2025-04-29 |  |
+| [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 | 2025-05-24 |  |
 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 | 2025-04-05 |  |
 | [Beautiful Lies](https://open.spotify.com/track/5bLgdnoxwts6ihPpv5G2dV) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Beautiful Lies](https://open.spotify.com/album/6l4pvSCSSeBuUpyQaCAGoC) | 3:52 | 2023-12-08 | 2024-07-23 |
 | [Betrayal](https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Betrayal](https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc) | 3:00 | 2024-06-05 |  |
@@ -76,6 +77,7 @@
 | [Girl In Green](https://open.spotify.com/track/3r5dLsCxsir9EIzl5NtMZB) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [First Dance](https://open.spotify.com/album/7N11EFT1PaUGiaNrzFGezt) | 2:11 | 2025-03-25 |  |
 | [GOD & GUNS N’ ROSES](https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [GOD & GUNS N’ ROSES](https://open.spotify.com/album/5bnproodqEP0tHybDjDF72) | 3:36 | 2025-04-23 |  |
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-12-17 |  |
+| [GRAVE](https://open.spotify.com/track/2YvricIxdfPXF8ztbHPcpP) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [let go letters](https://open.spotify.com/album/0u2pxDH76QyAKifAdQykXg) | 3:11 | 2025-05-24 |  |
 | [Growin’ Up Raising You](https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Growin’ Up Raising You](https://open.spotify.com/album/1jdW9gWypFKDZvnStebVG5) | 3:15 | 2023-12-08 | 2024-01-13 |
 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 | 2023-12-08 | 2024-01-13 |
 | [Hang Tight Honey](https://open.spotify.com/track/05NgrkYTr8cBiqG1qCmpVm) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:09 | 2024-11-02 |  |
@@ -92,6 +94,7 @@
 | [Holding On](https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holding On](https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0) | 3:50 | 2024-11-02 |  |
 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 | 2024-02-23 | 2024-07-03 |
 | [House Again](https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY) | 3:22 | 2025-05-05 |  |
+| [House Again \(with Miranda Lambert\)](https://open.spotify.com/track/1jR5heh1OlXAvkP35M8Utx) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [House Again \(with Miranda Lambert\) / The House That Built Me](https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs) | 3:23 | 2025-05-24 |  |
 | [How Far Will We Take It?](https://open.spotify.com/track/3FFQvAIq4grvS6nb6IwY3h) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [How Far Will We Take It?](https://open.spotify.com/album/0FkHwJW4XbyvYKzD1GVh3Y) | 2:52 | 2024-06-05 | 2024-11-02 |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-12-08 | 2024-07-23 |
 | [Hurricane](https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Hurricane](https://open.spotify.com/album/58gOlBZH1HhW3D3ryZV8KO) | 4:09 | 2023-12-08 | 2024-11-02 |
@@ -136,6 +139,7 @@
 | [ME OR THE DAWN](https://open.spotify.com/track/7n3pY0rbsvj9RuOLo2Xmf1) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil](https://open.spotify.com/album/6T9rAaoXTDxE89KyDtIAUl) | 2:54 | 2025-01-18 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-12-10 |  |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-17 | 2024-11-02 |
+| [MIGHT BE DANGEROUS](https://open.spotify.com/track/7FdWBc0RRt4joQxSSJUnG0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:20 | 2025-05-24 |  |
 | [Million Eyes](https://open.spotify.com/track/7mdWTG5Sf8uK7QmVoVXGrm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:57 | 2023-12-08 | 2024-02-10 |
 | [Miss Summer](https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Miss Summer](https://open.spotify.com/album/5txjDzcOmllhkmG4KUjFYi) | 2:31 | 2023-12-08 | 2025-03-20 |
 | [More Like It](https://open.spotify.com/track/1Dq9cGDFTI8zmIe0DkvF4D) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [More Like It](https://open.spotify.com/album/4nodV56I3VWLryQGKJoN4A) | 3:02 | 2025-01-18 |  |

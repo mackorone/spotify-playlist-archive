@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Marco Mares.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con rusowsky.
 
-886 songs - 1 day 23 hr 48 min
+887 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 | 2023-02-17 | 2023-06-24 |
 | [DE REVERSA](https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR) | 3:04 | 2023-07-07 | 2023-07-22 |
 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 | 2022-01-24 | 2022-04-09 |
-| [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-11 |  |
+| [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-11 | 2025-05-24 |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-12-02 | 2022-10-28 |
 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 | 2022-11-04 | 2023-02-17 |
 | [Demasiado Loco](https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:46 | 2022-01-24 | 2023-01-11 |
@@ -473,6 +473,7 @@
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2022-01-24 | 2023-02-17 |
 | [Maldita Distancia](https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Maldita Distancia](https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj) | 2:15 | 2024-03-15 | 2024-07-27 |
 | [Malditos Celos](https://open.spotify.com/track/6Lc8Jnu0TJFFCmlfCITvfA) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Malditos Celos](https://open.spotify.com/album/4mIPWiTqtPgBVcaFSJsmHY) | 2:37 | 2024-04-26 | 2024-08-03 |
+| [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-05-23 |  |
 | [Mama Guela](https://open.spotify.com/track/7KuMbaHElNFVt7Lw4aHFOZ) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [15 Inolvidables Exitos](https://open.spotify.com/album/3IVWzxhlPX3gqR1B4734en) | 2:36 | 2023-09-29 | 2023-10-14 |
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/35rRaw5fX2QGUqhmpAmfor) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/album/02U7QUnz3HGzH2NRSsfUUt) | 2:17 | 2024-06-07 | 2024-08-17 |
 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 | 2024-08-16 |  |

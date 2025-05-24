@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,083 likes - 138 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,041 likes - 138 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 72 | [1996](https://open.spotify.com/track/4Ty0vDG9dS1dLa2x2aPK3v) | [The Lake Poets](https://open.spotify.com/artist/1DuQn0J1YVDcA4g0WJwRvw) | [The Lake Poets](https://open.spotify.com/album/2oi7ulPKLf1eItg8P9f8li) | 3:33 |
 | 73 | [Coventry Carol](https://open.spotify.com/track/6JFc0YHtb1jUwG1ddn4dEB) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Silver & Gold](https://open.spotify.com/album/0AVvBrOZ4Hy3yCW8SguJLy) | 2:53 |
 | 74 | [Rocking Around The Christmas Tree](https://open.spotify.com/track/7kvlamNp9t5EhZumhf2bYt) | [Oxford & Co.](https://open.spotify.com/artist/1eJEB18LdtPqjCJgSNUEGy) | [Rocking Around The Christmas Tree](https://open.spotify.com/album/4XtVyTbGgeLLoi7L340ZYT) | 2:46 |
-| 75 | [Oh, Watch the Stars](https://open.spotify.com/track/30lIm60ZjlBzP7GC2glvBO) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [The Sounding Joy: Christmas Songs in and out of the Ruth Crawford Seeger Songbook](https://open.spotify.com/album/5oBIwFL3EoCkCfgDCINqDI) | 2:17 |
+| 75 | [Oh, Watch the Stars](https://open.spotify.com/track/30lIm60ZjlBzP7GC2glvBO) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [The Sounding Joy: Christmas Songs In and Out of the Ruth Crawford Seeger Songbook](https://open.spotify.com/album/5oBIwFL3EoCkCfgDCINqDI) | 2:17 |
 | 76 | [Rest](https://open.spotify.com/track/5sgxxHfmmaqfddsVq9v5Ba) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Sister Winter B/W Rest](https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa) | 3:06 |
 | 77 | [Xmas Song \(War is Over\)](https://open.spotify.com/track/4tf0qvezl6A4n9Gvx81NBr) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Xmas Song \(War is Over\)](https://open.spotify.com/album/1eeLBPQvUc4g9lTy44LSHR) | 4:04 |
 | 78 | [In the Bleak Midwinter](https://open.spotify.com/track/5oxR9vvnUuuDh8NTLy2kEW) | [Natalie Schlabs](https://open.spotify.com/artist/25YHQvJbJh2yW36lrZJ9e5), [Betsy Phillips](https://open.spotify.com/artist/3m3VhgcmqGV93tHZiOFrId) | [In the Bleak Midwinter](https://open.spotify.com/album/3j8YduiXuo5HUctjKnyZTA) | 3:05 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 137 | [Christmas Wish](https://open.spotify.com/track/7e13koqPdcVWDu1bUYL9V8) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/1ikep3Z5OsNFPi1g1wjHSY) | 2:57 |
 | 138 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `AAAAAEdh66uFFEjD/vnQ9/EzCA5fBrPu`
+Snapshot ID: `Z2W4JQAAAACOeTi5OBd0kvSYlj0/Sgpt`

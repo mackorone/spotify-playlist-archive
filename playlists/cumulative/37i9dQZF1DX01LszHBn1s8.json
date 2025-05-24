@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "#eurodab",
+        "url": "https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Baby Lasagna",
+          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158183,
+      "name": "#eurodab",
+      "url": "https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05"
+    },
+    {
+      "album": {
         "name": "#miles",
         "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
       },

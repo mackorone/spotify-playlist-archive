@@ -848,10 +848,28 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 301418,
       "name": "Summer",
       "url": "https://open.spotify.com/track/3YpvQGhkRJ2Nb9rTwknxZw"
+    },
+    {
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301418,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/5cDp8qgQCsni5pD2YKdh5J"
     },
     {
       "album": {

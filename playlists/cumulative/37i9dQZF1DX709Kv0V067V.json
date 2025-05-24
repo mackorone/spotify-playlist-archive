@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 136000,
       "name": "Calm Quiet Night",
       "url": "https://open.spotify.com/track/7ilWCyfMlBfnmMULBze6z8"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 160086,
       "name": "Chandra (Sound Bath)",
       "url": "https://open.spotify.com/track/1exSjCBayTzyZ5jru6H4Qz"
@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/70NqmKipXlZQ0xhATnep3c"
+      },
+      "artists": [
+        {
+          "name": "anahata symphony",
+          "url": "https://open.spotify.com/artist/4aPzHbIkVj23URPdeeg0RW"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/5XOH0SFCo7cMeVhxoLrKSI"
+    },
+    {
+      "album": {
         "name": "Inner Retreat",
         "url": "https://open.spotify.com/album/39d1Geo2YjAZTd2Du6iuEt"
       },
@@ -3528,6 +3546,24 @@
       "duration_ms": 159373,
       "name": "Red Maple",
       "url": "https://open.spotify.com/track/4EXKRSVZzk6Wcq66SnbVc1"
+    },
+    {
+      "album": {
+        "name": "Reflecting",
+        "url": "https://open.spotify.com/album/5pWzaTZDk72bK9fJJkPFsr"
+      },
+      "artists": [
+        {
+          "name": "Local Abroad",
+          "url": "https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Reflecting",
+      "url": "https://open.spotify.com/track/3wAAnk2bfwdqP0dvK61Nsi"
     },
     {
       "album": {

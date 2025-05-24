@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "It's Not Me, It's You",
+        "url": "https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219893,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/5st5644IlBmKiiRE73UsoZ"
+    },
+    {
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 255066,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"

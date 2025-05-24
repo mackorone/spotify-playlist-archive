@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG?si=qdILn\_9sT260KeE\_LkwZuA">Gemma Griffiths</a>
 
-205 songs - 10 hr 57 min
+206 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,8 +205,9 @@
 | [Voice and Tongo Experiment](https://open.spotify.com/track/1v4vYJYQcvhRojHEGgbxiu) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/4AQs1TiZ7g8HMTMz1DakM5) | 2:18 | 2025-02-14 | 2025-03-01 |
 | [waiting room\~](https://open.spotify.com/track/1qtnkooyf2Q7GNAK6w3sQb) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [waiting room\~](https://open.spotify.com/album/0skQkcopAyXvozBn4nzzzx) | 2:37 | 2023-03-31 | 2023-05-06 |
 | [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 | 2023-09-21 | 2025-03-21 |
-| [WET](https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [WET](https://open.spotify.com/album/6SggZBrSlNC7MwC9kmTxKg) | 1:32 | 2024-06-27 |  |
+| [WET](https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [WET](https://open.spotify.com/album/6SggZBrSlNC7MwC9kmTxKg) | 1:32 | 2024-06-27 | 2025-05-24 |
 | [What's the Vibe](https://open.spotify.com/track/0FKkw6p2t57VZp8Ae8Gc1V) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [What's the Vibe](https://open.spotify.com/album/2vdcIrHOACvTep8tI9qY2K) | 2:30 | 2023-03-31 | 2023-04-28 |
+| [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-05-23 |  |
 | [Wozobloma](https://open.spotify.com/track/1iyF9PF3vRFqJ3OWFCE1wZ) | [Vine&Vibes](https://open.spotify.com/artist/0JWMVtY26AhbhaQQOU0BSi) | [Wozobloma](https://open.spotify.com/album/7sCOp9WPtBbKMxFjOvfhSr) | 4:05 | 2025-02-14 | 2025-03-01 |
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 | 2024-07-19 |
 | [YOU A KILLER](https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [YOU A KILLER](https://open.spotify.com/album/7os16OIbe823TPlSR5OpHH) | 2:10 | 2023-04-27 | 2023-07-08 |

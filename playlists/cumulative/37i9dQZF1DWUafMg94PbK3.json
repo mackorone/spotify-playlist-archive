@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Monster Truck",
+        "url": "https://open.spotify.com/album/5gYtP9cmquChLATkBWuzWP"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134286,
+      "name": "Monster Truck",
+      "url": "https://open.spotify.com/track/3SycSYhHVXYhxeEtfC5JRp"
+    },
+    {
+      "album": {
         "name": "Sugar Free Allstars",
         "url": "https://open.spotify.com/album/3kOhHCa6SyGFbAkNR0dXLB"
       },

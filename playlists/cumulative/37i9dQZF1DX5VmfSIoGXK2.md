@@ -4,14 +4,14 @@
 
 > Jazz house is our love language  🌳  with  Chaos In The CBD
 
-110 songs - 7 hr 38 min
+112 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [35k](https://open.spotify.com/track/2zetGr1iFeihczuZ4IxmS3) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [35k](https://open.spotify.com/album/5zt1HJWzyBrXpbbjPvuxs2) | 2:56 | 2025-05-09 |  |
 | [@ tha jazz club](https://open.spotify.com/track/24E9lAXzbPTO7fYjmcsLiq) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [@ tha jazz club](https://open.spotify.com/album/0TlTqm0js7xR8p0NsBToQS) | 3:46 | 2025-02-21 |  |
 | [A Deeper Life](https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 8:04 | 2025-05-09 |  |
-| [A Way Out](https://open.spotify.com/track/1GcUuxtC564k9GqIEjgS0S) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Way Out](https://open.spotify.com/album/7D4OA9mOyyFUQJTdHOiWlH) | 5:00 | 2025-03-14 |  |
+| [A Way Out](https://open.spotify.com/track/1GcUuxtC564k9GqIEjgS0S) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Way Out](https://open.spotify.com/album/7D4OA9mOyyFUQJTdHOiWlH) | 5:00 | 2025-03-14 | 2025-05-24 |
 | [Acidjazzacid](https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Acidjazzacid](https://open.spotify.com/album/3EUyOXYHvggj5xkFoss5A6) | 2:08 | 2025-03-07 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 |  |
@@ -24,10 +24,11 @@
 | [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 |  |
 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 | 2025-02-21 |  |
 | [Bossa Love](https://open.spotify.com/track/393QMam52QYLT9FqrlkBZc) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Bossa Love](https://open.spotify.com/album/62emtUMLEvcHSav4mQARmZ) | 3:10 | 2025-03-07 |  |
-| [Breach](https://open.spotify.com/track/1wuWZDpkHp3PhrQ6YDOjyZ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Breach](https://open.spotify.com/album/3ZYZrTQpXg1wFpIWsxyQNh) | 3:48 | 2025-04-18 |  |
+| [Breach](https://open.spotify.com/track/1wuWZDpkHp3PhrQ6YDOjyZ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Breach](https://open.spotify.com/album/3ZYZrTQpXg1wFpIWsxyQNh) | 3:48 | 2025-04-18 | 2025-05-24 |
 | [breathing in](https://open.spotify.com/track/5SQFF77hbKu61zAhuofSx9) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [feel it yet?](https://open.spotify.com/album/73TPblj9INiaI87pRaV5EW) | 3:01 | 2025-02-21 |  |
 | [Brooklyn 9:00am](https://open.spotify.com/track/0YrhuzbViNhtseDz6H4JCw) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Brooklyn 9:00am](https://open.spotify.com/album/4b7mMlruldC2R7w71vzyTg) | 2:40 | 2025-02-21 |  |
 | [BUTTER BREAD](https://open.spotify.com/track/2S4pfn4eZbyOLpJwy6T8kA) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [BUTTER BREAD](https://open.spotify.com/album/6IjENtVmf4WU836bGcBWv0) | 3:34 | 2025-03-28 |  |
+| [Calypso](https://open.spotify.com/track/4UahXJRzy7JgPEXXhdnQPU) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Black Sand](https://open.spotify.com/album/7EH8VWCoo1NOnyRhIDZZjC) | 2:34 | 2025-05-23 |  |
 | [Celestial Bean](https://open.spotify.com/track/3y1WjyKAd04lZZQq1Uc81s) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/2ZWq2ttal2Zi3z7yjFpAQq) | 4:35 | 2025-02-28 |  |
 | [Cloud Nine](https://open.spotify.com/track/4HbYC5n3UHmm6SxdCC7Jn2) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Days In The Sun](https://open.spotify.com/album/4jrMiOto4gfVQVapKnhIJx) | 3:12 | 2025-02-21 |  |
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-03-28 |  |
@@ -87,6 +88,7 @@
 | [Osmose](https://open.spotify.com/track/2J2ins3k6g7XWzU4pf0mho) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Cours Dillon EP](https://open.spotify.com/album/6M2gLTva9OmO1p5OxqNHoa) | 2:22 | 2025-04-04 |  |
 | [Piebald](https://open.spotify.com/track/2N6hpU8eByX5z4QBKEyEKy) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Piebald](https://open.spotify.com/album/1W7ZZyfSuQlkLvCDUu7Dn1) | 3:54 | 2025-02-28 | 2025-05-10 |
 | [Pont des Arts](https://open.spotify.com/track/6kicsnoSgwTPWYPlxTDB2t) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 7:26 | 2025-02-21 |  |
+| [Puissance 4 \- Original](https://open.spotify.com/track/4WpCuNxZesqHlUPPfBBRgI) | [Angles Morts](https://open.spotify.com/artist/5BNiKTcezPk3bmiuVaiB5s) | [Dérive Asphalte](https://open.spotify.com/album/4oNqNhyWRG9T0oKNVlPygO) | 5:12 | 2025-05-23 |  |
 | [Quali Kalimba](https://open.spotify.com/track/67Ah3dFoFunjecD6jhEXyq) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [Tales of Dancing Waters](https://open.spotify.com/album/6hHIFR6sXL9TNeNr6Cxvjd) | 4:12 | 2025-02-21 |  |
 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 | 2025-02-21 |  |
 | [Reach Into Your Soul](https://open.spotify.com/track/3gkM4jhqalnNnyTqZN4308) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Reach Into Your Soul](https://open.spotify.com/album/6HyBHvtA4ZLhFLceK1yIRm) | 3:34 | 2025-03-21 |  |

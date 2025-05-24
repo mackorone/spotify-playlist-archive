@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 147618,
+  "num_followers": 147630,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAAbeafz8Fiv51PZBQz/XKlv",
+  "snapshot_id": "aC5pAAAAAABRM5Ssu+RVCg1zRdpHWuw2",
   "tracks": [
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Dime Store Cowgirl",
-      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
+      "duration_ms": 217880,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Late To The Party",
-      "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
+      "duration_ms": 214986,
+      "name": "Dime Store Cowgirl",
+      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/6eFNtM0QMmRxi6VphwDS1E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/6eFNtM0QMmRxi6VphwDS1E"
     },
     {
       "added_at": null,

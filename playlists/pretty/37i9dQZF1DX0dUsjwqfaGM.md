@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,023 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,026 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 |
 | 2 | [Sau Cơn Mưa](https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Sau Cơn Mưa](https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2) | 2:34 |
 | 3 | [Girl Hà Nội](https://open.spotify.com/track/3nOQ8LlNDS2U9vohMlBWJq) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Rem](https://open.spotify.com/artist/1njilcHXinpoFdb02K4sK2) | [Girl Hà Nội](https://open.spotify.com/album/557Iv8OfqS2MlVhHj9wPu9) | 3:54 |
-| 4 | [Da Key](https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 2:58 |
-| 5 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
+| 4 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
+| 5 | [Da Key](https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 2:58 |
 | 6 | [MD Anniversary](https://open.spotify.com/track/69GP0uR8ps0MAyWRvlCKSw) | [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [MD Anniversary](https://open.spotify.com/album/6DGdufufGeh0Hw6ZTX9or8) | 2:20 |
 | 7 | [Thành phố phía Đông](https://open.spotify.com/track/23v3rSWUt4YqbyH8BHoYWs) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:42 |
 | 8 | [Buộc Vào Cơn Gió](https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:38 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 17 | [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:34 |
 | 18 | [City](https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 4:19 |
 | 19 | [úm ba la xì bùa](https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:33 |
-| 20 | [CÓ LẼ ANH](https://open.spotify.com/track/2UNdTmeZOycErIaIKeuZlh) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [CÓ LẼ ANH](https://open.spotify.com/album/0j4xZa2YuuNfWP7z5D2Ruj) | 2:59 |
+| 20 | [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 |
 | 21 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 |
 | 22 | [Chờ Chia Tay](https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:06 |
 | 23 | [Cúc Hoạ Mi](https://open.spotify.com/track/2cW6URQzknrDr7bzJKTuAR) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:13 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 27 | [SOS](https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 3:40 |
 | 28 | [Nắng hoa niên](https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:10 |
 | 29 | [Do Em](https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 2:40 |
-| 30 | [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 |
+| 30 | [CÓ LẼ ANH](https://open.spotify.com/track/2UNdTmeZOycErIaIKeuZlh) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [CÓ LẼ ANH](https://open.spotify.com/album/0j4xZa2YuuNfWP7z5D2Ruj) | 2:59 |
 | 31 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:18 |
 | 32 | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/track/2wKRXynEFTZRAbCzxaLv6F) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY) | 2:32 |
 | 33 | [có nhau](https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 3:07 |

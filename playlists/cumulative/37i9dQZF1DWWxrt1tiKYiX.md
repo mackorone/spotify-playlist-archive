@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Ariana Grande
 
-271 songs - 15 hr 1 min
+272 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [american jesus \- demo](https://open.spotify.com/track/6xJFwFiQPMWexTWyWsdnan) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [american jesus \(demo\)](https://open.spotify.com/album/5mgca9De5L6IA3uawjWDR5) | 2:50 | 2023-05-19 | 2023-09-30 |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-11-25 |  |
 | [August \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Live At Electric Lady](https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T) | 3:48 | 2023-03-10 | 2023-09-30 |
+| [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-05-23 |  |
 | [Bad \- Acoustic](https://open.spotify.com/track/3nIOj4RC4F6FcaALZKVLWB) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bad \(Acoustic\)](https://open.spotify.com/album/6dxCR3nNb2InDCZslFNmhD) | 2:51 | 2022-01-28 | 2024-03-16 |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-01-28 | 2023-09-02 |
 | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 | 2022-01-28 |  |
@@ -157,7 +158,7 @@
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 |  |
 | [Let Somebody Go \- Piano Version](https://open.spotify.com/track/2zVeRtqrrRXpCizKlywvvr) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Let Somebody Go \(Piano Version\)](https://open.spotify.com/album/1mbwiDXEr8l6mK7o76dqyu) | 4:09 | 2022-03-18 | 2023-07-01 |
 | [Lie To Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 2:40 | 2022-01-28 | 2023-06-10 |
-| [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-06-09 |  |
+| [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-06-09 | 2025-05-24 |
 | [Life Goes On \- Acoustic](https://open.spotify.com/track/0QPiTFqPuUt6NPcJGv5E9u) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Life Goes On \(Acoustic\)](https://open.spotify.com/album/0lQiE1GyOTVwz6VPy8vY6u) | 2:41 | 2022-01-28 | 2023-03-11 |
 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 | 2022-01-28 | 2023-04-15 |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Acoustic\)](https://open.spotify.com/album/0H6pdORxZ735HztupqklPx) | 3:06 | 2022-02-18 | 2023-08-19 |

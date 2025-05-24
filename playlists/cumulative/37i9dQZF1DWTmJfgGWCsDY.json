@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Lipa",
+        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
+      },
+      "artists": [
+        {
+          "name": "Kiwanda",
+          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
+        },
+        {
+          "name": "Aslam Tz",
+          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223884,
+      "name": "Lipa",
+      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
+    },
+    {
+      "album": {
         "name": "Lisabella",
         "url": "https://open.spotify.com/album/5k4rAgk1d9lgV3BdF2OQ0f"
       },

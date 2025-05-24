@@ -1,13 +1,29 @@
 {
   "description": "This is Dinosaur Pile-Up. The essential tracks, all in one playlist.",
-  "num_followers": 2172,
+  "num_followers": 2178,
   "original_name": "This Is Dinosaur Pile-Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAAlxllGmXGXc6GVmsPg++4A",
+  "snapshot_id": "aC5pAAAAAABojkLkwsmGZIOPSnhwoxO1",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Dogs",
+        "url": "https://open.spotify.com/album/2LCJWfVoj8pusZE9Ed2F93"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 164218,
+      "name": "Big Dogs",
+      "url": "https://open.spotify.com/track/3XgZv8J2mB73xJiDQ7MjgR"
+    },
     {
       "added_at": null,
       "album": {

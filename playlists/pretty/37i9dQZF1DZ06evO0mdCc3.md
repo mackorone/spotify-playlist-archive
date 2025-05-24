@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,759 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,778 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brackish](https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:09 |
 | 2 | [The Unforgiven \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [The Unforgiven \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0) | 5:52 |
 | 3 | [What I Always Wanted](https://open.spotify.com/track/1MnJfqbZ4eVxswbtzFCh0O) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 3:43 |
-| 4 | [One Foot In The Grave](https://open.spotify.com/track/6fkre9qGyleKmufw9ONQPI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:42 |
+| 4 | [We Are Shadows](https://open.spotify.com/track/13D1YvBHi5iW4f7ChMQ5Wq) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:35 |
 | 5 | [Spit](https://open.spotify.com/track/6zd772F94reUnGHulNeEFm) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:22 |
 | 6 | [Into The Darkness](https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 3:38 |
-| 7 | [Run Like Hell](https://open.spotify.com/track/5L0pmNhEK5HVh5YWiiNPuw) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 4:09 |
-| 8 | [We Are Shadows](https://open.spotify.com/track/13D1YvBHi5iW4f7ChMQ5Wq) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:35 |
+| 7 | [Mouthful of Poison](https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 4:38 |
+| 8 | [One Foot In The Grave](https://open.spotify.com/track/6fkre9qGyleKmufw9ONQPI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:42 |
 | 9 | [Get Off \(You Can Eat a Dick\)](https://open.spotify.com/track/7bkstl3jHuqyLThQoja3Ek) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:54 |
 | 10 | [Career Suicide](https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 3:55 |
-| 11 | [Mouthful of Poison](https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 4:38 |
+| 11 | [Run Like Hell](https://open.spotify.com/track/5L0pmNhEK5HVh5YWiiNPuw) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 4:09 |
 | 12 | [Fire](https://open.spotify.com/track/0E66SVq7uPT9YOXzzaIAsZ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:28 |
 | 13 | [Charlotte](https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:59 |
 | 14 | [Loveless](https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 2:08 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 44 | [Around Your Heart](https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 2:56 |
 | 45 | [What Have I Done?](https://open.spotify.com/track/3emGJN0Mc6vibbn50avynV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 5:25 |
 
-Snapshot ID: `aC0XgAAAAABiq7+kiCe4Nr/ULzN0gQcM`
+Snapshot ID: `aC5pAAAAAABmvHop3Gxrum3YwG0jSSpU`

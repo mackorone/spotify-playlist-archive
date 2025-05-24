@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Butt Hurt",
+        "url": "https://open.spotify.com/album/4jwjJzjDI7o0TAktXt9AWD"
+      },
+      "artists": [
+        {
+          "name": "Lefokolodi",
+          "url": "https://open.spotify.com/artist/2AZChLWU9RDlSkGGszB271"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246738,
+      "name": "Butt Hurt",
+      "url": "https://open.spotify.com/track/7LMqMWV3llgIJsDj1g0BkN"
+    },
+    {
+      "album": {
         "name": "By Jou",
         "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
       },
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 212573,
       "name": "Dis 'N Land",
       "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this. cover: ROSIE",
+  "description": "heartbreak feels good in a place like this. cover: Lauren Spencer-Smith",
   "name": "sad hour",
   "tracks": [
     {
@@ -1941,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "bridesmaid",
+        "url": "https://open.spotify.com/album/26KBwbUyMsbzjiAXyrOKP8"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "bridesmaid",
+      "url": "https://open.spotify.com/track/2LZ24cM1dh7nIs1tblxiwV"
+    },
+    {
+      "album": {
         "name": "Briston",
         "url": "https://open.spotify.com/album/5cmC9O768yOGu5tU1qf0f8"
       },
@@ -2548,6 +2566,24 @@
       "duration_ms": 121360,
       "name": "cindy lou who",
       "url": "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr"
+    },
+    {
+      "album": {
+        "name": "Closest Thing",
+        "url": "https://open.spotify.com/album/3F2Oyu797ixoao5346Hu5h"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179873,
+      "name": "Closest Thing",
+      "url": "https://open.spotify.com/track/2VQ8sUv17EhbDYPTFikF1J"
     },
     {
       "album": {
@@ -9740,7 +9776,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 143960,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
@@ -11874,7 +11910,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"

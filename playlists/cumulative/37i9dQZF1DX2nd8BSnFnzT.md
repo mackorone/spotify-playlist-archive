@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Mukeka di Rato
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-536 songs - 1 day 5 hr 51 min
+538 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Carambola](https://open.spotify.com/track/6tNHMfUwXSjxz4MHMrkrut) | [Multi\-Homem](https://open.spotify.com/artist/2HNlu6eelO4SDA29HYzIL3), [Gabriel Thomaz](https://open.spotify.com/artist/5J5SggeuHHfWcXZbZwCg0g), [Márcia Castro](https://open.spotify.com/artist/0qK9aSzT5EIttqbaM1fPwN) | [Multi\-Homem](https://open.spotify.com/album/1uK2Up5fuhOBe2TMUZx7l7) | 3:12 | 2023-01-13 | 2023-03-18 |
 | [Carpinteiro do Universo](https://open.spotify.com/track/55uRggGWgM5G2gmqYaIKHn) | [Johnny Boy Chaves](https://open.spotify.com/artist/6w3YbjU7kppRphB5Fub70D), [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF), [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Carpinteiro do Universo](https://open.spotify.com/album/5oFj0TPT5k1ZG0ytG0lrH7) | 4:11 | 2022-04-29 | 2022-05-20 |
 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 | 2022-05-27 | 2022-09-24 |
-| [Casa em Chamas](https://open.spotify.com/track/7tDN8rGr36XbwKdiQrwstq) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Casa em Chamas](https://open.spotify.com/album/7BOKJpTRHKgNfxZ22tWuTg) | 4:11 | 2024-07-19 |  |
+| [Casa em Chamas](https://open.spotify.com/track/7tDN8rGr36XbwKdiQrwstq) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Casa em Chamas](https://open.spotify.com/album/7BOKJpTRHKgNfxZ22tWuTg) | 4:11 | 2024-07-19 | 2025-05-24 |
 | [caso sério](https://open.spotify.com/track/4pYAk484VaJNKTW3QET7nw) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [caso sério](https://open.spotify.com/album/7Abz7lBZpBs0raAaltfK49) | 4:00 | 2023-01-27 | 2023-08-12 |
 | [CECI](https://open.spotify.com/track/5sofnKyROetFfcVNm5Ztm8) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [CECI \(Deluxe\)](https://open.spotify.com/album/7bo4M7e5HEnTtD03eAWLxc) | 2:44 | 2023-01-20 | 2023-04-01 |
 | [Cedo Ou Tarde \- Mixagem 2023](https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Agora \(Mixagem 2023\)](https://open.spotify.com/album/6DtTX1ZvNBhN15LTYBhuYz) | 3:14 | 2023-12-15 |  |
@@ -209,6 +209,7 @@
 | [Garotas Ambiciosas](https://open.spotify.com/track/336yuYWWCzS6x4xSzynNCx) | [Kelly Clube](https://open.spotify.com/artist/3jw11GBeoNQCmpD4rr831J), [Mister Lawa](https://open.spotify.com/artist/4Zdg9COu8Fori3B3DPIcCh), [Clube Dezenove](https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT), [Jai Rec.](https://open.spotify.com/artist/3hUS1AFJKY1l95TtY4na1N) | [Garotas Ambiciosas](https://open.spotify.com/album/2iEt9aI4g0l1wUFaudsBV2) | 3:12 | 2024-01-12 | 2024-04-27 |
 | [Generais De Fralda](https://open.spotify.com/track/1Zyl4XBTV72Ip1d9Xocrk4) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Generais de Fralda](https://open.spotify.com/album/7qykDoupr9TCpy0Yx46679) | 1:14 | 2025-05-16 |  |
 | [Gentrificação](https://open.spotify.com/track/3EJj7xV5GiO8O0ZXoxxttG) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [Gentrificação](https://open.spotify.com/album/6S6dBEwv7ovsCUBBCxbxUw) | 3:24 | 2023-07-07 | 2023-08-12 |
+| [Geração Fofa \(Ogros Do Século Passado\)](https://open.spotify.com/track/0RFEHwa6kSpURfDNSLyu5h) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Geração Fofa \(Ogros Do Século Passado\)](https://open.spotify.com/album/1B8hQz806ueoAI0NwMKXTe) | 3:31 | 2025-05-23 |  |
 | [Gigante](https://open.spotify.com/track/41T7H4623zni8AgZ37dIif) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/5lngOd9ckmPOL4xwcbkotM) | 3:57 | 2023-08-25 | 2024-04-19 |
 | [Gigante](https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/6JiDLzuNVsMHO7qoePgoRZ) | 3:57 | 2023-07-21 |  |
 | [Grunge Caiçara](https://open.spotify.com/track/66Y4zeFBo2RPPcihswE3zo) | [DZROCK](https://open.spotify.com/artist/6RkWnqZp8mJrhibzHvEJTw) | [Grunge Caiçara](https://open.spotify.com/album/7oETN7c5gzKpJFAuN7S4Ec) | 2:45 | 2024-05-10 | 2024-06-22 |
@@ -342,7 +343,7 @@
 | [O Amor e Seus Desvios](https://open.spotify.com/track/4fWTQvYX7P8BMzxSzoeflt) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Leoni](https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL) | [O Amor e Seus Desvios](https://open.spotify.com/album/5BOZQ5yA2m68q17URVlI65) | 3:54 | 2024-10-11 |  |
 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 | 2022-01-14 | 2023-04-01 |
 | [O Ano da Volta](https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L) | [Sound Bullet](https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz) | [O Ano da Volta](https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De) | 4:43 | 2022-11-25 | 2023-02-04 |
-| [O Astronauta de Mármore \(Starman\)](https://open.spotify.com/track/6eGwHjELblDTAZYBjQYwKq) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Rock Nacional \(15+\)](https://open.spotify.com/album/4yxzJj8cZrcsEEFgKeF2sj) | 4:54 | 2025-05-16 |  |
+| [O Astronauta de Mármore \(Starman\)](https://open.spotify.com/track/6eGwHjELblDTAZYBjQYwKq) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Rock Nacional \(15+\)](https://open.spotify.com/album/4yxzJj8cZrcsEEFgKeF2sj) | 4:54 | 2025-05-16 | 2025-05-24 |
 | [O Deserto](https://open.spotify.com/track/0jY5AGKcDDZrxMM0Qhc5Y9) | [Tom Stracke](https://open.spotify.com/artist/01amAKKi7P0TRAf0tC0Ert) | [O Deserto](https://open.spotify.com/album/6M6p08pN0zbXQO03GrIEXh) | 4:24 | 2022-01-14 | 2022-05-14 |
 | [O Dia](https://open.spotify.com/track/7dOshwpifuDUfbHDSFVKld) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [O Dia](https://open.spotify.com/album/3FNVfaYAcIaxYlcbrbzCxL) | 6:08 | 2023-09-29 | 2024-01-27 |
 | [O Faraó](https://open.spotify.com/track/7Avx0HsCnKCq2LTNaPiyQE) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [O Faraó](https://open.spotify.com/album/6w2b8VUmqYjWhxow4rKoYD) | 2:30 | 2022-02-18 | 2022-03-12 |
@@ -508,6 +509,7 @@
 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 | 2022-11-18 | 2023-04-09 |
 | [UM BRINDE](https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 2:47 | 2022-08-01 | 2022-10-15 |
 | [UM CUPIDO ME FLECHOU](https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [UM CUPIDO ME FLECHOU](https://open.spotify.com/album/3MqwDkJ5JdvYrKNzaTINia) | 2:22 | 2022-07-01 | 2022-09-03 |
+| [Um Doce](https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [XXX](https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh) | 3:15 | 2025-05-23 |  |
 | [Um Drink no Inferno](https://open.spotify.com/track/1ZIL3n6FyzFWOz0fHb0SUu) | [Pappa Jack](https://open.spotify.com/artist/5j8yCUAAtRgPbW98Eym3oo), [Igor Godoi](https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG) | [Volume 1](https://open.spotify.com/album/1ueUmJn1wDaxpWZFzH1xJc) | 3:20 | 2023-11-10 | 2024-05-03 |
 | [Um Misto de Todas as Coisas \- Ao Vivo](https://open.spotify.com/track/14sAbxIENb9GRkguBkD40p) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Paulo Miklos \(Ao Vivo\)](https://open.spotify.com/album/0HC3ob9uPttytd4XObdUdv) | 3:15 | 2024-05-03 | 2024-08-31 |
 | [um novo jeito de se machucar](https://open.spotify.com/track/4m1BQmWdyQNN1OE1pvc94u) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [um novo jeito de se machucar](https://open.spotify.com/album/3mxHuaFOhavMHtgfUwZG8F) | 3:09 | 2023-08-04 |  |

@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-511 songs - 1 day 12 hr 7 min
+512 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Grass\-Fed Funk \(feat\. Marcus Anderson\)](https://open.spotify.com/track/3kKW85fudYfR3NT4Fwp9Fg) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grass\-Fed Funk \(feat\. Marcus Anderson\)](https://open.spotify.com/album/3Galo1stQ6Ks8SS1t91n3I) | 5:06 | 2024-04-12 | 2024-04-19 |
 | [Gratified](https://open.spotify.com/track/5JLFIvCjxQOMmFyOdykNaG) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Gratified](https://open.spotify.com/album/2UdylqKANahv1rrHSStfxU) | 4:35 | 2025-03-14 |  |
 | [Groove Factor](https://open.spotify.com/track/4GfktsF1HPURddq5xtrTmk) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ) | 5:14 | 2023-04-28 | 2024-04-19 |
-| [Groove Factor](https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF) | 5:14 | 2023-04-28 |  |
+| [Groove Factor](https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF) | 5:14 | 2023-04-28 | 2025-05-24 |
 | [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 | 2023-04-28 | 2023-07-31 |
 | [Groovin' at the Symphony Hall](https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Groovin' at the Symphony Hall](https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X) | 4:13 | 2024-03-15 |  |
 | [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 | 2022-09-30 | 2024-03-16 |
@@ -493,6 +493,7 @@
 | [Unstoppable](https://open.spotify.com/track/0BVGP7P6x7MoxOFqdJcU6U) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Unstoppable](https://open.spotify.com/album/4V5KFA6bg3Aol3eqt6bnsI) | 4:12 | 2024-02-02 | 2024-03-23 |
 | [Up All Night](https://open.spotify.com/track/4cayMK8FdWRvfVzZgsgElI) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Up All Night \(feat\. Boney James\)](https://open.spotify.com/album/3MgeZPkZbPAN2cdTKiVzMs) | 4:10 | 2021-03-12 | 2022-03-18 |
 | [Uptop](https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Uptop](https://open.spotify.com/album/0e9CbmyR2qGr4k1vGQYtSv) | 4:20 | 2023-08-04 | 2024-02-03 |
+| [Vacancy](https://open.spotify.com/track/06lEskKdCy0uZU49QQ0uyN) | [Slikk Muzik](https://open.spotify.com/artist/3obIe2qa1nuILsEgOllAPh), [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Ear Candy](https://open.spotify.com/album/7xDbrkbiEbFDvUdRDmZq2R) | 3:51 | 2025-05-23 |  |
 | [Vibes \- Radio Edit](https://open.spotify.com/track/04lmQEfGqUyFLnDQbUPVSr) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Vibes \(Radio Edit\)](https://open.spotify.com/album/5SGGbjc2zFk8OTe5h7oiQq) | 3:44 | 2025-01-17 |  |
 | [Victoria Falls](https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/0XeOa7J4MyLZcpvEDkq4fp) | 5:18 | 2023-10-13 | 2023-12-24 |
 | [Victoria Falls](https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg) | 5:18 | 2023-10-13 | 2024-01-13 |

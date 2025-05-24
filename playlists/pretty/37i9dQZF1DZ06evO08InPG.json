@@ -1,29 +1,13 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 61083,
+  "num_followers": 61087,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAADhRCJXhzd7oXJRTTv35Mav",
+  "snapshot_id": "aC5pAAAAAAABT7m7hd52ZYKye2cdBAKi",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNAT\u00d8NED",
-        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236833,
-      "name": "\u00d8UTSIDER",
-      "url": "https://open.spotify.com/track/1geTeZEhjXmVZzaERpKp9r"
-    },
     {
       "added_at": null,
       "album": {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 221918,
-      "name": "AT\u00d8MIC REVELATI\u00d8NS",
-      "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
+      "duration_ms": 236833,
+      "name": "\u00d8UTSIDER",
+      "url": "https://open.spotify.com/track/1geTeZEhjXmVZzaERpKp9r"
     },
     {
       "added_at": null,
@@ -116,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 212323,
-      "name": "THESE SCARS W\u00d8N'T DEFINE US",
-      "url": "https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT"
+      "duration_ms": 221918,
+      "name": "AT\u00d8MIC REVELATI\u00d8NS",
+      "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
     },
     {
       "added_at": null,
@@ -192,9 +176,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 235033,
-      "name": "N\u00d8T L\u00d8NG F\u00d8R THIS W\u00d8RLD",
-      "url": "https://open.spotify.com/track/3D6o1Gu1kkG6HFY1iRP8gL"
+      "duration_ms": 212323,
+      "name": "THESE SCARS W\u00d8N'T DEFINE US",
+      "url": "https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT"
     },
     {
       "added_at": null,
@@ -211,6 +195,22 @@
       "duration_ms": 430540,
       "name": "Now We Die",
       "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "From This Day",
+      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "From This Day",
-      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 236531,
-      "name": "UNB\u00d8UND",
-      "url": "https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z"
+      "duration_ms": 235033,
+      "name": "N\u00d8T L\u00d8NG F\u00d8R THIS W\u00d8RLD",
+      "url": "https://open.spotify.com/track/3D6o1Gu1kkG6HFY1iRP8gL"
     },
     {
       "added_at": null,
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 190576,
-      "name": "ADDICTED T\u00d8 PAIN",
-      "url": "https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7"
+      "duration_ms": 236531,
+      "name": "UNB\u00d8UND",
+      "url": "https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z"
     },
     {
       "added_at": null,
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 208731,
-      "name": "SHARDS \u00d8F SHATTERED DREAMS",
-      "url": "https://open.spotify.com/track/3mga407iroWBAh473jPc03"
+      "duration_ms": 190576,
+      "name": "ADDICTED T\u00d8 PAIN",
+      "url": "https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
       "duration_ms": 286706,
       "name": "The Rage to Overcome",
       "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 371480,
+      "name": "This Is the End",
+      "url": "https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq"
     }
   ],
   "unique_name": "This Is Machine Head",

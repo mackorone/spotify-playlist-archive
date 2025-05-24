@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 230400,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4bbZwxidELBZP5jQKmelqB"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 199838,
       "name": "Al Ritmo",
       "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Boricuas EP",
+        "url": "https://open.spotify.com/album/63rC8r2Gum224LXM4MaHJk"
+      },
+      "artists": [
+        {
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139364,
+      "name": "Boricuas",
+      "url": "https://open.spotify.com/track/1mQq5CYoMsXnYvL39TuJAL"
+    },
+    {
+      "album": {
         "name": "Brisas Del Mar",
         "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 154710,
       "name": "Cafecito",
       "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 181440,
       "name": "Cumbiamba",
       "url": "https://open.spotify.com/track/2KE2gkcejvvpkhAo3uBHEt"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 212142,
       "name": "Dale Rollo",
       "url": "https://open.spotify.com/track/7lhmeGlNcF564eSIMy0s3A"
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 192000,
       "name": "E Baixo",
       "url": "https://open.spotify.com/track/2zIosuEKWuayV6gWSQ9zCN"
@@ -2936,7 +2954,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 150726,
       "name": "El Tikital - Day Mix",
       "url": "https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y"
@@ -3500,7 +3518,7 @@
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
+          "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 120120,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 203839,
       "name": "Get Me There",
       "url": "https://open.spotify.com/track/3Vibd3EowNEXVCLbp1nMKT"
@@ -3795,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "HER NAME IS JUANA",
+        "url": "https://open.spotify.com/album/37pTwGQwsoSHEBrauJMVcq"
+      },
+      "artists": [
+        {
+          "name": "FLAKO STIK",
+          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225942,
+      "name": "HER NAME IS JUANA",
+      "url": "https://open.spotify.com/track/1G7W43KfjMY8nl0N8t68WF"
+    },
+    {
+      "album": {
         "name": "Roots EP, Pt. 1",
         "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
@@ -3806,7 +3842,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Hijos De La Noche",
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
@@ -4276,7 +4312,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 160000,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
@@ -4478,7 +4514,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 174260,
       "name": "La Riviera",
       "url": "https://open.spotify.com/track/5eICKNv8WjZvorhkeLHncD"
@@ -4580,6 +4616,32 @@
       "duration_ms": 161760,
       "name": "Labios (La Noche)",
       "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
+    },
+    {
+      "album": {
+        "name": "Las Avispas",
+        "url": "https://open.spotify.com/album/7cVDH7qpKepctlU6vKYEe1"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Br\u00f8der",
+          "url": "https://open.spotify.com/artist/7DBx4maFkuoaBd7w7tTsQR"
+        },
+        {
+          "name": "Spijker",
+          "url": "https://open.spotify.com/artist/6mT5oP27IaBtmiSC1bXcU2"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/5hWtMK64O73MxJbyDUn4wU"
     },
     {
       "album": {
@@ -5942,7 +6004,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 167441,
       "name": "Pasto Y Perico",
       "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
@@ -6364,7 +6426,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 214959,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/7CN0ZjQErfJD4wJatYcpH9"
@@ -6684,7 +6746,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 167578,
       "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
       "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
@@ -6878,7 +6940,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
@@ -7066,7 +7128,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 166080,
       "name": "Sola Nac\u00ed",
       "url": "https://open.spotify.com/track/39CaT6KwQi81Oc8EHhuL7w"
@@ -7432,7 +7494,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 181417,
       "name": "Te Qere",
       "url": "https://open.spotify.com/track/1QPLS8VGpikmvzUYacTZ9r"
@@ -7498,7 +7560,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 158906,
       "name": "Tengo Gasolina",
       "url": "https://open.spotify.com/track/3aqWfNCEqoDeRbNk7rfjlf"
@@ -7574,7 +7636,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 201290,
       "name": "Toca Me Ft. Michelle Marrero",
       "url": "https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9"
@@ -7618,7 +7680,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 323763,
       "name": "Toma Dale",
       "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
@@ -8018,7 +8080,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 198250,
       "name": "Uh uh balan\u00e7ou!",
       "url": "https://open.spotify.com/track/01UIAgXk4KLXPuiFcMyu0j"
@@ -8196,7 +8258,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 238124,
       "name": "Vampira",
       "url": "https://open.spotify.com/track/3FJsHNe7DQxDv4Pa5pkwsN"
@@ -8460,7 +8522,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 144000,
       "name": "Weo Weo",
       "url": "https://open.spotify.com/track/5oFlfTrMxs2QMHv5FUvcFq"

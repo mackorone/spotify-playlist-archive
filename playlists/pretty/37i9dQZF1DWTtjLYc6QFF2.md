@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена разом зі Юлею Юріною.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,822 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,821 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 54 | [Кордони](https://open.spotify.com/track/2orkaUCctzcrtc3AQ6auTi) | [KAROOKA](https://open.spotify.com/artist/1k5JMm2NvXeUWQ6YWhuDbu) | [Кордони](https://open.spotify.com/album/40dFNbh3asGKCyfJ3omeCu) | 2:55 |
 | 55 | [Помилки](https://open.spotify.com/track/3pPg3K0XW0m3sSL5pyuDsb) | [Rymma](https://open.spotify.com/artist/3tNMAuJS44PVLMfxIGVB0v) | [Помилки](https://open.spotify.com/album/2w8Zml7uo5uHxK0If17um5) | 2:46 |
 
-Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`
+Snapshot ID: `aBp4agAAAACEOFCxsuwlujaNQobvF4D/`

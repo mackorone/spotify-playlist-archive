@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 217585,
+  "num_followers": 217596,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAACbePPJve/9p1ZVYPVy6ayR",
+  "snapshot_id": "aC5pAAAAAADLfxpOcEVeI5b436G6lfVc",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
-        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE"
       },
       "artists": [
         {
@@ -232,17 +232,13 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         },
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 279247,
-      "name": "Remains (Bastille Vs. Rag\u2019N\u2019Bone Man Vs. Skunk Anansie)",
-      "url": "https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV"
+      "duration_ms": 213510,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ"
     },
     {
       "added_at": null,
@@ -263,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Place",
-        "url": "https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE"
+        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
+        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
       },
       "artists": [
         {
@@ -272,13 +268,17 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         },
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
         }
       ],
-      "duration_ms": 213510,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ"
+      "duration_ms": 279247,
+      "name": "Remains (Bastille Vs. Rag\u2019N\u2019Bone Man Vs. Skunk Anansie)",
+      "url": "https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV"
     },
     {
       "added_at": null,

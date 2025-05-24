@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 208000,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/5qapnzaAfva9OaYEsgkfbs"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 222710,
       "name": "Day After Day",
       "url": "https://open.spotify.com/track/4yZAw6l61oja9LMyUIq3i1"
@@ -5367,6 +5367,32 @@
     },
     {
       "album": {
+        "name": "The Lower World",
+        "url": "https://open.spotify.com/album/2hpPyPFwpyxZUPpVkou6sI"
+      },
+      "artists": [
+        {
+          "name": "Shades",
+          "url": "https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        },
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220555,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/34tVJbdGRbYzmphqiGVjAd"
+    },
+    {
+      "album": {
         "name": "Gom Jabbar",
         "url": "https://open.spotify.com/album/6djHuRoajtBmvj8hNCzQUi"
       },
@@ -5490,7 +5516,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 173327,
       "name": "GREEZE",
       "url": "https://open.spotify.com/track/6mm2KkENHYOXXOQaNq1a9m"
@@ -6002,7 +6028,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/6ICqVK59IF8cBDQ9NzjiQD"
@@ -7618,7 +7644,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 158709,
       "name": "Lightspeed (feat. d\u00eatre)",
       "url": "https://open.spotify.com/track/4LVcRkElDaOWOC4SfO3LRm"
@@ -7987,6 +8013,24 @@
     },
     {
       "album": {
+        "name": "Lunatics",
+        "url": "https://open.spotify.com/album/4KA30kM4ZXi2Qg36I63qOP"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156472,
+      "name": "Lunatics",
+      "url": "https://open.spotify.com/track/6I3QqlCCrZdeDyAuvCvECj"
+    },
+    {
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/1JyY8FxMbZ3idqqW8fOSYJ"
       },
@@ -8121,6 +8165,24 @@
     },
     {
       "album": {
+        "name": "insegui, ora",
+        "url": "https://open.spotify.com/album/6QhLHFzi32nWSmZKgd10So"
+      },
+      "artists": [
+        {
+          "name": "chaze",
+          "url": "https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133879,
+      "name": "male",
+      "url": "https://open.spotify.com/track/4A6Ls1BxfbTBDYXlcQ22Zb"
+    },
+    {
+      "album": {
         "name": "Man Like",
         "url": "https://open.spotify.com/album/1rthJT4jjfnXnbv159ubBJ"
       },
@@ -8176,7 +8238,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 263314,
       "name": "Maw",
       "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"
@@ -8400,7 +8462,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 156100,
       "name": "millennium",
       "url": "https://open.spotify.com/track/0RHyanvjLsaCvh0LI5bxAE"

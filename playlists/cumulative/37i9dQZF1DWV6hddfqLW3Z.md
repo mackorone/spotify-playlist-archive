@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-197 songs - 11 hr 52 min
+198 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hello](https://open.spotify.com/track/3pla8YL6bz8rURpyZhyEKD) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Marquês, 256.](https://open.spotify.com/album/1qJlWTgyyZhrF0jxWnDE9I) | 1:47 | 2023-06-02 | 2023-06-17 |
 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(Álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 | 2022-08-19 |  |
 | [Insensatez](https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Insensatez](https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2) | 3:12 | 2024-10-25 | 2024-11-09 |
+| [Iroko](https://open.spotify.com/track/59ntX56WnGYW24wXanrsMC) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Gira Mundo](https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ) | 2:24 | 2025-05-23 |  |
 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 | 2024-10-22 | 2024-10-26 |
 | [Janta](https://open.spotify.com/track/4utoXvhzZBIrsDKOEtApSl) | [Marcelo Camelo](https://open.spotify.com/artist/2HubQ6TEbD7HknCNrBsqhR) | [Sou](https://open.spotify.com/album/329FECZuSWB3DSS73KAT3A) | 3:24 | 2023-06-16 | 2023-08-08 |
 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 | 2022-08-19 | 2024-04-19 |
@@ -105,7 +106,7 @@
 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 | 2025-02-07 |  |
 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 | 2022-08-19 | 2024-04-19 |
 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 | 2022-08-19 |  |
-| [Mexeu comigo](https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [iCollection](https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg) | 3:34 | 2024-04-05 |  |
+| [Mexeu comigo](https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [iCollection](https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg) | 3:34 | 2024-04-05 | 2025-05-24 |
 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 | 2022-08-19 |  |
 | [Morro Dois Irmãos](https://open.spotify.com/track/0KFRKD16R8XL619JkEh241) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Morro Dois Irmãos](https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16) | 4:19 | 2023-06-02 | 2023-06-17 |
 | [Moço](https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Moço](https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs) | 4:27 | 2023-06-02 | 2023-06-17 |

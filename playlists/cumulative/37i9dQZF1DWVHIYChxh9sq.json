@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Alejandro Fern\u00e1ndez ",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Edgardo Nu\u00f1ez",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 137506,
       "name": "Aguanta Corazon",
       "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 252076,
       "name": "Con Zapatos De Tac\u00f3n / Rebota - En Vivo",
       "url": "https://open.spotify.com/track/1uiZfhwVqhy4c8IqZ4szGJ"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 137160,
       "name": "Ego\u00edsta - En Vivo",
       "url": "https://open.spotify.com/track/1ABvqI9uaaCD48cR6wuWUe"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 173250,
       "name": "El Comando del Diablo - En Vivo",
       "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 226899,
       "name": "El Reniego - En Vivo",
       "url": "https://open.spotify.com/track/6v5uRKeNKMkZCJIbs980GY"
@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 130570,
       "name": "Entre Caballos y Corrales - En Vivo",
       "url": "https://open.spotify.com/track/26tcOqeFwDZemUtirkqDqC"
@@ -4800,7 +4800,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 203066,
       "name": "Eres un encanto - En vivo",
       "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
@@ -5636,7 +5636,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 140074,
       "name": "Kikil Caro - En Vivo",
       "url": "https://open.spotify.com/track/2gcJ3i0yKAVxo6iJBUH5Ws"
@@ -5882,7 +5882,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 195318,
       "name": "La Culebra - En Vivo",
       "url": "https://open.spotify.com/track/2MVXJYMd4CKYTRpAhVj2vT"
@@ -7679,6 +7679,24 @@
     },
     {
       "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265791,
+      "name": "Mi Pasado y Mi Presente - En Vivo",
+      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
+    },
+    {
+      "album": {
         "name": "Exitos En Vivo Vol. 1",
         "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
       },
@@ -8330,7 +8348,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 522409,
       "name": "Popurri De Cumbias (En Vivo)",
       "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
@@ -8802,7 +8820,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 179114,
       "name": "Quiero Brillar - En Vivo",
       "url": "https://open.spotify.com/track/6e84rgR4vlwl5ICUUUVb0f"
@@ -9212,7 +9230,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 216500,
       "name": "Si Yo Fuera Ladr\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5EIY8y9cSOuJAWp8eV8Kcb"
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 336192,
       "name": "Triste Recuerdo / Te Ofrezco Un Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5g24cf34NdPK5fPi9eQDh3"
@@ -10194,6 +10212,28 @@
       "duration_ms": 156591,
       "name": "Vengo a Aclarar - En Vivo",
       "url": "https://open.spotify.com/track/3APlmd8L4fTpLioW9i8WhZ"
+    },
+    {
+      "album": {
+        "name": "Voy a Blindar mi Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/1BEOOfC8CSaX5weSaLA7cx"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "El Juanma",
+          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233916,
+      "name": "Voy a Blindar mi Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/4jS3oKDydBBqCMUiFQOavB"
     },
     {
       "album": {

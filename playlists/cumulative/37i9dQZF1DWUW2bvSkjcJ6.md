@@ -4,7 +4,7 @@
 
 > Neue Musik von Apache 207, Alex Warren, ZAH1DE und mehr!
 
-4,876 songs - 9 day 23 hr 12 min
+4,877 songs - 9 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4072,6 +4072,7 @@
 | [Süchtig nach dir](https://open.spotify.com/track/5YgrJIS2BenrvNs75v2ruh) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [Süchtig nach dir](https://open.spotify.com/album/2mhK8fU2516j360yP5bgwK) | 2:08 | 2024-10-03 | 2024-10-11 |
 | [T\-Shirt](https://open.spotify.com/track/2c8wDars3qvBW5v5SAEDPH) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [T\-Shirt](https://open.spotify.com/album/04G7zMgiTnEHbU7cXiDRva) | 2:41 | 2024-08-15 | 2024-08-23 |
 | [TABOO](https://open.spotify.com/track/2gSJ9ONZZgc5L8IUtygBdo) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [TABOO](https://open.spotify.com/album/6peMEJv80KXiZYP9VaSyTr) | 2:44 | 2025-04-24 | 2025-05-02 |
+| [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 | 2025-05-23 |  |
 | [Tacoma](https://open.spotify.com/track/5QmA9eApZ6vytnT9SqpiPx) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Tacoma](https://open.spotify.com/album/583BJpzRCm8xxepWzoCgEQ) | 3:10 | 2024-08-15 | 2024-08-23 |
 | [Tagebuch](https://open.spotify.com/track/0pWWXHcu4GbLCZhNHKvBWp) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Tagebuch](https://open.spotify.com/album/2kAi6TVAoClyBc0QkAbYgU) | 2:41 | 2024-11-07 | 2024-11-15 |
 | [Tagebuch](https://open.spotify.com/track/1VA6CJBR7AqNdEKCGIIwG7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Tagebuch](https://open.spotify.com/album/6L4becPO2DnJAtRDRjSf6x) | 2:13 | 2025-01-16 | 2025-01-24 |

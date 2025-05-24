@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: KiDi & Gyakie
+> The hottest and recent Ghana party starters\. Cover: Gyakie
 
-504 songs - 1 day 2 hr 10 min
+505 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2023-01-13 | 2024-06-14 |
 | [Criminal](https://open.spotify.com/track/7LRvsLwnoMZYJ5ZY0Xupv7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Criminal](https://open.spotify.com/album/7x4SAE0RVgcenFP89fj7Ix) | 2:15 | 2022-11-15 | 2023-01-20 |
 | [Cryptocurrency](https://open.spotify.com/track/4QdeLIxAqo8Dh5vUNpK0Vp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Cryptocurrency](https://open.spotify.com/album/03gi4AddTZUCQwJnsDnexz) | 2:59 | 2023-02-23 | 2024-06-01 |
-| [Daakyi](https://open.spotify.com/track/2txGaErDB8OAKa1Mh7ECk5) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Daakyi](https://open.spotify.com/album/5JEvmfxuLsZujr5Iy5pY6v) | 4:00 | 2025-04-17 |  |
+| [Daakyi](https://open.spotify.com/track/2txGaErDB8OAKa1Mh7ECk5) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Daakyi](https://open.spotify.com/album/5JEvmfxuLsZujr5Iy5pY6v) | 4:00 | 2025-04-17 | 2025-05-24 |
 | [Dancé](https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Dancé](https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1) | 3:17 | 2023-11-17 | 2024-04-19 |
 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 | 2024-03-01 |  |
 | [Date Rush](https://open.spotify.com/track/7wmkSBEDuDuvKuefJ6JNoq) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Date Rush](https://open.spotify.com/album/2PkbKApYqcnLJloiZjHyph) | 3:28 | 2024-07-12 | 2025-04-08 |
@@ -400,6 +400,7 @@
 | [S3k3](https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [S3k3](https://open.spotify.com/album/7JjgRBz9e6A2wLPTcjQVYn) | 2:32 | 2022-11-04 | 2023-09-15 |
 | [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 | 2025-03-31 |  |
 | [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 | 2025-04-04 |  |
+| [Sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 | 2025-05-23 |  |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-03-18 |
 | [Sapiosexual](https://open.spotify.com/track/1U87fNBrQuYJgoolhh0WQt) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Sapiosexual](https://open.spotify.com/album/5SyGcOymdbcswIkKi1sQwR) | 2:23 | 2025-03-21 |  |
 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 | 2025-03-07 |  |

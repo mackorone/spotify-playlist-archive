@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-117 songs - 4 hr 8 min
+118 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Little Red Caboose](https://open.spotify.com/track/1f0nRNqquTbRtg3rWoWhMb) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Pre\-School Singalong Vol\. 4](https://open.spotify.com/album/73r8fOxf5F3kJz2bWHXc53) | 2:23 | 2019-10-29 | 2022-11-13 |
 | [Little Red Caboose](https://open.spotify.com/track/3hN0tEDoTr5eCmpt91NpWx) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/3ewqpIxaq4yX0rCjOKe3Ag) | 2:23 | 2019-10-29 |  |
 | [Little Red Wagon](https://open.spotify.com/track/51MZDoGoosjhi7jK07be8u) | [Russ](https://open.spotify.com/artist/6WT04srnFQfMwcdTDwLjRL) | [Back to School, 50 Kindergarten Songs from Sesame Street, The Muppets, Phineas and Ferb, Sharon, Lois & Bram and More!](https://open.spotify.com/album/6dZ3FImmNlzkcQAjev5uO8) | 2:49 | 2019-10-29 |  |
+| [Monster Truck](https://open.spotify.com/track/3SycSYhHVXYhxeEtfC5JRp) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Monster Truck](https://open.spotify.com/album/5gYtP9cmquChLATkBWuzWP) | 2:14 | 2025-05-23 |  |
 | [Monster Truck](https://open.spotify.com/track/1bMpakeLhw1s1ZCcA8KnhT) | [Sugar Free Allstars](https://open.spotify.com/artist/20jDeqVyKIXRSo4l6ORIWX) | [Sugar Free Allstars](https://open.spotify.com/album/3kOhHCa6SyGFbAkNR0dXLB) | 4:07 | 2019-10-29 |  |
 | [Monster Truck Race / Yellow, Red, Blue](https://open.spotify.com/track/5NK18gYM8pLn5AOxPg9zWO) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Monster Trucks & Construction Machines Songs](https://open.spotify.com/album/7zby52lKuI7bIiopIr4Etf) | 3:15 | 2019-10-29 |  |
 | [On a Bike](https://open.spotify.com/track/35Mj7mpxRHYfgZGoi9kcs6) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol\. 2](https://open.spotify.com/album/1VW3sLTTqeQjDpRje85ThB) | 1:30 | 2019-10-29 |  |

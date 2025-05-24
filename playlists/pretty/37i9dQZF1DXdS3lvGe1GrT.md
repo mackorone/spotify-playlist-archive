@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Celebrating 10 years of the best new folk music from independent artists\. Cover: pencil
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,546 likes - 121 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,551 likes - 121 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 120 | [Summer](https://open.spotify.com/track/4qgIJfT8KRQEFVWQ9RN1xV) | [Iona Zajac](https://open.spotify.com/artist/5XIL7iEbCKJIz14Gqd58Y7) | [Summer](https://open.spotify.com/album/74JOmiU2rggpAQMLizjaVa) | 5:11 |
 | 121 | [Fighting On The Wing](https://open.spotify.com/track/4EVubDVbvz2kwPyvqxv6Gy) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM) | [Fighting On The Wing](https://open.spotify.com/album/0xWeCVv5ZJt0bEr1TQq4zC) | 5:22 |
 
-Snapshot ID: `aC444wAAAAAAzkRmcPgfvY39gZRhbs5L`
+Snapshot ID: `aC444wAAAAA8sSfO1t4ygZSLfwiUJGq6`

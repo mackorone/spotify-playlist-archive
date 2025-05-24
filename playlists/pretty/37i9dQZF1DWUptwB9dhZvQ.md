@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,604 likes - 75 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,620 likes - 75 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 36 | [Kabadi](https://open.spotify.com/track/5TLFiGnxajzsG9aSdkFzep) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ) | [Ghilli](https://open.spotify.com/album/7Bdcd9jHBes2xdvxuzto28) | 1:44 |
 | 37 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 |
 | 38 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 |
-| 39 | [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/track/6BHnAPTG2hyOqM2gLO2rt5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/album/4x4k5W1QK5rkPUYp3VP7f7) | 0:44 |
+| 39 | [Raayan Rules](https://open.spotify.com/track/1dAe59cjQvKeoO1cfHMAsE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 0:56 |
 | 40 | [Gethu Crosses the Line](https://open.spotify.com/track/6kkmaPmJDrV4HvaBbEjh4m) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Lubber Pandhu \(Original Background Score\)](https://open.spotify.com/album/6YCWHf2D4QIxIdaJ7RUDmw) | 3:00 |
 | 41 | [S3 Vetta \(Theme Music\)](https://open.spotify.com/track/6yPRM7zwvtrl47XvIGx7Am) | [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2) | [S3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5eoSgIGH6QNQbOo0Bij06j) | 1:32 |
-| 42 | [Raayan Rules](https://open.spotify.com/track/1dAe59cjQvKeoO1cfHMAsE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 0:56 |
+| 42 | [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/track/6BHnAPTG2hyOqM2gLO2rt5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/album/4x4k5W1QK5rkPUYp3VP7f7) | 0:44 |
 | 43 | [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
 | 44 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 |
 | 45 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |

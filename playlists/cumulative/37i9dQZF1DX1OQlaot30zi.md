@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Marte, Rkomi, Simba, Fibra e Tredici Pietro, Carla Hero e tanti altri 🔥
 
-5,506 songs - 10 day 5 hr 34 min
+5,507 songs - 10 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2179,6 +2179,7 @@
 | [Ho Chiesto Aiuto al Cielo](https://open.spotify.com/track/6JOvAXxzWO9dQ93B3Y0wYX) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [ANTI ANTI](https://open.spotify.com/album/1swvBpXDUYfoJw1Tgo3Myd) | 2:17 | 2024-11-28 | 2024-12-27 |
 | [Ho Fatto Tardi](https://open.spotify.com/track/0DsuCROI7WlBX9TyX3PIvF) | [Pach Da Butcher](https://open.spotify.com/artist/3oVkCuiD0PDxGnaVBAtpwP), [Leon Raiva](https://open.spotify.com/artist/2bzJDV1yQDtf7K9N90wTX8), [SiKo\_MCLR](https://open.spotify.com/artist/0s9ZKWbHzPG10aYQxjACl1) | [Ho Fatto Tardi](https://open.spotify.com/album/0PuAAngf4wI9lJQs5t7rGP) | 3:08 | 2023-09-07 | 2023-09-29 |
 | [HO PERSO LA TESTA](https://open.spotify.com/track/4AwTAhmlFlrco1blyGFKdR) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [HO PERSO LA TESTA](https://open.spotify.com/album/1pIp3y0hRQqLIPaHzWv1lu) | 2:15 | 2022-10-06 | 2022-10-14 |
+| [HO PERSO ME](https://open.spotify.com/track/4jXTmniDnSHwBwATARdNrj) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [PARETI NERE](https://open.spotify.com/album/1UHbIptYxxi6HiNUMbdA1T) | 2:13 | 2025-05-23 |  |
 | [Ho superato il limite](https://open.spotify.com/track/0vGHocpLH5KWtiUlZ7X01T) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Ho superato il limite](https://open.spotify.com/album/0VYW6jWTOJJq6BhfTc1aHk) | 2:45 | 2023-05-04 | 2023-05-19 |
 | [Ho un amico](https://open.spotify.com/track/7pBvYxZaLrrrLPopZWwCb5) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw) | [Ho un amico](https://open.spotify.com/album/2wECbTG1h6FXXL0dEFN0h9) | 2:00 | 2023-10-12 | 2023-10-27 |
 | [Ho vinto già](https://open.spotify.com/track/4BUv2FYnvtNjDYgP685Fpd) | [Swelto](https://open.spotify.com/artist/0cuK1vIIaeg0TtCpUovWrY), [Xenon](https://open.spotify.com/artist/5P9ALMXZjOFkEglRJLt0mf) | [Ho vinto già](https://open.spotify.com/album/12akD24TWwPYtZXasROpIh) | 3:38 | 2023-01-05 | 2023-01-13 |

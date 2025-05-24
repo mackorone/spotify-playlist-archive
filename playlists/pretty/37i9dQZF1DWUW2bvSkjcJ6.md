@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Apache 207, Alex Warren, ZAH1DE und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,079 likes - 84 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,142 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,13 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 74 | [IN MEINER BRUST](https://open.spotify.com/track/6OxJuU3rM0UxU9a1vR9HHM) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn) | [IN MEINER BRUST](https://open.spotify.com/album/22q4LalCQ3mrr3il5wv5N7) | 2:31 |
 | 75 | [Common Formality](https://open.spotify.com/track/7aSfSOUli9kRU5pJjeZO2a) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [Common Formality](https://open.spotify.com/album/7qhoIuubUZS8FMI1SOfJdf) | 2:59 |
 | 76 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 |
-| 77 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate \- EP](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
-| 78 | [tu's für uns](https://open.spotify.com/track/2OsKP7N0KkRCyc2dkq3IrX) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [Ein Schritt mehr](https://open.spotify.com/album/2qAelcA0zeIW4nDQLy7wks) | 3:13 |
-| 79 | [Die A Million Times](https://open.spotify.com/track/13vBvwz8OIu1gbgKWFCsir) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Die A Million Times](https://open.spotify.com/album/0HEF2ivJVzvDrbJggVouGp) | 3:26 |
-| 80 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
-| 81 | [Say The Word](https://open.spotify.com/track/7IaENsQHPSGcY62vzbEtYj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Say The Word](https://open.spotify.com/album/2HSD32LyK8M3kfy7zk9uJo) | 3:36 |
-| 82 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
-| 83 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
-| 84 | [On the Road Again](https://open.spotify.com/track/4WIS8GNr1sapjzej8QfEya) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0) | [On the Road Again](https://open.spotify.com/album/5Z1hEaUny7IR1xDJmOuRVl) | 2:37 |
+| 77 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 |
+| 78 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate \- EP](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
+| 79 | [tu's für uns](https://open.spotify.com/track/2OsKP7N0KkRCyc2dkq3IrX) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [Ein Schritt mehr](https://open.spotify.com/album/2qAelcA0zeIW4nDQLy7wks) | 3:13 |
+| 80 | [Die A Million Times](https://open.spotify.com/track/13vBvwz8OIu1gbgKWFCsir) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Die A Million Times](https://open.spotify.com/album/0HEF2ivJVzvDrbJggVouGp) | 3:26 |
+| 81 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
+| 82 | [Say The Word](https://open.spotify.com/track/7IaENsQHPSGcY62vzbEtYj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Say The Word](https://open.spotify.com/album/2HSD32LyK8M3kfy7zk9uJo) | 3:36 |
+| 83 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
+| 84 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
+| 85 | [On the Road Again](https://open.spotify.com/track/4WIS8GNr1sapjzej8QfEya) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0) | [On the Road Again](https://open.spotify.com/album/5Z1hEaUny7IR1xDJmOuRVl) | 2:37 |
 
-Snapshot ID: `aC+eigAAAABtjbXinDlWoanKnRK4JCff`
+Snapshot ID: `aDA/rwAAAACT0byeVFUSACGX5u9gr82O`

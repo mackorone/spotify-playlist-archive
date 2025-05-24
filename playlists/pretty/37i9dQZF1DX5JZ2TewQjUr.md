@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Juniper Care
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Dessy
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,203 likes - 137 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,204 likes - 137 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 136 | [Streets of Helsinki](https://open.spotify.com/track/5Nuje8nvNyMTr1rV73ZmtY) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Streets of Helsinki](https://open.spotify.com/album/7wocbT7ZB498TXgICEPrjQ) | 4:01 |
 | 137 | [綠島炸雞脾 Green Island Fried Chicken Leg \- Live at NTK](https://open.spotify.com/track/165o8sxURI9AvNtW23WUUp) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [牛頭角現場 Live at Ngau Tau Kok](https://open.spotify.com/album/2jgYOrxoPHh668hMB41gup) | 5:16 |
 
-Snapshot ID: `aC9KGwAAAABXP62GgBeW/4lgMMk1RTNl`
+Snapshot ID: `aDBIoQAAAACj3BsKnRQmWCgS8rylLV9i`

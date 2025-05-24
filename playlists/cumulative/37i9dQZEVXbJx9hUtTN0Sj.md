@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-1,653 songs - 3 day 12 hr 17 min
+1,654 songs - 3 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,7 +974,7 @@
 | [midnight](https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE) | [midnight](https://open.spotify.com/album/776RB8H2PaZgnXia3cwumR) | 2:09 | 2024-10-08 | 2024-10-16 |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-25 | 2024-06-27 |
 | [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL) | 3:43 | 2025-01-26 | 2025-02-05 |
-| [Mila](https://open.spotify.com/track/4FsFaDcIS8O60UMpyMozDu) | [Princ](https://open.spotify.com/artist/6Jg7HD794xTjmqAkynWYQ5) | [Mila](https://open.spotify.com/album/2WYGopde4cCffJp3tJm6Kd) | 2:58 | 2025-05-22 |  |
+| [Mila](https://open.spotify.com/track/4FsFaDcIS8O60UMpyMozDu) | [Princ](https://open.spotify.com/artist/6Jg7HD794xTjmqAkynWYQ5) | [Mila](https://open.spotify.com/album/2WYGopde4cCffJp3tJm6Kd) | 2:58 | 2025-05-22 | 2025-05-24 |
 | [Milkshake Man](https://open.spotify.com/track/1kvxvVdeauiXc5ue0Z3HoS) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Milkshake Man](https://open.spotify.com/album/0IKAA7getrlwStxZ5MtXUt) | 2:52 | 2025-05-15 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-06 | 2024-06-19 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 | 2024-06-07 |
@@ -1615,6 +1615,7 @@
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-03-04 | 2025-03-19 |
 | [Wunderbar \- Live At ING Arena](https://open.spotify.com/track/0HWGDDSHCx5zLuIYqmCa0f) | [The Wunderbar Band](https://open.spotify.com/artist/5q2uCrbPBucBnTL3iiC4Ve) | [Wunderbar \(Live At ING Arena\)](https://open.spotify.com/album/5LPxejDxUaahxx4xSwhvOl) | 3:08 | 2024-06-18 | 2024-07-05 |
 | [WW3](https://open.spotify.com/track/1XMQl1X1rpfqdSAg0UJqTS) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [WW3](https://open.spotify.com/album/1swjwGPv1aHBed9jy9ASDk) | 1:43 | 2025-05-06 | 2025-05-23 |
+| [WW3](https://open.spotify.com/track/4uBbeKZTXNRRV4bMIcKx45) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [WW3](https://open.spotify.com/album/4mR2wE9umceVbQXeax2xvs) | 1:44 | 2025-05-23 |  |
 | [xénon](https://open.spotify.com/track/2QG8AhrFYWa0MrdJRLyPOf) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:57 | 2024-07-16 | 2024-07-18 |
 | [Y'a Plus d'Pardon \- Nouvelle École](https://open.spotify.com/track/1MD5FbaGD4UhdSrOdzgCFX) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn) | 2:20 | 2024-07-30 | 2024-08-01 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-06-25 | 2024-10-06 |

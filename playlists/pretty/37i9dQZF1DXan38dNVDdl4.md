@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,158 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,196 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GANGSTA](https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [MUSE](https://open.spotify.com/album/2ZpWc0l8um4MjOYt7eKx3D) | 2:36 |
-| 2 | [Anansi](https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Prove Them Wrong](https://open.spotify.com/album/4wq0ynVCbHno5QJFuAR1yZ) | 2:50 |
+| 2 | [Anansi](https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Prove Them Wrong](https://open.spotify.com/album/4wq0ynVCbHno5QJFuAR1yZ) | 2:49 |
 | 3 | [Join the Team](https://open.spotify.com/track/4gckH0KZGRLLFICovmrSIa) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Join the Team](https://open.spotify.com/album/6WAn5rV7h9OFCr5YpYoeGx) | 2:38 |
 | 4 | [Gorgeous](https://open.spotify.com/track/0QcTSw3i8w3KL3ls0QaQHy) | [Popeye Caution](https://open.spotify.com/artist/6c3XdLzp5XDjz3FVn4c3dZ), [Team DAMP](https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP) | [Gorgeous](https://open.spotify.com/album/3RfyH6dNvlEJGpByBj7uz9) | 2:14 |
 | 5 | [No Two Face](https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [No Two Face](https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo) | 3:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 69 | [Top Tier](https://open.spotify.com/track/6fn8eO4pon16p90bSE63yI) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Top Tier](https://open.spotify.com/album/2UIJE0D59c2RRPYRjpRf6G) | 3:13 |
 | 70 | [Nomad](https://open.spotify.com/track/1737ApFPMa1YLidEdJ7MwN) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [Nomad](https://open.spotify.com/album/1fx5uUwkU12T18vRMdiFKP) | 2:12 |
 
-Snapshot ID: `aC+sfgAAAADL8TgY4msNR9+9+QsXxBAi`
+Snapshot ID: `AAAAANgCb1xt31Dpa/4CbOoe2KfG9xvv`

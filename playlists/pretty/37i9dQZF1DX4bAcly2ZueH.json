@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 53296,
+  "num_followers": 53300,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 132274,
+      "name": "The Perks of Being a Wallflower",
+      "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
         "name": "Greens",
         "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 250212,
       "name": "Greens",
       "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 132274,
-      "name": "The Perks of Being a Wallflower",
-      "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 159009,
+      "name": "Stray Cat",
+      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
         "name": "Calm Current",
         "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 159009,
-      "name": "Stray Cat",
-      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
         "name": "Chroma Velocity",
         "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 154838,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
+      },
+      "artists": [
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 200489,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
-        "name": "Pockets",
-        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
-      },
-      "artists": [
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 200489,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
-        "name": "wave wave wave",
-        "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
-      },
-      "artists": [
-        {
-          "name": "sphontik",
-          "url": "https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq"
-        }
-      ],
-      "duration_ms": 294193,
-      "name": "The Next vacation",
-      "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
+        "name": "wave wave wave",
+        "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
+      },
+      "artists": [
+        {
+          "name": "sphontik",
+          "url": "https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq"
+        }
+      ],
+      "duration_ms": 294193,
+      "name": "The Next vacation",
+      "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -995,8 +995,8 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
         "name": "flowingtime",
         "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 272293,
       "name": "Colony",
       "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
         "name": "Dawn (Side-B)",
         "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
       },
@@ -1139,42 +1123,6 @@
       "duration_ms": 196875,
       "name": "Ghost Town - Side-B",
       "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        },
-        {
-          "name": "Sherry W",
-          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -1195,6 +1143,38 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy"
+      },
+      "artists": [
+        {
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 195164,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        },
+        {
+          "name": "Sherry W",
+          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
     },
     {
       "added_at": "2025-05-13 22:35:57",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-05-13 22:35:57",
       "album": {
-        "name": "fresh",
-        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
-      },
-      "artists": [
-        {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
-        }
-      ],
-      "duration_ms": 263341,
-      "name": "fresh",
-      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
-    },
-    {
-      "added_at": "2025-05-13 22:35:57",
-      "album": {
         "name": "Sushi In Tokyo",
         "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 211999,
       "name": "Sushi In Tokyo",
       "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
+    },
+    {
+      "added_at": "2025-05-13 22:35:57",
+      "album": {
+        "name": "fresh",
+        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
+      },
+      "artists": [
+        {
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+        }
+      ],
+      "duration_ms": 263341,
+      "name": "fresh",
+      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
     },
     {
       "added_at": "2025-05-13 22:35:57",

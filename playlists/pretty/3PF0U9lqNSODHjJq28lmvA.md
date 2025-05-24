@@ -4,24 +4,25 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,501 likes - 15 songs - 49 min 26 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,501 likes - 16 songs - 54 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dreams and Lies](https://open.spotify.com/track/0YXa28dkoWFRXmgB884W5U) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [DREAMS AND LIES](https://open.spotify.com/album/173jQdSWaFgG9d4LlsrFq8) | 3:50 |
-| 2 | [Cosmic Sailor](https://open.spotify.com/track/5WGTgsFcmQTY75mySI0JZd) | [Kal\-El](https://open.spotify.com/artist/0p0bJVJ56ozF6Ejhkdymcf) | [Astral Voyager, Vol\. 1](https://open.spotify.com/album/5Rgw9MVL0fEOiBfkHpU0N9) | 6:44 |
-| 3 | [Düşerken](https://open.spotify.com/track/3ZzW0EbBdNcsJrDQZmNlK3) | [noirdenoir](https://open.spotify.com/artist/0PsErwGSflABFYMGhUoAN1), [selen su durgun](https://open.spotify.com/artist/3YmTjEN3vEKt1oyruMTSMB) | [Düşerken](https://open.spotify.com/album/2HxAGPsC4gG3p4SDct23id) | 3:31 |
-| 4 | [Picking Pieces](https://open.spotify.com/track/6rSxkztK0DKRVwP13A5WBe) | [Wild Women Of Wongo](https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ) | [Picking Pieces](https://open.spotify.com/album/40vioHiHBrlEKOBLyxrjsc) | 4:03 |
-| 5 | [Dopamine Rush](https://open.spotify.com/track/1gP0GuFz5k07cWtNMwwIPa) | [GINAxC](https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ) | [Dopamine Rush](https://open.spotify.com/album/7zFejrSKMzbiNYCYSURhYI) | 2:38 |
-| 6 | [Mormors Sommarvisa](https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g) | [Rebi](https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH) | [Mormors Sommarvisa](https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ) | 2:23 |
-| 7 | [Flamingo](https://open.spotify.com/track/2SPSSatFvyE5KHsm63XVKq) | [Modern Mothers](https://open.spotify.com/artist/2LC7vrLgtFBCsgGDMyjEc5) | [Soap](https://open.spotify.com/album/4dMp6uoRFsj0oGipbZn96o) | 1:54 |
-| 8 | [Äitini](https://open.spotify.com/track/44fg7TECymqOmS93hnseo8) | [V.A\. Virtanen](https://open.spotify.com/artist/20HJjtdd3ZID9fydYiQlIB) | [Äitini](https://open.spotify.com/album/2tS00sypasiZiw4nQqIZmd) | 3:54 |
-| 9 | [Notre maison](https://open.spotify.com/track/61BgX9bPlnNcsn1wfciK5Y) | [Robert Tessier](https://open.spotify.com/artist/3zwPfTosf5l902HS2rxOiw) | [Notre maison](https://open.spotify.com/album/2n6Fyj8aTFyMWM2yxo8vkc) | 2:19 |
-| 10 | [Beneath the Weight of Silence](https://open.spotify.com/track/1y5wTfD88FXVIzIiKBFAId) | [Unseen Anima](https://open.spotify.com/artist/2fG8bbN0LCqkAa9hjpTHvD) | [Beneath the Weight of Silence](https://open.spotify.com/album/5o8xolVCcmkiuSsDFFUf3l) | 3:17 |
-| 11 | [Loving You](https://open.spotify.com/track/2n0mQ4I2ToLn1G5KVLyDKw) | [Nzuri Soul](https://open.spotify.com/artist/5l45C2Uh7oEvXto7rnSgos) | [Loving You](https://open.spotify.com/album/5inIqvdKAg3IVl0Z9CBugf) | 3:20 |
-| 12 | [Du spökar för mig](https://open.spotify.com/track/1MFW5wVToSMr21sbOsiUdV) | [Jonas Tilly](https://open.spotify.com/artist/4Xb58LELv57OvVpO0b04Pm), [Sara Pennerborn](https://open.spotify.com/artist/6llUR75zcJBHCDQHFsWDfu) | [Du spökar för mig](https://open.spotify.com/album/4kWVTvCEetdsHtUHh3j0Ac) | 2:27 |
-| 13 | [Ma bohème](https://open.spotify.com/track/25IhlVJRczZtSRK8pbKfhY) | [Robert Tessier](https://open.spotify.com/artist/3zwPfTosf5l902HS2rxOiw) | [Ma bohème](https://open.spotify.com/album/3Dqrxvukq4AI6LLpfBhYe3) | 1:49 |
-| 14 | [Sergels torg](https://open.spotify.com/track/5CxtqnqObj6uXdOcz62PlU) | [Tbaxtstan](https://open.spotify.com/artist/0HhFOkZCQMSTdUJ17hy4pm), [Wille Crafoord](https://open.spotify.com/artist/5c6gSK67nlUmsWBjCY8u7B), [Anna Rella](https://open.spotify.com/artist/2NMbITTdD9jOtcfRl1ZHfv) | [City](https://open.spotify.com/album/5F3q5q1O2p7jSsFkW4oxJx) | 3:48 |
-| 15 | [Extra mile](https://open.spotify.com/track/2HQmUY6X6Z5T7Hl9TIcUY6) | [Sima na Zemi](https://open.spotify.com/artist/3eB6d8WOVsTPqZlCzYz8nn) | [Extra mile](https://open.spotify.com/album/4U2x0I2AvtQB7cOyd9ecEZ) | 3:22 |
+| 1 | [Soulmate](https://open.spotify.com/track/37RwpBlgV6lbrbZUvywOwZ) | [Rachid Kasmi](https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut) | [Soulmate](https://open.spotify.com/album/6YHlx3fvi7wCXrpzQx862c) | 3:30 |
+| 2 | [Plagiera](https://open.spotify.com/track/2z7fYtIWvWW2Ib7e1ViSOq) | [Blondini](https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK), [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF), [Gasmus](https://open.spotify.com/artist/5ZoKlfcVlK5XjvgQ9upcn5) | [Plagiera](https://open.spotify.com/album/4l9hZexUPm7DXzuhvGv4Ro) | 1:42 |
+| 3 | [when the time feels right](https://open.spotify.com/track/0TUHBBb4FyqLQuSFU0JAK2) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf) | [when the time feels right](https://open.spotify.com/album/4PU5vigCnheFIr4LO1dFQj) | 2:03 |
+| 4 | [Light As A Feather](https://open.spotify.com/track/5ks67flF3YxjY9in9vWbzg) | [Planet Boelex](https://open.spotify.com/artist/608KQSfwArpLzk9jFzfjeg), [Rumirr](https://open.spotify.com/artist/3u2UkrtOieDcDWxLsGUz2l) | [Light As A Feather](https://open.spotify.com/album/1sJ43ULVK5XmY3rxncSDlJ) | 4:33 |
+| 5 | [The Rot Beneath](https://open.spotify.com/track/0YmfIbsibGgF6oTTMuHazx) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [The Rot Beneath](https://open.spotify.com/album/3iYVPlT4fLlfglFs6zu3G4) | 3:26 |
+| 6 | [Yellow Fleet](https://open.spotify.com/track/6v95zFv05J75HA2UvIiBrF) | [The Night Parrots](https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo), [Ella Hooper](https://open.spotify.com/artist/0Fkkpc8GhsqoaSNoWC8XWc) | [Yellow Fleet](https://open.spotify.com/album/4n9hLdevsaey8rFSkcVFYu) | 4:04 |
+| 7 | [Sorg och saknad](https://open.spotify.com/track/6iMj4Bt98IMojpCYoYXvrf) | [Valentina Orioli](https://open.spotify.com/artist/5ggane1JKezyai0SK21HPm) | [Sorg och saknad](https://open.spotify.com/album/7G3ydMQI5s4n6jdlTrm3iT) | 4:12 |
+| 8 | [Maybe It's Time](https://open.spotify.com/track/0W8zQQJb8i7EZ6HUlJ9qlv) | [Oliver Bentley](https://open.spotify.com/artist/7pHfsCiXrweMrhWcW3jxoM) | [Maybe It's Time](https://open.spotify.com/album/5UcGWbRSw4nh3WMhlHzf9u) | 3:27 |
+| 9 | [Choke On Me](https://open.spotify.com/track/4bDNHYtaBUguuiAM2BT21p) | [DARLA](https://open.spotify.com/artist/1NVyF5orXTXOXkOJDE5VPi) | [Make it hot](https://open.spotify.com/album/0UEeaA04Cdk5TuankmVBBL) | 2:43 |
+| 10 | [Tallgrass](https://open.spotify.com/track/46ZOvmOTk8isRmvHW6JAmU) | [Beth Watts Nelson](https://open.spotify.com/artist/4BXyJ3PYN5qcZPKnVx0idg), [Betse Ellis](https://open.spotify.com/artist/6bi2p6CFT1Lz2dTDyCP9QG) | [Tallgrass](https://open.spotify.com/album/7J88A0yEePEFqTaTcWuibu) | 3:56 |
+| 11 | [Devilclaimed](https://open.spotify.com/track/0GrlYXEDtQhu8HaovAAWT5) | [Tryin' Within](https://open.spotify.com/artist/7EjB3LoSndwIDrVYzAttUE) | [Devilclaimed](https://open.spotify.com/album/53Mfr9rDC6hGG2pn3qgMWL) | 4:15 |
+| 12 | [skindeep](https://open.spotify.com/track/2yjQy9NgC3L8lduARFB9lt) | [D\. Inver](https://open.spotify.com/artist/1tXn1rBYhxJNuMFUw5Aq61) | [skindeep](https://open.spotify.com/album/7zvHAly1LXVaPd2gXx7P30) | 3:14 |
+| 13 | [Raha Pilas Rakkauden](https://open.spotify.com/track/0HlDYSRea7VLCXc2X5Zvi9) | [Antique](https://open.spotify.com/artist/7zeop1CZx7LkEKTrhiEVjY) | [Raha Pilas Rakkauden](https://open.spotify.com/album/1BpDmsvmi6QBQDHcoxlqiA) | 2:37 |
+| 14 | [Tusen Versioner Om](https://open.spotify.com/track/3UQAcHM5qEnxQ8LQPDzTGG) | [Tracy Irve](https://open.spotify.com/artist/47eYIpNYpouTNbJnYz7cdb) | [Tusen Versioner Om](https://open.spotify.com/album/7ov9oel5hsuGtXABowYtWv) | 3:08 |
+| 15 | [Extrapris](https://open.spotify.com/track/6LQ0KHtHGap2TCVYAqDbXh) | [Aldri Strax](https://open.spotify.com/artist/44lf9AuvGc99uQqP7Kilmg) | [Extrapris](https://open.spotify.com/album/1uFu8YuSsPfhln4Qo0PUFn) | 3:44 |
+| 16 | [Rebound](https://open.spotify.com/track/1sio2eKLApecN82tz57xVa) | [Too Hard To Spell](https://open.spotify.com/artist/2EQcck7DUz4tBSp2zRKC55), [Impulse Live](https://open.spotify.com/artist/3ya89iitoloda0ReL0JLSM) | [Rebound](https://open.spotify.com/album/1IdMG51AErkDEN44mjnWVy) | 3:38 |
 
-Snapshot ID: `AAAEJtSa3/hapBDd4S35Eal2tiKpYle+`
+Snapshot ID: `AAAEKKfLqT7lfBcB1x3tyVpTTL7TqAWX`

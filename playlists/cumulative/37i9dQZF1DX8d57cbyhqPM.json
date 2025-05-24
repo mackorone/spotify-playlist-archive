@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tantine Theodora et Tonton Guy2Bezbar",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tantine Maud Elka",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 196487,
       "name": "ANTIDOTE",
       "url": "https://open.spotify.com/track/3t8cRI6x5jScNQvilkDbxe"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 168533,
       "name": "B\u00e9b\u00e9 \u00e0 moi",
       "url": "https://open.spotify.com/track/3gLPLk6G3Rl4jP3qWWPyBw"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 144933,
       "name": "Chouchou des nanas",
       "url": "https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 221538,
       "name": "COD 243",
       "url": "https://open.spotify.com/track/2v7hXvFFBEchqjSnMhmYbZ"
@@ -4367,6 +4367,24 @@
     },
     {
       "album": {
+        "name": "GUITAR",
+        "url": "https://open.spotify.com/album/7HbZtnf9Ldb8j5haNiB2CL"
+      },
+      "artists": [
+        {
+          "name": "Rebo",
+          "url": "https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144633,
+      "name": "GUITAR",
+      "url": "https://open.spotify.com/track/2LHZVmVg43DuSfhAgxBeYr"
+    },
+    {
+      "album": {
         "name": "Malewa EP",
         "url": "https://open.spotify.com/album/39cO3QGPQ3kk3Z183iQDyB"
       },
@@ -4476,6 +4494,24 @@
       "duration_ms": 212240,
       "name": "Hypnosia",
       "url": "https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2"
+    },
+    {
+      "album": {
+        "name": "I Feel So Bad",
+        "url": "https://open.spotify.com/album/1lWVSmqMzZ7ADV8vMfVDXK"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120531,
+      "name": "I Feel So Bad",
+      "url": "https://open.spotify.com/track/0qNgxeW3EHbX5XjkBS4Dlh"
     },
     {
       "album": {
@@ -7350,7 +7386,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 226000,
       "name": "Musala",
       "url": "https://open.spotify.com/track/7G0QlVNlwXzh6IQkqXadxK"
@@ -7736,6 +7772,24 @@
       "duration_ms": 182142,
       "name": "Nalingi ye",
       "url": "https://open.spotify.com/track/5mEnRGML6tztiuKBigJIQQ"
+    },
+    {
+      "album": {
+        "name": "99 PBLM",
+        "url": "https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Nanani",
+      "url": "https://open.spotify.com/track/12ETuEC0kPFjRuQokNZRjr"
     },
     {
       "album": {
@@ -9665,6 +9719,24 @@
     },
     {
       "album": {
+        "name": "SANGOTE",
+        "url": "https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133358,
+      "name": "SANGOTE",
+      "url": "https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU"
+    },
+    {
+      "album": {
         "name": "Sans nouvelle",
         "url": "https://open.spotify.com/album/6B5ks4O0TDE0LP8PBBilhM"
       },
@@ -11132,7 +11204,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 146415,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/5z2iAmCpMK6M2btCov6Hv5"
@@ -11402,6 +11474,24 @@
       "duration_ms": 409426,
       "name": "Wake up",
       "url": "https://open.spotify.com/track/4qRgqWuM5PNKiuD7x3UPP9"
+    },
+    {
+      "album": {
+        "name": "Walou",
+        "url": "https://open.spotify.com/album/5m0J6I9LHquC6zJJ4hxOBf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mundos",
+          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Walou",
+      "url": "https://open.spotify.com/track/6UdrVmF6zi8Vw342UWAypc"
     },
     {
       "album": {

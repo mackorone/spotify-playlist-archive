@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Dionela
 
-1,229 songs - 2 day 17 hr 52 min
+1,230 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Ease Please](https://open.spotify.com/track/0QtEkXkGsfRaMMQB5it2bI) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr) | [Ease Please](https://open.spotify.com/album/2PetprK6lczKoyVcSTEUVf) | 3:47 | 2025-05-08 |  |
 | [Easier Said Than Done](https://open.spotify.com/track/0oXFLnwbzNeViKckJTz0yG) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Sol Speak](https://open.spotify.com/album/1c5PLt7DxUG8v0f0KCY4j2) | 2:42 | 2024-11-21 | 2024-12-05 |
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 | 2024-12-05 |
+| [Easy \(feat\. Justin Vasquez\)](https://open.spotify.com/track/0KiYhC8ZFrA8UwbUDdlqhe) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy \(feat\. Justin Vasquez\)](https://open.spotify.com/album/3hQ2DM2aDSv6J60OBKvCc2) | 2:36 | 2025-05-22 |  |
 | [easy on me](https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [easy on me](https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P) | 2:36 | 2024-06-20 | 2024-06-28 |
 | [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 | 2024-03-15 | 2024-04-19 |
 | [Ecstasy](https://open.spotify.com/track/6gP8rtbgAweJelfHeGDCzC) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ecstasy](https://open.spotify.com/album/3rSea0lGP2kHDrGt7jJGeb) | 3:59 | 2025-04-03 |  |

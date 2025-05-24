@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Hyrul Anuar
 
-697 songs - 1 day 13 hr 52 min
+698 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Dyin’ To Know](https://open.spotify.com/track/2pOz4brROgNTWvb33sigQk) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Dyin’ To Know](https://open.spotify.com/album/5yoPD3c3dHCIJH7QZ1JdpO) | 3:00 | 2024-07-04 | 2024-08-23 |
 | [Ease My Mind](https://open.spotify.com/track/1vp9YXRWJ6PDuKAAQF0dJ1) | [nic.zj](https://open.spotify.com/artist/1wUTMd52qXoDPjRaccy956), [Mud B](https://open.spotify.com/artist/26PTth0r70W0SAdyT47tPr) | [Ease My Mind](https://open.spotify.com/album/0KT2inE8v7Xc7Lr8NTwGWb) | 2:33 | 2024-10-17 | 2024-12-20 |
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 | 2024-09-27 |
+| [Easy \(feat\. Justin Vasquez\)](https://open.spotify.com/track/0KiYhC8ZFrA8UwbUDdlqhe) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy \(feat\. Justin Vasquez\)](https://open.spotify.com/album/3hQ2DM2aDSv6J60OBKvCc2) | 2:36 | 2025-05-22 |  |
 | [easy on me](https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [easy on me](https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P) | 2:36 | 2024-06-27 | 2024-08-23 |
 | [EGO](https://open.spotify.com/track/7bJkwDaA1mgNSw5c9M8OBA) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [EGO](https://open.spotify.com/album/704VFBPBP16GRYR0hUo7QQ) | 2:56 | 2025-02-20 | 2025-03-14 |
 | [eko \- Edit](https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [eko](https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB) | 2:01 | 2024-10-24 | 2024-11-22 |

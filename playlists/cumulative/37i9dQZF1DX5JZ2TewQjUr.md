@@ -2,7 +2,7 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Juniper Care
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Dessy
 
 1,424 songs - 3 day 8 hr 20 min
 

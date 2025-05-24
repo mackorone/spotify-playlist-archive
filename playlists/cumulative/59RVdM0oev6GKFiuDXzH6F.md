@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-976 songs - 2 day 1 hr 56 min
+977 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [DJ Do Baile](https://open.spotify.com/track/3XBzkhOKknT5ZNRckkd7Ss) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [DJ Do Baile](https://open.spotify.com/album/4QOWUDSQxL5eNxVLjXQTcf) | 3:19 | 2024-03-22 | 2024-04-13 |
 | [DM ME](https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [DM ME](https://open.spotify.com/album/3t0XeuHfiDfeRJD0enq96J) | 3:03 | 2023-02-12 | 2023-04-13 |
 | [DNA](https://open.spotify.com/track/3cdiWEkjSETOZDH8nLyz56) | [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [DNA](https://open.spotify.com/album/4ZS1pm9b1u7KD3x7ST4KQl) | 2:02 | 2023-11-24 | 2024-09-26 |
+| [Do it](https://open.spotify.com/track/0cY0IP2Rg4SZ54VLpPjzaJ) | [aloïs](https://open.spotify.com/artist/5Vnow0jqRh5mcUrMgF48W2) | [Do it & Rio](https://open.spotify.com/album/4LwwYgZK1GOfS9cWja9pq9) | 3:01 | 2025-05-23 |  |
 | [Do It All Again](https://open.spotify.com/track/1bcM9x7FX0aiayjtd1ZNuW) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J), [DJ BIG S](https://open.spotify.com/artist/516QrqBwm3soALhns5ACzA) | [Do It All Again](https://open.spotify.com/album/0CwJK5uOYwpyQyLN4f2jSQ) | 2:55 | 2024-06-11 | 2024-11-30 |
 | [Do My Thing](https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Do My Thing](https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu) | 3:02 | 2023-06-08 | 2023-12-23 |
 | [Do That](https://open.spotify.com/track/6vyX0H6mDJe31tVwZGTCnx) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Do That EP](https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa) | 3:48 | 2023-11-10 | 2024-10-11 |

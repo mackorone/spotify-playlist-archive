@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 144859,
+  "num_followers": 144895,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAAWIRene2Dezi1ebybmrI7h",
+  "snapshot_id": "aC5pAAAAAACTrZtTsScVXcScfbhnPKwY",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
+        "name": "ex:el",
+        "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
         },
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 305703,
-      "name": "Blissing Me",
-      "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
+      "duration_ms": 282013,
+      "name": "Ooops",
+      "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
     },
     {
       "added_at": null,
@@ -639,22 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ex:el",
-        "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
       },
       "artists": [
         {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        },
-        {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 282013,
-      "name": "Ooops",
-      "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
+      "duration_ms": 305703,
+      "name": "Blissing Me",
+      "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
     },
     {
       "added_at": null,

@@ -5183,6 +5183,28 @@
     },
     {
       "album": {
+        "name": "BARS ARE BACK",
+        "url": "https://open.spotify.com/album/0PUR4yyQSOtWW3drzdowMB"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "BARS ARE BACK",
+      "url": "https://open.spotify.com/track/2S4GtshD15cdkk8I1ATdvr"
+    },
+    {
+      "album": {
         "name": "BAZOOKA",
         "url": "https://open.spotify.com/album/7lxWnG62anTfNOoymSEV8Q"
       },
@@ -10733,6 +10755,32 @@
     },
     {
       "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/3ewGPSyvNZHU9kJ7AlFOPH"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/095VyfEHgTs1haFo8MOmUl"
+    },
+    {
+      "album": {
         "name": "Ta Lathos Paidia",
         "url": "https://open.spotify.com/album/2MsnFonVS6PjQaPJ0M57BQ"
       },
@@ -14862,6 +14910,14 @@
         {
           "name": "SIDARTA",
           "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
         }
       ],
       "date_added": "2025-05-10",
@@ -16004,7 +16060,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 292974,
       "name": "GELATO",
       "url": "https://open.spotify.com/track/1f5wcNzZI7sTFIh0oVQgA6"
@@ -16626,7 +16682,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "Gin & Bacardi",
       "url": "https://open.spotify.com/track/4oYPHy1EczEgWyvPygZ1fI"
@@ -23632,7 +23688,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 175853,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
@@ -24732,7 +24788,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 172500,
       "name": "MA BELLA",
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
@@ -33548,7 +33604,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 224266,
       "name": "POLO",
       "url": "https://open.spotify.com/track/10x7Sh6P5z4JH1NYVskZmF"
@@ -40800,7 +40856,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 303333,
       "name": "THE DEAL",
       "url": "https://open.spotify.com/track/28ooJkbDOGToXhO1NRoBhQ"

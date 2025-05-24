@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1028915,
+  "num_followers": 1029208,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAADTF6A6kDzAD2UNcLN6BY1H",
+  "snapshot_id": "aC5pAAAAAACvRxqTKpaRDVpE3prZMd8d",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te quiero, te amo",
         "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
       },
@@ -407,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "Volver\u00e1",
+        "url": "https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr"
       },
       "artists": [
         {
@@ -416,9 +432,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 172546,
-      "name": "Sin Explicaciones",
-      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+      "duration_ms": 172600,
+      "name": "Volver\u00e1",
+      "url": "https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC"
     },
     {
       "added_at": null,
@@ -439,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e1",
-        "url": "https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Volver\u00e1",
-      "url": "https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "Todo O Nada",
-      "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 157695,
       "name": "As\u00ed las Cosas",
       "url": "https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "Todo O Nada",
+      "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginaci\u00f3n",
-        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Imaginaci\u00f3n",
-      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 3)",
         "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 201409,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginaci\u00f3n",
+        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Imaginaci\u00f3n",
+      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
     },
     {
       "added_at": null,

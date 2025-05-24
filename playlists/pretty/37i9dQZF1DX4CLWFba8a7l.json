@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Vv Pete",
-  "num_followers": 128177,
+  "num_followers": 128514,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -317,20 +317,20 @@
       "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
+      "added_at": "2025-05-15 14:00:27",
       "album": {
-        "name": "Don't Forget You Love Me",
-        "url": "https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1"
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c"
       },
       "artists": [
         {
-          "name": "Calum Hood",
-          "url": "https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3"
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Don't Forget You Love Me",
-      "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
+      "duration_ms": 147692,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -349,52 +349,20 @@
       "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
     },
     {
-      "added_at": "2025-05-15 14:00:27",
+      "added_at": "2025-04-10 14:00:36",
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c"
+        "name": "Don't Forget You Love Me",
+        "url": "https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1"
       },
       "artists": [
         {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+          "name": "Calum Hood",
+          "url": "https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Sleepless Nights",
-      "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
-    },
-    {
-      "added_at": "2025-04-17 14:00:17",
-      "album": {
-        "name": "Deadstick",
-        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 213575,
-      "name": "Deadstick",
-      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+      "duration_ms": 217400,
+      "name": "Don't Forget You Love Me",
+      "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
     },
     {
       "added_at": "2025-05-01 14:00:27",
@@ -415,6 +383,38 @@
       "duration_ms": 194265,
       "name": "She's All Time - feat. Nina Nesbitt",
       "url": "https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-04-17 14:00:17",
+      "album": {
+        "name": "Deadstick",
+        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "Deadstick",
+      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -485,6 +485,38 @@
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
+    },
+    {
       "added_at": "2025-05-15 14:00:27",
       "album": {
         "name": "Grow Wings and Fly",
@@ -503,22 +535,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "cool",
         "url": "https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 163533,
       "name": "cool",
       "url": "https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS"
-    },
-    {
-      "added_at": "2025-05-08 14:00:23",
-      "album": {
-        "name": "If That Makes Sense",
-        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Whateverrrr",
-      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU"
     },
     {
-      "added_at": "2025-04-24 14:00:12",
-      "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
-    },
-    {
       "added_at": "2025-05-08 14:00:23",
       "album": {
         "name": "WHATEVERWHATEVER",
@@ -611,6 +595,22 @@
       "duration_ms": 148140,
       "name": "WHATEVERWHATEVER",
       "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
+    },
+    {
+      "added_at": "2025-04-24 14:00:12",
+      "album": {
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D"
     },
     {
+      "added_at": "2025-05-15 14:00:27",
+      "album": {
+        "name": "Disco Cowgirl",
+        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 205156,
+      "name": "Disco Cowgirl",
+      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
+    },
+    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "New Love",
@@ -735,18 +751,18 @@
     {
       "added_at": "2025-05-15 14:00:27",
       "album": {
-        "name": "Disco Cowgirl",
-        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
+        "name": "Luxford",
+        "url": "https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx"
       },
       "artists": [
         {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
         }
       ],
-      "duration_ms": 205156,
-      "name": "Disco Cowgirl",
-      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
+      "duration_ms": 207015,
+      "name": "Luxford",
+      "url": "https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -763,22 +779,6 @@
       "duration_ms": 260000,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
-    },
-    {
-      "added_at": "2025-04-10 14:00:36",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo"
-      },
-      "artists": [
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 185247,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+        "name": "Spend My Nights",
+        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 206571,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+      "duration_ms": 150250,
+      "name": "Spend My Nights",
+      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
     },
     {
       "added_at": "2025-05-08 14:00:23",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Spend My Nights",
-        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
       "artists": [
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 150250,
-      "name": "Spend My Nights",
-      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -883,22 +883,6 @@
       "duration_ms": 256381,
       "name": "The Feeling You Get",
       "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
-    },
-    {
-      "added_at": "2025-05-15 14:00:27",
-      "album": {
-        "name": "Luxford",
-        "url": "https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx"
-      },
-      "artists": [
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 207015,
-      "name": "Luxford",
-      "url": "https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -919,22 +903,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "All I Am",
-        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "All I Am",
-      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "No One Does It Like",
         "url": "https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 186400,
       "name": "No One Does It Like",
       "url": "https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t"
+    },
+    {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 185247,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "All I Am",
+        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
     },
     {
+      "added_at": "2025-05-15 14:00:27",
+      "album": {
+        "name": "Cathode Ray",
+        "url": "https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 249609,
+      "name": "Cathode Ray",
+      "url": "https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ"
+    },
+    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "No Cure For Love",
@@ -1113,22 +1129,6 @@
       "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
     },
     {
-      "added_at": "2025-05-15 14:00:27",
-      "album": {
-        "name": "Cathode Ray",
-        "url": "https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 249609,
-      "name": "Cathode Ray",
-      "url": "https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ"
-    },
-    {
       "added_at": "2025-04-10 14:00:36",
       "album": {
         "name": "waltz",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE"
     },
     {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Old Mervs",
-        "url": "https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g"
-      },
-      "artists": [
-        {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
-        }
-      ],
-      "duration_ms": 161511,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
-    },
-    {
       "added_at": "2025-05-08 14:00:23",
       "album": {
         "name": "Sunrise",
@@ -1175,6 +1159,22 @@
       "duration_ms": 328655,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Old Mervs",
+        "url": "https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 161511,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "How to Kill Houseplants",
-        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
+        "name": "Slipper imp and shakaerator",
+        "url": "https://open.spotify.com/album/2SArL4pMzLcKjHP4S7QWHV"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 208797,
-      "name": "How to Kill Houseplants",
-      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
+      "duration_ms": 271497,
+      "name": "What is ashwagandha",
+      "url": "https://open.spotify.com/track/59abjui3aifvPewKh2siLY"
     }
   ],
   "unique_name": "Turn Up Aus",

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2025 (previous playlists archived on my profile)",
-  "num_followers": 23040,
+  "num_followers": 23042,
   "original_name": "friends and strangers",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMdoD3SXpZDHxfAqMzKtbNBDNO6eDw",
+  "snapshot_id": "AAAMe6GAgiOWn3LstblLf3k5M0NXrkQm",
   "tracks": [
     {
       "added_at": "2025-05-08 16:19:05",
@@ -419,6 +419,54 @@
       "duration_ms": 381560,
       "name": "Tomorrow is Perfect",
       "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
+    },
+    {
+      "added_at": "2025-05-23 14:34:45",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J"
+      },
+      "artists": [
+        {
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Life & Soul",
+      "url": "https://open.spotify.com/track/06bQjjfW8ajdj6hTRcdbvk"
+    },
+    {
+      "added_at": "2025-05-23 21:04:08",
+      "album": {
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 160452,
+      "name": "Feisty",
+      "url": "https://open.spotify.com/track/5b3yINi6jbTdURfGU4nKoC"
+    },
+    {
+      "added_at": "2025-05-23 20:51:12",
+      "album": {
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 195312,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/7ljOUUgZGtG5euoSjAwBKU"
     }
   ],
   "unique_name": "friends and strangers",

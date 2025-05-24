@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lila\-May
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,674 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,682 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Jeux de chats au jardin](https://open.spotify.com/track/0nQR6gak5pdH9mhOx7lxKR) | [Armel Dupas](https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l) | [Jeux de chats au jardin](https://open.spotify.com/album/1dJGDHwcSarb6FAzI4gPSm) | 2:44 |
 | 50 | [Dinorah Dinorah](https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Dinorah Dinorah](https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W) | 4:37 |
 
-Snapshot ID: `aC+edQAAAACUBJ0j/tkpFteZjDuOBqMF`
+Snapshot ID: `aC+edQAAAAAG2rSjn6V526g6/wqrXBZ7`

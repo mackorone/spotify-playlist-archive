@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "<a href=\"spotify:artist:12LgviUQ9DbfYJJ9niDWRq\">Walter Trout</a> is taking over to share his blues favorites",
-  "name": "In the Name of the Blues: Walter Trout Takeover",
+  "description": "<a href=\"spotify:artist:1aTDTChWWyiJH3SEnYrdVp\">Taj Mahal</a> and <a href=\"spotify:artist:6iDaoPZVgxrTkndDCisX8F\">Keb' Mo'</a> are taking over to share their blues favorites",
+  "name": "In the Name of the Blues: Taj Mahal & Keb' Mo' Takeover",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 164080,
       "name": "421 South Main",
       "url": "https://open.spotify.com/track/4Pu2Es4ayOB4VneMuhUsOe"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 383200,
       "name": "A Man And The Blues",
       "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
@@ -92,6 +92,28 @@
       "duration_ms": 181093,
       "name": "Ain\u2019t Killed Me Yet",
       "url": "https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3"
+    },
+    {
+      "album": {
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "All Around The World",
+      "url": "https://open.spotify.com/track/6ZeSrUdJ9sqZI3Qs5dftoc"
     },
     {
       "album": {
@@ -124,7 +146,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 391306,
       "name": "All Out Of Tears",
       "url": "https://open.spotify.com/track/1XaT6J8S7NxuqowON5gDNv"
@@ -160,7 +182,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 337520,
       "name": "Almost Gone",
       "url": "https://open.spotify.com/track/6Yn5fMEVs0hhtzBEZsvyUM"
@@ -288,6 +310,24 @@
       "duration_ms": 233960,
       "name": "Baby's Got Sauce",
       "url": "https://open.spotify.com/track/7MXK7DwU1DpGFTA31AZW6S"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
       "album": {
@@ -436,6 +476,32 @@
       "duration_ms": 207533,
       "name": "Best Of Times",
       "url": "https://open.spotify.com/track/4rEw9u3pxZtRvihzz6E1y3"
+    },
+    {
+      "album": {
+        "name": "Room On The Porch",
+        "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Wendy Moten",
+          "url": "https://open.spotify.com/artist/6X0dG1JElAP4z0ardgJGjY"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303765,
+      "name": "Better Than Ever [Feat. Wendy Moten]",
+      "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
     },
     {
       "album": {
@@ -619,6 +685,24 @@
     },
     {
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "Blues With A Feeling",
+      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
+    },
+    {
+      "album": {
         "name": "The Paul Butterfield Blues Band",
         "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
@@ -630,7 +714,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 188866,
       "name": "Born in Chicago",
       "url": "https://open.spotify.com/track/0dvPuXBdAudLyBnCmYYu68"
@@ -688,7 +772,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 290007,
       "name": "Broken",
       "url": "https://open.spotify.com/track/3dhamjUEZo7psHbg8w4pRJ"
@@ -706,7 +790,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 384800,
       "name": "Brush with the Blues",
       "url": "https://open.spotify.com/track/5MsvQCtWYbA16F5OFIX1AY"
@@ -724,7 +808,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 319253,
       "name": "Bulletproof - Tangle Eye Mix",
       "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
@@ -1064,7 +1148,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 198560,
       "name": "Dark Was the Night, Cold Was the Ground",
       "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
@@ -1086,6 +1170,24 @@
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
+    },
+    {
+      "album": {
+        "name": "Father Of The Delta Blues: The Complete 1965 Sessions",
+        "url": "https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259160,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk"
     },
     {
       "album": {
@@ -1176,7 +1278,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 203200,
       "name": "Dirt On My Diamonds",
       "url": "https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO"
@@ -1201,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268346,
+      "name": "Diving Duck Blues",
+      "url": "https://open.spotify.com/track/53pwDJrjKebdQdPKoluuQz"
+    },
+    {
+      "album": {
         "name": "We're All In This Together",
         "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
       },
@@ -1216,7 +1340,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 262693,
       "name": "Do You Still See Me At All",
       "url": "https://open.spotify.com/track/6ogTXpbWZAHqKjxs6akFs8"
@@ -1238,6 +1362,28 @@
       "duration_ms": 176333,
       "name": "Don't Go No Farther - Single Version",
       "url": "https://open.spotify.com/track/2uN2QIBpyfP88G8Y1gtkgY"
+    },
+    {
+      "album": {
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301373,
+      "name": "Don't Leave Me Here",
+      "url": "https://open.spotify.com/track/6YYGRnnA5b9H2WP130ITPd"
     },
     {
       "album": {
@@ -1455,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+    },
+    {
+      "album": {
         "name": "A Nickel And A Nail And Ace Of Spades",
         "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
       },
@@ -1650,7 +1814,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 242258,
       "name": "Falls Apart",
       "url": "https://open.spotify.com/track/6pRzBtnH4R3SwKyQVPMhlz"
@@ -1806,6 +1970,24 @@
       "duration_ms": 239106,
       "name": "Fragile Peace And Certain War",
       "url": "https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM"
+    },
+    {
+      "album": {
+        "name": "Music Fuh Ya' (Musica Para Tu)",
+        "url": "https://open.spotify.com/album/5WpJGo7sLd1zGx4CjWSQ71"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286333,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/53oVXPr7TTjvrAq2xQ5zqr"
     },
     {
       "album": {
@@ -1975,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Good Morning Schoolgirl",
+      "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
+    },
+    {
+      "album": {
         "name": "Bob Dylan",
         "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
       },
@@ -2130,7 +2334,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 192626,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/6U7gN4xpuuNFKJhE0WImuw"
@@ -2233,6 +2437,42 @@
     },
     {
       "album": {
+        "name": "Leaps And Bounds",
+        "url": "https://open.spotify.com/album/7BPFyFzT4e9dxYFQ1QRo6n"
+      },
+      "artists": [
+        {
+          "name": "Bill Doggett",
+          "url": "https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Honky Tonk Pt 2",
+      "url": "https://open.spotify.com/track/0glCNGEoJQKfNS96TgW9oJ"
+    },
+    {
+      "album": {
+        "name": "Leaps And Bounds",
+        "url": "https://open.spotify.com/album/7BPFyFzT4e9dxYFQ1QRo6n"
+      },
+      "artists": [
+        {
+          "name": "Bill Doggett",
+          "url": "https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193293,
+      "name": "Honky Tonk Pt. 1",
+      "url": "https://open.spotify.com/track/17vPHgh4mReVZZNKEoTqmB"
+    },
+    {
+      "album": {
         "name": "Blues Deluxe Vol. 2",
         "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
       },
@@ -2284,6 +2524,42 @@
       "duration_ms": 218357,
       "name": "How to Love",
       "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Howlin' For My Darlin'",
+      "url": "https://open.spotify.com/track/4LYZ56NfIsuIizQewrfEr9"
+    },
+    {
+      "album": {
+        "name": "Blues Jam in Chicago, Vol. 2",
+        "url": "https://open.spotify.com/album/0wLDpHkO9TN4SPeysHnajk"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346426,
+      "name": "Hungry Country Girl",
+      "url": "https://open.spotify.com/track/3kBTC2FUe4Wd5oMj3NlwNn"
     },
     {
       "album": {
@@ -2550,7 +2826,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 252493,
       "name": "I Want To Shout About It",
       "url": "https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS"
@@ -2764,6 +3040,24 @@
       "duration_ms": 305773,
       "name": "I've Got To Use My Imagination",
       "url": "https://open.spotify.com/track/0qpdB0frb5EGZsH4ShNCIu"
+    },
+    {
+      "album": {
+        "name": "If I Had My Way: Early Home Recordings",
+        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286426,
+      "name": "If I Had My Way",
+      "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
     },
     {
       "album": {
@@ -2995,6 +3289,28 @@
     },
     {
       "album": {
+        "name": "My Darling My Dear",
+        "url": "https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260653,
+      "name": "Junkyard Dog",
+      "url": "https://open.spotify.com/track/6B4jSkEcmSsckivT1KjTPX"
+    },
+    {
+      "album": {
         "name": "The Deep And The Dirty",
         "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
@@ -3161,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Rockin\u2019 Classics",
+        "url": "https://open.spotify.com/album/4ySPLzGC1NUc78dp9IoFYV"
+      },
+      "artists": [
+        {
+          "name": "Ray Sharpe",
+          "url": "https://open.spotify.com/artist/4Tnu2xPRWy7IsD0ja3WP7D"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Linda Lu",
+      "url": "https://open.spotify.com/track/5eFtAb55Lmb9wj739PBi0O"
+    },
+    {
+      "album": {
         "name": "Lissa's Song",
         "url": "https://open.spotify.com/album/2PDEbqRQ2nlVwPTuQcmvhU"
       },
@@ -3190,7 +3524,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 200704,
       "name": "Live Strong",
       "url": "https://open.spotify.com/track/2vwTMItwEoXCJj0GpN3f6f"
@@ -3306,6 +3640,24 @@
       "duration_ms": 185026,
       "name": "Louis Collins",
       "url": "https://open.spotify.com/track/0CRSKgwHSlgt4ONWFxuRkK"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
     },
     {
       "album": {
@@ -3624,7 +3976,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 151293,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
@@ -3708,6 +4060,28 @@
       "duration_ms": 431026,
       "name": "Mr. Easy",
       "url": "https://open.spotify.com/track/6sGFSp3BJMI03ivhZ1z5dC"
+    },
+    {
+      "album": {
+        "name": "My Darling My Dear",
+        "url": "https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "My Darling My Dear",
+      "url": "https://open.spotify.com/track/74B59u2Q87CZ2IJFKirdpM"
     },
     {
       "album": {
@@ -3841,6 +4215,28 @@
     },
     {
       "album": {
+        "name": "Room On The Porch",
+        "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222098,
+      "name": "Nobody Knows You When You\u2019re Down And Out",
+      "url": "https://open.spotify.com/track/0yolueQDOjP2AtvD3vJw6K"
+    },
+    {
+      "album": {
         "name": "Life Is Hard",
         "url": "https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO"
       },
@@ -3852,7 +4248,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 292386,
       "name": "Nobody Moves Me Like You Do",
       "url": "https://open.spotify.com/track/5onbRnL3JLv37ICf4Stjfr"
@@ -3978,7 +4374,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 139013,
       "name": "Omaha",
       "url": "https://open.spotify.com/track/2rMFw4RKfdUZxNTw7D4rm2"
@@ -4014,10 +4410,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 315733,
       "name": "One Life To Live",
       "url": "https://open.spotify.com/track/2vXPju3PsyINz4ZSmndNWg"
+    },
+    {
+      "album": {
+        "name": "Oh Me, Oh My",
+        "url": "https://open.spotify.com/album/5iH7mjO3slFhxigRPVTb5i"
+      },
+      "artists": [
+        {
+          "name": "Jessie Hill",
+          "url": "https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Ooh Poo Pah Doo, Part 1",
+      "url": "https://open.spotify.com/track/2LZ670fNl1hhi58pP9my0Q"
     },
     {
       "album": {
@@ -4062,7 +4476,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 249133,
       "name": "Pedal To the Metal",
       "url": "https://open.spotify.com/track/0G9j4ORbupmxMe02m7a1lh"
@@ -4300,7 +4714,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 172523,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5YGkR1hpo8k5pTaNjrMezW"
@@ -4390,7 +4804,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 152466,
       "name": "Rollin' & Tumblin'",
       "url": "https://open.spotify.com/track/0kmGmyuZpjRRdcz5dk4PDL"
@@ -4430,6 +4844,32 @@
       "duration_ms": 345765,
       "name": "Rollin' On (Live in Austin)",
       "url": "https://open.spotify.com/track/6iQUQL8hVaWVElypEnkxaM"
+    },
+    {
+      "album": {
+        "name": "Room On The Porch [Feat. Ruby Amanfu]",
+        "url": "https://open.spotify.com/album/0JfWoPk879EM5WZDjlbpCH"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245482,
+      "name": "Room On The Porch [Feat. Ruby Amanfu]",
+      "url": "https://open.spotify.com/track/7pP1IYTzfviqtXtXEjy4ae"
     },
     {
       "album": {
@@ -4502,7 +4942,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 161306,
       "name": "Running Whiskey",
       "url": "https://open.spotify.com/track/1C13yaQ2km1s6BEuCN2W3l"
@@ -4614,6 +5054,24 @@
       "duration_ms": 164946,
       "name": "Shaggy Dog",
       "url": "https://open.spotify.com/track/5eTWnTkRxqV8sCfL2Z5M8f"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "Shake For Me",
+      "url": "https://open.spotify.com/track/5kj3Q1fVwgb2f8SxFT6bD5"
     },
     {
       "album": {
@@ -4935,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935",
+        "url": "https://open.spotify.com/album/1Q2F3ap707VLHoqmMq3DGp"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/3l4HdjB4azgGjltvL9ov5Y"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152853,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/05Fqtv0hpBriJj803R6x8i"
+    },
+    {
+      "album": {
         "name": "Taj Mahal",
         "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
@@ -5094,7 +5570,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 238928,
       "name": "Sugar Shack",
       "url": "https://open.spotify.com/track/7aYUwUxQgSBwtJur3XDNjr"
@@ -5202,7 +5678,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 252800,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/4R4gKKq06GNityZMTHGdVo"
@@ -5325,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "Blues At Home 2",
+        "url": "https://open.spotify.com/album/7p6xBQmWvYoO7JK4Obdtkc"
+      },
+      "artists": [
+        {
+          "name": "Sam Chatmon",
+          "url": "https://open.spotify.com/artist/43zvSKiJXk1dzluo4Vum5J"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214413,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/5o70eqFclRStLVu1gBMgs1"
+    },
+    {
+      "album": {
         "name": "S.O.S. 4: Blues For Your Soul",
         "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
@@ -5441,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "The Genius Sings the Blues",
+        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "The Right Time",
+      "url": "https://open.spotify.com/track/1piX68vNesm5gA3ZRM3z6Y"
+    },
+    {
+      "album": {
         "name": "G. Love And Special Sauce",
         "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
       },
@@ -5488,7 +6000,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 324733,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
@@ -5590,7 +6102,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 230111,
       "name": "These Voices",
       "url": "https://open.spotify.com/track/7hakZtqzXWZ38vMcRd9LmA"
@@ -5861,6 +6373,24 @@
     },
     {
       "album": {
+        "name": "Little Brother Montgomery (1930-1954)",
+        "url": "https://open.spotify.com/album/0FDwQ6Uy56ez9wsm6gsdrx"
+      },
+      "artists": [
+        {
+          "name": "Little Brother Montgomery",
+          "url": "https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194403,
+      "name": "Vicksburg Blues",
+      "url": "https://open.spotify.com/track/38XrBJszxnGA5y6jZnrsAP"
+    },
+    {
+      "album": {
         "name": "Voodoo Woman",
         "url": "https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU"
       },
@@ -5908,7 +6438,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 272800,
       "name": "Waking Up the Dead",
       "url": "https://open.spotify.com/track/6OMYFGOOTgfC7hyv2Eiie7"
@@ -6092,7 +6622,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 220974,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
@@ -6175,6 +6705,42 @@
     },
     {
       "album": {
+        "name": "Presenting Tampa Red",
+        "url": "https://open.spotify.com/album/0rkgubKMe8PInoXKK5NWcU"
+      },
+      "artists": [
+        {
+          "name": "Tampa Red",
+          "url": "https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "You Can't Get That Stuff No More",
+      "url": "https://open.spotify.com/track/15co8gy9duJ3D0bRgVqddi"
+    },
+    {
+      "album": {
+        "name": "I'm Jimmy Reed",
+        "url": "https://open.spotify.com/album/4dWBAPMMPEkot90oS5h4UY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "You Don't Have To Go",
+      "url": "https://open.spotify.com/track/5WiDYbAx2kqcf1QvSGypDX"
+    },
+    {
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -6186,7 +6752,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 274066,
       "name": "You Don't Know the Blues",
       "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"

@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Aswell
 
-803 songs - 1 day 16 hr 55 min
+804 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,7 @@
 | [Pretty](https://open.spotify.com/track/3T0j18B548ErQk12YqVeaM) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Pretty](https://open.spotify.com/album/09PbP0qQhjMCyga59aKQUI) | 2:40 | 2022-07-08 | 2022-11-12 |
 | [Prime](https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Prime](https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP) | 2:58 | 2024-01-19 | 2025-01-11 |
 | [Princes à New\-York](https://open.spotify.com/track/4bgmhMSarZXS6mLTE4p4jE) | [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Princes à New\-York](https://open.spotify.com/album/3u7cbfdziZRH5APs5X729o) | 2:19 | 2023-10-13 | 2024-05-11 |
-| [Printemps](https://open.spotify.com/track/7lh98qsgRr8SkGnyjHeLKK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Printemps](https://open.spotify.com/album/6pFoqH1ei5kVVUJwakL2mT) | 2:21 | 2024-04-12 |  |
+| [Printemps](https://open.spotify.com/track/7lh98qsgRr8SkGnyjHeLKK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Printemps](https://open.spotify.com/album/6pFoqH1ei5kVVUJwakL2mT) | 2:21 | 2024-04-12 | 2025-05-24 |
 | [Prières](https://open.spotify.com/track/4nlYmuRB9wvkCQhHtXQNZE) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Minuit moins une](https://open.spotify.com/album/6NBbOvfN1QA9M9tkrZGn56) | 3:32 | 2024-10-25 |  |
 | [Problèmes](https://open.spotify.com/track/2fCUQBbTUwTIEXW2zdHi9M) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Problèmes](https://open.spotify.com/album/5UelzUQ0qDzakxA0jKT3aZ) | 2:59 | 2022-01-07 | 2022-01-22 |
 | [PROHIBITION](https://open.spotify.com/track/0RW5IgPSaevPbZzIYOHYo0) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [PROHIBITION](https://open.spotify.com/album/6KWu3KBIbaewiWvT88bTIP) | 2:58 | 2022-04-22 | 2022-05-20 |
@@ -751,6 +751,7 @@
 | [Trois](https://open.spotify.com/track/7FifBy3Tu7kxliPg331kLA) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Trois](https://open.spotify.com/album/3sn6a1BXHm5LlNgn2H3hAk) | 3:06 | 2022-06-17 | 2022-11-26 |
 | [Trop jeune](https://open.spotify.com/track/08ZC8YF01wYfrRSo441VrW) | [Véda](https://open.spotify.com/artist/10fGKWTRU4oFbQG0sWPVHi) | [Mon boy](https://open.spotify.com/album/3GrwegDfPCjoMqUIRhzuOc) | 3:01 | 2023-09-22 | 2023-10-07 |
 | [Trop Réel](https://open.spotify.com/track/78zunLxJTz1sXq1mylIzga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Trop Réel](https://open.spotify.com/album/0TjcDuoKWMVGAzXICb0HnV) | 3:17 | 2025-03-28 | 2025-04-26 |
+| [Trop Souvent](https://open.spotify.com/track/2kpXbATJiis2JCZrDed7Ff) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Trop Souvent](https://open.spotify.com/album/59TUFPL3ZlGMzR02iYTyFD) | 2:50 | 2025-05-23 |  |
 | [Trop sweet](https://open.spotify.com/track/5xfXpnYSGY07pav2aoTFbZ) | [YUYU](https://open.spotify.com/artist/7AKP5OQLpIiuPLGQ7d4Seh) | [Trop sweet](https://open.spotify.com/album/2HUxk6djhwvhEko7iM26X9) | 3:01 | 2024-06-07 |  |
 | [TROP TÔT](https://open.spotify.com/track/5bBUrUzYouZAdxrrCjoA0k) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [METHMATICS](https://open.spotify.com/album/7GVQKmI4lh0noPeYKZRX6c) | 3:02 | 2023-10-06 | 2023-12-23 |
 | [Trophée](https://open.spotify.com/track/1dbkwNovwCX81ZiCB1DX0M) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA), [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW) | [Trophée](https://open.spotify.com/album/3ITZzTQFyOKbp1YEKC0F6x) | 3:23 | 2023-07-14 | 2023-12-16 |

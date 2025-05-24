@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: CATTO
 
-193 songs - 11 hr 32 min
+194 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Desejo](https://open.spotify.com/track/0MLo95YCIR2kFP3TAh8BkP) | [Odair Jose](https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN) | [Desejo](https://open.spotify.com/album/7FVpzdYE9QU3Yza7nnXK6G) | 3:44 | 2024-05-31 | 2024-06-15 |
 | [Desejo Hostil](https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI) | [Universo Will](https://open.spotify.com/artist/30N6YR0KILQLFvvR7VTgfw) | [Desejo Hostil](https://open.spotify.com/album/6NjmgbqiODgs6Q08tLPvEl) | 2:45 | 2024-06-28 |  |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-07-21 | 2023-08-26 |
+| [Diz que me ama \(Lua\)](https://open.spotify.com/track/62mknPDv8tCAbcnCJPc25e) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Diz que me ama \(Lua\)](https://open.spotify.com/album/6WYGShHH2DUZywA4DlAzXW) | 3:00 | 2025-05-23 |  |
 | [Dizem](https://open.spotify.com/track/0slJ2ORPHsjlnVRbPOzVhi) | [Odair Jose](https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN) | [Seres Humanos \(e a Inteligência Artificial\)](https://open.spotify.com/album/76vczkF1upttoxgHfgHjo3) | 2:50 | 2024-06-21 | 2024-07-13 |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 | 2024-03-16 |
 | [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 |  |
@@ -80,7 +81,7 @@
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-05-31 | 2024-07-19 |
 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 | 2024-01-05 |  |
 | [I Can't Live Without Your Love](https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig) | [Dan Torres](https://open.spotify.com/artist/0iS20B6yWWj6zaNXdry2fd) | [I Can't Live Without Your Love](https://open.spotify.com/album/2Dony1m2zhoMSDmmdrqj9B) | 3:34 | 2023-07-21 | 2024-09-28 |
-| [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-07-21 |  |
+| [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-07-21 | 2025-05-24 |
 | [Incondicional \- Ao Vivo](https://open.spotify.com/track/0LLYWHqp4AgGnx4B2krt9x) | [Suhai](https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR) | [Ao Vivo](https://open.spotify.com/album/5RYNUFoIu5TrAGccBTzn8Z) | 2:59 | 2023-09-01 | 2023-11-18 |
 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 | 2024-04-12 |  |
 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 | 2024-02-23 |  |

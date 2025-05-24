@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 28366,
+  "num_followers": 28365,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/1KlPJdYE39Kba8M5Fl71nm"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "duration_ms": 145945,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/5kc0p3uu8xH3up1ISZEojw"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "R\u00f8de Rubin",
         "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
       },
@@ -363,6 +379,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Pilestredet",
+        "url": "https://open.spotify.com/album/64bXB6oQ8SDEukSqIXNms1"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Pilestredet",
+      "url": "https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Takket v\u00e6re livet",
         "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
@@ -383,22 +415,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Pilestredet",
-        "url": "https://open.spotify.com/album/64bXB6oQ8SDEukSqIXNms1"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Pilestredet",
-      "url": "https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Matrisen",
         "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 195577,
       "name": "Matrisen",
       "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/1KlPJdYE39Kba8M5Fl71nm"
-      },
-      "artists": [
-        {
-          "name": "Jimilian",
-          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
-        }
-      ],
-      "duration_ms": 145945,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/5kc0p3uu8xH3up1ISZEojw"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Bra \u00c5r",
-        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        },
-        {
-          "name": "Peder Nord",
-          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
-        }
-      ],
-      "duration_ms": 109766,
-      "name": "Cph Freestyle",
-      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Bra \u00c5r",
+        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Peder Nord",
+          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
+        }
+      ],
+      "duration_ms": 109766,
+      "name": "Cph Freestyle",
+      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Geek'd",
+        "url": "https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 154112,
+      "name": "Geek'd",
+      "url": "https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Hva Vil Du",
         "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Geek'd",
-        "url": "https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT"
-      },
-      "artists": [
-        {
-          "name": "LAY",
-          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
-        },
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 154112,
-      "name": "Geek'd",
-      "url": "https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "2 Trekk",
         "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
+      },
+      "artists": [
+        {
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        }
+      ],
+      "duration_ms": 122322,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -935,22 +951,6 @@
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
-      },
-      "artists": [
-        {
-          "name": "Magzim",
-          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
-        }
-      ],
-      "duration_ms": 122322,
-      "name": "Trump",
-      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "TIL DEG",
-        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
+        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
         },
         {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 157217,
-      "name": "TIL DEG",
-      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+      "duration_ms": 165528,
+      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1071,22 +1071,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+        "name": "TIL DEG",
+        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
         },
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 165528,
-      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
+      "duration_ms": 157217,
+      "name": "TIL DEG",
+      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "MIDDELS DEPPA MILLION\u00c6R",
         "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 169021,
       "name": "SAHBI - Remix",
       "url": "https://open.spotify.com/track/5zUjQeVLRZqLyEGsc56VTG"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Boys I D Bl\u00e5",
-        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Boys I D Bl\u00e5",
-      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "MEST ELSKET & Hatet - Deluxe",
-        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 111214,
-      "name": "Hel/Halv",
-      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Pennen & Sverdet",
         "url": "https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 131381,
       "name": "F\u00f8lg lyden",
       "url": "https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "MEST ELSKET & Hatet - Deluxe",
+        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 111214,
+      "name": "Hel/Halv",
+      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1507,22 +1507,26 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "I DAG",
-        "url": "https://open.spotify.com/album/0mBgjpcbKw6iP6Ps1dl7br"
+        "name": "Lillehammer",
+        "url": "https://open.spotify.com/album/2ijFzqpjw5NiVA0DIgSq8w"
       },
       "artists": [
         {
-          "name": "2J",
-          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
-        },
-        {
           "name": "Dio Mudara",
           "url": "https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy"
+        },
+        {
+          "name": "Jaa9",
+          "url": "https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4"
+        },
+        {
+          "name": "OnklP",
+          "url": "https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6"
         }
       ],
-      "duration_ms": 167315,
-      "name": "I DAG",
-      "url": "https://open.spotify.com/track/28Dz9bnFa5iKkubc51TCml"
+      "duration_ms": 145243,
+      "name": "Lillehammer",
+      "url": "https://open.spotify.com/track/5FlKZlea7PxMv7PmQ4dssD"
     }
   ],
   "unique_name": "100 (2)",

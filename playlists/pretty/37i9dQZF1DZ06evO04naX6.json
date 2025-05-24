@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172141,
+  "num_followers": 172145,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAAT+8o5xB6lMjPFtczXiaaf",
+  "snapshot_id": "aC5pAAAAAABAutEy+i7JfGUzuKIxgYDe",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Melodia de la Calle (Remastered)",
-        "url": "https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Permitame (feat. Yandel)",
-      "url": "https://open.spotify.com/track/2Dbq5moIguMsbRZa9SB7gD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Melodia de la Calle (Remastered)",
+        "url": "https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Permitame (feat. Yandel)",
+      "url": "https://open.spotify.com/track/2Dbq5moIguMsbRZa9SB7gD"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Si El Mundo Se Fuera A Acabar",
-        "url": "https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 187539,
-      "name": "Como Si El Mundo Se Fuera A Acabar",
-      "url": "https://open.spotify.com/track/648jEiRJvpIuUPlq3PN0ak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 194941,
       "name": "Sigo Enamorau'",
       "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Si El Mundo Se Fuera A Acabar",
+        "url": "https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 187539,
+      "name": "Como Si El Mundo Se Fuera A Acabar",
+      "url": "https://open.spotify.com/track/648jEiRJvpIuUPlq3PN0ak"
     },
     {
       "added_at": null,
@@ -1103,22 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 145541,
-      "name": "Te Suelto El Pelo / Dembow Medley - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 176293,
       "name": "Cuando Te Toca",
       "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 145541,
+      "name": "Te Suelto El Pelo / Dembow Medley - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5"
     },
     {
       "added_at": null,

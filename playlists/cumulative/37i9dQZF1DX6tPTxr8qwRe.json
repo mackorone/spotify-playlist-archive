@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "addicted",
+        "url": "https://open.spotify.com/album/70106lIC8nwyleCcCZQ6uR"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193235,
+      "name": "addicted",
+      "url": "https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4WmlhCNjjitpHUycV4NWec"
       },
@@ -842,7 +860,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 247192,
       "name": "Back To Hell",
       "url": "https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 190138,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 156609,
       "name": "difficult",
       "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
@@ -5914,6 +5932,24 @@
       "duration_ms": 168483,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/6griwc1RjYP1BxnzTkxnqO"
+    },
+    {
+      "album": {
+        "name": "We are",
+        "url": "https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154386,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
     },
     {
       "album": {
@@ -7982,7 +8018,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 146250,
       "name": "Jared",
       "url": "https://open.spotify.com/track/6SmRJgpCbxzSfM58D401MT"
@@ -8437,6 +8473,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141738,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
+    },
+    {
+      "album": {
         "name": "leave me for dead",
         "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
       },
@@ -8604,6 +8658,24 @@
       "duration_ms": 174814,
       "name": "Life Sux",
       "url": "https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU"
+    },
+    {
+      "album": {
+        "name": "Life's a Bitch",
+        "url": "https://open.spotify.com/album/2kQewJ6EaxftUOnBGLK38d"
+      },
+      "artists": [
+        {
+          "name": "DEZI",
+          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "Life's a Bitch",
+      "url": "https://open.spotify.com/track/6yvxyNehUgb4qCJKxr6ZkZ"
     },
     {
       "album": {
@@ -9256,7 +9328,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 185179,
       "name": "Make Me Forget",
       "url": "https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf"
@@ -10222,7 +10294,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 152609,
       "name": "Nerve",
       "url": "https://open.spotify.com/track/31Q5vXemKsdpSBGEyNTNCx"
@@ -12584,7 +12656,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 175247,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo"
@@ -12926,7 +12998,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 226046,
       "name": "SICK",
       "url": "https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq"
@@ -16264,7 +16336,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 137240,
       "name": "Worst Day",
       "url": "https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT"

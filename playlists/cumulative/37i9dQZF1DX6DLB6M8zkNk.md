@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-109 songs - 6 hr 23 min
+110 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Roses in a Box](https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Contemporary Love Songs for Piano](https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF) | 3:41 | 2022-02-14 |  |
 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 | 2022-08-16 | 2022-10-08 |
 | [Serenade](https://open.spotify.com/track/27ET9815AS9RsdIYOc1zwv) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr) | [Tanzil: Serenade](https://open.spotify.com/album/0KpnMh7B863m8X9uAB9o1j) | 3:32 | 2024-12-24 |  |
+| [Seuls](https://open.spotify.com/track/6bmSDTpDpOdl9kLA3p6S1n) | [Thomas Horeczko](https://open.spotify.com/artist/45hfjgJ2kOKtAhKIHLpTZX), [Stéphane Horeczko](https://open.spotify.com/artist/1t3wHfR1IXybR0wztmjkyG), [Braths](https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd) | [Seuls](https://open.spotify.com/album/0NOAGelOYr8fjnjZ1nCw1K) | 2:48 | 2025-05-23 |  |
 | [Sheep May Safely Graze, BWV 208 \(arr\. Egon Petri\)](https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 5:18 | 2022-02-14 |  |
 | [Softly Falling](https://open.spotify.com/track/1JlfK3eRD9gaZmkshcaNOp) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Softly Falling](https://open.spotify.com/album/33n2a5JdDY8gn8QmrAyI0K) | 2:45 | 2024-11-15 |  |
 | [Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/track/72CwEwj0LHNDMgH2zXCa1f) | [Johann Christian Bach](https://open.spotify.com/artist/0ebni9QrrWMvEgH40nOWZQ), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [J.C\. Bach: Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/album/1CxdegOyg36oudEmc71yB5) | 3:38 | 2022-02-14 | 2025-03-11 |

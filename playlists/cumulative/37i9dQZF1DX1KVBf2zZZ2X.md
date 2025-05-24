@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-226 songs - 10 hr 30 min
+227 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Forelsket \(Forest\)](https://open.spotify.com/track/0zFOeiohiKokdL3k4wka7J) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forelsket \(Forest\)](https://open.spotify.com/album/0UVFZXy1YjkkbfvIUwlRrK) | 2:30 | 2024-09-04 |  |
 | [Forest at Dusk](https://open.spotify.com/track/1oQLQpGlbI8gIAUsehqcju) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest at Dusk](https://open.spotify.com/album/6EB4bE9wJ3NYhdg5J3nOZr) | 2:28 | 2025-01-15 |  |
 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 | 2023-10-26 | 2025-04-17 |
+| [Forest Embrace](https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Forest Embrace](https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3) | 2:32 | 2025-05-16 |  |
 | [Forest Meditation](https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest Meditation](https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0) | 2:57 | 2024-03-05 |  |
 | [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2025-01-15 |  |
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 |  |
@@ -232,7 +233,7 @@
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2024-03-01 |  |
 | [Winding Path](https://open.spotify.com/track/6QE5nRsDAFSfKC6rWUzhhE) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Winding Path](https://open.spotify.com/album/24V8iGqBrqvaJO4MFUjlgm) | 3:02 | 2024-11-22 |  |
-| [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 |  |
+| [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 | 2025-05-24 |
 | [Wisdom in Waves](https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Wisdom in Waves](https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5) | 2:40 | 2024-08-23 | 2025-01-04 |
 
 \*This playlist was first scraped on 2023-04-03. Prior content cannot be recovered.

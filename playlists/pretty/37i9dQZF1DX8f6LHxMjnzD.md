@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,959 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,472 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 |
 | 40 | [Game Time](https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Game Time](https://open.spotify.com/album/12W3973nhiFVbHaSi2LTE9) | 1:37 |
 
-Snapshot ID: `aCuusAAAAAAcFzsvuF1Waw2seOrtC54z`
+Snapshot ID: `aCuusAAAAADd80DnI0L38YIucXQkXnKp`

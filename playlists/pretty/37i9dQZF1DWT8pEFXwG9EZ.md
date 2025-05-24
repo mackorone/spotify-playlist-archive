@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,031 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,082 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 19 | [Overture \- From "Whiplash"](https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 3:19 |
 | 20 | [Amarcord](https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [Amarcord \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy) | 2:07 |
 | 21 | [New York Herald Tribune \- Bande originale du film "À bout de souffle"](https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws) | [Martial Solal](https://open.spotify.com/artist/1gjen19mqMk6nP6TFOh7g2) | [À bout de souffle](https://open.spotify.com/album/59MGoeCLOjKK5UHZUAUZst) | 1:29 |
-| 22 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
-| 23 | [Haupe](https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:36 |
+| 22 | [Haupe](https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:36 |
+| 23 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
 | 24 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 |
 | 25 | [Main Title \(from "Taxi Driver"\)](https://open.spotify.com/track/7xPefqZB6BBosOdfKJh9nJ) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 2:14 |
 | 26 | [Musetta's Waltz](https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Arranged By](https://open.spotify.com/artist/6J5eHNGDXInDjIYZBv9Ffa), [Dick Hyman](https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT), [Moe Koffman](https://open.spotify.com/artist/3fGFTCSpapYvLMZ7nzUfAi) | [Moonstruck \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN) | 4:27 |

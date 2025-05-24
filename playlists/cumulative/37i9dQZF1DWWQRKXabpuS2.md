@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد
 
-409 songs - 1 day 4 hr 6 min
+411 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Admentik](https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Admentik](https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi) | 4:18 | 2024-09-05 | 2025-04-27 |
 | [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-15 | 2023-06-14 |
 | [Ah Men Qalbi](https://open.spotify.com/track/4IKkoJtURxPMEgWtT6Prtv) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 4:17 | 2025-01-23 |  |
+| [Ahad Saal Aani](https://open.spotify.com/track/6HacasDCKj2cwBuJ8yFLGU) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Al Wafaa Le Albadr Mohammed Abdo \- Ahad Saal Aani 2025](https://open.spotify.com/album/7zqfNeYEIJRAvIDrANdD1T) | 5:41 | 2025-05-23 |  |
 | [Ahebak](https://open.spotify.com/track/7wtj1YsnPgGCPylmzLma4Z) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Ahebak](https://open.spotify.com/album/0zwZJrDmw6WZkYi54FPiUA) | 4:33 | 2022-05-01 | 2022-11-08 |
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-06-28 | 2023-01-13 |
 | [Ahla Khabar](https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Ahla Khabar](https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL) | 3:24 | 2023-05-24 | 2023-12-09 |
@@ -372,6 +373,7 @@
 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 | 2023-05-26 | 2023-12-22 |
 | [شسوي لي](https://open.spotify.com/track/60qhwVunSyTH1HjIWkw4CM) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [شسوي لي](https://open.spotify.com/album/4r2L12xyazKM27S6I9OOJr) | 3:50 | 2023-03-14 | 2023-05-16 |
 | [شوفلك احد](https://open.spotify.com/track/6nNy3ACYBEag8BIqOotcr8) | [Salah Al Zadjali](https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh) | [شوفلك احد](https://open.spotify.com/album/1HhiRCWFmdQZ2jNUfEmPPx) | 4:02 | 2025-04-07 |  |
+| [صاحي إنت](https://open.spotify.com/track/5k3lV9HQgXaH7UhWFaNGf1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [صاحي إنت](https://open.spotify.com/album/75oqfhopGFZ5thgCAqzxYd) | 3:44 | 2025-05-23 |  |
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-09 | 2024-04-19 |
 | [ضعت منك](https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [ضعت منك](https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta) | 3:56 | 2024-09-18 |  |
 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:32 | 2023-05-02 | 2023-11-24 |

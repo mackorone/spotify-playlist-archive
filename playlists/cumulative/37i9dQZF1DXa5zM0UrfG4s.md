@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-401 songs - 18 hr 22 min
+402 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 | 2022-01-06 |  |
 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 | 2022-08-25 | 2023-08-07 |
 | [HAALAND](https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [HAALAND](https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl) | 1:44 | 2022-08-31 | 2022-10-14 |
-| [Hald deg fast](https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Hald deg fast](https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh) | 3:21 | 2023-03-03 |  |
+| [Hald deg fast](https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Hald deg fast](https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh) | 3:21 | 2023-03-03 | 2025-05-24 |
 | [Har du lyst har du lov](https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Har du lyst har du lov](https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs) | 2:27 | 2023-10-05 | 2024-10-18 |
 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 | 2025-03-28 |
 | [Harry stil](https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Harry stil](https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy) | 2:41 | 2024-04-25 | 2024-08-16 |
@@ -201,6 +201,7 @@
 | [Hæljetur](https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hæljetur](https://open.spotify.com/album/2GbMwa9XGFYyrZd5fvjIy7) | 2:25 | 2021-12-16 | 2022-07-28 |
 | [Hæljetur \(feat\. Hagle\)](https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR) | [DJ MøMø](https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [DJ MøMø presenterer: Bukkene Bruse på badeland](https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH) | 1:56 | 2023-12-14 | 2024-02-09 |
 | [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 | 2023-07-16 |
+| [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 | 2025-05-22 |  |
 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 | 2022-05-19 | 2023-06-20 |
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-13 | 2024-02-09 |
 | [Ingen Fara, Mamma!](https://open.spotify.com/track/5pKIWdiohAHDgGUwjXJiLm) | [Truse Tarzan](https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ), [Brünost](https://open.spotify.com/artist/0iAVl7yqzaGpEM3LLVT589) | [Ingen Fara, Mamma!](https://open.spotify.com/album/1PnczWmm84V0DfpyYfdqrA) | 2:19 | 2021-12-16 | 2022-10-16 |

@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Raim Laode, Benson Boone, hingga Ernie Zakrie dan Anggi Marito
 
-26,805 songs - 63 day 15 hr 28 min
+26,807 songs - 63 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11825,6 +11825,7 @@
 | [JUMPIN \(feat\. MILES\)](https://open.spotify.com/track/1O74puD8I4KuXaa9N5j7ME) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t), [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [JUMPIN \(feat\. MILES\)](https://open.spotify.com/album/0WB4yWdleurzMbRea8wEtt) | 2:42 | 2020-11-06 | 2020-11-13 |
 | [Jumpin Out The Face](https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Jumpin Out The Face](https://open.spotify.com/album/0VVV8k3utS3P1PJlIVK0aj) | 2:50 | 2020-11-13 | 2020-11-20 |
 | [JUMPSHOT!](https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [JUMPSHOT!](https://open.spotify.com/album/0jUh0PoLQtLry0B3JXyDiW) | 2:59 | 2022-04-28 | 2022-05-06 |
+| [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 | 2025-05-22 |  |
 | [June](https://open.spotify.com/track/5a03GptTz6jtPu5b2ExJmi) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [June](https://open.spotify.com/album/2capgtsFePeNINhMLKzP0X) | 2:48 | 2024-11-14 | 2024-11-22 |
 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 | 2024-09-26 | 2024-10-04 |
 | [June](https://open.spotify.com/track/67Ysc4Qh0M6rsR00STdOcf) | [Oz the Oddz](https://open.spotify.com/artist/6YeoGVnJh6nzJxeTaxEbqt), [Fakie Funk](https://open.spotify.com/artist/6kCQyhT8nJFl3RMtBhhO1I), [Boodles](https://open.spotify.com/artist/3CsMZm9r0IwASsDPnhpYdi) | [June](https://open.spotify.com/album/6U1zNEBExEkBChvarHuGH0) | 3:28 | 2022-01-20 | 2022-01-28 |
@@ -12135,6 +12136,7 @@
 | [Keep It Hush](https://open.spotify.com/track/58JcLxCtUGmJr7XPaondy8) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Esther Geraldine](https://open.spotify.com/artist/46W2iYf2ed04EUu5m8bFyH) | [Keep It Hush](https://open.spotify.com/album/5ReOzc703XCnWovRGDfxrc) | 3:14 | 2021-11-26 | 2021-12-03 |
 | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 | 2023-02-09 | 2023-02-17 |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 | 2023-08-25 |
+| [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 | 2025-05-22 |  |
 | [Keep It This Way](https://open.spotify.com/track/11HbEquQhnApnsVmM4nxwy) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Keep It This Way](https://open.spotify.com/album/11VnadBv6Uko9zihGEsFKq) | 3:25 | 2022-07-14 | 2022-07-22 |
 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 | 2022-07-21 | 2022-07-29 |
 | [Keep It Together](https://open.spotify.com/track/1OYE2IO1V4nlUIm6pJeHf4) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [Keep It Together](https://open.spotify.com/album/6C04yFUl9kwH5unRAB8X51) | 3:17 | 2022-03-24 | 2022-04-01 |

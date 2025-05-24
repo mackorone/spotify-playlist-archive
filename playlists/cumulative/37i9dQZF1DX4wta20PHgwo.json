@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 321133,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/3nz3KvhNBeOSQkI0Crt7Y5"
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-23",
+      "date_removed": null,
       "duration_ms": 373708,
       "name": "Hermetic Boogey",
       "url": "https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr"
@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 263722,
       "name": "Ichnos",
       "url": "https://open.spotify.com/track/21QFG2angX1SiMDsXlXMIO"
@@ -4849,6 +4849,36 @@
     },
     {
       "album": {
+        "name": "Keepers of the Eastern Door",
+        "url": "https://open.spotify.com/album/1kqjbNgJvBgAvSzwCgJDmd"
+      },
+      "artists": [
+        {
+          "name": "Chris Cheek",
+          "url": "https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Tony Scherr",
+          "url": "https://open.spotify.com/artist/6PGc4Sa3iL0Pii7jGS5p0P"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284802,
+      "name": "Keepers Of The Eastern Door",
+      "url": "https://open.spotify.com/track/7obaUF9wb3XIngyGUYneOP"
+    },
+    {
+      "album": {
         "name": "Khmer",
         "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
       },
@@ -5189,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Love Theme From Your Life",
+        "url": "https://open.spotify.com/album/4veANdXwC4hQg3Bkh0WqaC"
+      },
+      "artists": [
+        {
+          "name": "Phi-Psonics",
+          "url": "https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203062,
+      "name": "Love Theme From Your Life",
+      "url": "https://open.spotify.com/track/68IF24rZ6MGexM0vEhiQaV"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo"
       },
@@ -5442,7 +5490,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 369253,
       "name": "Misanthrope's Hymn",
       "url": "https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP"
@@ -6294,7 +6342,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 360266,
       "name": "Of Our Children",
       "url": "https://open.spotify.com/track/0Er3yzZ0wnpToUIuYc9Rzi"
@@ -9960,7 +10008,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 273600,
       "name": "Up in the Sky",
       "url": "https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv"

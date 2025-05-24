@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002 KAROL G, Benson Boone, Green Day, \u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002 and more!",
-  "num_followers": 125725,
+  "num_followers": 126127,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,46 @@
     {
       "added_at": "2025-05-23 00:00:25",
       "album": {
+        "name": "Keep It Sexy (MOMMAE 2)",
+        "url": "https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Keep It Sexy (MOMMAE 2) (Feat. JEON SOMI)",
+      "url": "https://open.spotify.com/track/349vRUzitG48j0mYch7Ega"
+    },
+    {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
+        "name": "Jumpy (feat. Ski Mask The Slump God)",
+        "url": "https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 156121,
+      "name": "Jumpy (feat. Ski Mask The Slump God)",
+      "url": "https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS"
+    },
+    {
+      "added_at": "2025-05-23 00:00:25",
+      "album": {
         "name": "just a girl",
         "url": "https://open.spotify.com/album/0H5hmZbrMRlTS7UmOVJcSf"
       },
@@ -863,22 +903,6 @@
     {
       "added_at": "2025-05-23 00:00:25",
       "album": {
-        "name": "Special Friday Night",
-        "url": "https://open.spotify.com/album/69MCPuKygJbEAv8LQcYlry"
-      },
-      "artists": [
-        {
-          "name": "BSC",
-          "url": "https://open.spotify.com/artist/6gb39K86ctQFpICp7ps9hn"
-        }
-      ],
-      "duration_ms": 188224,
-      "name": "Special Friday Night",
-      "url": "https://open.spotify.com/track/4lCJEqs3ViXYOgP5YccScv"
-    },
-    {
-      "added_at": "2025-05-23 00:00:25",
-      "album": {
         "name": "HOME PARTY",
         "url": "https://open.spotify.com/album/61xrwpq6dibJvmk2NYjAdd"
       },
@@ -942,6 +966,10 @@
         {
           "name": "KR$NA",
           "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Phenom",
+          "url": "https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7"
         }
       ],
       "duration_ms": 206829,
@@ -956,8 +984,8 @@
       },
       "artists": [
         {
-          "name": "\u539f\u53e3\u6c99\u8f14",
-          "url": "https://open.spotify.com/artist/3PEXQIcJoSEgmjcdUSkcoG"
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
         },
         {
           "name": "\u30d1\u30c3\u30af\u30de\u30f3",

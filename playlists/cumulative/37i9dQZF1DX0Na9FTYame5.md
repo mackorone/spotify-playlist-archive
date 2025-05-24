@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-215 songs - 9 hr 45 min
+216 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [7 LEERE ZIMMER \(feat\. Henning May\)](https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [7 LEERE ZIMMER \(feat\. Henning May\)](https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc) | 2:30 | 2024-10-24 | 2025-05-22 |
 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2024-11-18 | 2024-12-14 |
 | [Akhirah](https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS) | [NAVACHA](https://open.spotify.com/artist/3CzTaj0KPnnjizkzxRNJym), [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Akhirah](https://open.spotify.com/album/03FgDDOodv6plMesbVdF2c) | 2:52 | 2024-10-24 |  |
+| [Alle Risse heilen](https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Alle Risse heilen](https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk) | 2:30 | 2025-05-23 |  |
 | [AMA DOREN](https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [AMA DOREN](https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO) | 2:41 | 2024-09-02 | 2024-10-25 |
 | [Anderer Mann](https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Anderer Mann](https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg) | 2:15 | 2024-06-28 |  |
 | [argentinien & peru](https://open.spotify.com/track/6XSIvQuPtKTvgOAFl76HAu) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:17 | 2024-10-11 | 2025-01-26 |
@@ -144,7 +145,7 @@
 | [Narben](https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK) | [yAN](https://open.spotify.com/artist/15dImMpI2Fu5LwzhpcLHW9) | [Narben](https://open.spotify.com/album/3WL1zqCZ7ClKg9fjaaNQQo) | 2:38 | 2025-01-20 | 2025-02-28 |
 | [Nicht Perfekt](https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Nicht Perfekt](https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0) | 2:59 | 2025-03-24 |  |
 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 | 2024-06-28 |  |
-| [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 | 2024-06-28 |  |
+| [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 | 2024-06-28 | 2025-05-24 |
 | [Normal ist](https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Normal ist](https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1) | 1:41 | 2024-06-28 | 2024-11-12 |
 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 | 2024-06-28 | 2024-10-11 |
 | [Nur die Nacht](https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Nur die Nacht](https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV) | 3:07 | 2025-02-03 |  |

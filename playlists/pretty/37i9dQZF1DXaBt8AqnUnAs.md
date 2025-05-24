@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,770 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,772 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 4 | [Eu Sou Só Minha \- Live](https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Eu Sou Só Minha \(Live from Vevo\)](https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80) | 3:04 |
 | 5 | [Desejo](https://open.spotify.com/track/4pF7G2zT7SBecIWp6jiN5i) | [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB), [Racovi Oficial](https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Outra Face](https://open.spotify.com/album/06OGKCXuM75bAiSY5aGv2A) | 4:25 |
 | 6 | [Para](https://open.spotify.com/track/70KmlysOOWigv8xkJQyHqI) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC) | [Para](https://open.spotify.com/album/4UuEicFAf6lQaF8FjhWZs2) | 1:56 |
-| 7 | [Indecisão](https://open.spotify.com/track/597tlwDitK5TI2LMG2YsEI) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [brigas de inverno](https://open.spotify.com/album/6gnvPIrsqd1nIo3B2869KP) | 3:07 |
+| 7 | [indecisão](https://open.spotify.com/track/597tlwDitK5TI2LMG2YsEI) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [brigas de inverno](https://open.spotify.com/album/6gnvPIrsqd1nIo3B2869KP) | 3:07 |
 | 8 | [14010](https://open.spotify.com/track/0RM2Ydrw9U3kNldlFjDzle) | [Osohrio](https://open.spotify.com/artist/39TM5XzsGIndUvx6AC68kM), [Palito](https://open.spotify.com/artist/72nKAydTf2mbvjtPM8xu2P), [Pep Starling](https://open.spotify.com/artist/2OKT3UlyCvDefb14iq4E71) | [14010](https://open.spotify.com/album/5vYkMdVJOUE2zAm0pk6FRF) | 2:17 |
 | 9 | [AIRBNB](https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [AIRBNB](https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x) | 2:26 |
 | 10 | [Amor](https://open.spotify.com/track/4ReMusWKbNBEP48WMmi2Gh) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Amor](https://open.spotify.com/album/1nZGtIXkrC6UR9SOHcRl6G) | 2:42 |

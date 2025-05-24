@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-366 songs - 1 day 10 hr 25 min
+367 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aaj Rang Hai \- Sufi Expressions](https://open.spotify.com/track/2MZiWzBGuyaiNDdry7Sxg8) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l) | [Aaj Rang Hai \(Sufi Expressions\)](https://open.spotify.com/album/31TAjuLbbBqGGXqkzdrCZY) | 3:58 | 2024-09-20 | 2025-01-08 |
 | [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 | 2025-05-23 |
 | [Aan Milo Sajna](https://open.spotify.com/track/3IIqpaAs6d5ZFSW8NExVN8) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Aan Milo Sajna](https://open.spotify.com/album/2cj2Ig40zfQualDkWWI4Vj) | 3:37 | 2024-08-18 | 2024-09-21 |
-| [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 |  |
+| [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 | 2025-05-24 |
 | [Aaye Na Balam](https://open.spotify.com/track/7lVPuhH2BjjDEVzBZBPJaL) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Aaye Na Balam](https://open.spotify.com/album/00oSm4ubHzQkPJMRuobGky) | 3:00 | 2024-03-06 | 2024-09-10 |
 | [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 | 2022-12-13 | 2023-06-03 |
 | [Adaaein](https://open.spotify.com/track/4He5EVmJ89k2BelkpXJlLl) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/7aU4BE6L1rM9cbvBdfKaDt) | 4:09 | 2024-02-19 | 2024-04-19 |
@@ -201,6 +201,7 @@
 | [Mirage](https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo) | [Anjana Padmanabhan](https://open.spotify.com/artist/420Mr1M4EAVToMd0puguQD), [Siddhesh Shrivastava](https://open.spotify.com/artist/0f1ufB3uP5qiQhcNFnfyE5), [Harshil Gandhi](https://open.spotify.com/artist/61jrNAkPzXVKsOQn8XSqDh) | [Mirage](https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ) | 4:23 | 2024-12-16 | 2025-05-10 |
 | [MITWA](https://open.spotify.com/track/3JYUtN0G6gTxOO6P0dzBPG) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Anuradha Juju](https://open.spotify.com/artist/6BhqYI7FqiLWOCgkMtdxXY) | [MITWA](https://open.spotify.com/album/1gw8F1qxpfV0wkcxZDIukP) | 4:02 | 2024-02-26 | 2024-03-21 |
 | [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 | 2023-01-20 |  |
+| [Moko Kahan](https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Moko Kahan](https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP) | 7:06 | 2025-05-23 |  |
 | [More Piya](https://open.spotify.com/track/4ezMFxUzwg5BDTBWZdZvMu) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Aanandi Joshi](https://open.spotify.com/artist/7qj8b5tuzeSkb4ff01h5rJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [More Piya](https://open.spotify.com/album/5mILpkQZVdrUhtLFFj6gsU) | 4:18 | 2022-05-17 | 2023-09-15 |
 | [More Piya](https://open.spotify.com/track/26BbW2LGSJpGcI2uwUWf8j) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [More Piya](https://open.spotify.com/album/6Ii2FMwdKqzhrFEONfC8w1) | 5:34 | 2023-03-22 |  |
 | [More Sajan](https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [More Sajan](https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN) | 2:04 | 2024-02-16 |  |

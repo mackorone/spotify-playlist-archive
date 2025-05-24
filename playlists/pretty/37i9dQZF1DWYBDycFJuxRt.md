@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: YOASOBI\*👉 <a href="https://spice.eplus.jp/articles/337967">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,612 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,605 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 |
 | 72 | [Gimme some lovin'](https://open.spotify.com/track/1EA31mTasXuTA3hWILCxBT) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Gimme some lovin'](https://open.spotify.com/album/3t63Ed9PON8rwFjyz02lQG) | 3:25 |
 | 73 | [YAPPARI SOKKURI](https://open.spotify.com/track/7mIHhtZGkfYn1acjJswaFH) | [毎日ユニーク](https://open.spotify.com/artist/3ozNqNNLtBozfYz8xU8BP2) | [YAPPARI SOKKURI](https://open.spotify.com/album/3YRMPFCWNMOVkOidXUKRQ0) | 1:31 |
-| 74 | [ANNEX\-KANラビリンス](https://open.spotify.com/track/3LqNkn6T60iOtcyGM3mx3H) | [秋山竜次](https://open.spotify.com/artist/05su5IDMhEOjMnd9JbJcX8) | [秋山歌謡祭2023－2025](https://open.spotify.com/album/1KeIDpA2EoDIaJykjKeFej) | 2:52 |
+| 74 | [ANNEX\-KANラビリンス](https://open.spotify.com/track/3LqNkn6T60iOtcyGM3mx3H) | [秋山竜次](https://open.spotify.com/artist/1wb9AYjdeAd35F7fPvJL7o) | [秋山歌謡祭2023－2025](https://open.spotify.com/album/1KeIDpA2EoDIaJykjKeFej) | 2:52 |
 
 Snapshot ID: `aC3OcQAAAABTg9AQo8ip6n5wr/Mwq1Lt`

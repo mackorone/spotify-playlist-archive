@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from LUNA & Metejoor, Eefje de Visser, Burna Boy en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,509 likes - 94 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,644 likes - 94 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 63 | [NOG 1 KEER](https://open.spotify.com/track/1tSmrzHgtQf70rtrnmga65) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [NOG 1 KEER](https://open.spotify.com/album/6FP8fDIZKajzB2p5X0OPSY) | 2:29 |
 | 64 | [De Caraïben in m’n huis](https://open.spotify.com/track/1GvWziVUYMCC9gbdbH0xaw) | [Bart Herman](https://open.spotify.com/artist/7bdYS3HgllTnnqTmDmwzFC) | [De Caraïben in m’n huis](https://open.spotify.com/album/0579T7g062p1SGvGq9Z0Pi) | 3:01 |
 | 65 | [Ga Je Dan Mee](https://open.spotify.com/track/4oPRevDeaDy0wIFcLAMnFK) | [Garry Hagger](https://open.spotify.com/artist/7B8JDyubJK4dGWMDKnppdt) | [Ga Je Dan Mee](https://open.spotify.com/album/185jdSbGrCF95eSNjBQUcO) | 3:00 |
-| 66 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:03 |
+| 66 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 |
 | 67 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 |
 | 68 | [Want It All](https://open.spotify.com/track/34Lqsqjal56HQmDPYlrmuK) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Want It All](https://open.spotify.com/album/2fitJD7OLyT9An98rRjzbu) | 2:36 |
 | 69 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: نبيل
 
-1,476 songs - 3 day 10 hr 30 min
+1,477 songs - 3 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,7 +881,7 @@
 | [Wallah 3ady](https://open.spotify.com/track/06YlYwYxEI1mqiE2jbCoXw) | [Sadat](https://open.spotify.com/artist/6XvZkxVvGXWhlDFTR6Q4sj), [DB Gad](https://open.spotify.com/artist/6G5gPrPosWPaVpR3R1sNWB) | [Wallah 3ady](https://open.spotify.com/album/1k2bVLwMYaiR4Xa89K89zJ) | 3:52 | 2024-11-22 | 2025-01-03 |
 | [Wana Lewahdy](https://open.spotify.com/track/70z2Zrg6oDt0oDWOhUMB5m) | [Wafaa](https://open.spotify.com/artist/4VgYG6D2QMDpKm1h81NQaf) | [Wana Lewahdy](https://open.spotify.com/album/7zRBh6T6ogJr1bK6cy1oky) | 3:58 | 2024-02-01 | 2024-03-11 |
 | [Wara Kol Nagah](https://open.spotify.com/track/3mRHFu05SyAc4Y7cQPorON) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Wara Kol Nagah](https://open.spotify.com/album/3IZoThcaZ81nAYTuxLXfXU) | 2:45 | 2023-10-06 | 2024-01-17 |
-| [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:14 | 2025-05-15 |  |
+| [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 | 2025-05-15 |  |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 | 2022-09-29 |
 | [Washwesh Elwadaa](https://open.spotify.com/track/3XlJ0BNy4OMkqpLEtLnMoP) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 3:41 | 2023-05-08 | 2023-06-23 |
 | [We Fag2a](https://open.spotify.com/track/2R5jANgM046Vo5MEdYlYMY) | [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [We Fag2a](https://open.spotify.com/album/4TiVj6cKbx5hYA2NgzCeul) | 3:33 | 2023-02-16 | 2023-04-11 |
@@ -1126,6 +1126,7 @@
 | [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-04 | 2024-09-24 |
 | [جاية جاية](https://open.spotify.com/track/4pphE4xWp08tPAkBW8p1ni) | [Pepsi Egypt](https://open.spotify.com/artist/7rvQhlTMhXIqxMTFAaxhKN), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جاية جاية](https://open.spotify.com/album/6Eqy1TyVZVghna1QLvh30K) | 1:25 | 2023-05-19 | 2023-07-08 |
 | [جراج عمومى](https://open.spotify.com/track/0pPdwmbnjsmDRtc5GQ3Dkv) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [جراج عمومى](https://open.spotify.com/album/4vBKChd7YtMVAhq3eGEVdr) | 2:58 | 2024-07-11 | 2024-08-30 |
+| [جغرافيًا](https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [جغرافيًا](https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC) | 3:02 | 2025-05-22 |  |
 | [جميلة الدنيا](https://open.spotify.com/track/7c9YY1coQ5NPcY46azrq3F) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [جميلة الدنيا](https://open.spotify.com/album/5EhJ1JyEIA8IfzYOldQYMk) | 3:12 | 2025-04-17 | 2025-05-23 |
 | [جوة الجحور](https://open.spotify.com/track/2qpxshCadd6uCSrOmeLKZN) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [جوة الجحور](https://open.spotify.com/album/1FuC6Dhc1404uUKJXBQLjL) | 4:22 | 2024-03-12 | 2024-06-14 |
 | [جوه عينيك](https://open.spotify.com/track/2fRZNzluxWOWHhzQj1SS1G) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [جوه عينيك](https://open.spotify.com/album/5MU9hOKRXou5F8pcpQfUTt) | 3:37 | 2023-07-28 | 2023-08-19 |

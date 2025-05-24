@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Naomi Raine
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Jovonta Patton
 
-671 songs - 2 day 9 hr 31 min
+672 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Don't Give Up](https://open.spotify.com/track/2jp8VZkAEmuD4xYdhK9tMV) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Don't Give Up](https://open.spotify.com/album/0plhRdcKA0CP5zc65dMskW) | 3:26 | 2024-05-17 | 2024-10-12 |
 | [Don't Walk Away](https://open.spotify.com/track/2nLO9QIzp55oDoHhFVFEmF) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Don't Walk Away](https://open.spotify.com/album/7pPKuVh1Y71OtZqXgLMvhS) | 2:55 | 2024-10-11 |  |
 | [Done It For Me](https://open.spotify.com/track/0D05cnjGXNHVRDdeNGYubI) | [Josh Copeland](https://open.spotify.com/artist/03g32kjZ1CsP35h9HYPesz) | [Done It For Me](https://open.spotify.com/album/3gHHdq3vociqzqFllMMFdU) | 3:22 | 2022-08-05 | 2023-07-29 |
+| [Don’t Find It Strange \- Live at First Avenue](https://open.spotify.com/track/32XuKpROrtXZFKJRO9F4NT) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Live At First Avenue](https://open.spotify.com/album/3XQNaT4W4uhAcws5KDvyJr) | 5:29 | 2025-05-23 |  |
 | [Double \- Live](https://open.spotify.com/track/0PxJd6rpPasL8Lhu98EWr1) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Double \(Live\)](https://open.spotify.com/album/34WLAUHcSwO8kdWUIuGAFE) | 4:51 | 2025-01-10 | 2025-03-22 |
 | [Down At The Cross \- Live](https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW) | [Down At The Cross \(Live\)](https://open.spotify.com/album/2YpgSl5innS5tnnqLBekhn) | 3:58 | 2023-03-24 | 2023-08-26 |
 | [El Shaddai](https://open.spotify.com/track/1HhdoW0N0SwJeq6m7SvME8) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Rodney Posey](https://open.spotify.com/artist/7fEq8LFbuLfmDMVfQDoZQr) | [El Shaddai](https://open.spotify.com/album/264N2Ft0NXF0kX0YHWE2XC) | 6:04 | 2025-04-04 | 2025-05-03 |
@@ -634,7 +635,7 @@
 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 | 2022-02-18 | 2023-03-25 |
 | [When I Think \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 | 2023-12-01 | 2024-01-13 |
 | [When I Think \- Radio Edit / Live](https://open.spotify.com/track/4AoH3vZnIqEFVzNe5PPOS0) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Radio Edit / Live\)](https://open.spotify.com/album/4bWTwHmi9rwMhNxXdZYp9Q) | 3:55 | 2025-01-17 |  |
-| [When the Praises Go Up \(The Blessings Come Down\) \- Remix](https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Maya Marchelle](https://open.spotify.com/artist/76o8Rrk9uKYx52z9JoS31k) | [When the Praises Go Up \(The Blessings Come Down\) \[Remix\]](https://open.spotify.com/album/5YB1uVKX7VrQiY67hBvxDL) | 2:41 | 2025-01-24 |  |
+| [When the Praises Go Up \(The Blessings Come Down\) \- Remix](https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Maya Marchelle](https://open.spotify.com/artist/76o8Rrk9uKYx52z9JoS31k) | [When the Praises Go Up \(The Blessings Come Down\) \[Remix\]](https://open.spotify.com/album/5YB1uVKX7VrQiY67hBvxDL) | 2:41 | 2025-01-24 | 2025-05-24 |
 | [Who Do You Love](https://open.spotify.com/track/2V7EY8WTG5Z3pxT7RbZtC1) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Who Do You Love](https://open.spotify.com/album/1nBzuAVRJNEKPHUvZ8YO17) | 2:28 | 2024-11-22 |  |
 | [Whole World In His Hands \- Radio Edit](https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Whole World In His Hands \(Radio Edit\)](https://open.spotify.com/album/7oCXdcThzsGBimJDimAyKw) | 3:39 | 2022-06-03 | 2022-10-08 |
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-02 | 2024-01-27 |
@@ -673,7 +674,7 @@
 | [Your Amazing Love](https://open.spotify.com/track/3TaosRVEjWj45rmrAUNBKz) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Your Amazing Love](https://open.spotify.com/album/6EmxddDI1oUeesbVOAYRmb) | 4:47 | 2024-08-16 |  |
 | [Your Hand](https://open.spotify.com/track/3BCRsqflSL5BsiGsdT6HiA) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Your Hand](https://open.spotify.com/album/0xCfBoEbEvp3NZtQPkDkuj) | 3:15 | 2024-07-19 |  |
 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 | 2025-03-14 |  |
-| [Your Name](https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Your Name](https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N) | 3:56 | 2024-07-12 |  |
+| [Your Name](https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Your Name](https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N) | 3:56 | 2024-07-12 | 2025-05-24 |
 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-05-05 | 2024-05-04 |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2022-11-11 | 2024-02-03 |
 | [Your World](https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Your World](https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS) | 3:16 | 2022-08-05 | 2023-02-18 |

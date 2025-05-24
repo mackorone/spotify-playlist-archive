@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,247 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,283 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 46 | [Tu Mere Samne](https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr](https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS) | 6:06 |
 | 47 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
 | 48 | [Ae Mere Humsafar](https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:33 |
-| 49 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:53 |
-| 50 | [Phir Milenge Chalte Chalte](https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Rab Ne Bana Di Jodi](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 6:34 |
+| 49 | [Phir Milenge Chalte Chalte](https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Rab Ne Bana Di Jodi](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 6:34 |
+| 50 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:53 |
 
 Snapshot ID: `ZqHzDwAAAAB5oMhnCCmn8ADBBRx0alPh`

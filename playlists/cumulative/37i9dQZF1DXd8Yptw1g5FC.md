@@ -4,7 +4,7 @@
 
 > Mert Demir ve haftanın en iyi çıkışları!
 
-1,326 songs - 2 day 19 hr 26 min
+1,327 songs - 2 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [ALÆCARTE\-X](https://open.spotify.com/track/0eThhRe5r2ZZdKIU8yAngk) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [ALÆCARTE\-X](https://open.spotify.com/album/68XuzZK2emJBTMqdGvB8CD) | 1:32 | 2025-04-24 | 2025-05-02 |
 | [Alışırım](https://open.spotify.com/track/6c4wpay9IV8fqsCYUaqrd4) | [Ayşen Birgör](https://open.spotify.com/artist/7lYlfDaMKte3nk3el4udhb) | [Alışırım](https://open.spotify.com/album/7nq2Tw5wCtcVWT1tdH5Tsx) | 3:33 | 2025-05-08 | 2025-05-16 |
 | [Aman Tabip](https://open.spotify.com/track/4dL09se01e2mqo7GDNAPMc) | [Oguz Aksaç](https://open.spotify.com/artist/0rs9X2h1jre7d0DdhPznzy), [Cihan Öz](https://open.spotify.com/artist/2dDAIhEnMTKBaC5swHBaPn), [Gökhan Kimverdi](https://open.spotify.com/artist/0cf21lquhk2uYyNS9xetx0) | [Aman Tabip](https://open.spotify.com/album/5YHK0jb4VAmZhKoKlH0MiL) | 3:41 | 2025-03-06 | 2025-03-14 |
-| [Ana Dilim aşk](https://open.spotify.com/track/7vbCwDo0vGQCMywkU5thtd) | [Ceren Akın](https://open.spotify.com/artist/4nFipdx01jrZC0fHf7Drax) | [Ana Dilim Aşk](https://open.spotify.com/album/09fwddxwGAMlq1sOW9Wiwe) | 3:28 | 2025-05-22 |  |
+| [Ana Dilim Aşk](https://open.spotify.com/track/7vbCwDo0vGQCMywkU5thtd) | [Ceren Akın](https://open.spotify.com/artist/4nFipdx01jrZC0fHf7Drax) | [Ana Dilim Aşk](https://open.spotify.com/album/09fwddxwGAMlq1sOW9Wiwe) | 3:28 | 2025-05-22 |  |
 | [Anahtar](https://open.spotify.com/track/5soHIW4p5gs0txChuTl8sZ) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anahtar](https://open.spotify.com/album/5HgrSDS7Q9XhCleuATRkXT) | 3:11 | 2025-02-27 | 2025-03-07 |
 | [Anahtarı Bıraktım](https://open.spotify.com/track/0xXayey5J4RUCpbrEXm4Eh) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Anahtarı Bıraktım](https://open.spotify.com/album/4VMlZq1GEDUJ9mlY6MWhWQ) | 2:54 | 2025-05-15 | 2025-05-23 |
 | [angel ʕ•ᴥ• ʔ](https://open.spotify.com/track/6u4RIruwlM7t7cYv2rOM71) | [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [angel ʕ•ᴥ• ʔ](https://open.spotify.com/album/3sG68DkYzR6GS56xS2RCo2) | 3:22 | 2025-03-20 | 2025-03-28 |
@@ -1023,6 +1023,7 @@
 | [Storm](https://open.spotify.com/track/5iuVFGLAMofFgMrKLdXn3G) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [7 SKIES](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5), [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0) | [Storm](https://open.spotify.com/album/2uxontkOEajNlJgfYZeBMl) | 2:56 | 2025-04-10 | 2025-04-18 |
 | [STRANGERS \(feat\. TINI\)](https://open.spotify.com/track/682vct7cxeNq8i3RHKg61a) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [STRANGERS \(feat\. TINI\)](https://open.spotify.com/album/4kI1jopbfhA5sBlvvPhQAO) | 3:21 | 2025-05-15 | 2025-05-23 |
 | [SUKUNA ITADORI](https://open.spotify.com/track/6GyaylJPnwV5MLSVogeOqS) | [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [SUKUNA ITADORI](https://open.spotify.com/album/4Si5MoanBRQh5u6dwISIwV) | 1:57 | 2025-05-01 | 2025-05-09 |
+| [Sunride](https://open.spotify.com/track/4VKYYmSnWZkOsXITaX2lGR) | [VAGON](https://open.spotify.com/artist/4OtsRLzLgXEZ3d70sA0QMY), [La Surfette](https://open.spotify.com/artist/2LAthtMJGgdNCVq79pa8Yn) | [Sunride](https://open.spotify.com/album/0HSVupW5pkMfrXuPOJdcL5) | 4:29 | 2025-05-22 |  |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-13 | 2025-03-21 |
 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 | 2025-03-27 | 2025-04-04 |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 | 2025-04-11 |

@@ -2,7 +2,7 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Madilyn Mei
+> Feeling dramatic? All eyes on you\. Cover: Remy Bond
 
 468 songs - 1 day 1 hr 26 min
 

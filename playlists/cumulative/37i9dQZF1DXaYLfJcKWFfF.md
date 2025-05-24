@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Lady Donli
 
-236 songs - 14 hr 6 min
+238 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-17 | 2023-04-15 |
 | [Dumb Luck](https://open.spotify.com/track/6SJzX7MUAK21qS8T3DbEbA) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Dumb Luck](https://open.spotify.com/album/5HiGR5M1pRcgp5N10mEPNN) | 4:04 | 2023-10-27 |  |
 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 | 2023-04-27 | 2024-04-26 |
-| [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 | 2024-05-10 |  |
+| [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 | 2024-05-10 | 2025-05-24 |
 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-03-31 | 2024-03-01 |
 | [Eyes Don't See](https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Eyes Don't See](https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ) | 5:47 | 2022-05-26 | 2023-05-12 |
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-10-04 |  |
@@ -91,7 +91,7 @@
 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 | 2025-03-21 |  |
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 | 2023-09-29 |
 | [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 | 2023-06-02 | 2023-07-29 |
-| [Iyawo](https://open.spotify.com/track/1tRkWbxNCSFPeeTHPhqmlz) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [O.N.E](https://open.spotify.com/album/2fT7v7Hu2Mh1yDsx3JFWic) | 2:48 | 2023-12-15 |  |
+| [Iyawo](https://open.spotify.com/track/1tRkWbxNCSFPeeTHPhqmlz) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [O.N.E](https://open.spotify.com/album/2fT7v7Hu2Mh1yDsx3JFWic) | 2:48 | 2023-12-15 | 2025-05-24 |
 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 | 2024-03-29 |  |
 | [Japa Japa](https://open.spotify.com/track/3LohrjLiSAKdLxta3Y7sp5) | [BANTU](https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H) | [What Is Your Breaking Point?](https://open.spotify.com/album/5BNEYB2U96GLnTo2CjG9qd) | 4:50 | 2023-06-08 | 2024-04-26 |
 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 | 2023-04-14 | 2024-03-22 |
@@ -180,6 +180,7 @@
 | [Shade Tree](https://open.spotify.com/track/67xbJtDkUsrIzPVSf08B36) | [Rocky Dawuni](https://open.spotify.com/artist/4NQybqFNuJt02nyGh9eCEC) | [Shade Tree](https://open.spotify.com/album/5I7rZvrGeh0eMeeoFHYSwm) | 3:13 | 2023-09-14 | 2023-11-17 |
 | [Shidaa](https://open.spotify.com/track/2hLPTyeShZCBFAKI25umC1) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Shidaa](https://open.spotify.com/album/2iTU7qZLX7KyxL0rnM5Mx6) | 3:59 | 2021-12-09 | 2022-12-09 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 | 2023-08-18 |
+| [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 | 2025-05-23 |  |
 | [SIRINA TIME](https://open.spotify.com/track/1XISfavYLaLDgbPPPIVo1G) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [SIRINA TIME](https://open.spotify.com/album/2FeZdukSXs2e5TjQA50lOU) | 2:33 | 2023-09-09 | 2023-09-15 |
 | [Sit](https://open.spotify.com/track/1hBrYBkodukH2i2rFoVMdU) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Sit](https://open.spotify.com/album/7iHjmNXtnx9n0V5gQkD151) | 2:26 | 2023-03-03 | 2023-04-28 |
 | [Smile Before You Sleep](https://open.spotify.com/track/566lx0Fuz2OwQqmdr0PkIX) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 | 2023-11-03 |
@@ -234,6 +235,7 @@
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 | 2024-02-09 |
 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 | 2020-12-10 | 2022-11-04 |
 | [Wine Drunk](https://open.spotify.com/track/4FUOS0mP6SnAqBdnRWkbBN) | [Baraka](https://open.spotify.com/artist/7jhoWa68COaf3lbfwYgkz9) | [Voicemail](https://open.spotify.com/album/4cjkqBi12YLhvPs5vIwWmG) | 3:57 | 2023-06-30 | 2023-08-04 |
+| [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-05-23 |  |
 | [Woman King](https://open.spotify.com/track/1OBzOpEaPjWE7lnGsmF4vA) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:37 | 2023-12-01 |  |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-08 |  |
 | [Working on You](https://open.spotify.com/track/20elM8EhWy52VmxbjEWCkn) | [Alien Em](https://open.spotify.com/artist/5ol84ORfazc9kNCz4V2ixt) | [Working on You](https://open.spotify.com/album/7tpq3j1GIJ2Ii1zvqiTU4u) | 2:56 | 2023-03-24 | 2023-05-05 |

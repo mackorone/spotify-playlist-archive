@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Asteromata",
+        "url": "https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Auta Ta Matia Ta Glika",
+      "url": "https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ"
+    },
+    {
+      "album": {
         "name": "Ay Ay (Magissa)",
         "url": "https://open.spotify.com/album/6bp22Qd1KGpDEe2K72HKz8"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 180571,
       "name": "Kataramena Feggaria - Live",
       "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"

@@ -2527,6 +2527,32 @@
     },
     {
       "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Eden (feat. Cordae, DJ Jazzy Jeff)",
+      "url": "https://open.spotify.com/track/3arj9wUIRzmKpJ1HHXkyXZ"
+    },
+    {
+      "album": {
         "name": "Dear Annie",
         "url": "https://open.spotify.com/album/16bkk7YWytTk5I3VPMU4mv"
       },
@@ -4446,7 +4472,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"

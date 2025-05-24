@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG?si=qdILn\_9sT260KeE\_LkwZuA">Gemma Griffiths</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,915 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,920 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 27 | [FIGURE IT OUT](https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl) | [ROLE MODEL](https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X) | 3:03 |
 | 28 | [F\*CK!](https://open.spotify.com/track/76nPz5O1sSCXoGoQvRjge5) | [SOLIS4EVR](https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms) | [GHOST TOWN](https://open.spotify.com/album/35awOR0VhAbhvlloOv4Zow) | 2:51 |
 | 29 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 |
-| 30 | [WET](https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [WET](https://open.spotify.com/album/6SggZBrSlNC7MwC9kmTxKg) | 1:32 |
-| 31 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
+| 30 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
+| 31 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 |
 | 32 | [Brasero](https://open.spotify.com/track/6NQhtmbhFzyqNKvhgtMulk) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz), [Lova Lova](https://open.spotify.com/artist/6pvXW87pGB0XovnUHo8xvC) | [Brasero](https://open.spotify.com/album/61IM2wtoBycfswgVDyk4cO) | 2:54 |
 | 33 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
 | 34 | [The Second Kind](https://open.spotify.com/track/7sxN6DpvFJoa2cZTiVLbLW) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Naleli](https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU) | [The Second Kind](https://open.spotify.com/album/3w59SKiZBq2MdS0GdibdfF) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
 | 50 | [Local Celebrity Freestyle](https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Local Celebrity Freestyle](https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc) | 1:15 |
 
-Snapshot ID: `aC+sfwAAAABuKx9GOStu085l019GOpe2`
+Snapshot ID: `aDA6jgAAAAARQcYD0j0Uygl15hyFZs1w`

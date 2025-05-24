@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 114444,
+  "num_followers": 114454,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAAAzdghrPNdUG+pXzPcmTQSB",
+  "snapshot_id": "aC5pAAAAAADuvEkWwjhU2nsfrNKTVnei",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
       },
       "artists": [
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
         }
       ],
-      "duration_ms": 402811,
-      "name": "Meu Filho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
     },
     {
       "added_at": null,
@@ -783,18 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
       },
       "artists": [
         {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
+      "duration_ms": 402811,
+      "name": "Meu Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
     },
     {
       "added_at": null,

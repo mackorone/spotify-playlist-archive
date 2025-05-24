@@ -1,13 +1,33 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 75342,
+  "num_followers": 75369,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB192gAAAAAxXzkjyqhPJQrUxZ803CCh",
+  "snapshot_id": "AAAAADqxOnRxNTSuSa8WPpbeUo2Fbr32",
   "tracks": [
+    {
+      "added_at": "2025-05-23 04:00:36",
+      "album": {
+        "name": "Ear Candy",
+        "url": "https://open.spotify.com/album/7xDbrkbiEbFDvUdRDmZq2R"
+      },
+      "artists": [
+        {
+          "name": "Slikk Muzik",
+          "url": "https://open.spotify.com/artist/3obIe2qa1nuILsEgOllAPh"
+        },
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/06lEskKdCy0uZU49QQ0uyN"
+    },
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
@@ -1663,22 +1683,6 @@
       "duration_ms": 417363,
       "name": "Nico\u2019s Groove",
       "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Groove Factor",
-        "url": "https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 314506,
-      "name": "Groove Factor",
-      "url": "https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM"
     },
     {
       "added_at": "2023-04-07 04:01:00",

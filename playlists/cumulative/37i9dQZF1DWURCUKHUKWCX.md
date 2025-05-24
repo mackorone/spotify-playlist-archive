@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-248 songs - 13 hr 26 min
+251 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Clarity \(Single\)](https://open.spotify.com/track/437HHrOnSWx0nv1oAEkGKX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Clarity \(Single\)](https://open.spotify.com/album/5tLsGeXebqlhZgFeODIgWo) | 1:34 | 2021-12-10 |  |
 | [cohesion](https://open.spotify.com/track/4IF2sXer3MvDQT7JHo546V) | [aaronk](https://open.spotify.com/artist/0hfc9fzWmuYbkQs9A20pbj), [Aaron K Peterson](https://open.spotify.com/artist/5uR0umVKI3KOwSC4MpJo1p) | [cohesion](https://open.spotify.com/album/2ThB99UVqC4PsUg0Nafuov) | 3:13 | 2022-01-28 | 2025-03-27 |
 | [Counting Waves](https://open.spotify.com/track/2mMSkPfVkJhCXkKsXlkiZ2) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Counting Waves](https://open.spotify.com/album/6jhorndS7avJy8hVTX5JEK) | 2:20 | 2025-05-16 |  |
+| [Daydream ode](https://open.spotify.com/track/39RLWExt2tjulIrBUhxOQT) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Daydream ode](https://open.spotify.com/album/4nuVko0sDzO8nX4qPaIRys) | 2:38 | 2025-05-23 |  |
 | [Dear, Dolores \- Dominique Charpentier Rework](https://open.spotify.com/track/4td4zI14Dq7ct7XHASNaoK) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Dear, Dolores \(Dominique Charpentier Rework\)](https://open.spotify.com/album/62cR9HzK7RSG2nE8KUKOVk) | 2:02 | 2021-12-10 |  |
 | [Dono Per un Addio](https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#001 Coordinate](https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ) | 4:21 | 2022-01-28 |  |
 | [Dragon](https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Dragon](https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke) | 1:57 | 2025-03-26 |  |
@@ -203,8 +204,10 @@
 | [saman](https://open.spotify.com/track/7iiOQHrIPuafVip6E9hIqZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [saman](https://open.spotify.com/album/4vBnwCup5n0lu4I8Az6lrS) | 2:11 | 2021-12-10 | 2025-03-27 |
 | [SCORPIO “The Mysterious”](https://open.spotify.com/track/5C5QA7wrrJguvgycFvTTia) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [SCORPIO “The Mysterious”](https://open.spotify.com/album/3hzc1uMqhq3HwYaQAY4hBb) | 3:14 | 2024-12-24 |  |
 | [Seasons Change](https://open.spotify.com/track/0izNvQzx7PGkgDFRypvjjt) | [George Hart](https://open.spotify.com/artist/6OxbaDDKrLN3DgWrl4JHS6) | [Seasons Change](https://open.spotify.com/album/4yrMoHNJp03d7pe7xQsi0K) | 2:00 | 2025-05-16 |  |
+| [Shimmerlight](https://open.spotify.com/track/2v1VwEQVjJxapFMKh71liq) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Shimmerlight](https://open.spotify.com/album/5G36D2m8UUQzpNMkmDcZUr) | 1:59 | 2025-05-23 |  |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-10 | 2023-01-04 |
 | [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 | 2023-03-15 |
+| [Small Falls](https://open.spotify.com/track/3F5fg5XwKVsD01TlnMxWfr) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Cascades, Vol\. 1](https://open.spotify.com/album/4TwUJ8ch5mqjqO2J9RyXVe) | 2:32 | 2025-05-23 |  |
 | [Solas](https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Solas](https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF) | 2:26 | 2025-05-16 |  |
 | [Solomeo](https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Intercosmia Vol\. 1](https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI) | 3:34 | 2024-11-08 |  |
 | [Some](https://open.spotify.com/track/28gRlopNz7IIWwiH32poAb) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/1pvK662Ezwrn0ofOxHZOcP) | 4:14 | 2021-12-10 | 2023-01-04 |

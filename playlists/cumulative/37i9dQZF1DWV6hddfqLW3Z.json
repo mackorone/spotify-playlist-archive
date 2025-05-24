@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Gira Mundo",
+        "url": "https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Iroko",
+      "url": "https://open.spotify.com/track/59ntX56WnGYW24wXanrsMC"
+    },
+    {
+      "album": {
         "name": "Saudade Demais",
         "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 214426,
       "name": "Mexeu comigo",
       "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"

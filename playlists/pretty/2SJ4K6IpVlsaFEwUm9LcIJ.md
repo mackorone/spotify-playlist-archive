@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,040 likes - 24 songs - 1 hr 30 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,042 likes - 27 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 22 | [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 |
 | 23 | [Unfair](https://open.spotify.com/track/10ZQm8oJGYLJg0x8B0TPEZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 2:33 |
 | 24 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
+| 25 | [Life & Soul](https://open.spotify.com/track/06bQjjfW8ajdj6hTRcdbvk) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 2:37 |
+| 26 | [Feisty](https://open.spotify.com/track/5b3yINi6jbTdURfGU4nKoC) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:40 |
+| 27 | [Easy](https://open.spotify.com/track/7ljOUUgZGtG5euoSjAwBKU) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 3:15 |
 
-Snapshot ID: `AAAMdoD3SXpZDHxfAqMzKtbNBDNO6eDw`
+Snapshot ID: `AAAMe6GAgiOWn3LstblLf3k5M0NXrkQm`

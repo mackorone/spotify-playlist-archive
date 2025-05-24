@@ -4,11 +4,12 @@
 
 > 🇳🇴✨ NORSK INVASION!!! ✨🇳🇴
 
-1,403 songs - 2 day 10 hr 13 min
+1,404 songs - 2 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 0:00 | 2024-03-28 | 2024-04-03 |
+| [\#eurodab](https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [\#eurodab](https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA) | 2:38 | 2025-05-23 |  |
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-07-28 | 2022-08-26 |
 | [10 Hoes](https://open.spotify.com/track/4qqKLHCbw96XRXX4tBfasV) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [10 Hoes](https://open.spotify.com/album/2wbvQ2Dxh2cLwCsOOkE46h) | 2:28 | 2025-04-10 |  |
 | [100 & Hælvette](https://open.spotify.com/track/7cE9NtgfMubgyMzOWdDhzL) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [100 & Hælvette](https://open.spotify.com/album/3t9inyYHcg2rASNvxSrdG1) | 2:33 | 2025-01-23 | 2025-05-09 |

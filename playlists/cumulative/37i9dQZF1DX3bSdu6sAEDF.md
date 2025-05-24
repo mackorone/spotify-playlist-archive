@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-413 songs - 22 hr 48 min
+415 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,8 +91,10 @@
 | [Chicken Wings](https://open.spotify.com/track/42F8JMc5pSlGShBkhR0uPQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Chicken Wings](https://open.spotify.com/album/0q22c9Zv8OZ7owt8o0jj4X) | 2:48 | 2022-01-19 | 2022-07-24 |
 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 | 2024-09-20 |  |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-08 | 2023-06-24 |
+| [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-23 |  |
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2022-08-19 | 2024-01-06 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 | 2023-04-22 |
+| [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 | 2025-05-23 |  |
 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 | 2023-08-25 | 2024-03-22 |
 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 | 2025-05-02 |  |
 | [Dance Around It](https://open.spotify.com/track/3ds7PIuFylIZm05cWKzq8o) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Dance Around It](https://open.spotify.com/album/3Ee65K1Z40p7NYMdZnH2bh) | 3:26 | 2022-03-18 | 2022-07-29 |
@@ -164,7 +166,7 @@
 | [hate the way you love me](https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:53 | 2022-07-08 | 2023-04-22 |
 | [Have You Ever Really Lived](https://open.spotify.com/track/6UfOWl2K7ges1EWwJEpXpu) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Have You Ever Really Lived](https://open.spotify.com/album/2inpPKTNpMmtitTciLHtVR) | 3:17 | 2022-07-15 | 2022-07-23 |
 | [HBU?](https://open.spotify.com/track/3cvYl1prmMzM3m9zyLneBl) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [HBU?](https://open.spotify.com/album/2xZD1y11PZmgwHkP8N1clN) | 2:15 | 2023-10-13 |  |
-| [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 | 2025-04-25 |  |
+| [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 | 2025-04-25 | 2025-05-24 |
 | [Heartbeat Changes](https://open.spotify.com/track/5fcMjLsEtBOJLk1kRv2j9W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/1Utcb3SXIeR6ESyIxjCP01) | 3:08 | 2022-06-10 | 2023-04-22 |
 | [Hearts on Fire](https://open.spotify.com/track/5HkslahmVaoXXjbphnlYmZ) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:48 | 2022-09-16 | 2022-10-01 |
 | [Hearts On The Run](https://open.spotify.com/track/1trMsUW2eHAnh3p5fScmks) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Hearts On The Run](https://open.spotify.com/album/3U1EZvE1sBl6PkUlgDPbka) | 3:08 | 2024-02-16 |  |
@@ -252,7 +254,7 @@
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 |  |
 | [MAGIK](https://open.spotify.com/track/6zWdODBjSnvZF3V1i2s8lq) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [MAGIK](https://open.spotify.com/album/3Zj2GG4pPjg4ppByk5iCL5) | 2:36 | 2025-05-16 |  |
 | [Make Someone Happy](https://open.spotify.com/track/1dCS83iZarLD5pdiSM77P6) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Make Someone Happy](https://open.spotify.com/album/7BKVAdt0Hu9UqHceowEMBP) | 1:47 | 2021-08-05 | 2022-01-17 |
-| [maybe i'm the problem now](https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [maybe i'm the problem now](https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC) | 3:12 | 2023-09-01 |  |
+| [maybe i'm the problem now](https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [maybe i'm the problem now](https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC) | 3:12 | 2023-09-01 | 2025-05-24 |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 |  |
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-04-28 | 2024-03-22 |

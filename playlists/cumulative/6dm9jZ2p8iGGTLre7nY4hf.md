@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-442 songs - 1 day 0 hr 54 min
+443 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2025-03-26 |  |
 | [Singing for Days \(feat\. Sandra Hesch\)](https://open.spotify.com/track/7aZCznkucJgNJazcmxPpeD) | [Mike Vallas](https://open.spotify.com/artist/3bBb1wCpTPxl3KRfb2UbJb), [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Singing for Days \(feat\. Sandra Hesch\)](https://open.spotify.com/album/0GySDrRyhKozJ2TIkisJXk) | 3:19 | 2023-09-15 | 2025-03-14 |
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2023-09-15 | 2025-03-14 |
+| [Siste farvel](https://open.spotify.com/track/45UXXykuHGkwKAGIctXfu7) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Siste farvel](https://open.spotify.com/album/5qy2NCz2kL0hBwDlLYftjS) | 2:56 | 2025-05-23 |  |
 | [Slide Away](https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Slide Away](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) | 3:53 | 2023-09-15 | 2025-03-14 |
 | [Slow Dance \(feat\. Ava Max\)](https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Slow Dance \(feat\. Ava Max\)](https://open.spotify.com/album/3tnCAhqSU4V0EEgYnrTRuD) | 2:58 | 2023-09-15 | 2025-03-14 |
 | [slower](https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [slower](https://open.spotify.com/album/4NwShGLn0PyyJ7AC7cEqBz) | 3:07 | 2023-09-15 | 2025-03-14 |

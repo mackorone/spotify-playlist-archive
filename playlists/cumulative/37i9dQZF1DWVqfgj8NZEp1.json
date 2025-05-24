@@ -1823,6 +1823,32 @@
     },
     {
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213823,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
+    },
+    {
+      "album": {
         "name": "My Other Voice",
         "url": "https://open.spotify.com/album/4bLtP25ArMR6Athup5vBTH"
       },
@@ -1834,7 +1860,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 427431,
       "name": "Ev'rytime We Say Goodbye",
       "url": "https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih"
@@ -3054,7 +3080,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 391706,
       "name": "It Never Entered my Mind",
       "url": "https://open.spotify.com/track/58VcgWixvxnMdt4bj29PdQ"
@@ -3553,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "May I Ask",
+        "url": "https://open.spotify.com/album/0hSsm8zuAZgdCIVAWlY0IK"
+      },
+      "artists": [
+        {
+          "name": "Reverie Trio",
+          "url": "https://open.spotify.com/artist/0gki82SIfNIueMwiROcD5x"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174843,
+      "name": "May I Ask",
+      "url": "https://open.spotify.com/track/2x6KXjF5PcqHgFqzZGt2M3"
+    },
+    {
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/7j75kLY17tahXwnAydXhv6"
       },
@@ -3624,7 +3668,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 271547,
       "name": "Melody At Night",
       "url": "https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj"
@@ -4090,7 +4134,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 162040,
       "name": "Mystique No. 12",
       "url": "https://open.spotify.com/track/5V66ktMtWl2d1hmr9mspKw"
@@ -5663,6 +5707,24 @@
     },
     {
       "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Glover",
+          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337160,
+      "name": "Tell Him I Said Hello",
+      "url": "https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8"
+    },
+    {
+      "album": {
         "name": "Pick Yourself Up",
         "url": "https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah"
       },
@@ -5874,6 +5936,24 @@
       "duration_ms": 1004626,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/3MhWFpRMVEyZ9QXGIb5RJK"
+    },
+    {
+      "album": {
+        "name": "The Night We Met",
+        "url": "https://open.spotify.com/album/5e6z7XEau7UhSP4YERlVP3"
+      },
+      "artists": [
+        {
+          "name": "Jumaane Smith",
+          "url": "https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271386,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/58dJWIuUePDwmqN5ikIUqX"
     },
     {
       "album": {

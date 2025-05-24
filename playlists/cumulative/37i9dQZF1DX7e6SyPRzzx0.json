@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "ATLANTA",
+        "url": "https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD"
+      },
+      "artists": [
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109754,
+      "name": "007",
+      "url": "https://open.spotify.com/track/5kmdTJ6YvAtqk13nMYnfck"
+    },
+    {
+      "album": {
         "name": "5BRAZY (FEAT. QUAVO)",
         "url": "https://open.spotify.com/album/67CSBVsdfdCGHxF7JSModS"
       },
@@ -472,7 +494,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 131274,
       "name": "delusional",
       "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
@@ -1184,7 +1206,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 109727,
       "name": "inthej",
       "url": "https://open.spotify.com/track/0AJTkZVEpSVmn6Yf5rsx8l"
@@ -1984,7 +2006,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 173096,
       "name": "ORCHESTRAT\u00cb",
       "url": "https://open.spotify.com/track/3Ygb9jYG5TeibrrKJzCPmV"
@@ -2129,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "PYRAMIDZ",
+        "url": "https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab"
+      },
+      "artists": [
+        {
+          "name": "untiljapan",
+          "url": "https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182335,
+      "name": "PYRAMIDZ",
+      "url": "https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j"
+    },
+    {
+      "album": {
         "name": "i5u5we5",
         "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
       },
@@ -2246,6 +2286,24 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "album": {
+        "name": "grails",
+        "url": "https://open.spotify.com/album/7rMhfh9sfFiaE8ITYlAU9F"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106887,
+      "name": "Slime U Out",
+      "url": "https://open.spotify.com/track/3bIyokE0ChCwviIPWCBUnx"
     },
     {
       "album": {

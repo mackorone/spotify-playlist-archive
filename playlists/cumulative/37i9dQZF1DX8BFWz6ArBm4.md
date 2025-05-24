@@ -4,7 +4,7 @@
 
 > ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Aspa
 
-168 songs - 9 hr 29 min
+169 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [As Tous Na Lene](https://open.spotify.com/track/0GVmpYnNFON6Tihcuo3ysQ) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [As Tous Na Lene](https://open.spotify.com/album/3AjpvMusEJQuhIsAmWwwOT) | 3:25 | 2024-07-25 | 2024-12-13 |
 | [Ase Me Na Figo](https://open.spotify.com/track/1SD0AfukNn0hkPghXD4YGG) | [Lefteris Pantazis](https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q) | [Ase Me Na Figo](https://open.spotify.com/album/1Vne42I1DtoZbNQAskIzaV) | 3:48 | 2024-10-17 | 2024-10-25 |
 | [Aspromavro](https://open.spotify.com/track/7xN62pSQUKRrYr2ofWt1WD) | [Ilias Kampakakis](https://open.spotify.com/artist/0sTPMLGBv3QdhuZQw5ZMu6) | [Aspromavro](https://open.spotify.com/album/6R72Tmo2w195Rkh7rd2SW9) | 4:05 | 2024-06-27 | 2024-07-19 |
+| [Auta Ta Matia Ta Glika](https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 3:13 | 2025-05-23 |  |
 | [Ay Ay \(Magissa\)](https://open.spotify.com/track/3QwDFpWlJ0tuaj1fG1K0Rc) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Ay Ay \(Magissa\)](https://open.spotify.com/album/6bp22Qd1KGpDEe2K72HKz8) | 2:43 | 2024-06-27 | 2024-07-19 |
 | [Bam](https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Bam](https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H) | 2:46 | 2025-03-20 |  |
 | [DAVATZIS \- LIVE by TOKYO THEATER](https://open.spotify.com/track/2Lbjh8H9sFeAPWzldzZ1bW) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [DAVATZIS \(LIVE by TOKYO THEATER\)](https://open.spotify.com/album/7gFygh1UdeoLUYaauss1uz) | 2:16 | 2025-01-16 | 2025-03-08 |
@@ -74,7 +75,7 @@
 | [Kapios San Esena](https://open.spotify.com/track/2HDxzXnUO5PdzsV7iSbRWL) | [Eirini Papadopoulou](https://open.spotify.com/artist/3tzEjVUVJ8tSUOIkrrrt5t) | [Kapios San Esena](https://open.spotify.com/album/3UO7uWavACcYZGibvNv6d4) | 3:19 | 2024-06-27 | 2024-07-05 |
 | [Kapou Kapou](https://open.spotify.com/track/7trPl1kIywvCq1o78uIE6O) | [Billie Isak](https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6) | [Kapou Kapou](https://open.spotify.com/album/63EE2UxrSGQ4oHDuwKBeyR) | 3:09 | 2025-05-15 |  |
 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 | 2025-04-10 |  |
-| [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 | 2025-02-13 |  |
+| [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 | 2025-02-13 | 2025-05-24 |
 | [Kathestos](https://open.spotify.com/track/4fOSyDqPqV1AnVZfj44f6z) | [Vasilis Karras](https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz) | [Kathestos](https://open.spotify.com/album/2O6Hd21LRn99WJmuiVzXiV) | 3:24 | 2024-10-10 | 2024-10-25 |
 | [Kati Xereis](https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Kati Xereis](https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w) | 2:44 | 2025-03-20 |  |
 | [Kontra Paidi](https://open.spotify.com/track/25Y7pAip2rT44HKg37z7or) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Kontra Paidi](https://open.spotify.com/album/1nE79NwK4nbiv93YuEYtrK) | 2:44 | 2025-03-27 | 2025-04-25 |

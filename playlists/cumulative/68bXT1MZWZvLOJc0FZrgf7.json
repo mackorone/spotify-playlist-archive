@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Baby are you okay?",
+        "url": "https://open.spotify.com/album/2VzaEeSAIDBPj2izpsAUQ3"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Baby are you okay?",
+      "url": "https://open.spotify.com/track/7GAJ5aTsSIiqsz7prt53yw"
+    },
+    {
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 189746,
       "name": "Berghain (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6"
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 273275,
       "name": "Higher Ground (feat. Roosevelt)",
       "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
@@ -7272,6 +7290,24 @@
       "duration_ms": 143333,
       "name": "Lose My Mind - Passion Edit",
       "url": "https://open.spotify.com/track/5eCXYjXDeK1Dtiq8hDnldD"
+    },
+    {
+      "album": {
+        "name": "Lose Yourself Again",
+        "url": "https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259700,
+      "name": "Lose Yourself Again",
+      "url": "https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk"
     },
     {
       "album": {

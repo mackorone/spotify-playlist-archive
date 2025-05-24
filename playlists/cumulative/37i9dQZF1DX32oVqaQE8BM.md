@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-686 songs - 1 day 5 hr 27 min
+690 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Infinite](https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Infinite](https://open.spotify.com/album/1f45mE7umvGUb9OpAhW9ke) | 1:59 | 2022-09-02 | 2023-07-29 |
 | [Inner Circle](https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Inner Circle](https://open.spotify.com/album/6Oa5m0iCnUyBGue9WmeBcA) | 2:26 | 2022-09-23 |  |
 | [Inner Peace](https://open.spotify.com/track/6rvX0JYhkqJivixXp40sJn) | [akanekuro](https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ) | [Inner Peace](https://open.spotify.com/album/1YaaERFCQV7GvtMRQZMcww) | 2:18 | 2023-04-21 |  |
+| [inspire](https://open.spotify.com/track/1CuL2X0K0BUV460hf0LUlt) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [inspire](https://open.spotify.com/album/5Q4fxuKSzgGmK6DEkzk1qz) | 2:21 | 2025-05-23 |  |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2021-11-10 | 2022-07-22 |
 | [Interstellar Delivery](https://open.spotify.com/track/5cmWJfo4kBS25rxswvRFBY) | [LostiFi](https://open.spotify.com/artist/1KW7HtHJz11rhGJ6WtgqXR) | [Interstellar Delivery](https://open.spotify.com/album/0XO0wGMmqbJVCfiCSSB4pI) | 2:09 | 2022-05-13 | 2022-07-01 |
 | [Into The Woods](https://open.spotify.com/track/4axIVDsfj8YYLJLpnVPmEk) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Into The Woods](https://open.spotify.com/album/0MPxw0gQkbUMgFhVZoi8jI) | 2:10 | 2022-05-10 | 2023-01-13 |
@@ -324,6 +325,7 @@
 | [Lemon Child](https://open.spotify.com/track/3QZoeBElUE59JRRZ8o5DDG) | [zeelax](https://open.spotify.com/artist/03D808OZznKYdiJRbAfOhC) | [Lemon Child](https://open.spotify.com/album/5uThNBvv3WW0zbBNqPCGhP) | 2:10 | 2024-07-14 | 2025-02-15 |
 | [Lesters Adventure](https://open.spotify.com/track/0WOGzTW5TEp1p1J3WCiSzM) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Paws For A Second](https://open.spotify.com/album/4GBIGs6taHticCXjvePE5U) | 2:05 | 2021-11-10 | 2022-07-01 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
+| [Let It Flow](https://open.spotify.com/track/5MYBbDyh5KiGS2FzV26DDi) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Let It Flow](https://open.spotify.com/album/1EV7jGNfGYpwNxYphWViHk) | 2:17 | 2025-05-23 |  |
 | [Levitation](https://open.spotify.com/track/6DZNRRRYdh8GGMFCWGQph2) | [Stanton](https://open.spotify.com/artist/2bFESEkcjm4jaMnLd3ROM5) | [Levitation](https://open.spotify.com/album/1dFGxCa64YyA4rk5x2VdrJ) | 3:16 | 2021-11-10 | 2023-03-04 |
 | [Licorice](https://open.spotify.com/track/517E0FKxGOc8ydUdTUdS49) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [Licorice](https://open.spotify.com/album/57B3uwORFO3AT8krK2Ivgk) | 2:04 | 2021-11-10 | 2022-08-20 |
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-10 | 2022-01-22 |
@@ -577,6 +579,7 @@
 | [stuffin](https://open.spotify.com/track/6mb1iSZnSRH8gFhihPYl0A) | [youefoh](https://open.spotify.com/artist/5lLRYA4wx1a3WcdYiz9vYh) | [stuffin](https://open.spotify.com/album/26T3ADYF16bjYapOZgZaCO) | 2:32 | 2021-11-10 | 2022-05-11 |
 | [Style Stranger](https://open.spotify.com/track/0M33TAxfZialo30HwJUDIj) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [Style Stranger](https://open.spotify.com/album/746P5Q85sRZMmaMu2oolTa) | 2:19 | 2021-11-10 | 2025-04-12 |
 | [Summer Right](https://open.spotify.com/track/1m1s63EvtvXuLSHR6GdBQD) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Summer Right](https://open.spotify.com/album/3VgihfMkwj432VOQBGGWNJ) | 3:05 | 2024-06-13 |  |
+| [summer vibe city](https://open.spotify.com/track/0VpG54yFLYpB5NUQyfNCbC) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [summer vibe city](https://open.spotify.com/album/5jQNvU0rIa8Chk6gB6X7kF) | 2:19 | 2025-05-23 |  |
 | [Sun Dust](https://open.spotify.com/track/6S62v3zd7j4AA9MwyGdJlS) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sun Dust](https://open.spotify.com/album/7nMfNR8ZJ7b0dyc6zLz7P4) | 3:32 | 2021-11-10 | 2022-04-15 |
 | [Sun o'clock](https://open.spotify.com/track/3mLe9QMhMCcPvlkJgQbEi8) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Sun o'clock](https://open.spotify.com/album/4AxgTe4ALkZ41Eu0DKI2H9) | 2:17 | 2022-05-27 |  |
 | [Sunday Adventures](https://open.spotify.com/track/0VbkuDmoBUtdAAePWnyRP2) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Sunday Adventures](https://open.spotify.com/album/79a2OpVBeeAfdtDi3jm2ic) | 3:09 | 2022-02-10 | 2025-02-01 |
@@ -603,6 +606,7 @@
 | [Tastes Good](https://open.spotify.com/track/4bI06A9nrTfdgbZStV1tMc) | [Bonny Roland](https://open.spotify.com/artist/2mATgh8AsOgRf2YuGobljB) | [Tastes Good](https://open.spotify.com/album/4SsTht64ubSec67F8Z1F2G) | 3:10 | 2021-11-10 | 2022-07-01 |
 | [Telescopes And Coffee](https://open.spotify.com/track/3TNh50TIvtx2iLeoDwAQ8m) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Strange Lights](https://open.spotify.com/album/6mAbI0OhlwoH500rL1V8P1) | 2:57 | 2021-11-10 | 2022-05-20 |
 | [Tell Me](https://open.spotify.com/track/7nVnk5CeHS4Kik3kYBYec3) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3), [løift.](https://open.spotify.com/artist/0XWohQFTLp3lPtlgekLfui), [Barlon](https://open.spotify.com/artist/7shuPrZCHGXQzCaTLghEai) | [Tell Me](https://open.spotify.com/album/1W8xqyEJ3J5ILnMMk18boR) | 2:31 | 2022-11-25 | 2025-02-01 |
+| [Tempel](https://open.spotify.com/track/5PRK2YEF3iSufclolLWqaQ) | [Morning life](https://open.spotify.com/artist/594JjvUBbtG5rOcSd75EYj) | [Tempel](https://open.spotify.com/album/4PCInCTH1XixEpsNS31Csm) | 2:26 | 2025-05-23 |  |
 | [Temples \- Linearwave Remix](https://open.spotify.com/track/2j5Rq6Os840y5BYrRvWZAp) | [Thomas Tempest](https://open.spotify.com/artist/4zpQwRAlCIdPEA6DYiPxQ4), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Temples \(Linearwave Remix\)](https://open.spotify.com/album/018vuLWlMG7QtAXi9bIBvj) | 1:18 | 2022-10-28 | 2023-07-29 |
 | [The Beach House](https://open.spotify.com/track/69ebx72hoPi4epYQDsx3ue) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [The Hidden](https://open.spotify.com/artist/04tAx7RyH6wL9gCnT9TuXH) | [The Beach House](https://open.spotify.com/album/4TeY7rJaPptBgpnKcMBbD4) | 1:49 | 2023-01-13 | 2023-07-29 |
 | [The Bottom Line](https://open.spotify.com/track/25JWbGTFzNsdt1NRxmPMKr) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [The Bottom Line](https://open.spotify.com/album/1X2SahOgrsw4TV98fk9scf) | 2:07 | 2024-12-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,722 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,718 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 50 | [Olha A Explosão \- Remix](https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Olha A Explosão \(Remix\)](https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp) | 3:30 |
 | 51 | [Separei](https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Separei](https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM) | 2:42 |
 | 52 | [Talarica](https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Talarica](https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP) | 2:42 |
-| 53 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |
+| 53 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 |
 | 54 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
-| 55 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 |
+| 55 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |
 | 56 | [Chama Ela \(feat\. Pedro Sampaio\)](https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Chama Ela \(feat\. Pedro Sampaio\)](https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW) | 2:00 |
 | 57 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |
 | 58 | [Tudo Ok](https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Mila](https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tudo Ok](https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA) | 2:58 |

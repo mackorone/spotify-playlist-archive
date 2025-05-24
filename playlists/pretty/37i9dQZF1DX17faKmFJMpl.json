@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 4463,
+  "num_followers": 4469,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Fanatic",
         "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 258506,
       "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
       "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "Ill Skillz",
-          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
-        }
-      ],
-      "duration_ms": 237906,
-      "name": "Windbag Three Brothers and Spinner Park",
-      "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Modern Rhymes XX",
         "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 241263,
       "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
       "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "Ill Skillz",
+          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
+        }
+      ],
+      "duration_ms": 237906,
+      "name": "Windbag Three Brothers and Spinner Park",
+      "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1167,6 +1167,30 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "We Are Music",
+        "url": "https://open.spotify.com/album/42MwGnXRAsCAdqHiy0sZcJ"
+      },
+      "artists": [
+        {
+          "name": "Infinite Flow (I.F)",
+          "url": "https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Sean2Slow",
+          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Be Free (feat. Verbal Jint, Sean2Slow)",
+      "url": "https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "MP Hip Hop 2001 \ub300\ubc15",
         "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 166974,
       "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
       "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "We Are Music",
-        "url": "https://open.spotify.com/album/42MwGnXRAsCAdqHiy0sZcJ"
-      },
-      "artists": [
-        {
-          "name": "Infinite Flow (I.F)",
-          "url": "https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc"
-        },
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Sean2Slow",
-          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Be Free (feat. Verbal Jint, Sean2Slow)",
-      "url": "https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MAESTRO",
-        "url": "https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7"
-      },
-      "artists": [
-        {
-          "name": "Outsider",
-          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "\uc678\ud1a8\uc774",
-      "url": "https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Modern Rhymes XX",
         "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 204800,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "MAESTRO",
+        "url": "https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7"
+      },
+      "artists": [
+        {
+          "name": "Outsider",
+          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "\uc678\ud1a8\uc774",
+      "url": "https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 164354,
-      "name": "Radio - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "\uc870PD. Net / Best In East",
         "url": "https://open.spotify.com/album/1WmWpvspnZ2DQGL4dsbdWR"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 256574,
       "name": "Never Give Up \u2161 (Feat. \uc190\ubc15\uc0ac, \uc624\uc804\ub3c4\uc0ac, DJ Uzi, Rich)",
       "url": "https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 164354,
+      "name": "Radio - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        },
-        {
-          "name": "The Illest I.L.L.S.",
-          "url": "https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Ill Skill",
         "url": "https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ"
       },
@@ -1583,22 +1559,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Garion \uac00\ub9ac\uc628",
-        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
-      },
-      "artists": [
-        {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
-      "url": "https://open.spotify.com/track/4kmIEThorIgS5RewYcPgkJ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Eobusa \uc5b4\ubd80\uc0ac (Fisherman's Song)",
         "url": "https://open.spotify.com/album/7n2NOSEVPIuiwgIGqIS4uP"
       },
@@ -1611,6 +1571,22 @@
       "duration_ms": 266066,
       "name": "Little Thug Kid 2 \uaf2c\ub9c8 \ub2ec\uac74\uc774 2",
       "url": "https://open.spotify.com/track/1zEY6NpfK4AXxUUxko2rfJ"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Garion \uac00\ub9ac\uc628",
+        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
+      "url": "https://open.spotify.com/track/4kmIEThorIgS5RewYcPgkJ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1659,6 +1635,66 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        },
+        {
+          "name": "The Illest I.L.L.S.",
+          "url": "https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "\ucd08\ud589",
+        "url": "https://open.spotify.com/album/1GSL8pQCUL1Zxs1PmPiTn2"
+      },
+      "artists": [
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        }
+      ],
+      "duration_ms": 307487,
+      "name": "\ud55c\uad6d\uc778",
+      "url": "https://open.spotify.com/track/0PMCOifKyHiOzlZjLLg0gF"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Superior Vol.1 - This Iz My Life",
+        "url": "https://open.spotify.com/album/2Mxypsh7OKdQ5nOwZ4aPlj"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Solo To The Top 2 \uc815\uc0c1\uc744 \ud5a5\ud55c \ub3c5\uc8fc 2 (Feat. Kim Bum Soo)",
+      "url": "https://open.spotify.com/track/5UzBhnEl5xTU4K0lJTesoA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Ill Skill",
         "url": "https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ"
       },
@@ -1687,42 +1723,6 @@
       "duration_ms": 253453,
       "name": "\ub5a0\ubc84\ub9ac Pt. 2 (feat. Pocyomkin, 1 Kyne, Sean2slow & \ub354\ube14\ucf00\uc774)",
       "url": "https://open.spotify.com/track/1dfWtvnNCvMXE7kJOyZAF2"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Superior Vol.1 - This Iz My Life",
-        "url": "https://open.spotify.com/album/2Mxypsh7OKdQ5nOwZ4aPlj"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Solo To The Top 2 \uc815\uc0c1\uc744 \ud5a5\ud55c \ub3c5\uc8fc 2 (Feat. Kim Bum Soo)",
-      "url": "https://open.spotify.com/track/5UzBhnEl5xTU4K0lJTesoA"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "\ucd08\ud589",
-        "url": "https://open.spotify.com/album/1GSL8pQCUL1Zxs1PmPiTn2"
-      },
-      "artists": [
-        {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
-        }
-      ],
-      "duration_ms": 307487,
-      "name": "\ud55c\uad6d\uc778",
-      "url": "https://open.spotify.com/track/0PMCOifKyHiOzlZjLLg0gF"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Ill Skill",
-        "url": "https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ"
-      },
-      "artists": [
-        {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
-        },
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "\uc778\uc0dd \ubb50 \uc788\uc5b4? (feat. \uc591\ub3d9\uadfc)",
-      "url": "https://open.spotify.com/track/4wLUEhXVak95Iwg7H8nVgW"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "More Than Music",
         "url": "https://open.spotify.com/album/4JQwPqFHqn2arGpvaBfxjh"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 277306,
       "name": "\ud68c\uc0c1",
       "url": "https://open.spotify.com/track/3fYqXfzjf7srb50yl9aWsB"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Full Time",
+        "url": "https://open.spotify.com/album/6q48CYqtHUVsjtLGCETLwD"
+      },
+      "artists": [
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        },
+        {
+          "name": "MC META",
+          "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "\uc8fd\uc74c\uc758 \uc608\uc220 (feat. MC Meta)",
+      "url": "https://open.spotify.com/track/3ynP72sQ4W9m43cn8DkVnG"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1911,22 +1911,38 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Full Time",
-        "url": "https://open.spotify.com/album/6q48CYqtHUVsjtLGCETLwD"
+        "name": "Ill Skill",
+        "url": "https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ"
       },
       "artists": [
         {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
         },
         {
-          "name": "MC META",
-          "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
         }
       ],
-      "duration_ms": 233853,
-      "name": "\uc8fd\uc74c\uc758 \uc608\uc220 (feat. MC Meta)",
-      "url": "https://open.spotify.com/track/3ynP72sQ4W9m43cn8DkVnG"
+      "duration_ms": 204466,
+      "name": "\uc778\uc0dd \ubb50 \uc788\uc5b4? (feat. \uc591\ub3d9\uadfc)",
+      "url": "https://open.spotify.com/track/4wLUEhXVak95Iwg7H8nVgW"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Garion \uac00\ub9ac\uc628",
+        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "duration_ms": 378733,
+      "name": "\uc61b \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/4fLxywbDuOTa5Ht8UMcSZF"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1947,26 +1963,6 @@
       "duration_ms": 208066,
       "name": "Feeling You (feat. \uc0db\ubcc4 Satbyeol)",
       "url": "https://open.spotify.com/track/7DrZq2baW5oY8gLxs4vJgB"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4gCdwl8jqPWNBB4L96ugFK"
-      },
-      "artists": [
-        {
-          "name": "BAECHIGI",
-          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
-        },
-        {
-          "name": "AG",
-          "url": "https://open.spotify.com/artist/2Fi0a9OJGrQAcvbeRtJfV3"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "\ubc18\uac11\uc2b5\ub2c8\ub2e4 (feat. AG)",
-      "url": "https://open.spotify.com/track/2WXdxJC5ccIdqaEkT6IkPi"
     },
     {
       "added_at": "2024-11-20 08:34:55",

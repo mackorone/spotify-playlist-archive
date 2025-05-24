@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 183403,
+  "num_followers": 183436,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Vanishing Shores",
-        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
-      },
-      "artists": [
-        {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
-        }
-      ],
-      "duration_ms": 212725,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Do What Feeds Your Soul",
         "url": "https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 155213,
       "name": "Do What Feeds Your Soul",
       "url": "https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Vanishing Shores",
+        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
+      },
+      "artists": [
+        {
+          "name": "Tom West",
+          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
+        }
+      ],
+      "duration_ms": 212725,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
     },
     {
       "added_at": "2024-07-05 19:49:15",

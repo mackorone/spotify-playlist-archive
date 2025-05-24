@@ -4,7 +4,7 @@
 
 > 
 
-192 songs - 7 hr 42 min
+193 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2025-05-20 |  |
 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 | 2025-01-16 |  |
 | [CRYSTALS](https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS](https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc) | 1:08 | 2024-12-31 |  |
+| [CUNT!](https://open.spotify.com/track/7q93z8CgPNFePxuOaLlO8l) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [CUNT!](https://open.spotify.com/album/7noIIWXmY1tYiJITkL1ULL) | 1:50 | 2025-05-23 |  |
 | [degen.](https://open.spotify.com/track/4aD0uQvbDJDWaHzEb4tpg5) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [degen.](https://open.spotify.com/album/6go8FVAAVxTHhhnYcfiqru) | 2:52 | 2025-05-03 |  |
 | [DINNER!](https://open.spotify.com/track/2ntvY5etas0PYYF5bPujuh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [DINNER!](https://open.spotify.com/album/5VFwh2DtKqihtJPFG2J6qK) | 2:16 | 2025-01-20 |  |
 | [don'twasteurtimeonme.](https://open.spotify.com/track/11HdoXtPilCaCGTnIu1HvU) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 3:02 | 2025-04-10 |  |

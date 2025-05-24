@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-618 songs - 1 day 5 hr 32 min
+619 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Don](https://open.spotify.com/track/1Pb0kCirr3q8Cw2CL77y7R) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Don](https://open.spotify.com/album/2OjJGY6iQx0FAkQS5RMDJ1) | 3:22 | 2024-12-13 | 2025-02-05 |
 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 | 2024-06-10 |  |
 | [Don’T Care](https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5) | [Gur\. V](https://open.spotify.com/artist/28zEsrNPBJJSsmRjsysTvY), [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Don’T Care](https://open.spotify.com/album/1ZbZn6xKNv0PDn7hq2B9Av) | 2:50 | 2023-04-17 | 2023-04-21 |
+| [Drillside](https://open.spotify.com/track/6SI6p2Le5pXDPOwrgaeo20) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Jas Dhaliwal](https://open.spotify.com/artist/2xBB83EHB7meIbgraUzzEl) | [Drillside](https://open.spotify.com/album/0Rrcrp1u0iWeIo7bFGteCS) | 2:11 | 2025-05-23 |  |
 | [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-06-29 | 2024-01-28 |
 | [Duphare](https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:05 | 2023-03-29 | 2023-04-15 |
 | [East West](https://open.spotify.com/track/0ixZI5oa9PYpRxu8h1F8tS) | [Yuvraj Hara](https://open.spotify.com/artist/3DQIyhjrn6I9NiDf8lWVlp) | [East West](https://open.spotify.com/album/0X9uP5sRwwMndCWU09lpkk) | 2:16 | 2024-07-08 | 2024-07-19 |
@@ -587,7 +588,7 @@
 | [Venom](https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo) | [Amninder Bugga](https://open.spotify.com/artist/0RE6WCjLuveGFO35kHluZL), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Venom](https://open.spotify.com/album/4Sly6dIWIWsz2e5RWsq9YM) | 2:22 | 2024-07-24 | 2024-08-06 |
 | [Vibe](https://open.spotify.com/track/2jg12Hm0uoAdSDj6TpjII2) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Sruishty Maan](https://open.spotify.com/artist/4eyp9UE4jjQVgBFai1AQqz) | [Vibe](https://open.spotify.com/album/39TgDdcNT7Bp5VAekbTFut) | 2:44 | 2023-07-04 | 2024-08-15 |
 | [Vibe](https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Vibe](https://open.spotify.com/album/0iFzZFYfOGwar3n7MRvDEn) | 2:20 | 2024-09-03 |  |
-| [Victory](https://open.spotify.com/track/7pNO4tDG13Ujd1sCVNQO8J) | [Gurwaris Sandhu](https://open.spotify.com/artist/1AlgYxdLYq9ZVUtJdPlTHY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Victory](https://open.spotify.com/album/2nLdgD2HubB4beOQkN7gmb) | 2:39 | 2025-04-23 |  |
+| [Victory](https://open.spotify.com/track/7pNO4tDG13Ujd1sCVNQO8J) | [Gurwaris Sandhu](https://open.spotify.com/artist/1AlgYxdLYq9ZVUtJdPlTHY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Victory](https://open.spotify.com/album/2nLdgD2HubB4beOQkN7gmb) | 2:39 | 2025-04-23 | 2025-05-24 |
 | [Violence](https://open.spotify.com/track/5eUZPftNEXKMin9Evi5aJq) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Violence](https://open.spotify.com/album/5Yo740RpqOBrqJwuaeByNY) | 2:26 | 2023-03-29 | 2024-08-14 |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-29 | 2023-04-21 |
 | [Waaka](https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Waaka](https://open.spotify.com/album/1ae98eyinEiWmkEJzGhhE9) | 2:17 | 2023-05-05 | 2024-08-15 |

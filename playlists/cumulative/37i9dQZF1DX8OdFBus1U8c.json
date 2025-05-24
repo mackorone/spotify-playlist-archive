@@ -83,6 +83,36 @@
     },
     {
       "album": {
+        "name": "Aadai Azhake",
+        "url": "https://open.spotify.com/album/0v0bBMoC4zODbJYDcT5hMy"
+      },
+      "artists": [
+        {
+          "name": "Jubair Muhammed",
+          "url": "https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Nihal Sadiq",
+          "url": "https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Aadai Azhake",
+      "url": "https://open.spotify.com/track/1NGovmwwtvXFLRkumum16T"
+    },
+    {
+      "album": {
         "name": "Aadhipathyam",
         "url": "https://open.spotify.com/album/3xWmcjHaCNKouwMOEua54R"
       },
@@ -810,7 +840,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 190000,
       "name": "Bedak",
       "url": "https://open.spotify.com/track/4Uh1IJMMI1NxiNYT2JE5Vp"
@@ -858,6 +888,24 @@
       "duration_ms": 123600,
       "name": "BFJ",
       "url": "https://open.spotify.com/track/2t5t4EAwgA4z2ndS419ty8"
+    },
+    {
+      "album": {
+        "name": "Black & White kadhali",
+        "url": "https://open.spotify.com/album/6st3MMWQdWDf6QEd0osJ7X"
+      },
+      "artists": [
+        {
+          "name": "Kael Blue",
+          "url": "https://open.spotify.com/artist/5KPTemOA2QDf8oNIMTZr1W"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Black & White kadhali",
+      "url": "https://open.spotify.com/track/0lRolEcSPlig9oWIspGfz7"
     },
     {
       "album": {
@@ -1282,7 +1330,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 145945,
       "name": "Chekkile Gang",
       "url": "https://open.spotify.com/track/3KEHrcSOHj1sTcIvO7G3pi"
@@ -1900,7 +1948,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 206896,
       "name": "God complex",
       "url": "https://open.spotify.com/track/10CKbT3G5G37oiHJh6cAPx"
@@ -2060,6 +2108,24 @@
       "duration_ms": 160986,
       "name": "Hyena",
       "url": "https://open.spotify.com/track/6OlurkzGXQ5myTKEtC1NQk"
+    },
+    {
+      "album": {
+        "name": "Hype Keri",
+        "url": "https://open.spotify.com/album/08EJ7SCMKawzpukq6fh2Rl"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160548,
+      "name": "Hype Keri",
+      "url": "https://open.spotify.com/track/1HsIlxexxmjsOD2VdkE6jc"
     },
     {
       "album": {
@@ -2681,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Sambhavam Arambham",
+        "url": "https://open.spotify.com/album/1g1YXql3twHThG5AgnWARo"
+      },
+      "artists": [
+        {
+          "name": "Oorali Martin",
+          "url": "https://open.spotify.com/artist/7w13cGJvLZGWrYnobt6NoY"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136774,
+      "name": "Katta Karupp",
+      "url": "https://open.spotify.com/track/1j9N00nPSML4YIwzHNOE7K"
+    },
+    {
+      "album": {
         "name": "Kavala Talk",
         "url": "https://open.spotify.com/album/1h0RwoBq2MMkLC2TniI4nx"
       },
@@ -3068,7 +3152,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 189262,
       "name": "Kusumathi",
       "url": "https://open.spotify.com/track/4Ughcg2C6cVnoC9B7PBtGc"
@@ -3322,7 +3406,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 124992,
       "name": "Lokham",
       "url": "https://open.spotify.com/track/5dMkpF9L4vbSqogcL1MjPK"
@@ -4414,6 +4498,24 @@
       "duration_ms": 152000,
       "name": "NNIV",
       "url": "https://open.spotify.com/track/7MxaW6IbtJsnbTvKHCRgoB"
+    },
+    {
+      "album": {
+        "name": "Off Beat",
+        "url": "https://open.spotify.com/album/79uOviJWVAKFpWRFtPPL3U"
+      },
+      "artists": [
+        {
+          "name": "Mc Nasrani",
+          "url": "https://open.spotify.com/artist/5aFSicJRS8LVWngpNLh4DB"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224771,
+      "name": "Off Beat",
+      "url": "https://open.spotify.com/track/0VfJ3oN2pLfbNEOhDWHSVW"
     },
     {
       "album": {
@@ -5983,6 +6085,28 @@
     },
     {
       "album": {
+        "name": "Thammi Thalli",
+        "url": "https://open.spotify.com/album/2iYx4mHDxUb2p3XtXJj9hL"
+      },
+      "artists": [
+        {
+          "name": "MUSLI",
+          "url": "https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO"
+        },
+        {
+          "name": "ThudWiser",
+          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Thammi Thalli",
+      "url": "https://open.spotify.com/track/2yJ6Wq1Mjd8Mk64ZRwxdOi"
+    },
+    {
+      "album": {
         "name": "Thampuran",
         "url": "https://open.spotify.com/album/33kfbVUPzhJmLENH92yis5"
       },
@@ -7152,7 +7276,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 118363,
       "name": "yenthina (from \"nilapad\")",
       "url": "https://open.spotify.com/track/7rtpgV74gMPXM2ancRANyo"

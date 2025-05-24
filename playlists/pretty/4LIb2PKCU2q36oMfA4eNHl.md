@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,825 likes - 101 songs - 6 hr 13 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,828 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 |
 | 2 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 |
 | 3 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 |
-| 4 | [Looking Up](https://open.spotify.com/track/4z4sZuWyEtvrVoQYQJXlwX) | [Toutounji](https://open.spotify.com/artist/1QDg1LnUhhUMyU4re9ol0K), [Sydney Bryce](https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6) | [Looking Up](https://open.spotify.com/album/2YIUPe9KlTnLbTMblca0o0) | 2:28 |
-| 5 | [Brighter Days](https://open.spotify.com/track/2xLrA5F9V2KqTzr0X0ZgeW) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Brighter Days](https://open.spotify.com/album/3Bls23TVqJgAtC5abgUlBR) | 3:53 |
+| 4 | [Brighter Days](https://open.spotify.com/track/2xLrA5F9V2KqTzr0X0ZgeW) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Brighter Days](https://open.spotify.com/album/3Bls23TVqJgAtC5abgUlBR) | 3:53 |
+| 5 | [Looking Up](https://open.spotify.com/track/4z4sZuWyEtvrVoQYQJXlwX) | [Toutounji](https://open.spotify.com/artist/1QDg1LnUhhUMyU4re9ol0K), [Sydney Bryce](https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6) | [Looking Up](https://open.spotify.com/album/2YIUPe9KlTnLbTMblca0o0) | 2:28 |
 | 6 | [Afterlife](https://open.spotify.com/track/6SRDUA2621H5vjtgl7qy1V) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Afterlife](https://open.spotify.com/album/6DM0yWvaTl6y0yC4n6JtzZ) | 3:27 |
 | 7 | [Looking Through The Mirror Of The Soul \- Nailah Hunter Remix](https://open.spotify.com/track/64lfwa2R79zCXuXYaoe198) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Everything Changes, Nothing Ends \(The Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 4:24 |
 | 8 | [Contours \- Steven Weston Remix](https://open.spotify.com/track/3YAsdtrx9ahhRmF40lKgEa) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U) | [Contours \(Steven Weston Remix\)](https://open.spotify.com/album/0t4X9kaICRhAkbXtcqbfKe) | 4:00 |
@@ -107,7 +107,6 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 97 | [Unhurried](https://open.spotify.com/track/3Pa8ClWKXLUouXJKU4eug7) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 5:18 |
 | 98 | [Remember Me](https://open.spotify.com/track/0bvg3pqElCGWGWwlvshxUy) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Bloom EP](https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq) | 3:10 |
 | 99 | [Ready](https://open.spotify.com/track/4xT9lQIeYAtwYYH2rhEnH0) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Ready](https://open.spotify.com/album/4mX6UrciLTiSO6CDh5FZLm) | 3:59 |
-| 100 | [Maybe It Was Already Here](https://open.spotify.com/track/4Om2YCCAQedz29TCRK2PwQ) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 2:18 |
-| 101 | [Intro](https://open.spotify.com/track/5r7x4bKd0LtxQPRx3c8cZN) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Feeling Fades](https://open.spotify.com/album/44riDt5xm322EieCTgLbsk) | 1:30 |
+| 100 | [Intro](https://open.spotify.com/track/5r7x4bKd0LtxQPRx3c8cZN) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Feeling Fades](https://open.spotify.com/album/44riDt5xm322EieCTgLbsk) | 1:30 |
 
-Snapshot ID: `AAAKvVi6Fw+8lWDrVWEa+lQ7yPbAuXit`
+Snapshot ID: `AAAKvxMLWc8sm3ViBq3MvYPXNGc62Pwj`

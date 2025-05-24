@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 300253,
       "name": "La Iglesia",
       "url": "https://open.spotify.com/track/3JNH6YMWftYV6UhM93HFLt"
@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Me Encontr\u00f3",
+        "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234432,
+      "name": "Me Encontr\u00f3",
+      "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
+    },
+    {
+      "album": {
         "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
         "url": "https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC"
       },
@@ -1536,6 +1554,28 @@
       "duration_ms": 167778,
       "name": "MUSIQUITA",
       "url": "https://open.spotify.com/track/3ER6jbaDSO5APJynmLar9p"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Que Ayer",
+        "url": "https://open.spotify.com/album/49E7AN21BhiUQ1t366FqYH"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210058,
+      "name": "M\u00e1s Que Ayer",
+      "url": "https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH"
     },
     {
       "album": {
@@ -2420,7 +2460,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 206367,
       "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
       "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"

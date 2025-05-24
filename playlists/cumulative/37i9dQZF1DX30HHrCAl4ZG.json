@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Spacey Jane",
+  "description": "Explore all things indie rock right now. Featuring music from Wolf Alice",
   "name": "Today's Indie Rock",
   "tracks": [
+    {
+      "album": {
+        "name": "Hex Key",
+        "url": "https://open.spotify.com/album/71gvpd2oNaGwGmbqXOk8zk"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128679,
+      "name": "#1 Best of All Time",
+      "url": "https://open.spotify.com/track/77gSoBAAZoqvbzH0naiobU"
+    },
     {
       "album": {
         "name": "the record",
@@ -447,6 +465,24 @@
     },
     {
       "album": {
+        "name": "7 Months",
+        "url": "https://open.spotify.com/album/2dLMn2hMMJP9SnO4aBYemA"
+      },
+      "artists": [
+        {
+          "name": "Forth Wanderers",
+          "url": "https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152880,
+      "name": "7 Months",
+      "url": "https://open.spotify.com/track/3QIprxybtXTK5mifthT4Q5"
+    },
+    {
+      "album": {
         "name": "7-ELEVEn",
         "url": "https://open.spotify.com/album/45eR7ianPKFd5GxcOk4Mog"
       },
@@ -714,6 +750,24 @@
       "duration_ms": 187680,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe"
+    },
+    {
+      "album": {
+        "name": "Achilles And",
+        "url": "https://open.spotify.com/album/17WDuxWOOaKgoJIDbR4gd4"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "Achilles And",
+      "url": "https://open.spotify.com/track/74yoALVa8n1cOi4zdAZQ0t"
     },
     {
       "album": {
@@ -3228,7 +3282,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 219854,
       "name": "Beta Fish",
       "url": "https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U"
@@ -3520,7 +3574,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 245251,
       "name": "Billy (Yeah Yeah Yeah)",
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
@@ -4668,6 +4722,24 @@
       "duration_ms": 161833,
       "name": "Bread Believer",
       "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
+    },
+    {
+      "album": {
+        "name": "Break Right",
+        "url": "https://open.spotify.com/album/2TPBBafXEdnyCPcU1Q9xGD"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224351,
+      "name": "Break Right",
+      "url": "https://open.spotify.com/track/1orNLulzsRmGur5fwQuBfZ"
     },
     {
       "album": {
@@ -12788,7 +12860,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 215045,
       "name": "Good Ass Movie",
       "url": "https://open.spotify.com/track/46PtYBXwf9KYL2TF7llg6b"
@@ -13166,7 +13238,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 246288,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG"
@@ -17451,6 +17523,24 @@
     },
     {
       "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/18MOovkpxIHWOSMB37PGKf"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148455,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/0PCB6i5MHdB94K3gEFvn2Q"
+    },
+    {
+      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
       },
@@ -19824,7 +19914,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 184933,
       "name": "Mega Circuit",
       "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
@@ -21768,7 +21858,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 286480,
       "name": "No Front Teeth",
       "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
@@ -23896,7 +23986,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 211126,
       "name": "Praise",
       "url": "https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe"
@@ -24757,6 +24847,24 @@
     },
     {
       "album": {
+        "name": "Return of Youth",
+        "url": "https://open.spotify.com/album/0rBtZug6roUoHxRSVCpPWC"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458000,
+      "name": "Return of Youth",
+      "url": "https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw"
+    },
+    {
+      "album": {
         "name": "Revolver",
         "url": "https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv"
       },
@@ -24790,6 +24898,24 @@
       "duration_ms": 159616,
       "name": "Rice",
       "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
+    },
+    {
+      "album": {
+        "name": "Mixtape (Edit)",
+        "url": "https://open.spotify.com/album/1lReFHyY3Oj9f8USB2q9Bv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125782,
+      "name": "Richer Feeling",
+      "url": "https://open.spotify.com/track/72o0dEaBzdIUlg8vR2yQmu"
     },
     {
       "album": {

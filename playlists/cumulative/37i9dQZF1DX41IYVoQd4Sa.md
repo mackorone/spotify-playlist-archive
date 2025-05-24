@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-234 songs - 13 hr 44 min
+235 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,8 +88,9 @@
 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 | 2024-06-27 | 2025-02-10 |
 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 | 2024-09-26 |  |
 | [אחרי המלחמה](https://open.spotify.com/track/1RZl2XOL1MuDkltAKIc6gO) | [Eifo HaYeled](https://open.spotify.com/artist/4tOEC0rfs2z2Sf1Tv2OKAg) | [אחרי המלחמה](https://open.spotify.com/album/22elS8uL9bbPfuvDkiLTvD) | 3:16 | 2025-05-01 |  |
+| [אייפון \- גרסה עברית](https://open.spotify.com/track/5RCZpcNIes8bLNfsHw7q3y) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [אייפון \(גרסה עברית\)](https://open.spotify.com/album/42po7QHiTT56Vp0e2fMKKU) | 4:19 | 2025-05-22 |  |
 | [אלבי](https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y) | [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [אלבי](https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R) | 3:26 | 2025-03-06 |  |
-| [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 | 2024-12-12 |  |
+| [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 | 2024-12-12 | 2025-05-24 |
 | [אנטישיימינג](https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu) | [Roy Rieck](https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI) | [אנטישיימינג](https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P) | 2:41 | 2025-02-27 | 2025-04-11 |
 | [אני משם](https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [אני משם](https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi) | 3:30 | 2025-01-02 | 2025-02-21 |
 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 | 2024-06-27 | 2024-11-14 |

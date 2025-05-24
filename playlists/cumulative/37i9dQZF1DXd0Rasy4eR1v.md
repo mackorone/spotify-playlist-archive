@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Afusic
+> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Sheheryar Rehan
 
-1,033 songs - 2 day 7 hr 31 min
+1,035 songs - 2 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Runner Up](https://open.spotify.com/track/0yvp4CA25YyNBj6eTgk9Bk) | [Shaeel Abrar](https://open.spotify.com/artist/0UwNM0Hix0biVpO0YFQD6A) | [Runner Up](https://open.spotify.com/album/5TfDFOKjeaZE6QKpFQa58O) | 2:01 | 2022-11-17 | 2022-12-01 |
 | [Running Away](https://open.spotify.com/track/6uOPjvt66Jb6Gj5R0vKziC) | [Kasha](https://open.spotify.com/artist/3PPLHPw7kF0wn2WUclnkiH) | [Running Away](https://open.spotify.com/album/3kjSa5kq7pot8EJg5CFn6Z) | 3:16 | 2022-11-17 | 2022-12-01 |
 | [Rus Na Kurreh](https://open.spotify.com/track/4hmt5X9o0xWEjTn5QvhAsC) | [Luqy](https://open.spotify.com/artist/6gCmR66uSPKIUxQveeoWB3) | [Rus Na Kurreh](https://open.spotify.com/album/4hwZd1s2Y0nw4ci2KKt7xc) | 2:30 | 2022-10-26 | 2022-11-18 |
+| [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 | 2025-05-23 |  |
 | [Saajna](https://open.spotify.com/track/47jrjADMtdDFBgY3OLEhlR) | [Salman Riaz](https://open.spotify.com/artist/2KohC1BuJg5vKPayKyZxS1), [Zoraiz Riaz](https://open.spotify.com/artist/6niZeNtEAL32ctmePwx6OI) | [Saajna](https://open.spotify.com/album/45SyUM1lclSDpwBG5UVVO2) | 4:00 | 2024-01-04 | 2024-02-24 |
 | [SAANJH](https://open.spotify.com/track/35uQHzRMUVP19vO7QknzsZ) | [XLR8](https://open.spotify.com/artist/18COFflz52DNyC1f2JAumS), [DRG Musics](https://open.spotify.com/artist/0bMnT7mTcQQZa1cLr7kPlW) | [SAANJH](https://open.spotify.com/album/0vzS6S7tJyZxZfNkPRwsuj) | 2:44 | 2024-01-12 | 2024-05-10 |
 | [Saath](https://open.spotify.com/track/7ppwWVbeu0PvViOVuQYvq3) | [kaxim](https://open.spotify.com/artist/3o1sdGkQiXyKjvm1O5FhNG), [Indenial](https://open.spotify.com/artist/0Kkzb2tJCXTUuVMkI3MyJC) | [Saath](https://open.spotify.com/album/1LkL5KvVibn6h95466oSMs) | 2:33 | 2022-08-27 | 2022-09-24 |
@@ -815,6 +816,7 @@
 | [Sawalon Mein](https://open.spotify.com/track/79d0rjDCUikfj6KkYAVuNZ) | [Bakhtawar Ghaffar](https://open.spotify.com/artist/6x9brSsOB4jz5GOfThvp8p), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Sawalon Mein](https://open.spotify.com/album/1kwewG05B40C9ceBR1zKfe) | 3:54 | 2023-10-30 | 2023-12-09 |
 | [say your way](https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx) | [Mohsin Zaman](https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs) | [say your way](https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7) | 2:50 | 2023-11-17 | 2025-05-20 |
 | [Saya jo tera](https://open.spotify.com/track/2BIiosCpa2KFO0Ulhl2bgL) | [Mehtab Hassan](https://open.spotify.com/artist/1tVgKRoGjul8dKsFwf5odY), [MAB](https://open.spotify.com/artist/4UonCV2mOCrKD4na8gnVoW) | [Saya jo tera](https://open.spotify.com/album/1AAOIEGTc7dUkFzObnTq70) | 2:41 | 2025-02-28 |  |
+| [Saza](https://open.spotify.com/track/10woFQBx2lLrHTvh8rLBHG) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Saza](https://open.spotify.com/album/0Zybm7phKiGuSripA2hqDd) | 3:07 | 2025-05-23 |  |
 | [Scam](https://open.spotify.com/track/3uMilcK226NiUFi88XQsOd) | [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Scam](https://open.spotify.com/album/3vf0QXbKYyQDRHa8jEtLHh) | 3:06 | 2024-10-23 | 2024-12-05 |
 | [Scars](https://open.spotify.com/track/3DaxEB70g8o52e8E38DUHV) | [Hareem Rashid](https://open.spotify.com/artist/5CgNrw0edffQ7i1Vs3Twbg) | [Scars](https://open.spotify.com/album/48tOYEii8lCxs3Ky9QWgzR) | 3:19 | 2023-09-15 | 2023-11-11 |
 | [Scars](https://open.spotify.com/track/4aQLiIO0BF5ZlZhKlu5GiD) | [Hareem Rashid](https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi) | [Scars](https://open.spotify.com/album/6oZwkQQh88GqrwmkkkRRCt) | 3:20 | 2023-09-15 | 2023-09-26 |

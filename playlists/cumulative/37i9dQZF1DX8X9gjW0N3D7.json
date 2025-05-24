@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Point",
+        "url": "https://open.spotify.com/album/54amvrCm1neA2wWwLRX7Wo"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane Archambault",
+          "url": "https://open.spotify.com/artist/5mW94dZAqDWHpnj23vvXdF"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232253,
+      "name": "L'embranchement",
+      "url": "https://open.spotify.com/track/6YnVdI1YVBLsp2wBCrsTb3"
+    },
+    {
+      "album": {
         "name": "Pub Royal",
         "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 177253,
       "name": "Si je rampe",
       "url": "https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn"

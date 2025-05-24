@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Celebrating 10 years of Fresh Finds! The best new music by independent artists in the Nordics\. Cover: Melina Do Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,678 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,692 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 10 | [Let Me Know](https://open.spotify.com/track/7vFYy30fpndZSStay8ASzV) | [TALIE](https://open.spotify.com/artist/7wtHCbXjLpisiIVlBqLcpe) | [Let Me Know](https://open.spotify.com/album/3fLcmg5XnwvGJbJctm4ZKW) | 3:05 |
 | 11 | [blossom](https://open.spotify.com/track/1GzUDCxE7XWjo3dQKu4v0F) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [blossom](https://open.spotify.com/album/1AUe9iiDzf9TRxUBl3hwRf) | 3:21 |
 | 12 | [RAVE](https://open.spotify.com/track/2r52aQWD5gC72dI45t6QTR) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [RAVE](https://open.spotify.com/album/3UUtMYDUPTlkVIMkvaX00m) | 2:46 |
-| 13 | [Pretending](https://open.spotify.com/track/6UKrdEn4dTLD9RBTSsrXae) | [Vilma Crow](https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww) | [Good Dog for Sale](https://open.spotify.com/album/579SG8DeMJ3ZvRbi82vnpw) | 4:20 |
+| 13 | [Pretending](https://open.spotify.com/track/6UKrdEn4dTLD9RBTSsrXae) | [Vilma Crow](https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww) | [Good dog for sale](https://open.spotify.com/album/579SG8DeMJ3ZvRbi82vnpw) | 4:20 |
 | 14 | [Limerence \(feat\. DUMMY THICC & akselturbo\)](https://open.spotify.com/track/6byBU4PixqN7HpVm3Q4N4U) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt), [DUMMY THICC](https://open.spotify.com/artist/7EmhBZH67XRfSRc8NHhXG9), [akselturbo](https://open.spotify.com/artist/277h5JcMndLXXjNjSugBug) | [Limerence \(feat\. DUMMY THICC & akselturbo\)](https://open.spotify.com/album/5ZGzKhNAcCtFATuzrN9Lss) | 3:53 |
 | 15 | [Dime Girl](https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dime Girl](https://open.spotify.com/album/68P4N1NCqbfbTjdtIgPD5c) | 4:46 |
 | 16 | [dancing and fighting](https://open.spotify.com/track/5BFokqyHSjqfUc3keINU91) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [dancing and fighting](https://open.spotify.com/album/6MwHdd6cQKHMveoju0bL2j) | 2:43 |

@@ -2,9 +2,9 @@
 
 ### [CST](https://open.spotify.com/playlist/37i9dQZF1DX91gZ5XTbTPm)
 
-> The Midwest is always on time\. Cover: Tee Grizzley
+> The Midwest is always on time\. Cover: 42 Dugg
 
-1,193 songs - 2 day 6 hr 44 min
+1,195 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Bored](https://open.spotify.com/track/28x3MRS88Bjbws2bhFvcNZ) | [FWC Big Key](https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD) | [Bored](https://open.spotify.com/album/79Kdww4rfaNtGzhyCYCGKn) | 1:46 | 2022-09-02 | 2022-11-12 |
 | [Born By the River \(feat\. Sukihana\)](https://open.spotify.com/track/0bP2a2zAHTZxwtxTEkLqAg) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Born By the River \(feat\. Sukihana\)](https://open.spotify.com/album/7oBeYzlVYicGw7eovQGLxy) | 2:35 | 2022-08-12 | 2022-09-24 |
 | [Bosses Linking With Bosses](https://open.spotify.com/track/5w2HEVe6nQnn9yYCjeCBfu) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 2:10 | 2023-07-21 | 2023-11-18 |
-| [Bougie Hoes](https://open.spotify.com/track/74x94J6rUL6ZavNH0CIkyk) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [A Reaper's Ceremony](https://open.spotify.com/album/5zU9ruLdGdOm3Iip94ItGw) | 2:48 | 2024-08-30 |  |
+| [Bougie Hoes](https://open.spotify.com/track/74x94J6rUL6ZavNH0CIkyk) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [A Reaper's Ceremony](https://open.spotify.com/album/5zU9ruLdGdOm3Iip94ItGw) | 2:48 | 2024-08-30 | 2025-05-24 |
 | [Bounce \(feat\. G Herbo\)](https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Bounce](https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU) | 3:08 | 2023-06-02 | 2023-08-12 |
 | [Bounce Out Muzik](https://open.spotify.com/track/5gwSsTb0fDZuatAaQ1ee0O) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Bounce Out Muzik](https://open.spotify.com/album/347tf7QN1kifYOyFTuFGce) | 1:48 | 2024-12-13 | 2024-12-21 |
 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 | 2023-12-01 | 2023-12-16 |
@@ -237,6 +237,7 @@
 | [COINCIDENCE](https://open.spotify.com/track/6MFk8Dw2VnvweH2E46cjEv) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [COINCIDENCE](https://open.spotify.com/album/6yhxvEpEU3smpzc3RrWJa6) | 2:03 | 2022-08-19 | 2022-09-24 |
 | [Cold Soul 1.5](https://open.spotify.com/track/3ksOL8ryXDGux9E6Gzy47z) | [YSN Flow](https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF) | [Cold Soul 1.5](https://open.spotify.com/album/2EmIrbzkMPR7gPZ9Rkdoze) | 3:26 | 2022-07-01 | 2022-07-16 |
 | [Collective Nights](https://open.spotify.com/track/6Rb2FMI2mVyc8vuNpjDNRo) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Rio Circa 2020](https://open.spotify.com/album/4ACoNEslRfttCqfj0LI4w0) | 2:46 | 2024-05-17 | 2024-06-29 |
+| [Come Home](https://open.spotify.com/track/0OUJusExWi6PM06g3cpwbV) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [Come Home](https://open.spotify.com/album/6dgiL9q5Ckw8U3V14w1zYH) | 2:32 | 2025-05-23 |  |
 | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa) | 3:10 | 2022-01-14 | 2022-02-05 |
 | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/track/1fxlHuMfJPa0de1WJHOwBf) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/album/0xTtXNNN82brPd2cRn23ZX) | 2:14 | 2023-10-13 | 2024-03-02 |
 | [Comfy](https://open.spotify.com/track/2ulQFgMjMyhYCxZiSDhgd5) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Comfy](https://open.spotify.com/album/4dRhMOnGFG7b5LSJ3p56sw) | 3:31 | 2024-10-18 | 2024-10-26 |
@@ -708,7 +709,7 @@
 | [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 | 2023-11-10 | 2023-12-16 |
 | [No Kure](https://open.spotify.com/track/7lptWvJDvjipxGWUm2nsfS) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [No Kure](https://open.spotify.com/album/7BciByqTOwjVOxyfCq4W2O) | 2:59 | 2021-12-18 | 2022-01-15 |
 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 | 2022-12-02 | 2023-03-25 |
-| [No Love \(feat\. Lil Baby\)](https://open.spotify.com/track/0iZh0S8Fczu80nKITqWPGs) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:55 | 2024-07-05 |  |
+| [No Love \(feat\. Lil Baby\)](https://open.spotify.com/track/0iZh0S8Fczu80nKITqWPGs) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:55 | 2024-07-05 | 2025-05-24 |
 | [No Mask](https://open.spotify.com/track/2LtEJz45md938bFkaB0osY) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [New Money](https://open.spotify.com/album/3S35vId70s4N2OxkwZP67N) | 2:22 | 2022-09-23 | 2022-10-22 |
 | [No More Heroes](https://open.spotify.com/track/47XV8Js6lsAPdT0W90eFKZ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [No More Heroes](https://open.spotify.com/album/2aM0jFwChVIDIIpF6hUO0t) | 2:24 | 2024-11-29 | 2024-12-14 |
 | [No Panties \(with Sexyy Red\) \- From Rap Sh!t S2: The Mixtape](https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [No Panties \(with Sexyy Red\) \[From Rap Sh!t S2: The Mixtape\]](https://open.spotify.com/album/1nhOy9oUdLf97cebjpBlap) | 2:05 | 2023-09-29 | 2023-10-07 |
@@ -1139,6 +1140,7 @@
 | [We Don't Care](https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:16 | 2023-04-28 | 2023-06-17 |
 | [We Getting Money](https://open.spotify.com/track/6sQL7RyIeEyH6FulV1uFgl) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [We Getting Money](https://open.spotify.com/album/4nV9be7YSCuTiz4pUS5Xj6) | 2:26 | 2024-04-19 | 2024-05-11 |
 | [We Got Buttons](https://open.spotify.com/track/5MaMB2QUkc8SmmrNQSFSot) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [We Got Buttons](https://open.spotify.com/album/5UUy44Zmlm62y5z8qCyLPF) | 2:46 | 2025-04-11 | 2025-04-19 |
+| [WE NOT DONE](https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [WE NOT DONE](https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo) | 2:55 | 2025-05-23 |  |
 | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh) | 2:33 | 2024-08-02 |  |
 | [Weekend](https://open.spotify.com/track/6AMZkNq9YGGQ2K0FYtSabZ) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:38 | 2023-06-30 | 2023-08-12 |
 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 | 2024-06-28 | 2024-07-13 |

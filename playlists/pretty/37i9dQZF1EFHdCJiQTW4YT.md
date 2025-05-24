@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 127 | [Crave \- Fabian Mazur Remix](https://open.spotify.com/track/3iufbGDZE2wA1rxeNZgbre) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Crave](https://open.spotify.com/album/5nVVH4J5wa88mDevUVoVKy) | 3:22 |
 | 128 | [Crave](https://open.spotify.com/track/4dJIz3S6S2wQY5Sb1ZsL2A) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Bruises](https://open.spotify.com/album/0236kvYbYWUIXDWwxCh8ff) | 3:39 |
 | 129 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 |
-| 130 | [don't be so hard on yourself](https://open.spotify.com/track/5iMXZ1uxrnCg1mqL1tzkeL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:06 |
-| 131 | [Better Place](https://open.spotify.com/track/3e1NZPkmRK1w4DujhS5j7G) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8) | [Better Place](https://open.spotify.com/album/0feuFfcFRJpFFqx3lclxoi) | 3:11 |
+| 130 | [Better Place](https://open.spotify.com/track/3e1NZPkmRK1w4DujhS5j7G) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8) | [Better Place](https://open.spotify.com/album/0feuFfcFRJpFFqx3lclxoi) | 3:11 |
+| 131 | [don't be so hard on yourself](https://open.spotify.com/track/5iMXZ1uxrnCg1mqL1tzkeL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:06 |
 | 132 | [you got yours](https://open.spotify.com/track/5hYERZWgPCe3rLt8xDhi3V) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:28 |
 | 133 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
 | 134 | [too close \- piano version](https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:24 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 144 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 145 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AbyIKAAAAAD3Nf7NMKdF1tS6qx8qpY1O`
+Snapshot ID: `AbyNvgAAAADiZA6RwZDYi2G/g8aad5Lf`

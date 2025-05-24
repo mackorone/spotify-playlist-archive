@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 314506,
       "name": "Groove Factor",
       "url": "https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM"
@@ -9584,6 +9584,28 @@
       "duration_ms": 260996,
       "name": "Uptop",
       "url": "https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF"
+    },
+    {
+      "album": {
+        "name": "Ear Candy",
+        "url": "https://open.spotify.com/album/7xDbrkbiEbFDvUdRDmZq2R"
+      },
+      "artists": [
+        {
+          "name": "Slikk Muzik",
+          "url": "https://open.spotify.com/artist/3obIe2qa1nuILsEgOllAPh"
+        },
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/06lEskKdCy0uZU49QQ0uyN"
     },
     {
       "album": {

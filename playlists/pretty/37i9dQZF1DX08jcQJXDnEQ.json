@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1260258,
+  "num_followers": 1260709,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -187,8 +187,8 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 270920,
-      "name": "Falling Away from Me",
-      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
+      "duration_ms": 258266,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -315,8 +315,8 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
+      "duration_ms": 270920,
+      "name": "Falling Away from Me",
+      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 177960,
       "name": "When Worlds Collide",
       "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Spit It Out",
-      "url": "https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "System Of A Down",
         "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 160266,
       "name": "War?",
       "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 151760,
-      "name": "Suite-Pee",
-      "url": "https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "No Prayer for the Dying (2015 Remaster)",
         "url": "https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 283693,
       "name": "Bring Your Daughter... to the Slaughter - 2015 Remaster",
       "url": "https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik"
     },
     {
       "added_at": "2024-06-10 14:17:16",

@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/4ckNbXTzlhv3EE1xfOQGWv"
+      },
+      "artists": [
+        {
+          "name": "Leona Rue",
+          "url": "https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195803,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI"
+    },
+    {
+      "album": {
         "name": "Deeply Still In Love",
         "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
       },
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 140000,
       "name": "With u",
       "url": "https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG"

@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 505842,
+  "num_followers": 505881,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Christie",
-        "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
-      },
-      "artists": [
-        {
-          "name": "Christie",
-          "url": "https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Yellow River",
-      "url": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Once Upon A Star",
         "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 170360,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Christie",
+        "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
+      },
+      "artists": [
+        {
+          "name": "Christie",
+          "url": "https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Yellow River",
+      "url": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "And Then There Were Three",
-        "url": "https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 240991,
-      "name": "Follow You Follow Me - Remastered 2007",
-      "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 244826,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "And Then There Were Three",
+        "url": "https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 240991,
+      "name": "Follow You Follow Me - Remastered 2007",
+      "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
+        "name": "Even In The Quietest Moments (Remastered)",
+        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1051,34 +1051,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Even In The Quietest Moments (Remastered)",
-        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE"
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1099,6 +1083,22 @@
       "duration_ms": 239240,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE"
     },
     {
       "added_at": "2024-06-03 14:45:23",

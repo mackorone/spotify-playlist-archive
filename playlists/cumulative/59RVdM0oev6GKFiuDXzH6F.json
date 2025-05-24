@@ -4063,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "Do it & Rio",
+        "url": "https://open.spotify.com/album/4LwwYgZK1GOfS9cWja9pq9"
+      },
+      "artists": [
+        {
+          "name": "alo\u00efs",
+          "url": "https://open.spotify.com/artist/5Vnow0jqRh5mcUrMgF48W2"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181645,
+      "name": "Do it",
+      "url": "https://open.spotify.com/track/0cY0IP2Rg4SZ54VLpPjzaJ"
+    },
+    {
+      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/0CwJK5uOYwpyQyLN4f2jSQ"
       },

@@ -2,7 +2,7 @@
 
 ### [Todas Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
-> Las mejores nuevas canciones Cristianas\.  Foto: Mosaic MSC
+> Las mejores nuevas canciones Cristianas\.  Foto: Pescao Vivo
 
 2,835 songs - 8 day 17 hr 44 min
 

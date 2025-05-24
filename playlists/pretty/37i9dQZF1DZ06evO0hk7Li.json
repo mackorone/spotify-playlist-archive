@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39275,
+  "num_followers": 39278,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC0XgAAAAABT9sobyFn64ayY0ge/ggWk",
+  "snapshot_id": "aC5pAAAAAACc8y5XYcc21wyPKacIXLUY",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 297026,
-      "name": "Slow Up",
-      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 226813,
       "name": "By Design [Evel Knievel]",
       "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 297026,
+      "name": "Slow Up",
+      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
       "duration_ms": 136632,
       "name": "Parade",
       "url": "https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder: Book II",
-        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 130658,
-      "name": "All Aboard",
-      "url": "https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yonder: Book II",
+        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 130658,
+      "name": "All Aboard",
+      "url": "https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lundi M\u00e9chant",
         "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
       },
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
-      },
-      "artists": [
-        {
-          "name": "WiDE AWAKE",
-          "url": "https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 202133,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
+      },
+      "artists": [
+        {
+          "name": "WiDE AWAKE",
+          "url": "https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 202213,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -676,13 +676,13 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         },
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
         }
       ],
-      "duration_ms": 250826,
-      "name": "Be Good To Me (feat. Seinabo Sey)",
-      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
+      "duration_ms": 241573,
+      "name": "Kumbaya (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
     },
     {
       "added_at": null,
@@ -744,13 +744,29 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         },
         {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 241573,
-      "name": "Kumbaya (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
+      "duration_ms": 250826,
+      "name": "Be Good To Me (feat. Seinabo Sey)",
+      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 259986,
       "name": "Remember",
       "url": "https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     },
     {
       "added_at": null,

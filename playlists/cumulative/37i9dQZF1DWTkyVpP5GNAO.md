@@ -4,7 +4,7 @@
 
 > Dale a Dios toda la gloria y alabanza! Foto: Yelitza Cintron
 
-203 songs - 19 hr 57 min
+204 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Es Por Tu Gracia](https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:22 | 2021-07-23 | 2024-04-19 |
 | [Es Por Tu Gracia](https://open.spotify.com/track/2jSJ1TNnuaifMb1KM61lNn) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Playlist \- Canciones De Semana Santa](https://open.spotify.com/album/7wRKk71lLXvwMvV3G14ZPU) | 3:22 | 2021-07-23 | 2025-05-01 |
 | [Es Su Amor](https://open.spotify.com/track/61B2w9KqtI9xgmax05YvVs) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Es Su Amor](https://open.spotify.com/album/2ZW3vCvECa53KJ3UivKFyw) | 3:35 | 2021-07-23 |  |
+| [Escucharte Hablar / Dios Ha Sido Bueno](https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 4:58 | 2025-05-23 |  |
 | [Esta Cayendo](https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios De Lo Imposible](https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU) | 4:42 | 2024-06-22 |  |
 | [Fiel Hacia Mí](https://open.spotify.com/track/0vcLAxDU3QGMkW0M9P6l0I) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [CORITOS Vol\. 1](https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC) | 5:00 | 2025-05-12 |  |
 | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ) | 5:38 | 2024-06-22 |  |
@@ -97,7 +98,7 @@
 | [Jesucristo Basta](https://open.spotify.com/track/7vW4y4ZLJQIKO2vJTJveRI) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesucristo Basta](https://open.spotify.com/album/24swZpD4qZSJV3ZDgvJUe9) | 4:55 | 2025-04-11 |  |
 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u) | 5:05 | 2021-07-23 | 2024-04-19 |
 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4dS4gq496Yf7msTsgXEJSG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/1WfsoWeDqgkOS2KaIfSStH) | 5:05 | 2021-07-23 | 2025-03-01 |
-| [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 | 2021-07-23 |  |
+| [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 | 2021-07-23 | 2025-05-24 |
 | [La Bendición](https://open.spotify.com/track/7GXEqXgjSZfk0GbswEnexm) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/2RyJ2oTOxST7i6rEqVUG7V) | 5:57 | 2021-07-23 |  |
 | [La Bendición](https://open.spotify.com/track/7sy4lR1Q1FnOaAdyc8Aapz) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/24aCBIUVgyOIiUTmLQyarN) | 5:57 | 2021-07-23 | 2024-04-19 |
 | [La Cruz](https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm) | 5:46 | 2021-07-23 | 2024-06-23 |

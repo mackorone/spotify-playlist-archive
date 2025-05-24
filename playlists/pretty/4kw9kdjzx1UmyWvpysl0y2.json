@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125311,
+  "num_followers": 125306,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUHeIWYcJRcn+O8hgYjjxzhj1GZfq6",
+  "snapshot_id": "AAAUH+uYyR0DPO2dg46oWWHwmKh0z1nX",
   "tracks": [
+    {
+      "added_at": "2025-05-23 14:02:13",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/33jVgupLOP3SgVTAPj4eWv"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "ILLAMAN",
+          "url": "https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5hoyYgWURD3d68sZAECzwB"
+    },
     {
       "added_at": "2025-05-22 15:08:17",
       "album": {
@@ -1131,98 +1151,6 @@
       "duration_ms": 186000,
       "name": "The Echoes",
       "url": "https://open.spotify.com/track/586dTNuHAqUlNV3Y1UMgV0"
-    },
-    {
-      "added_at": "2025-03-03 14:48:52",
-      "album": {
-        "name": "WONKY",
-        "url": "https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 172682,
-      "name": "WONKY",
-      "url": "https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw"
-    },
-    {
-      "added_at": "2025-02-28 15:31:03",
-      "album": {
-        "name": "1 MAN ARMY",
-        "url": "https://open.spotify.com/album/0JiUH7A9KRrmt1P7sUB0ta"
-      },
-      "artists": [
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        }
-      ],
-      "duration_ms": 198677,
-      "name": "1 Man Army",
-      "url": "https://open.spotify.com/track/5PVplB3e8qidkOZrdHrbKg"
-    },
-    {
-      "added_at": "2025-02-27 15:10:55",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW"
-      },
-      "artists": [
-        {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
-        }
-      ],
-      "duration_ms": 149785,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2"
-    },
-    {
-      "added_at": "2025-02-26 15:33:10",
-      "album": {
-        "name": "Loving Me",
-        "url": "https://open.spotify.com/album/3B2QQ2MUeavHTibz5ubd7I"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Loving Me",
-      "url": "https://open.spotify.com/track/7CCaLsJgZDFWJqD58LM2HM"
-    },
-    {
-      "added_at": "2025-02-25 16:35:33",
-      "album": {
-        "name": "by myself",
-        "url": "https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV"
-      },
-      "artists": [
-        {
-          "name": "oncor",
-          "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
-        },
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "by myself",
-      "url": "https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

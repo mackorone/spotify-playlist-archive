@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Neeti Mohan, Guru Randhawa and more. ",
+  "description": "Latest music from Savera, Jubin Nautiyal and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -416,6 +416,24 @@
       "duration_ms": 254347,
       "name": "Aag",
       "url": "https://open.spotify.com/track/0mSyeDL1A1LGgF71G1H5yi"
+    },
+    {
+      "album": {
+        "name": "Aahista",
+        "url": "https://open.spotify.com/album/3veutYP2aHnBgmSbtI61t1"
+      },
+      "artists": [
+        {
+          "name": "Savera",
+          "url": "https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Aahista",
+      "url": "https://open.spotify.com/track/2zNh45mWOtcjqR7ngX5oTJ"
     },
     {
       "album": {
@@ -12227,6 +12245,32 @@
     },
     {
       "album": {
+        "name": "Ishq Mera (Feat. Esha Gupta)",
+        "url": "https://open.spotify.com/album/5nyfbc7DahN9JT6R2iudhx"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Mukund Suryawanshi",
+          "url": "https://open.spotify.com/artist/2hrppdWsJvHkX3y1yLjUTa"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238069,
+      "name": "Ishq Mera (Feat. Esha Gupta)",
+      "url": "https://open.spotify.com/track/6TOeOjAKDOxJon6geucX92"
+    },
+    {
+      "album": {
         "name": "Ishq Qubool Kar",
         "url": "https://open.spotify.com/album/1C6Imc7GF5GPLHxtXIWc0r"
       },
@@ -14923,6 +14967,28 @@
     },
     {
       "album": {
+        "name": "Kaisi Hoti Hogi",
+        "url": "https://open.spotify.com/album/1f5wpnc9LS968oPZpKbmS5"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Kaisi Hoti Hogi",
+      "url": "https://open.spotify.com/track/1kCoZBd8RpdxUANVMuxvOY"
+    },
+    {
+      "album": {
         "name": "Kaisi Jadugari",
         "url": "https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL"
       },
@@ -15708,7 +15774,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 239996,
       "name": "Khaula Ishq",
       "url": "https://open.spotify.com/track/4lCzEbt9ZryXjTt9zUu6Hb"
@@ -15888,6 +15954,32 @@
       "duration_ms": 174838,
       "name": "Khoobi",
       "url": "https://open.spotify.com/track/2qA6DtqFCyeIEAdSI2hGWu"
+    },
+    {
+      "album": {
+        "name": "Khoobsurat",
+        "url": "https://open.spotify.com/album/5I74EPXbfrAplZ6uWemWE4"
+      },
+      "artists": [
+        {
+          "name": "Aashiq Khan",
+          "url": "https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus"
+        },
+        {
+          "name": "Anmol Malik",
+          "url": "https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE"
+        },
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162685,
+      "name": "Khoobsurat",
+      "url": "https://open.spotify.com/track/6fiUepvZzEWr1U1x1lWeVs"
     },
     {
       "album": {
@@ -16602,7 +16694,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 261176,
       "name": "Koi Unko",
       "url": "https://open.spotify.com/track/1cq8bLqKZfZKf08Ear978X"
@@ -19352,7 +19444,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 255095,
       "name": "Mera Intezaar Karna",
       "url": "https://open.spotify.com/track/5CYPfBQfYjAxUyE9ETZtei"
@@ -26248,7 +26340,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 243000,
       "name": "Shartein",
       "url": "https://open.spotify.com/track/1FgWDCNXay9OdzhJvjf2Jk"
@@ -29628,7 +29720,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-24",
       "duration_ms": 197394,
       "name": "Tu Hi Meri Zindagi",
       "url": "https://open.spotify.com/track/7rgysJ5lEL2hIjBvfPeeGO"
@@ -30096,6 +30188,32 @@
       "duration_ms": 197392,
       "name": "Tu Mile Dil Khile",
       "url": "https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU"
+    },
+    {
+      "album": {
+        "name": "Tu Mileeya",
+        "url": "https://open.spotify.com/album/6ZLzX5NhImTigZaiB9HrH0"
+      },
+      "artists": [
+        {
+          "name": "Soham Naik",
+          "url": "https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM"
+        },
+        {
+          "name": "Meggha Bali",
+          "url": "https://open.spotify.com/artist/7oGJfQzTX3UMsN098bd5mF"
+        },
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "Tu Mileeya",
+      "url": "https://open.spotify.com/track/4gBjcUkn7Q6WYRKFpQPFTy"
     },
     {
       "album": {

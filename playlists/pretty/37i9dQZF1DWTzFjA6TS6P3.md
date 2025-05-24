@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 
 > All songs from South Korean survival hip\-hop TV show 'School Rapper\(고등래퍼\)\. Cover: TRADE L \(Season 4 Winner\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,251 likes - 107 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,257 likes - 107 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 | 91 | [Like It \(feat\. Hangzoo, Boi B\)](https://open.spotify.com/track/2Tvbi6YCiHfqedMF6UqEh0) | [WEBSTER B](https://open.spotify.com/artist/0B2LPLMSHN2GkVELqTrsba), [Clloud](https://open.spotify.com/artist/21K4I5YoNNPdkPrF6nPFwv), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ) | [School Rapper2 Team\-battle Pt\. 2](https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2) | 3:39 |
 | 92 | [Mask Off](https://open.spotify.com/track/44CqHwKENyq3STawSPy4HT) | [Kim Geun Su](https://open.spotify.com/artist/4M3WEAoKQWP8C8PPoTmidn), [H2ADIN](https://open.spotify.com/artist/3zwWVOlbMyWNKfiqcU1Xz2) | [School Rapper2 Team\-Battle Pt\. 1](https://open.spotify.com/album/6JWpeoi0sUVfU8y7aFf2Df) | 3:45 |
 | 93 | [Asian Drum \(Prod\. SLO\)](https://open.spotify.com/track/2iP3HyTDUf9gk0NrCYINfS) | [WEBSTER B](https://open.spotify.com/artist/0B2LPLMSHN2GkVELqTrsba), [OHDAMRYUL](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi) | [School Rapper2 Team\-Battle Pt\. 1](https://open.spotify.com/album/6JWpeoi0sUVfU8y7aFf2Df) | 3:33 |
-| 94 | [The Boy with Glory](https://open.spotify.com/track/3Dp4fa7apCNG7w7VFV4rwT) | [Lee Dongmin \(ICE PUFF\)](https://open.spotify.com/artist/5wXu1QgQaYplosUgAKq27y), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [School Rapper FINAL](https://open.spotify.com/album/766870jh3A6EBRsNmsTRX1) | 3:44 |
+| 94 | [The Boy with Glory](https://open.spotify.com/track/3Dp4fa7apCNG7w7VFV4rwT) | [Lee Dongmin \(ICE PUFF\)](https://open.spotify.com/artist/5wXu1QgQaYplosUgAKq27y), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [g2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [School Rapper FINAL](https://open.spotify.com/album/766870jh3A6EBRsNmsTRX1) | 3:44 |
 | 95 | [Bell](https://open.spotify.com/track/0NyzUyLKdMklKWl54JBIeo) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Hyo ryn](https://open.spotify.com/artist/5cX3DhbltT9vwuiA7cKm9u) | [School Rapper FINAL](https://open.spotify.com/album/766870jh3A6EBRsNmsTRX1) | 3:28 |
 | 96 | [Star](https://open.spotify.com/track/5onZ0anRMEvaeS2dsaG9dq) | [Mac Curly](https://open.spotify.com/artist/4PyCHh3hh6m4OzVcV2aj18), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Babylon](https://open.spotify.com/artist/3QnTGKc4YZ7KcGDpoagMBD) | [School Rapper FINAL](https://open.spotify.com/album/766870jh3A6EBRsNmsTRX1) | 4:19 |
 | 97 | [Drop](https://open.spotify.com/track/6FtQKIcJkylR8yf0I0x3QE) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [School Rapper FINAL](https://open.spotify.com/album/766870jh3A6EBRsNmsTRX1) | 2:57 |

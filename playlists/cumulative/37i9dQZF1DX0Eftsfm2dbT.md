@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> POP YOURS開催まであと1日! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JJJ
+> いよいよPOP YOURS開催! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: ¥ellow Bucks
 
 1,649 songs - 3 day 12 hr 10 min
 
@@ -850,7 +850,7 @@
 | [MY HOOD](https://open.spotify.com/track/4B9jNNMyOyu8KfUGMEEyn6) | [Kapsoul](https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD), [SAW](https://open.spotify.com/artist/0lXCkrLQe7PVngc1XUg9iu) | [MY HOOD](https://open.spotify.com/album/4w6d5QgeBxo1jCBI6059Gz) | 3:11 | 2024-12-24 | 2025-01-08 |
 | [MY LIFE](https://open.spotify.com/track/1Fy3dclV9os643JfeEmNkz) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [MY LIFE](https://open.spotify.com/album/2FDkRqlUOjPN8jc2AYQRya) | 3:34 | 2024-05-01 | 2024-07-31 |
 | [My own opinion](https://open.spotify.com/track/49VBNGUKygNZ8A8gBVcWsh) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [My own opinion](https://open.spotify.com/album/6sCVPlwWJEoxBsp8Ek4eVW) | 2:46 | 2023-10-24 | 2023-11-17 |
-| [My Resort Pt\. 2](https://open.spotify.com/track/1CrUop1zksxw9VxI27NQiU) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Jungle 2](https://open.spotify.com/album/6I0goKP22jU9Sa28xCrfPH) | 2:07 | 2024-09-12 | 2025-05-18 |
+| [My Resort Pt\. 2](https://open.spotify.com/track/1CrUop1zksxw9VxI27NQiU) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Jungle 2](https://open.spotify.com/album/6I0goKP22jU9Sa28xCrfPH) | 2:07 | 2024-09-12 |  |
 | [MY STYLE](https://open.spotify.com/track/6yfv5VFsmjbxIf89IGMeWa) | [DJ BEERT](https://open.spotify.com/artist/00QkMi79pVpCzmT7F8iwui), [GOICHI](https://open.spotify.com/artist/0tcBoPOfDPwKoAIsEhQHiK), [Ashley](https://open.spotify.com/artist/3YIgqLtuGwaKjXRyFRflWh), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [MY STYLE](https://open.spotify.com/album/5kIs6047lXF8coiGvCQMFX) | 3:25 | 2023-11-29 | 2024-01-26 |
 | [MY TURN](https://open.spotify.com/track/3Wlh7leleaZiPcBa551xKU) | [FTL SHINKI](https://open.spotify.com/artist/6AU9u7PHcTl8eTUAiFQ7YI), [Thlive](https://open.spotify.com/artist/6DaGmFvPW9EEpyLA3uBtzg), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [MY TURN](https://open.spotify.com/album/50WLCXtvcT4RAnjA6mZhBh) | 2:55 | 2023-11-22 | 2024-01-05 |
 | [My Verse](https://open.spotify.com/track/4mmV9ZNZY9SyaiSXmeutNK) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [My Verse](https://open.spotify.com/album/0ObZ3hwZsVI51HFMAxSkqI) | 2:55 | 2024-08-26 | 2024-10-23 |

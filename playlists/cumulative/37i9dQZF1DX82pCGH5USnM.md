@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-884 songs - 2 day 0 hr 21 min
+886 songs - 2 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-10 | 2021-09-09 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-09-09 | 2024-07-25 |
 | [post\-urban oasis](https://open.spotify.com/track/7GlyjhNv0ifEjBjkuIoVv5) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [post\-urban oasis](https://open.spotify.com/album/6nlPp71YDKOymaTJpowMxP) | 2:49 | 2024-03-26 |  |
+| [preference](https://open.spotify.com/track/2oq3F0ds3MIqjTPOwMBhNy) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [preference](https://open.spotify.com/album/0SrUaCGYkTgDj5x284DrSR) | 2:53 | 2025-05-23 |  |
 | [Price is Right](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Price is Right](https://open.spotify.com/album/4AUammqsMgkKSNGS3aJ6ff) | 2:39 | 2023-04-21 |  |
 | [Promise Don't Forget](https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Shambles](https://open.spotify.com/album/45RsCaNIIHCfoy4EOdtX4M) | 3:55 | 2022-09-23 | 2023-09-09 |
 | [Promises](https://open.spotify.com/track/01Bqay08avct1ILNWPtQOm) | [Aria Kyd](https://open.spotify.com/artist/5xYT5srfugAEEXv0df3vRs) | [Promises](https://open.spotify.com/album/1fU0dVAywOoiTk3J2PeTmD) | 2:02 | 2023-11-14 | 2024-12-14 |
@@ -674,6 +675,7 @@
 | [Sepal](https://open.spotify.com/track/6kCjJBSJJEhekXIK8vjhUZ) | [JMesa](https://open.spotify.com/artist/5ZNXdxiULniz44HffkKmGC) | [Sepal](https://open.spotify.com/album/6y9ctlthL6v9SM3hTHrAnV) | 4:39 | 2022-09-02 | 2024-11-16 |
 | [Serene](https://open.spotify.com/track/4w2eA4f9qwEzpNJBBnMrzS) | [TAPI](https://open.spotify.com/artist/2HdQ0WFcqm4PNhCKYPOP5X) | [Serene](https://open.spotify.com/album/6SVN3p06Qr0ochh21WcPbf) | 2:14 | 2022-10-28 | 2025-02-22 |
 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 | 2021-10-06 |  |
+| [Serenity](https://open.spotify.com/track/5Fa0wakxlOE22drqTbzpjb) | [Nataya](https://open.spotify.com/artist/1VMiSIx9pA9WcS7ktBjcqo) | [Serenity](https://open.spotify.com/album/53e3Z0F7sMsYW8RhYbSWB4) | 2:36 | 2025-05-23 |  |
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2021-11-08 | 2023-07-29 |
 | [Setting Sail \- Chill Mix](https://open.spotify.com/track/3Am7bRVPs1DPbTkYQb9giH) | [Eastern Odyssey](https://open.spotify.com/artist/6vd0iw9nRnxUADUos1y3j1) | [Setting Sail](https://open.spotify.com/album/7zsSY4Y6jGIY3rIduARaD8) | 2:58 | 2020-04-03\* | 2021-02-10 |
 | [Sex Appeal](https://open.spotify.com/track/6LTFJrdnz6fjnUydEYzNRW) | [Les Trouble](https://open.spotify.com/artist/0J5Be1SrvRoeVtSRLU1yvH) | [Sex Appeal](https://open.spotify.com/album/7pjPDrp1UtFNXhyyIPEIm5) | 3:20 | 2023-01-06 | 2025-02-08 |

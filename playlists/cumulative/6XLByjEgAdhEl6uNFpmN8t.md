@@ -4,7 +4,7 @@
 
 > 
 
-110 songs - 5 hr 37 min
+111 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2025-01-21 |  |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 5:54 | 2025-02-01 |  |
 | [bulbaba](https://open.spotify.com/track/7xdiiqtQPUXrKcd6BoFyYd) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 2:05 | 2024-12-23 |  |
+| [Bőrdzseki](https://open.spotify.com/track/0Q7svGLDz6ENSjCKFm3cWr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:42 | 2025-05-23 |  |
 | [casa de papel](https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:40 | 2024-10-17 |  |
 | [ceremónia](https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 4:33 | 2025-04-20 |  |
 | [CHOCO MOMMY](https://open.spotify.com/track/2V5x33qFjc72hmrrtG6ujv) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 1:53 | 2024-10-17 |  |
