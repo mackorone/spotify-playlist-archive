@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Still\) Life Keeps Moving](https://open.spotify.com/track/7JchPuGyPUkiQzCT7OE6Q6) | [Nexus 21](https://open.spotify.com/artist/0TVk9mRwjSjGyvr667ZnGQ) | [The Rhythm Of Life](https://open.spotify.com/album/2iugUgRbxIQ5zrb4PLyYlE) | 4:54 | 2021-10-20 |  |
+| [\(Still\) Life Keeps Moving](https://open.spotify.com/track/7JchPuGyPUkiQzCT7OE6Q6) | [Nexus 21](https://open.spotify.com/artist/0TVk9mRwjSjGyvr667ZnGQ) | [The Rhythm Of Life](https://open.spotify.com/album/2iugUgRbxIQ5zrb4PLyYlE) | 4:54 | 2021-10-20 | 2025-05-25 |
 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 | 2021-10-20 |  |
 | [All Around the World](https://open.spotify.com/track/0piPn2zyL4Yi60ml53qNXE) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Affection \(Deluxe\)](https://open.spotify.com/album/3jYzTXPBPBeJ0dyzDZAS5g) | 4:28 | 2021-10-20 |  |
 | [Alone \- Paradise](https://open.spotify.com/track/06Mts9X72EonW3kq8owouA) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Alone](https://open.spotify.com/album/0307WAhBTyZd9YNB6rvPMx) | 6:46 | 2021-10-20 | 2022-07-29 |
@@ -64,7 +64,7 @@
 | [Nothing Stops Detroit](https://open.spotify.com/track/5LA7nrS9TZGCUJ71ctNqma) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/5alFkFcTcPwVu2m5VpiFsB) | 6:33 | 2022-09-08 | 2024-04-19 |
 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 | 2021-10-20 |  |
 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 | 2021-10-20 |  |
-| [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2021-10-20 | 2025-05-18 |
+| [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2021-10-20 |  |
 | [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2021-10-20 | 2023-01-06 |
 | [Pool Party Music](https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex) | 6:07 | 2022-09-08 | 2024-04-19 |
 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 | 2021-10-20 |  |

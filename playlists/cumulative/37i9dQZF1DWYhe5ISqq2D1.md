@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: THE CHARM PARK
 
-634 songs - 1 day 16 hr 15 min
+635 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Heartbreaker \(I fell in love with a cowgirl\)](https://open.spotify.com/track/5ARjKm7zjYDYZ4HxAKsLTN) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Heartbreaker \(I fell in love with a cowgirl\)](https://open.spotify.com/album/4zKDfEdxPcnEMldM6R4B0n) | 3:01 | 2025-04-22 |  |
 | [HERE](https://open.spotify.com/track/60KQDUR0c1YQJ0KFphbQG4) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20 +](https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5) | 4:58 | 2025-04-01 |  |
 | [Here with me](https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Here with me](https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi) | 4:03 | 2025-02-25 | 2025-03-05 |
+| [HERO](https://open.spotify.com/track/1xEz97uNfTvcRr0biZz1pb) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [HERO](https://open.spotify.com/album/3LvaY3gVJBte835LmF736i) | 3:05 | 2025-05-21 |  |
 | [High Love](https://open.spotify.com/track/0BiEJZbK16o6Zaj4x1IkAR) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Knightclub](https://open.spotify.com/album/4Nh1wrox3ruzwPThq4xKKR) | 3:17 | 2024-09-03 | 2024-09-18 |
 | [Holiday](https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [For Life](https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK) | 3:28 | 2024-12-24 | 2025-02-01 |
 | [Hometown](https://open.spotify.com/track/2c8oAaq5gMezWWlPn8k7DV) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [Hometown](https://open.spotify.com/album/4MAlf3KcJYH9jHf9utRdRa) | 3:08 | 2024-07-30 | 2024-09-04 |
@@ -419,7 +420,7 @@
 | [フリト](https://open.spotify.com/track/51eyPGyUaNEAwc4ylrJTqq) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [フリト](https://open.spotify.com/album/1zX1b34j3LyyOlRvJy7PS9) | 3:45 | 2024-09-24 | 2024-10-02 |
 | [フレンチブルドッグ](https://open.spotify.com/track/4CYEpzZCWyCy9Q17e2cNGu) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [LABORATORY](https://open.spotify.com/album/682O3F15Glc5HYZDJUxmuE) | 4:13 | 2024-09-17 | 2024-10-02 |
 | [ブラックペッパーと栗](https://open.spotify.com/track/5gPpJ3aANHH5WMlxOjLp0V) | [けんいち](https://open.spotify.com/artist/7vWvnr62C2YXNAXZMq7Nl8) | [ブラックペッパーと栗](https://open.spotify.com/album/4cDraxvuEwMAchN4k4R0Sj) | 3:58 | 2024-12-10 | 2024-12-18 |
-| [プリズム](https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [プリズム](https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga) | 3:30 | 2024-11-13 |  |
+| [プリズム](https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [プリズム](https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga) | 3:30 | 2024-11-13 | 2025-05-25 |
 | [プリズム](https://open.spotify.com/track/3ZmPiQD04rkkjwJi2hGi9I) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [SPECTRUM](https://open.spotify.com/album/3OHWs70vxkZdFpktjonQhH) | 4:48 | 2024-12-03 | 2024-12-11 |
 | [プレデター](https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [プレデター](https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI) | 3:36 | 2025-05-13 |  |
 | [ベガとアルタイル](https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル](https://open.spotify.com/album/005VNX1PTHOlstwc3STv09) | 3:55 | 2024-07-09 | 2024-12-25 |

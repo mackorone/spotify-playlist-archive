@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "This Is ENHYPEN",
+        "url": "https://open.spotify.com/album/7rFnaDTkxWkMUFqLB26t1a"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93200,
+      "name": "Special Message from ENHYPEN",
+      "url": "https://open.spotify.com/track/43oOmzden0Ft1nIt2p4lzZ"
+    },
+    {
+      "album": {
         "name": "ORANGE BLOOD",
         "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Burna Boy & Travis Scott, Myles Smith, Lauren Spencer Smith, KAROL G, Jutes and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,570 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,630 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 63 | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN) | 2:23 |
 | 64 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 |
 | 65 | [Home](https://open.spotify.com/track/3hyV8JBxMuARHhVwVDj6Qx) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Home](https://open.spotify.com/album/2nQoXfaAd6ZFqb6ylCqySD) | 3:23 |
-| 66 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate \- EP](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
+| 66 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
 | 67 | [Self\-Made](https://open.spotify.com/track/75BUXZ2Ry0BfQNzvdEhflU) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Self\-Made](https://open.spotify.com/album/6zfikrTBVULuHeC7se01u8) | 3:05 |
 | 68 | [Say The Word](https://open.spotify.com/track/7IaENsQHPSGcY62vzbEtYj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Say The Word](https://open.spotify.com/album/2HSD32LyK8M3kfy7zk9uJo) | 3:36 |
 | 69 | [Like James Said](https://open.spotify.com/track/4lOZwVQCS6n5S7Bu2po1QI) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Like James Said](https://open.spotify.com/album/1taQsHN0ws7EW4LwwQPmdO) | 3:20 |

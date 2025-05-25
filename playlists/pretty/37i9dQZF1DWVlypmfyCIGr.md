@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 荒巻勇仁
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,453 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,460 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [予感](https://open.spotify.com/track/0BwsxXQ40dOW22qnPLXFDm) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [予感](https://open.spotify.com/album/7lIIXHNflsIdV6Mmx4e0Tk) | 3:28 |
 | 80 | [透明な落葉](https://open.spotify.com/track/258rBjWGHxxCq4dRFguNCZ) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [immersive](https://open.spotify.com/album/5ooidsx91uQvHem7lR5TSa) | 4:27 |
 
-Snapshot ID: `aCu2rgAAAADrsuthpYXvKcV4j6wel758`
+Snapshot ID: `AAAAAMLEjvJ+Mu5rvM3x5hOqUIqwB9NU`

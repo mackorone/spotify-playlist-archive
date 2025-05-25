@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/3EMBskBjzvlVBviiLUPv6U?si=hkzyojNtRkaIKJHl2ZXxYg">IRohn Dwgs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,985 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,033 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Palesa](https://open.spotify.com/track/0cPTKlRYKQMsDKsksYjKkb) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Zeh McGeba](https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Khuphuka](https://open.spotify.com/album/1INdvramG7WFxxkZt1HG4c) | 4:59 |
-| 2 | [Phatha Phatha](https://open.spotify.com/track/4KCyg6xxsrITs3KllYjVVw) | [Djknator](https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt), [Ray&Jay](https://open.spotify.com/artist/1gGxd1GallZ8uYhT1P51PG) | [DEDELA](https://open.spotify.com/album/2de0JGh9gaIYsGKR1EKKMT) | 5:41 |
+| 2 | [Phatha Phatha \(feat\. Thobeka\)](https://open.spotify.com/track/4KCyg6xxsrITs3KllYjVVw) | [Djknator](https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt), [Ray&Jay](https://open.spotify.com/artist/1gGxd1GallZ8uYhT1P51PG), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [DEDELA](https://open.spotify.com/album/2de0JGh9gaIYsGKR1EKKMT) | 5:41 |
 | 3 | [Aw Kodwa Loyiso \- Gqom Remake](https://open.spotify.com/track/0cBHaWeqSlGAKcqOMfubM5) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG), [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc) | [Aw Kodwa Loyiso \(Gqom Remake\)](https://open.spotify.com/album/6qh7YeysvguA2qwSmYA4NR) | 4:24 |
 | 4 | [Party Island](https://open.spotify.com/track/7jfbdpTVF8L3H4TMCnLFzP) | [Dj Pepe x KwaH\[NSG\]](https://open.spotify.com/artist/546hC8zx0fLkqS8hnFgcTp) | [Party Island](https://open.spotify.com/album/0VDxFNZLJKn2w70Oha7TsD) | 5:07 |
 | 5 | [Breakfast Embhedeni](https://open.spotify.com/track/3pOwmWdu5ZnQGLJRCOf3Ho) | [Xavier](https://open.spotify.com/artist/6bxJYiLFJixLq9z6RgJil2), [2boi mr captain](https://open.spotify.com/artist/264IfG8pLMUsYbTHmWf6PK), [Ndruza](https://open.spotify.com/artist/7EdEAb5iHBtRlYCqL81k3J), [Sidla Sonke](https://open.spotify.com/artist/0W3CiSsMMzAE9x3k2cII7Z) | [Breakfast Embhedeni](https://open.spotify.com/album/4QNFmWsfnYQJXo91zThJBR) | 4:57 |

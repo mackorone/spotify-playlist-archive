@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-799 songs - 2 day 20 hr 33 min
+800 songs - 2 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Identifier \- Radio Edit](https://open.spotify.com/track/32TQzC5PD1Byn6HRIDOZsZ) | [Wilderun](https://open.spotify.com/artist/0wQmcChWogcmsCThY2SKES) | [Identifier \(Radio Edit\)](https://open.spotify.com/album/2oA6ysGltuBvtV9AROmwiP) | 6:08 | 2021-12-17 | 2022-07-28 |
 | [Immovable Stone](https://open.spotify.com/track/6yGCKMLGznWxAIRRfwv3Ew) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Immovable Stone](https://open.spotify.com/album/4R9OjWhHTz8eleYOrJ3KXK) | 3:32 | 2021-12-17 | 2023-01-21 |
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-11-22 |  |
+| [In Devastation](https://open.spotify.com/track/3GxCZUgVRSH8SXz9UzItUH) | [Sinsaenum](https://open.spotify.com/artist/4IC0vJuY4fw72mSBesfO5B) | [In Devastation](https://open.spotify.com/album/23Kv3ejTtYMiRmaEawBoVP) | 4:50 | 2025-05-23 |  |
 | [In Dreams](https://open.spotify.com/track/4Wtd80eE4GyuzuwVMOxigs) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [In Dreams](https://open.spotify.com/album/6SySbe7lsj4wlbLjuv56pF) | 4:18 | 2021-12-17 | 2022-09-03 |
 | [In Pyrrhic Seas](https://open.spotify.com/track/1wz2xKpmkBwlcqCLf7rTwc) | [Xaon](https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz) | [The Lethean](https://open.spotify.com/album/6huUdAzf941V7em2MyNLsD) | 5:43 | 2022-07-01 | 2025-05-24 |
 | [In The Divide](https://open.spotify.com/track/68aqd96LpjdXd6N3MiODnR) | [All Things Fallen](https://open.spotify.com/artist/2ipqxHJWHjOxpgJcLhFeJp) | [In The Divide](https://open.spotify.com/album/5dv5uSah7hltfavx9FEjXC) | 7:30 | 2021-12-17 | 2022-06-07 |
@@ -465,7 +466,7 @@
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 |  |
 | [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 | 2024-04-19 |
 | [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
-| [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 |  |
+| [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 | 2025-05-25 |
 | [Obsolete Beings](https://open.spotify.com/track/0FiVaht935tCYXQFMJF5uX) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Obsolete Beings](https://open.spotify.com/album/3mZkwo2gwJP5smBjH04Hp9) | 5:34 | 2021-12-17 | 2022-01-29 |
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
 | [Ocean in the Sky](https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/7o7ksjM61aXwu3x91xLS4V) | 6:06 | 2022-09-02 | 2023-01-21 |

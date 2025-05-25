@@ -6247,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179814,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
+    },
+    {
+      "album": {
         "name": "Roadkill",
         "url": "https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ"
       },
@@ -8500,7 +8518,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 143524,
       "name": "WHO DIED AND MADE YOU KING?",
       "url": "https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV"

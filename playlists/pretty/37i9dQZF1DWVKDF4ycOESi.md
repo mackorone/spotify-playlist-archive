@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Rkomi, Olly, Fabri Fibra e Tredici Pietro, KAROL G, Sarah Toscano, Fred De Palma e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,294 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,368 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 70 | [POSTO X ME](https://open.spotify.com/track/0g402NoPArRmfR4ASkSQNP) | [SCICCHI](https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639) | [POSTO X ME](https://open.spotify.com/album/6ea7xnQNhwbZXliBDV48dY) | 2:39 |
 | 71 | [PALAZZI TAG](https://open.spotify.com/track/6hptNIP5clGBqn5Pk8rWbM) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Molo](https://open.spotify.com/artist/3orzMpb0hF6UNoP2mPXBol), [piccolokaiju](https://open.spotify.com/artist/5ROrAM1o4WbOHYJSXgNb8J) | [PALAZZI TAG](https://open.spotify.com/album/6DBYaDwivTs4zZsFSIQp2k) | 2:46 |
 | 72 | [Shame](https://open.spotify.com/track/550fqOZMPaSRasqZhA32Kf) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [The Painful Truth](https://open.spotify.com/album/5jq8APA0WmCEaIeHoGciO3) | 4:06 |
-| 73 | [Vittima e Assassino](https://open.spotify.com/track/4ZuPC3FdOOq6DrKwBT2ltc) | [Casino Royale](https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK) | [Fumo](https://open.spotify.com/album/1CKbw9ByYSCwxHCOfaNsM3) | 4:33 |
+| 73 | [Vittima e Assassino](https://open.spotify.com/track/4ZuPC3FdOOq6DrKwBT2ltc) | [Casino Royale](https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK) | [Fumo \(Cue Points Version\)](https://open.spotify.com/album/1CKbw9ByYSCwxHCOfaNsM3) | 4:33 |
 | 74 | [È solo un momento](https://open.spotify.com/track/6NCYQaMYJ8BM7SscFAcDfF) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [È solo un momento](https://open.spotify.com/album/5w0vtVhoTzKWq8t46pqLwW) | 3:31 |
 | 75 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
 | 76 | [ALLEGRIA BUGIARDA](https://open.spotify.com/track/3cKi4jOsQMW8t9A7YWn1IT) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [ALLEGRIA BUGIARDA](https://open.spotify.com/album/5OjlgEK3dtC33l80Ml0dMB) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Sarah Farias
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,722 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,794 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Indefeso \- Ao Vivo](https://open.spotify.com/track/7BCOLWluIGAQBwBWOt4lZ8) | [Charles Martins](https://open.spotify.com/artist/0PoK8mi9oxmm3OGq9qqrPu) | [Indefeso \(Ao Vivo\)](https://open.spotify.com/album/2NcDBYfDwb5yQoGe8BLghh) | 7:18 |
 | 50 | [Te Louvo \- Ao Vivo](https://open.spotify.com/track/56ktAOQgZZYVeKz8F7CBGS) | [Hangar 7 Music](https://open.spotify.com/artist/6HyPS4465icEDvFZAC19Oy) | [Te Louvo \(Ao Vivo\)](https://open.spotify.com/album/2acCBu3dmglHQKLPImEygV) | 4:39 |
 
-Snapshot ID: `AAAAAO8/d2ZYF/fyf4ZX7olB3A8fFddX`
+Snapshot ID: `aC/lBgAAAACmGspf1rtVLBVMLKcbzbB7`

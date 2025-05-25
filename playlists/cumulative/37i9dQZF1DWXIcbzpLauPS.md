@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Of Mice & Men
 
-1,237 songs - 3 day 3 hr 54 min
+1,238 songs - 3 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Dethroned](https://open.spotify.com/track/6MlZKFmiN5JJy4ZX29z6ag) | [My Own Will](https://open.spotify.com/artist/3WOSLWmOvviDX3fiuHLTK6) | [Dethroned](https://open.spotify.com/album/1EBLYvAUe0ICIzXGtO9Lpw) | 2:59 | 2022-07-13 | 2022-07-16 |
 | [Devastator](https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Devastator](https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn) | 3:29 | 2024-06-10 | 2024-12-02 |
 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 | 2022-07-13 | 2022-07-23 |
+| [Devil In My Mind](https://open.spotify.com/track/3v4jMEipnlzjUY1sDntw3k) | [Woe, Is Me](https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN) | [Devil In My Mind](https://open.spotify.com/album/4yKu2jiIoUJmtkpzfZI1jP) | 3:07 | 2025-05-23 |  |
 | [Devil Left Me On Read](https://open.spotify.com/track/2VWkJzH8TTZ2D0MI50iaBx) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Devil Left Me On Read](https://open.spotify.com/album/4CxKGc6sptru8aY1MVshGg) | 2:38 | 2025-03-31 | 2025-04-26 |
 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 | 2022-01-07 | 2022-03-18 |
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-01-06 | 2023-04-01 |
@@ -628,7 +629,7 @@
 | [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2022-07-13 | 2022-07-20 |
 | [Kingdom Come](https://open.spotify.com/track/5fETISA0KLKcKb8pRHMgqW) | [Foxblood](https://open.spotify.com/artist/17pjImdVvIja9Es8R436NP) | [Dissociation Vacation](https://open.spotify.com/album/40dWOUbTdbTDHgaRIKc58J) | 4:11 | 2022-12-16 | 2023-05-06 |
 | [Kintsugi](https://open.spotify.com/track/4TwfI4rWaKILmOeg22pLuv) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Kintsugi](https://open.spotify.com/album/3J7qLVPyQ4wdZk0N2bGfhW) | 3:22 | 2024-03-08 | 2024-04-13 |
-| [Knight's Oath](https://open.spotify.com/track/7E7O8oWpdcQgJshEG3ZUA9) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz) | [Knight's Oath](https://open.spotify.com/album/0hILo6DOHJ30CYkXkkzWtG) | 2:49 | 2025-04-25 |  |
+| [Knight's Oath](https://open.spotify.com/track/7E7O8oWpdcQgJshEG3ZUA9) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz) | [Knight's Oath](https://open.spotify.com/album/0hILo6DOHJ30CYkXkkzWtG) | 2:49 | 2025-04-25 | 2025-05-25 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-12 | 2024-11-23 |
 | [Kubrick Stare](https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Kubrick Stare](https://open.spotify.com/album/4ZIsPCJgM1GqaMxGSqsKWd) | 3:18 | 2025-02-21 |  |
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2022-07-13 | 2022-07-22 |

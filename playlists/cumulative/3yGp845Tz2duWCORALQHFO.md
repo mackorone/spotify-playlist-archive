@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,952 songs - 6 day 16 hr 17 min
+2,953 songs - 6 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 | [Euphoria](https://open.spotify.com/track/6venF8xQSnznlPK69vYSK4) | [TRONIQ](https://open.spotify.com/artist/7xV87aLKIqjESEsoN9xOJE) | [Euphoria](https://open.spotify.com/album/0DNul6k81sgf2OVkxrRVXT) | 2:33 | 2025-03-28 | 2025-04-11 |
 | [Euphoria \(with Alok\)](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp) | 2:31 | 2025-01-03 | 2025-01-11 |
 | [Euphoria \- Club Mix](https://open.spotify.com/track/3SEvjUgBbbV02d5LIcIN6O) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Emilya Buchan](https://open.spotify.com/artist/51BgE8J8VoDwG5Ee8tt3D8) | [Euphoria \(Club Mix\)](https://open.spotify.com/album/5PzjnmJ6nwYHJKmZWuH93r) | 4:01 | 2024-10-25 | 2024-11-01 |
+| [Euphoria, Pt\. 2](https://open.spotify.com/track/5AX3A9uA4a3Vs6lw6dTj8O) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [Euphoria, Pt\. 2](https://open.spotify.com/album/5fDgPu8sTMOByycRtls945) | 3:52 | 2025-05-24 |  |
 | [Even God](https://open.spotify.com/track/1YAUcovWvgdgMXX45XjDl5) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Even God](https://open.spotify.com/album/2popXoMWhglWvWhw7GIsy2) | 2:08 | 2025-01-03 | 2025-01-11 |
 | [Everglow](https://open.spotify.com/track/5xvfOWlRqjY2GyDo7Vl7sT) | [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [AGAP](https://open.spotify.com/artist/6JKXFtwnMLqYtM1pEP8JL6), [Ben Haydie](https://open.spotify.com/artist/5CbL5aJrlWCK8IqnF6m0SG), [Reege](https://open.spotify.com/artist/2Tn294K6dTne1gLRrXFVZ9) | [Everglow](https://open.spotify.com/album/1QTpxRInmvYDhwnFxkEZKg) | 3:32 | 2024-07-23 | 2024-07-27 |
 | [Evergreen](https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S) | 3:58 | 2024-08-16 | 2024-08-24 |

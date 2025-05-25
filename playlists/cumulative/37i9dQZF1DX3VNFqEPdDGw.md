@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-287 songs - 14 hr 53 min
+288 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Apne Vyah De Vich](https://open.spotify.com/track/7bJDvpRGCMBOJyHc0IGlkz) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Apne Vyah De Vich](https://open.spotify.com/album/33nY8dfVBBoKeuyjO8LrlD) | 3:34 | 2025-01-08 | 2025-01-11 |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 | 2023-07-27 |
 | [Ask About Me](https://open.spotify.com/track/2xXZwpCUwaotGISP5rSmVE) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:19 | 2021-12-18 | 2022-07-29 |
+| [Athra Ghora](https://open.spotify.com/track/0oEHDBB5BYIQeK5kfMP058) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X), [Joy Atul](https://open.spotify.com/artist/5gejMfclAIS6IrAgxr19xt) | [Athra Ghora](https://open.spotify.com/album/2sITT5wvRSrb0qcl1jAccT) | 2:37 | 2025-05-24 |  |
 | [Att \- Ep Explode](https://open.spotify.com/track/7BlQn9LXhvKrZIuQS3BQJk) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Att](https://open.spotify.com/album/5YthgfCg0humXLWsSIYFzz) | 2:58 | 2025-01-28 | 2025-03-03 |
 | [Avocado](https://open.spotify.com/track/3r9h4gft5xGvLQ1s8u6Svy) | [Daljeet Chahal](https://open.spotify.com/artist/5hsk207hlLQShvs9BkolVl), [KV Mohali](https://open.spotify.com/artist/0QqTe613U00gNnvMk8gqgC), [Kabal Saroopwali](https://open.spotify.com/artist/2Svq3W9xsbXflRBA8yhrV2) | [Avocado](https://open.spotify.com/album/5fRjZWNEgWApa8d4ifnWPm) | 2:25 | 2024-11-04 | 2025-01-09 |
 | [Babe Bhangra Paunde Ne](https://open.spotify.com/track/3mSTEc5jfuaQ6Hz3uXPlTV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63zguPGRWX1sxdCc4Jl2MF) | 1:54 | 2022-10-07 | 2022-11-13 |
@@ -160,7 +161,7 @@
 | [Khuleyan Dilan De Jatt](https://open.spotify.com/track/5pCNd6Zl5jkFFJCGGM7n66) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Khuleyan Dilan De Jatt](https://open.spotify.com/album/4ucwsLTQxBmWaohg97wF6H) | 3:28 | 2025-02-04 | 2025-02-07 |
 | [Kill Goriye](https://open.spotify.com/track/4fVdWGQOP2Gv0t5Ax5gYnP) | [Gurj Sidhu](https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv) | [Kill Goriye](https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy) | 3:13 | 2025-01-08 |  |
 | [Killa](https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Killa](https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp) | 3:37 | 2024-08-20 |  |
-| [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 | 2025-04-21 |  |
+| [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 | 2025-04-21 | 2025-05-25 |
 | [Lachi Wargi Naar](https://open.spotify.com/track/3YBuS789aDX08RbDv0FgGU) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Lachi Wargi Naar](https://open.spotify.com/album/4SCID0KlUOI1xuycGfGyrR) | 3:37 | 2025-01-08 |  |
 | [Lahore](https://open.spotify.com/track/0Fv8C5OjucKsasQtb7WlIn) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Deep Sidhu](https://open.spotify.com/artist/1c52W7HepD1XDSapOn2UiY) | [Lahore](https://open.spotify.com/album/3NloRIpQK823s5V46bhtpL) | 3:37 | 2022-02-28 | 2023-07-27 |
 | [Lahore \(from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/3sV0p3cH2qVJGarX99lHo4) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Lahore \(from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/2XO7ROc8zWM1akNJ7elyYX) | 2:02 | 2022-08-19 | 2023-10-21 |

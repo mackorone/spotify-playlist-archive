@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "50 y Pico",
+        "url": "https://open.spotify.com/album/3NffwOXCg95YitW7ABdZnm"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "50 y Pico",
+      "url": "https://open.spotify.com/track/2hSrqMfABPszeVC8L4UkmN"
+    },
+    {
+      "album": {
         "name": "Alguien Dijo",
         "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
       },
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 164935,
       "name": "Me Dicen El Coyote",
       "url": "https://open.spotify.com/track/0UnLTePmBze3fSGvHYYEdO"

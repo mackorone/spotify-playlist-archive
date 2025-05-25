@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 869509,
+  "num_followers": 869743,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC5pAAAAAADrS2/bN7BSG4i121AV8+AA",
+  "snapshot_id": "aC+6gAAAAACuRPQfVxHpYvJGPSDXdyMp",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bet You're from a Small Town",
-        "url": "https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo"
+        "name": "WHY (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
       },
       "artists": [
         {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
         },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Cold Beer Calling My Name",
-      "url": "https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9"
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bet You're from a Small Town",
+        "url": "https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Cold Beer Calling My Name",
+      "url": "https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
@@ -779,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 198273,
+      "name": "Whoever You Turn Out to Be",
+      "url": "https://open.spotify.com/track/09CXwVGMfxcRdOJQbiCJT6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Dozen Roses (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY"
       },
@@ -795,22 +831,6 @@
       "duration_ms": 230528,
       "name": "Two Dozen Roses (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 198273,
-      "name": "Whoever You Turn Out to Be",
-      "url": "https://open.spotify.com/track/09CXwVGMfxcRdOJQbiCJT6"
     },
     {
       "added_at": null,
@@ -843,22 +863,6 @@
       "duration_ms": 200093,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way She Rides",
-        "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Let the Moonshine",
-      "url": "https://open.spotify.com/track/05DejmhRYCktQogzOVX1H9"
     }
   ],
   "unique_name": "This Is Luke Combs",

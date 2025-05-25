@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Apache 207, Alex Warren, ZAH1DE und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,142 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,184 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 4 | [Zahide Did It Better](https://open.spotify.com/track/6Nt7EMuRkZxoG3B1MDdzpz) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Zahide Did It Better](https://open.spotify.com/album/5KMN9yXTsSokxwaWSx7eAW) | 1:56 |
 | 5 | [keine liebe im club](https://open.spotify.com/track/7lbI8DMRzjjqtY2CYhtesD) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [keine liebe im club](https://open.spotify.com/album/6KSQ1T5SrVP6FvOa1le7Fz) | 2:34 |
 | 6 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
-| 7 | [Zu den anderen](https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw), [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Zu den anderen](https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI) | 2:19 |
+| 7 | [Zu den Anderen](https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw), [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Zu den Anderen](https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI) | 2:19 |
 | 8 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 9 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
 | 10 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 75 | [Common Formality](https://open.spotify.com/track/7aSfSOUli9kRU5pJjeZO2a) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [Common Formality](https://open.spotify.com/album/7qhoIuubUZS8FMI1SOfJdf) | 2:59 |
 | 76 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 |
 | 77 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 |
-| 78 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate \- EP](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
+| 78 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
 | 79 | [tu's für uns](https://open.spotify.com/track/2OsKP7N0KkRCyc2dkq3IrX) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [Ein Schritt mehr](https://open.spotify.com/album/2qAelcA0zeIW4nDQLy7wks) | 3:13 |
 | 80 | [Die A Million Times](https://open.spotify.com/track/13vBvwz8OIu1gbgKWFCsir) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Die A Million Times](https://open.spotify.com/album/0HEF2ivJVzvDrbJggVouGp) | 3:26 |
 | 81 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 84 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
 | 85 | [On the Road Again](https://open.spotify.com/track/4WIS8GNr1sapjzej8QfEya) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0) | [On the Road Again](https://open.spotify.com/album/5Z1hEaUny7IR1xDJmOuRVl) | 2:37 |
 
-Snapshot ID: `aDA/rwAAAACT0byeVFUSACGX5u9gr82O`
+Snapshot ID: `aDA/rwAAAACdfS/NX9WtC09vIBrGqnpa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Vintonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,579 likes - 110 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,621 likes - 110 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

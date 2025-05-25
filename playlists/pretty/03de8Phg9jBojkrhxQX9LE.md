@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,331 likes - 132 songs - 7 hr 16 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,344 likes - 132 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 31 | [Predia](https://open.spotify.com/track/6AOo1rY7KxbSjlb3NflCNB) | [Nick Neutronz](https://open.spotify.com/artist/2kr2SKdhgDoj06t3R23IiK) | [Predia](https://open.spotify.com/album/3SizMZBK40ayl472h2s6r7) | 1:41 |
 | 32 | [WEBDINGS](https://open.spotify.com/track/1AjKOtxcOtPR8IrO54aNKn) | [2TD](https://open.spotify.com/artist/3cfeAFCT12Abep5kUVXnNO) | [WEBDINGS](https://open.spotify.com/album/6degX9vibNO60uJLQZ2ErO) | 4:00 |
 | 33 | [BIRDERS](https://open.spotify.com/track/62qdxlGLYQJGD8cej7vqGV) | [F!C!O!](https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [BIRDERS](https://open.spotify.com/album/63VTlF5AlOVvK9QRromUQD) | 3:38 |
-| 34 | [Slice \(feat\. Cam James\) \[VIP\]](https://open.spotify.com/track/2bE0HUPvgxVck4nDTY79jH) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Cam James](https://open.spotify.com/artist/1eoHH8E3CMRVvbPzvg3uc5) | [Bluewerks Vol\. 17: SLICE \(VIP\)](https://open.spotify.com/album/1OZwDM63YD3RzRyLelHDzI) | 4:13 |
+| 34 | [Slice \(feat\. Cam James\) \[VIP\]](https://open.spotify.com/track/2bE0HUPvgxVck4nDTY79jH) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Cam James](https://open.spotify.com/artist/1eoHH8E3CMRVvbPzvg3uc5) | [Bluewerks Vol\. 17: SLICE \(VIP\)](https://open.spotify.com/album/1OZwDM63YD3RzRyLelHDzI) | 4:13 |
 | 35 | [Ache \- Clearcast Remix](https://open.spotify.com/track/042Cj89xgsS9oYdNyi1NnR) | [Sasha Rome](https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu), [Clearcast](https://open.spotify.com/artist/3dRhjQBCaVo5zMuXyjv7Su), [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Ache \(Clearcast Remix\)](https://open.spotify.com/album/0v84OBS06n8WnDp67u6M2J) | 4:48 |
 | 36 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
 | 37 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 |

@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Kean Kavanagh",
-  "num_followers": 114237,
+  "num_followers": 114227,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Year of the Snake",
-        "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
         }
       ],
-      "duration_ms": 310266,
-      "name": "Year of the Snake",
-      "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
+      "duration_ms": 198386,
+      "name": "Love Takes Miles",
+      "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+        "name": "Year of the Snake",
+        "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
       },
       "artists": [
         {
-          "name": "Cameron Winter",
-          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 198386,
-      "name": "Love Takes Miles",
-      "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
+      "duration_ms": 310266,
+      "name": "Year of the Snake",
+      "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/1h6FJ7fi2IBcYhmeno64Zl"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 169468,
-      "name": "Hide It Away",
-      "url": "https://open.spotify.com/track/2XLG8FRWlCChHrbfs9YvQN"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Manning Fireworks",
         "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/1h6FJ7fi2IBcYhmeno64Zl"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 169468,
+      "name": "Hide It Away",
+      "url": "https://open.spotify.com/track/2XLG8FRWlCChHrbfs9YvQN"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
         "name": "Sword",
         "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 146504,
       "name": "Sword",
       "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 284080,
-      "name": "Pink Elephant",
-      "url": "https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -411,6 +395,22 @@
       "duration_ms": 244106,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 284080,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -719,18 +719,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Best Guess",
-        "url": "https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo"
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
         }
       ],
-      "duration_ms": 240364,
-      "name": "Best Guess",
-      "url": "https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU"
+      "duration_ms": 169850,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
         "name": "Billy (Yeah Yeah Yeah)",
         "url": "https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 245251,
       "name": "Billy (Yeah Yeah Yeah)",
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
-      },
-      "artists": [
-        {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
-        }
-      ],
-      "duration_ms": 169850,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Marietta",
-        "url": "https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
         }
       ],
-      "duration_ms": 147938,
-      "name": "Dad's 4Runner",
-      "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
+      "duration_ms": 237410,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz"
     },
     {
       "added_at": "2025-05-20 13:12:04",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
+        "name": "Marietta",
+        "url": "https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh"
       },
       "artists": [
         {
-          "name": "Cliffords",
-          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 237410,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz"
+      "duration_ms": 147938,
+      "name": "Dad's 4Runner",
+      "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d"
+        "name": "The Recogniser",
+        "url": "https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs"
       },
       "artists": [
         {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+          "name": "Terra Twin",
+          "url": "https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb"
+      "duration_ms": 206822,
+      "name": "The Recogniser",
+      "url": "https://open.spotify.com/track/417nPuKG03pek6PIuZGtae"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "The Recogniser",
-        "url": "https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d"
       },
       "artists": [
         {
-          "name": "Terra Twin",
-          "url": "https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT"
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
         }
       ],
-      "duration_ms": 206822,
-      "name": "The Recogniser",
-      "url": "https://open.spotify.com/track/417nPuKG03pek6PIuZGtae"
+      "duration_ms": 190426,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/5e4eoRfKYGH0CYbcTd2UmL"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/7EgfTld4hrzfdBLkqd52cx"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "The Lowrider (Just About Meant To Be)",
         "url": "https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx"
       },
@@ -1587,26 +1571,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Shandy in the Graveyard",
-        "url": "https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        },
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        }
-      ],
-      "duration_ms": 177708,
-      "name": "Shandy in the Graveyard",
-      "url": "https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Switch Over",
         "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
       },
@@ -1619,6 +1583,38 @@
       "duration_ms": 185915,
       "name": "Switch Over",
       "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/5e4eoRfKYGH0CYbcTd2UmL"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/7EgfTld4hrzfdBLkqd52cx"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/0ZSz3vLHAgBenyEI3SZEdD"
+      },
+      "artists": [
+        {
+          "name": "Ain't",
+          "url": "https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/7uj5bFfCFpP3bXNcHPtcJQ"
     }
   ],
   "unique_name": "pulp",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: MEOVV\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,063 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,070 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [HAPPY](https://open.spotify.com/track/0BRnNUNVMFesOCdXScu3tQ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Snack Music : Vol\. 3](https://open.spotify.com/album/1iqLXJ7zaFagSVR9JmgZp5) | 2:18 |
 | 50 | [The Starry Night](https://open.spotify.com/track/0daiNZK6DTgP65O4mM3Iv1) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [WE : Dream Chaser](https://open.spotify.com/album/0gWM4TwSrL4t3fj4V9dfKb) | 3:17 |
 
-Snapshot ID: `aCwgWgAAAADTW5ThwZMwCd0XhSCGfxyJ`
+Snapshot ID: `aCwgWgAAAAAiFY+xNJdv7ALmFpZhZvoN`

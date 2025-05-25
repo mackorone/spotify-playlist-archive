@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Dariell Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,590 likes - 140 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,600 likes - 140 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 14 | [Heridas](https://open.spotify.com/track/7AGcKSvkHHViB7y0fA5zzb) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [mi mundo kawaii](https://open.spotify.com/album/3OaTo7T5LVBfIVc5DtuOIN) | 2:45 |
 | 15 | [Pvta Debilidad](https://open.spotify.com/track/3qqZXgPZFavZEWVasrfAAV) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [mi mundo kawaii](https://open.spotify.com/album/3OaTo7T5LVBfIVc5DtuOIN) | 2:16 |
 | 16 | [Mi Vicio 2](https://open.spotify.com/track/74PcdDRtkbMBqmB7G9zIBw) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capitulo 3: El Dragón Para Siempre](https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb) | 3:46 |
-| 17 | [Porto Una 6](https://open.spotify.com/track/79tC1zBA0U325lPWrHHkh1) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Kris R.](https://open.spotify.com/artist/6sJSc1IvjbudhQBUUEQwjY) | [Capitulo 3: El Dragón Para Siempre](https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb) | 2:45 |
+| 17 | [Porto Una 6](https://open.spotify.com/track/79tC1zBA0U325lPWrHHkh1) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Capitulo 3: El Dragón Para Siempre](https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb) | 2:45 |
 | 18 | [Ya Nimodo](https://open.spotify.com/track/0BzSw9TEaoE1OpF5g3bWfG) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Capitulo 3: El Dragón Para Siempre](https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb) | 5:13 |
 | 19 | [La 35 Fox](https://open.spotify.com/track/3pZ7JZspyLltgjHCxmBXxr) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La 35 Fox](https://open.spotify.com/album/0ctUZxHMbSgPQY4UgY3HyR) | 2:50 |
 | 20 | [Noches](https://open.spotify.com/track/5fWZFr4hM59o0NfADJ3l0a) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La 35 Fox](https://open.spotify.com/album/0ctUZxHMbSgPQY4UgY3HyR) | 2:18 |

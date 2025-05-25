@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 90225,
+  "num_followers": 90343,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC5pAAAAAAB3LWXmj3cKPmY7ig/2XdKD",
+  "snapshot_id": "aC+6gAAAAADMfR+L2cbH3EAQYd+ygc9H",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 92739,
-      "name": "Oh The Places You'll Go",
-      "url": "https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 317257,
       "name": "Girls",
       "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 92739,
+      "name": "Oh The Places You'll Go",
+      "url": "https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz"
     },
     {
       "added_at": null,

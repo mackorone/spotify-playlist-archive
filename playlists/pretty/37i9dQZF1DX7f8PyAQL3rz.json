@@ -1,6 +1,6 @@
 {
   "description": "punchline (def): algo impactante, inesperado, usado de forma inteligente. ok, entendi...\n",
-  "num_followers": 1405965,
+  "num_followers": 1406013,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 135165,
+      "name": "N\u00e3o Temos Medo",
+      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
         "name": "CAOS",
         "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 232188,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/4Q0j8IUJaSxNROmna9IWWX"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 135165,
-      "name": "N\u00e3o Temos Medo",
-      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -855,34 +855,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Qual \u00e9 seu desejo?",
-        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "Qual \u00e9 seu desejo?",
-      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "Reza do Milh\u00e3o",
         "url": "https://open.spotify.com/album/44ZcMGMb1ZJ1pNNJQ0MXC5"
       },
@@ -955,6 +927,34 @@
       "duration_ms": 176400,
       "name": "Sem Foto",
       "url": "https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Qual \u00e9 seu desejo?",
+        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Qual \u00e9 seu desejo?",
+      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Rainha da Finesse",
-        "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Rainha da Finesse",
-      "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "Me Apaixonei Por Uma Mina do Job",
         "url": "https://open.spotify.com/album/352CJMZAQ3hwWibgNHuA5s"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 232403,
       "name": "Me Apaixonei Por Uma Mina do Job",
       "url": "https://open.spotify.com/track/4J0wQZhCck0Z2CozwD1fJt"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Rainha da Finesse",
+        "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "BOLA + 1 BECK",
-        "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
+        "name": "BOLA + 1 BECK (DELUXE)",
+        "url": "https://open.spotify.com/album/1igloqPc3QZzGlugijWVga"
       },
       "artists": [
         {
@@ -1400,21 +1400,33 @@
           "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         },
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         }
       ],
-      "duration_ms": 140979,
-      "name": "C.A.P",
-      "url": "https://open.spotify.com/track/6848Jh2cFXvILaNmoaezOG"
+      "duration_ms": 433541,
+      "name": "Duas Cabine",
+      "url": "https://open.spotify.com/track/4jHAhaDQXdwnRGcvls8HZc"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -1519,8 +1531,8 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "BOLA + 1 BECK (DELUXE)",
-        "url": "https://open.spotify.com/album/1igloqPc3QZzGlugijWVga"
+        "name": "BOLA + 1 BECK",
+        "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
       },
       "artists": [
         {
@@ -1528,57 +1540,21 @@
           "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Predella",
-          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 433541,
-      "name": "Duas Cabine",
-      "url": "https://open.spotify.com/track/4jHAhaDQXdwnRGcvls8HZc"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
-        "name": "Mate Ou Morra",
-        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "SEQU\u00caNCIA DE AM\u00d4 RITMADA",
-      "url": "https://open.spotify.com/track/2Bxpm2WHB8PaO3lGVlUSES"
+      "duration_ms": 140979,
+      "name": "C.A.P",
+      "url": "https://open.spotify.com/track/6848Jh2cFXvILaNmoaezOG"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -1623,6 +1599,30 @@
       "duration_ms": 496941,
       "name": "Gostosa Demais",
       "url": "https://open.spotify.com/track/6VOu9NObZ00mk5KFC6HfIQ"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Mate Ou Morra",
+        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "duration_ms": 158841,
+      "name": "SEQU\u00caNCIA DE AM\u00d4 RITMADA",
+      "url": "https://open.spotify.com/track/2Bxpm2WHB8PaO3lGVlUSES"
     }
   ],
   "unique_name": "creme",

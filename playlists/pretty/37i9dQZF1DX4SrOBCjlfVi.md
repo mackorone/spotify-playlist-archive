@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rob49, YG, BossMan Dlow and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,834 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,935 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 22 | [It's A Go \(feat\. D\-Lo\)](https://open.spotify.com/track/6sp6bSCo3kV6lFsPQ1pZPT) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi), [D\-Lo](https://open.spotify.com/artist/0kHp6OZT4pvcCbTMfQCOvE) | [It's A Go \(feat\. D\-Lo\)](https://open.spotify.com/album/39xpqpWhSV9azh4KRKrsth) | 2:57 |
 | 23 | [On Me](https://open.spotify.com/track/5zcLgmPeZC5q3Ybs1R4Fuf) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Home Alone](https://open.spotify.com/album/79D8ra2TqqdVBjUNrF8TGG) | 2:09 |
 | 24 | [WTF MY DRINK @?](https://open.spotify.com/track/39hlHvVtMaws6uUL7sDByH) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [WTF MY DRINK @?](https://open.spotify.com/album/3XvsnuckR8BnDwCXUPFX4z) | 2:55 |
-| 25 | [late night](https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [late night](https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq) | 2:52 |
+| 25 | [Late Night](https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Late Night](https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq) | 2:52 |
 | 26 | [30 Deep \(feat\. 21 Savage\)](https://open.spotify.com/track/3d9VvVyziuFiLIIUJD0KkU) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Cry For Help](https://open.spotify.com/album/0ecyqAyhmOZFnKLPeGCzhQ) | 2:31 |
 | 27 | [BELIEBER](https://open.spotify.com/track/36HgmvGrAnKxD2rsfoSVXI) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [BELIEBER](https://open.spotify.com/album/1xvqTM1g30qKgbFTOxmMor) | 2:26 |
 | 28 | [All Gone](https://open.spotify.com/track/7pMIGZKCjDma8bIz20UijY) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [All Gone](https://open.spotify.com/album/7kSqh20wSqiIUkp2GJ95P0) | 2:38 |

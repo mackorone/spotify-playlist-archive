@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Alhaji",
+        "url": "https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "Alhaji",
+      "url": "https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT"
+    },
+    {
+      "album": {
         "name": "ALL EYES ON ME",
         "url": "https://open.spotify.com/album/5v96iS1dWnI0lZbIfQI4rF"
       },
@@ -10878,7 +10896,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 210000,
       "name": "Maj\u1eb9kaj\u00e1",
       "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
@@ -15558,7 +15576,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 184108,
       "name": "Rub Minds",
       "url": "https://open.spotify.com/track/1NsWQNlrgM3XP6bgwvKfu9"
@@ -19816,6 +19834,28 @@
       "duration_ms": 197826,
       "name": "You're Hired (feat. Ayra Starr) - Legendury Beatz Remix",
       "url": "https://open.spotify.com/track/5i16HfVleOCQPwDnvUlnyl"
+    },
+    {
+      "album": {
+        "name": "ZAAZAA",
+        "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156080,
+      "name": "ZAAZAA",
+      "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
     },
     {
       "album": {

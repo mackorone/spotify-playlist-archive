@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: skuth, bac
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,153 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,168 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zu den anderen](https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw), [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Zu den anderen](https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI) | 2:19 |
+| 1 | [Zu den Anderen](https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw), [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Zu den Anderen](https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI) | 2:19 |
 | 2 | [Isar](https://open.spotify.com/track/3GGRoEdpCINzqIGs9fSGZ8) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Isar](https://open.spotify.com/album/4NsVJ3lui5cPD1OGB2NBW6) | 2:30 |
 | 3 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
 | 4 | [SMS an Mama](https://open.spotify.com/track/0WGs0QisymepiBXqyGZ2c7) | [Hænsen](https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66) | [SMS an Mama](https://open.spotify.com/album/3gPgKapGoedvuFOIA6aMHw) | 2:32 |

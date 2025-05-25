@@ -3243,6 +3243,32 @@
     },
     {
       "album": {
+        "name": "Dancing With Stars",
+        "url": "https://open.spotify.com/album/4ccXpzByLiy06ZVwJxys1a"
+      },
+      "artists": [
+        {
+          "name": "Saim\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt"
+        },
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        },
+        {
+          "name": "Bobby John",
+          "url": "https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Dancing With Stars",
+      "url": "https://open.spotify.com/track/5BAi766NfAWaQL17Qyc4JN"
+    },
+    {
+      "album": {
         "name": "Day I Die",
         "url": "https://open.spotify.com/album/0GWSiFD1UdmArIWhT8S5FR"
       },
@@ -3502,7 +3528,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 153818,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/26NY8ZTbqkoBOZPgNWeMh7"
@@ -5459,6 +5485,36 @@
     },
     {
       "album": {
+        "name": "Fortnight",
+        "url": "https://open.spotify.com/album/3zjybFbI9a6ZshgTfC4ncr"
+      },
+      "artists": [
+        {
+          "name": "Medusa",
+          "url": "https://open.spotify.com/artist/08Cmz2Whs8UYTPT4Th0c8w"
+        },
+        {
+          "name": "Acko",
+          "url": "https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi"
+        },
+        {
+          "name": "Flauna",
+          "url": "https://open.spotify.com/artist/6o1VDBvE2nrQKUbuuTZeRs"
+        },
+        {
+          "name": "R\u00d6",
+          "url": "https://open.spotify.com/artist/0EshJW7SbyzyUGpGP6XF3G"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188086,
+      "name": "Fortnight",
+      "url": "https://open.spotify.com/track/2LBBMwcaWUyHYTDZaeLH69"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/4mcIn2gp1KgL09URHYYrE8"
       },
@@ -5952,7 +6008,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 144272,
       "name": "Good To Go",
       "url": "https://open.spotify.com/track/5N70iqJHDPTll0GZgSuYf0"
@@ -7972,6 +8028,46 @@
       "duration_ms": 139200,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/1C5hCTVjM0GyeM7D3OwS1F"
+    },
+    {
+      "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/0qYEcNCc1W0ZzozJIv6gB5"
+      },
+      "artists": [
+        {
+          "name": "Cale",
+          "url": "https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/0NFSzRq2A7lb89ykonlkqZ"
+    },
+    {
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/1FUKGdMisHaudAaFzdRA54"
+      },
+      "artists": [
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "Raphael DeLove",
+          "url": "https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/7pPte6HEi00pcjkm3JoTMs"
     },
     {
       "album": {
@@ -10122,7 +10218,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 173543,
       "name": "Love",
       "url": "https://open.spotify.com/track/3fSdGxtm9tod3B7LGMcc1P"
@@ -12418,7 +12514,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 133043,
       "name": "Old Days",
       "url": "https://open.spotify.com/track/2ztNil2eRGwHwbFuroE1yy"
@@ -14116,7 +14212,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 156774,
       "name": "Room With A View",
       "url": "https://open.spotify.com/track/3qAiB3ulfAXrQYh5w1zp8P"
@@ -15608,7 +15704,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 155480,
       "name": "Space + Time",
       "url": "https://open.spotify.com/track/4uOIIMZEldmHsFatxB7Qjw"
@@ -18363,6 +18459,28 @@
     },
     {
       "album": {
+        "name": "wanna go",
+        "url": "https://open.spotify.com/album/6Pryv6F5sZsnweltOKLdgm"
+      },
+      "artists": [
+        {
+          "name": "beinghonest.",
+          "url": "https://open.spotify.com/artist/1GnrF1z7ZsNfDgdA58tk87"
+        },
+        {
+          "name": "sunsetdream.",
+          "url": "https://open.spotify.com/artist/3z0an3u1mojpvhdU23c6Tq"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "wanna go",
+      "url": "https://open.spotify.com/track/1JWpGTri05kTOXvsZS5rhN"
+    },
+    {
+      "album": {
         "name": "Want U Back",
         "url": "https://open.spotify.com/album/07nreE43d1fK5DvTVpg0v8"
       },
@@ -19526,6 +19644,32 @@
       "duration_ms": 153750,
       "name": "You Bring Me Up",
       "url": "https://open.spotify.com/track/4BoKz5vu9cPFA8hcBBi5HS"
+    },
+    {
+      "album": {
+        "name": "You Got It All",
+        "url": "https://open.spotify.com/album/0Fj6UFfTuNN9Es4aNNmtRk"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "AgusAlvarez",
+          "url": "https://open.spotify.com/artist/7rGnhW0N8GcFkxw3xgZucr"
+        },
+        {
+          "name": "Kezano",
+          "url": "https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154263,
+      "name": "You Got It All",
+      "url": "https://open.spotify.com/track/63BhuFsckAdpiIm85muG5i"
     },
     {
       "album": {

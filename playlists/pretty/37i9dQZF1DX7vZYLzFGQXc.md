@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,309 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,319 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 15 | [Love and Cough♥](https://open.spotify.com/track/0IgbkpnCfM1c5dOlVnALXS) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Love & Cough♥](https://open.spotify.com/album/1ML4GnpXa6DLUjJTSnREW0) | 2:35 |
 | 16 | [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 |
 | 17 | [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 |
-| 18 | [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KYSB](https://open.spotify.com/artist/7amGbokkhn7zlfdW09hdSX) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 |
+| 18 | [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KYSB](https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 |
 | 19 | [Hurt](https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh) | [SRA](https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk) | [Hurt](https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6) | 3:19 |
 | 20 | [Wish](https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:32 |
 | 21 | [Calvin Kl3in](https://open.spotify.com/track/5yQLVUzLc4GjJTUjQImF7H) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Calvin Kl3in](https://open.spotify.com/album/7rPZlHvXCIVnO9oxeU2PF1) | 2:30 |

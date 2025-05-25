@@ -4,7 +4,7 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-256 songs - 15 hr 55 min
+257 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/track/7dTYl4jFvO8pP0C57r1WUA) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/album/1csBMznVHeDsC4LiJIc1W0) | 2:45 | 2025-03-27 |  |
 | [ถ้าต่อจากนี้ไม่มีฉันแล้ว](https://open.spotify.com/track/5eov9qKm4v1r0f7zUL33yD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ถ้าต่อจากนี้ไม่มีฉันแล้ว \(What if?\)](https://open.spotify.com/album/5Ix5ljszzUoHnVOaKO5uFB) | 3:49 | 2023-09-15 | 2024-02-19 |
 | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/track/0LJ5ZgcDdyt24akqtABCAg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/album/0dZTTJBdz0GQN9BWfB73XZ) | 3:36 | 2022-11-23 | 2023-04-14 |
+| [ทัก \(FIRST SIGHT\)](https://open.spotify.com/track/3hqLHxV65Uw7P2rqy0z886) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ทัก \(FIRST SIGHT\)](https://open.spotify.com/album/69zdewg8oYXQTd9E3GzhXA) | 3:27 | 2025-05-24 |  |
 | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2024-03-28 | 2024-10-26 |
 | [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 | 2023-05-13 |
 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 | 2025-03-27 |  |

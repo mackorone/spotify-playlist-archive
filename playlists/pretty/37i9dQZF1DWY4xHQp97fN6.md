@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,667,631 likes - 101 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,667,478 likes - 101 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

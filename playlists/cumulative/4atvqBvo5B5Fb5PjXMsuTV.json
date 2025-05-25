@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 May 03:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 May 13:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -32889,6 +32889,24 @@
     },
     {
       "album": {
+        "name": "Got to Have Love",
+        "url": "https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292228,
+      "name": "Got to Have Love",
+      "url": "https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2"
+    },
+    {
+      "album": {
         "name": "Gotta Know",
         "url": "https://open.spotify.com/album/4esAYsn0N8nMNWbBXJfdV4"
       },
@@ -38669,7 +38687,7 @@
     },
     {
       "album": {
-        "name": "I Saw the Mountains",
+        "name": "I Saw The Mountains",
         "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
       },
       "artists": [
@@ -38682,7 +38700,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 264664,
-      "name": "I Saw the Mountains",
+      "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
@@ -45075,7 +45093,7 @@
     },
     {
       "album": {
-        "name": "late night",
+        "name": "Late Night",
         "url": "https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq"
       },
       "artists": [
@@ -45088,7 +45106,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172244,
-      "name": "late night",
+      "name": "Late Night",
       "url": "https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f"
     },
     {
@@ -65838,7 +65856,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 207906,
       "name": "Road To Nothing",
       "url": "https://open.spotify.com/track/7FGEAhnzmuHhttUAEihnax"

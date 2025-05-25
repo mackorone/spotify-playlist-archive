@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 24 May 03:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 24 May 13:03 UTC.
 
-4,803 songs - 11 day 3 hr 20 min
+4,804 songs - 11 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1720,6 +1720,7 @@
 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-20 | 2025-01-10 |
 | [got me fuk'd up](https://open.spotify.com/track/76T2WXHogenzOgHbYmGfoU) | [lor2mg](https://open.spotify.com/artist/5JmWLxL2ESIufByQzPQ9zh), [3ri.xs](https://open.spotify.com/artist/2BDFfo7v5aEd09Doq6HWpS) | [got me fuk'd up](https://open.spotify.com/album/5fCSSA9UnHIlVx7EYc6gb0) | 2:29 | 2024-10-01 | 2024-10-04 |
 | [got no right](https://open.spotify.com/track/0mlNiDAZnj2pYyfKRKQyja) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G), [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [got no right](https://open.spotify.com/album/0r6p9NIx64XT1R4cFMCdlp) | 2:18 | 2024-10-04 | 2024-10-09 |
+| [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 | 2025-05-24 |  |
 | [Gotta Know](https://open.spotify.com/track/1sTWITmo9fuVzGjJRgcJh8) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Gotta Know](https://open.spotify.com/album/4esAYsn0N8nMNWbBXJfdV4) | 3:09 | 2024-10-29 | 2024-11-01 |
 | [Goyard Torba](https://open.spotify.com/track/0Oc6uIhFaWaPEk60Qvb2O7) | [Mlody Korden](https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG), [Swizzy](https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk), [pieruun](https://open.spotify.com/artist/5LObVYVi0keR5Eplsk6Od1) | [Goyard Torba](https://open.spotify.com/album/4lBM9KBGFCM0GEK5BE7GWT) | 1:41 | 2024-06-10 | 2024-06-12 |
 | [grandiose \- Japanese Version](https://open.spotify.com/track/3CcKmNXMX61R6ABNgyCBhP) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [grandiose \(Japanese Version\)](https://open.spotify.com/album/441LIDd0vhusODlyByR3zP) | 3:37 | 2024-08-22 | 2024-08-24 |
@@ -2022,7 +2023,7 @@
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-10-31 | 2024-11-02 |
 | [I Saw Another Bird](https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [I Saw Another Bird](https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X) | 2:12 | 2024-10-01 | 2024-10-04 |
 | [I saw it coming](https://open.spotify.com/track/2WInimBjTsn5LRklnACSwE) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [I saw it coming / zzzz](https://open.spotify.com/album/32cHQNXxSuxjnNpjMfjEM9) | 1:39 | 2025-03-28 | 2025-04-05 |
-| [I Saw the Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw the Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 | 2025-05-17 |  |
+| [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 | 2025-05-17 |  |
 | [I See](https://open.spotify.com/track/1fsH3mGEnWttKnz6S4Qeir) | [Illuminati Congo](https://open.spotify.com/artist/1lmNbeKCDXV9C86TwWmbdu), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [I See Scrolls Around Me](https://open.spotify.com/album/1z5uI37YigZ484oX9mXS8o) | 2:42 | 2024-10-10 | 2024-10-12 |
 | [I Swear To God](https://open.spotify.com/track/4EFja5sjO1ORjJ6tU0L1tT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [I Swear To God](https://open.spotify.com/album/3doVdTV39FSjG27oYcUKg0) | 2:36 | 2024-09-06 | 2024-09-10 |
 | [I Think About Heaven](https://open.spotify.com/track/44ADDcYWJISFUrx8zIASLn) | [Christopher Owens](https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy) | [I Think About Heaven](https://open.spotify.com/album/3hfKLdxRBRMIiyQYUV37QF) | 6:03 | 2024-07-30 | 2024-08-02 |
@@ -2351,7 +2352,7 @@
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 | 2024-11-13 |
 | [Last Time](https://open.spotify.com/track/1M7tElrrOSiGFwUIp7ztr6) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Last Time](https://open.spotify.com/album/5aSf6hr6Ypdp8cmTCRkkir) | 3:35 | 2024-06-05 | 2024-06-07 |
 | [Last Time We Never Meet Again](https://open.spotify.com/track/4mKQ5jwuUvusHUVoLsOIHA) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Last Time We Never Meet Again](https://open.spotify.com/album/6obpscPPNZayw65IPFZSWE) | 3:10 | 2024-06-20 | 2024-06-22 |
-| [late night](https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [late night](https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq) | 2:52 | 2025-05-23 |  |
+| [Late Night](https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Late Night](https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq) | 2:52 | 2025-05-23 |  |
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-02 | 2024-08-08 |
 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 | 2025-05-23 |  |
 | [Latitude](https://open.spotify.com/track/031wCW0a0oFjzp4Emiq3tr) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Latitude](https://open.spotify.com/album/1Bqp3SN1vFRQsDJE73mK3K) | 3:15 | 2024-11-01 | 2024-11-08 |
@@ -3435,7 +3436,7 @@
 | [Ritual \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-07-09 | 2024-07-11 |
 | [River](https://open.spotify.com/track/4FhqI1mZkKpdAGtCiLIKHh) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [River](https://open.spotify.com/album/0xzEUxhtT3GiwgpxBps7HS) | 4:09 | 2024-12-21 | 2024-12-26 |
 | [RIZZ](https://open.spotify.com/track/5SpQxEL0mJV5r5hS1a5G3J) | [ADYA](https://open.spotify.com/artist/4J4tJMuTHFBLuNE93GGvDW) | [RIZZ](https://open.spotify.com/album/639X1kE2s1ZD2dmhihOWLr) | 3:01 | 2024-08-26 | 2024-08-30 |
-| [Road To Nothing](https://open.spotify.com/track/7FGEAhnzmuHhttUAEihnax) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Road To Nothing](https://open.spotify.com/album/57IX4na8EcVegXGiAACS4N) | 3:27 | 2025-05-18 |  |
+| [Road To Nothing](https://open.spotify.com/track/7FGEAhnzmuHhttUAEihnax) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Road To Nothing](https://open.spotify.com/album/57IX4na8EcVegXGiAACS4N) | 3:27 | 2025-05-18 | 2025-05-25 |
 | [Robbery 7](https://open.spotify.com/track/2sqc7KkHcxy53gXbhA9PFa) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery 7](https://open.spotify.com/album/4ozI7JpZCF7GU2p7QvFVmH) | 3:44 | 2024-06-21 | 2024-06-23 |
 | [Rock Bottom](https://open.spotify.com/track/7iSYyT5UOBsmDVcWGXrdT2) | [BOI WHAT](https://open.spotify.com/artist/3abEoUbTl6Mghy9aLG3uiC) | [Rock Bottom](https://open.spotify.com/album/5fh8n7LNbYnl122kqx2wfx) | 3:02 | 2024-08-10 | 2024-08-13 |
 | [Rock Out](https://open.spotify.com/track/53opE2ZAIvEqv3pwo7kjLF) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Rock Out](https://open.spotify.com/album/3mKeMqi3QFtGLhsbgyT2Fl) | 2:56 | 2024-05-21 | 2024-05-24 |

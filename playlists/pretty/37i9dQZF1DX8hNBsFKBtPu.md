@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,853 likes - 94 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,852 likes - 94 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 2 | [Stolt \(feat\. Lamin\)](https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 3:32 |
 | 3 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 |
 | 4 | [Hørt Det Før \(feat\. Pil, Annika, Mille & Medina\)](https://open.spotify.com/track/2MOH9hDRMYCpNzmHzCRjPh) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Godaften](https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4) | 3:34 |
-| 5 | [Jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 |
+| 5 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 |
 | 6 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 | 7 | [Heartbreak](https://open.spotify.com/track/2jJgJDiE7caOx0bO7IText) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Heartbreak](https://open.spotify.com/album/2c6FoTPcETcG5BW4nsNltR) | 3:06 |
 | 8 | [Lost Myself](https://open.spotify.com/track/0j5dWHZtHxLnQ5HuhwlQzy) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Occurrent Affairs](https://open.spotify.com/album/1JASMcjB8FkKtFrxOdtI62) | 3:07 |

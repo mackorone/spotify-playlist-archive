@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 163732,
+  "num_followers": 163747,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
         "name": "Call The Hurse",
         "url": "https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 180689,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
         "name": "THE WAY I ROLL",
         "url": "https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC"
       },
@@ -827,26 +847,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Outta Order",
-        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 235885,
-      "name": "Outta Order",
-      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/1pmhtYrqBJZafUymULlRiv"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Last Verse",
-        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 313500,
-      "name": "Last Verse",
-      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
+        "name": "Last Verse",
+        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 313500,
+      "name": "Last Verse",
+      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1111,6 +1111,34 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
+        "name": "Mob Deep",
+        "url": "https://open.spotify.com/album/2TjLCvrgccR5RjdACRDZgC"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 237267,
+      "name": "Mob Deep",
+      "url": "https://open.spotify.com/track/0WpgioIi0lNOaYHrMaRn2S"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
         "name": "Stay In Your Lane",
         "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
       },
@@ -1159,30 +1187,22 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Mob Deep",
-        "url": "https://open.spotify.com/album/2TjLCvrgccR5RjdACRDZgC"
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
       },
       "artists": [
         {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
         },
         {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
         }
       ],
-      "duration_ms": 237267,
-      "name": "Mob Deep",
-      "url": "https://open.spotify.com/track/0WpgioIi0lNOaYHrMaRn2S"
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1203,26 +1223,6 @@
       "duration_ms": 245517,
       "name": "Freak Out",
       "url": "https://open.spotify.com/track/0CCf2rqQQj1f49fFGmcLe8"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Loud Enuff",
-        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Loud Enuff",
-      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "IS IT",
         "url": "https://open.spotify.com/album/6H4Ty8tWDmDZLWe6zckXSi"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 174418,
       "name": "IS IT",
       "url": "https://open.spotify.com/track/3ltMH0Qk0hp8diFx60ioIb"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
+        "name": "Loud Enuff",
+        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Loud Enuff",
+      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "BAD BOY",
-        "url": "https://open.spotify.com/album/6tpAQ0U2U8qblcluGpw83C"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "BAD BOY",
-      "url": "https://open.spotify.com/track/1CdJUMDI868MDRZXEF0Vzt"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
       },
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
+        "name": "BAD BOY",
+        "url": "https://open.spotify.com/album/6tpAQ0U2U8qblcluGpw83C"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/1CdJUMDI868MDRZXEF0Vzt"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
         "name": "No Fugazi",
         "url": "https://open.spotify.com/album/3Zw9zz8E7Dtm8JRbXJ9diJ"
       },
@@ -1839,46 +1839,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Bassline Murder",
-        "url": "https://open.spotify.com/album/0zMno2lzMKblucKSZbEKmO"
-      },
-      "artists": [
-        {
-          "name": "Levela",
-          "url": "https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib"
-        },
-        {
-          "name": "Bennie",
-          "url": "https://open.spotify.com/artist/3CioJ4easWhXe2RsRwwmPr"
-        },
-        {
-          "name": "Boy Bellers",
-          "url": "https://open.spotify.com/artist/7MiDnRMISjlAaWoFlZ4wpC"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "Bassline Murder",
-      "url": "https://open.spotify.com/track/5fEPxmjhapmj9eqsl2aW2C"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
-        "name": "Maw",
-        "url": "https://open.spotify.com/album/4vD6xOvf61P2WMwbUHHe55"
-      },
-      "artists": [
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 263314,
-      "name": "Maw",
-      "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "FIYA SELECTA (feat. Toya Delazy)",
         "url": "https://open.spotify.com/album/14ptodXF2R41xxDgNvloV4"
       },
@@ -1907,6 +1867,62 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
+        "name": "Maw",
+        "url": "https://open.spotify.com/album/4vD6xOvf61P2WMwbUHHe55"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 263314,
+      "name": "Maw",
+      "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
+        "name": "Bassline Murder",
+        "url": "https://open.spotify.com/album/0zMno2lzMKblucKSZbEKmO"
+      },
+      "artists": [
+        {
+          "name": "Levela",
+          "url": "https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib"
+        },
+        {
+          "name": "Bennie",
+          "url": "https://open.spotify.com/artist/3CioJ4easWhXe2RsRwwmPr"
+        },
+        {
+          "name": "Boy Bellers",
+          "url": "https://open.spotify.com/artist/7MiDnRMISjlAaWoFlZ4wpC"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "Bassline Murder",
+      "url": "https://open.spotify.com/track/5fEPxmjhapmj9eqsl2aW2C"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
+        "name": "PopUp Dubplate",
+        "url": "https://open.spotify.com/album/6lW4S64q6Lp6qvT9SqvTut"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "PopUp Dubplate",
+      "url": "https://open.spotify.com/track/4jkgAjl07VpIbmIAqzXCVS"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
         "name": "Hang Up The Mic",
         "url": "https://open.spotify.com/album/12wwjeKSvfuWFk7FLLWO7B"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 169755,
       "name": "Hang Up The Mic",
       "url": "https://open.spotify.com/track/2yQX3c895hXfHD2slRYLuH"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
-        "name": "PopUp Dubplate",
-        "url": "https://open.spotify.com/album/6lW4S64q6Lp6qvT9SqvTut"
-      },
-      "artists": [
-        {
-          "name": "BSEARL",
-          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "PopUp Dubplate",
-      "url": "https://open.spotify.com/track/4jkgAjl07VpIbmIAqzXCVS"
     },
     {
       "added_at": "2025-05-22 23:00:13",

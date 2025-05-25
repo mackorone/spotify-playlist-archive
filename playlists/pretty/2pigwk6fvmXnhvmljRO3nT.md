@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,197 songs - 18 day 17 hr 4 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,198 songs - 18 day 17 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7205,5 +7205,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7195 | [ここから、ここから](https://open.spotify.com/track/2dzf7W5dhalC2Ap7Xzajk0) | [玉木マリ\(CV:水瀬いのり\)](https://open.spotify.com/artist/4NWpE4yoDn3dZGq7VGZx5x), [小淵沢報瀬\(CV:花澤香菜\)](https://open.spotify.com/artist/1UfJ7p7f2bGcYSkIayANn8), [三宅日向\(CV:井口裕香\)](https://open.spotify.com/artist/7r3cqpsjY440vtROHi8IJL), [白石結月\(CV:早見沙織\)](https://open.spotify.com/artist/0kCAiZgz2lE3XCJNUdWB4c) | [TVアニメ「宇宙よりも遠い場所」エンディングテーマ「ここから、ここから」](https://open.spotify.com/album/3Tr6R0K8QPAmOOEWp8PidI) | 4:36 |
 | 7196 | [Aoi, Koi, Daidaiiro No Hi](https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 4:42 |
 | 7197 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 |
+| 7198 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
 
-Snapshot ID: `AAAGkqufbBF+q6pyYbbR8rFBYEBHMGfF`
+Snapshot ID: `AAAGk46sOQSgnsJF9Rd9oAzaZMYD2nAc`

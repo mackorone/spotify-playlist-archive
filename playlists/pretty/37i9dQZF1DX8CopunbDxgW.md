@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > is it TOO LOUD?  🔊 pluko's new album is here\. it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,044 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,010 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

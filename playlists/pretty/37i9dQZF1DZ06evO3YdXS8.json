@@ -1,29 +1,13 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 634623,
+  "num_followers": 634693,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC5pAAAAAAA8x5GpCoRqqOpM/IAOhZ/6",
+  "snapshot_id": "aC+6gAAAAADjt2HRr0wGazkfcl8K1w1Z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre A Mi Mundo (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0mahLLFCziqNDRLAPM4HCd"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184227,
-      "name": "Como La Flor - Remastered 2025",
-      "url": "https://open.spotify.com/track/4AuguwikY0eDBGRzPxtpcG"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -71,22 +71,6 @@
       "duration_ms": 314866,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All My Hits: Todos Mis Exitos",
-        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "No Debes Jugar - Remastered",
-      "url": "https://open.spotify.com/track/4qezVHFYPxcxqek5b3HFCx"
     },
     {
       "added_at": null,
@@ -123,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All My Hits: Todos Mis Exitos",
+        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "No Debes Jugar - Remastered",
+      "url": "https://open.spotify.com/track/4qezVHFYPxcxqek5b3HFCx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -135,22 +135,6 @@
       "duration_ms": 281560,
       "name": "I Could Fall In Love",
       "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "Ya Ves",
-      "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
     },
     {
       "added_at": null,
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Que Cre\u00edas",
-      "url": "https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 200840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Que Cre\u00edas",
+      "url": "https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Si La Quieres",
-      "url": "https://open.spotify.com/track/2cKCwfztCCpCILaWIBUS6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 157306,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Si La Quieres",
+      "url": "https://open.spotify.com/track/2cKCwfztCCpCILaWIBUS6I"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena",
-        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 210626,
       "name": "Bidi Bidi Bom Bom - 1994 Version",
       "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
     },
     {
       "added_at": null,

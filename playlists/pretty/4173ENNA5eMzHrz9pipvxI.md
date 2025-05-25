@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Raaban, Hypaton, TOOMANYLEFTHANDS
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,638 likes - 24 songs - 1 hr 7 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,623 likes - 24 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Forever](https://open.spotify.com/track/3fghHh3Md2fDNx03vvhOhJ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Last Forever](https://open.spotify.com/album/16YAydZvzNFRVlGmtzZPX6) | 2:56 |
 | 2 | [That's Just Love](https://open.spotify.com/track/3axt8o9qCEM8EPjHHLn0mR) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [HEARTSTRINGS](https://open.spotify.com/album/3M4BDnaYzmeRD0HD3LPNiR) | 3:00 |
-| 3 | [Into The Void](https://open.spotify.com/track/61kGJVuQJOqnpgnS2rzcCR) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [RØØTZ](https://open.spotify.com/artist/4frpBL2krY6yQkxN9bN0ui), [Jordan Lindley](https://open.spotify.com/artist/5lTAqA42dmnnSAcio6j3th) | [Into The Void](https://open.spotify.com/album/1mAVbja9AMFiLeduec3BLE) | 3:21 |
+| 3 | [Into The Void \(feat\. Jordan Lindley\)](https://open.spotify.com/track/61kGJVuQJOqnpgnS2rzcCR) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [RØØTZ](https://open.spotify.com/artist/4frpBL2krY6yQkxN9bN0ui), [Jordan Lindley](https://open.spotify.com/artist/5lTAqA42dmnnSAcio6j3th) | [Into The Void \(feat\. Jordan Lindley\)](https://open.spotify.com/album/1mAVbja9AMFiLeduec3BLE) | 3:21 |
 | 4 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 |
 | 5 | [Anything \(Ya Ya\)](https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C) | [Anything \(Ya Ya\)](https://open.spotify.com/album/0d8CNFTRePsFgEMMBlFOFQ) | 2:50 |
 | 6 | [Voices](https://open.spotify.com/track/74QXColrSrZEH4Oi8NafkU) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Brody Jenner](https://open.spotify.com/artist/3Q3MljugwEYzj6paNAlETx), [Maryon King](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Voices](https://open.spotify.com/album/6N96BAoDrR2LCwSysTIrzp) | 2:40 |

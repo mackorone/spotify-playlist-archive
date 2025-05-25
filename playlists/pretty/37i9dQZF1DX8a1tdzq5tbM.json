@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1691267,
+  "num_followers": 1691757,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Toca (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 200483,
+      "name": "Toca's Miracle - Radio Edit",
+      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Toca (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
-      },
-      "artists": [
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Toca's Miracle - Radio Edit",
-      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
+      },
+      "artists": [
+        {
+          "name": "M.A.N.D.Y.",
+          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 438013,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 185613,
       "name": "Show Me Love (feat. Robin S) - Radio Edit",
       "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
-      },
-      "artists": [
-        {
-          "name": "M.A.N.D.Y.",
-          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 438013,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Girl You Lost To Cocaine",
-        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
-      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 208360,
       "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
       "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "The Girl You Lost To Cocaine",
+        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
+      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "The Longest Road",
+        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
+      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
       },
@@ -1739,30 +1759,6 @@
       "duration_ms": 224533,
       "name": "Sun Is Up - Play & Win Radio Edit",
       "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Ned Shephard",
-          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
-        },
-        {
-          "name": "Sultan",
-          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
-      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1835,6 +1831,30 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Ned Shephard",
+          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
+        },
+        {
+          "name": "Sultan",
+          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "presents Traffic Signs",
         "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 384983,
       "name": "The Big Fake",
       "url": "https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "The Longest Road",
-        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
-      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
       "added_at": "2024-07-12 15:40:20",

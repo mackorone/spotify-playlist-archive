@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 359535,
+  "num_followers": 359853,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Bandido De Amores",
         "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 178932,
       "name": "Bandido De Amores",
       "url": "https://open.spotify.com/track/51oukvakolz61ebuXR3iIh"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Prov\u00f3came",
-        "url": "https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Banda Cuisillos",
         "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "A Bailar De Caballito",
-        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 241382,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
+      "duration_ms": 179887,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1707,34 +1723,18 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+        "name": "A Bailar De Caballito",
+        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 179887,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Acuerdate De Mi",
-        "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 193857,
-      "name": "La Guarecita",
-      "url": "https://open.spotify.com/track/1ypG39Hh9plTazkgbhE4Cv"
+      "duration_ms": 241382,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1787,34 +1787,18 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Acuerdate De Mi",
+        "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Colecci\u00f3n Privada",
-        "url": "https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq"
-      },
-      "artists": [
-        {
-          "name": "Banda Astilleros",
-          "url": "https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Borracho Morire",
-      "url": "https://open.spotify.com/track/4b6ImioSLFFQeweQFzx69h"
+      "duration_ms": 193857,
+      "name": "La Guarecita",
+      "url": "https://open.spotify.com/track/1ypG39Hh9plTazkgbhE4Cv"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Colecci\u00f3n Privada",
+        "url": "https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq"
+      },
+      "artists": [
+        {
+          "name": "Banda Astilleros",
+          "url": "https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Borracho Morire",
+      "url": "https://open.spotify.com/track/4b6ImioSLFFQeweQFzx69h"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Tumbando Ca\u00f1a",
         "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
       },
@@ -1879,118 +1879,6 @@
       "duration_ms": 154853,
       "name": "El Alacr\u00e1n",
       "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 153727,
-      "name": "Te He de Querer",
-      "url": "https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Te He Prometido",
-        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
-      },
-      "artists": [
-        {
-          "name": "El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 156827,
-      "name": "Viejo Joven El",
-      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Colecci\u00f3n Privada",
-        "url": "https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq"
-      },
-      "artists": [
-        {
-          "name": "Banda Astilleros",
-          "url": "https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "El Anonimo",
-      "url": "https://open.spotify.com/track/1teRpnRo534fWUj6uDwVkr"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 210721,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Puras Rancheras Con Cuisillos",
-        "url": "https://open.spotify.com/album/1rk9AlqRtw4KEj3LoACMnp"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Pobre Bohemio",
-      "url": "https://open.spotify.com/track/6ifPyD2GhPOy54fqbcd9IV"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -2011,6 +1899,38 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Puras Rancheras Con Cuisillos",
+        "url": "https://open.spotify.com/album/1rk9AlqRtw4KEj3LoACMnp"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 173313,
+      "name": "Pobre Bohemio",
+      "url": "https://open.spotify.com/track/6ifPyD2GhPOy54fqbcd9IV"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Te He Prometido",
+        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
+      },
+      "artists": [
+        {
+          "name": "El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/7aEMpk1yvAh8MA6dgpMuQ2"
       },
@@ -2023,6 +1943,86 @@
       "duration_ms": 248520,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/5a53BoBNOKSUW6n4lEZOAk"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 156827,
+      "name": "Viejo Joven El",
+      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 210721,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 153727,
+      "name": "Te He de Querer",
+      "url": "https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Colecci\u00f3n Privada",
+        "url": "https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq"
+      },
+      "artists": [
+        {
+          "name": "Banda Astilleros",
+          "url": "https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "El Anonimo",
+      "url": "https://open.spotify.com/track/1teRpnRo534fWUj6uDwVkr"
     },
     {
       "added_at": "2024-07-03 18:00:30",

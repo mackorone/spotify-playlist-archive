@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > we want that pop life 😮‍💨😮‍💨 ft\. umru &  underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,208 likes - 200 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,212 likes - 200 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 4 | [Supernova \(feat funeral\)](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova \(feat funeral\)](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
 | 5 | [down](https://open.spotify.com/track/4TsTsXukyNBJ5EfYFOw8LG) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [E](https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw) | 2:14 |
 | 6 | [Xxxx pt 2](https://open.spotify.com/track/529lUcL9tLXXCsdI3yPM3O) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [Xxxx pt 2](https://open.spotify.com/album/7qoiIPsmyDpPpMdZkhOwqT) | 2:07 |
-| 7 | [left to right \(feat\. 2hollis\)](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right \(feat\. 2hollis\)](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 |
+| 7 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 |
 | 8 | [Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Talk 2 Me](https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq) | 3:42 |
 | 9 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 |
 | 10 | [Overk1LL](https://open.spotify.com/track/4yC42hdGpcAoDg6YxRPynK) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [Biiig Stretch](https://open.spotify.com/album/0vZpbN6Vioh3t1iibGcV9t) | 2:49 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 199 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
 | 200 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 |
 
-Snapshot ID: `aDCVHgAAAABNLtsCIoFhERCPnr/UbsLd`
+Snapshot ID: `AAAAADkKNZYUjNmjR3JlUKzXLJqu2lLo`

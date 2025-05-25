@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-443 songs - 23 hr 53 min
+444 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [Sleepy Lagoon](https://open.spotify.com/track/511YWvR0UeXgJENt3qM5Ix) | [The Trumpet Jazz band](https://open.spotify.com/artist/1bHGmMQpnR4n6SevD60jdL) | [Magic Jazz Trumpet](https://open.spotify.com/album/0980VHgDIRiubsOM6aVoiY) | 2:57 | 2024-07-24 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 | 2024-07-24 |  |
 | [So Near and Yet So Far](https://open.spotify.com/track/6AC7UynRLE48GlJWEAWICV) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Songbooks](https://open.spotify.com/album/5LdHsGaNecatmBABHpbdoZ) | 3:21 | 2024-07-24 |  |
-| [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/4adVw6NMItG5Hjo6bCWRum) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/4jZlfWH3mwcfW4PfAHd2vX) | 4:01 | 2024-07-24 |  |
+| [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/27oaGM2vE3wqDaztsg7QWP) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/3KjQ1gqbJ0OAlcUzUGdDon) | 4:01 | 2025-05-24 |  |
+| [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/4adVw6NMItG5Hjo6bCWRum) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/4jZlfWH3mwcfW4PfAHd2vX) | 4:01 | 2024-07-24 | 2025-05-25 |
 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 | 2024-07-24 |  |
 | [Solomon](https://open.spotify.com/track/1dROR2zXDvF1CTgGquRpYJ) | [Rick Smith](https://open.spotify.com/artist/3LwHPD1ZMjkWJjd0G7L8De) | [Trance O.S.T.](https://open.spotify.com/album/0HzWRtuRyFR8guxxd5xqKt) | 7:09 | 2024-07-24 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 5:57 | 2024-07-24 |  |

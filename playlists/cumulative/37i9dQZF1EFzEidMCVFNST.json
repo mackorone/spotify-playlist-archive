@@ -2906,6 +2906,24 @@
     {
       "album": {
         "name": "Empurrando Com a Barriga",
+        "url": "https://open.spotify.com/album/2MxhpYUqOndQBPwYOiLjhZ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Costa",
+          "url": "https://open.spotify.com/artist/5y9n50MKUxp8MRBKhexNms"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183610,
+      "name": "Empurrando Com a Barriga",
+      "url": "https://open.spotify.com/track/1ErWFIpGWl5BjJdJtPGmFZ"
+    },
+    {
+      "album": {
+        "name": "Empurrando Com a Barriga",
         "url": "https://open.spotify.com/album/2s56MRg8EhEH5z5HXMc2vY"
       },
       "artists": [
@@ -2916,7 +2934,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 183610,
       "name": "Empurrando Com a Barriga",
       "url": "https://open.spotify.com/track/6wTclFOe1fGrdSCGdbCq0s"

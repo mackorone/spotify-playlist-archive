@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:4EHUvmDJ3eLI7PhYyTe66f">Amanda Mur</a> on cover\. Artwork by Thami Nabil
 
-2,031 songs - 6 day 14 hr 31 min
+2,032 songs - 6 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Crescent of Sun](https://open.spotify.com/track/6lm4w9zSh69gCEm01eao4T) | [Peace Chord](https://open.spotify.com/artist/6O1ajgv9wU9ZGlW7U1d2u3) | [Peace Chord](https://open.spotify.com/album/1XKgHpPklX1IqgLk1MwbRW) | 4:32 | 2021-12-01 | 2022-02-17 |
 | [Crescent of Sun](https://open.spotify.com/track/5Ix8QhDRbAk7tHJk2IwgRq) | [Peace Chord](https://open.spotify.com/artist/6O1ajgv9wU9ZGlW7U1d2u3) | [Crescent of Sun](https://open.spotify.com/album/2iuWkNKY7U9ns6b1F9oFYX) | 4:32 | 2020-11-15 | 2021-02-26 |
 | [Critter](https://open.spotify.com/track/646Tt6c7RALvePsjAvINCO) | [Ishmael Cormack](https://open.spotify.com/artist/6aBnMemptfLsJgy0ybSKJn) | [Critter](https://open.spotify.com/album/4VLfxhiDw60pEgWy5jKlsT) | 6:00 | 2021-05-28 | 2021-08-03 |
+| [Cross Road](https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Charged Up 2](https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b) | 4:24 | 2025-05-22 |  |
 | [Crows Nest](https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS) | [Mindtality](https://open.spotify.com/artist/3xY2CQpdwGs9GWlMg46k7c) | [Weekly Releases 2023](https://open.spotify.com/album/22IwzQcMkxsOHXqvqYqACL) | 3:52 | 2023-01-11 | 2024-03-07 |
 | [CRUX](https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD) | [Stefano Pilia](https://open.spotify.com/artist/4v3YpaAOE8k0271vV6Wg8v), [Adrian Utley](https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA), [Alessandra Novaga](https://open.spotify.com/artist/42BB0rGDAghojUlrJhIJrG) | [Spiralis Aurea Trio](https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl) | 6:06 | 2024-03-06 | 2024-08-08 |
 | [Crystals](https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 4:25 | 2024-08-14 | 2024-12-05 |
@@ -1716,7 +1717,7 @@
 | [The Protester](https://open.spotify.com/track/6IgAKh5Oix3jLoCQyrfy9b) | [Aaron Cupples](https://open.spotify.com/artist/3OGQFxVzdGQPrvPJXozi8h) | [Island of the Hungry Ghosts \(OST\)](https://open.spotify.com/album/0o8P0i2Ljyt2KVV7LH6wAT) | 4:14 | 2021-02-04 | 2021-04-15 |
 | [the REAL](https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [the REAL](https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB) | 4:18 | 2024-03-06 | 2024-04-19 |
 | [the REAL](https://open.spotify.com/track/3RwZGa13Iv5Wk1XYnQ90ya) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [the REAL](https://open.spotify.com/album/3tAt2SzorK7JaZdvM8GvFg) | 4:18 | 2024-03-06 | 2024-08-08 |
-| [the REAL \- HAAi Remix](https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [the REAL \(HAAi Remix\)](https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j) | 5:36 | 2024-04-03 |  |
+| [the REAL \- HAAi Remix](https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [the REAL \(HAAi Remix\)](https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j) | 5:36 | 2024-04-03 | 2025-05-25 |
 | [The Reckoning](https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 5:12 | 2021-04-16 | 2021-12-02 |
 | [The Regulator](https://open.spotify.com/track/7CgCX1EqTDmikX0tsZdQiK) | [Ghost Dubs](https://open.spotify.com/artist/0nEbx8lIbqkO08rKkXqQ05) | [Damaged](https://open.spotify.com/album/6bjLW5oKgSanC18sGIlkl8) | 4:04 | 2024-11-13 | 2024-12-05 |
 | [The Ruthless Act](https://open.spotify.com/track/4ClCH5JRIt5WhQkgVuEqRa) | [Aleksandra Słyż](https://open.spotify.com/artist/0UJZX50pgYvYyvyqh6L2dM) | [A Vibrant Touch](https://open.spotify.com/album/07bl534D7KDaBCZsUL5q9M) | 11:46 | 2022-10-05 | 2022-11-10 |

@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 58510,
+  "num_followers": 58528,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-05-23 02:45:33",
       "album": {
-        "name": "1/6",
-        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "1/6",
-      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
-    },
-    {
-      "added_at": "2025-05-23 02:45:33",
-      "album": {
         "name": "FREE`SM",
         "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 220526,
       "name": "Where are you?",
       "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
+    },
+    {
+      "added_at": "2025-05-23 02:45:33",
+      "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
     },
     {
       "added_at": "2025-05-23 02:45:33",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-05-23 02:45:33",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
+      "duration_ms": 221160,
+      "name": "1/6",
+      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
     },
     {
       "added_at": "2025-05-23 02:45:33",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-05-23 02:45:33",
       "album": {
-        "name": "A Girl from Seoul",
-        "url": "https://open.spotify.com/album/2pXZc4MjDVcJb4yf5WaMZp"
-      },
-      "artists": [
-        {
-          "name": "SHAI",
-          "url": "https://open.spotify.com/artist/2pK2K73HyG9ftCLTyAwqII"
-        }
-      ],
-      "duration_ms": 194736,
-      "name": "A Girl from Seoul",
-      "url": "https://open.spotify.com/track/3m674WVMMNhhaTcZ5Vukv4"
-    },
-    {
-      "added_at": "2025-05-23 02:45:33",
-      "album": {
         "name": "Pink Funky",
         "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 197240,
       "name": "Self Camera",
       "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
+    },
+    {
+      "added_at": "2025-05-23 02:45:33",
+      "album": {
+        "name": "A Girl from Seoul",
+        "url": "https://open.spotify.com/album/2pXZc4MjDVcJb4yf5WaMZp"
+      },
+      "artists": [
+        {
+          "name": "SHAI",
+          "url": "https://open.spotify.com/artist/2pK2K73HyG9ftCLTyAwqII"
+        }
+      ],
+      "duration_ms": 194736,
+      "name": "A Girl from Seoul",
+      "url": "https://open.spotify.com/track/3m674WVMMNhhaTcZ5Vukv4"
     },
     {
       "added_at": "2025-05-23 02:45:33",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-05-23 02:45:33",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 280778,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
-    },
-    {
-      "added_at": "2025-05-23 02:45:33",
-      "album": {
         "name": "Kona (feat. Jennifer Choi)",
         "url": "https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7"
       },
@@ -1555,6 +1539,38 @@
       "duration_ms": 215031,
       "name": "Kona (feat. Jennifer Choi)",
       "url": "https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx"
+    },
+    {
+      "added_at": "2025-05-23 02:45:33",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 280778,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
+    },
+    {
+      "added_at": "2025-05-23 02:45:33",
+      "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc740\uc7ac",
+          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
+        }
+      ],
+      "duration_ms": 162709,
+      "name": "City",
+      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
     },
     {
       "added_at": "2025-05-23 02:45:33",
@@ -1587,22 +1603,6 @@
       "duration_ms": 219416,
       "name": "Dive in Love",
       "url": "https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF"
-    },
-    {
-      "added_at": "2025-05-23 02:45:33",
-      "album": {
-        "name": "City",
-        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
-      },
-      "artists": [
-        {
-          "name": "\uc815\uc740\uc7ac",
-          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
-        }
-      ],
-      "duration_ms": 162709,
-      "name": "City",
-      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
     },
     {
       "added_at": "2025-05-23 02:45:33",

@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 26848,
+  "num_followers": 26857,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,30 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
+        "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+        "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        },
+        {
+          "name": "\u5357\u96f2\u3086\u3046\u304d",
+          "url": "https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk"
+        }
+      ],
+      "duration_ms": 224633,
+      "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+      "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
+    },
+    {
+      "added_at": "2025-05-20 15:00:02",
+      "album": {
         "name": "swipe sheep",
         "url": "https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 158888,
       "name": "\u30ab\u30bf\u30b3\u30c8",
       "url": "https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4"
-    },
-    {
-      "added_at": "2025-05-20 15:00:02",
-      "album": {
-        "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
-        "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        },
-        {
-          "name": "\u5357\u96f2\u3086\u3046\u304d",
-          "url": "https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk"
-        }
-      ],
-      "duration_ms": 224633,
-      "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
-      "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
     },
     {
       "added_at": "2025-05-20 15:00:02",
@@ -827,26 +827,26 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
-        "name": "Gen",
-        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
+        "name": "RENDEZVOUS (feat. hard life)",
+        "url": "https://open.spotify.com/album/6KeUu57PZdCQyJVU4A4iSG"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         },
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         },
         {
-          "name": "DJ Jazzy Jeff",
-          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 221733,
-      "name": "Eden (feat. Cordae, DJ Jazzy Jeff)",
-      "url": "https://open.spotify.com/track/3arj9wUIRzmKpJ1HHXkyXZ"
+      "duration_ms": 185999,
+      "name": "RENDEZVOUS - feat. hard life",
+      "url": "https://open.spotify.com/track/7IW75vzcw6xcJUIQBBEbfe"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

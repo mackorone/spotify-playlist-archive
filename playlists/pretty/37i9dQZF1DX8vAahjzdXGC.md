@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Raim Laode, Benson Boone, hingga Ernie Zakrie dan Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,398 likes - 117 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,490 likes - 117 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

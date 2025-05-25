@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,688 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,703 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 28 | [Echo](https://open.spotify.com/track/5AjkecsmTEd5H8vvLFgz7F) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Echo](https://open.spotify.com/album/0jdfbyi8o26wYeT5ZMHN0X) | 2:17 |
 | 29 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 |
 | 30 | [In This Life](https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [In This Life](https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA) | 2:41 |
-| 31 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 |
-| 32 | [Hold Me Tight](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Hold Me Tight](https://open.spotify.com/album/40k7bDPnaMfxP2FLqrd039) | 2:18 |
-| 33 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 |
+| 31 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 |
+| 32 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 |
+| 33 | [Hold Me Tight](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Hold Me Tight](https://open.spotify.com/album/40k7bDPnaMfxP2FLqrd039) | 2:18 |
 | 34 | [Paper Aeroplane](https://open.spotify.com/track/6c9SmUfwftGeJco0vfcrO5) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Paper Aeroplane](https://open.spotify.com/album/3MxeJ3l9I7eEvjsIhbAuae) | 3:08 |
 | 35 | [The Sun Will Come Again](https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 4:02 |
 | 36 | [Sandcastles](https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Sandcastles](https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk) | 2:18 |

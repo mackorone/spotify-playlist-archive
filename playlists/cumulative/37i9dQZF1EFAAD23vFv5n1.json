@@ -1740,6 +1740,24 @@
     {
       "album": {
         "name": "ok",
+        "url": "https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210484,
+      "name": "okok",
+      "url": "https://open.spotify.com/track/1bcDVX5XacuPzujRos1C3T"
+    },
+    {
+      "album": {
+        "name": "ok",
         "url": "https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ"
       },
       "artists": [
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 210484,
       "name": "okok",
       "url": "https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh"

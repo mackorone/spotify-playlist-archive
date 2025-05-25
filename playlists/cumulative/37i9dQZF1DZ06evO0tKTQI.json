@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0dbDUyVtiGojztAC8l16Ou"
+      },
+      "artists": [
+        {
+          "name": "Raylen",
+          "url": "https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278070,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4g7Lpwapn3walV0dlEJEYa"
+    },
+    {
+      "album": {
         "name": "Todo Est\u00e1 Cambiando",
         "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },

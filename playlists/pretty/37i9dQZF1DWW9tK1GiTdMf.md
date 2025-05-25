@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Vale LP e Lil Jolie in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 102 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,421 likes - 102 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

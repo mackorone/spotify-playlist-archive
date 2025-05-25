@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-216 songs - 10 hr 27 min
+217 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 | 2024-07-01 |  |
 | [Going High](https://open.spotify.com/track/2pdvCFecZszYQbaoOnrKPp) | [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Going High](https://open.spotify.com/album/2BDj1FY6UOm0Mu6zSmrHMZ) | 1:55 | 2025-05-06 |  |
 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 | 2024-11-11 |  |
+| [Grip](https://open.spotify.com/track/0Q2f1XXXQLB8K1Z6dV3KLa) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [The Lassoi Code](https://open.spotify.com/album/4pY5u16GsIyIpmr1JTPxmL) | 2:15 | 2025-05-24 |  |
 | [Gym](https://open.spotify.com/track/0ymXuNYPbXMaL4d6VytNEi) | [Sarba Maan](https://open.spotify.com/artist/1XXOjhwvCOtj5IeYwbOb6J) | [Gym](https://open.spotify.com/album/2d77Q3SZRxyJ8CmXrBzif2) | 3:19 | 2024-10-25 | 2024-11-09 |
 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 | 2025-04-29 | 2025-05-07 |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-07-18 | 2024-09-07 |
@@ -156,7 +157,7 @@
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-07-18 | 2024-04-19 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2024-04-06 | 2024-08-31 |
 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 | 2023-09-04 | 2025-04-05 |
-| [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 | 2025-02-10 |  |
+| [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 | 2025-02-10 | 2025-05-25 |
 | [Pagol](https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Pagol](https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7) | 3:39 | 2023-07-18 | 2024-07-27 |
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2024-08-29 | 2024-09-19 |
 | [Pecha](https://open.spotify.com/track/66h3lsk8H1wLsqh4Rph0kn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Pecha](https://open.spotify.com/album/07EHw83aARjdazdCuKQJGz) | 2:19 | 2025-01-16 | 2025-02-13 |
@@ -220,7 +221,7 @@
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-06 | 2025-01-24 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-07-18 | 2024-04-19 |
 | [Wealth](https://open.spotify.com/track/4l8WHDKXzN22fSIq7Vw4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dripster](https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5) | 2:18 | 2024-04-06 | 2024-11-27 |
-| [WEEKEND](https://open.spotify.com/track/48etPdlHxXdmOEVB7xf334) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [WEEKEND](https://open.spotify.com/album/5CbFlQymrBrU41FMAhMhrR) | 1:58 | 2025-03-21 |  |
+| [WEEKEND](https://open.spotify.com/track/48etPdlHxXdmOEVB7xf334) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [WEEKEND](https://open.spotify.com/album/5CbFlQymrBrU41FMAhMhrR) | 1:58 | 2025-03-21 | 2025-05-25 |
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-05-16 | 2024-06-04 |
 | [Without You](https://open.spotify.com/track/6WAe9XRAVyTzPjIAi6mQin) | [Ali Brothers](https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Shah Ali](https://open.spotify.com/artist/1akQWAZNKrFJWxqVQDiTa4) | [Without You](https://open.spotify.com/album/0zlxA5zhujNqOVerHKI9zN) | 3:27 | 2024-11-06 | 2024-11-21 |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2023-07-18 | 2024-12-06 |

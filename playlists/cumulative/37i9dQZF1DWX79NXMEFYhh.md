@@ -2,7 +2,7 @@
 
 ### [Sappy and Senti](https://open.spotify.com/playlist/37i9dQZF1DWX79NXMEFYhh)
 
-> Hanapin at tuklasin ang mga nakatagong lihim sa balasa\. Palayain ang mahalima.
+> Salamat sa inyo, A’TIN, nakalaya na si Stell mula sa pagiging bato!
 
 101 songs - 6 hr 21 min
 

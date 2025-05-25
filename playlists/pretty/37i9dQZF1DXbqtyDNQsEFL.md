@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT?si=9zbC\_Ob1R\_iMDVT3dfIDSw>Moses Akoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,164 likes - 80 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,208 likes - 80 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 67 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 |
 | 68 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 |
 | 69 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 |
-| 70 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
-| 71 | [Promise Keeper](https://open.spotify.com/track/24DLQbUsCuHfQ6QeAy3aQX) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Promise Keeper](https://open.spotify.com/album/1LzQO3qndwCYQ5SwvBkc2U) | 8:30 |
+| 70 | [Promise Keeper](https://open.spotify.com/track/24DLQbUsCuHfQ6QeAy3aQX) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Promise Keeper](https://open.spotify.com/album/1LzQO3qndwCYQ5SwvBkc2U) | 8:30 |
+| 71 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
 | 72 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 |
 | 73 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 |
 | 74 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 |
-| 75 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 |
-| 76 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 |
-| 77 | [I PREVAIL \- Remix](https://open.spotify.com/track/2elXnenYUQUanlxi81JMK4) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Remix\)](https://open.spotify.com/album/2J0hmXnZwqaqYvFi42AUVn) | 3:16 |
-| 78 | [Only You Jesus](https://open.spotify.com/track/4fZrdDQUCJGA2GoyYUgcPf) | [Salt & Grace](https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy) | [Only You Jesus](https://open.spotify.com/album/3eoylkKdNJlpVBpWuq4iHH) | 3:56 |
+| 75 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 |
+| 76 | [I PREVAIL \- Remix](https://open.spotify.com/track/2elXnenYUQUanlxi81JMK4) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Remix\)](https://open.spotify.com/album/2J0hmXnZwqaqYvFi42AUVn) | 3:16 |
+| 77 | [Only You Jesus](https://open.spotify.com/track/4fZrdDQUCJGA2GoyYUgcPf) | [Salt & Grace](https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy) | [Only You Jesus](https://open.spotify.com/album/3eoylkKdNJlpVBpWuq4iHH) | 3:56 |
+| 78 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 |
 | 79 | [Prophetic Chant \(Live\)](https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 6:22 |
 | 80 | [Daily II](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily II](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 |
 

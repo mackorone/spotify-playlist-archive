@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 I Fast Animals and Slow Kids in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,403 likes - 115 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,400 likes - 115 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 5 | [Priscilla](https://open.spotify.com/track/0kohaqR08X8cG9yocgbHzx) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [WINDOW](https://open.spotify.com/album/3T7C9Pu9Sf1MuOoQnhtGVW) | 2:48 |
 | 6 | [Crepe](https://open.spotify.com/track/3Cks2nAZsFGk8ZBSywnWaF) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Crepe](https://open.spotify.com/album/7GQLK9lqYZNrSamPOIQxj4) | 4:12 |
 | 7 | [Crime Wave](https://open.spotify.com/track/6mj40eZETIV3OPm1MTFA6w) | [New Candys](https://open.spotify.com/artist/0pPa2J0HCTVmaL8PurSeoC) | [Crime Wave](https://open.spotify.com/album/7G3b5rHaLIIRs8tuLpbSzN) | 3:31 |
-| 8 | [Vittima e Assassino](https://open.spotify.com/track/4ZuPC3FdOOq6DrKwBT2ltc) | [Casino Royale](https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK) | [Fumo](https://open.spotify.com/album/1CKbw9ByYSCwxHCOfaNsM3) | 4:33 |
+| 8 | [Vittima e Assassino](https://open.spotify.com/track/4ZuPC3FdOOq6DrKwBT2ltc) | [Casino Royale](https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK) | [Fumo \(Cue Points Version\)](https://open.spotify.com/album/1CKbw9ByYSCwxHCOfaNsM3) | 4:33 |
 | 9 | [Acchiappasogni](https://open.spotify.com/track/36kcfoEvbYcHHevbpSflhP) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [Acchiappasogni](https://open.spotify.com/album/3ghi5q2aPokmadPQdiIKL7) | 2:55 |
 | 10 | [Buianotte](https://open.spotify.com/track/1bqoLYddCR5bEglt5AV0hY) | [Thruppi](https://open.spotify.com/artist/3DJ294D2VS2W1sEwtBzbjS), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM) | [Buianotte](https://open.spotify.com/album/4B8gH29xs7bQ4mk2ll1SwP) | 3:48 |
 | 11 | [Lontano](https://open.spotify.com/track/1uJmufGsODy6ntsKfVkRh0) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Lontano](https://open.spotify.com/album/6MnGDhQzMSNNRVc5RBuSs8) | 2:18 |

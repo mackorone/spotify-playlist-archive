@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-633 songs - 1 day 14 hr 3 min
+634 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Got It Bad](https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:25 | 2022-07-26 | 2023-03-25 |
 | [Got It Bad](https://open.spotify.com/track/39wHJyoHNlaFEFUKlDzNo3) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisure](https://open.spotify.com/album/1SZzXX9j7MdYNkvWadCr4i) | 3:25 | 2022-03-30 | 2022-04-19 |
 | [Grazing In The Grass](https://open.spotify.com/track/4nP0zyVgE27NfsRbwLhROr) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [The Horse](https://open.spotify.com/album/667rVd02i2805C4FnKz3We) | 2:41 | 2022-02-23 | 2025-04-10 |
+| [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 | 2025-05-24 |  |
 | [Great Escape](https://open.spotify.com/track/3YnEtwNXFplFA1ljqw9suZ) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Great Escape](https://open.spotify.com/album/0qzNLPlAvQxUfH4OkWDl2H) | 3:48 | 2021-12-16 | 2022-02-05 |
 | [Grizzly Bear](https://open.spotify.com/track/0IJ1ijo3uoJzy6ZE5wxJio) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone \(Deluxe\)](https://open.spotify.com/album/4DnMkBr1AH6IMP5wORp7Ag) | 4:08 | 2022-03-30 | 2023-02-14 |
 | [Groceries](https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 2:23 | 2025-03-28 |  |
@@ -373,7 +374,7 @@
 | [Na Verdade Não Tá](https://open.spotify.com/track/665AwXHDziganl1HWvAxls) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 2:55 | 2022-03-30 | 2022-04-20 |
 | [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 | 2022-06-21 |  |
 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 | 2022-03-30 | 2022-10-04 |
-| [Never Go Away](https://open.spotify.com/track/6OMF3MNGK6rGWSnNVEUsJC) | [John Andrews & The Yawns](https://open.spotify.com/artist/7mFbJCyj7A2bykWgBTHZwZ) | [Never Go Away](https://open.spotify.com/album/3Qwykk2n6UzG8KlFuywd2M) | 4:04 | 2025-04-29 |  |
+| [Never Go Away](https://open.spotify.com/track/6OMF3MNGK6rGWSnNVEUsJC) | [John Andrews & The Yawns](https://open.spotify.com/artist/7mFbJCyj7A2bykWgBTHZwZ) | [Never Go Away](https://open.spotify.com/album/3Qwykk2n6UzG8KlFuywd2M) | 4:04 | 2025-04-29 | 2025-05-25 |
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2022-03-30 | 2022-04-21 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-26 | 2024-04-19 |
 | [New Light](https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Treino Pop 2022](https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve) | 3:37 | 2022-11-11 | 2022-11-14 |

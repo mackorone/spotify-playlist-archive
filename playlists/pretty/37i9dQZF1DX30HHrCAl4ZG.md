@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,377 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,246 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Mountain](https://open.spotify.com/track/2L2gjXyR49y51IyBz7wKvl) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Mountain](https://open.spotify.com/album/4e0AsgwbmUBQhy92uMUZfv) | 2:59 |
 | 100 | [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 |
 
-Snapshot ID: `AAAAAD7JhlHG8U8yyubkmmRSrYqV2ktJ`
+Snapshot ID: `aC/y5wAAAADcPmlirZgcgNetBu+sN0Wg`

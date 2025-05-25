@@ -4,7 +4,7 @@
 
 > ⋆.
 
-627 songs - 1 day 10 hr 12 min
+633 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-12 |  |
 | [Crush](https://open.spotify.com/track/2y7JqO7Jc7ErdOmxpvifRF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 4:26 | 2023-11-17 |  |
 | [Cult Classic](https://open.spotify.com/track/5yvRUr2sowXMn0anxokZc5) | [bleed](https://open.spotify.com/artist/6PcSKlRgJuKVzf7V8eVWHa) | [Cult Classic](https://open.spotify.com/album/7vH8Va59KOnJ2lxienzhAK) | 2:02 | 2022-06-22 |  |
+| [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 | 2025-05-24 |  |
 | [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 | 2023-08-24 |  |
 | [Dangerous](https://open.spotify.com/track/4xriMNNAlpFBrs3X38CChg) | [Cee Kay](https://open.spotify.com/artist/3zj6CU3b2j7XNMzLY7VA5i) | [Blood On My Hands](https://open.spotify.com/album/3pGvxdEHjhXKI5ibIhZqiD) | 3:05 | 2022-06-03 |  |
 | [dark days](https://open.spotify.com/track/18eTC8x3COqWP7od8kW3KQ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [dark days](https://open.spotify.com/album/5Q27XBJt05funxrHAb27aK) | 4:55 | 2024-01-23 |  |
@@ -271,6 +272,8 @@
 | [I'm Low On Gas And You Need A Jacket](https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:12 | 2024-05-12 |  |
 | [I'm So Sick](https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:55 | 2024-01-11 |  |
 | [idk that bitch \(feat\. G Herbo\)](https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:30 | 2023-02-17 |  |
+| [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/track/2D4LEUzvLRCQOLMxnajH72) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [With Ears To See And Eyes To Hear](https://open.spotify.com/album/1oRHYWmIhP5bmXYerh9qXj) | 3:39 | 2025-05-24 |  |
+| [If You Can't Hang](https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 4:10 | 2025-05-24 |  |
 | [ifg2](https://open.spotify.com/track/5YYzP2DfmhCj2XTxzTgaJp) | [wishyng](https://open.spotify.com/artist/5vGPwGJy1M0FfiY572XKBa), [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [the view outside my bedroom window](https://open.spotify.com/album/1hqeGN8GwoqQPAcY2JuRRq) | 2:38 | 2022-08-28 |  |
 | [Ima Pervert](https://open.spotify.com/track/04x2DuiGs5b7s2coJm1BGU) | [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Devilish Trio](https://open.spotify.com/album/3o8Y2KK0Os0MX0OLoc3PDt) | 4:04 | 2022-02-02 |  |
 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 | 2022-08-15 |  |
@@ -492,6 +495,7 @@
 | [Secrets](https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:13 | 2023-10-02 |  |
 | [Sedated](https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:27 | 2022-03-03 |  |
 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2022-08-28 |  |
+| [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 | 2025-05-24 |  |
 | [Separate](https://open.spotify.com/track/4WekxJLRjVgjMo1JiZr0uR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Separate](https://open.spotify.com/album/3b6D1pceOSy3dURlUDLHBK) | 1:49 | 2022-10-06 |  |
 | [Servant and Master](https://open.spotify.com/track/6REK8crzqogU9yb0J2Fdfp) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [This Is as One](https://open.spotify.com/album/5fzLAH1YhKSFQ7LqA8GgpJ) | 4:06 | 2023-08-19 |  |
 | [Sesame Syrup](https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 5:03 | 2023-11-17 |  |
@@ -520,6 +524,7 @@
 | [Sorrows](https://open.spotify.com/track/5TXQCMKN6TgemTL3c4wRTn) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 3:13 | 2023-11-03 |  |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2022-02-16 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/7nlQ9Kov3dIusthh3tr46V) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/4fwXIXqROwOmKXgIMvNNIx) | 3:20 | 2023-11-09 |  |
+| [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 | 2025-05-24 |  |
 | [Sound of Madness](https://open.spotify.com/track/0pJUUPm7vb34VNImGEkg0L) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness \(Deluxe Edition\)](https://open.spotify.com/album/4KnWR76aRieR6QREuid3y7) | 3:53 | 2025-05-17 |  |
 | [Spike Lee](https://open.spotify.com/track/1584BGfWzDiIu2OdSd7zhQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:47 | 2022-11-19 |  |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2023-04-02 |  |
@@ -563,6 +568,7 @@
 | [The Party & The After Party](https://open.spotify.com/track/7GgfQ0edpSP6C7xnX3Y2df) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/3MP8mUHuQlYrGUkrEG4qpJ) | 7:39 | 2024-01-24 |  |
 | [The Party & The After Party](https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 7:39 | 2023-09-15 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2023-10-08 |  |
+| [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 | 2025-05-24 |  |
 | [The Root Of All Evil](https://open.spotify.com/track/79KV3EGT1yh0Mm5ykCWNQB) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ) | [The Root Of All Evil](https://open.spotify.com/album/0mipb9G9GVuelnppjJ7jJ3) | 2:48 | 2022-02-24 |  |
 | [THE SUN \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/106yiMHU6uhZXvFyAcKKuA) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [TW2052](https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx) | 3:08 | 2023-06-05 |  |
 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 | 2022-07-12 |  |

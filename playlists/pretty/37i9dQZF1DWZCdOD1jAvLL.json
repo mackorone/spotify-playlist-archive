@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Eli Brown",
-  "num_followers": 261565,
+  "num_followers": 261640,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
+        "name": "GOLDEN GOOSE",
+        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 142163,
+      "name": "GOLDEN GOOSE",
+      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
         "name": "Drum Death",
         "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 170644,
       "name": "Drum Death",
       "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
-        "name": "GOLDEN GOOSE",
-        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 142163,
-      "name": "GOLDEN GOOSE",
-      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -1627,30 +1627,6 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
-        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
-        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
-        },
-        {
-          "name": "Dj Smokey",
-          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "AZASU",
-      "url": "https://open.spotify.com/track/4MJlaNWF5fdNpzSmJ1TFk7"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
         "name": "Zombie (feat. Valerie Broussard)",
         "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
       },
@@ -1699,18 +1675,26 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
-        "name": "Sweet Memories",
-        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        },
+        {
+          "name": "Dj Smokey",
+          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
         }
       ],
-      "duration_ms": 235688,
-      "name": "Sweet Memories",
-      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+      "duration_ms": 163050,
+      "name": "AZASU",
+      "url": "https://open.spotify.com/track/4MJlaNWF5fdNpzSmJ1TFk7"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -1731,6 +1715,22 @@
       "duration_ms": 222923,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -1823,6 +1823,30 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -1847,30 +1871,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
-        "name": "Pepper",
-        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
-      },
-      "artists": [
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
-        "name": "Erased",
-        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Erased",
-      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -2159,6 +2139,42 @@
       "duration_ms": 186576,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -2203,22 +2219,6 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 200318,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
         "name": "Counting (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
@@ -2235,6 +2235,22 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -2259,22 +2275,6 @@
       "duration_ms": 173793,
       "name": "Torch",
       "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -2415,6 +2415,38 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
+        "name": "BLIND (RAVE MIX)",
+        "url": "https://open.spotify.com/album/5OSrUzKnsdPWbOpmE25gXy"
+      },
+      "artists": [
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+        },
+        {
+          "name": "Sur Back",
+          "url": "https://open.spotify.com/artist/1mGtVmdBSR8eOlQfA61W8V"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "BLIND (RAVE MIX)",
+      "url": "https://open.spotify.com/track/6zDkk2KqakCMWhLPZBDVPQ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
         "name": "To Be Real",
         "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
       },
@@ -2455,26 +2487,6 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 240017,
-      "name": "Orchid",
-      "url": "https://open.spotify.com/track/02NXaNtoScXGndO3Zj1MNA"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -2499,22 +2511,22 @@
     {
       "added_at": "2025-05-23 04:00:28",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         },
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
         }
       ],
-      "duration_ms": 190232,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
+      "duration_ms": 240017,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/02NXaNtoScXGndO3Zj1MNA"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -2535,6 +2547,26 @@
       "duration_ms": 131970,
       "name": "I Only Smoke When I Drink - Badger Remix",
       "url": "https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1"
+    },
+    {
+      "added_at": "2025-05-23 04:00:28",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 190232,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
       "added_at": "2025-05-23 04:00:28",
@@ -2591,30 +2623,6 @@
       "duration_ms": 194823,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
-    },
-    {
-      "added_at": "2025-05-23 04:00:28",
-      "album": {
-        "name": "Von dutch remix with skream and benga",
-        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Benga",
-          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Von dutch remix with skream and benga",
-      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
     }
   ],
   "unique_name": "Bangers",

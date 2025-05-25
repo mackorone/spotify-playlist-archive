@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289,046 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,214 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [She Hates Me](https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [She Hates Me](https://open.spotify.com/album/08SPNNSczUGCea325dQcEY) | 2:50 |
 | 100 | [Nancy Avenue](https://open.spotify.com/track/5Azh3Q23Fp52CPTuHTblfk) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Nancy Avenue](https://open.spotify.com/album/3WsQThR17GI0rQka53B3F8) | 3:37 |
 
-Snapshot ID: `aC/y2AAAAABIZz909iHNsY6qMFhmUp/Z`
+Snapshot ID: `aC/y2AAAAACVaTagRQ1XJ3ZZUMjZ3TiB`

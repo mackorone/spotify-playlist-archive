@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Celebrating 10 years of Fresh Finds! The best new music by independent artists in the Nordics\. Cover: Melina Do Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,692 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,690 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 14 | [Limerence \(feat\. DUMMY THICC & akselturbo\)](https://open.spotify.com/track/6byBU4PixqN7HpVm3Q4N4U) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt), [DUMMY THICC](https://open.spotify.com/artist/7EmhBZH67XRfSRc8NHhXG9), [akselturbo](https://open.spotify.com/artist/277h5JcMndLXXjNjSugBug) | [Limerence \(feat\. DUMMY THICC & akselturbo\)](https://open.spotify.com/album/5ZGzKhNAcCtFATuzrN9Lss) | 3:53 |
 | 15 | [Dime Girl](https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dime Girl](https://open.spotify.com/album/68P4N1NCqbfbTjdtIgPD5c) | 4:46 |
 | 16 | [dancing and fighting](https://open.spotify.com/track/5BFokqyHSjqfUc3keINU91) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [dancing and fighting](https://open.spotify.com/album/6MwHdd6cQKHMveoju0bL2j) | 2:43 |
-| 17 | [Jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 |
+| 17 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 |
 | 18 | [I Wanna See](https://open.spotify.com/track/01UX0YmvesUSeuYorGldfv) | [JAOVA](https://open.spotify.com/artist/2fI5dsTenHeFqazjkcnLiK) | [I Wanna See](https://open.spotify.com/album/4L1Oq6jbp14LD9k6A9wwsm) | 2:18 |
 | 19 | [National Heartbreak](https://open.spotify.com/track/6W1Iqfesgf1HAPmHfI6VJV) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [National Heartbreak](https://open.spotify.com/album/3MFfWaGz7ZywqSHxCvrrFK) | 3:31 |
 | 20 | [Chosen One](https://open.spotify.com/track/2HZqDn51j8ruZGhk1UqfPo) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [Chosen One](https://open.spotify.com/album/1r8ZZrTBsbGXmisadQzGEm) | 2:02 |

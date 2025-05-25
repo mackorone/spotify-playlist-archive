@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,655 likes - 46 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,701 likes - 46 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 30 | [Mein Sufi Hoon](https://open.spotify.com/track/0dhamF0vASy4g1gEpC1OKI) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 10:19 |
 | 31 | [Jhoolay Laal](https://open.spotify.com/track/1D88Y8y9AjpEKFfss5nBPp) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:44 |
 | 32 | [Dost](https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:35 |
-| 33 | [Allah Hu](https://open.spotify.com/track/5COYSZGnYxlkoPYU2N9a8H) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:56 |
+| 33 | [Allah Hu](https://open.spotify.com/track/5COYSZGnYxlkoPYU2N9a8H) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Abrar\-Ul\-Haq](https://open.spotify.com/artist/6WFuarklqfAEetgIJ6tfyk), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:56 |
 | 34 | [Jogi](https://open.spotify.com/track/31c5n0o9TxwSOtEetI8SBL) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:55 |
 | 35 | [Rabba Ho](https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:57 |
 | 36 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 |

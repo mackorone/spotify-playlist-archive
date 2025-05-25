@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6NGnOzjOKmoSWNoMsBuqlq"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134736,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0d4im1rOqUqrhGcYWVNnbV"
+    },
+    {
+      "album": {
         "name": "Penthouse",
         "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
       },
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 145645,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/0vUGOJ60caBjtw5T8mG8xC"

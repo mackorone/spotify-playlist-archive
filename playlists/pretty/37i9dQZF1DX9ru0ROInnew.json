@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 131676,
+  "num_followers": 131700,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1507,6 +1507,42 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "El Oso del Dinero",
+      "url": "https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Estamos Clear",
+        "url": "https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Estamos Clear",
+      "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Sigo Fresh (Remix)",
         "url": "https://open.spotify.com/album/2wqXRIXMzKipo603C9C2ft"
       },
@@ -1535,42 +1571,6 @@
       "duration_ms": 274920,
       "name": "Sigo Fresh - Remix",
       "url": "https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Estamos Clear",
-        "url": "https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "Estamos Clear",
-      "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "El Oso del Dinero",
-      "url": "https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW"
     },
     {
       "added_at": "2024-08-19 19:01:43",

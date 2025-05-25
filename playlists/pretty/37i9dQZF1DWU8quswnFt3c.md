@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Creators at full volume\. Cover: Katteyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,111 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,931 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 50 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 |
 | 51 | [輕輕 \(Original\)](https://open.spotify.com/track/1G6oFGVf2BoXfmKruxSSRb) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [輕輕 \(Ultimate Collection\)](https://open.spotify.com/album/5FuVQYtZd50abo28wowwNi) | 3:32 |
 | 52 | [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 |
-| 53 | [Decostruire](https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Decostruire](https://open.spotify.com/album/4ZHVYWm8nQKkqAkNcBTdKB) | 2:49 |
-| 54 | [TALK2ME](https://open.spotify.com/track/6wEBSQtojMMC0dSqJ8PY40) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [TALK2ME](https://open.spotify.com/album/6iGvIHnOxyuZLJLSv4oOn6) | 3:26 |
+| 53 | [TALK2ME](https://open.spotify.com/track/6wEBSQtojMMC0dSqJ8PY40) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [TALK2ME](https://open.spotify.com/album/6iGvIHnOxyuZLJLSv4oOn6) | 3:26 |
+| 54 | [Decostruire](https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Decostruire](https://open.spotify.com/album/4ZHVYWm8nQKkqAkNcBTdKB) | 2:49 |
 | 55 | [Yok Dönüş Geri](https://open.spotify.com/track/1mIouPOhVg9BlT5Eg5gK5d) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Yok Dönüş Geri](https://open.spotify.com/album/6aTH2QhYICBn4XsG3XpLBi) | 2:40 |
 | 56 | [cuộc đàm phán với nỗi đau](https://open.spotify.com/track/6fIK1aYNlH0fu4yr3w81Ao) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [cuộc đàm phán với nỗi đau](https://open.spotify.com/album/4kGDHIucM2yJcVO5CpKhwI) | 5:08 |
 | 57 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
 | 58 | [Wui229](https://open.spotify.com/track/6ys5ZWv1RTBlwBs1vRFyd1) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:59 |
 | 59 | [everything is on fire](https://open.spotify.com/track/2kVOwGHpegpiUSkDmfTGsu) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [everything is on fire](https://open.spotify.com/album/7lM95ZsaWOvYkdA57nbSAa) | 2:28 |
-| 60 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
-| 61 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 |
+| 60 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 |
+| 61 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
 | 62 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
 | 63 | [Tourment d’amour](https://open.spotify.com/track/1ePGj5Nuo4Q7GZ2AvnZQKb) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 3:20 |
 | 64 | [Estranha Forma de Vida](https://open.spotify.com/track/2Osr1484uvaGNh85VUOBzY) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [O Melhor de Amália](https://open.spotify.com/album/2vaFo1N56rknRwypLER53u) | 3:17 |

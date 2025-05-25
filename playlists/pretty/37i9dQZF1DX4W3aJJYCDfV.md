@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Myles Smith, Burna Boy ft Travis Scott, Reneé Rapp and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,877 likes - 121 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,922 likes - 121 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 43 | [california](https://open.spotify.com/track/0CfUinc553Dx9takQpLBOF) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb) | [california](https://open.spotify.com/album/5puvI1RkFz60ttU4NqAlZF) | 3:28 |
 | 44 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BALENCIAGA COVERED EYES](https://open.spotify.com/album/65keRrrRODi48zyrWoS949) | 4:05 |
 | 45 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |
-| 46 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/0Nnr3IWmNaJwPa0DxTcRg1) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 |
+| 46 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 |
 | 47 | [Anywhere](https://open.spotify.com/track/62uoKWHWnKh7VSRWnHpXUm) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7), [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ) | [Anywhere](https://open.spotify.com/album/1N13pnjvDsVWLFW9gpalx2) | 2:47 |
 | 48 | [Dis\-Graceland 463\-465 Bury New Road](https://open.spotify.com/track/5vyXHZKjpwBF82DRbpZpbK) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Dis\-Graceland 463\-465 Bury New Road](https://open.spotify.com/album/1t57R77CnWUBgIHfUfcxhq) | 4:14 |
 | 49 | [Happiness](https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Night Shift](https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An) | 3:32 |

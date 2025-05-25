@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: pablopablo & Macario Martinez
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,809 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,786 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Recuerda](https://open.spotify.com/track/4PR9EFA6QrxwxTcq4VKc5j) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Recuerda](https://open.spotify.com/album/3f3Zed8SFy5YDRaRHwXzaW) | 3:58 |
 | 50 | [Tears in the Kitchen](https://open.spotify.com/track/5oMoGqIQH0fgLo21cEKAvD) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tears in the Kitchen](https://open.spotify.com/album/3rHx3MOvb2naZVaF4FO76p) | 2:54 |
 
-Snapshot ID: `AAAAAIfvHAS4ZnLftI7D4qdE3u7Cc2Jz`
+Snapshot ID: `aC/y5AAAAAABKzUji5xdGvIDFV5mATd3`

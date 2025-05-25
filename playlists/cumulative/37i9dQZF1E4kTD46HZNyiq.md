@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Laureline, The Wild Wind, LAVE and more
+> With The Wild Wind, Laureline, LAVE and more
 
 1,412 songs - 3 day 18 hr 30 min
 
@@ -314,7 +314,7 @@
 | [Dirt](https://open.spotify.com/track/5Ca5lh6Ft0XwjicOh5seKk) | [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [Dirt](https://open.spotify.com/album/3ojy5a1Thuhepyn1X6TYy7) | 5:25 | 2022-03-17 | 2022-03-18 |
 | [Disguise](https://open.spotify.com/track/1TooxhKsuOkbQZhkWvek3U) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 3:13 | 2022-06-30 | 2023-06-15 |
 | [Disquieted](https://open.spotify.com/track/4yOOm7XzwYscpd6a2FEi9X) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Disquieted](https://open.spotify.com/album/2fzxfHYF5YpfnwEHWBEffR) | 4:39 | 2022-09-01 | 2023-06-28 |
-| [Dissonance](https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Dissonance](https://open.spotify.com/album/3cEKSeXdmw4sOgRGcSrWWU) | 2:35 | 2023-02-16 |  |
+| [Dissonance](https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Dissonance](https://open.spotify.com/album/3cEKSeXdmw4sOgRGcSrWWU) | 2:35 | 2023-02-16 | 2025-05-25 |
 | [Dive Deep \(Hushed\)](https://open.spotify.com/track/4VbDTk82rqWqVgoQC93CkC) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Dive Deep \(Hushed\)](https://open.spotify.com/album/4wXzmsXCXVn3REyPK2Z4M3) | 3:38 | 2022-06-24 | 2023-06-05 |
 | [Do You Mind?](https://open.spotify.com/track/5rQ4hEzxEjdJdmNcvJ16Sp) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Honey Moon Drips](https://open.spotify.com/album/6un5FfnoaLOjSBc6uB3ta6) | 3:08 | 2022-10-07 | 2024-01-25 |
 | [Do You Think About Us?](https://open.spotify.com/track/5qWfbqQUmQGS0fy15emahR) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 4:05 | 2021-12-01\* | 2024-04-09 |
@@ -472,7 +472,7 @@
 | [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 | 2022-02-18 | 2022-08-11 |
 | [Get a Grip](https://open.spotify.com/track/6kLhi6C5tXB5ILppo8BZhF) | [Patternist](https://open.spotify.com/artist/1n5JefcusF9c1qITJSp6Ms) | [I Don't Know What I'm Doing Here](https://open.spotify.com/album/4xmrb6kQ1X0ftdb2Xe3Cwd) | 1:11 | 2022-05-29 | 2024-02-20 |
 | [Get Better](https://open.spotify.com/track/0Cz5KFXVY2bM0X4ebyIGrR) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa) | 3:26 | 2022-09-19 | 2022-09-21 |
-| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 |  |
+| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 | 2025-05-25 |
 | [Get Better](https://open.spotify.com/track/7JkdM2lpq22LeRtiSev3jC) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/2dsxWOvOPWcVg0rIBSOo1n) | 3:26 | 2022-05-06 | 2022-09-10 |
 | [Get Here](https://open.spotify.com/track/3Lo0dE8PtdTyVm7I8o4S4U) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Homage: Deluxe Reissue](https://open.spotify.com/album/1A7lsYGDV8WPGHhE1rECro) | 3:31 | 2022-05-02 | 2023-06-10 |
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
@@ -640,7 +640,7 @@
 | [If I Knew](https://open.spotify.com/track/1RgNDx2dK2WsarU77Bxknd) | [Riley K](https://open.spotify.com/artist/05aewHKLM5GNxkDC7PMx3G) | [If I Knew](https://open.spotify.com/album/5g4F9n58YjZxVhSZRNuXdl) | 4:02 | 2022-06-01 | 2022-06-07 |
 | [If I Knew How to Hold You](https://open.spotify.com/track/4WBALtRcBYVL715MlpLYRl) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [If I Knew How to Hold You](https://open.spotify.com/album/5kH2mOnDtQNue89cP1Hmng) | 4:10 | 2022-10-10 | 2024-04-19 |
 | [If Only for Tonight](https://open.spotify.com/track/1eaTrBr0DNKGJzmhQsIbG0) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/48XpsbZn6EBi2qKKG0Fr0n) | 4:56 | 2021-12-20 | 2022-04-15 |
-| [If Only for Tonight](https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 4:56 | 2022-05-01 | 2025-05-23 |
+| [If Only for Tonight](https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 4:56 | 2022-05-01 |  |
 | [If Things Had Gone Our Way](https://open.spotify.com/track/0ABN7aU85x4zEkovoTTTlM) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK) | 3:27 | 2022-08-25 | 2024-02-11 |
 | [If You Stay](https://open.spotify.com/track/0t8YymdACBIQexYpQ5pBok) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H), [Tori Romo](https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x) | [Coffee In The Morning](https://open.spotify.com/album/7vuTgz3gupvBivoxgjVotW) | 4:21 | 2022-10-13 | 2023-02-25 |
 | [If You're Happy Now](https://open.spotify.com/track/2JJWg2GZAxJLwABftQtSbm) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr) | [Attachment](https://open.spotify.com/album/1m6V8jXHsSMers3Ce137D2) | 3:33 | 2022-09-09 | 2022-09-10 |
@@ -698,7 +698,7 @@
 | [Killer](https://open.spotify.com/track/42I9tq6REnLRlb92sSQg5m) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4) | 5:18 | 2021-12-01\* | 2024-04-15 |
 | [King of Nowhere](https://open.spotify.com/track/4J3qOMsP5dhswUWKa0tAxy) | [The Dirty Habit](https://open.spotify.com/artist/07r7yw9PnFUA9h57AhQMes) | [King of Nowhere](https://open.spotify.com/album/6Uzbcd2L9LRIb2cLrDvyin) | 3:33 | 2022-05-19 | 2022-06-10 |
 | [Kiss Me, Kill Me](https://open.spotify.com/track/3qNUnRoxy02gAbBaQQUsEN) | [La Bouquet](https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Heavy Sunshine](https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34) | 4:06 | 2021-12-01\* | 2024-04-19 |
-| [Kissing Slowly](https://open.spotify.com/track/0lwvhzjVdByuRWMz2f7Sfl) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:06 | 2022-03-12 | 2025-03-23 |
+| [Kissing Slowly](https://open.spotify.com/track/0lwvhzjVdByuRWMz2f7Sfl) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:06 | 2022-03-12 |  |
 | [Kitchen Floor](https://open.spotify.com/track/3BNwveuNuiiBgQOjhEdxio) | [All the Rest](https://open.spotify.com/artist/0jPw7eDzfyS83287e4nrDf) | [Kitchen Floor](https://open.spotify.com/album/4TwcdzZNqe5PdZxSDkskge) | 3:51 | 2024-03-28 | 2024-03-29 |
 | [Know Me](https://open.spotify.com/track/1j3O7s4DjSNPHUoMZBFJs3) | [Eighty Ninety](https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW) | [The Night Sky](https://open.spotify.com/album/1HwEQlbpwLc25ii4RYswAq) | 2:57 | 2022-08-05 | 2022-08-06 |
 | [Know Your Heart](https://open.spotify.com/track/49jXLsbAFrLA5iEzUpxpzF) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Songs for the Night](https://open.spotify.com/album/60Xwl0rRChGO4lmgCtlEeT) | 4:11 | 2022-03-15 | 2022-09-13 |

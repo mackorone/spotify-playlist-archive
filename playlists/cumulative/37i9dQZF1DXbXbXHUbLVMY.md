@@ -4,7 +4,7 @@
 
 > 🚨
 
-321 songs - 14 hr 5 min
+322 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Glemt \(100%\)](https://open.spotify.com/track/0zWfkF1N4cV5f76Kqetv7s) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3) | [Glemt \(100%\)](https://open.spotify.com/album/0LeksokzLEyDZQA5szGB9R) | 3:00 | 2024-05-30 | 2024-06-02 |
 | [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 | 2025-03-28 |
 | [godis](https://open.spotify.com/track/0P3Pmq5JAlsFuyX7rGRjIm) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [godis EP](https://open.spotify.com/album/7x42NMS2WkIcHcOlypMAJd) | 2:56 | 2024-07-11 | 2024-08-12 |
-| [Goodbye](https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Voksen Mann Uten Slips](https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk) | 2:12 | 2024-05-30 |  |
+| [Goodbye](https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Voksen Mann Uten Slips](https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk) | 2:12 | 2024-05-30 | 2025-05-25 |
 | [Gora B](https://open.spotify.com/track/3fraIzpP79GXG54c4K9oFH) | [Snow Boyz](https://open.spotify.com/artist/0QZTQYBwBC1A951YedFq2c), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Gora B](https://open.spotify.com/album/3ulOVZvbamCeXRU20c3lj1) | 3:23 | 2024-11-28 | 2024-12-13 |
 | [Gram](https://open.spotify.com/track/2vDuMv7vdKBBpLSe3bDT3X) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [Søvngjenger](https://open.spotify.com/album/5xgO1NE1649LL5we5pXx4M) | 3:19 | 2024-11-21 | 2025-01-10 |
 | [Habibi You](https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Habibi You](https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf) | 1:54 | 2024-07-18 | 2025-03-28 |
@@ -305,6 +305,7 @@
 | [Trump](https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Trump](https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx) | 2:02 | 2025-05-22 |  |
 | [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 | 2024-02-22 | 2025-05-11 |
 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 | 2024-08-15 | 2025-01-26 |
+| [Ut](https://open.spotify.com/track/2ltsNF325fGDi9yznNnDYU) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [Ut](https://open.spotify.com/album/3Bwg5T0yU07hxNB3ih0Kue) | 2:58 | 2025-05-22 |  |
 | [Utested](https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Utested](https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu) | 2:42 | 2024-06-07 | 2025-03-28 |
 | [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 | 2024-08-16 |
 | [Varig mén](https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Varig mén](https://open.spotify.com/album/1je48mRG7l23gvEMesMczK) | 2:31 | 2024-05-06 |  |

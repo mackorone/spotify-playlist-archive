@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-235 songs - 13 hr 48 min
+236 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5/4](https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z) | [Sheygets](https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8) | [עוד משקאות חריפים](https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK) | 3:45 | 2024-07-12 | 2024-09-13 |
 | [A Better Man](https://open.spotify.com/track/3ioH5vhka49gZPgq1jlBJr) | [Ofir Lessel](https://open.spotify.com/artist/7fxgWT81yP2N3u9lGNY5VR) | [A Better Man](https://open.spotify.com/album/2wWFjG5njtoWHIZvN3PVl2) | 4:49 | 2025-03-20 | 2025-04-11 |
 | [A Thousand Times](https://open.spotify.com/track/3lJnPyMLhZ2javY7UZl36K) | [Russo](https://open.spotify.com/artist/0ECpBE2RTJep1cVxNFulEA), [Roni Bar Hadas](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [A Thousand Times](https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF) | 2:56 | 2024-06-27 | 2024-10-04 |
+| [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 | 2025-05-22 |  |
 | [All The Way](https://open.spotify.com/track/5G3Tdxnfgi8vqtHConYJWM) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7), [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj), [Lala Tamar](https://open.spotify.com/artist/10f7DRewxOc63etYN3tevr), [ALIZA](https://open.spotify.com/artist/1DhQpHcfmYxhIKtKfxTYMX) | [All The Way](https://open.spotify.com/album/67g4rxomqOhlcelsPVfT4g) | 4:19 | 2024-09-05 | 2024-10-06 |
 | [Another Life](https://open.spotify.com/track/5ehKFubjMlzscWxQOZXU1Y) | [Metropolin](https://open.spotify.com/artist/2CH9N0ISuyCkZ2q3XEY2V0), [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [Another Life](https://open.spotify.com/album/5q3coMph1VFaQTZliJZJIA) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 | 2024-07-18 | 2025-03-21 |
@@ -146,7 +147,7 @@
 | [חתול ועכבר](https://open.spotify.com/track/70zpgj4c2NFnHlQ3GRwmMD) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [חתול ועכבר](https://open.spotify.com/album/4f8rjwbhxLzdOnsUrNlVTV) | 3:53 | 2025-04-10 | 2025-05-09 |
 | [טפו טפו](https://open.spotify.com/track/379bhCgYGmQm7OhIGfRsb5) | [Ofiri](https://open.spotify.com/artist/4d0qotNvTkO3McH3WWpUg6), [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [מושלמדי](https://open.spotify.com/album/0cqZpntWMsPS3q4E40a6lk) | 2:22 | 2025-01-09 | 2025-01-24 |
 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 | 2025-01-30 | 2025-05-14 |
-| [ילדה](https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe) | [האמנה החברתית](https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q) | 3:05 | 2025-04-10 |  |
+| [ילדה](https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe) | [האמנה החברתית](https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q) | 3:05 | 2025-04-10 | 2025-05-25 |
 | [ילדות נשכחת](https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [ילדות נשכחת](https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK) | 3:23 | 2024-08-01 | 2024-09-09 |
 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 | 2024-07-18 | 2024-11-11 |
 | [יממה \- YEMAMA](https://open.spotify.com/track/4r2QnctUkYIHhLLVEmC7RP) | [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [יממה \- YEMAMA](https://open.spotify.com/album/6XcWnV58XTEZwFiq3fu4f0) | 3:10 | 2025-02-13 | 2025-03-14 |

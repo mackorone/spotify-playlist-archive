@@ -6,23 +6,27 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABcB/Hemypp3tQdBxP+QjFk",
+  "snapshot_id": "AAAAAAAAAAClsWHUtdhsx7cnGsFE3iPI",
   "tracks": [
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Saviors (\u00e9dition de luxe)",
-        "url": "https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO"
+        "name": "Shameful Game, Pt. 2",
+        "url": "https://open.spotify.com/album/5Z6Ia5OGj1PJnLLLZMwTO5"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 123464,
-      "name": "Fuck Off",
-      "url": "https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ"
+      "duration_ms": 142986,
+      "name": "Shameful Game, Pt. 2",
+      "url": "https://open.spotify.com/track/0WCKUJ180VjZYtLqrGYNci"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -79,6 +83,42 @@
       "duration_ms": 140487,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5D0E7zdJe7LcSz8wTD3hEs"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
+        "name": "T\u014dzai",
+        "url": "https://open.spotify.com/album/4y41gtPrMRikFrGjeWwfE4"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "duration_ms": 201272,
+      "name": "T\u014dzai",
+      "url": "https://open.spotify.com/track/4eI5WznPcDj4RBPwOlSVVB"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
+        "name": "Saviors (\u00e9dition de luxe)",
+        "url": "https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 123464,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -215,26 +255,6 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Found A Light (Beale Street)",
-        "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "V.C.R",
-          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
-        }
-      ],
-      "duration_ms": 436130,
-      "name": "Found A Light (Beale Street)",
-      "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
         "name": "Never Got The Chance",
         "url": "https://open.spotify.com/album/2pWz0cdktkI2O8e8rgBzM4"
       },
@@ -311,6 +331,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
         "name": "THE ATL EXPERIENCE (from the Short Film \"Red Clay\")",
         "url": "https://open.spotify.com/album/4qfDfLD8gFUtuJtFyCJskq"
       },
@@ -331,38 +367,6 @@
       "duration_ms": 267226,
       "name": "THE ATL EXPERIENCE - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/5159OfkK8qNGl60UUEbbIr"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Tomorrow Can't Be Borrowed",
-        "url": "https://open.spotify.com/album/6EsDvhBMFl7dCz4ROwRmLM"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Tomorrow Can't Be Borrowed",
-      "url": "https://open.spotify.com/track/5M6SxlexdN7HrnjNrNrwAK"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -415,22 +419,38 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Teriyaki Hockey",
-        "url": "https://open.spotify.com/album/6Ib90pxJnmhuvWKzYIq3lu"
+        "name": "Tomorrow Can't Be Borrowed",
+        "url": "https://open.spotify.com/album/6EsDvhBMFl7dCz4ROwRmLM"
       },
       "artists": [
         {
-          "name": "DR. Moriarity",
-          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Tomorrow Can't Be Borrowed",
+      "url": "https://open.spotify.com/track/5M6SxlexdN7HrnjNrNrwAK"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
+        "name": "Potholes In My Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/3CKHW4IUROgjLhGD7VWlXD"
+      },
+      "artists": [
+        {
+          "name": "Closed Sessions",
+          "url": "https://open.spotify.com/artist/6cbCYWLnoGigouoskWVRCx"
         },
         {
           "name": "Action Bronson",
           "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         }
       ],
-      "duration_ms": 184285,
-      "name": "Teriyaki Hockey",
-      "url": "https://open.spotify.com/track/10WSM6EwpfO5MVKu1NN84O"
+      "duration_ms": 124409,
+      "name": "Blackbird - Equalibrum Remix",
+      "url": "https://open.spotify.com/track/7tdzxvpXzoT5mz1b6WSbEk"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -519,6 +539,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
+        "name": "PB 15",
+        "url": "https://open.spotify.com/album/38bYJdb0FvkgQN8LiCk4qi"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "PB 15",
+      "url": "https://open.spotify.com/track/48KFl2J5jgzYoLsbZWvjAe"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
         "name": "Doom Scrolling",
         "url": "https://open.spotify.com/album/6usJURlumlMlqm7VkmAat9"
       },
@@ -535,22 +571,6 @@
       "duration_ms": 162000,
       "name": "You Better Calm Down",
       "url": "https://open.spotify.com/track/7mXns6x8FZcwvaTrxyt3QI"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "PB 15",
-        "url": "https://open.spotify.com/album/38bYJdb0FvkgQN8LiCk4qi"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "PB 15",
-      "url": "https://open.spotify.com/track/48KFl2J5jgzYoLsbZWvjAe"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -599,22 +619,6 @@
       "duration_ms": 966536,
       "name": "Divine Mother Universe",
       "url": "https://open.spotify.com/track/1JrBwKXoUlAy8yOxdVhDA5"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Sneaks (Original Score Soundtrack)",
-        "url": "https://open.spotify.com/album/1nd8tSWKYXiMxZJDK1L5Em"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "JB's Hustle",
-      "url": "https://open.spotify.com/track/6lQEwPKKVtTAexPCl5yg64"
     },
     {
       "added_at": "2025-05-23 04:00:00",

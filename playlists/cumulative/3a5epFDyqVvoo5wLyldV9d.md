@@ -4,7 +4,7 @@
 
 > 
 
-865 songs - 2 day 20 hr 4 min
+867 songs - 2 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 | 2020-11-24 |  |
 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 | 2024-11-27 |  |
 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 | 2020-06-11 |  |
+| [Love Me for Real](https://open.spotify.com/track/2lxUiTHbaoWL0opbZ6MEq2) | [Rim Kwaku Obeng](https://open.spotify.com/artist/6Y4i8HZmnyCHhrm8WZrqto), [KASA](https://open.spotify.com/artist/2wJTIRwxscEU6xYZsK4zrE) | [Too Tough / I'm Not Going to Let You Go](https://open.spotify.com/album/2VOIiBQ9gaOmF2NDzP5lDA) | 8:28 | 2025-05-24 |  |
 | [Love on the Sand](https://open.spotify.com/track/6G92PEEvTgJVWuCI7XECPL) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [A Trip Around the World](https://open.spotify.com/album/2YPRffE03kmLtsqaHn2w6v) | 3:43 | 2022-07-08 |  |
 | [Love Words](https://open.spotify.com/track/48ZhKhbBQFF5hTVvWRHZCa) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 4:42 | 2020-04-11 |  |
 | [Loving You](https://open.spotify.com/track/0b3sXNCllKHYn6SqDkK5BS) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 9:28 | 2022-08-02 |  |
@@ -647,6 +648,7 @@
 | [Rico Suave Bossa Nova](https://open.spotify.com/track/32QTkysuubJuk0I59MQ339) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Welcome 2 Detroit \- the 20th Anniversary Edition](https://open.spotify.com/album/67Fpsd5TALBwzYYdfpNzJ5) | 5:53 | 2021-12-07 |  |
 | [Rio Babilônia](https://open.spotify.com/track/6Qboev0nak6rFFprgiUYTV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Dádiva](https://open.spotify.com/album/31key2nJ7sjZMiNTFLCiGX) | 4:56 | 2023-01-14 |  |
 | [Rio Dream](https://open.spotify.com/track/0rIJgzVvLQ81D2P02353rM) | [Aparecida](https://open.spotify.com/artist/38QIeu65Xm1SMg2BBuIfOc) | [Brazil Fever](https://open.spotify.com/album/0rY3UWwmZMKx6fiy2fFSkL) | 5:52 | 2021-05-05 |  |
+| [Rock the Casbah \(Ranking Roger\)](https://open.spotify.com/track/3BlBgTuUlGKFO9EhhnJZhA) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Rock The Casbah \(Ranking Roger\)](https://open.spotify.com/album/0oLCJ91O7NIiWQmfPZhFbK) | 4:20 | 2025-05-24 |  |
 | [Rotab \(Bandari\)](https://open.spotify.com/track/3DMMqSnFwh7EpVo0iqwjhr) | [Hassan Shamaizadeh](https://open.spotify.com/artist/12TmVMYwkTjWDEPNhnDE4G) | [Parvaze Eshgh \- Persian Music](https://open.spotify.com/album/0Lr6L35Py1ddoVYHuigmI9) | 5:33 | 2020-12-09 |  |
 | [Ruby](https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 5:55 | 2020-01-12 |  |
 | [S'cudjo](https://open.spotify.com/track/6sCAqjzr97eQ3GwTSCMJrm) | [Ze Manel](https://open.spotify.com/artist/20DNC4VBY0sOrFlNUQFVJ9) | [Tustumunhos Di Aonti](https://open.spotify.com/album/3Z38vaXMXc0T8FQVtFgYhv) | 3:12 | 2020-09-26 |  |

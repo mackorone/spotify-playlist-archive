@@ -5071,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/2OWbiWstlkmXz9bl9z1crs"
+      },
+      "artists": [
+        {
+          "name": "The Dark Lord",
+          "url": "https://open.spotify.com/artist/7kv4AKBywvnx7UYXF4DRwN"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173999,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0sQpv2zXzCT1WxLRLCdbHV"
+    },
+    {
+      "album": {
         "name": "Evil Jordan",
         "url": "https://open.spotify.com/album/46PGnvR6cU3QMQZSKRzLHy"
       },
@@ -6214,7 +6232,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 180553,
       "name": "GAJA - Eurovision Edit",
       "url": "https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac"
@@ -14520,7 +14538,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 179538,
       "name": "SERVING KANT",
       "url": "https://open.spotify.com/track/7IAtKdU3e9wZFC8Cd8TLr1"
@@ -26944,7 +26962,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 113615,
       "name": "\u041f\u043e\u0448\u043b\u0430\u044f \u0411\u043b\u043e\u043d\u0434\u0438\u043d\u043a\u0430",
       "url": "https://open.spotify.com/track/2d6MCmrnn9EuB8Dw4A86UJ"

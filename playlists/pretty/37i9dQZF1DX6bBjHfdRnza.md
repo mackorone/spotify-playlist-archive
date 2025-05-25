@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring Matsu\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,392 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,429 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Keep Guessing](https://open.spotify.com/track/5hp0bM5zmmhuPskJmNuLw7) | [Sven Lochenhoer](https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU) | [Keep Guessing](https://open.spotify.com/album/5nbpDe59zRpRwRVAxAaPhj) | 3:09 |
 | 100 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 |
 
-Snapshot ID: `aDCSSgAAAADTdnwpV5n8qJ3l2uiIBakF`
+Snapshot ID: `AAAAAFKfM/YnMDtyrI8/A2M3gCQQm25g`

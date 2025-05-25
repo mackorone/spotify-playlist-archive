@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including KAROL G, Alex Warren, Edb, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,832 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,834 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 18 | [10 Sommer](https://open.spotify.com/track/2V29J7ugEE1pZtilIPdFcZ) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [10 Sommer](https://open.spotify.com/album/6ShOLvCMn9hbX7SPjhc232) | 2:30 |
 | 19 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
 | 20 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 |
-| 21 | [Zu den anderen](https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw), [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Zu den anderen](https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI) | 2:19 |
+| 21 | [Zu den Anderen](https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw), [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Zu den Anderen](https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI) | 2:19 |
 | 22 | [dirti no.](https://open.spotify.com/track/0jd2ufQEHW0OhpfE2U6MRa) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [decrescendo.](https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd) | 2:55 |
 | 23 | [Der Faktor Mensch](https://open.spotify.com/track/1qdXPyUT44Irh0Ycnxeykn) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Der Faktor Mensch](https://open.spotify.com/album/00TU0NDNLDZpQ0JleqT0BN) | 2:59 |
 | 24 | [Tout gâcher](https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Tout gâcher](https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv) | 2:06 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 91 | [IN MEINER BRUST](https://open.spotify.com/track/6OxJuU3rM0UxU9a1vR9HHM) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn) | [IN MEINER BRUST](https://open.spotify.com/album/22q4LalCQ3mrr3il5wv5N7) | 2:31 |
 | 92 | [Common Formality](https://open.spotify.com/track/7aSfSOUli9kRU5pJjeZO2a) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [Common Formality](https://open.spotify.com/album/7qhoIuubUZS8FMI1SOfJdf) | 2:59 |
 | 93 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 |
-| 94 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate \- EP](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
+| 94 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
 | 95 | [tu's für uns](https://open.spotify.com/track/2OsKP7N0KkRCyc2dkq3IrX) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [Ein Schritt mehr](https://open.spotify.com/album/2qAelcA0zeIW4nDQLy7wks) | 3:13 |
 | 96 | [Die A Million Times](https://open.spotify.com/track/13vBvwz8OIu1gbgKWFCsir) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Die A Million Times](https://open.spotify.com/album/0HEF2ivJVzvDrbJggVouGp) | 3:26 |
 | 97 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > C'è un nuovo pezzo di Delicatoni e Coca Puma ed è proprio qua su Indie Italia 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,872 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,909 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Arch Enemy
 
-1,064 songs - 3 day 5 hr 44 min
+1,065 songs - 3 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,7 @@
 | [More Than Dreaming](https://open.spotify.com/track/5DoxBVVLzWlTrCmihusfSG) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [More Than Dreaming](https://open.spotify.com/album/3KRvjJjHAvUgjxVe53Qovi) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [More Than Dreaming](https://open.spotify.com/track/7Lx46Dt2A9Dr9cSsm2okk0) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [You Will Be the Death of Me](https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO) | 3:09 | 2022-07-08 | 2022-11-13 |
 | [Mountain Throne](https://open.spotify.com/track/13QzE0EC55URX49joq09YU) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [This Heathen Land](https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K) | 4:24 | 2023-12-21 | 2024-11-23 |
-| [Murder Machine](https://open.spotify.com/track/5o5qKuHTTmJRmKDIq0SXB9) | [Battlesnake](https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y) | [Murder Machine](https://open.spotify.com/album/3SW5HbQaHpJYPbE2jz1KvO) | 3:06 | 2025-05-02 |  |
+| [Murder Machine](https://open.spotify.com/track/5o5qKuHTTmJRmKDIq0SXB9) | [Battlesnake](https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y) | [Murder Machine](https://open.spotify.com/album/3SW5HbQaHpJYPbE2jz1KvO) | 3:06 | 2025-05-02 | 2025-05-25 |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-08-19 |  |
 | [My Dystopia](https://open.spotify.com/track/2nPs2kLCJQFwx62PrYcjts) | [Brainstorm](https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO) | [Wall of Skulls](https://open.spotify.com/album/6iDBykFuBbSaHhnPzVH1y9) | 4:30 | 2021-12-17 | 2022-07-24 |
 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:29 | 2022-08-26 | 2024-04-19 |
@@ -985,6 +985,7 @@
 | [Vicious Cycle](https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Vicious Cycle](https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n) | 6:10 | 2022-03-22 | 2022-04-01 |
 | [Victorious](https://open.spotify.com/track/5fj8gbxJ0LR464ylTwJPZ6) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Victorious](https://open.spotify.com/album/3dYmEXVat2fvSDh0JimSjR) | 3:55 | 2021-12-17 | 2022-07-26 |
 | [Vilified](https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Vilified](https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe) | 4:31 | 2024-09-13 | 2024-11-23 |
+| [Violent Nature](https://open.spotify.com/track/4wG1qk65XGBixayITnktbO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe) | 2:10 | 2025-05-23 |  |
 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 | 2021-12-17 | 2024-11-05 |
 | [Vote of No Confidence](https://open.spotify.com/track/0u7ZOU5XNVukkKjGf7YeYQ) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [I Will Be Gone](https://open.spotify.com/album/3hGFrVDa7GSUMkJ5KaNlml) | 6:05 | 2021-12-17 | 2022-07-28 |
 | [Vote with a Bullet](https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Blind](https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k) | 3:25 | 2022-08-19 |  |

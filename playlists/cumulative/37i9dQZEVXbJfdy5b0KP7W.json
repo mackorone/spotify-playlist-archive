@@ -5583,6 +5583,24 @@
     },
     {
       "album": {
+        "name": "ENAMORA2",
+        "url": "https://open.spotify.com/album/4D86MaY7IoQSycolDL8fP0"
+      },
+      "artists": [
+        {
+          "name": "Fer Ariza",
+          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202064,
+      "name": "ENAMORA2",
+      "url": "https://open.spotify.com/track/2RX1emplIvpgCuZl87y50j"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
       },
@@ -11294,7 +11312,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"

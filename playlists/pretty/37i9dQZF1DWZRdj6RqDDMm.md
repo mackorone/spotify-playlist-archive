@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Anendlessocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,969 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,993 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Back then](https://open.spotify.com/track/2OcEsFLvvLvR7701AQRnih) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY) | [Back then](https://open.spotify.com/album/2XJsgVFFAO4eHkBi5SnwQt) | 2:36 |
 | 100 | [Higher](https://open.spotify.com/track/4x3Ur7vXn0OGCanM0H14TP) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Higher](https://open.spotify.com/album/25P2aZHiOFgElq2h72SXTq) | 2:24 |
 
-Snapshot ID: `aC+64AAAAABlKV0333v0HgiP4RYjHAoV`
+Snapshot ID: `aC+64AAAAADY2kSsQdPPs4xsPbD+Gc++`

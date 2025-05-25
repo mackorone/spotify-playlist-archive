@@ -1395,6 +1395,32 @@
     },
     {
       "album": {
+        "name": "Cloud Bank",
+        "url": "https://open.spotify.com/album/0Ii9WgyawvgfnoBdeRCVtf"
+      },
+      "artists": [
+        {
+          "name": "Strehlow",
+          "url": "https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Flan\u00f8r",
+          "url": "https://open.spotify.com/artist/6ig96HpkSAXYvt69GBHYWl"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108958,
+      "name": "Cloud Bank",
+      "url": "https://open.spotify.com/track/6zyBymxwUn9jCiQhliYE8v"
+    },
+    {
+      "album": {
         "name": "Cocktail Please",
         "url": "https://open.spotify.com/album/2T4bG7choP5ph9yf7kL5pO"
       },
@@ -11048,7 +11074,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 105714,
       "name": "Who's Calling",
       "url": "https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX"

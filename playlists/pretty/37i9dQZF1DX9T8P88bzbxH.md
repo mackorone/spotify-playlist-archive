@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Lion City Mayhem: heat rising, outfits loud, feelings louder\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,359 likes - 21 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,375 likes - 21 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

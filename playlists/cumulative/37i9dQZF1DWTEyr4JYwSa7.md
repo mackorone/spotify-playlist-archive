@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-342 songs - 18 hr 27 min
+343 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Au Ville La Veille De Noël](https://open.spotify.com/track/7xpW6zmVdKYFJhSWYz4eof) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Au Ville La Veille De Noël](https://open.spotify.com/album/2RwGK7SjNZCtXoWsOCMQOO) | 3:24 | 2021-12-17 | 2022-07-23 |
 | [Aujourd'hui le roi des cieux \(The First Noël\)](https://open.spotify.com/track/4WGZjwXf20jU5LuFXgmqu0) | [Michaël](https://open.spotify.com/artist/1IBfb2dNgk90Z4s5ZipI0z) | [Nuit de Noël](https://open.spotify.com/album/6lLZCMznuhA54wAD6oCPKC) | 4:08 | 2021-12-17 | 2022-07-26 |
 | [Ave maria](https://open.spotify.com/track/0SnM2ceBc70ktED1Og5ywY) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 2:16 | 2021-12-17 | 2022-07-27 |
-| [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 | 2021-12-17 |  |
+| [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 | 2021-12-17 | 2025-05-25 |
 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-17 |  |
 | [Baby It’s Not Christmas Without You](https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Baby It’s Not Christmas Without You](https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ) | 2:47 | 2023-11-17 |  |
 | [Beyond the Tinsel \(Version Bilingue\)](https://open.spotify.com/track/6NFqaSTScOaet3NrnBzpHF) | [Roxanne Potvin](https://open.spotify.com/artist/3ofHXe0mNkjiGxjX0VCj8T) | [Beyond the Tinsel \(Version Bilingue\)](https://open.spotify.com/album/4cDzCNJK5IB3hoqcdxRWwo) | 3:10 | 2021-12-17 | 2022-07-22 |
@@ -321,6 +321,7 @@
 | [This Christmas](https://open.spotify.com/track/25X1hTpfK2faJKuTeFi6Cj) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Tous Ensemble Pour Noël](https://open.spotify.com/album/0MkCu0fwfcUNGYb2vdzHR9) | 2:44 | 2021-12-17 | 2022-07-27 |
 | [This Christmas](https://open.spotify.com/track/7HAQ9eoqbo2hoU8T2PhW6A) | [Christina Martin](https://open.spotify.com/artist/5fGpCXlgIw7hwujucmyNTD) | [This Christmas](https://open.spotify.com/album/1jz7f1nxF9Dkz5V22DqKe0) | 3:22 | 2021-12-17 | 2022-07-22 |
 | [Toi pour Noël](https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp) | [Frédérick De Grandpré](https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J) | [Un martini pour Noël](https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX) | 2:56 | 2021-12-17 | 2022-07-27 |
+| [Ton chandail de Noël](https://open.spotify.com/track/4QeYg9ev7grCrFrJR4k7VO) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Noël amoureux](https://open.spotify.com/album/0C9sNkimLY6w0gECvdPW3B) | 3:35 | 2024-12-13 |  |
 | [Ton goût de neige](https://open.spotify.com/track/4v0OYbb2GUDhhzvXn4itrN) | [Tristan Malavoy](https://open.spotify.com/artist/70BCqvyv8dC7D9uB7zstS7), [Viviane Audet](https://open.spotify.com/artist/71GvXWXg9NgdanmMg9XWHo) | [Ton goût de neige \(feat\. Viviane Audet\)](https://open.spotify.com/album/388uWMPF2RIzXW9MyqykL8) | 3:36 | 2021-12-17 | 2022-07-26 |
 | [Toute seule pour Noël](https://open.spotify.com/track/6HbakdV227EMrteosQ8Tyb) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Toute seule pour Noël](https://open.spotify.com/album/7nwZkKKvXPgjQHaHHUHVSF) | 3:06 | 2021-12-17 |  |
 | [Trois anges](https://open.spotify.com/track/0CEf5RUrI8lymsEXxQlMZG) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Trois anges](https://open.spotify.com/album/5v4av8x3cutGER7uiU69ZK) | 3:40 | 2024-12-13 |  |

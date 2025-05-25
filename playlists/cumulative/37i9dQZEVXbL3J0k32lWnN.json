@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 204903,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7yvz251wAPywXWTEQzQouR"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 188425,
       "name": "beholder mit t\u00f8j p\u00e5",
       "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
@@ -3735,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72842,
+      "name": "Bev\u00e6g Dig Lidt",
+      "url": "https://open.spotify.com/track/4suuLSP0116Bs4oy5SKLmU"
+    },
+    {
+      "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
       },
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4018,10 +4036,32 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 182608,
       "name": "Blodigt (feat. Annika)",
       "url": "https://open.spotify.com/track/2EVJSQTl0bqHISNlJbhNIc"
+    },
+    {
+      "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Blodigt (feat. Annika)",
+      "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
     },
     {
       "album": {
@@ -4040,6 +4080,28 @@
       "duration_ms": 184583,
       "name": "Blomster & Regnvejr",
       "url": "https://open.spotify.com/track/1OL1vwKA4R3UFMNr6hUZ4l"
+    },
+    {
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "album": {
@@ -5084,6 +5146,36 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Byens Hold (feat. Noah Carter, KESI & Lamin)",
+      "url": "https://open.spotify.com/track/2gZFWmcE98gNuhkeycpB0I"
     },
     {
       "album": {
@@ -8229,6 +8321,54 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198924,
+      "name": "Din Energi (feat. August H\u00f8yen, Artigeardit & Bette)",
+      "url": "https://open.spotify.com/track/0gxuyDEXyInoU1RvCxqC8m"
+    },
+    {
+      "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49091,
+      "name": "Din Energi (Prelude)",
+      "url": "https://open.spotify.com/track/0DQFWs0JSvzDYVZc8ijqjO"
+    },
+    {
+      "album": {
         "name": "Championship",
         "url": "https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC"
       },
@@ -9026,7 +9166,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 147094,
       "name": "Drukner i os",
       "url": "https://open.spotify.com/track/0pT6pQ9bfQNee3zDaGBlaO"
@@ -10087,6 +10227,32 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Entr\u00e9 (feat. Lamin & ozzy)",
+      "url": "https://open.spotify.com/track/2SIn4GfX7nAEQZ9abmHWbr"
+    },
+    {
+      "album": {
         "name": "Entr\u00e9 (feat. Lamin & ozzy)",
         "url": "https://open.spotify.com/album/3qSkuInNQp2ogX1zLW1DLH"
       },
@@ -10106,7 +10272,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 173400,
       "name": "Entr\u00e9 (feat. Lamin & ozzy)",
       "url": "https://open.spotify.com/track/6qCmwE9TO2j9JiEXZ4exyM"
@@ -11747,6 +11913,28 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139606,
+      "name": "Flueben (feat. Lamin)",
+      "url": "https://open.spotify.com/track/5V6GtuyYBrIfQIZwh0B8Ye"
+    },
+    {
+      "album": {
         "name": "Welcome To The Madhouse",
         "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
@@ -12932,6 +13120,32 @@
       "duration_ms": 170611,
       "name": "F\u00f8les Godt (feat. Mekdes)",
       "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
+    },
+    {
+      "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162236,
+      "name": "F\u00f8r Du G\u00e5r (feat. Sira Jovina & Noah Carter)",
+      "url": "https://open.spotify.com/track/4XB1UFXGF8fpk4EWtQnqBB"
     },
     {
       "album": {
@@ -14601,6 +14815,36 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        },
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Handsome (feat. Benjamin Hav, JOSVA & Gilli)",
+      "url": "https://open.spotify.com/track/1hiYxHW3uKBmKm1ByvHeZd"
+    },
+    {
+      "album": {
         "name": "Handsome (feat. Benjamin Hav, JOSVA & Gilli)",
         "url": "https://open.spotify.com/album/3VdtcZKWLij2eQGc75CElV"
       },
@@ -14624,7 +14868,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 151875,
       "name": "Handsome (feat. Benjamin Hav, JOSVA & Gilli)",
       "url": "https://open.spotify.com/track/5nASqWcjcInzxUXi85drKk"
@@ -16460,7 +16704,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 166890,
       "name": "Hva det var",
       "url": "https://open.spotify.com/track/7d9aWD6n1BFnQz5nof8b3J"
@@ -16552,6 +16796,36 @@
       "duration_ms": 169845,
       "name": "Hva' Du V\u00e6rd (feat. Smiley)",
       "url": "https://open.spotify.com/track/4pCB7A8b8ERNaZ1p7SJHoF"
+    },
+    {
+      "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177076,
+      "name": "Hvad Er Stemningen? (feat. MAS, Kundo & ozzy)",
+      "url": "https://open.spotify.com/track/6e60axNyEsOa6Edwp95QW1"
     },
     {
       "album": {
@@ -16857,6 +17131,36 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "DJ Ary",
+          "url": "https://open.spotify.com/artist/46tG330l85fiQKqMzY1FV5"
+        },
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168285,
+      "name": "Hvor Skal Vi Hen? (feat. MAS, DJ Ary & Sivas)",
+      "url": "https://open.spotify.com/track/0xljs2KXx1E1V3jWz8uF8F"
+    },
+    {
+      "album": {
         "name": "Hvor Solen Ik' Skinner",
         "url": "https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m"
       },
@@ -16912,7 +17216,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 179157,
       "name": "Hvor Var Jeg Endt",
       "url": "https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY"
@@ -17112,6 +17416,40 @@
       "duration_ms": 190517,
       "name": "H\u00f8jt Oppe (feat. Emil Goll)",
       "url": "https://open.spotify.com/track/1auA7wGDzCrlmPzadTlarI"
+    },
+    {
+      "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214976,
+      "name": "H\u00f8rt Det F\u00f8r (feat. Pil, Annika, Mille & Medina)",
+      "url": "https://open.spotify.com/track/2MOH9hDRMYCpNzmHzCRjPh"
     },
     {
       "album": {
@@ -18906,7 +19244,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 196043,
       "name": "Jeg er din",
       "url": "https://open.spotify.com/track/7GkmKphMJx2xreVUV4tdQ9"
@@ -19767,6 +20105,32 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153112,
+      "name": "Kaos (feat. wicky & ICEKIID)",
+      "url": "https://open.spotify.com/track/4G5TLlI23IEGczjU3Oj6fd"
+    },
+    {
+      "album": {
         "name": "KARAVANE (LAMIGLIGFORT\u00c6LDIG) (feat. Marwan)",
         "url": "https://open.spotify.com/album/66eHLlycawbg45ovc4uSX7"
       },
@@ -20156,7 +20520,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 240917,
       "name": "Klip Klap Sandaler",
       "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
@@ -21679,6 +22043,36 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208974,
+      "name": "Lidt Luv (feat. andreas odbjerg, Artigeardit & Lea Romea)",
+      "url": "https://open.spotify.com/track/2pWH0bLNfi0IW2ViBP64Jr"
+    },
+    {
+      "album": {
         "name": "OG S\u00c5 VIDERE",
         "url": "https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3"
       },
@@ -22314,7 +22708,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 196090,
       "name": "Lonely (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
@@ -32900,7 +33294,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 168318,
       "name": "Start p\u00e5 ny",
       "url": "https://open.spotify.com/track/23cU3OwfFcrnpkIkwlGp8V"
@@ -33911,6 +34305,32 @@
     },
     {
       "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189943,
+      "name": "Synergi (feat. Benny Jamz & Lord Siva)",
+      "url": "https://open.spotify.com/track/5yAmrdr99vvaWUKfH8fcMi"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -33988,7 +34408,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 150190,
       "name": "S\u00e5 l\u00e6nge jeg er sexy.",
       "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
@@ -36572,7 +36992,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 203500,
       "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
       "url": "https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV"

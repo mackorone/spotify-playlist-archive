@@ -3962,6 +3962,24 @@
     {
       "album": {
         "name": "No Quintal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/63q8lsOzQDtmh34PSChZLF"
+      },
+      "artists": [
+        {
+          "name": "Mateus e Cristiano",
+          "url": "https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185229,
+      "name": "Duas Horas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1eHpQ0Fu5zDahlj5JgbCP2"
+    },
+    {
+      "album": {
+        "name": "No Quintal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1aBzAN2KO1ymWgY840EP5o"
       },
       "artists": [
@@ -3972,7 +3990,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 185229,
       "name": "Duas Horas - Ao Vivo",
       "url": "https://open.spotify.com/track/48V7sbUtgbDJCESzszX76p"
@@ -9204,10 +9222,28 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 147810,
       "name": "Seguran\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/2KZeoDtpGXkmNus2Z1kAY5"
+    },
+    {
+      "album": {
+        "name": "No Quintal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/63q8lsOzQDtmh34PSChZLF"
+      },
+      "artists": [
+        {
+          "name": "Mateus e Cristiano",
+          "url": "https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147810,
+      "name": "Seguran\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ZcZQLuGhoQhPowURNEyiU"
     },
     {
       "album": {

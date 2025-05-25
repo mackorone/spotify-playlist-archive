@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Marte, Rkomi, Simba, Fibra e Tredici Pietro, Carla Hero e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,215 likes - 137 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,226 likes - 137 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

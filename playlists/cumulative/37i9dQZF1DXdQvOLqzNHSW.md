@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-783 songs - 1 day 23 hr 11 min
+784 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Do You Miss Our Dog](https://open.spotify.com/track/40oFc8yhRjLdbGTEeESTqu) | [Fifty Grand](https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV), [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Do You Miss Our Dog](https://open.spotify.com/album/5MVFXoJtbpNXxFYkL4BKiu) | 4:37 | 2022-07-20 | 2022-07-29 |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 | 2023-05-23 |
 | [Dominos](https://open.spotify.com/track/540qEz21gb3RWi8EYiJbX8) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 4:32 | 2020-12-21 | 2022-04-20 |
-| [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 | 2023-11-21 |  |
+| [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 | 2023-11-21 | 2025-05-25 |
 | [Don't Be Afraid](https://open.spotify.com/track/7BVTMH2x5dTcZxfp6rT6ce) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Don't Be Afraid](https://open.spotify.com/album/2AtX3VmF8DDFW3AYsp4Ek5) | 3:23 | 2021-06-25 | 2022-04-20 |
 | [Don't Believe](https://open.spotify.com/track/73v70IvfjLxHBlMsqk1glR) | [Slow Dancer](https://open.spotify.com/artist/2qq8yiTh6GieJeWShMcihO) | [Don't Believe](https://open.spotify.com/album/18Sn9UfuGPsEjTDPrGUZfv) | 3:49 | 2020-12-21 | 2022-04-18 |
 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 | 2023-11-21 |  |
@@ -783,6 +783,7 @@
 | [Worth It](https://open.spotify.com/track/6mducEtSNpNHOzUi9VRY74) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Worth It](https://open.spotify.com/album/6VsicZiGrXi8fCr0KFNwAP) | 3:05 | 2020-12-21 | 2022-04-09 |
 | [Years](https://open.spotify.com/track/3kd9BSkFUN7bQnVTILspFX) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Years](https://open.spotify.com/album/4qMeaHsIzJarrFSy5SNI3O) | 3:47 | 2020-12-21 | 2022-06-29 |
 | [Yellow](https://open.spotify.com/track/0Yba22WJ5zZzqEsVmd6Tsj) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Yellow](https://open.spotify.com/album/6aN0WKP0ZmunveF6tsYr4d) | 3:40 | 2021-08-13 | 2022-07-21 |
+| [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 | 2025-04-21 |  |
 | [You Let Me In](https://open.spotify.com/track/0CRM5NU7cW75h4GJXHOaEX) | [Luke Rathborne](https://open.spotify.com/artist/0XfDKxRuVIlgnFx0GHj4h6) | [You Let Me In](https://open.spotify.com/album/6UFeOKARWJAmC2FdUAjNp3) | 4:11 | 2020-12-21 | 2022-04-21 |
 | [You Might Be Sleeping](https://open.spotify.com/track/7r7HYGxvCIXzHicl5DGIxM) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [You Might Be Sleeping](https://open.spotify.com/album/3XF1RsUrLnAJFYICovcDYK) | 2:27 | 2020-12-21 | 2022-07-13 |
 | [You on My Mind](https://open.spotify.com/track/1P7qvfBiWLx3cuUgSyeNIE) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [You on My Mind](https://open.spotify.com/album/0vxq1LLGQtEKjNnwHD4e8E) | 2:30 | 2020-12-21 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-619 songs - 1 day 5 hr 34 min
+620 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Big Time](https://open.spotify.com/track/2Joo59zw4MD3njSU4gxJmZ) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Karbon](https://open.spotify.com/artist/3d35Qfp3CjJMnRzvvtuwtB) | [Big Time](https://open.spotify.com/album/6ch9eo10p7wru0ayp7yViW) | 2:25 | 2025-04-23 | 2025-05-06 |
 | [Bijli](https://open.spotify.com/track/1wiwjKJYYbnsrHIt6iiZYk) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E) | [Bijli](https://open.spotify.com/album/4E0FNeE9FuFORCEn5dWO7L) | 2:20 | 2024-02-12 | 2024-02-16 |
 | [Biodata](https://open.spotify.com/track/71fEHkKiQ5AlOXGkE01Gar) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Biodata](https://open.spotify.com/album/1ZDS6moVwxBS6myglIoPiY) | 2:19 | 2023-12-12 | 2024-01-06 |
+| [Black Benz](https://open.spotify.com/track/3Wb5z8NbY3LRISfeLiJRsD) | [Harry Gill](https://open.spotify.com/artist/5B9Rvg9StFoPKWxZuCLbKu), [Prxkxrm](https://open.spotify.com/artist/16rmZ1GobVGEtXMIcWQr78) | [Black Benz](https://open.spotify.com/album/3KedA7QlHdO5XBFKBLczAu) | 3:12 | 2025-05-24 |  |
 | [Black Effect](https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Black Effect](https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj) | 2:55 | 2023-03-29 | 2023-07-15 |
 | [Blackia](https://open.spotify.com/track/5AGyGZjzlAKRN4LQXJY4v5) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Blackia](https://open.spotify.com/album/3nT3kE7iN4jdzTuFCGPLH8) | 3:41 | 2023-06-30 | 2023-07-15 |
 | [Blackia](https://open.spotify.com/track/6G6NmeI3pYtySZwyye0tve) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Blackia](https://open.spotify.com/album/40kwbF5EXqVjMOs4XLnnlL) | 3:41 | 2023-03-29 | 2023-07-06 |
@@ -376,7 +377,7 @@
 | [Miss India](https://open.spotify.com/track/25YxiGah27DBUtuxADIzug) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8), [Riyaaz](https://open.spotify.com/artist/7CpYGl06EZeQ7cQJ6lCTkq) | [Miss India](https://open.spotify.com/album/2jPAZcpRzdI7GIMThM56am) | 2:56 | 2023-04-17 | 2023-04-21 |
 | [Mittran Di Tohr](https://open.spotify.com/track/3ZHt5EVUy4bIAWXjEJQKkf) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:43 | 2023-11-07 | 2024-08-13 |
 | [Modern Mirza](https://open.spotify.com/track/20gi7fdusYZmDvsj8hBd3Z) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Modern Mirza](https://open.spotify.com/album/2Dnw9FRBqVGdmKpwuVCLJa) | 3:33 | 2023-03-29 | 2023-07-15 |
-| [Modern Street](https://open.spotify.com/track/4KJJ0IE7gRhJ5slD6EPC88) | [Taabir Aulakh](https://open.spotify.com/artist/1LxRy5PBBXvfn7dOPm6Sdb) | [Modern Street](https://open.spotify.com/album/2vOeEUIi2UpTVOBVNZ9iZQ) | 2:33 | 2025-05-15 |  |
+| [Modern Street](https://open.spotify.com/track/4KJJ0IE7gRhJ5slD6EPC88) | [Taabir Aulakh](https://open.spotify.com/artist/1LxRy5PBBXvfn7dOPm6Sdb) | [Modern Street](https://open.spotify.com/album/2vOeEUIi2UpTVOBVNZ9iZQ) | 2:33 | 2025-05-15 | 2025-05-25 |
 | [Money Money](https://open.spotify.com/track/2ZTYkrB6rv8M7tLMkbAxss) | [Savvy Sandhu](https://open.spotify.com/artist/7JNNQOhXwS5i8ENCGLBUgo), [Wakeupparth](https://open.spotify.com/artist/279IKZpSmqxIYR3D46yWH1), [Shayar Sadeek](https://open.spotify.com/artist/5PXWL5af5akPTliQapoiz3) | [Money Money](https://open.spotify.com/album/2C5E2O8wMNJV4BqpLSbsJy) | 2:00 | 2025-03-19 | 2025-03-28 |
 | [Mood](https://open.spotify.com/track/45DhouHXEV4vLcatvoW9qK) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Mood](https://open.spotify.com/album/1YG4HJc27GqLQ9MAxhNiEh) | 2:25 | 2023-10-06 | 2023-10-26 |
 | [Mosh Pit](https://open.spotify.com/track/7nxnkCT2RTeXVJoV02sPGs) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [KRN Walia](https://open.spotify.com/artist/0Kpuu2pLaloYjY44rYA1kA) | [RUDE](https://open.spotify.com/album/1L5ZTnnD8PwMEw6xWka186) | 2:27 | 2023-08-25 | 2023-09-12 |

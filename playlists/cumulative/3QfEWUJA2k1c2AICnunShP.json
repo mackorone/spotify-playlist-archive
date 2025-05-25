@@ -2603,6 +2603,32 @@
     },
     {
       "album": {
+        "name": "Seuls",
+        "url": "https://open.spotify.com/album/0NOAGelOYr8fjnjZ1nCw1K"
+      },
+      "artists": [
+        {
+          "name": "Thomas Horeczko",
+          "url": "https://open.spotify.com/artist/45hfjgJ2kOKtAhKIHLpTZX"
+        },
+        {
+          "name": "St\u00e9phane Horeczko",
+          "url": "https://open.spotify.com/artist/1t3wHfR1IXybR0wztmjkyG"
+        },
+        {
+          "name": "Braths",
+          "url": "https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168085,
+      "name": "Seuls",
+      "url": "https://open.spotify.com/track/6bmSDTpDpOdl9kLA3p6S1n"
+    },
+    {
+      "album": {
         "name": "Siciliana (from \"The Tree of Life\", Arr. for Piano from Antiche Danze, Suite No. 3 by Ottorino Respighi)",
         "url": "https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah"
       },

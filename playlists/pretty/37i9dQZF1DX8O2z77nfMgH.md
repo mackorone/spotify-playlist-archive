@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Feid con Tony Hawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,325 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,170 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 39 | [Mentiras](https://open.spotify.com/track/0A2EWvU8Dt6sT9jRAo5Kf3) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Subiendo El Tono](https://open.spotify.com/album/7b5zkiyWYz8AP4rPnO5TBZ) | 4:24 |
 | 40 | [El Esqueleto](https://open.spotify.com/track/3omdjMeKzznlMu4YpZADSp) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [El Esqueleto](https://open.spotify.com/album/63ff76Auoq6zfeOWbUdJwi) | 2:33 |
 | 41 | [Polvito Rosita \(SLS\-003\)](https://open.spotify.com/track/3rNrhscpclOkXrgAKGinfP) | [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Polvito Rosita \(SLS\-003\)](https://open.spotify.com/album/7cE4SzGfhlK16WTixAfyLA) | 2:09 |
-| 42 | [Como Ella Ya no Hay](https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Como Ella Ya no Hay](https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH) | 3:40 |
+| 42 | [Como Ella Ya No Hay](https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Como Ella Ya No Hay](https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH) | 3:40 |
 | 43 | [Aplausos](https://open.spotify.com/track/5q9J42PlRZm2ytXzJ4wVFk) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Resiliencia](https://open.spotify.com/album/0C0FwgtecfoZ9f76ES7Cpr) | 3:20 |
 | 44 | [Tony Soprano](https://open.spotify.com/track/3CQ6aBBe3khVVLa9M1en49) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [Dante Technicolor](https://open.spotify.com/album/1Iez6ESeFlk8ZBi9sok0B3) | 1:59 |
 | 45 | [FUSAICHI PEGASUS](https://open.spotify.com/track/41BEAZOuBjOyrEgnFDckGY) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [La Belleza](https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [La Belleza](https://open.spotify.com/album/5KO5GWklzKhPl37V7UXq2B) | 3:19 |
 | 55 | [Mi nena](https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi nena](https://open.spotify.com/album/0y0uxUtH57bWINrULxDZdu) | 2:44 |
 
-Snapshot ID: `AAAAAIbZp/02ti0bouYQ8eFMc/i9LqKe`
+Snapshot ID: `aC/y3wAAAAD0JeLVwKH3oRL6bLchcwpG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Phượng Vũ
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,218 likes - 57 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,217 likes - 57 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 29 | [Em Xinh Như Đóa Hoa](https://open.spotify.com/track/6zOBkYSMDFZBPdno8tbMwY) | [Lapphan](https://open.spotify.com/artist/2NkP0wQ6f10FjcdWp4QxGL), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Em Xinh Như Đóa Hoa](https://open.spotify.com/album/5jfhxGaOKm5SYeRuj4QvXe) | 2:38 |
 | 30 | [CHỜ NGÀY KHÔNG NẮNG](https://open.spotify.com/track/3DMOeS29PgLdgaaybtU06E) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [VUZ](https://open.spotify.com/artist/6XW9SiJzlHNM78vTlzNGf6) | [Em Không Sao](https://open.spotify.com/album/6grbTGbhKTvAFpZ656wQXj) | 4:36 |
 | 31 | [Nước có gas](https://open.spotify.com/track/4OTcgXHZP5GqBaL9t4FK8h) | [Hustlang HBo](https://open.spotify.com/artist/2itstf0djeNx1XIZ69k0go), [Bluebby](https://open.spotify.com/artist/3Wu8pfRw3TIyGOFheyowaZ) | [Nước có gas](https://open.spotify.com/album/02U2qwir1Xtw5DbtVwKGaY) | 2:36 |
-| 32 | [Không Có Ai Ngăn Được \(feat\. Anngo & wongcoustic\)](https://open.spotify.com/track/1NGeXoU1Zw3qhhMFXXsu0B) | [August](https://open.spotify.com/artist/3XRhzorKPzkvbW9A6db8bZ), [Anngo](https://open.spotify.com/artist/120NaeTK4uB1ykRKLmCpoQ), [wongcoustic](https://open.spotify.com/artist/1YSGTRcqPvusbsqo2sif9i) | [Không Có Ai Ngăn Được \(feat\. Anngo & wongcoustic\)](https://open.spotify.com/album/79G3UKYOzBTilzxGxcCqjx) | 3:28 |
+| 32 | [Không Có Ai Ngăn Được](https://open.spotify.com/track/1NGeXoU1Zw3qhhMFXXsu0B) | [August](https://open.spotify.com/artist/3XRhzorKPzkvbW9A6db8bZ), [Anngo](https://open.spotify.com/artist/120NaeTK4uB1ykRKLmCpoQ), [wongcoustic](https://open.spotify.com/artist/1YSGTRcqPvusbsqo2sif9i) | [Không Có Ai Ngăn Được](https://open.spotify.com/album/79G3UKYOzBTilzxGxcCqjx) | 3:28 |
 | 33 | [Đồng Hoang](https://open.spotify.com/track/6SW2vOALh130CSpDBUd4QD) | [Nguyễn Lagi](https://open.spotify.com/artist/5kVIkOXlTuqNdw5cDubv44) | [Đồng Hoang](https://open.spotify.com/album/1OMhHousgfcxhEEYwyxNgV) | 4:17 |
 | 34 | [A Ha](https://open.spotify.com/track/0DIxLj89tIXwRhP8EVsFgJ) | [CangCang](https://open.spotify.com/artist/0XnvuKk4tgAlEjjPV833eK), [MICKEY](https://open.spotify.com/artist/5B5evLNd1Borleu5l2xImV) | [A Ha](https://open.spotify.com/album/6X3ONAAtZQ1ndVWuqGRQAs) | 3:24 |
 | 35 | [INSIDE](https://open.spotify.com/track/0J4zcH6L1R0ocYxK0YAs9W) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [North](https://open.spotify.com/artist/6RDx67MeiD2l3GcQKXUenu) | [INSIDE](https://open.spotify.com/album/3U4kr4CTsego3HP7aj1klo) | 3:34 |

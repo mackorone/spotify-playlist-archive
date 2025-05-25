@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Zeb Bangash, Noorima Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,081 likes - 61 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,095 likes - 61 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 52 | [Chaa Rahi Kali Ghata](https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j) | [Hina Nasrullah](https://open.spotify.com/artist/6xLg3SN4UR6GC5aLO86jYm), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 7:38 |
 | 53 | [Ronay Na Diya](https://open.spotify.com/track/3HoBW7VbBuG0sjfTqEsGho) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 5:39 |
 | 54 | [Yo Soch](https://open.spotify.com/track/6S2GWSxMpcEnP3wDc0FdsY) | [Natasha Khan](https://open.spotify.com/artist/3K0jgiTmVYdfQxDd3qK5wg), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 5:48 |
-| 55 | [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 |
+| 55 | [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 |
 | 56 | [Kaatay Na Katay](https://open.spotify.com/track/6P8d2KHX4gtMHxmm8U94Vk) | [Humera Arshad](https://open.spotify.com/artist/2oSmrJthB9GUCiO6H9CFLn), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Rachel Viccaji](https://open.spotify.com/artist/79BYcJwv1Xid7f250YBhun) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 6:01 |
 | 57 | [Anbhol](https://open.spotify.com/track/2gir9LeSGzGVCheXQSF9Qq) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Anbhol](https://open.spotify.com/album/1yRMz8PbFkXrknB1DQ4DdK) | 8:14 |
 | 58 | [Ghoom Taana](https://open.spotify.com/track/3aXcKRkUtt6ZrXfxDs4rbW) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Irteassh](https://open.spotify.com/artist/3GMi8vD4BHAQ16Rg5Fzppc) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 7:39 |

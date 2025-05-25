@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,075 songs - 1 day 23 hr 34 min
+1,077 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Heartless](https://open.spotify.com/track/51ITAzwCbIhNeRZe7d312g) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Heartless](https://open.spotify.com/album/6BLqtIoIwEQwdwmPWVXVZ6) | 2:36 | 2024-04-12 | 2024-09-10 |
 | [Heat Waves](https://open.spotify.com/track/6BoLWqWVSzgXuJjnbIHfAD) | [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Heat Waves](https://open.spotify.com/album/5vnfsifQQKO7LAbTyxup7b) | 3:24 | 2024-06-28 | 2024-08-10 |
 | [Heathens](https://open.spotify.com/track/2RVwR8YVyDasUY73Z30czb) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Heathens](https://open.spotify.com/album/13LKgwPsZm5lHGBqiHtuT1) | 2:37 | 2024-07-12 | 2024-08-10 |
+| [Heaven](https://open.spotify.com/track/2TeHEv9izqIRrLNOo91bNE) | [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Heaven](https://open.spotify.com/album/5Z9todcYo0aEpHRyfYua0K) | 2:42 | 2025-05-24 |  |
 | [Her Eyes](https://open.spotify.com/track/2R1gWX63XdzbAccdDuADT0) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0S1R1lBQWa3G7Icz5Mvh3c) | 3:35 | 2025-02-12 | 2025-03-14 |
 | [Hera](https://open.spotify.com/track/7dDxrrzLQMr1pl7fQaYO9N) | [Amphitryon](https://open.spotify.com/artist/1RZXk7ou8ZRXyFx8x40vlA) | [Hera](https://open.spotify.com/album/4FFcdG1rGBvLboVCXY3nTP) | 2:28 | 2024-03-22 | 2024-05-03 |
 | [Here Comes The Sun](https://open.spotify.com/track/347z1KBX5APmqm8UBaTti4) | [Cloudy Bubbles](https://open.spotify.com/artist/48q8LIxu2krOGgb9RwA8GW) | [Here Comes The Sun](https://open.spotify.com/album/0qNICbC4X5dr0YWJXJ1U0M) | 2:06 | 2024-04-05 | 2024-05-03 |
@@ -760,6 +761,7 @@
 | [Problem Of Life](https://open.spotify.com/track/1x6giEySRy2hcsWBxuW6m1) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Problem Of Life](https://open.spotify.com/album/21AhTovWI7wyCnQt91yFCz) | 2:41 | 2024-08-30 | 2024-09-15 |
 | [Problems](https://open.spotify.com/track/3M2NjmFrDeLxGHL1niL1Ha) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Problems](https://open.spotify.com/album/4k0myWgbXo3XdSIAZIWqLM) | 2:13 | 2024-05-31 | 2024-06-29 |
 | [Promise \(Fireflies\)](https://open.spotify.com/track/446Oco5OqT0DiTPz9MLt83) | [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Isa Luna](https://open.spotify.com/artist/2kn3hZieiEfLsU1vpdaMX4) | [Promise \(Fireflies\)](https://open.spotify.com/album/2SZBOiG8lIgPieOaffifpK) | 2:23 | 2025-01-24 | 2025-03-08 |
+| [Promise Me](https://open.spotify.com/track/2y4w73ROZrgPDTAclgIUk4) | [Dosko](https://open.spotify.com/artist/7ndWSkDQoCu6GAbVK5VDrT) | [Promise Me](https://open.spotify.com/album/3tXpDDenejs4t9YtMmLS7p) | 3:39 | 2025-05-24 |  |
 | [Promises, Promises](https://open.spotify.com/track/0ayX5J5IpyevJDlYpn0fyk) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Maution](https://open.spotify.com/artist/27kMgg4aA7BgvyfwdU2niZ) | [Promises, Promises](https://open.spotify.com/album/160E1BITDJgCCraFVtU5FX) | 2:16 | 2024-11-08 | 2024-12-07 |
 | [Proud](https://open.spotify.com/track/41UHqltAsrCxWegytYFT4q) | [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Proud](https://open.spotify.com/album/3YJvw46PQDpGp6speDTbWs) | 2:12 | 2025-05-09 |  |
 | [Proud Woman \(Turn Around\) \(Edit\)](https://open.spotify.com/track/6GNcVGiv3CH2Esvh4qlajI) | [HEW](https://open.spotify.com/artist/0LsZt5dvQtezbT88DTUvt2) | [Proud Woman \(Turn Around\)](https://open.spotify.com/album/5AGyEG75LsWRqZTs7KQUmg) | 2:45 | 2025-04-04 | 2025-05-10 |

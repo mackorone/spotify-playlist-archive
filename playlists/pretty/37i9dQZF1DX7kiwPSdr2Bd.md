@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Rebeca Carvalho, Cassiane
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,181 likes - 80 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,234 likes - 80 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 70 | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/track/76RWrsRr467nRctpzdwn0H) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/album/4VvjMi1B7az8yTBkU2lJ7s) | 5:55 |
 | 71 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 72 | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7) | 4:28 |
-| 73 | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/track/1J0Gwf6r112PNnTz4E8BOx) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/album/2zKXw5zKtzd4eblciO5qEg) | 4:24 |
-| 74 | [Nada Pode Calar Um Adorador \(Ao Vivo\)](https://open.spotify.com/track/4ZDc1aKX8ldalXDH98i9ef) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Nada Pode Calar Um Adorador \(Ao Vivo\)](https://open.spotify.com/album/5ly8mUZMyQInjEq95eH31y) | 5:28 |
-| 75 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
-| 76 | [Cadeias Quebrar \(Break Every Chain\) \- Ao Vivo](https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz) | [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [Cadeias Quebrar \(Break Every Chain\) \[Ao Vivo\]](https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz) | 7:10 |
-| 77 | [Não Paraliso](https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb) | [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Não Paraliso](https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk) | 3:16 |
-| 78 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 73 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 74 | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/track/1J0Gwf6r112PNnTz4E8BOx) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/album/2zKXw5zKtzd4eblciO5qEg) | 4:24 |
+| 75 | [Nada Pode Calar Um Adorador \(Ao Vivo\)](https://open.spotify.com/track/4ZDc1aKX8ldalXDH98i9ef) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Nada Pode Calar Um Adorador \(Ao Vivo\)](https://open.spotify.com/album/5ly8mUZMyQInjEq95eH31y) | 5:28 |
+| 76 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
+| 77 | [Cadeias Quebrar \(Break Every Chain\) \- Ao Vivo](https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz) | [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [Cadeias Quebrar \(Break Every Chain\) \[Ao Vivo\]](https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz) | 7:10 |
+| 78 | [Não Paraliso](https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb) | [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Não Paraliso](https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk) | 3:16 |
 | 79 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
 | 80 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 865 songs - 2 day 19 hr 51 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 867 songs - 2 day 20 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -873,5 +873,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 863 | [Djapana \(Sunset Dreaming\) \- Radio Mix](https://open.spotify.com/track/1YttlfnjcVeG8SN7leXjbm) | [Yothu Yindi](https://open.spotify.com/artist/5sHPYevv4ykaH79HIHqBDP) | [Tribal Voice](https://open.spotify.com/album/24taI9xwSptP27Nm9RJRvD) | 3:58 |
 | 864 | [Reshape](https://open.spotify.com/track/0iIoCfiv0dnIDdo4IQOtHP) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Reshape](https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U) | 4:39 |
 | 865 | [F Track](https://open.spotify.com/track/5nfyNPgR6kxvdFQ66PIeEB) | [Jancen](https://open.spotify.com/artist/5DEG6jf4lvaICXAUhi6BKk) | [Inner Labyrinth, Pt\. 2](https://open.spotify.com/album/1bN5nH51KiHCUe1IND90D1) | 5:53 |
+| 866 | [Love Me for Real](https://open.spotify.com/track/2lxUiTHbaoWL0opbZ6MEq2) | [Rim Kwaku Obeng](https://open.spotify.com/artist/6Y4i8HZmnyCHhrm8WZrqto), [KASA](https://open.spotify.com/artist/2wJTIRwxscEU6xYZsK4zrE) | [Too Tough / I'm Not Going to Let You Go](https://open.spotify.com/album/2VOIiBQ9gaOmF2NDzP5lDA) | 8:28 |
+| 867 | [Rock the Casbah \(Ranking Roger\)](https://open.spotify.com/track/3BlBgTuUlGKFO9EhhnJZhA) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Rock The Casbah \(Ranking Roger\)](https://open.spotify.com/album/0oLCJ91O7NIiWQmfPZhFbK) | 4:20 |
 
-Snapshot ID: `AAADz5SzdtYOvqazkmMsHIP/e6MXYWtr`
+Snapshot ID: `AAAD0Vnc/Sj8NMiAGLUl3SUinwZSCiCQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > stefanie metendo marcha e AULAS \- maat tb é porque eu rimo pt2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,132 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,980 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Respeito no Jogo](https://open.spotify.com/track/0tCBJskPo5wOMcXMmJbHFb) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Momento \(Deluxe\)](https://open.spotify.com/album/3Buob72sU30zOIsUz6JuqJ) | 2:43 |
 | 50 | [Entendeu O Que Nois Sente?](https://open.spotify.com/track/4s0JTr0WZRrQvvvRIFOMCF) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Dj Djotah](https://open.spotify.com/artist/797mYQMrtowonecvFPLoQU) | [Entendeu O Que Nois Sente?](https://open.spotify.com/album/6ddQStH1HPOsYXQfriMbAf) | 3:19 |
 
-Snapshot ID: `aC/lBgAAAAA2f2pwsOJi53+paAVyJuBP`
+Snapshot ID: `aC/lBgAAAAA8i/iUpbWucradhzEqHojC`

@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 193401,
       "name": "Balade",
       "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
@@ -11806,10 +11806,28 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
+    },
+    {
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/6TbgsJQ3DN2r621QVJTIoU"
+      },
+      "artists": [
+        {
+          "name": "Sissal",
+          "url": "https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/3RYraCZjOLm1jXudyvtPVe"
     },
     {
       "album": {
@@ -15462,7 +15480,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 176668,
       "name": "Kiss Kiss Goodbye",
       "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
@@ -24453,6 +24471,32 @@
     },
     {
       "album": {
+        "name": "PANDEMONIUM RELOADED",
+        "url": "https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Vladimir Cauchemar",
+          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+        },
+        {
+          "name": "Todiefor",
+          "url": "https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "REGULATION RELOADED",
+      "url": "https://open.spotify.com/track/1pjNXdTmwqr416hXitB2bf"
+    },
+    {
+      "album": {
         "name": "REGULATION RELOADED",
         "url": "https://open.spotify.com/album/44b9qBYsTZRtLSbZnrwcgW"
       },
@@ -24472,7 +24516,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 157714,
       "name": "REGULATION RELOADED",
       "url": "https://open.spotify.com/track/3zdnOcv3gin3astTU5UaOy"
@@ -26232,7 +26276,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 177496,
       "name": "Shh",
       "url": "https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14"
@@ -26470,7 +26514,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 97846,
       "name": "Sigma Girl",
       "url": "https://open.spotify.com/track/7bkk3wK1vAKuF07oDwzDLV"

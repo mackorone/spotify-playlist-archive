@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from mgk, Alex Warren & Jelly Roll, Burna Boy & Travis Scott, Reneé Rapp, KAROL G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,378,262 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,378,882 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 47 | [Better Than Ever \[Feat\. Wendy Moten\]](https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Wendy Moten](https://open.spotify.com/artist/6X0dG1JElAP4z0ardgJGjY) | [Room On The Porch](https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7) | 5:03 |
 | 48 | [Si Tú Me Vieras](https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 3:09 |
 | 49 | [Watchin' U](https://open.spotify.com/track/6fGSaSn3veQ0wNU8Q8cKhU) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Watchin' U](https://open.spotify.com/album/2q5RS4MQHN27EUUnfw6a32) | 3:02 |
-| 50 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate \- EP](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
+| 50 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
 | 51 | [DEYA](https://open.spotify.com/track/5Irlkjy18pG847hcN3pJtR) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DEYA](https://open.spotify.com/album/6DrhGVMKEswgZdbmlsL7ga) | 2:56 |
 | 52 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 |
 | 53 | [JAN\. 31st \(my truth\)](https://open.spotify.com/track/7su15iEo8LuZnZRDFdtsZw) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [JAN\. 31st \(my truth\)](https://open.spotify.com/album/3lp8jGNG5n5N0ALuNZH2v1) | 2:49 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 61 | [Doonies](https://open.spotify.com/track/20q3k9ApOXMEQQbte9zGfC) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Doonies](https://open.spotify.com/album/1vZvyqDmrjD8QqENx3mjjL) | 2:17 |
 | 62 | [DNA](https://open.spotify.com/track/7BY3cDT9ARKMB7ECDhfKCj) | [Kyra Machida](https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6) | [DNA](https://open.spotify.com/album/74gYKkxvKyV6VS69V4QBq9) | 2:03 |
 | 63 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 |
-| 64 | [left to right \(feat\. 2hollis\)](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right \(feat\. 2hollis\)](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 |
+| 64 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 |
 | 65 | [Take It! Take It!](https://open.spotify.com/track/11Uoi1YLyhhhf8BgEpQ4dh) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Take It! Take It!](https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC) | 3:16 |
 | 66 | [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 |
 | 67 | [Fly Up](https://open.spotify.com/track/0S24FhekyRbihACHFwgPjs) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw) | 2:58 |

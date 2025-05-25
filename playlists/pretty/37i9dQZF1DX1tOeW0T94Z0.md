@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Melanie Fiona
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,698 likes - 59 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,699 likes - 59 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

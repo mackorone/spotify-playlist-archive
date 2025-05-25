@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-369 songs - 21 hr 16 min
+370 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-08-15 | 2024-09-27 |
 | [Allting blir bra](https://open.spotify.com/track/4FweMnXDJSEs6tciVzBerT) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [Allting blir bra](https://open.spotify.com/album/6zemClBcSflGzjqB8K2LYR) | 2:39 | 2025-05-15 | 2025-05-23 |
 | [Allting som vi har](https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Allting som vi har](https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY) | 3:12 | 2025-04-24 |  |
+| [Andetag](https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2) | [Milly](https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j) | [Andetag](https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o) | 3:35 | 2025-05-22 |  |
 | [Andra Människor](https://open.spotify.com/track/0dDYfyfGJuvitw2nD1gsv5) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Andra Människor](https://open.spotify.com/album/2dIu1oVslVt4jnqgcArKNL) | 2:42 | 2025-03-13 | 2025-03-21 |
 | [Ansiktenas mystik](https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr), [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Frostvikskören](https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA) | [Ansiktenas mystik](https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ) | 3:20 | 2025-04-24 |  |
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-14 |
@@ -86,7 +87,7 @@
 | [Du är inte ensam](https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz) | [Michael Jeff Johnson](https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Du är inte ensam](https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu) | 3:11 | 2024-09-19 | 2024-10-08 |
 | [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 |  |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-29 |
-| [Eller hur](https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j) | [David Urwitz](https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8) | [Eller hur](https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i) | 3:14 | 2025-05-15 |  |
+| [Eller hur](https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j) | [David Urwitz](https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8) | [Eller hur](https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i) | 3:14 | 2025-05-15 | 2025-05-25 |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-08-16 |
 | [En bruten fjäder](https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Fleshquartet](https://open.spotify.com/artist/4lB4GxfCWC7Hhlzb20lhCg) | [En bruten fjäder](https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj) | 4:05 | 2024-08-08 | 2024-09-17 |
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 |  |

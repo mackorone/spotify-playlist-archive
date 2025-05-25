@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,455 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,511 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [TOUJOURS GNAN \- Remix](https://open.spotify.com/track/0BwKs1SMsguiJiHTGf4fi0) | [Nyerky](https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC), [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [TOUJOURS GNAN \(Remix\)](https://open.spotify.com/album/7GRtAtq7ou6dhO1cCghrdS) | 2:50 |
 | 40 | [Reste Là Bas](https://open.spotify.com/track/6yax3hE8ZZ4TvtdhWqjahI) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Reste Là Bas](https://open.spotify.com/album/42lwVZ4BrzvOWlImQgrYCd) | 3:05 |
 
-Snapshot ID: `AAAAAJMEOBOqKtT/tXH7+1HyycbkMdny`
+Snapshot ID: `aC+eiAAAAADY9buqAvbkWugfeltxXrWX`

@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-148 songs - 8 hr 0 min
+149 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Sehnsucht](https://open.spotify.com/track/6wcowdOhO7yK8wZPEkNZLb) | [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Sixteen Pieces for Piano](https://open.spotify.com/album/4uQBDoNTE2UZPaZxAUdxZH) | 3:53 | 2020-02-27 |  |
 | [Serenity \(O Magnum Mysterium\)](https://open.spotify.com/track/4KyWhfjN8u1SdlLvzLM5uQ) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [World Choir for Peace](https://open.spotify.com/artist/2cyC1jphTBWbcf4l72v3c7), [Nicol Matt](https://open.spotify.com/artist/6yAWv145sy4X8JuioX2niU) | [Peaceful Choir \- New Sound of Choral Music](https://open.spotify.com/album/40sIUuZT31POhNv4lCtUkB) | 5:21 | 2020-12-01 |  |
 | [Serse, HWV 40: Ombra mai fu \(Arr\. for Piano\)](https://open.spotify.com/track/4hXTipbLUjuqlZrtJBCAMz) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Serse, HWV 40: Ombra mai fu \(Arr\. for Piano\)](https://open.spotify.com/album/2SE912KEoV2SmKNUrO1FPO) | 2:47 | 2019-11-01 |  |
+| [Seuls](https://open.spotify.com/track/6bmSDTpDpOdl9kLA3p6S1n) | [Thomas Horeczko](https://open.spotify.com/artist/45hfjgJ2kOKtAhKIHLpTZX), [Stéphane Horeczko](https://open.spotify.com/artist/1t3wHfR1IXybR0wztmjkyG), [Braths](https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd) | [Seuls](https://open.spotify.com/album/0NOAGelOYr8fjnjZ1nCw1K) | 2:48 | 2025-05-24 |  |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-10-09 |  |
 | [Sonata in D Minor, K\. 32](https://open.spotify.com/track/1aiFOWKIFMFh4QZxgAAZH2) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [Scarlatti: 52 Sonatas](https://open.spotify.com/album/2c60OxSO01uGsMyTaO9sB2) | 2:43 | 2019-11-09 |  |
 | [Song of the Birds](https://open.spotify.com/track/6tjMGof9L2z61y2MtTN8fS) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Prayer](https://open.spotify.com/album/6BA0uvfekY4KsPqo0nZWjg) | 3:42 | 2020-01-22 |  |

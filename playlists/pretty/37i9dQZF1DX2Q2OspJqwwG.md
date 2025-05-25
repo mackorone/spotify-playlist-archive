@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,709 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,714 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 26 | [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 27 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 28 | [Aer](https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Aer](https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU) | 2:58 |
-| 29 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
-| 30 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
+| 29 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
+| 30 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
 | 31 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
 | 32 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 33 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 86 | [Cine N\-a Gresit Vreodata](https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Cine N\-a Gresit Vreodata](https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh) | 3:18 |
 | 87 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
 | 88 | [Echo](https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Echo](https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf) | 2:58 |
-| 89 | [Eu Iubesc Doua Femei](https://open.spotify.com/track/283LEYpx54VjkdHTdtleR0) | [Copilul De Aur](https://open.spotify.com/artist/3Ols0qSo3Jy6JXsuzpFvIw) | [Talente Fara Numar Cu Dan Bursuc](https://open.spotify.com/album/4ijAzDwDQvjgLKqAzD3UdJ) | 3:35 |
-| 90 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
+| 89 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
+| 90 | [Eu Iubesc Doua Femei](https://open.spotify.com/track/283LEYpx54VjkdHTdtleR0) | [Copilul De Aur](https://open.spotify.com/artist/3Ols0qSo3Jy6JXsuzpFvIw) | [Talente Fara Numar Cu Dan Bursuc](https://open.spotify.com/album/4ijAzDwDQvjgLKqAzD3UdJ) | 3:35 |
 | 91 | [Încă Ne Iubim](https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Încă Ne Iubim](https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi) | 2:55 |
 | 92 | [ZODIAC](https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [ZODIAC](https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN) | 3:16 |
 | 93 | [Africa](https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [Africa](https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys) | 2:25 |

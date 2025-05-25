@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: DIIV
 
-305 songs - 19 hr 50 min
+306 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-13 |  |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-06-14 | 2025-03-22 |
 | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/track/4J5zalm3Wa04SZ9g3wy1s1) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Las Palabras](https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls) | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/album/3pvzgOeKcyPUOmAsaVB5tH) | 3:46 | 2025-03-21 | 2025-05-17 |
-| [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 | 2025-02-13 |  |
+| [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 | 2025-02-13 | 2025-05-25 |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-01-31 |  |
 | [Backseat Banton](https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Backseat Banton](https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg) | 3:31 | 2025-02-13 | 2025-04-21 |
 | [barefeet](https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa) | [Gal Go](https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [C los lentos](https://open.spotify.com/album/3rJddPnSqEFGp3ajwYvwoJ) | 2:28 | 2025-05-08 |  |
@@ -177,6 +177,7 @@
 | [Lost Ones](https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Dr\. Dog](https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl) | 4:30 | 2024-08-14 | 2025-01-17 |
 | [Lotta Love](https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Lotta Love](https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0) | 2:49 | 2025-02-07 |  |
 | [Love Insurrection \- Edit](https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 3:32 | 2024-07-18 | 2024-10-20 |
+| [Lover](https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lover](https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy) | 3:40 | 2025-05-23 |  |
 | [Lovers' Leap](https://open.spotify.com/track/1p8mrJtkM4KFa72LLQy2yP) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lovers' Leap](https://open.spotify.com/album/6AAd32SmYdG4DTBIEuHFbp) | 4:34 | 2024-06-14 | 2024-07-12 |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-08-14 |  |
 | [Mad Catch](https://open.spotify.com/track/27a1HBHlfXd1o1yEzJd8iy) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Glutton For Punishment](https://open.spotify.com/album/2h0EkMbH3XWfdnA1yEzxLT) | 3:10 | 2025-02-07 | 2025-03-28 |

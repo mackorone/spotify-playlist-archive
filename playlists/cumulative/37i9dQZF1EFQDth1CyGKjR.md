@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-459 songs - 1 day 5 hr 49 min
+461 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Pusher Love Girl](https://open.spotify.com/track/773hekg7UEdbGvv3lJ3CmV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:02 | 2024-01-29 |  |
 | [Put It Down](https://open.spotify.com/track/1VHHUluaVgPfxNmSUXcXAC) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Red Gone Wild](https://open.spotify.com/album/6By53is534hLrE8PLSVjt5) | 3:22 | 2024-01-29 |  |
 | [Ragdoll](https://open.spotify.com/track/3J1RMl75ckssYWVMQ2qizb) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Bittersweet World](https://open.spotify.com/album/2IbtirZUDqZxClEtPM9VFc) | 3:34 | 2024-01-29 |  |
+| [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 | 2025-05-24 |  |
 | [Ratchet Commandments](https://open.spotify.com/track/0M4KUBbCImDbHGbkY3dW99) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Ratchet Commandments](https://open.spotify.com/album/14igBxQ1QJVO4UAvG7oSQQ) | 3:11 | 2024-01-29 |  |
 | [Rearview \(Ridin'\)](https://open.spotify.com/track/1SuSHmy2ePWYc9R1MD0dhN) | [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Special Occasion](https://open.spotify.com/album/4Jl5Uv4z8eRnRq1DB6CVra) | 3:46 | 2024-01-29 |  |
 | [Rehab](https://open.spotify.com/track/4sFRAkllCBqIa08boTHX5A) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:54 | 2024-01-29 |  |
@@ -406,6 +407,7 @@
 | [Tomorrow In The Bottle \(Featuring Chad Kroeger & Sebastian\)](https://open.spotify.com/track/7vqG2ll4T01lH53YJ9wNSF) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Sebastian](https://open.spotify.com/artist/6XVMtRHN03nQXr3dshNGsf) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 5:27 | 2024-01-29 |  |
 | [Too Much](https://open.spotify.com/track/3ZaSMRVrDpi3ICBEWw7DPL) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Too Much](https://open.spotify.com/album/7if5rDrkxrCxQWEwOBCUDm) | 3:04 | 2024-01-29 | 2024-02-02 |
 | [Too Much \(feat\. Timbaland\)](https://open.spotify.com/track/2bkNIMseHRfLidQqpXGsBx) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:07 | 2024-01-29 |  |
+| [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-05-24 |  |
 | [Triple Threat \(feat\. Timbaland\)](https://open.spotify.com/track/02fKidXA8lWk38bdTFu6mt) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Triple Threat \(feat\. Timbaland\)](https://open.spotify.com/album/07O9lgZoRDFTsPxrGUY86l) | 3:41 | 2024-01-29 |  |
 | [True Blood](https://open.spotify.com/track/2zgixZ9dKXRTYaDlbKWcqO) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \- 2 of 2 \(Deluxe\)](https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU) | 9:31 | 2024-01-29 |  |
 | [Tryna Wife \(feat\. Timbaland & Mase\)](https://open.spotify.com/track/2qENDE1Ua7TxBgCiiEBcBg) | [Jo'zzy](https://open.spotify.com/artist/6tFKdr2jnsXP6aeFc8V5No), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Tryna Wife \(feat\. Timbaland & Mase\)](https://open.spotify.com/album/2uRKJ6cvNkmT4pL8ggkG5p) | 4:19 | 2024-01-29 | 2024-12-12 |

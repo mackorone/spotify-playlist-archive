@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-418 songs - 22 hr 39 min
+419 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2021-11-19 | 2022-01-08 |
 | [Follow Me \- Blanke Remix](https://open.spotify.com/track/4vyuKMu7g0QviiOCYzhhjW) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Follow Me \(Blanke Remix\)](https://open.spotify.com/album/7wHmCiBY8g7oFQQuIuwyZe) | 4:25 | 2021-11-19 | 2022-01-08 |
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-01-08 |
-| [Forcefield](https://open.spotify.com/track/6KxayQc9tOaUAQQyThB5Tl) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Darkstar](https://open.spotify.com/album/1BFdYawImsAcojUrL3I9Km) | 3:52 | 2025-05-09 |  |
+| [Forcefield](https://open.spotify.com/track/6KxayQc9tOaUAQQyThB5Tl) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Darkstar](https://open.spotify.com/album/1BFdYawImsAcojUrL3I9Km) | 3:52 | 2025-05-09 | 2025-05-25 |
 | [Forever](https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Forever](https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 | 2024-01-12 | 2024-02-13 |
 | [Fuck It Up](https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [Fuck It Up](https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3) | 2:12 | 2025-01-07 |  |
@@ -399,6 +399,7 @@
 | [Uncaged](https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Prosecute](https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T) | [Uncaged](https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07) | 2:30 | 2024-08-16 |  |
 | [Underside](https://open.spotify.com/track/3uYVpgs8C0PFVV8DD4QCX6) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Hypogeal](https://open.spotify.com/album/7ze94wo3XfJSPTKDM5nchQ) | 2:09 | 2021-11-19 | 2022-01-08 |
 | [Undo \- AWAY Remix](https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [NOVA \(The Remixes, Vol\. 1\)](https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE) | 3:32 | 2021-11-19 | 2023-07-15 |
+| [Up Top](https://open.spotify.com/track/69kk00cqircAGyCr4VhSGf) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Up Top](https://open.spotify.com/album/02dhPSTWLTNeVjyplTQBiG) | 3:21 | 2025-05-23 |  |
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-25 | 2023-03-30 |
 | [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2022-01-07 | 2024-06-01 |
 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 | 2021-11-19 | 2025-04-02 |

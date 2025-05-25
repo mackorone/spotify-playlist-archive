@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa HUGO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,936 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,951 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Väärään ihmiseen](https://open.spotify.com/track/2x4xLxN2y6c7yUhK9Sxzpq) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Väärään ihmiseen](https://open.spotify.com/album/1JO9UvzcMtrJJ2nh5Pf7vk) | 2:07 |
 | 2 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
 | 3 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
-| 4 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 |
-| 5 | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/track/1kBB8qSrHeJD2lewCGhS2C) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/album/3GH3dqxxpqXo0763qfZR29) | 2:52 |
+| 4 | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/track/1kBB8qSrHeJD2lewCGhS2C) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/album/3GH3dqxxpqXo0763qfZR29) | 2:52 |
+| 5 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 |
 | 6 | [Ylibuukattu](https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Ylibuukattu](https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh) | 2:49 |
 | 7 | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/track/2OM9fc7sOAdQX2gt5a4PSB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/album/55FzsBDx6O1NbBGjYNhYLv) | 3:36 |
 | 8 | [Vastalääke \(feat\. Etta\)](https://open.spotify.com/track/35IfC9JlQTKhz93mGRLl14) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Vastalääke \(feat\. Etta\)](https://open.spotify.com/album/0P63Euv9xv2KtazXz1MlXj) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [AURA](https://open.spotify.com/track/4t8h8yMNmBpeHQYi8FfIUI) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [AURA](https://open.spotify.com/album/42KcHxSUIFwxvj72vIuOjf) | 2:10 |
 | 50 | [12 Am in Jynkkä](https://open.spotify.com/track/54qRUQdRIxduFlVgaVu7Pg) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [12 Am in Jynkkä](https://open.spotify.com/album/2feltjnungFuF0cqLtI37r) | 2:32 |
 
-Snapshot ID: `aC+QqQAAAADnQbc2TQgXofUeOAZw6+ca`
+Snapshot ID: `aDIZdAAAAAAAJpHOabS9pu3Sz7vc450p`

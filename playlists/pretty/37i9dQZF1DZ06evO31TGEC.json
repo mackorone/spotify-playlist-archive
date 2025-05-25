@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50498,
+  "num_followers": 50518,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC5pAAAAAADuPKVRyrWxiweRPtVDzlMx",
+  "snapshot_id": "aC+6gAAAAAAoR+gkVdNgGUsbqf1yx30w",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triunfador",
         "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
       },
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hola Mi Amor (Version Banda)",
-        "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 181816,
-      "name": "Hola Mi Amor (Version Banda)",
-      "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
     },
     {
       "added_at": null,
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "Hola Mi Amor (Version Banda)",
+        "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+      "duration_ms": 181816,
+      "name": "Hola Mi Amor (Version Banda)",
+      "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 139075,
       "name": "Andamos Borrachos",
       "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
     },
     {
       "added_at": null,

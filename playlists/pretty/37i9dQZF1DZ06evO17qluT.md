@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,083 likes - 44 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,158 likes - 44 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 26 | [Em nome do que sinto](https://open.spotify.com/track/34A67HYwwe91CyLaNVQ6JG) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:26 |
 | 27 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
 | 28 | [Amor](https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 2:32 |
-| 29 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 |
-| 30 | [Cidade do Pecado](https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:31 |
+| 29 | [Cidade do Pecado](https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:31 |
+| 30 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 |
 | 31 | [Caminhos](https://open.spotify.com/track/2m1ecu2OlaHCXJQP7EJauN) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 2:47 |
 | 32 | [Titãs](https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:54 |
 | 33 | [Pessoas](https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 3:37 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 43 | [Visão Ampla](https://open.spotify.com/track/6SmZgYXem0UdN5vye7h4r5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
 | 44 | [Julius](https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:11 |
 
-Snapshot ID: `aC5pAAAAAAA8vUKegTxUebdqnUgS2Yhe`
+Snapshot ID: `aC+6gAAAAAC2MQ+ypyXMbaxh+461ubKt`

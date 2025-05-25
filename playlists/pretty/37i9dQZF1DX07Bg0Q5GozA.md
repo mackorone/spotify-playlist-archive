@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Parcels
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,248 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,219 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Feels Right \- Edit](https://open.spotify.com/track/0ULAXPoHzAuMZzDhnjXFkl) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Feels Right](https://open.spotify.com/album/6bKs2rxX1xwhNYdl1awII4) | 2:25 |
 | 75 | [tagesanbruch](https://open.spotify.com/track/0lKQ8gAUZxOvcifiyC9lFO) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH), [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [tagesanbruch](https://open.spotify.com/album/6nyOnLizny7SotOf76OwpB) | 3:17 |
 
-Snapshot ID: `aC+edwAAAABlklDRX8DecXgZ6+tpGU2F`
+Snapshot ID: `aC+edwAAAABBlHAS63x4TWUESy+atpHx`

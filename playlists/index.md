@@ -1,4 +1,4 @@
-## Playlists \(8508\)
+## Playlists \(8509\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4884,6 +4884,7 @@
 - [Relaxing Massage](/playlists/pretty/37i9dQZF1DXebxttQCq0zA.md)
 - [Relaxing Movie Covers](/playlists/pretty/37i9dQZF1DWThHdjM0lPOq.md)
 - [Relaxing Mozart](/playlists/pretty/37i9dQZF1DX8qVlPzYQL5d.md)
+- [Relaxing Music for Dogs](/playlists/pretty/37i9dQZF1DX9Mifz3ChtcR.md)
 - [Relaxing Piano Covers](/playlists/pretty/37i9dQZF1DWSADWNdZfn11.md)
 - [Relaxing Ragas](/playlists/pretty/37i9dQZF1DX0TD2wVgaeIq.md)
 - [Relaxing Reading](/playlists/pretty/37i9dQZF1DX3DZBe6wPMXo.md)

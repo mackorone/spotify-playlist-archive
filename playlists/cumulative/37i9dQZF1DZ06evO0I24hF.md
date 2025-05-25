@@ -26,7 +26,7 @@
 | [Sugar Water](https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:03 | 2025-04-27 |  |
 | [Survivor’s Guilt](https://open.spotify.com/track/23oITSO5PXFaUijWrodzPq) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 1:20 | 2025-04-27 | 2025-05-13 |
 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 | 2025-04-26 |  |
-| [Twister](https://open.spotify.com/track/2T7pgYmGAAiRuF8FI4JyuI) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 2:44 | 2025-04-27 |  |
+| [Twister](https://open.spotify.com/track/2T7pgYmGAAiRuF8FI4JyuI) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 2:44 | 2025-04-27 | 2025-05-25 |
 | [When She Smiles](https://open.spotify.com/track/46sYl0o21xmXFK1a3y94Ha) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:53 | 2025-04-26 |  |
 
 \*This playlist was first scraped on 2025-04-26. Prior content cannot be recovered.

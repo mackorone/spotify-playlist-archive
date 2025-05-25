@@ -4,7 +4,7 @@
 
 > raw feels,  emotional beats to cry out to ☁️❤️‍🩹
 
-227 songs - 8 hr 51 min
+228 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 | 2025-03-13 |  |
 | [\[oops\]](https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy) | 2:22 | 2023-02-16 | 2023-11-30 |
 | [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 | 2024-09-03 | 2025-03-14 |
+| [After Dark](https://open.spotify.com/track/0d4im1rOqUqrhGcYWVNnbV) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [After Dark](https://open.spotify.com/album/6NGnOzjOKmoSWNoMsBuqlq) | 2:14 | 2025-05-21 |  |
 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 | 2023-02-16 | 2023-11-30 |
 | [amethyst](https://open.spotify.com/track/0sAOhw3tv1rzpfi1tiRKQL) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [amethyst](https://open.spotify.com/album/4cxQp2Q5D5nRvl2wH3q7X0) | 2:12 | 2025-04-18 |  |
 | [an endless spring](https://open.spotify.com/track/0XIFV4GDAm0eGSpzDQgU5o) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [an endless spring](https://open.spotify.com/album/0EYe6j5EaDj1E4pi2XkYLa) | 1:52 | 2025-04-18 | 2025-05-22 |
@@ -76,7 +77,7 @@
 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 | 2023-02-16 | 2023-07-07 |
 | [French Inhale](https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [444](https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j) | 1:48 | 2023-02-16 | 2023-11-30 |
 | [Frequencies](https://open.spotify.com/track/0A11UBR4MR27eUYZxhqTlW) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [Frequencies](https://open.spotify.com/album/0BXSPoKppxpUJmHO7HIdRc) | 1:52 | 2025-05-21 |  |
-| [Frequency](https://open.spotify.com/track/0vUGOJ60caBjtw5T8mG8xC) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Frequency](https://open.spotify.com/album/6YMU1IvOsXHLXTrWLKTSVI) | 2:25 | 2025-05-21 |  |
+| [Frequency](https://open.spotify.com/track/0vUGOJ60caBjtw5T8mG8xC) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Frequency](https://open.spotify.com/album/6YMU1IvOsXHLXTrWLKTSVI) | 2:25 | 2025-05-21 | 2025-05-25 |
 | [Fresh Air](https://open.spotify.com/track/4LOyXdINtMw2gCoVdXWJ4y) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Fresh Air](https://open.spotify.com/album/3jlc6xabhwLfEXXKI2CBo2) | 2:29 | 2025-04-18 | 2025-05-22 |
 | [frost](https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd) | [Griffin' Groove](https://open.spotify.com/artist/24NgW9lCc4H75rz6nrfpzD) | [frost](https://open.spotify.com/album/09z9j5sgQR4FjntLAgjqV0) | 2:40 | 2023-10-27 | 2024-05-14 |
 | [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 | 2019-03-27 | 2024-05-14 |

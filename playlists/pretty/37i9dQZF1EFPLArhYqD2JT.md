@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,462 likes - 381 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463 likes - 381 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 73 | [Let's Take an Old\-Fashioned Walk \- Version 1](https://open.spotify.com/track/0dCjNEdMmpbMVtTC3e9Xfi) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Ken Lane Singers](https://open.spotify.com/artist/0TPlgv7eySSCChc2vKRIml), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:59 |
 | 74 | [You're Lonely And I'm Lonely](https://open.spotify.com/track/2fH552dhncLHdfURr9ko3Z) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:10 |
 | 75 | [Song Of Freedom](https://open.spotify.com/track/58UUyDTPGYj7GFGnt81YHD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:22 |
-| 76 | [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/4r6xwq5p4Zv6qjJdmnvCZg) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 3:30 |
-| 77 | [A Pretty Girl Is Like a Melody](https://open.spotify.com/track/1mOxxz4NivPp5pfx2NR09S) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [The One in the World](https://open.spotify.com/album/3LGgkqfgSiNQHWgxjYFqq5) | 3:04 |
+| 76 | [A Pretty Girl Is Like a Melody](https://open.spotify.com/track/1mOxxz4NivPp5pfx2NR09S) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [The One in the World](https://open.spotify.com/album/3LGgkqfgSiNQHWgxjYFqq5) | 3:04 |
+| 77 | [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/4r6xwq5p4Zv6qjJdmnvCZg) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 3:30 |
 | 78 | [When I Lost You](https://open.spotify.com/track/0dHf2BlrhDydLgZwzCMIga) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [All Alone](https://open.spotify.com/album/6msngKGFNEXcVOPdnqtyIp) | 3:42 |
 | 79 | [Abraham](https://open.spotify.com/track/6d7HdOZVrflcNvKorLDlwk) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:45 |
 | 80 | [Everybody Knew But Me](https://open.spotify.com/track/304mMo0hMnZmsqQUhtN4zE) | [Irene Kral](https://open.spotify.com/artist/5O996HwuG2b83Wa7obBtgE) | [The Band And I](https://open.spotify.com/album/0Tl7qdYlNoocwvWxyGQm5m) | 2:00 |
@@ -390,4 +390,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 380 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 381 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AbyNoAAAAADHWFOQ8LGGPuknaJalvF1L`
+Snapshot ID: `AbyTQAAAAAD2DKDxFJs0yY0+Akuwwnxm`

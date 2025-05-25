@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Dan Mangan
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,718 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,722 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It Might Be Raining](https://open.spotify.com/track/145lUae1lkz99tKcwwEK9x) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Natural Light](https://open.spotify.com/album/5mbEX4VVc8PY11n3RPqrGT) | 5:42 |
 | 2 | [Beg, Steal, Borrow](https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Aperture](https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM) | 4:05 |
 | 3 | [Oh No! \- Edit](https://open.spotify.com/track/6WNz0P5M39PYy06ujl54Ku) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Oh No! \(Edit\)](https://open.spotify.com/album/1bRxGv1rHtNJmVb6pOXHkv) | 3:26 |
-| 4 | [I Saw the Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw the Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
+| 4 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 5 | [Hikikomori](https://open.spotify.com/track/2MnwEZniGPiDXSeMQYqvJM) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [JVC](https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry) | 3:29 |
 | 6 | [Wild and Clear and Blue](https://open.spotify.com/track/6OIvQ2YzNJ2tckkVkUqieI) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Wild and Clear and Blue](https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV) | 3:35 |
 | 7 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |

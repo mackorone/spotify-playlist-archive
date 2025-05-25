@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 20 | [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 |
 | 21 | [What I Know Now](https://open.spotify.com/track/4TdvTst17a1sB4nFgEgMC1) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [What I Know Now](https://open.spotify.com/album/6CEcy25megcuYifhqxgzkn) | 3:04 |
 | 22 | [Show Me](https://open.spotify.com/track/4U9O5yQAIxi4GsZGhcRXsS) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Show Me](https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04) | 3:40 |
-| 23 | [Energy](https://open.spotify.com/track/6T5wFYTKuMntiTXXR5Efbs) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Energy](https://open.spotify.com/album/4AiRfctFktplV3Xdnv8DkQ) | 3:55 |
-| 24 | [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 |
+| 23 | [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 |
+| 24 | [Energy](https://open.spotify.com/track/6T5wFYTKuMntiTXXR5Efbs) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Energy](https://open.spotify.com/album/4AiRfctFktplV3Xdnv8DkQ) | 3:55 |
 | 25 | [WATR](https://open.spotify.com/track/0a4BrUFx3UGrK5LYiWfSHr) | [REGN](https://open.spotify.com/artist/6Wis87yBDzJkmiRxsqRNIL) | [WATR](https://open.spotify.com/album/4HB2HMHQoVw9py2VLy7Ke9) | 2:56 |
 | 26 | [Arm’s Length](https://open.spotify.com/track/4SR5sDCQfNlum4GSzexVKA) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF) | 3:28 |
 | 27 | [Watching Her Heartbreak](https://open.spotify.com/track/0PUUGNXMaLZBH6t6yaXamS) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Watching Her Heartbreak](https://open.spotify.com/album/1WEBLiRsDq6bStgx7fxLG1) | 3:03 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 52 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 53 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `AbyNtAAAAAAEu5wQd7DKxHdrN4zefe/F`
+Snapshot ID: `AbyTQAAAAAD7uo7nnS1zbjOIKQa7Tg7h`

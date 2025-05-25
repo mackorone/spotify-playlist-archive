@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-187 songs - 10 hr 45 min
+189 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Kill This One](https://open.spotify.com/track/5NbFbe66RsQv3dhx3IN0cW) | [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE), [Shiv Dhudh](https://open.spotify.com/artist/3amVtokf1U2Ogccwm9ySh3) | [Kill This One](https://open.spotify.com/album/3dnYSrjFds9C75dEq2xS2W) | 3:26 | 2024-12-29 | 2025-03-05 |
 | [Kudikaran Pechi](https://open.spotify.com/track/2ulkg8TKWtJXgaCFRFHL60) | [Charles Bosco](https://open.spotify.com/artist/2aZMJZvvSb072ZPDKRmep1), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Kudikaran Pechi](https://open.spotify.com/album/2RtIQrxomTxkNGWkaybPZh) | 2:00 | 2025-01-10 |  |
 | [Lady Superstar \(from the Netflix Documentary “Nayanthara: Beyond the Fairy Tale"\)](https://open.spotify.com/track/4KDNHea3R68RjE6AiF8P6P) | [Prashanth Techno](https://open.spotify.com/artist/4JFVZaGeqeKsZTec9xdUwc), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu) | [Lady Superstar \(from the Netflix Documentary “Nayanthara: Beyond the Fairy Tale"\)](https://open.spotify.com/album/0CMOsym2DDKqYOvnOqR5dC) | 2:01 | 2024-12-29 | 2025-01-28 |
+| [Let's Play](https://open.spotify.com/track/329hLnLm3VVSPr0kNCsjLn) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Thug Life \(Tamil\)](https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb) | 2:39 | 2025-05-24 |  |
 | [Local Jackson ft\. Bigson](https://open.spotify.com/track/1yhe3XaZ10k5AqA6oeze94) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Valliamma Peraandi \- Vol\. 01](https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG) | 2:34 | 2024-12-29 | 2025-02-07 |
 | [Loosu Pennae](https://open.spotify.com/track/3hw1iGc2WAhHG4DFPcu80r) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6iS9GfnmK3wYwVQ8UyBBqu) | 6:47 | 2022-02-08 | 2024-12-29 |
 | [Loosu Pennae](https://open.spotify.com/track/10LfH6Hkt06jYjXo8FGecm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Nphl3LN3A0kEoFKyH6ZLj) | 6:51 | 2022-02-08 | 2023-05-14 |
@@ -114,6 +115,7 @@
 | [Never Give Up](https://open.spotify.com/track/6b5UY3VnSSk6J0YJwXX9QP) | [Emcee D](https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8) | [Never Give Up](https://open.spotify.com/album/6dLC0hWQXl6wxKn9pe2ocu) | 2:57 | 2024-12-29 | 2025-03-01 |
 | [New New](https://open.spotify.com/track/66CpgrXpLtDP1wbjeORSiR) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA) | [New \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lSHxgW0lRa31h5tQINBik) | 4:32 | 2022-02-08 | 2025-02-18 |
 | [NUMBER ONE](https://open.spotify.com/track/6iWQenGWiDF0QVoNRkZ6rK) | [MC Sanna](https://open.spotify.com/artist/79U8u5jWzt6NFUlwgMMGT0) | [NUMBER ONE](https://open.spotify.com/album/42ddGW74E6sm0QVjUyxOs0) | 3:35 | 2025-05-09 |  |
+| [O Maara](https://open.spotify.com/track/3sG4RswV6U2zpFppUGv2b8) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Thug Life \(Tamil\)](https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb) | 3:00 | 2025-05-24 |  |
 | [OCB](https://open.spotify.com/track/6YkExZc1NrbT2nLnyhmqcc) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [OCB](https://open.spotify.com/album/0hkZovevxAVmLj0zec6CE4) | 3:04 | 2024-12-29 |  |
 | [Olalai \- From 'Atti Culture'](https://open.spotify.com/track/2nbjJxiBedH58K9Os9Duef) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Olalai \(From 'Atti Culture'\)](https://open.spotify.com/album/10GVrPFNC9zO4TyMskrYrf) | 3:05 | 2025-03-17 |  |
 | [Ondiya](https://open.spotify.com/track/68QSyfoa5A4Az1sWykepn5) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Ondiya](https://open.spotify.com/album/2Qjr9KkndM8S2PKGs0xPpE) | 2:09 | 2024-12-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Carin Leon & Maluma, KAROL G, Alejandro Sanz & Shakira and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,994 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,108 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 24 | [Niña Mía](https://open.spotify.com/track/2zLl44y8k324ML18Jcpre8) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [No Le Creas a Tu Cabeza \(Cuando T Diga Que No Mereces Eso Que Tú Hiciste Realidad\)](https://open.spotify.com/album/51B03yAKFGkkk2uFFkJDeI) | 2:30 |
 | 25 | [Me Mataron](https://open.spotify.com/track/7dyDDYCVEv4Lpj1IAQTg8N) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [El Blachy](https://open.spotify.com/artist/7eUSP77ZhnXleSue48JWiT) | [Me Mataron](https://open.spotify.com/album/2mc2AZk6kMwALztbrUETMN) | 3:33 |
 | 26 | [Café de Barcelona](https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Café de Barcelona](https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c) | 2:38 |
-| 27 | [Como Ella Ya no Hay](https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Como Ella Ya no Hay](https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH) | 3:40 |
+| 27 | [Como Ella Ya No Hay](https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Como Ella Ya No Hay](https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH) | 3:40 |
 | 28 | [PLAYA ÑAOTEVIA](https://open.spotify.com/track/2H4V2pWq2Nvu1IR9mCZRvw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [PLAYA ÑAOTEVIA](https://open.spotify.com/album/54CVY89ugGiyxs7A9b7yqT) | 2:55 |
 | 29 | [La Gata y El Ratón](https://open.spotify.com/track/6snDVosDpGehEanyE1lAQI) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Gata y El Ratón](https://open.spotify.com/album/7Hf4SjHlVozaNRJr708tXl) | 3:01 |
 | 30 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Ojalá \(Mi Hoodie\)](https://open.spotify.com/track/6YXygjn1doxfPoBHNfOKua) | [Ryan Roy](https://open.spotify.com/artist/1AOGBBCrfDl7hJ9HUVKXwq) | [Ojalá \(Mi Hoodie\)](https://open.spotify.com/album/79uitrq8da7VQy6DRXnxO7) | 2:30 |
 | 50 | [777AM](https://open.spotify.com/track/7l1izIrR2fy3Px1GihGeMn) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [777AM](https://open.spotify.com/album/2pfnFVUJtSNbD6CtqiaQkn) | 2:34 |
 
-Snapshot ID: `aDDBHgAAAAB4eN3RCfsHE0cDXruJ7Vp7`
+Snapshot ID: `AAAAAL/cE3nbTFf8yOFHYvPzL7aRFoua`

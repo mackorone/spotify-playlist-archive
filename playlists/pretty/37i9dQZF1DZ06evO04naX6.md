@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,145 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,164 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Te Suelto El Pelo / Dembow Medley \- Sinfónico En Vivo](https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:25 |
 | 50 | [Noche Y De Dia](https://open.spotify.com/track/1lD3UtE3IVQGpSw7JL11BZ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [SEX AND LOVE](https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w) | 3:42 |
 
-Snapshot ID: `aC5pAAAAAABAutEy+i7JfGUzuKIxgYDe`
+Snapshot ID: `aC+6gAAAAABh+mdNqOJfmFDv70gbCnZx`

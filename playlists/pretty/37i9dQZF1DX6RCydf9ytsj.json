@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 682459,
+  "num_followers": 682668,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Best Of Kenny Rogers: Through The Years",
-        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+        "name": "The Best Of Kenny Rogers: Through The Years",
+        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+      "duration_ms": 262079,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -779,22 +779,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+        "name": "Me And The Boys",
+        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
       },
       "artists": [
         {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        },
-        {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 236626,
-      "name": "Meet Me In Montana",
-      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+      "duration_ms": 221706,
+      "name": "Drinkin' My Baby Goodbye",
+      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -831,6 +827,26 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        },
+        {
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Meet Me In Montana",
+      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 231026,
       "name": "Seven Spanish Angels (with Ray Charles)",
       "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Me And The Boys",
-        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Drinkin' My Baby Goodbye",
-      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "The Best Of Michael Martin Murphey",
         "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 187066,
       "name": "Little Rock",
       "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "80s Ladies",
-        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
-      },
-      "artists": [
-        {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "80's Ladies",
-      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "80s Ladies",
+        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
+      },
+      "artists": [
+        {
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "80's Ladies",
+      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Big Dreams In A Small Town",
         "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
       },
@@ -1775,6 +1775,22 @@
       "duration_ms": 287000,
       "name": "The Bluest Eyes In Texas",
       "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Do You Wanna Go to Heaven",
+      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1807,22 +1823,6 @@
       "duration_ms": 180866,
       "name": "I Tell It Like It Used To Be",
       "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Do You Wanna Go to Heaven",
-      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Only One You",
+      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 164653,
       "name": "Born To Boogie",
       "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Only One You",
-      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Voice Box, Vol. 1",
-        "url": "https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "I Can Tell By the Way You Dance",
-      "url": "https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 169040,
       "name": "Step That Step",
       "url": "https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The Voice Box, Vol. 1",
+        "url": "https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "I Can Tell By the Way You Dance",
+      "url": "https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "The Very Best Of Dan Seals",
+        "url": "https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        }
+      ],
+      "duration_ms": 209439,
+      "name": "My Baby's Got Good Timing",
+      "url": "https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 215666,
       "name": "We Believe In Happy Endings (with Emmylou Harris)",
       "url": "https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "The Very Best Of Dan Seals",
-        "url": "https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC"
-      },
-      "artists": [
-        {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        }
-      ],
-      "duration_ms": 209439,
-      "name": "My Baby's Got Good Timing",
-      "url": "https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Truly Great Hits",
-        "url": "https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Dim Lights, Thick Smoke (And Loud, Loud Music)",
-      "url": "https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Kentucky Hearts",
         "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 168666,
       "name": "Give Me One More Chance",
       "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The Truly Great Hits",
+        "url": "https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Dim Lights, Thick Smoke (And Loud, Loud Music)",
+      "url": "https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl"
     },
     {
       "added_at": "2024-10-14 21:15:40",

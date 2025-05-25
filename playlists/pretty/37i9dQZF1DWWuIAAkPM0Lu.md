@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag, og ny musik fra Anton Westerlin, Alex Warren, Mads Langer og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,377 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,397 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 21 | [Overkill](https://open.spotify.com/track/2cKqnOnyn4m5ZCmShQxxzJ) | [MILA](https://open.spotify.com/artist/1kxYcDvkOzwczcvFlEBVwl) | [Overkill](https://open.spotify.com/album/4BZt0a3MXOMR4gpnLhujUM) | 2:44 |
 | 22 | [LUVSONG](https://open.spotify.com/track/3XOxeC6xvm4S31778TY5nb) | [Blak](https://open.spotify.com/artist/6IH1y7lDZ4f5emA2chtADV), [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF) | [LUVSONG](https://open.spotify.com/album/0661vyyGKpbinzjUat85ia) | 2:33 |
 | 23 | [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 |
-| 24 | [Jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 |
+| 24 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 |
 | 25 | [Sig Mig](https://open.spotify.com/track/0hondQLsKFpyny1OcW1vdD) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Sig Mig](https://open.spotify.com/album/56UWYZiNS303SENz81J6sP) | 3:34 |
 | 26 | [Something You Feel](https://open.spotify.com/track/0H2AZDP9ef8FctGWqMCZQR) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Panorama](https://open.spotify.com/album/41Mvg2Uxy2MG3ChxKA2vlL) | 2:31 |
 | 27 | [National Heartbreak](https://open.spotify.com/track/6W1Iqfesgf1HAPmHfI6VJV) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [National Heartbreak](https://open.spotify.com/album/3MFfWaGz7ZywqSHxCvrrFK) | 3:31 |

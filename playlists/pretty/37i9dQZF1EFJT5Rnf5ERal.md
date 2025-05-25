@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583 likes - 278 songs - 13 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 278 songs - 13 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 224 | [ONE CALL](https://open.spotify.com/track/3aLYg8zf6MTycBri2zlWLJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:26 |
 | 225 | [BoNjOuR](https://open.spotify.com/track/4WHU0x1SAjRd6KGnhVdGoj) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [F.A.C.T.S.](https://open.spotify.com/album/3U2PmvVkO4gvoC0CBrpNm7) | 2:30 |
 | 226 | [HoW i'M liViN'](https://open.spotify.com/track/2ypQEXin1AAHTcbfakhkGZ) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 3:16 |
-| 227 | [POCKET](https://open.spotify.com/track/7EAtaOfjKG5BePXMrF2OYv) | [Only One Felipe](https://open.spotify.com/artist/1sSoNWrCtpzRan5yNkBTcL) | [The Only One 2](https://open.spotify.com/album/25rWuA3bzAgI23ymR0UwFY) | 2:21 |
-| 228 | [AOGG \(feat\. Tay Keith\)](https://open.spotify.com/track/0025YMT2mT4Ehqf5ofDZVG) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Tay Keith](https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z) | [Blue Muney \(Deluxe\)](https://open.spotify.com/album/4xr2CDxPElnjMsf8jFPFof) | 2:21 |
+| 227 | [AOGG \(feat\. Tay Keith\)](https://open.spotify.com/track/0025YMT2mT4Ehqf5ofDZVG) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Tay Keith](https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z) | [Blue Muney \(Deluxe\)](https://open.spotify.com/album/4xr2CDxPElnjMsf8jFPFof) | 2:21 |
+| 228 | [POCKET](https://open.spotify.com/track/7EAtaOfjKG5BePXMrF2OYv) | [Only One Felipe](https://open.spotify.com/artist/1sSoNWrCtpzRan5yNkBTcL) | [The Only One 2](https://open.spotify.com/album/25rWuA3bzAgI23ymR0UwFY) | 2:21 |
 | 229 | [Money Fiend](https://open.spotify.com/track/4FlcBk8HiYpDhm4MCtnyAL) | [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [M3](https://open.spotify.com/album/2AL67EF0K5GnmYeA4fPZqZ) | 3:06 |
 | 230 | [M$tAdNtpLy](https://open.spotify.com/track/7jA1ha00uRO2tGnNYkVNoN) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:55 |
 | 231 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 277 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 278 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbyNoAAAAADaYKem57y55sXe18CDcrz0`
+Snapshot ID: `AbyTQAAAAAAjT8fixORlUY+xpwAzUDZU`

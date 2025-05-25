@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Valence
 
-3,309 songs - 7 day 7 hr 22 min
+3,311 songs - 7 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Casino](https://open.spotify.com/track/4MztdcDsvR9YzMsVukTPll) | [Orloge Simard](https://open.spotify.com/artist/2PfwtnCHCC0iezSoJHtzfs) | [Casino](https://open.spotify.com/album/5VvVdAC7pMti78FbTv96Y2) | 3:13 | 2022-09-02 | 2022-09-17 |
 | [Catastrophe](https://open.spotify.com/track/6tcfHV14tqo6SyQZRX8g5A) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy) | [Catastrophe](https://open.spotify.com/album/0day1QttMp2pujmPZA62Yw) | 2:19 | 2022-04-15 | 2022-04-23 |
 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 | 2022-03-18 | 2022-03-26 |
-| [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 | 2025-04-11 |  |
+| [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 | 2025-04-11 | 2025-05-25 |
 | [Cavalier solitaire](https://open.spotify.com/track/6dZoIrZRD5nlpRK7zI4eMA) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [Cavalier solitaire](https://open.spotify.com/album/3QT0rWa8ozRgt8UKxFkBHe) | 3:44 | 2022-09-16 | 2022-09-24 |
 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 | 2022-12-16 | 2023-01-21 |
 | [Ce Corps](https://open.spotify.com/track/1SkGRt7ZdAvPOaBjNjom9g) | [Taigenz](https://open.spotify.com/artist/1vjT5eHQCdcfHhhiwmFBSk) | [Ce Corps](https://open.spotify.com/album/5jQuBWTo0FGBiAdcdLoueV) | 2:54 | 2023-02-17 | 2023-02-25 |
@@ -1728,6 +1728,7 @@
 | [Les immortelles](https://open.spotify.com/track/4x1Fs9ZvBQIDHpyH5Ya3MI) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Les immortelles](https://open.spotify.com/album/3nYhirkd6Qr6kkQmYhmYIl) | 2:15 | 2023-02-03 | 2023-02-18 |
 | [Les jambes en l'air](https://open.spotify.com/track/1i7lDjuwlQsosWW3z5JUPe) | [Thomas Argouin](https://open.spotify.com/artist/2YuO1O9h5zMxswHlFvs7b6) | [Les jambes en l'air](https://open.spotify.com/album/1unC9jCZi9AMbBADCh4hjJ) | 3:01 | 2022-06-10 | 2022-06-18 |
 | [Les jardins dérangés](https://open.spotify.com/track/6xjwMXCXIg5pVtrNRdg9tA) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Les jardins dérangés](https://open.spotify.com/album/49IiACNnNjmxW1zq7bCG5R) | 3:40 | 2024-04-12 | 2024-04-19 |
+| [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 | 2025-05-23 |  |
 | [Les joues couleur de fraise](https://open.spotify.com/track/1m9BmJRlNhdsuqxQ9wunLx) | [Victoria Lord](https://open.spotify.com/artist/1c1Eft7z1a5uQdJ2iwSct7) | [Les joues couleur de fraise](https://open.spotify.com/album/3NfJpgiWXVzV7jyrobMnuJ) | 4:10 | 2023-01-27 | 2023-02-04 |
 | [Les joues roses](https://open.spotify.com/track/0eix8TU9fGFPiRJxTThFMr) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les joues roses](https://open.spotify.com/album/6zx2zy35tNN7Db6LXpcbCq) | 4:05 | 2022-07-08 | 2022-07-30 |
 | [Les jours abandonnés](https://open.spotify.com/track/4T3YB2GfvSFygsoAnkdT9n) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Les jours abandonnés](https://open.spotify.com/album/3wLtRuSJAjzoWOuULhCcrk) | 3:19 | 2022-01-21 | 2022-01-29 |
@@ -2515,7 +2516,7 @@
 | [Quitter](https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Quitter](https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf) | 2:15 | 2024-08-23 | 2024-10-12 |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2023-09-15 | 2023-09-23 |
 | [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 | 2023-05-13 | 2023-07-08 |
-| [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL) | 3:18 | 2025-05-23 |  |
+| [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL) | 3:18 | 2025-05-23 | 2025-05-25 |
 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 | 2023-03-03 | 2023-03-18 |
 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 | 2025-02-07 | 2025-04-26 |
 | [Québec Blues](https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Qu'est\-ce qu'on dit ?!](https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j) | 2:38 | 2024-11-15 | 2024-11-23 |
@@ -2989,6 +2990,7 @@
 | [tout est cassé](https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [tout est cassé](https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6) | 2:03 | 2024-08-30 | 2024-09-07 |
 | [Tout est différent \- High Klassified Remix](https://open.spotify.com/track/0jaLH8lylo9niUbdozxaLo) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Tout est différent \(High Klassified Remix\)](https://open.spotify.com/album/1RfjOWNowpTWmB73luBPM8) | 2:47 | 2022-02-25 | 2022-03-12 |
 | [Tout est parfait](https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:07 | 2022-10-07 | 2022-10-22 |
+| [Tout gâcher](https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Tout gâcher](https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv) | 2:06 | 2025-05-23 |  |
 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-05-31 | 2024-08-10 |
 | [Tout ira mieux demain](https://open.spotify.com/track/1m4itVNI3P6yGSA3Ptni9P) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Intérieur Vie](https://open.spotify.com/album/3mnH4p3JR7XSuQoQGmbMnx) | 3:30 | 2023-03-24 | 2023-04-09 |
 | [Tout le monde](https://open.spotify.com/track/59NiurbrD7BnSkkTBRiqif) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [La Voix 2023](https://open.spotify.com/album/1LtGxOzpH5yYf9jIb7JpfX) | 3:29 | 2023-03-17 | 2023-04-15 |

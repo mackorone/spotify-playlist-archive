@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30318,
+  "num_followers": 30317,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC5pAAAAAACbvkTgYHMJJmhhojkeZZi+",
+  "snapshot_id": "aC+6gAAAAADYrkCfZM5vt8oLS98vkul7",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GET BACK",
-        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30a4\u30eb",
         "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 279733,
       "name": "Answer",
       "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GET BACK",
+        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Don't Wanna Die in the Paradise",
+        "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "I Don't Wanna Die in the Paradise",
+      "url": "https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOST",
         "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
       },
@@ -711,42 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Wanna Die in the Paradise",
-        "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
-      },
-      "artists": [
-        {
-          "name": "BURNOUT SYNDROMES",
-          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
-        },
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "I Don't Wanna Die in the Paradise",
-      "url": "https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 209527,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/2FLdb5m1IRCPjKyD3LSRn0"
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
       "artists": [
         {
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 243640,
-      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/0XMSzGi3pf0CcfYaw7nyGt"
+      "duration_ms": 209527,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 249360,
       "name": "\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4 -Album Mix-",
       "url": "https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/2FLdb5m1IRCPjKyD3LSRn0"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0XMSzGi3pf0CcfYaw7nyGt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-3,856 songs - 5 day 16 hr 45 min
+3,857 songs - 5 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [City Life](https://open.spotify.com/track/5Ox3k5HH6dsgRHnw7DpbaU) | [Jonny Wolf](https://open.spotify.com/artist/4hej44aTHWnoNziIuwNtwS), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [City Life](https://open.spotify.com/album/5NBUzqFZqlK1t2FwhCZxxG) | 1:58 | 2024-10-25 | 2024-12-07 |
 | [City Life](https://open.spotify.com/track/08MWt3FCY1ek1gwUb7GkjN) | [marbre](https://open.spotify.com/artist/2blo5YYX36yUbDlleqNSA7), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [City Life](https://open.spotify.com/album/7HFxW0ZdljOqgpTxPWgQGm) | 2:09 | 2024-02-05 | 2024-03-23 |
 | [City Lights](https://open.spotify.com/track/5NlRQv6CvuZLVhC1acK03t) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [City Lights](https://open.spotify.com/album/1D8lAsZZVcPrPPwh9XKHj7) | 2:36 | 2023-12-07 | 2024-01-03 |
+| [City Lounge](https://open.spotify.com/track/33nQf4ErH4PSorxi3KuEHM) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [City Lounge](https://open.spotify.com/album/3b2q54vChkmjVlpn1AjsEd) | 2:01 | 2025-05-24 |  |
 | [Clandestine](https://open.spotify.com/track/2H8YryeT5OF7vqJNSk5bsC) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg), [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms) | [Clandestine](https://open.spotify.com/album/1Vlh1WN2mAJl6b9ccDc0eF) | 2:15 | 2025-01-17 | 2025-03-07 |
 | [Clandestine Knowledge](https://open.spotify.com/track/5fRdRzC2end0LwufO6kmu3) | [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY) | [Clandestine Knowledge](https://open.spotify.com/album/60rPJOtE1jQ8svxYAxArtr) | 2:37 | 2025-03-06 | 2025-04-19 |
 | [Clarity](https://open.spotify.com/track/1so20SWwBndwKAJ5RLLrE5) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Clarity](https://open.spotify.com/album/4VlXVDqrGSZTT5AHeCmQX7) | 2:04 | 2024-09-22 | 2024-12-07 |
@@ -2399,7 +2400,7 @@
 | [One Room](https://open.spotify.com/track/0ATaybQilTxycZaN9TgeK4) | [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Cozy Home](https://open.spotify.com/artist/5uWBfsdioCXWK5bh9L3pVX) | [One Room](https://open.spotify.com/album/2k5N3seZ42JA6mLTvQQgX9) | 2:31 | 2024-04-11 | 2024-05-03 |
 | [One Step Forward](https://open.spotify.com/track/1T2xHTWR9qAdi2dYZwsBCI) | [Camel Club](https://open.spotify.com/artist/0DnMTgzJhXU3qGNGFuYY3q) | [One Step Forward](https://open.spotify.com/album/6zErRWE8r9BVN8L9HKWZeY) | 1:46 | 2024-08-27 | 2024-10-26 |
 | [One Step Higher](https://open.spotify.com/track/3BGO7tkmVnJomLc0E2wBgT) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [One Step Higher](https://open.spotify.com/album/4Gkbq9fAgxscq7Nd5pWXsA) | 2:01 | 2025-03-06 | 2025-05-02 |
-| [One Way](https://open.spotify.com/track/7mJfwFgRUMQDgWqHAO2pxY) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe) | [One Way](https://open.spotify.com/album/5imSaCklshuHHrD5WlS4Rw) | 1:53 | 2025-04-18 |  |
+| [One Way](https://open.spotify.com/track/7mJfwFgRUMQDgWqHAO2pxY) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe) | [One Way](https://open.spotify.com/album/5imSaCklshuHHrD5WlS4Rw) | 1:53 | 2025-04-18 | 2025-05-25 |
 | [ONETWOTHREE](https://open.spotify.com/track/2VoIcqu3LFE5Wo4kRk809z) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS) | [ONETWOTHREE](https://open.spotify.com/album/7BJCQL1M4pkS0AAKjJqXJw) | 1:51 | 2024-10-07 | 2024-12-07 |
 | [Onion Toothpaste](https://open.spotify.com/track/3bXUHUB4d7EZStND7Q9sRp) | [Ashorttimelater](https://open.spotify.com/artist/1v7LeFs06ajCv4dfdlrkIP) | [Unexpected Lunch](https://open.spotify.com/album/5tTdCus4iPpFCK8SuOQiie) | 2:17 | 2024-09-17 | 2024-11-26 |
 | [onism](https://open.spotify.com/track/6Y09S4tBoYea1vtPlUed9z) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [onism](https://open.spotify.com/album/7d23dWBTztuTYvyNVhnUyt) | 1:39 | 2024-08-19 | 2024-09-22 |

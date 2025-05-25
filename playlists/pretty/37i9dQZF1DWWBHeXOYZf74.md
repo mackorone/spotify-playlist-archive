@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,865 likes - 107 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,903 likes - 107 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 106 | [Woman](https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Woman](https://open.spotify.com/album/5XXtHaMgI6jW8y69OXGUbq) | 3:50 |
 | 107 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 
-Snapshot ID: `AAAAADeIShwmshdYTo7Lx9Iu8uig2riE`
+Snapshot ID: `aC/y8QAAAACN4M/z9lmAbr77N9AL5y4e`

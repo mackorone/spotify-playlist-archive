@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-599 songs - 2 day 1 hr 39 min
+600 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Blue](https://open.spotify.com/track/1klWyUOiPXV7p5UFjBxPmf) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue EP](https://open.spotify.com/album/2m2QhcRmT9REjQt5QoFOk1) | 4:46 | 2024-03-01 | 2024-04-13 |
 | [Blue](https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue](https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k) | 4:46 | 2021-12-08 | 2024-03-02 |
 | [Blue](https://open.spotify.com/track/3z53lSFTTK6nlB73YkBYHh) | [Datskie](https://open.spotify.com/artist/3CFACRLG0nYcMfGB7wSvTB) | [Blue](https://open.spotify.com/album/470WdnoBjuKycyssip4jtU) | 3:45 | 2024-11-15 |  |
+| [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 | 2025-05-23 |  |
 | [Bo & Wing](https://open.spotify.com/track/2RO1rp7VqgHDFvQ0WeRrVF) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/3rXWQmHvNCyvpRm48CsYwP) | 4:47 | 2023-11-10 | 2024-04-13 |
 | [Bo & Wing](https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:47 | 2021-12-08 | 2023-11-05 |
 | [Boats](https://open.spotify.com/track/5NOroGtZSBsdCid7axlyXj) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Boats](https://open.spotify.com/album/13zXBB7vZeWSmDvLOYjqQd) | 5:49 | 2021-12-08 | 2022-10-07 |
@@ -272,7 +273,7 @@
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-09-22 |  |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2022-05-03 | 2022-12-28 |
 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 | 2022-05-03 |  |
-| [Like This](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Like This](https://open.spotify.com/album/62nbCTAyxJwCgIEMBLBg48) | 2:48 | 2022-10-28 |  |
+| [Like This](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Like This](https://open.spotify.com/album/62nbCTAyxJwCgIEMBLBg48) | 2:48 | 2022-10-28 | 2025-05-25 |
 | [Lily Garden](https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Lily Garden](https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm) | 3:18 | 2024-08-16 |  |
 | [Limes](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Limes](https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz) | 3:15 | 2023-06-30 |  |
 | [Live For The Music \(feat\. Erire\) \- Instrumental](https://open.spotify.com/track/0AYA7mZrC4SvoB8Bq5E7yA) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Erire](https://open.spotify.com/artist/6WEl7zw5Lt5cLo3OthIoCj) | [Live For The Music \(feat\. Erire\)](https://open.spotify.com/album/7JGm4r0XiqT1drx3agxFBb) | 7:48 | 2022-05-03 | 2024-04-13 |

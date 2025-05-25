@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 28,554 likes - 147 songs - 7 hr 55 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 28,570 likes - 148 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,5 +155,6 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 145 | [Song of the Birds](https://open.spotify.com/track/6tjMGof9L2z61y2MtTN8fS) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Prayer](https://open.spotify.com/album/6BA0uvfekY4KsPqo0nZWjg) | 3:42 |
 | 146 | [Nessun Dorma](https://open.spotify.com/track/6NsZucPvDbyARfXLgTpY9u) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 2:57 |
 | 147 | [Le clair de lune](https://open.spotify.com/track/4RPNnsMlvnXuh5oSMAvC1m) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Le clair de lune](https://open.spotify.com/album/71nv1eqwlnGmb5GIaNrfPD) | 4:08 |
+| 148 | [Seuls](https://open.spotify.com/track/6bmSDTpDpOdl9kLA3p6S1n) | [Thomas Horeczko](https://open.spotify.com/artist/45hfjgJ2kOKtAhKIHLpTZX), [Stéphane Horeczko](https://open.spotify.com/artist/1t3wHfR1IXybR0wztmjkyG), [Braths](https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd) | [Seuls](https://open.spotify.com/album/0NOAGelOYr8fjnjZ1nCw1K) | 2:48 |
 
-Snapshot ID: `AAAB4DyRJyKwn4jlnau3Td82E3F0LKsJ`
+Snapshot ID: `AAAB4ZOSEmrsaOVlP62q/yt/kWkSpkfW`

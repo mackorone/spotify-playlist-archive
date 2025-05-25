@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Trueno
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,948 likes - 225 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,975 likes - 225 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 10 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 11 | [4 Daisy](https://open.spotify.com/track/2YxPhQ1j59g44BKvGWobUE) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:54 |
 | 12 | [pink + pink](https://open.spotify.com/track/5jysHNTiZcXz83qaIXl3vf) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:02 |
-| 13 | [Dos Almas](https://open.spotify.com/track/5QGrf0DkoKMc3s5m7CN4Gg) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Juliana](https://open.spotify.com/artist/0eWpfYcZoWEkOfydi4q7RH) | [Dos Almas](https://open.spotify.com/album/6vfOg6PP6i5JxAJFz76uvI) | 3:25 |
+| 13 | [Dos Almas](https://open.spotify.com/track/5QGrf0DkoKMc3s5m7CN4Gg) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos Almas](https://open.spotify.com/album/6vfOg6PP6i5JxAJFz76uvI) | 3:25 |
 | 14 | [100 Años Después](https://open.spotify.com/track/25ConcPLgw5UBT5J3HBi9z) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [100 Años Después](https://open.spotify.com/album/2b3Le4nsBfyGnrn6j68rZs) | 3:05 |
 | 15 | [Conciliando El Sueño](https://open.spotify.com/track/3XGe6YEfOQ3oqA4Q2Gnf6J) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Magia En Dos](https://open.spotify.com/album/4KTrbaxpyksYA5qWOpPE9l) | 2:28 |
 | 16 | [Ojos De Ajonjolí](https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Ojos De Ajonjolí](https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663) | 2:38 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 224 | [CIEGO SORDO MUDO](https://open.spotify.com/track/3qxjEfFr536FDMcB4Iajmh) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:16 |
 | 225 | [RED FLAG](https://open.spotify.com/track/3mhF6nhwtdKO6y35tGx7wu) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:22 |
 
-Snapshot ID: `aDCq4wAAAAASgyZY5PiaD0OHaZ25rIiu`
+Snapshot ID: `aDCq4wAAAACwxayif6K1jy8VOGUCIrcT`

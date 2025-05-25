@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Mei Semones \(USA\)
 
-1,939 songs - 4 day 21 hr 15 min
+1,940 songs - 4 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1573,6 +1573,7 @@
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2023-06-15 | 2025-03-18 |
 | [Together](https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Together](https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g) | 3:10 | 2024-08-16 | 2024-10-18 |
 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 | 2023-08-29 |  |
+| [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 | 2025-05-22 |  |
 | [Told You So](https://open.spotify.com/track/44oV4Lbj57EoORRzSNWCRX) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Genesis](https://open.spotify.com/album/1uIG9MSyXNBiq3cgH6Und5) | 5:13 | 2022-06-23 | 2022-07-15 |
 | [Tomorrow](https://open.spotify.com/track/4oN2UKsK6rDsYsKuhUGArm) | [Sunny Summer Day](https://open.spotify.com/artist/6qXg5xXMLAVhGJpXU3oVy9) | [Dreams and Memories](https://open.spotify.com/album/1ylXA5sQ1B6YAdJCm23kwv) | 4:27 | 2023-07-06 | 2023-07-15 |
 | [too](https://open.spotify.com/track/6iPlmyUFvWUXQaNVebuW3k) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [too](https://open.spotify.com/album/3x0EHZBaDF3dFpGQVtDGEZ) | 2:20 | 2024-04-04 | 2024-04-26 |
@@ -1667,7 +1668,7 @@
 | [we're gonna die anyway!!!](https://open.spotify.com/track/3dsraaer0toPT5ZpcisxOb) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [we're gonna die anyway!!!](https://open.spotify.com/album/3BZzDyp6uLeAvhFp4XbC5T) | 2:32 | 2022-06-09 | 2022-07-15 |
 | [Weathre](https://open.spotify.com/track/2g4VC4rAArPvcYRTh7Tkp8) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [Emerald](https://open.spotify.com/album/4nVkJSfp4i0h5A906jvjb3) | 3:51 | 2023-11-09 | 2023-11-13 |
 | [Weigh me down](https://open.spotify.com/track/2Q5dyUrJK5IpXZEVHdfELv) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Weigh me down](https://open.spotify.com/album/399zSYDYVqJbuSpuCy937C) | 3:24 | 2022-03-24 | 2022-04-01 |
-| [Weirdo](https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Weirdo](https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2) | 4:13 | 2024-09-19 |  |
+| [Weirdo](https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Weirdo](https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2) | 4:13 | 2024-09-19 | 2025-05-25 |
 | [Welcome Change](https://open.spotify.com/track/2quiwMMUFiAwGqN54rOADl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Welcome Change](https://open.spotify.com/album/76uvZpZOt6dwlkxx2drSju) | 4:54 | 2022-12-23 | 2023-03-03 |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-03-24 | 2022-04-22 |
 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 | 2024-04-18 | 2024-04-26 |

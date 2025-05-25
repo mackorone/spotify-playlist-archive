@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-531 songs - 1 day 0 hr 20 min
+532 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [CHROME](https://open.spotify.com/track/2cR7IykiFG4LBWFzpKW8GK) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [CHROME](https://open.spotify.com/album/1moJUIovbsCWN0KRMvY0rz) | 4:42 | 2024-08-23 | 2024-09-20 |
 | [Cinnamon Tree](https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Cinnamon Tree](https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx) | 1:56 | 2024-09-06 |  |
 | [Circle Reflections](https://open.spotify.com/track/5FIxocSQFn74wY3rJHS7HC) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Circle Reflections](https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83) | 2:40 | 2024-08-23 |  |
+| [Cloud Bank](https://open.spotify.com/track/6zyBymxwUn9jCiQhliYE8v) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Flanør](https://open.spotify.com/artist/6ig96HpkSAXYvt69GBHYWl) | [Cloud Bank](https://open.spotify.com/album/0Ii9WgyawvgfnoBdeRCVtf) | 1:48 | 2025-05-23 |  |
 | [Cocktail Please](https://open.spotify.com/track/61UJbqJes5swtjJ3BeDaOU) | [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Cocktail Please](https://open.spotify.com/album/2T4bG7choP5ph9yf7kL5pO) | 1:37 | 2025-04-25 |  |
 | [Coelum](https://open.spotify.com/track/09zb80ci56DEgN3r1e0F9T) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Coelum](https://open.spotify.com/album/0nsGYEKBZlu5lap25ZWEJf) | 2:10 | 2024-12-13 |  |
 | [Coincidence](https://open.spotify.com/track/0MZMENogreoBckQbe6ofr2) | [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Gianni](https://open.spotify.com/artist/1qOhp9sUeynPwEfyY6kX6c) | [Coincidence](https://open.spotify.com/album/57zyohGlbBx5jxhySlT7Nk) | 1:46 | 2025-05-16 |  |
@@ -530,7 +531,7 @@
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 | 2024-04-19 |
 | [While She Waits](https://open.spotify.com/track/7hrEY12YhKpa6wPruwHrag) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/1C8EQLLSiDZoXRiwgaUPB7) | 2:16 | 2024-03-20 | 2024-08-24 |
 | [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-18 | 2025-03-08 |
-| [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 |  |
+| [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 | 2025-05-25 |
 | [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 | 2025-04-12 |
 | [Window Pane](https://open.spotify.com/track/3oH3TnUBAHJUMBPwJTynv2) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Window Pane](https://open.spotify.com/album/1AaDQgeyo7tbApFPiCfXiU) | 2:00 | 2025-03-03 | 2025-03-18 |
 | [Wonderment](https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Wonderment](https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs) | 3:19 | 2023-08-22 | 2024-11-23 |

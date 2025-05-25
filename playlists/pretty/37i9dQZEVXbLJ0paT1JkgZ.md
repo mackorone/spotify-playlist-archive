@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,897 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,900 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Party MJ](https://open.spotify.com/track/6sm7XqRLVN6mhJ2xxoKO1B) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Party MJ](https://open.spotify.com/album/6k0iCmB82Zp5C0t5un7j7R) | 4:07 |
 | 50 | [Pinocchio Remix \- Versión Remix](https://open.spotify.com/track/6DmvFgAoRgvWpcXUWxku8h) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [Pinocchio \(Versión Remix\)](https://open.spotify.com/album/6WILSplnG8R7tUbfkGEjxN) | 3:19 |
 
-Snapshot ID: `L8PkoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L8U60AAAAAAAAAAAAAAAAAAAAAAAAGVu`

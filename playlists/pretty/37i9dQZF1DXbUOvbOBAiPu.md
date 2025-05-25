@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from LUNA & Metejoor, Eefje de Visser, Burna Boy en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,644 likes - 94 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,651 likes - 94 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

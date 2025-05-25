@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Avril Lavigne & Simple Plan
 
-497 songs - 1 day 0 hr 50 min
+498 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [HEAVYWEIGHT](https://open.spotify.com/track/5ekvOvSlUxUgDTitlGzWbe) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5S8GPfqEGX6wYZ5ElDiOFY) | 2:49 | 2023-03-31 | 2023-05-16 |
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-10 | 2023-04-23 |
 | [HEAVYWEIGHT](https://open.spotify.com/track/2tPjYf8ecyhfSXb6NeOOjI) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [WAKE UP](https://open.spotify.com/album/29sE5WjE8QbAkioiZYkOUi) | 2:49 | 2023-05-15 | 2023-06-21 |
-| [Hell Of It](https://open.spotify.com/track/2IjfQ3eNFUORnBVxYaxVEt) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 2:22 | 2024-11-18 |  |
+| [Hell Of It](https://open.spotify.com/track/2IjfQ3eNFUORnBVxYaxVEt) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 2:22 | 2024-11-18 | 2025-05-25 |
 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 | 2022-11-10 | 2025-02-22 |
 | [Hey Ken, Someone Methodically Mushed the Donuts \(Re\-recorded\) ft\. Tades Sanville](https://open.spotify.com/track/0IkUtoJWNj8bD53XoudPCN) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Hey Ken, Someone Methodically Mushed the Donuts \(Re\-recorded\) ft\. Tades Sanville](https://open.spotify.com/album/4xXFvHDfjN3zcNmXbS0Axu) | 2:51 | 2025-02-21 | 2025-05-16 |
 | [Highlight Reel](https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Highlight Reel](https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW) | 3:10 | 2023-04-21 | 2023-07-08 |
@@ -318,6 +318,7 @@
 | [old tattoos](https://open.spotify.com/track/3EhIdQSKO7AwGK9of76U0Z) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [old tattoos](https://open.spotify.com/album/3o3DDHOfxhoxrGXxXNRCCP) | 2:29 | 2022-01-14 | 2022-07-05 |
 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 | 2024-01-12 | 2024-08-04 |
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-22 | 2024-12-02 |
+| [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 | 2025-05-15 |  |
 | [Outta My Head](https://open.spotify.com/track/0Z2utuwUnQS9iiOwpStusu) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Outta My Head](https://open.spotify.com/album/36rJDHz5gcbCOEI123Yo9E) | 2:56 | 2021-12-20 | 2022-07-29 |
 | [Outta My Head](https://open.spotify.com/track/28RPEcjNNGKRdbTygQ7WoH) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 2:56 | 2022-07-18 | 2023-04-01 |
 | [Pacific Ocean](https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Pacific Ocean](https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0) | 3:16 | 2024-06-14 | 2024-08-15 |

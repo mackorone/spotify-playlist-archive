@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Love Spells",
-  "num_followers": 56275,
+  "num_followers": 56289,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-05-14 15:13:08",
       "album": {
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
+    },
+    {
+      "added_at": "2025-05-14 15:13:08",
+      "album": {
         "name": "ceremonial contrafact (empathogen deluxe)",
         "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
-      "added_at": "2025-05-14 15:13:08",
-      "album": {
-        "name": "Cards On The Table",
-        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 176913,
-      "name": "Cards On The Table",
-      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
     },
     {
       "added_at": "2025-05-14 15:13:08",

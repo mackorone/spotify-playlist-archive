@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-318 songs - 17 hr 28 min
+319 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2025-02-24 |
 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 | 2024-06-28 | 2024-08-23 |
 | [Big Nose](https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym) | [Frey](https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK) | [Big Nose](https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz) | 3:37 | 2024-06-28 | 2024-08-16 |
-| [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 | 2025-03-13 |  |
+| [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 | 2025-03-13 | 2025-05-25 |
 | [Black Lake](https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Black Lake](https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ) | 2:55 | 2024-08-15 | 2024-10-08 |
 | [BLOD & VODKA](https://open.spotify.com/track/73zSeH1CdAudlGqSTTXke4) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLOD & VODKA](https://open.spotify.com/album/00B5qQXF9CXXUFbtt0cESq) | 2:00 | 2025-03-27 | 2025-04-04 |
 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 | 2024-06-28 | 2024-08-16 |
@@ -296,6 +296,7 @@
 | [Till hälften människa, till hälften moderat](https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Till hälften människa, till hälften moderat](https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG) | 4:44 | 2024-06-28 | 2024-10-11 |
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-28 | 2024-09-21 |
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 |  |
+| [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 |  |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-05-09 |
 | [Trouble in Paradise](https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Trouble in Paradise](https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY) | 3:24 | 2024-08-22 | 2024-09-25 |

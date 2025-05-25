@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Teeny Tiny Stevies
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,155 likes - 142 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,203 likes - 142 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

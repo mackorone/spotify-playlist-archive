@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,271,432 likes - 192 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,271,484 likes - 192 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 191 | [You And I](https://open.spotify.com/track/6Z4Okg1ZdX9K8Ejq7g0bin) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You And I](https://open.spotify.com/album/6PuMsLVs2Slyg2AiPq9KGq) | 2:34 |
 | 192 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 |
 
-Snapshot ID: `aCsYIgAAAAB+kBbGp/T4vFc1149l1u5e`
+Snapshot ID: `aCsYIgAAAACHmrNCI++euV/xhkrNVel6`

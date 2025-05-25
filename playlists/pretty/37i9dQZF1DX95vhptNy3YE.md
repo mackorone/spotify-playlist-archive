@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > KayBlack e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,492 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,472 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 41 | [misericórdia](https://open.spotify.com/track/0MmCrODsKXrfiIqt6CajUY) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:52 |
 | 42 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
 | 43 | [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 |
-| 44 | [Resenha das Minas \- Ao Vivo](https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7) | 2:45 |
-| 45 | [Febre \- Ao Vivo](https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Sorte \(Ao Vivo / EP02\)](https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU) | 3:02 |
+| 44 | [Febre \- Ao Vivo](https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Sorte \(Ao Vivo / EP02\)](https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU) | 3:02 |
+| 45 | [Dependente / Pirata e Tesouro / Fala \- Ao Vivo](https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Resenha das Minas 2, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7) | 4:57 |
 | 46 | [Elixir](https://open.spotify.com/track/7uI3uYghcCTdPBYdr6qODT) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Elixir](https://open.spotify.com/album/5XAz2CGZR28YpdaJ9cvbpg) | 4:23 |
 | 47 | [HINO DOS D](https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 5:24 |
 | 48 | [Pago Pra Ver / Supera / Telegrama \- Ao Vivo](https://open.spotify.com/track/2LvbPKkYXTL7IFOdGCqXbf) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:05 |
-| 49 | [Dependente / Pirata e Tesouro / Fala \- Ao Vivo](https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Resenha das Minas 2, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7) | 4:57 |
-| 50 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
+| 49 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
+| 50 | [Até Que Durou / 1 Metro e 65 \- Ao Vivo](https://open.spotify.com/track/1cS6BbRwFGgkhAeO8lHUva) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [After do Benza \(Ao Vivo\)](https://open.spotify.com/album/3VAQTlftSOa79dQpsIdjhG) | 4:53 |
 
 Snapshot ID: `aCaqewAAAACJ+qNG+qS7fqI0qFXvGRx2`

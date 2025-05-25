@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > いよいよPOP YOURS開催! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,666 likes - 104 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,708 likes - 104 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

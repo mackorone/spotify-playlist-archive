@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 326999,
       "name": "Baiyaan",
       "url": "https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC"
@@ -3501,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Koyal (Acoustic)",
+        "url": "https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp"
+      },
+      "artists": [
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152999,
+      "name": "Koyal - Acoustic",
+      "url": "https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t"
+    },
+    {
+      "album": {
         "name": "Koyeliya Kook Sunave",
         "url": "https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg"
       },
@@ -4040,7 +4058,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 282352,
       "name": "Mann",
       "url": "https://open.spotify.com/track/1wvwV1zCrgFHNkEvHyvczs"
@@ -4342,6 +4360,24 @@
       "duration_ms": 426813,
       "name": "Moko Kahan",
       "url": "https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI"
+    },
+    {
+      "album": {
+        "name": "Mora Akhiyaan",
+        "url": "https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8"
+      },
+      "artists": [
+        {
+          "name": "Prayas Pandey",
+          "url": "https://open.spotify.com/artist/6zrMaYTtn7Ll4L9nHL9DOS"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223255,
+      "name": "Mora Akhiyaan",
+      "url": "https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK"
     },
     {
       "album": {

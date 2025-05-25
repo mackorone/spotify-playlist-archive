@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: BG, Gamadinho, Yan, Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,992 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,061 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Instinto / Dá seu Jeito / Vou Desligar \- Ao Vivo](https://open.spotify.com/track/6TrG01VFPHwLS1i43GGhEY) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0) | [Instinto / Dá seu Jeito / Vou Desligar \(Ao Vivo\)](https://open.spotify.com/album/4nEiSWh52QNqP38bP8cugq) | 5:30 |
+| 1 | [Instinto / Dá seu Jeito / Vou Desligar \- Ao Vivo feat\. Gamadinho](https://open.spotify.com/track/6TrG01VFPHwLS1i43GGhEY) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Instinto / Dá seu Jeito / Vou Desligar \(Ao Vivo feat\. Gamadinho\)](https://open.spotify.com/album/4nEiSWh52QNqP38bP8cugq) | 5:30 |
 | 2 | [É Na Madrugada / Amor Bipolar / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Guerêguerê, Bloco 6 \(Ao Vivo\)](https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V) | 4:27 |
 | 3 | [Quem De Nós Dois / Encostar Na Tua \- Ao Vivo](https://open.spotify.com/track/1o7TjGkJHqFmnT9ZOQlDfp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 5:05 |
 | 4 | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,294 likes - 99 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,492 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

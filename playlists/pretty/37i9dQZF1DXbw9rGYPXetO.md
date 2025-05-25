@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat\. Cover: Punjabi Vekh Ke
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,280 likes - 17 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,777 likes - 17 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 16 | [Kya Karie Korimol](https://open.spotify.com/track/38DpYnVKdCy8f9OoUPBTSF) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Aashima Mahajan](https://open.spotify.com/artist/5joxaUVi9EcJ011oXF0Dvg) | [Kya Karie Korimol](https://open.spotify.com/album/2Ai7Wo8PtHic9rJK1Cjdpo) | 5:14 |
 | 17 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |
 
-Snapshot ID: `aB4LOAAAAAA8yeUbSgrdhfGkCeaY/HYi`
+Snapshot ID: `aDIZXAAAAACtxsamlxGULdSYWVIA+sz3`

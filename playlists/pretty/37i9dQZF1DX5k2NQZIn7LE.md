@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits from Coke Studio Pakistan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,718 likes - 67 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,741 likes - 67 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 58 | [Gaddiye](https://open.spotify.com/track/4JhWn8awBnebXXdsMHOHJM) | [Attaullah Khan](https://open.spotify.com/artist/7LlDD5q2kx8YkRItgqDiI0), [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:02 |
 | 59 | [Hum Dekhenge](https://open.spotify.com/track/4rP97uZJ2DdqIGPIvVyeiO) | [Zohaib Kazi](https://open.spotify.com/artist/6KLLWcERsoHPN3Mu0Z20ci), [Ali Hamza](https://open.spotify.com/artist/0O7Iu0NZE2lU74tHPcel7c) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 2:38 |
 | 60 | [Lambi Judaai](https://open.spotify.com/track/6gXuetJiQ00vPIy6zs3SGR) | [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 6:04 |
-| 61 | [Mundiya](https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Quratulain Balouch](https://open.spotify.com/artist/4pHyL6mYJmkx1fCobhVr8N) | [Mundiya](https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X) | 4:58 |
+| 61 | [Mundiya](https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Mundiya](https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X) | 4:58 |
 | 62 | [Mubarik Mubarik](https://open.spotify.com/track/2RlKuEgR9NIVWzyXYbPawT) | [Banur's Band](https://open.spotify.com/artist/0TBzDcdeUkgkRWAXIBYTwK), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mubarik Mubarik](https://open.spotify.com/album/2WOJN6NCF4jo4prZqAty2X) | 5:54 |
 | 63 | [Roshe](https://open.spotify.com/track/4Ar7mEFWCQVg1keCZfGtqL) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24) | [Roshe](https://open.spotify.com/album/6IcI3XoZIkJvJlTR7RQ3Ch) | 7:52 |
-| 64 | [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 |
+| 64 | [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 |
 | 65 | [Dil Tarpe](https://open.spotify.com/track/63zwG1gDxuUbd8DRcVv8lO) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Dil Tarpe](https://open.spotify.com/album/0frqXSFP8gEXX5SF91Vnzd) | 6:33 |
 | 66 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 |
 | 67 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 |

@@ -4,7 +4,7 @@
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 27 min
+43 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Cake](https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:02 | 2024-09-17 |  |
 | [Candy Coated](https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 4:22 | 2024-09-17 |  |
 | [Change](https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:44 | 2024-09-17 |  |
+| [Come Inside](https://open.spotify.com/track/2JiR5ZnuHagOzZHSKfmpqk) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:18 | 2025-05-25 |  |
 | [Darkside](https://open.spotify.com/track/6pWfSngATxH5jhspudBbDv) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:52 | 2024-09-17 |  |
 | [Decorated](https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:06 | 2024-09-17 |  |
 | [Deja Vu](https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 2:38 | 2024-09-17 |  |
@@ -43,7 +44,7 @@
 | [Starry Eyed Surprise](https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 3:48 | 2024-09-17 |  |
 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 | 2024-09-17 |  |
 | [Tattoo Dreams](https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Harvest](https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH) | 3:31 | 2024-09-17 |  |
-| [The Keys](https://open.spotify.com/track/120z3vScJPBTrp5OwUuTI3) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:35 | 2024-09-17 |  |
+| [The Keys](https://open.spotify.com/track/120z3vScJPBTrp5OwUuTI3) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:35 | 2024-09-17 | 2025-05-25 |
 | [Think Fast](https://open.spotify.com/track/19EWKf8NGkwSA5SIg9PoYb) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:52 | 2024-09-17 | 2024-11-13 |
 | [Toxic](https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 | 2024-10-03 |  |
 | [Toxic \- Explicit Album Version](https://open.spotify.com/track/3sWbIVUEdY2YyXzJoNj2zs) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Toxic](https://open.spotify.com/album/69AH8JXzq2Tf3VTkAoEPjT) | 2:46 | 2024-09-17 | 2025-01-06 |

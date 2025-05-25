@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Thelonious
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,770 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,791 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [heathens.](https://open.spotify.com/track/3uWajbsWwn1DPIrf9OWaQ1) | [The Kids](https://open.spotify.com/artist/4dqYDXvDmsci50F5P6j6D4), [86LOVE](https://open.spotify.com/artist/2I2mBsrn9VipdyXtAwFHE1) | [heathens.](https://open.spotify.com/album/5BeaSwcH9QFR6b0NOqCJ36) | 2:20 |
 | 49 | [Money Habits \(Bonus\)](https://open.spotify.com/track/60NQKbC7Lq1C6DOPAEpCCP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli: The Don](https://open.spotify.com/album/3gVuAqu4B6xxcXK8S5Mn3H) | 3:01 |
 
-Snapshot ID: `AAAAAD9wPHu4/1k6CAhVMnaujWXKXSSL`
+Snapshot ID: `aC/y6QAAAAAHZRUvm4CnCBSUvgFQopoH`

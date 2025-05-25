@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Abel e Benício
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,371 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,358 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 5 | [Barraca De Espeto](https://open.spotify.com/track/3si8TV4xhXAkvCMeARjZSh) | [Lucca](https://open.spotify.com/artist/1djMB4m244zzPiMPTDwT20) | [Movimento \(Vol.1\)](https://open.spotify.com/album/6l1O31QczcDOrKAcgZQSxS) | 2:41 |
 | 6 | [Onde Eu Vou Eu Tô](https://open.spotify.com/track/6NvEhHlbkKYJERbmpIACtS) | [Junior Marques](https://open.spotify.com/artist/5Q3lDwHhgRwL4pBWgXUSu3), [Breno e Bernardo](https://open.spotify.com/artist/2gsNxDIZmMfEF4LIr2QDF0) | [Onde Eu Vou Eu Tô](https://open.spotify.com/album/4tTJbtUWO3SgHV3NY8GVZi) | 2:25 |
 | 7 | [Metade Metade](https://open.spotify.com/track/0OY7BxpMe9ERUIqfF94aSe) | [Rafael Garcez](https://open.spotify.com/artist/3lwHsx9Dt9Th00WtxIhAth), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Metade Metade](https://open.spotify.com/album/0KqXyxBWrxiZiMVGfQweYH) | 2:40 |
-| 8 | [Pode Atender \- Ao Vivo](https://open.spotify.com/track/23erbX29HUbRvvFBKj5eLN) | [Lucylla & Lucyana](https://open.spotify.com/artist/4VpQZOyPXrivCGGuNtQNPc), [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Pode Atender](https://open.spotify.com/album/1rCt46BwSaS1KK0raLh67T) | 3:15 |
+| 8 | [Pode Atender \- Ao Vivo](https://open.spotify.com/track/23erbX29HUbRvvFBKj5eLN) | [Lucylla & Lucyana](https://open.spotify.com/artist/4VpQZOyPXrivCGGuNtQNPc), [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Pode Atender \(Ao Vivo\)](https://open.spotify.com/album/1rCt46BwSaS1KK0raLh67T) | 3:15 |
 | 9 | [Na Mão do Bruto](https://open.spotify.com/track/3XBKOf4pG1Fu1FqTYukbSP) | [Gabriel Sales](https://open.spotify.com/artist/6tcNRB3rCmYF41qZo5UXkL) | [Na Mão do Bruto](https://open.spotify.com/album/1OCjiRh6QQCBHmcwUu0l4a) | 2:30 |
 | 10 | [Eu Sem Você \- Ao Vivo](https://open.spotify.com/track/6rHC3vRlZYLmbwk3S0VRAi) | [Neto e Guilherme](https://open.spotify.com/artist/1xczintYOYmOtkZva7cZl0), [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [Eu Sem Você \(Ao Vivo\)](https://open.spotify.com/album/1xV4QflnyaAkK0j8Er95vl) | 3:31 |
 | 11 | [Nem na Bala \(Pow Pow Pow\) \- Ao Vivo](https://open.spotify.com/track/35wE9yerliT3RGbWmXvOz1) | [Alex & Medina](https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Isso É Alex & Medina \(Ao Vivo\)](https://open.spotify.com/album/6v89wGF0Z288grdNzU0eCb) | 2:09 |

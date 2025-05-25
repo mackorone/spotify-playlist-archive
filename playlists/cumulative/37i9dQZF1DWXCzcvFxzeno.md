@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-268 songs - 19 hr 34 min
+269 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [999 \(BDSM\)](https://open.spotify.com/track/2TzQLWRlpeTAY4YpZudJ6p) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [999 \(BDSM\)](https://open.spotify.com/album/1TnQKykUUe9GTI48BbGTEe) | 2:38 | 2024-11-01 |  |
 | [ABYSS](https://open.spotify.com/track/4fLw4RZYwwQMP2pf7i8q3g) | [Juul Exler](https://open.spotify.com/artist/0UX1w5iv2fvXoqdH7XbJM9) | [ABYSS](https://open.spotify.com/album/2WHcALRyJK8CUoDZ8QFCAa) | 3:41 | 2024-04-09 | 2025-04-28 |
 | [Achtuhrvier](https://open.spotify.com/track/6MqW3vrYS9INbfmtz1UgT0) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [Pesante \(GER\)](https://open.spotify.com/artist/2G6DJAM91D5woggl7SK1VH) | [Them Sinners](https://open.spotify.com/album/7Mpr0C99nS6tZjrHJAIlvl) | 6:27 | 2024-04-09 | 2024-10-25 |
+| [Acid](https://open.spotify.com/track/2pwQrOz2ouKTqXxRSJmxbm) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Acid](https://open.spotify.com/album/2tCLqpTFDobTy2KAmuHNot) | 2:40 | 2025-05-23 |  |
 | [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 | 2024-04-09 | 2024-10-07 |
 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 | 2024-04-09 |  |
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
@@ -266,7 +267,7 @@
 | [Welcome Back Devil](https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Welcome Back Devil](https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz) | 5:20 | 2024-04-09 |  |
 | [Welcome To London](https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Welcome To London](https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9) | 6:55 | 2024-04-09 | 2025-04-13 |
 | [Weltschmerz](https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Weltschmerz](https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3) | 6:24 | 2024-08-05 |  |
-| [When The Bass Is Too Loud](https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [When The Bass Is Too Loud EP](https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF) | 4:32 | 2024-06-18 |  |
+| [When The Bass Is Too Loud](https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [When The Bass Is Too Loud EP](https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF) | 4:32 | 2024-06-18 | 2025-05-25 |
 | [Wild West](https://open.spotify.com/track/10Y4PR7iAX4x4HeOKx8zFz) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v) | [ENTER MY SIMULATION](https://open.spotify.com/album/0DjIjay4fyIWthmdsRTqBM) | 4:13 | 2024-08-02 | 2024-11-29 |
 | [WTF?](https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [WTF?](https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5) | 3:42 | 2025-02-07 |  |
 | [XTC](https://open.spotify.com/track/5EwP2h6i4N5durNel1b5Qw) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [GLØCK](https://open.spotify.com/artist/5ogsJfXsVSStkB58OGqXPG) | [Dier van de Nacht](https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG) | 3:12 | 2024-05-22 | 2024-06-24 |

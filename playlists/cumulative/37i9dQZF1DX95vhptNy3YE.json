@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "After do Benza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3VAQTlftSOa79dQpsIdjhG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293461,
+      "name": "At\u00e9 Que Durou / 1 Metro e 65 - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cS6BbRwFGgkhAeO8lHUva"
+    },
+    {
+      "album": {
         "name": "Aulas e Cursos",
         "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
       },
@@ -12606,7 +12624,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 165703,
       "name": "Resenha das Minas - Ao Vivo",
       "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"

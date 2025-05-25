@@ -9054,7 +9054,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 223184,
       "name": "Cavale",
       "url": "https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY"
@@ -33557,6 +33557,28 @@
     },
     {
       "album": {
+        "name": "RAHMA",
+        "url": "https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "Les jolies filles",
+      "url": "https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0"
+    },
+    {
+      "album": {
         "name": "Les joues couleur de fraise",
         "url": "https://open.spotify.com/album/3NfJpgiWXVzV7jyrobMnuJ"
       },
@@ -48866,7 +48888,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 198133,
       "name": "Quoi qu'il arrive \u00e7a va aller",
       "url": "https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc"
@@ -58132,6 +58154,32 @@
       "duration_ms": 187080,
       "name": "Tout est parfait",
       "url": "https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7"
+    },
+    {
+      "album": {
+        "name": "Tout g\u00e2cher",
+        "url": "https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126191,
+      "name": "Tout g\u00e2cher",
+      "url": "https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok"
     },
     {
       "album": {

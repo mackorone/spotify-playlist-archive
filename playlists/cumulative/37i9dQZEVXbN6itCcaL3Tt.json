@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
@@ -13370,7 +13370,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -13388,7 +13388,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -15404,7 +15404,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 219870,
       "name": "GEN D",
       "url": "https://open.spotify.com/track/04wQ2GC9l2CNTLbAINXLMO"
@@ -24225,6 +24225,28 @@
     },
     {
       "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/7vbEFq6DHsupzdDt66WCvm"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/73a6kr3aVlUNA8moxfWXhQ"
+    },
+    {
+      "album": {
         "name": "Lost Cause",
         "url": "https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED"
       },
@@ -26740,7 +26762,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 251400,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
@@ -28518,6 +28540,32 @@
       "duration_ms": 210357,
       "name": "Nad ranem",
       "url": "https://open.spotify.com/track/7jP1BjqK9Qkbmk4rq3Vjdy"
+    },
+    {
+      "album": {
+        "name": "samoloty i nadprzestrzenie",
+        "url": "https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "nadprzestrzenie",
+      "url": "https://open.spotify.com/track/65ysPMey1kkR7Ccsxw5ZrZ"
     },
     {
       "album": {
@@ -30834,7 +30882,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 178893,
       "name": "O Pani!",
       "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
@@ -37059,6 +37107,32 @@
     },
     {
       "album": {
+        "name": "Recepta na sukces",
+        "url": "https://open.spotify.com/album/6l0NLTrsxWphj0OBn1DNqz"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Opiat",
+          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Recepta na sukces",
+      "url": "https://open.spotify.com/track/6EKZhAqJuZhtoI5Tlxgs7o"
+    },
+    {
+      "album": {
         "name": "RED BULL 64 BARS",
         "url": "https://open.spotify.com/album/4grZTEXJlxXg5zaIMWfMzx"
       },
@@ -38425,6 +38499,32 @@
     },
     {
       "album": {
+        "name": "samoloty i nadprzestrzenie",
+        "url": "https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244213,
+      "name": "samoloty",
+      "url": "https://open.spotify.com/track/2sHiHyAQZCD7oPXo1eBAbL"
+    },
+    {
+      "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
       },
@@ -38682,7 +38782,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
@@ -45344,7 +45444,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"
@@ -45710,7 +45810,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 202506,
       "name": "VHS",
       "url": "https://open.spotify.com/track/7t3iKbFf34FK5syqppOlIx"
@@ -45942,6 +46042,40 @@
       "duration_ms": 199093,
       "name": "W cenie",
       "url": "https://open.spotify.com/track/276m46Zcnv9wAN0HL1alTu"
+    },
+    {
+      "album": {
+        "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
+        "url": "https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8"
+      },
+      "artists": [
+        {
+          "name": "po prostu Kajtek",
+          "url": "https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Shelast",
+          "url": "https://open.spotify.com/artist/7K7hYrJz4X6lkVPp8kWX7o"
+        },
+        {
+          "name": "matiorzel",
+          "url": "https://open.spotify.com/artist/7k77M3ebwl8FbsAWbquOMN"
+        },
+        {
+          "name": "Nowe Rozdanie",
+          "url": "https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186929,
+      "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
+      "url": "https://open.spotify.com/track/5LreD4p6buqBGNwV84YsZb"
     },
     {
       "album": {

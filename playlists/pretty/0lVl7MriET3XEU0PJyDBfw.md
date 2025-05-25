@@ -8,12 +8,12 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
+| 1 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
 | 2 | [Say Hello](https://open.spotify.com/track/22kdzArm3L4jOWarvdCEdN) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Say Hello](https://open.spotify.com/album/48cb9pQ8cKvjXscRvlQGjX) | 2:35 |
 | 3 | [Mind Games](https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mind Games](https://open.spotify.com/album/6BBcom41AOXWc7K88JpNcM) | 3:19 |
-| 4 | [Feed The Fire](https://open.spotify.com/track/3cuOlVmoIPNNDY98qyi8pV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Feed The Fire](https://open.spotify.com/album/79isL27aZp2fspAxFGXs56) | 2:33 |
-| 5 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
-| 6 | [Juanita \- Mark Broom Remix](https://open.spotify.com/track/2WvjzJwMCIqSvCq4bGKYnl) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Bimini Road \(Remixed\)](https://open.spotify.com/album/04nMZW1uMattOkRTZvZESC) | 4:18 |
+| 4 | [Juanita \- Mark Broom Remix](https://open.spotify.com/track/2WvjzJwMCIqSvCq4bGKYnl) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Bimini Road \(Remixed\)](https://open.spotify.com/album/04nMZW1uMattOkRTZvZESC) | 4:18 |
+| 5 | [Feed The Fire](https://open.spotify.com/track/3cuOlVmoIPNNDY98qyi8pV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Feed The Fire](https://open.spotify.com/album/79isL27aZp2fspAxFGXs56) | 2:33 |
+| 6 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
 | 7 | [Contact](https://open.spotify.com/track/21eXY8KQDQ2j06jkmRy3IL) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Sweet Contact EP](https://open.spotify.com/album/69083nqbds1YIqZDmgyuUC) | 3:18 |
 | 8 | [Focus \(feat\. CLOVES\) \- Layton Giordani Remix](https://open.spotify.com/track/0JAsZNHBg7CFm7mbUr2pSt) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Focus \(feat\. CLOVES\) \[Layton Giordani Remix\]](https://open.spotify.com/album/2tFV0VTYlaoVbqJquzfx9V) | 3:32 |
 | 9 | [Dirty Cat \(with Miggy Dela Rosa\)](https://open.spotify.com/track/5ycOoKwfuGlEwmO7V8oqyS) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Dirty Cat \(with Miggy Dela Rosa\)](https://open.spotify.com/album/2AQ636Qk3bsXPaJ8UMDA1L) | 3:16 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 100 | [Saving Up \- Odd Mob Remix](https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Saving Up \(Odd Mob Remix\)](https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz) | 3:13 |
 | 101 | [MERTHER](https://open.spotify.com/track/3WBeUXMYcRePMS2DwaNwUD) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [MERTHER](https://open.spotify.com/album/5tthFm169l1a29bZTlkXoc) | 3:09 |
 
-Snapshot ID: `AAAblpz30AuOUzcu/HyUrDBpCJgUpMmH`
+Snapshot ID: `AAAbm9IXYPDB3uTwDjkbZLxJaT5zS3/8`

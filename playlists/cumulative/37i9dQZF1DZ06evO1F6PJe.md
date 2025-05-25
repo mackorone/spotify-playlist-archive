@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-181 songs - 15 hr 59 min
+182 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 | 2022-08-05 | 2022-10-06 |
 | [Don't Talk to Me Like I'm Tiffany](https://open.spotify.com/track/1QXkca3GgoCzzcYUy7OG2P) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Antipodes](https://open.spotify.com/album/0f8qJlyAOGniS3MogPgEUH) | 3:32 | 2022-12-24 | 2023-08-14 |
 | [Drive](https://open.spotify.com/track/2knqdlYKjS0J27lYyyRllU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:47 | 2022-08-05 |  |
+| [Drive By The Exit Sign](https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Drive By The Exit Sign](https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v) | 4:19 | 2025-05-25 |  |
 | [Driving Towards the Daylight](https://open.spotify.com/track/4i8D5dh2n2B1mUWgQSC5ZO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 4:49 | 2022-08-05 |  |
 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 | 2023-03-26 |  |
 | [Dust Bowl](https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:33 | 2022-08-05 |  |
@@ -132,7 +133,7 @@
 | [Red Sun](https://open.spotify.com/track/5jgcfQr74zZSbY7zPP1YnI) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Red Sun](https://open.spotify.com/album/1bz0eLu507dD896Zj7zJIR) | 6:32 | 2024-04-08 | 2024-06-30 |
 | [Redemption](https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:57 | 2022-08-09 | 2023-01-16 |
 | [Savannah](https://open.spotify.com/track/2gt07hYrmx6hnmxg1zwaT4) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:36 | 2022-08-05 | 2022-11-02 |
-| [Scarlet Town](https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Scarlet Town](https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM) | 7:57 | 2024-09-15 |  |
+| [Scarlet Town](https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Scarlet Town](https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM) | 7:57 | 2024-09-15 | 2025-05-25 |
 | [Self\-Inflicted Wounds](https://open.spotify.com/track/0r61QhigETeOXpl03u1nSV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:35 | 2022-08-05 | 2023-10-11 |
 | [Self\-Inflicted Wounds \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/3YAESbqQs6xMLtSfYudfNV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 7:56 | 2024-06-26 | 2024-10-20 |
 | [Shake This Ground](https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Shake This Ground](https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs) | 4:07 | 2025-03-02 |  |

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-735 songs - 1 day 11 hr 50 min
+736 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Blanket](https://open.spotify.com/track/7xJebntmrp0BbrI3WHMgyS) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Blanket](https://open.spotify.com/album/3AUkBHAVbpPFqWX7scwSVv) | 3:14 | 2025-04-09 |  |
 | [Blind Tune](https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X) | [Relax Pod](https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg) | [Blind Tune](https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8) | 3:21 | 2024-04-05 | 2025-02-21 |
 | [Blissful Breeze](https://open.spotify.com/track/5mEstebX16SCW56WWnEluW) | [Aurora Novara](https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70) | [Blissful Breeze](https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn) | 2:45 | 2024-04-05 | 2025-04-17 |
+| [Blomsteräng](https://open.spotify.com/track/12GlrNvdMf4ilK0TDfb0sW) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Blomsteräng](https://open.spotify.com/album/4vh0EonYtGSQOvQTwcres8) | 2:45 | 2025-05-20 |  |
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2023-03-23 | 2024-05-05 |
 | [Blue Planet](https://open.spotify.com/track/29KXf3gbyfbtG5OWTxnssl) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 3:05 | 2023-03-23 | 2024-05-21 |
 | [Blue Sphere](https://open.spotify.com/track/3aQ46BOZ8C3fOfSFfyEcwq) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Blue Sphere](https://open.spotify.com/album/1mOqBOPa7rItQzoOrgokpL) | 2:42 | 2023-03-23 | 2024-03-21 |
@@ -423,7 +424,7 @@
 | [Mindvibe](https://open.spotify.com/track/3aROTIlJEYc90xE8hlm4Be) | [Sir Dejvid](https://open.spotify.com/artist/0pwSi22Ps7HUNFmaAQHTJF) | [Cipher](https://open.spotify.com/album/2jBr8FtJiUIW5KuklZAaxa) | 3:03 | 2023-07-14 | 2024-07-10 |
 | [Miracle Manifestations](https://open.spotify.com/track/434O3sagPl9KLkBhGp7aP5) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Miracle Manifestations](https://open.spotify.com/album/1nqyNBtjTe6UuWdq86sB6G) | 2:08 | 2025-01-22 |  |
 | [Mirage](https://open.spotify.com/track/6DRFqcpIn6lH267u3pIMnF) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Mirage](https://open.spotify.com/album/4i0PuQlDnKEbyYe3Qh5nIX) | 2:38 | 2025-02-26 |  |
-| [Miravar](https://open.spotify.com/track/5iEcnvMT4iEPjDihzlq4Ns) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Miravar](https://open.spotify.com/album/0ExUh2Y2QlemMCiEtXTwDt) | 2:51 | 2025-02-04 |  |
+| [Miravar](https://open.spotify.com/track/5iEcnvMT4iEPjDihzlq4Ns) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Miravar](https://open.spotify.com/album/0ExUh2Y2QlemMCiEtXTwDt) | 2:51 | 2025-02-04 | 2025-05-25 |
 | [Mirno](https://open.spotify.com/track/21YSyRy6GIFkbzIoWHLbhD) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Mirno](https://open.spotify.com/album/4RAtKiZLrOx2b2PjBQjXKb) | 2:57 | 2023-03-23 | 2024-05-05 |
 | [Mist](https://open.spotify.com/track/1cDxN422npw3wU2ZfY6Qb9) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [Mist](https://open.spotify.com/album/2U7MoXvOHyKZorf993LEDt) | 2:58 | 2023-03-23 | 2024-03-21 |
 | [Mist](https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Mist](https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt) | 3:05 | 2024-11-05 |  |

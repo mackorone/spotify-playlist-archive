@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Kelsea Ballerini, Lainey Wilson, Chris Stapleton and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,808 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,993 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 74 | [The Devil Wore a Lab Coat](https://open.spotify.com/track/3lhPrGE8OeOavLe0uJODzo) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [The Devil Wore a Lab Coat](https://open.spotify.com/album/07yWgWO7ppNjQESmSbywRq) | 3:13 |
 | 75 | [Good Things Better](https://open.spotify.com/track/3vWbSfMXXLxthTpnzu1B4d) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Good Things Better](https://open.spotify.com/album/5hJs7l9RUVZgJzLGlRuQth) | 2:51 |
 
-Snapshot ID: `AAAAADHp5i35ESvrM7pFjP9+mr5hKETk`
+Snapshot ID: `aDDHXAAAAABApga9JxG1G8jjf8t2MePP`

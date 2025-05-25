@@ -4633,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Canciones en Mi",
+        "url": "https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142724,
+      "name": "D\u00f3nde Est\u00e1s!",
+      "url": "https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3bEF4EGgg3GCjbYi5Exfhk"
       },
@@ -5292,7 +5310,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 151280,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w"
@@ -8152,7 +8170,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 183265,
       "name": "Lento",
       "url": "https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG"
@@ -15016,6 +15034,24 @@
       "duration_ms": 142222,
       "name": "te di mi luz",
       "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
+    },
+    {
+      "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189360,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
     },
     {
       "album": {

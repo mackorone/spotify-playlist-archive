@@ -451,6 +451,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Mi Navidad",
+        "url": "https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Mi Navidad",
+      "url": "https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 227771,
       "name": "Cantamos Gloria",
       "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Mi Navidad",
-        "url": "https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Mi Navidad",
-      "url": "https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "El Ni\u00f1o Del Tambor",
-      "url": "https://open.spotify.com/track/3MPoy0uesBJJsUjor7UCOF"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Venid Adoremos",
         "url": "https://open.spotify.com/album/69wGxND0aHSUyxOwNgeoh4"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 286058,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/3RDCKY0YJ9eJCfoup9VgFv"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "El Ni\u00f1o Del Tambor",
+      "url": "https://open.spotify.com/track/3MPoy0uesBJJsUjor7UCOF"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -991,38 +991,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "El Burrito De Bel\u00e9n",
-      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Estas Navidades",
-        "url": "https://open.spotify.com/album/0HXWyw9bSRLXdYeQk7uFT0"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 214670,
-      "name": "Estas Navidades",
-      "url": "https://open.spotify.com/track/2waxGQNGUaeLrdY0l29iPB"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Welcome Home (Este Es Tu Hogar)",
         "url": "https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB"
       },
@@ -1059,6 +1027,38 @@
       "duration_ms": 186792,
       "name": "Venid Fieles Todos",
       "url": "https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Estas Navidades",
+        "url": "https://open.spotify.com/album/0HXWyw9bSRLXdYeQk7uFT0"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 214670,
+      "name": "Estas Navidades",
+      "url": "https://open.spotify.com/track/2waxGQNGUaeLrdY0l29iPB"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "El Burrito De Bel\u00e9n",
+      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noche De Paz (feat. Betsy)",
-      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "La Promesa",
         "url": "https://open.spotify.com/album/7AyGwSDcRKPdiQFMC2Fbbr"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 214853,
       "name": "Desde Que Naci\u00f3",
       "url": "https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noche De Paz (feat. Betsy)",
+      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Happy Birthday Jesus (Merry Christmas)",
-        "url": "https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x"
+        "name": "Navidad en Miami",
+        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
       },
       "artists": [
         {
-          "name": "Lily Marie Antonini",
-          "url": "https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt"
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
         }
       ],
-      "duration_ms": 219798,
-      "name": "Espiritu Santo",
-      "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
+      "duration_ms": 160500,
+      "name": "Navidad en Miami",
+      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Navidad en Miami",
-        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
+        "name": "Happy Birthday Jesus (Merry Christmas)",
+        "url": "https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x"
       },
       "artists": [
         {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+          "name": "Lily Marie Antonini",
+          "url": "https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Navidad en Miami",
-      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
+      "duration_ms": 219798,
+      "name": "Espiritu Santo",
+      "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "El Primer Noel",
-        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
+        "name": "Navidad Con Gospa",
+        "url": "https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6"
       },
       "artists": [
         {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+          "name": "Gospa",
+          "url": "https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ"
         }
       ],
-      "duration_ms": 190253,
-      "name": "El Primer Noel",
-      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
+      "duration_ms": 187204,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Navidad Con Gospa",
-        "url": "https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6"
+        "name": "El Primer Noel",
+        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
       },
       "artists": [
         {
-          "name": "Gospa",
-          "url": "https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ"
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
         }
       ],
-      "duration_ms": 187204,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
+      "duration_ms": 190253,
+      "name": "El Primer Noel",
+      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/5qy8lefE0Ki8Q2Mz5odZ0A"
+      },
+      "artists": [
+        {
+          "name": "Michael Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/5s5xh9ahS3Af7soatyfb6b"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "Pasen La Navidad Conmigo",
+      "url": "https://open.spotify.com/track/75rJXFGVTWRpgUi7ywIUUE"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Navidad Lleg\u00f3",
         "url": "https://open.spotify.com/album/1kZuuVkiGyFc2LpNbkfzmw"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 232777,
       "name": "\u00c1ngeles Cantando Est\u00e1n",
       "url": "https://open.spotify.com/track/4pbUXK8NtfkGh876JtOR6Q"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "The Ultimate Christmas Collection",
-        "url": "https://open.spotify.com/album/5qy8lefE0Ki8Q2Mz5odZ0A"
-      },
-      "artists": [
-        {
-          "name": "Michael Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/5s5xh9ahS3Af7soatyfb6b"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "Pasen La Navidad Conmigo",
-      "url": "https://open.spotify.com/track/75rJXFGVTWRpgUi7ywIUUE"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Miguez",
-          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
-        }
-      ],
-      "duration_ms": 181690,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Se Oye el Anuncio",
         "url": "https://open.spotify.com/album/5iB7CsbvyOAOb3Tx5JO11s"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 222375,
       "name": "Se Oye el Anuncio",
       "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Miguez",
+          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
+        }
+      ],
+      "duration_ms": 181690,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
     },
     {
       "added_at": "2024-12-13 04:11:31",

@@ -4,7 +4,7 @@
 
 > 
 
-7,225 songs - 18 day 18 hr 37 min
+7,226 songs - 18 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5999,6 +5999,7 @@
 | [Wavybone \(feat\. Juicy J & UGK\)](https://open.spotify.com/track/5cYZm4KeDKM8Pw8z5XRKJt) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 5:03 | 2024-12-05 |  |
 | [way back](https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:32 | 2025-01-15 |  |
 | [Way Back Into Love](https://open.spotify.com/track/0zYP35FfMItfaP6c9gcQZB) | [Hugh Grant](https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT), [Haley Bennett](https://open.spotify.com/artist/74tNiaBNZ0L0B4bu0lF6r1) | [Music And Lyrics \- Music From and Inspired By The Motion Picture \(International Release\)](https://open.spotify.com/album/67icItKFH7ZFd5FdAZdlhI) | 4:37 | 2025-01-03 |  |
+| [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2025-05-24 |  |
 | [Way down We Go](https://open.spotify.com/track/7aUuoq4oMfLxaLa5GVUDHi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go](https://open.spotify.com/album/28I1XWP7hYWdexJnuXE9HE) | 3:39 | 2025-01-03 |  |
 | [Way Hii \(feat\. A$AP Rocky, Wiz Khalifa, BJ The Chicago Kid & Buddy\)](https://open.spotify.com/track/4ISLRAqJbSgvkqRgiCaikS) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 2:56 | 2024-12-05 |  |
 | [Way Of Life](https://open.spotify.com/track/2ZoKMVQaFYnOsKeHbzSqLy) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [500 Degreez](https://open.spotify.com/album/41s8PPH5gEz7H8b8kbv5Y5) | 3:59 | 2025-03-07 |  |

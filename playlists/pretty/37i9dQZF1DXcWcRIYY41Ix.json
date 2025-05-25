@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Karmento.",
-  "num_followers": 129536,
+  "num_followers": 129567,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
+        "name": "Traigo un canto guardado",
+        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "duration_ms": 228555,
+      "name": "Traigo un canto guardado",
+      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1251,6 +1267,26 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1287,42 +1323,6 @@
       "duration_ms": 193475,
       "name": "Una Vida para M\u00ed",
       "url": "https://open.spotify.com/track/6MlIViSpbyUGiNRUgjGNbI"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
-        "name": "Continuar",
-        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Continuar",
-      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
-        "name": "Traigo un canto guardado",
-        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3nica Giraldo",
-          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
-        }
-      ],
-      "duration_ms": 228555,
-      "name": "Traigo un canto guardado",
-      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Me lo merezco",
-        "url": "https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP"
-      },
-      "artists": [
-        {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Me lo merezco",
-      "url": "https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Todas Las Banderas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 180250,
       "name": "Todas Las Banderas (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Me lo merezco",
+        "url": "https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP"
+      },
+      "artists": [
+        {
+          "name": "Silvia & Karmen",
+          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Me lo merezco",
+      "url": "https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Migas",
         "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 333409,
       "name": "Migas",
       "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "HAZ LO TUYO",
         "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 236000,
       "name": "nada es para siempre (As\u00ed)",
       "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
+        "name": "Sonqollay",
+        "url": "https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        },
+        {
+          "name": "SUR",
+          "url": "https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo"
+        }
+      ],
+      "duration_ms": 225462,
+      "name": "Sonqollay",
+      "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
         "name": "Palomita de Mar",
         "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
       },
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Sonqollay",
-        "url": "https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        },
-        {
-          "name": "SUR",
-          "url": "https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo"
-        }
-      ],
-      "duration_ms": 225462,
-      "name": "Sonqollay",
-      "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -1835,18 +1835,38 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Mar de Ardora",
-        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
+        "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
+        "url": "https://open.spotify.com/album/79eB5mKq2qnyotNHaVqj6v"
       },
       "artists": [
         {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+          "name": "Xerach",
+          "url": "https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW"
+        },
+        {
+          "name": "La Mare",
+          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
+        },
+        {
+          "name": "Roba Estesa",
+          "url": "https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt"
+        },
+        {
+          "name": "Violeta Veinte",
+          "url": "https://open.spotify.com/artist/4qBn3IdXMr2cQDIYD5lgMi"
+        },
+        {
+          "name": "Javi Rubio",
+          "url": "https://open.spotify.com/artist/2kNnCJ74SN4ZncePrOR7WU"
+        },
+        {
+          "name": "Juanmi Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/5h7NvrDzovbDrq07p1GnFq"
         }
       ],
-      "duration_ms": 268334,
-      "name": "Luces encendidas",
-      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
+      "duration_ms": 234000,
+      "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
+      "url": "https://open.spotify.com/track/1A0HKpa6H3n2fRDWIghSUe"
     }
   ],
   "unique_name": "Cancionistas",

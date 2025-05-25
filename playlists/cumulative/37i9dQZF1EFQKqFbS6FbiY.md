@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-615 songs - 1 day 5 hr 56 min
+617 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [Dois Dias Seguidos](https://open.spotify.com/track/38COhIa1lNyTmcIEUHgeZV) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [On Fire](https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX) | 2:23 | 2024-03-26 |  |
 | [Dois V](https://open.spotify.com/track/6rJRZgyL5OUfYVV3zTwnkE) | [Roger & Gustavo](https://open.spotify.com/artist/4FTFlQC5nmDiOgU1hcMfaI) | [Na Levada](https://open.spotify.com/album/6qbLSHoYpmqJgdqv6utRjK) | 2:49 | 2023-12-30 |  |
 | [Doutor](https://open.spotify.com/track/6KM5A4ZCRvaEJfl9k18nQE) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Studio Sessions, Vol\. 2](https://open.spotify.com/album/6vFjDE3RANSiqS8jFjr2lZ) | 2:56 | 2023-12-30 |  |
-| [Duas Horas \- Ao Vivo](https://open.spotify.com/track/48V7sbUtgbDJCESzszX76p) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/1aBzAN2KO1ymWgY840EP5o) | 3:05 | 2024-03-26 |  |
+| [Duas Horas \- Ao Vivo](https://open.spotify.com/track/1eHpQ0Fu5zDahlj5JgbCP2) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/63q8lsOzQDtmh34PSChZLF) | 3:05 | 2025-05-24 |  |
+| [Duas Horas \- Ao Vivo](https://open.spotify.com/track/48V7sbUtgbDJCESzszX76p) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/1aBzAN2KO1ymWgY840EP5o) | 3:05 | 2024-03-26 | 2025-05-25 |
 | [Duro na Queda](https://open.spotify.com/track/3ibP4iYjmxG9KopShEUu4O) | [Lucca e Roberto](https://open.spotify.com/artist/6OdX9nDK2vlxXb8ppEHpiO) | [Cenários](https://open.spotify.com/album/4wKsSGt9adoJBzMBRAjgDJ) | 2:51 | 2023-12-30 |  |
 | [Dá uma Chance Pra Nós \- Ao Vivo](https://open.spotify.com/track/1YfOvCotaV0FMfbZIwmM4x) | [Lu Fossi](https://open.spotify.com/artist/5UooWZC3dCujBUWDDgn0G3), [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Dá uma Chance Pra Nós \(Ao Vivo\)](https://open.spotify.com/album/7wNQyQsqSmnIV0SYc6YaA2) | 3:10 | 2023-12-30 |  |
 | [Dá uma Segurada \- Ao Vivo](https://open.spotify.com/track/5fQ7LowPHFRDMI4CEXvNfs) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Contraste \(Ao Vivo\)](https://open.spotify.com/album/45j7kQSCmIQt3XJbOhO9Bx) | 2:50 | 2023-12-30 |  |
@@ -492,7 +493,8 @@
 | [Se Você Fosse \(Soda\)](https://open.spotify.com/track/1r6imoFUJcKnoqhlZvgssn) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Pé Na Rua](https://open.spotify.com/album/4GPicD3sphtwoewZrFqNHV) | 2:44 | 2023-12-30 |  |
 | [Secando Garrafas \- Ao Vivo](https://open.spotify.com/track/171xO0hiFf79MhFWZXmiD7) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g), [Bruno](https://open.spotify.com/artist/6XXk08O8PJ8rxN9DsLJaCT) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 2:33 | 2023-12-30 |  |
 | [Segura o Seu Dog](https://open.spotify.com/track/5bQRReci23NeYAIJCXIXzL) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Manu Bahtidão, Vol\. 3](https://open.spotify.com/album/62YjVYUxROH3N35jFDjg4g) | 2:35 | 2023-12-30 |  |
-| [Segurança \- Ao Vivo](https://open.spotify.com/track/2KZeoDtpGXkmNus2Z1kAY5) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/1aBzAN2KO1ymWgY840EP5o) | 2:27 | 2024-03-26 |  |
+| [Segurança \- Ao Vivo](https://open.spotify.com/track/2KZeoDtpGXkmNus2Z1kAY5) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/1aBzAN2KO1ymWgY840EP5o) | 2:27 | 2024-03-26 | 2025-05-25 |
+| [Segurança \- Ao Vivo](https://open.spotify.com/track/3ZcZQLuGhoQhPowURNEyiU) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/63q8lsOzQDtmh34PSChZLF) | 2:27 | 2025-05-24 |  |
 | [Seja um Fenômeno \- Ao Vivo](https://open.spotify.com/track/7E30IFJdE5hf6zfnu2gjqb) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:12 | 2023-12-30 |  |
 | [Sem Flash](https://open.spotify.com/track/3GNwCcnhPVyQYp2NDHgSsU) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL) | [Sem Flash](https://open.spotify.com/album/4wcsGvEjTc9vXnueCOQGwX) | 2:37 | 2023-12-30 |  |
 | [Sem Vergonha](https://open.spotify.com/track/6iaMEVDUzPACPmAayeQJB4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:37 | 2024-12-13 |  |

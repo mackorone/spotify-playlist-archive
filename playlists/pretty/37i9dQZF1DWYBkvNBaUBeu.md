@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,778 likes - 82 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,794 likes - 82 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

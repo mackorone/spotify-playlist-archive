@@ -5064,10 +5064,32 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 199411,
       "name": "BAGGY",
       "url": "https://open.spotify.com/track/39OCJuxF2ua2VA5UjAbtX8"
+    },
+    {
+      "album": {
+        "name": "PODOKNAMI",
+        "url": "https://open.spotify.com/album/4YX26iNbIk5yGGuoawkH6y"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "baggy",
+      "url": "https://open.spotify.com/track/4eTsKk9MW7oob1UsyLpWTp"
     },
     {
       "album": {
@@ -5112,7 +5134,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 143349,
       "name": "Bailalo Rocky",
       "url": "https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf"
@@ -12622,7 +12644,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 77022,
       "name": "De Ty Moja Hoe",
       "url": "https://open.spotify.com/track/0JT0FxQrTE36DiLHzv0UiX"
@@ -21522,10 +21544,28 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
+    },
+    {
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/6TbgsJQ3DN2r621QVJTIoU"
+      },
+      "artists": [
+        {
+          "name": "Sissal",
+          "url": "https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP"
+        }
+      ],
+      "date_added": "2025-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/3RYraCZjOLm1jXudyvtPVe"
     },
     {
       "album": {
@@ -29274,7 +29314,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-25",
       "duration_ms": 180068,
       "name": "Laika Party",
       "url": "https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo"
@@ -62730,7 +62770,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"

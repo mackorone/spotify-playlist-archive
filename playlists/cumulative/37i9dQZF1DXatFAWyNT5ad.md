@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-854 songs - 1 day 19 hr 56 min
+855 songs - 1 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Enter Sandman](https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Enter Sandman](https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1) | 5:33 | 2022-03-24 | 2022-04-19 |
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-15 |  |
 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 | 2023-06-23 |  |
-| [Every Heart But Mine](https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Every Heart But Mine](https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8) | 3:15 | 2023-03-17 |  |
+| [Every Heart But Mine](https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Every Heart But Mine](https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8) | 3:15 | 2023-03-17 | 2025-05-25 |
 | [Everybody Hates Me](https://open.spotify.com/track/6z29YcbJnMiuFLmrkOXIkP) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Everybody Hates Me](https://open.spotify.com/album/0f8UHFZKDAb12Udzya2dIh) | 2:34 | 2022-03-24 | 2022-04-10 |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-03-17 |  |
 | [Everybody Rise](https://open.spotify.com/track/3eGmv9sxK60p8XIBLhBtC0) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Everybody Rise](https://open.spotify.com/album/116julihD6RXmoi525fLtU) | 3:10 | 2022-04-14 | 2022-04-16 |
@@ -636,6 +636,7 @@
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2022-03-17 | 2023-10-07 |
 | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/track/1GlaDUecMXdHig5D1tgY8p) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/album/2d28oUb7mIuWnjuZk7TSE2) | 2:33 | 2022-03-24 | 2022-04-18 |
 | [Riptide](https://open.spotify.com/track/2oAZlBN2CmNieXmJ1bQDYL) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Riptide](https://open.spotify.com/album/5mTV7uHJePkMZSOubfejBy) | 3:12 | 2022-03-24 | 2022-04-17 |
+| [Risk](https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Risk](https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH) | 2:59 | 2025-05-23 |  |
 | [rock bottom](https://open.spotify.com/track/1HNZKdDEFYjP036VkK0Cjq) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [rock bottom](https://open.spotify.com/album/0UouSo7IYsTk4P0QQ9ICFR) | 3:10 | 2022-03-24 | 2022-04-15 |
 | [Rocket Science](https://open.spotify.com/track/7s6hJ1e3IBHqb3TfjDLGVL) | [Shelbi](https://open.spotify.com/artist/78c3wnb5LAQ39y1tdCEsIj) | [Rocket Science EP](https://open.spotify.com/album/0LrEWeJ0CdBQPz829uWYCj) | 3:16 | 2022-03-24 | 2022-04-09 |
 | [Roommates](https://open.spotify.com/track/17PptOBotUJkpT29mGyCB7) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Roommates // Overtime](https://open.spotify.com/album/4Fj5zzYFkEeSND67m9WbpL) | 3:20 | 2024-05-31 | 2024-06-22 |

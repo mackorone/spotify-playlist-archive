@@ -4,12 +4,13 @@
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 9 min
+58 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Agosto](https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:39 | 2023-12-13 | 2024-08-12 |
 | [Agosto](https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Agosto](https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5) | 3:39 | 2023-11-10 | 2023-12-14 |
+| [Alone](https://open.spotify.com/track/4g7Lpwapn3walV0dlEJEYa) | [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Alone](https://open.spotify.com/album/0dbDUyVtiGojztAC8l16Ou) | 4:38 | 2025-05-25 |  |
 | [Aquí](https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 3:58 | 2023-11-10 |  |
 | [Así TQ Recordar](https://open.spotify.com/track/7f1MTjvYlcQwJW1oouTjVU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 2:51 | 2023-11-10 | 2024-01-28 |
 | [Before Seeing Green](https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:35 | 2023-11-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Reynaldos de la Sierra, Nueva Marca en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,824 likes - 84 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,189 likes - 84 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

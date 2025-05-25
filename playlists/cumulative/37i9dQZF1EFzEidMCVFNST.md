@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-503 songs - 23 hr 59 min
+504 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Ela Mitou \- Ao Vivo](https://open.spotify.com/track/7rHcjd7x9tOfkiDGydEzhA) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 3:08 | 2024-01-29 |  |
 | [Ela Só Quer Dançar](https://open.spotify.com/track/6UkAgJQ8jOzjmLEtioHFDv) | [Juccas](https://open.spotify.com/artist/5LmURMRHOHzltNHdQgOLVH) | [Juccas](https://open.spotify.com/album/5uhMXLSu7mke6zGSveWl5w) | 2:55 | 2024-01-29 |  |
 | [Ele Não Precisa Saber](https://open.spotify.com/track/3a3wUIb5Ny1PnqmPVkH1Y8) | [Rob Ribeiro](https://open.spotify.com/artist/03tWSQRz3g7woM33uuelUX), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Ele Não Precisa Saber](https://open.spotify.com/album/5Pwe9V4rly6HsNLknPSDeG) | 2:34 | 2024-01-29 |  |
-| [Empurrando Com a Barriga](https://open.spotify.com/track/6wTclFOe1fGrdSCGdbCq0s) | [Mônica Costa](https://open.spotify.com/artist/5y9n50MKUxp8MRBKhexNms) | [Empurrando Com a Barriga](https://open.spotify.com/album/2s56MRg8EhEH5z5HXMc2vY) | 3:03 | 2024-01-29 |  |
+| [Empurrando Com a Barriga](https://open.spotify.com/track/1ErWFIpGWl5BjJdJtPGmFZ) | [Mônica Costa](https://open.spotify.com/artist/5y9n50MKUxp8MRBKhexNms) | [Empurrando Com a Barriga](https://open.spotify.com/album/2MxhpYUqOndQBPwYOiLjhZ) | 3:03 | 2025-05-24 |  |
+| [Empurrando Com a Barriga](https://open.spotify.com/track/6wTclFOe1fGrdSCGdbCq0s) | [Mônica Costa](https://open.spotify.com/artist/5y9n50MKUxp8MRBKhexNms) | [Empurrando Com a Barriga](https://open.spotify.com/album/2s56MRg8EhEH5z5HXMc2vY) | 3:03 | 2024-01-29 | 2025-05-25 |
 | [Energia Não Mente](https://open.spotify.com/track/3AH4vDJX8N5C5hS1tlP9U4) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Energia Não Mente](https://open.spotify.com/album/4aNpbMF0mARTvRAeuo0shh) | 2:51 | 2024-01-29 |  |
 | [Enganando A Despedida \- Ao Vivo Em Uberlândia / 2018](https://open.spotify.com/track/1IjayL3VzEtLQMwNAvLfpT) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Studio Bar \(Ao Vivo Em Uberlândia / 2018 / Vol\. 2\)](https://open.spotify.com/album/5YFOpxwwKXO2HhbTsFzdpi) | 2:46 | 2024-01-29 |  |
 | [Enlouquece](https://open.spotify.com/track/0cHY38n0PeJL8gbwLO7W5K) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [EP 1](https://open.spotify.com/album/71PC8ZTWehwRt9n8Bn9Z1q) | 2:33 | 2024-01-29 |  |
