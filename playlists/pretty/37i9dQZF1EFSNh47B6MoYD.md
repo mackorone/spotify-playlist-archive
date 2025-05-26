@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 142 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 143 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 79 | [Cosas Que Echo de Menos](https://open.spotify.com/track/1ZQB2iLP6CmER6LNka3jR3) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:27 |
 | 80 | [Arena Movediza](https://open.spotify.com/track/2mcg0Nd75PVm0fcyOTHqmI) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
 | 81 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
-| 82 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
-| 83 | [Ya Tu No Estas De Moda](https://open.spotify.com/track/2URCTXL4qBAgdxDvvp1UMJ) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:51 |
+| 82 | [Ya Tu No Estas De Moda](https://open.spotify.com/track/2URCTXL4qBAgdxDvvp1UMJ) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:51 |
+| 83 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
 | 84 | [Bien](https://open.spotify.com/track/6qcDwycoQlUXKEc5TntCKD) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:21 |
 | 85 | [Si Te Vas](https://open.spotify.com/track/7zeIbf3qsXGGwUZjDP5mzV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:22 |
 | 86 | [Mil Maneras](https://open.spotify.com/track/2ZZnPmiex3NUCb9tX7mAyS) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:05 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 89 | [Besando Sapos](https://open.spotify.com/track/7xTF7xQO5j5eSVwcSGO7T0) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 2:35 |
 | 90 | [Me Corta el Alma](https://open.spotify.com/track/7mFpFambkcEmcWf0X8xCON) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Yo Mismo](https://open.spotify.com/album/3fQsDvySZB7b3zgrgCAUXC) | 4:21 |
 | 91 | [Sigo Caminando](https://open.spotify.com/track/1Ap7SgnEnvcE7Uih5CXNXO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Sigo Caminando](https://open.spotify.com/album/37WnSB8LQ6LFsXnFMGVgWg) | 3:34 |
-| 92 | [La Manuela](https://open.spotify.com/track/3T5KzHZ6azcHvwyTabOgCg) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 1:59 |
-| 93 | [El Mejor de Mis Errores \- En Vivo](https://open.spotify.com/track/5moGJ1dvkgR1U9OeLheYBV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:19 |
+| 92 | [El Mejor de Mis Errores \- En Vivo](https://open.spotify.com/track/5moGJ1dvkgR1U9OeLheYBV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:19 |
+| 93 | [La Manuela](https://open.spotify.com/track/3T5KzHZ6azcHvwyTabOgCg) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 1:59 |
 | 94 | [Medley Puerto Rico: Amar a Dos / La Pasión Tiene Memoria / No Queda Nada / Alguien Más / No Me Interesa / Mi Mujer Es un Policía](https://open.spotify.com/track/1AAhNdnCEkIyRQfUmbbDhs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Diana Reyes](https://open.spotify.com/artist/7fXi334mk8LIrBDzleM8Qz) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 8:35 |
 | 95 | [Missing You Today](https://open.spotify.com/track/4djeeqUvkSWbYSY5lodIhw) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:53 |
 | 96 | [Day Off](https://open.spotify.com/track/4DPm3fwhtVEPgnaRPzeITn) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Darnos Un Dia / Day Off](https://open.spotify.com/album/4D8wKDXGORK7h46dvi57pZ) | 4:04 |
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 140 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
 | 141 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 142 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
+| 143 | [Cheap Margaritas](https://open.spotify.com/track/6z7OS3P0O3yDQ05WwbQGRV) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [Cheap Margaritas](https://open.spotify.com/album/78nQnLW83yjco3LS3mGits) | 3:10 |
 
-Snapshot ID: `AbyTQAAAAADqN2STh9fY+8Nz4M4UvreN`
+Snapshot ID: `AbyY4AAAAAC/70/QPh+CGOUTSK3uG7iM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,529 likes - 99 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,528 likes - 99 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 98 | [Al Sur \(Remix\)](https://open.spotify.com/track/653NELKyXY5eHtXUfZeEHQ) | [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr) | [Al Sur \(Remix\)](https://open.spotify.com/album/3mviZQjGBXJ8eZhdXohbVf) | 5:39 |
 | 99 | [Melancolía en el after](https://open.spotify.com/track/6Y3krPlsTjMqMC9O28NG8V) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [VIDA NOCTURNA](https://open.spotify.com/album/3lQGtbbjeHxl1JbHrhEsa2) | 3:46 |
 
-Snapshot ID: `aB1vyQAAAADa8oP3KAtfAU6y3AHF6x2f`
+Snapshot ID: `aB1vyQAAAADagIfSSkLh6ui/s8ie9EJT`

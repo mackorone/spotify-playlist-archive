@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 452682,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
@@ -6392,6 +6392,28 @@
       "duration_ms": 158192,
       "name": "Love Run Out",
       "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
+    },
+    {
+      "album": {
+        "name": "Love Shop",
+        "url": "https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211273,
+      "name": "Love Shop",
+      "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
     },
     {
       "album": {

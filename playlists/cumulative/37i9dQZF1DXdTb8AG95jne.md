@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 유다빈밴드\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 데이먼스 이어 \(Damons year\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-955 songs - 2 day 10 hr 14 min
+956 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
+| [CORPUS 0](https://open.spotify.com/track/0boGx65PACZNyIq7mv7trr) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [CORPUS 0](https://open.spotify.com/album/4NcOWtOHeayLunvnHBdQKx) | 4:50 | 2025-05-26 |  |
 | [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-04 | 2024-09-11 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [Trophy Cat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2021-12-21 | 2022-07-25 |
 | [Cry For Me](https://open.spotify.com/track/2y1SIAGlhU7qgwaYJ3nHP4) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Cry For Me](https://open.spotify.com/album/0lN99kXjTbq6mUgmT2Agnr) | 3:20 | 2024-11-20 | 2024-12-11 |
@@ -208,7 +209,7 @@
 | [Dress](https://open.spotify.com/track/0ox9eoIW3U1MpFXWH20LV6) | [Tejong](https://open.spotify.com/artist/3XWBLSm4ZehGW3NIcCCfZF) | [Dress](https://open.spotify.com/album/2VTUFlWwiZ2hgfo4XLxI4s) | 3:59 | 2024-04-30 | 2024-05-10 |
 | [Dwaeji Gukbap](https://open.spotify.com/track/4BjcOOlE57CRTGwOPMHJLc) | [Legend Choi](https://open.spotify.com/artist/7y6MINRLLV1YKsflvQKRXC) | [Dwaeji Gukbap](https://open.spotify.com/album/2CLx1E1CMNB4WMypc4Kx0l) | 2:48 | 2024-11-06 | 2024-11-21 |
 | [E\-Girl \(Feat\. So!YoON!\)](https://open.spotify.com/track/3NnTjY5oUN3rg5rEBLm6At) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [SWEET HE♡RT](https://open.spotify.com/album/55QqeroaRqbgA9wp4mIQHo) | 2:47 | 2024-05-10 | 2024-05-17 |
-| [E\-oh!](https://open.spotify.com/track/0gGQD3ClABn0YPG8Cq1und) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [E\-oh!](https://open.spotify.com/album/3XLLaTBFEWt3MCkByEUyTV) | 3:30 | 2025-05-23 |  |
+| [E\-oh!](https://open.spotify.com/track/0gGQD3ClABn0YPG8Cq1und) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [E\-oh!](https://open.spotify.com/album/3XLLaTBFEWt3MCkByEUyTV) | 3:30 | 2025-05-23 | 2025-05-26 |
 | [E\-RIDING](https://open.spotify.com/track/1qNiIzmrv8GllebodL6Dwf) | [Gila](https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY) | [E\-RIDING](https://open.spotify.com/album/3MKMqj0WGHvM3QIXn8lNc8) | 3:30 | 2023-09-18 | 2024-05-10 |
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-08 | 2022-08-05 |
 | [Earth Is Flat](https://open.spotify.com/track/0TJLtj4BvtXs7kc1rThrbq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Earth Is Flat](https://open.spotify.com/album/5tmAQ7Z2eN2yqkhHMgjzY1) | 2:30 | 2024-11-06 | 2025-01-23 |
@@ -306,7 +307,7 @@
 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 | 2025-03-04 | 2025-04-11 |
 | [Good bye blue days](https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Good bye blue days](https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe) | 4:11 | 2021-12-12 | 2022-07-28 |
 | [Good Times](https://open.spotify.com/track/5DXHofLQmL5USn6kjRhtnC) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams](https://open.spotify.com/album/3yEhqq1L8LShxaJgje45rY) | 3:24 | 2025-04-25 | 2025-05-20 |
-| [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 | 2025-04-12 |
+| [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 |  |
 | [Goodbye, fall](https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Goodbye, fall](https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND) | 3:41 | 2021-12-12 | 2022-07-29 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 |  |
 | [Grassland](https://open.spotify.com/track/5zypY0T6WMsBHcCVWwuCVi) | [Nuz](https://open.spotify.com/artist/01C8gGSy00yG51FOfWzGpT) | [Grassland](https://open.spotify.com/album/5EvOCewuL8RLnCI1ZCYBwL) | 6:21 | 2022-03-31 | 2022-04-15 |
@@ -762,7 +763,7 @@
 | [Struggle](https://open.spotify.com/track/0vTFne5Auul5yGMFcWsNPU) | [JaeDal](https://open.spotify.com/artist/7eRzbxCxgpBeDQf07H6cwW) | [Struggle](https://open.spotify.com/album/5YRerCvXlvSVUIdAFksZHI) | 3:30 | 2022-03-31 | 2022-04-05 |
 | [Struggling](https://open.spotify.com/track/50EwAI9bolehhOwR0BxjfX) | [Brocccoli You Too?](https://open.spotify.com/artist/1PgKa72aXVTY8GmUaGkvwl) | [I Feel Like I'd Have To Do Something](https://open.spotify.com/album/2ZhRMgJQ1upVD8p3ssaZun) | 0:29 | 2021-12-21 | 2022-07-02 |
 | [Stuck In Wheels](https://open.spotify.com/track/12Zw0Rv4rmo77OV420pR6Z) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Stuck In Wheels](https://open.spotify.com/album/23eYYVlP58Kvunu7Iq1PEo) | 3:08 | 2022-06-08 | 2022-06-14 |
-| [Stuffy Driver](https://open.spotify.com/track/3ecSR7l6y3cl3ZqQF5HcnC) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [Stuffy Driver](https://open.spotify.com/album/5jHAPe0kbR5caIHDm3BtqG) | 3:02 | 2025-05-02 |  |
+| [Stuffy Driver](https://open.spotify.com/track/3ecSR7l6y3cl3ZqQF5HcnC) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [Stuffy Driver](https://open.spotify.com/album/5jHAPe0kbR5caIHDm3BtqG) | 3:02 | 2025-05-02 | 2025-05-26 |
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-28 | 2023-04-19 |
 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 | 2023-07-17 | 2023-07-28 |
 | [Summer](https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Summer](https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0) | 3:01 | 2023-03-28 | 2023-08-17 |

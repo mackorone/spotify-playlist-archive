@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 33714,
+  "num_followers": 33729,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -487,22 +471,6 @@
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby - Stereo Mix",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -531,6 +499,38 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby - Stereo Mix",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
+        "name": "Iarta-ma Mamo",
+        "url": "https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Iarta-ma Mamo",
+      "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
         "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
         "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 166426,
       "name": "Dientes",
       "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Iarta-ma Mamo",
-        "url": "https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        },
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Iarta-ma Mamo",
-      "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Alo, mama",
-        "url": "https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "Alo, mama",
-      "url": "https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
         "name": "Vorba Francezului (From \"Buzz House\" The Movie)",
         "url": "https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 159350,
       "name": "Vorba Francezului - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Alo, mama",
+        "url": "https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Alo, mama",
+      "url": "https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1435,6 +1435,22 @@
       "duration_ms": 205714,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Anglia",
+        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 131977,
+      "name": "Anglia",
+      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1479,42 +1495,6 @@
       "duration_ms": 187959,
       "name": "Vin Sa Te Fur",
       "url": "https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Anglia",
-        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 131977,
-      "name": "Anglia",
-      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Nebunia lui Babasha",
-        "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 145026,
-      "name": "Nebunia lui Babasha",
-      "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1591,6 +1571,26 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
+        "name": "Nebunia lui Babasha",
+        "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 145026,
+      "name": "Nebunia lui Babasha",
+      "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
         "name": "Maria, Maria",
         "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
       },
@@ -1607,38 +1607,18 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
         }
       ],
-      "duration_ms": 178290,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Inimi",
-        "url": "https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH"
-      },
-      "artists": [
-        {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "Inimi",
-      "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1655,26 +1635,6 @@
       "duration_ms": 215880,
       "name": "Eu Iubesc Doua Femei",
       "url": "https://open.spotify.com/track/283LEYpx54VjkdHTdtleR0"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "\u00cenc\u0103 Ne Iubim",
-        "url": "https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi"
-      },
-      "artists": [
-        {
-          "name": "MIRA",
-          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
-        },
-        {
-          "name": "Florian Rus",
-          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
-        }
-      ],
-      "duration_ms": 175978,
-      "name": "\u00cenc\u0103 Ne Iubim",
-      "url": "https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1703,18 +1663,22 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+        "name": "Yali, Yali",
+        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
       },
       "artists": [
         {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
+      "duration_ms": 155714,
+      "name": "Yali, Yali",
+      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1731,6 +1695,42 @@
       "duration_ms": 130754,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Inimi",
+        "url": "https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 176756,
+      "name": "Inimi",
+      "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "\u00cenc\u0103 Ne Iubim",
+        "url": "https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        },
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        }
+      ],
+      "duration_ms": 175978,
+      "name": "\u00cenc\u0103 Ne Iubim",
+      "url": "https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1771,6 +1771,46 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 178290,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Fostu'",
+        "url": "https://open.spotify.com/album/41iBFhMZNyrgjQWxsVIajf"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        },
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Fostu'",
+      "url": "https://open.spotify.com/track/2JbeodXdyFyGFcPFY4jSEi"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
         "name": "HOT (From Miami Bici 2 The Movie)",
         "url": "https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW"
       },
@@ -1795,26 +1835,6 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Yali, Yali",
-        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Yali, Yali",
-      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
         "name": "De la dela",
         "url": "https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 203835,
       "name": "De la dela",
       "url": "https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Fostu'",
-        "url": "https://open.spotify.com/album/41iBFhMZNyrgjQWxsVIajf"
-      },
-      "artists": [
-        {
-          "name": "Feli",
-          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
-        },
-        {
-          "name": "Grasu XXL",
-          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Fostu'",
-      "url": "https://open.spotify.com/track/2JbeodXdyFyGFcPFY4jSEi"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

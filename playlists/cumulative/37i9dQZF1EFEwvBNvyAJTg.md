@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-240 songs - 13 hr 7 min
+242 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Coffee Shop](https://open.spotify.com/track/71sZJf9VANfoML8du225Gl) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [summerovlove setlist](https://open.spotify.com/album/2A9wBQHtFOO9j0U0v6NXZ1) | 2:04 | 2025-05-16 |  |
 | [Come Alive](https://open.spotify.com/track/4HjEhcygmxh1gSGGLSAFF5) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:51 | 2024-06-13 |  |
 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 | 2024-06-13 |  |
-| [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 | 2025-02-18 |  |
+| [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 | 2025-02-18 | 2025-05-26 |
+| [Confession](https://open.spotify.com/track/4FEgmZNndauGaHjSM4AGiH) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:21 | 2025-05-25 |  |
 | [Control Of The Knife](https://open.spotify.com/track/2BA8K7pvwK8BRir61JBhpf) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Tangled Up \(Deluxe\)](https://open.spotify.com/album/4rhhRErBI0ORLNJLTQIBXw) | 3:49 | 2024-06-13 |  |
 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 | 2024-06-13 |  |
 | [Crayola](https://open.spotify.com/track/3SzBzT0sUaKRMaD9MtmnlH) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:02 | 2024-06-13 |  |
@@ -143,7 +144,8 @@
 | [Love Just Ain't Enough](https://open.spotify.com/track/4hyH2d2ndbRbzfeib3kgkt) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1G8HU37cpz1hrz9TR4qMc1) | 3:36 | 2025-02-28 | 2025-03-09 |
 | [Love Just Ain't Enough](https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:36 | 2024-06-13 |  |
 | [Love Made Me Do It](https://open.spotify.com/track/3yFQhSmhgVf4thycUwRmXE) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Love Made Me Do It](https://open.spotify.com/album/1B7hNM5LicxuEfmaVxz96s) | 3:26 | 2024-06-13 |  |
-| [Love Me More](https://open.spotify.com/track/6671le3mOu7yT3oUlTVRH0) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Love Me More](https://open.spotify.com/album/06rcl5LtfkoY1MpzfOm48s) | 2:51 | 2025-03-20 |  |
+| [Love Me More](https://open.spotify.com/track/4uAFtdyjVnQ8NCJdqHc7Z7) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:51 | 2025-05-25 |  |
+| [Love Me More](https://open.spotify.com/track/6671le3mOu7yT3oUlTVRH0) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Love Me More](https://open.spotify.com/album/06rcl5LtfkoY1MpzfOm48s) | 2:51 | 2025-03-20 | 2025-05-26 |
 | [Love My Neighbour](https://open.spotify.com/track/09tpe143lHWH4ncKfaNmgA) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Love My Neighbour](https://open.spotify.com/album/3yqdHu9gT5kOOpNyU8jALL) | 3:01 | 2024-06-13 |  |
 | [Love Shine Down](https://open.spotify.com/track/6Wtv2n0dqdjzeAGbxhrdWL) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Olly Murs](https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq) | 4:05 | 2024-06-13 |  |
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2024-06-13 |  |

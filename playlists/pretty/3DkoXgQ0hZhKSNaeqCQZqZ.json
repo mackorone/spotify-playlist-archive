@@ -1,13 +1,33 @@
 {
   "description": "All songs made for furs, by furs.  Check top 25 @ spotify.furrest.net",
-  "num_followers": 581,
+  "num_followers": 582,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADljdvZnM4ML6bIaS/zC508Ea0gpEH",
+  "snapshot_id": "AAADl9Ory0iwZ0h/pv53xrXkLROkwLkm",
   "tracks": [
+    {
+      "added_at": "2025-05-26 00:00:59",
+      "album": {
+        "name": "I DONT WANNA KNOW",
+        "url": "https://open.spotify.com/album/0XLQ24yXx6IzZgAWTEz4bD"
+      },
+      "artists": [
+        {
+          "name": "Krow",
+          "url": "https://open.spotify.com/artist/5zVksKQzQCWLW1R8Esuof9"
+        },
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 132083,
+      "name": "I DONT WANNA KNOW",
+      "url": "https://open.spotify.com/track/266Pwgq4t80Ra48KUeL3jd"
+    },
     {
       "added_at": "2025-05-20 06:07:48",
       "album": {

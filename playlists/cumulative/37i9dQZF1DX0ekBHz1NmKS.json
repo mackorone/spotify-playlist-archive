@@ -9313,6 +9313,24 @@
     },
     {
       "album": {
+        "name": "FEST",
+        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "FEST",
+      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
+    },
+    {
+      "album": {
         "name": "Festen (Remix)",
         "url": "https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge"
       },
@@ -30956,7 +30974,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 266994,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o"

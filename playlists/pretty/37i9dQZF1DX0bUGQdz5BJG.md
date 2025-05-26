@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Zach John King
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,565 likes - 215 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,608 likes - 215 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 214 | [Neon Cowgirl](https://open.spotify.com/track/6EViVjzk04NKzhVMtMxvbk) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Neon Cowgirl](https://open.spotify.com/album/090hcRCJQ70C3TnLuSn6FG) | 3:39 |
 | 215 | [Just Wait](https://open.spotify.com/track/6xYwG5cDhDFkqswUCN88HO) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Just Wait](https://open.spotify.com/album/7wbcNMWSTkP8J4Xs397Kcg) | 3:08 |
 
-Snapshot ID: `aC/y4gAAAADgjMcmOSuSflkYY2HgQ5xm`
+Snapshot ID: `aC/y4gAAAADEuR4/zouHvfswksNPF68P`

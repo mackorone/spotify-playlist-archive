@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 598098,
+  "num_followers": 598210,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Summer Heat",
-        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
-      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Execute",
         "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 362373,
       "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
       "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Summer Heat",
+        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
+      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -735,30 +735,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Bills 2 Pay",
-        "url": "https://open.spotify.com/album/5MjPumbBqd6C5BCO8Kvbdu"
-      },
-      "artists": [
-        {
-          "name": "Glamma Kid",
-          "url": "https://open.spotify.com/artist/5af1NCuQPqXvilvvum6tub"
-        },
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        },
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        }
-      ],
-      "duration_ms": 327573,
-      "name": "Taboo (feat. Shola Ama) - MJ Cole Full Vocal Mix",
-      "url": "https://open.spotify.com/track/4B5svMhrwXaCPl242LnYXN"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Poision",
         "url": "https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 305026,
       "name": "Poision",
       "url": "https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Bills 2 Pay",
+        "url": "https://open.spotify.com/album/5MjPumbBqd6C5BCO8Kvbdu"
+      },
+      "artists": [
+        {
+          "name": "Glamma Kid",
+          "url": "https://open.spotify.com/artist/5af1NCuQPqXvilvvum6tub"
+        },
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "duration_ms": 327573,
+      "name": "Taboo (feat. Shola Ama) - MJ Cole Full Vocal Mix",
+      "url": "https://open.spotify.com/track/4B5svMhrwXaCPl242LnYXN"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Oh Boy",
-        "url": "https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX"
-      },
-      "artists": [
-        {
-          "name": "Fabulous Baker Boys",
-          "url": "https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH"
-        }
-      ],
-      "duration_ms": 243874,
-      "name": "Oh Boy - Rafmat Radio Edit",
-      "url": "https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
       },
@@ -1143,6 +1127,38 @@
       "duration_ms": 309520,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 403006,
+      "name": "Pick Me Up - Licenced Mix",
+      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Oh Boy",
+        "url": "https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX"
+      },
+      "artists": [
+        {
+          "name": "Fabulous Baker Boys",
+          "url": "https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH"
+        }
+      ],
+      "duration_ms": 243874,
+      "name": "Oh Boy - Rafmat Radio Edit",
+      "url": "https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
-      },
-      "artists": [
-        {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
-        }
-      ],
-      "duration_ms": 403006,
-      "name": "Pick Me Up - Licenced Mix",
-      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Smack Da House Vol.2",
         "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 372480,
       "name": "Dancing for Heaven - Club",
       "url": "https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Flava On Wax EP",
+        "url": "https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 437715,
+      "name": "Happy to Be Deep",
+      "url": "https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Flava On Wax EP",
-        "url": "https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S"
-      },
-      "artists": [
-        {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
-        }
-      ],
-      "duration_ms": 437715,
-      "name": "Happy to Be Deep",
-      "url": "https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "All I do",
         "url": "https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw"
       },
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "4X4, Vol. 1",
+        "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 370405,
+      "name": "The Chant W.E.R",
+      "url": "https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Morel's Grooves (Pt. 4)",
         "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
       },
@@ -1367,26 +1383,6 @@
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Becoming Remixed",
-        "url": "https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1"
-      },
-      "artists": [
-        {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 543466,
-      "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
-      "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
     }
   ],
   "unique_name": "UK Garage Classics",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 10 hr 28 min
+171 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 | 2023-03-09 |  |
 | [Candela](https://open.spotify.com/track/6aZVaIudGaHm88ydUe9k4i) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:56 | 2023-03-09 |  |
 | [Caída Libre](https://open.spotify.com/track/3tQo4LCoLO0XRvIYKdFTg7) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Desnuda](https://open.spotify.com/album/0x1njlKQdxOQD1HtcQsOd3) | 3:06 | 2023-03-09 |  |
+| [Cheap Margaritas](https://open.spotify.com/track/6z7OS3P0O3yDQ05WwbQGRV) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [Cheap Margaritas](https://open.spotify.com/album/78nQnLW83yjco3LS3mGits) | 3:10 | 2025-05-25 |  |
 | [Cheque Al Portador](https://open.spotify.com/track/2N8ZfYVa9wDqoc031CgIV4) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Sólo Faltas Tú](https://open.spotify.com/album/6KOsNhSOI1wYdUVXzzmOHX) | 3:28 | 2023-03-09 |  |
 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 | 2023-03-09 |  |
 | [Cinco Minutos](https://open.spotify.com/track/44LkNS92E9gVfS3KCCgk5R) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli) | 3:27 | 2023-03-09 |  |

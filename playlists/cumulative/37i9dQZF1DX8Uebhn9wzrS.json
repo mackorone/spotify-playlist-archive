@@ -13035,6 +13035,24 @@
     },
     {
       "album": {
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/0v85RUxCwvCBRYyiHDCxby"
+      },
+      "artists": [
+        {
+          "name": "Hillways",
+          "url": "https://open.spotify.com/artist/4UHkYUJbceL48XowKrC4Mg"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Finger Painting",
+      "url": "https://open.spotify.com/track/3d0MPatL3b3jvmbjdcCFwo"
+    },
+    {
+      "album": {
         "name": "Buskin",
         "url": "https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP"
       },
@@ -32746,7 +32764,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 123364,
       "name": "seeking warmth",
       "url": "https://open.spotify.com/track/4psbKVmKjJvVt8WmMyMu7k"

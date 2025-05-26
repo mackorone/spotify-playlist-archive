@@ -4,7 +4,7 @@
 
 > New music from LUNA & Metejoor, Eefje de Visser, Burna Boy en meer...
 
-4,825 songs - 10 day 15 hr 29 min
+4,826 songs - 10 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1256,6 +1256,7 @@
 | [Electric Love](https://open.spotify.com/track/6dlu0nQu7IO1Wc5zWTKH6f) | [Amery](https://open.spotify.com/artist/7eEdkPlC5wYCiCqb3bTS6O) | [Electric Love](https://open.spotify.com/album/1GHCN5Cn7OImNJ1948pHDj) | 3:51 | 2025-05-01 | 2025-05-09 |
 | [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 | 2024-12-19 | 2025-01-03 |
 | [Elephant](https://open.spotify.com/track/0ekxyRdkBINbTBQQIzgwQr) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Elephant](https://open.spotify.com/album/05HCvXo1Dag4kSb58DVhB3) | 2:17 | 2025-01-09 | 2025-01-17 |
+| [ELEVEN OCEANS](https://open.spotify.com/track/5YyhTIgvaZM2jRKqdtdUXx) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [ELEVEN OCEANS](https://open.spotify.com/album/7zT2JGWtVAwLUoFfwJYPWw) | 3:07 | 2025-05-22 |  |
 | [ELISA](https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [ELISA](https://open.spotify.com/album/4t5cJtdXcgHQ5HlOd5anzr) | 2:44 | 2024-09-19 | 2024-09-27 |
 | [Elle veut jouer](https://open.spotify.com/track/5SgWtxeEdURryOPLk5fdfk) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [Elle veut jouer](https://open.spotify.com/album/4c6nG8eIqzLAh3SH7QDh2n) | 2:48 | 2024-06-13 | 2024-06-21 |
 | [Elusive \- Live with The New Choir](https://open.spotify.com/track/2Jn1phO38Lst3kkuaSGAza) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [The New Choir](https://open.spotify.com/artist/11cNrk7Gk0G5mxUs3CIUZa) | [Elusive \(Live with The New Choir\)](https://open.spotify.com/album/27uQvTVwPdFNuRDpSass2Y) | 4:21 | 2024-11-28 | 2024-12-06 |

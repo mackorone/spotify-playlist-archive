@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with mgk on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,456 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,482 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Don’t Find It Strange \- Live at First Avenue](https://open.spotify.com/track/32XuKpROrtXZFKJRO9F4NT) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Live At First Avenue](https://open.spotify.com/album/3XQNaT4W4uhAcws5KDvyJr) | 5:29 |
 | 100 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
 
-Snapshot ID: `aC/8owAAAACJl3fY73n68l8VoqPDPZcF`
+Snapshot ID: `aC/8owAAAAATsAZfKqyv1x1iMHh8ujOO`

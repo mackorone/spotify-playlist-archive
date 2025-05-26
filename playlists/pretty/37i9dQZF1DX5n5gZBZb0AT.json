@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 921984,
+  "num_followers": 922156,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
       "added_at": "2025-03-28 00:00:48",
       "album": {
         "name": "MOTINHA 2.0 (Mete Marcha)",
@@ -91,22 +107,6 @@
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha)",
       "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
-    },
-    {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -163,6 +163,22 @@
     {
       "added_at": "2025-03-27 14:52:17",
       "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 97368,
       "name": "BOUNCE FUNK - Slowed",
       "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
-    },
-    {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/4gjg9hB5q4xWjJ9EelppL2"
     },
     {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
-    },
-    {
       "added_at": "2025-03-28 00:00:48",
       "album": {
         "name": "SENTA MARIA VAI X BEAT ABSURDO",
@@ -579,6 +563,22 @@
       "duration_ms": 111602,
       "name": "SENTA MARIA VAI X BEAT ABSURDO - Slowed",
       "url": "https://open.spotify.com/track/2TRBDAcApCXLIbqoFD8q14"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -771,26 +771,26 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "MONTAGEM GREEN RENITCH V1",
-        "url": "https://open.spotify.com/album/008ynjoZOgViVk0b0aNfOb"
+        "name": "CORRUP\u00c7\u00c3O FUNK",
+        "url": "https://open.spotify.com/album/1Pp1ulBgbbDiKTr2LgPiZa"
       },
       "artists": [
         {
-          "name": "Tsk.4",
-          "url": "https://open.spotify.com/artist/00kkTyvp1aTG6oKYIkSQGi"
+          "name": "zxnc.",
+          "url": "https://open.spotify.com/artist/0z9ZCh4EXDX3iXuw7QGiLp"
         },
         {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+          "name": "DARKANASE",
+          "url": "https://open.spotify.com/artist/3FUCRB0hJhe9BrXW1yonDh"
         },
         {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+          "name": "NTPV",
+          "url": "https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ"
         }
       ],
-      "duration_ms": 98192,
-      "name": "MONTAGEM GREEN RENITCH V1",
-      "url": "https://open.spotify.com/track/6c3S8RrE30QQKG8TqwIAMG"
+      "duration_ms": 134526,
+      "name": "CORRUP\u00c7\u00c3O FUNK",
+      "url": "https://open.spotify.com/track/1t1Ko5fJw2Pbd7C65nUKbO"
     }
   ],
   "unique_name": "gymcore",

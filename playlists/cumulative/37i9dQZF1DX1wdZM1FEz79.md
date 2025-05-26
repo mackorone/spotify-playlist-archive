@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장재인\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-574 songs - 1 day 9 hr 58 min
+575 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Oh, Love](https://open.spotify.com/track/1G0TFPZipyn1bLyQvKtPnx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Oh, Love](https://open.spotify.com/album/2MujROsBWLNsCZo2B3udec) | 3:44 | 2023-04-27 | 2023-05-10 |
 | [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2021-12-10 | 2022-07-29 |
 | [On My Way Home](https://open.spotify.com/track/6CZkzTRpn5uK67QAim9jPw) | [KOLAVO](https://open.spotify.com/artist/3yR502TEuKfRu3qwLcn4sx) | [On My Way Home](https://open.spotify.com/album/0huLDoldnbqWCJQnxjCWv3) | 3:59 | 2022-01-10 | 2022-04-13 |
-| [On the Trail](https://open.spotify.com/track/7qBkFGmE3VOPHiKcgFs3Bk) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [On the Trail](https://open.spotify.com/album/2jNmDTt7yiAuF1FOeXdpbF) | 4:01 | 2025-04-01 |  |
+| [On the Trail](https://open.spotify.com/track/7qBkFGmE3VOPHiKcgFs3Bk) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [On the Trail](https://open.spotify.com/album/2jNmDTt7yiAuF1FOeXdpbF) | 4:01 | 2025-04-01 | 2025-05-26 |
 | [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-21 | 2023-01-11 |
 | [One Day](https://open.spotify.com/track/1HaOaDNfC9O5gwOKN8Gbvs) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Terius Behind Me Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0h1PAe69zzMZqbOvYMhLo5) | 3:16 | 2022-03-31 | 2022-04-20 |
 | [Only if](https://open.spotify.com/track/1RIYFSubxDnlLuK3LeilyC) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Roy Kim Live in Begin Again 2](https://open.spotify.com/album/3G2sZtxuU89eVp2npTP4RQ) | 3:33 | 2022-04-12 | 2022-04-15 |
@@ -433,6 +433,7 @@
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
 | [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |
+| [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 | 2025-05-26 |  |
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2021-12-10 |  |
 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 | 2022-07-04 | 2022-08-10 |
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-18 | 2022-07-05 |

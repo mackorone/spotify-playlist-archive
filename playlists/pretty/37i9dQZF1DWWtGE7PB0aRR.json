@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 165339,
+  "num_followers": 165408,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -231,6 +247,38 @@
       "duration_ms": 208493,
       "name": "The Train Kept A-Rollin'",
       "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228795,
+      "name": "Cheats and Liars",
+      "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 178359,
+      "name": "I'm A Mover",
+      "url": "https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -247,22 +295,6 @@
       "duration_ms": 244557,
       "name": "They Don't Make Them Like You Anymore",
       "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -299,34 +331,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+        "name": "Joe Cocker!",
+        "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 178359,
-      "name": "I'm A Mover",
-      "url": "https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228795,
-      "name": "Cheats and Liars",
-      "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
+      "duration_ms": 170160,
+      "name": "Delta Lady",
+      "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -371,22 +387,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Joe Cocker!",
-        "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Delta Lady",
-      "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Boneyard",
         "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 200000,
       "name": "Boneyard - Edit",
       "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Blues Power",
-      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -447,6 +431,38 @@
       "duration_ms": 159706,
       "name": "Little By Little - Mono Version",
       "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Blues Power",
+      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 357813,
+      "name": "Won't Be Taken Down",
+      "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -497,36 +513,20 @@
       "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 357813,
-      "name": "Won't Be Taken Down",
-      "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
       "artists": [
         {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 310360,
-      "name": "3 O'Clock Blues - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+      "duration_ms": 500626,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
         }
       ],
-      "duration_ms": 500626,
-      "name": "Goin' Down Slow",
-      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
+      "duration_ms": 310360,
+      "name": "3 O'Clock Blues - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Looking for Somebody",
-      "url": "https://open.spotify.com/track/0tQtiW3o7aeWeHquYdxEZf"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Married Woman",
@@ -781,22 +765,6 @@
       "url": "https://open.spotify.com/track/0iJSqwStwV5uOkrYUZHi0O"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Back Street Crawler",
-        "url": "https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J"
-      },
-      "artists": [
-        {
-          "name": "Paul Kossoff",
-          "url": "https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP"
-        }
-      ],
-      "duration_ms": 271613,
-      "name": "Back Street Crawler (Don't Need You No More) - Single Guitar Track Number 14",
-      "url": "https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Means of Escape",
@@ -811,6 +779,38 @@
       "duration_ms": 366533,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Looking for Somebody",
+      "url": "https://open.spotify.com/track/0tQtiW3o7aeWeHquYdxEZf"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Back Street Crawler",
+        "url": "https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J"
+      },
+      "artists": [
+        {
+          "name": "Paul Kossoff",
+          "url": "https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP"
+        }
+      ],
+      "duration_ms": 271613,
+      "name": "Back Street Crawler (Don't Need You No More) - Single Guitar Track Number 14",
+      "url": "https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Foghat",
+        "url": "https://open.spotify.com/album/436NeoRUt1APoubE867iBx"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 463973,
+      "name": "Gotta Get to Know You",
+      "url": "https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Rain Is Such a Lonesome Sound (Remastered 2015)",
         "url": "https://open.spotify.com/album/6x4Z38de0YVnsm5ONlftH2"
       },
@@ -877,38 +893,6 @@
       "url": "https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "My Baby's Good to Me",
-      "url": "https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Foghat",
-        "url": "https://open.spotify.com/album/436NeoRUt1APoubE867iBx"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "duration_ms": 463973,
-      "name": "Gotta Get to Know You",
-      "url": "https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Sound Like This",
@@ -923,22 +907,6 @@
       "duration_ms": 284106,
       "name": "Scaramouche",
       "url": "https://open.spotify.com/track/2F74eGsMRbLJ8dAsZMrMRH"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Their First LP (Mono Version)",
-        "url": "https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Sittin' And Thinkin' - Mono Version",
-      "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -963,6 +931,38 @@
       "duration_ms": 389933,
       "name": "So Tired of Living",
       "url": "https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "My Baby's Good to Me",
+      "url": "https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Their First LP (Mono Version)",
+        "url": "https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Sittin' And Thinkin' - Mono Version",
+      "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
     },
     {
       "added_at": "2022-03-25 04:01:00",

@@ -159,6 +159,28 @@
     },
     {
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185825,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo"
+    },
+    {
+      "album": {
         "name": "Alligator Bites Never Heal (Extended)",
         "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
       },
@@ -4440,7 +4462,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 146557,
       "name": "Viva la vida",
       "url": "https://open.spotify.com/track/3U99oc0OWol7g7VxZfFs4O"

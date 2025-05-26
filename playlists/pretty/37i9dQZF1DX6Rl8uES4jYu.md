@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,484 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,445 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better Luck Next Time](https://open.spotify.com/track/7tSZxn5ptj0i8RCkxRRMId) | [Alohaii](https://open.spotify.com/artist/3kNWENaTd7pb0xFqNuq7Sc), [Shiki Miyoshino](https://open.spotify.com/artist/58M3LYj3m6sjKuIlrCpAGu) | [Better Luck Next Time](https://open.spotify.com/album/78zVxVbReCDgt1zbfo5Vrs) | 4:07 |
+| 1 | [Better Luck Next Time](https://open.spotify.com/track/7tSZxn5ptj0i8RCkxRRMId) | [Alohaii](https://open.spotify.com/artist/3kNWENaTd7pb0xFqNuq7Sc), [Shiki Miyoshino](https://open.spotify.com/artist/5JbfLUx5j5kgEPYyzEeQVH) | [Better Luck Next Time](https://open.spotify.com/album/78zVxVbReCDgt1zbfo5Vrs) | 4:07 |
 | 2 | [Mood For You \(Complexive Remix\)](https://open.spotify.com/track/3ZuzzbGfE9TYoQpLlwnVLH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Complexive](https://open.spotify.com/artist/4j5O0d9dCAcoaTc5uA6sOT) | [Mood For You \(Complexive Remix\)](https://open.spotify.com/album/3eJWto9uzANj3mUQ187TEC) | 2:57 |
 | 3 | [T.H.](https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:46 |
 | 4 | [Body Talk](https://open.spotify.com/track/3k4WaElAqj5vUu3sGkOla6) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Body Talk](https://open.spotify.com/album/6WRuSHJ3FJpMwkvP4cF8SK) | 2:20 |

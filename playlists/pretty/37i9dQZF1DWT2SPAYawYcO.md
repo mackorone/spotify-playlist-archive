@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Alex Warren, Jelly Roll, Burna Boy, Travis Scott, Ruby Fields + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,122 likes - 98 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,140 likes - 98 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 97 | [Out of Love](https://open.spotify.com/track/7bnAxbrmAFls8keBr2Fh61) | [Handsome Shirt](https://open.spotify.com/artist/6EBIMgAi7d2aWJ55JsJabb) | [Out of Love](https://open.spotify.com/album/1hOZlxWQypCcxhp36cXqnH) | 2:38 |
 | 98 | [HOBBY BOY](https://open.spotify.com/track/6BBwk3AqcrM5sxR2KN6Bp2) | [Polish Club](https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD) | [POUND CAKE](https://open.spotify.com/album/6WE9zMu7p6YQDYEH0JwNVF) | 2:33 |
 
-Snapshot ID: `aC+ehQAAAAC/DYb6VMQK/4bFZdTKu6I3`
+Snapshot ID: `aDOgCgAAAACgMUl1gxKNGZA7jl/y8X0l`

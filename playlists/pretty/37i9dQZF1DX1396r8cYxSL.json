@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuracak \u015fark\u0131lar. Kapak: Hande Yener",
-  "num_followers": 256517,
+  "num_followers": 256536,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-05-22 21:00:18",
       "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 123519,
+      "name": "Sezen Aksu",
+      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
+    },
+    {
+      "added_at": "2025-05-22 21:00:18",
+      "album": {
         "name": "Renklensin",
         "url": "https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 183896,
       "name": "\u00d6l\u00fcyorum Anla",
       "url": "https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1"
-    },
-    {
-      "added_at": "2025-05-22 21:00:18",
-      "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 123519,
-      "name": "Sezen Aksu",
-      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
     },
     {
       "added_at": "2025-05-22 21:00:18",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-05-22 21:00:18",
       "album": {
-        "name": "ESC*BAR",
-        "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 136039,
-      "name": "ESC*BAR",
-      "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
-    },
-    {
-      "added_at": "2025-05-22 21:00:18",
-      "album": {
         "name": "Ben Senin Delinim",
         "url": "https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 147428,
       "name": "Eyvah",
       "url": "https://open.spotify.com/track/4dJHOcTO4jWVTrNYiNtJmf"
+    },
+    {
+      "added_at": "2025-05-22 21:00:18",
+      "album": {
+        "name": "ESC*BAR",
+        "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 136039,
+      "name": "ESC*BAR",
+      "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
     },
     {
       "added_at": "2025-05-22 21:00:18",

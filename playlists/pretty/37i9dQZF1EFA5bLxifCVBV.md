@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 187 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 113 likes - 187 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 52 | [Leave de Atom Alone](https://open.spotify.com/track/6tzTzeST5ISN3wPQHVhN99) | [Josephine Premice](https://open.spotify.com/artist/6rZOU6qfkQjWdcp8pJnWbL), [Jamaica Ensemble](https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm) | [Jamaica \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7) | 3:31 |
 | 53 | [That'll Be The Day](https://open.spotify.com/track/0Xy6DjWixGqhUChUaqDAN2) | [The Palladium Singers](https://open.spotify.com/artist/15IYjAJiiDxm0PBw80nv19) | [Musical Hits , Vol 3](https://open.spotify.com/album/7xnOOWIdQDtBmQEmshcxHZ) | 2:10 |
 | 54 | [Santa's Helper](https://open.spotify.com/track/6db1sOjUbfOtDXAznVz6I0) | [Joe Poovey](https://open.spotify.com/artist/4Q1anlwtSGxNueabOO9YpL) | [Rockabilly Xmas](https://open.spotify.com/album/3fP9nRiA3JPlUR4FGIYX1G) | 1:57 |
-| 55 | [What Good Does It Do](https://open.spotify.com/track/4WNQLcFZlZsrDx4oYAg9bC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Tony Bennett Sings A String Of Harold Arlen](https://open.spotify.com/album/6MYMgEXvAzClsDSFRaKDNr) | 4:08 |
-| 56 | [You're a Builder Upper](https://open.spotify.com/track/0nJqmfXJjQIZ1DEa0R6SyP) | [Will Osborne And His Orchestra](https://open.spotify.com/artist/5yYqSnLFU75PQVKIEWG3eu) | [Will Osborne and His Orchestra, 1934, Also Red Nichols and His Orchestra, 1936](https://open.spotify.com/album/6GAMtlMXxw3Fd1ilQfuPZr) | 2:37 |
+| 55 | [You're a Builder Upper](https://open.spotify.com/track/0nJqmfXJjQIZ1DEa0R6SyP) | [Will Osborne And His Orchestra](https://open.spotify.com/artist/5yYqSnLFU75PQVKIEWG3eu) | [Will Osborne and His Orchestra, 1934, Also Red Nichols and His Orchestra, 1936](https://open.spotify.com/album/6GAMtlMXxw3Fd1ilQfuPZr) | 2:37 |
+| 56 | [What Good Does It Do](https://open.spotify.com/track/4WNQLcFZlZsrDx4oYAg9bC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Tony Bennett Sings A String Of Harold Arlen](https://open.spotify.com/album/6MYMgEXvAzClsDSFRaKDNr) | 4:08 |
 | 57 | [Thrill Me](https://open.spotify.com/track/68eKQfV2QdIY2X0DxOFhg4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Sentimental Streak](https://open.spotify.com/album/0Iu9RRPSHdoYZPA7BYmRZt) | 2:47 |
 | 58 | [Evelina](https://open.spotify.com/track/2S3aLcCEL2YA4e7NJ75BXc) | [Johnny Mercer](https://open.spotify.com/artist/5cBHm2CXrbncYIDzrxF4Vi) | [The Capitol Vaults Collection](https://open.spotify.com/album/1pQORO53AVvYinNFHJV2nh) | 3:09 |
 | 59 | [Love, Nuts And Noodles](https://open.spotify.com/track/26qNObJ1H20gRDfdr1n7rj) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Great Girl Singers, Sing 22 Original Hits](https://open.spotify.com/album/3SqfrPAdRK1EvTxFvpI4Px) | 2:08 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 186 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbyTQAAAAAAhxhvW2w5qEg2NhacB8KG7`
+Snapshot ID: `AbyY4AAAAAChgaTc8Kulq3kdpPfGogd5`

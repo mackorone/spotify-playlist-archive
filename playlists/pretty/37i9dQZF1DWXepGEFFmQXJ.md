@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,170 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,187 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 4 | [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 |
 | 5 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
 | 6 | [Did It Anyway](https://open.spotify.com/track/23sot0mxmxT3nhmxS4cNbb) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Cadillac Sessions](https://open.spotify.com/album/2ZkbHQYgET2xmH1NLVTadE) | 3:16 |
-| 7 | [Lonely Won’t Leave Me Alone](https://open.spotify.com/track/3GwKOYN4tbFSSCiKXqBnMZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Lonely Won’t Leave Me Alone](https://open.spotify.com/album/5qJewTgyfF1zVZp3VkGw8n) | 3:27 |
-| 8 | [Glass Half Empty](https://open.spotify.com/track/0cwo2CCBN8M8HuFm2pVvL0) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Glass Half Empty](https://open.spotify.com/album/7uwwX1yRH3vlKorIlq5Fpf) | 2:27 |
-| 9 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
-| 10 | [Cowboy Sh!t](https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Cowboy Sh!t](https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz) | 2:34 |
+| 7 | [Glass Half Empty](https://open.spotify.com/track/0cwo2CCBN8M8HuFm2pVvL0) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Glass Half Empty](https://open.spotify.com/album/7uwwX1yRH3vlKorIlq5Fpf) | 2:27 |
+| 8 | [Cowboy Sh!t](https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Cowboy Sh!t](https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz) | 2:34 |
+| 9 | [Lonely Won’t Leave Me Alone](https://open.spotify.com/track/3GwKOYN4tbFSSCiKXqBnMZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Lonely Won’t Leave Me Alone](https://open.spotify.com/album/5qJewTgyfF1zVZp3VkGw8n) | 3:27 |
+| 10 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
 | 11 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 |
 | 12 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 |
 | 13 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 48 | [Same Moon](https://open.spotify.com/track/66FK7N6myc7RJ4WgB5QW70) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Same Moon](https://open.spotify.com/album/3RLCkCsMPZZ8WFDXrnbjNV) | 2:54 |
 | 49 | [How Do You Miss Me \(feat\. Alexandra Kay\)](https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do You Miss Me](https://open.spotify.com/album/2JmjXSDe7gzx5v8zQ7DOV7) | 3:02 |
 
-Snapshot ID: `aC+5FAAAAACAZQaobRjGiuKghyyUugLB`
+Snapshot ID: `aDOk7wAAAABzrQJLsZjyKTW9w2Q/R4oX`

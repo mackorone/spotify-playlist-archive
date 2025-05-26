@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 8 hr 51 min
+167 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 | 2024-01-29 |  |
 | [The Answer](https://open.spotify.com/track/4FNs5xchSa49YAzHh8QG09) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [The Years in Between](https://open.spotify.com/album/54vQHuNLb2W5K8e9vU6a8y) | 2:51 | 2024-01-29 |  |
 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 | 2024-09-26 |  |
-| [The Side I Never Show](https://open.spotify.com/track/2ClZAETDCvVsSTZphhhzio) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [The Side I Never Show](https://open.spotify.com/album/11bwEhlNGnrVZaUIKwqhln) | 3:48 | 2024-01-29 |  |
+| [The Side I Never Show](https://open.spotify.com/track/2ClZAETDCvVsSTZphhhzio) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [The Side I Never Show](https://open.spotify.com/album/11bwEhlNGnrVZaUIKwqhln) | 3:48 | 2024-01-29 | 2025-05-26 |
+| [The Side I Never Show](https://open.spotify.com/track/4o4QUsLfstZmPoq39R7SJD) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [My Heart Can't Take the Music](https://open.spotify.com/album/6HXA21x7DwmcMOvbYcRzir) | 3:48 | 2025-05-25 |  |
 | [Tightrope](https://open.spotify.com/track/3PpqMt1if7lsZQTut0ZTs2) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:26 | 2024-01-29 |  |
 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 | 2024-01-29 |  |
 | [Tired \- Kygo Remix](https://open.spotify.com/track/3t0J8vI9StQD8KIBkT2Cp5) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Tired \(Kygo Remix\)](https://open.spotify.com/album/1wRWIwbh1h8z7QUoZONvwT) | 4:00 | 2024-01-29 |  |

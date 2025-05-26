@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1307554,
+  "num_followers": 1307650,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+6gAAAAAASML48bbAqkhCUReaMv44Q",
+  "snapshot_id": "aDEMAAAAAADdjhJZaGKQbjt0xYbQi1+O",
   "tracks": [
     {
       "added_at": null,
@@ -395,18 +395,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Flashbacks | CROSSOVER #9",
+        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
       },
       "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp"
+      "duration_ms": 182871,
+      "name": "Flashbacks | CROSSOVER #9",
+      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
     },
     {
       "added_at": null,
@@ -443,30 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashbacks | CROSSOVER #9",
-        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 182871,
-      "name": "Flashbacks | CROSSOVER #9",
-      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 165560,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
+      "duration_ms": 213120,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VERSUS",
         "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
       },
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+      "duration_ms": 165560,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
     },
     {
       "added_at": null,

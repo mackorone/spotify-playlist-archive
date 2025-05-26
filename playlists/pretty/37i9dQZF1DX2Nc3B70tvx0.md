@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Stereolab
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,044,169 likes - 136 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043,365 likes - 136 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

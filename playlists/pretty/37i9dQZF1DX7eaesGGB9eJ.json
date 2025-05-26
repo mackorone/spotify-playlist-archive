@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 263547,
+  "num_followers": 263610,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Vato Sencillo",
+      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
         "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
       },
@@ -171,8 +187,24 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+        "name": "Todo Bien",
+        "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
+      },
+      "artists": [
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Volumen Prohibido",
+        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
       },
       "artists": [
         {
@@ -180,9 +212,9 @@
           "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 183093,
-      "name": "Vato Sencillo",
-      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
+      "duration_ms": 223066,
+      "name": "Hey Si Me Ven",
+      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -199,22 +231,6 @@
       "duration_ms": 256386,
       "name": "Hit Me",
       "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Todo Bien",
-        "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
-      },
-      "artists": [
-        {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Volumen Prohibido",
-        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Hey Si Me Ven",
-      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Deja V\u00fa",
         "url": "https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 203360,
       "name": "Polic\u00edas En Helic\u00f3ptero (con El Aar\u00f3n)",
       "url": "https://open.spotify.com/track/0xwnJOZfxDuqmTWsUSgCOs"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "La Sangre Nunca Muere",
-        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "La Sangre Nunca Muere",
-      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "La Sangre Nunca Muere",
+        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "La Sangre Nunca Muere",
+      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "La Ultima y Me Voy",
         "url": "https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 231106,
       "name": "La Vida Es un Rap",
       "url": "https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -463,34 +463,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
       },
       "artists": [
         {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 452278,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Raza Es Raza",
-      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+      "duration_ms": 221586,
+      "name": "La Pelotona",
+      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -559,6 +543,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        }
+      ],
+      "duration_ms": 452278,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Demencia",
         "url": "https://open.spotify.com/album/1pBvrZ5eMMFSkJjVaB3p6G"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 262700,
       "name": "La Noche de los Poetas Muertos (feat. Lirika Inverza)",
       "url": "https://open.spotify.com/track/0MJslUoFQ3nZxoaU66KdrB"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Raza Es Raza",
+      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -611,18 +627,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+        "name": "Rap Latino",
+        "url": "https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Sociedad Caf\u00e9",
+          "url": "https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR"
         }
       ],
-      "duration_ms": 221586,
-      "name": "La Pelotona",
-      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
+      "duration_ms": 273440,
+      "name": "Neza No. 1",
+      "url": "https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -639,22 +655,6 @@
       "duration_ms": 215586,
       "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
       "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Rap Latino",
-        "url": "https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz"
-      },
-      "artists": [
-        {
-          "name": "Sociedad Caf\u00e9",
-          "url": "https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Neza No. 1",
-      "url": "https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0"
     },
     {
       "added_at": "2024-07-12 18:14:48",

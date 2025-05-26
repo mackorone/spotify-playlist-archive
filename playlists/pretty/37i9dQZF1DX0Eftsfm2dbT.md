@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> いよいよPOP YOURS開催! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JJJ
+> いよいよPOP YOURS開催! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 唾奇, Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,656 likes - 86 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,716 likes - 86 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [dali](https://open.spotify.com/track/35sF0BG8RJc6RETSvu6lVD) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [dali](https://open.spotify.com/album/28mGTkCxfgw7nwZbof216T) | 1:55 |
-| 2 | [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 |
-| 3 | [PAGE ONE](https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [PAGE ONE](https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ) | 3:19 |
+| 1 | [PAGE ONE](https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [PAGE ONE](https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ) | 3:19 |
+| 2 | [dali](https://open.spotify.com/track/35sF0BG8RJc6RETSvu6lVD) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [dali](https://open.spotify.com/album/28mGTkCxfgw7nwZbof216T) | 1:55 |
+| 3 | [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 |
 | 4 | [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 |
 | 5 | [Asobo \(feat\. Awich, MonyHorse, PETZ, JNKMN & kZm\)](https://open.spotify.com/track/3Xg49Os6ICrKw7QF0OOmdT) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [Asobo \(feat\. Awich, MonyHorse, PETZ, JNKMN & kZm\)](https://open.spotify.com/album/7vPTy5MFRLzIVhCqRv2s6j) | 3:22 |
 | 6 | [412](https://open.spotify.com/track/2DbV4QmATThwgFEcY6VsqC) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [N.I.T.O.](https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1) | 2:40 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 85 | [Hey phone](https://open.spotify.com/track/11S58dYnSjkWPD6jLaBRv7) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [Hey phone](https://open.spotify.com/album/42eD73zTg3bdNE6nqoBzI0) | 3:24 |
 | 86 | [Malibu Dream](https://open.spotify.com/track/4rV3DodIA50w1WD1htetJr) | [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt) | [Malibu Dream](https://open.spotify.com/album/78jG62eaDLVSD2hQnz5gXP) | 2:31 |
 
-Snapshot ID: `aDHfBQAAAAAYDH5/YO6tZNq4QzDOiPEO`
+Snapshot ID: `aDMwfQAAAADEKb97KTM2WGAXPUR3J12N`

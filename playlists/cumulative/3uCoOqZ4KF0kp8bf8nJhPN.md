@@ -4,7 +4,7 @@
 
 > 
 
-193 songs - 7 hr 44 min
+195 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [ICEWHORE!](https://open.spotify.com/track/0RgKtaVv27Nff2y29qaD8W) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/5J00ADHG1jlJiLjQDPURVh) | 1:19 | 2024-12-31 |  |
 | [IHATEBITCHES](https://open.spotify.com/track/5n5QrGdF98Eu0wsQ1Px7Mu) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [IHATEBITCHES](https://open.spotify.com/album/48P5GlBBTUOgfdkSFfwTcV) | 1:50 | 2025-04-11 |  |
 | [IN DA JET!](https://open.spotify.com/track/4KiG9LRMjDkJcr15SERmgV) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [IN DA JET!](https://open.spotify.com/album/7c7oDsmIhXi9O2pUqQZohD) | 2:11 | 2025-03-02 |  |
+| [In my feed](https://open.spotify.com/track/7FZiM35Iy0UQuHIxtZl9TN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [In my feed](https://open.spotify.com/album/3NziTSqh3ecjv43YZ35BZD) | 1:51 | 2025-05-25 |  |
 | [IN MY HEAD!](https://open.spotify.com/track/1Vd7oY1K1QlxiaNu5aBeKY) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt) | [IN MY HEAD!](https://open.spotify.com/album/1nCBOeRlpPatcktJSnnFZy) | 2:13 | 2025-05-12 |  |
 | [In On It](https://open.spotify.com/track/0ey0KwCzoUdjvPzbLX8qSa) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:23 | 2025-03-12 |  |
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2025-01-17 |  |
@@ -113,6 +114,7 @@
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2025-03-25 |  |
 | [louie.](https://open.spotify.com/track/3I6u3amsG234CMXf1hGrTy) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [louie.](https://open.spotify.com/album/4YxP3j9qf4IxfPl9HZgiaz) | 2:12 | 2025-04-04 |  |
 | [LOVESICK, CANNIBAL!](https://open.spotify.com/track/5uMqAjMDuOvz49JYNG8m8a) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [LOVESICK, CANNIBAL!](https://open.spotify.com/album/5S3m1mjGMYFFQrOvFl7Fng) | 1:56 | 2025-03-06 |  |
+| [luv curse](https://open.spotify.com/track/6Py2m2lPFu5ERyue6X7bHC) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Stardust](https://open.spotify.com/album/2B9wUcdcHVW9H9OGMpd6Bn) | 2:06 | 2025-05-25 |  |
 | [Machina](https://open.spotify.com/track/7I2gQrpRqyBCMQ3LQOh4vO) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Midrift](https://open.spotify.com/album/3ZjzEnGRIMhAk331yhrb9M) | 2:14 | 2025-05-20 |  |
 | [manners.](https://open.spotify.com/track/0RALxUaNmMRjtkNGmTwSXi) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 3:12 | 2025-04-12 |  |
 | [MARTYR \(MARTYR\)](https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 3:22 | 2025-05-01 |  |

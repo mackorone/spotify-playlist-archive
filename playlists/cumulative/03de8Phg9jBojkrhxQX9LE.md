@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-2,853 songs - 6 day 16 hr 7 min
+2,854 songs - 6 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1682,6 +1682,7 @@
 | [Music of Wellness \- ODESZA Severance Remix](https://open.spotify.com/track/2Y1BKUbXxTqu8aD0aroPPP) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Music To Refine To: A Remix Companion to Severance](https://open.spotify.com/album/7bNj7hUkbRbZzn36MdyvUk) | 2:52 | 2025-04-04 | 2025-05-03 |
 | [MUZZLED](https://open.spotify.com/track/3bv0fizlTWbJ3rGYkUCp7h) | [Black Carl!](https://open.spotify.com/artist/07oZEFDySnjPl7vqqD8XSq) | [MUZZLED](https://open.spotify.com/album/5IMmKHkLHs5EbK5VLms8Su) | 1:57 | 2024-08-02 | 2024-08-31 |
 | [My Angel Wings](https://open.spotify.com/track/7f1RRyGa8FUaiYE0tzZxfF) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [My Angel Wings](https://open.spotify.com/album/7K2jfzxLlfygDHjLDl1pXh) | 3:39 | 2024-11-15 | 2024-12-14 |
+| [My Anthem](https://open.spotify.com/track/27fOZcjG9EJSU8bo6ZhnCc) | [Ghost in Real Life](https://open.spotify.com/artist/1XNSNWTlirqnvsXUUEVwxb) | [My Anthem](https://open.spotify.com/album/5Kn4lkJYAxiwwy3D9UEkR3) | 3:15 | 2025-05-26 |  |
 | [My Fix](https://open.spotify.com/track/27tMeLOBeObM0JVjEsnPCo) | [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa), [Velvet Cash](https://open.spotify.com/artist/2JE4L1DVUHTozvwDFAQkZr) | [My Fix](https://open.spotify.com/album/6ITzSDoQS1cPCIJ0Z0cKSh) | 2:31 | 2024-08-23 | 2024-09-14 |
 | [My Mind](https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [My Mind](https://open.spotify.com/album/7aneBfOjpEOtzBReiowj3u) | 3:04 | 2024-07-12 | 2024-08-10 |
 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 | 2024-08-23 | 2024-09-14 |

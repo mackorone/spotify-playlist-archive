@@ -34921,6 +34921,24 @@
     },
     {
       "album": {
+        "name": "My Anthem",
+        "url": "https://open.spotify.com/album/5Kn4lkJYAxiwwy3D9UEkR3"
+      },
+      "artists": [
+        {
+          "name": "Ghost in Real Life",
+          "url": "https://open.spotify.com/artist/1XNSNWTlirqnvsXUUEVwxb"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "My Anthem",
+      "url": "https://open.spotify.com/track/27fOZcjG9EJSU8bo6ZhnCc"
+    },
+    {
+      "album": {
         "name": "My Fix",
         "url": "https://open.spotify.com/album/6ITzSDoQS1cPCIJ0Z0cKSh"
       },

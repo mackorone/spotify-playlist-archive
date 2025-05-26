@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Playboi Carti, Young Thug and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,110,390 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,108,398 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 |
 | 50 | [Blakk Rokkstar](https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco) | 3:50 |
 
-Snapshot ID: `aC/y6wAAAAAJUpEc+BDMfZa2vwrYbBv8`
+Snapshot ID: `AAAAACefpU2h8g7TyCBIlku+XX4+UiEy`

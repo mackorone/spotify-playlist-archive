@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,903 likes - 107 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,896 likes - 107 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

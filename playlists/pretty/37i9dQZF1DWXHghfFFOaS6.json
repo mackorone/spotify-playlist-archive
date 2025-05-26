@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 361967,
+  "num_followers": 362024,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Jazzmatazz Volume II: The New Reality",
+        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Baybe",
+          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Lifesaver",
+      "url": "https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Jazzmatazz Volume II: The New Reality",
-        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
-      },
-      "artists": [
-        {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Baybe",
-          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Lifesaver",
-      "url": "https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "True Spirit",
         "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
       },
       "artists": [
         {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
         }
       ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -751,22 +767,6 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1317,26 +1317,6 @@
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
     },
     {
-      "added_at": "2025-03-21 04:00:36",
-      "album": {
-        "name": "Silver Rings",
-        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
-      },
-      "artists": [
-        {
-          "name": "New Street Adventure",
-          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
-        },
-        {
-          "name": "Nick Corbin",
-          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Silver Rings",
-      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Nuyorican Soul",
@@ -1355,6 +1335,26 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB"
+    },
+    {
+      "added_at": "2025-03-21 04:00:36",
+      "album": {
+        "name": "Silver Rings",
+        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
+      },
+      "artists": [
+        {
+          "name": "New Street Adventure",
+          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
+        },
+        {
+          "name": "Nick Corbin",
+          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
+        }
+      ],
+      "duration_ms": 178264,
+      "name": "Silver Rings",
+      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
     },
     {
       "added_at": "2022-07-14 19:24:43",

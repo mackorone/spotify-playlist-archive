@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Tuesday Beach Club\) \(핫한 국내 록 음악을 만나보세요!\)
 
-956 songs - 2 day 10 hr 22 min
+957 songs - 2 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Fire](https://open.spotify.com/track/64ButqouAeOjqZE8vc0yaS) | [Giryeon](https://open.spotify.com/artist/019xuaJPwSE0VLLJzcO8K6), [Sleepy](https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR) | [Brave Congresswoman \(Original Television Soundtrack\)](https://open.spotify.com/album/4YhGAstTnCR5nXgiI4tyLK) | 2:36 | 2024-03-21 | 2024-05-10 |
 | [first flight \(feat\. GARTENG\)](https://open.spotify.com/track/3gCP1AG9SDjFgcnmKOK4Cj) | [A ro](https://open.spotify.com/artist/3EnmdxPuVgad4oxe2RTiOq), [GARTENG](https://open.spotify.com/artist/7LjPkPjxQH5o4h2QLp11wZ) | [first flight](https://open.spotify.com/album/1V6KyBbnQbrJsgMTyYHVcz) | 4:26 | 2024-11-06 | 2024-11-13 |
 | [First love](https://open.spotify.com/track/5e0asTvcPu6sOXJOdtP8kU) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW) | [KIMBADA First love](https://open.spotify.com/album/61lqcDSHMhOTSFmcbxeU2k) | 3:49 | 2025-01-30 | 2025-03-18 |
-| [First Love](https://open.spotify.com/track/3yQgMtun8ilpM9Rba4RBMo) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [First Love](https://open.spotify.com/album/6bq0dbGHprWjuunLfdrcxf) | 3:14 | 2025-05-21 |  |
+| [First Love](https://open.spotify.com/track/3yQgMtun8ilpM9Rba4RBMo) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [First Love](https://open.spotify.com/album/6bq0dbGHprWjuunLfdrcxf) | 3:14 | 2025-05-21 | 2025-05-26 |
 | [Flame](https://open.spotify.com/track/1Qg4qHeb1DK1FdwjxgbGt6) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Military Prosecutor Doberman, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ruhTOVA7QJSkaNuLC4Xp2) | 3:22 | 2022-05-24 | 2022-05-30 |
 | [Flare](https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 6:03 | 2022-04-22 | 2022-07-27 |
 | [Flash](https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Cape](https://open.spotify.com/album/626dbHFyezrT6lBxvjN6iq) | 4:57 | 2024-11-29 | 2025-01-02 |
@@ -279,6 +279,7 @@
 | [Glittering Dreams \(Feat\. Lee Yongshin\)](https://open.spotify.com/track/7ka3DtYOq1iYs26gVXcCJ2) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Lee Yongshin](https://open.spotify.com/artist/7IupjPUInYSwlSmdCL3mKM) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:27 | 2023-07-12 | 2023-07-29 |
 | [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 | 2023-08-29 |
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |
+| [Go On](https://open.spotify.com/track/1B4u4JP5DaqGQJ9976HW46) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Burn to Win \(Original Soundtrack\) Part.2](https://open.spotify.com/album/1hiFjohix0gV2ZSh51OPTE) | 3:20 | 2025-05-26 |  |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-05-24 | 2023-04-06 |
 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 | 2022-08-12 | 2022-08-19 |
 | [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-06 | 2024-11-07 |
@@ -660,7 +661,7 @@
 | [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2023-06-29 |  |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2022-04-12 | 2023-06-07 |
 | [Ring on my Ears](https://open.spotify.com/track/7JvzA81nojfdhki4JFeerm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:45 | 2022-04-22 | 2022-07-18 |
-| [ROCK STAR](https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Beauty in Chaos](https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a) | 3:27 | 2025-05-20 |  |
+| [ROCK STAR](https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Beauty in Chaos](https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a) | 3:27 | 2025-05-20 | 2025-05-26 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2024-05-09 | 2024-11-07 |
 | [Rockabilly Time](https://open.spotify.com/track/4xsCYwFoPWkbQ6f4l86RbB) | [Street Guns](https://open.spotify.com/artist/5Y2hLp715quTKS2CzVnbsa) | [Rockabilly Time](https://open.spotify.com/album/2JHPFP0ZS1hVaizzwhn9g4) | 2:58 | 2024-04-30 | 2024-05-10 |
 | [Rocker's High \(Feat\. Lee Juseung\)](https://open.spotify.com/track/5qQYI0pBhlvP0CBhfCrLU0) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Lee Juseung](https://open.spotify.com/artist/4VYWvx4JpgPYUbpAKgXH33) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:34 | 2023-07-12 | 2023-07-29 |
@@ -669,7 +670,7 @@
 | [Roller Coaster](https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:03 | 2022-05-11 | 2022-07-25 |
 | [Rolling Rolling](https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:01 | 2022-04-12 | 2022-07-28 |
 | [Romanticism](https://open.spotify.com/track/6BuBas6u8SShF6OVeFdWlg) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Narcissus](https://open.spotify.com/album/58nrjxdxUZJOVvLU1uyc6b) | 3:32 | 2023-04-26 | 2023-05-13 |
-| [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2022-04-12 | 2025-05-22 |
+| [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2022-04-12 |  |
 | [Rules](https://open.spotify.com/track/6b8PDqaWAwX7aZ2f5wO2Tr) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [Rules](https://open.spotify.com/album/4iSSfrjweTsHTDG75Xw8hz) | 3:57 | 2025-02-25 | 2025-04-12 |
 | [Run](https://open.spotify.com/track/1vWvtub6ZiPgjGifozuvTW) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Run](https://open.spotify.com/album/5wrJcdaP62CGZxEwIY6MIW) | 3:46 | 2025-02-05 | 2025-03-18 |
 | [Run](https://open.spotify.com/track/4SQw5cHoDxfoSTtaXgaG86) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Run](https://open.spotify.com/album/7McA98esvLlvWfNOnCmfqd) | 3:52 | 2023-04-07 | 2023-04-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Burna Boy, Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,666 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,687 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 74 | [Sleepless Nights](https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Sleepless Nights](https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c) | 2:27 |
 | 75 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
 
-Snapshot ID: `AAAAAG8Rhw54WU25SUxkmhFtWkl62x01`
+Snapshot ID: `aC8t6AAAAAD2eD1Lmg6OMnSgTvLDvMG2`

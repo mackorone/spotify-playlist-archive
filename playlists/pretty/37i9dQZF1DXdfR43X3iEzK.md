@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything \~<br/>georgie & joe on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,718 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,870 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [Crowd Caffeine](https://open.spotify.com/track/5NgUs4A8db3NL75hvDr4eB) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Crowd Caffeine](https://open.spotify.com/album/6eQcK3pwuno4GzjNqgNBL2) | 3:22 |
 | 80 | [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 |
 
-Snapshot ID: `AAAAAPzcXLZFf1W+Ih9oqFTU1p1NjtTB`
+Snapshot ID: `aC+sgAAAAAD5Wc5Gxwd2cPOSFENg8UPn`

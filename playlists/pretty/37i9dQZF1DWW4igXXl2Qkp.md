@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:2QgCj5pd8aIys9jvr3A1GZ">Myaap<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,688 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,717 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [TURNITUP](https://open.spotify.com/track/2aT2qoPznOyTmjMBYfMqos) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K) | [PERFECT CIRCLE](https://open.spotify.com/album/5YvvxRThV1dmEUgpUk99eM) | 3:26 |
 | 100 | [No More Parties](https://open.spotify.com/track/4CU2nBXL9B96UbxkssszNj) | [Reese Youngn](https://open.spotify.com/artist/1du7HpeUTbkyNt0N6DfpXM) | [Pain or Problems](https://open.spotify.com/album/0X8GwwH60Ifgm9q9IXOIks) | 2:30 |
 
-Snapshot ID: `aC/03QAAAABnAmlM07sQPd84zqwhWh5B`
+Snapshot ID: `aC/03QAAAADtkn3zwMsTULgdSgCzuydr`

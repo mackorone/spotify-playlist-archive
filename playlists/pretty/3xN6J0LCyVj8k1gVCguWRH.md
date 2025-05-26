@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!?
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,635 likes - 172 songs - 9 hr 57 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,642 likes - 156 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,21 +164,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 154 | [Timeless](https://open.spotify.com/track/2y8V2btMTNREsBBe6Z0QJF) | [Billiam September](https://open.spotify.com/artist/362oCcJVCxAHqDZ0Gi1kqt) | [Timeless](https://open.spotify.com/album/70roXIMp1FUYNauZtZoqgG) | 3:16 |
 | 155 | [Whiskey Promises](https://open.spotify.com/track/5WKLnjjJz1byKHGRWY5JVh) | [Dane Bateman](https://open.spotify.com/artist/1YGJhVTeQwQPkjb6fh5nwJ) | [Whiskey Promises](https://open.spotify.com/album/1NRQiIjtMLIML7Uq1s2PsZ) | 2:30 |
 | 156 | [Fly, Fly Away](https://open.spotify.com/track/4h69BhGzc6lGdRIBOk9WuU) | [Eddy Mann](https://open.spotify.com/artist/4zT3ci2bvoKVi2M0XMwfj8) | [Turn Up the Divine](https://open.spotify.com/album/7CCn53IJjQnmqxa6EE99HQ) | 4:17 |
-| 157 | [pieces](https://open.spotify.com/track/0WFMY7XwH2LpKNeN77uF2J) | [Lizzy Donzis](https://open.spotify.com/artist/4wnOUKXbPUzKexcafAVvw6) | [Obsessed](https://open.spotify.com/album/1jQl6S99BJ3DhTcYCXXVi0) | 3:13 |
-| 158 | [Endless \- Remix](https://open.spotify.com/track/3XIVmaZpTu1YWBIIni0CTl) | [JUIC3](https://open.spotify.com/artist/7e3r6fJGaCYc6TH24yzh8s), [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Endless](https://open.spotify.com/album/6sNCHsqAyKt1Wt4TnQ5JPq) | 2:50 |
-| 159 | [Under One Love](https://open.spotify.com/track/5FRMEHTxLPexMBr3JWG0QZ) | [Kool Mansa](https://open.spotify.com/artist/20l0rrVaWwSKZlWuT5Kx86) | [Under One Love](https://open.spotify.com/album/19tlUtXC4gNThMZ67UgWZn) | 3:21 |
-| 160 | [Our Oborus](https://open.spotify.com/track/7gjFf3S2NC3qQl41q7Zl7K) | [Temkina](https://open.spotify.com/artist/5tCavJFKKeFeD9jThtwaoc), [Thallus](https://open.spotify.com/artist/5OtCPeg8X9u17ZZUyDSC77) | [Our Oborus](https://open.spotify.com/album/6Zaj8Hpt1VsRznLXLp4fPM) | 3:27 |
-| 161 | [Dont You Want It](https://open.spotify.com/track/1RK4YUFkrfBT9ywBD3Ga2i) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Don't You Want It?](https://open.spotify.com/album/3aiUMxJFEI2Awlmq1i8QgA) | 2:48 |
-| 162 | [Fun & Games](https://open.spotify.com/track/3HrUsSZsvJE1HwBRRmEh7A) | [Jack DeNicola](https://open.spotify.com/artist/2Kb1e1SXdaNvd1ICwQTBK3), [Alona](https://open.spotify.com/artist/2ozRcUxtKe7WaAcaCbLXQv), [Kenyatta](https://open.spotify.com/artist/1NdUgbmU2w2EjMmREpSPob) | [Fun & Games](https://open.spotify.com/album/5E9a3E0QzkkbDYowNlzeT6) | 4:02 |
-| 163 | [Hot! \(They Don't Know\) \- Radio Edit](https://open.spotify.com/track/4YRtIMEGI9JLH34E3TcvWI) | [Macy](https://open.spotify.com/artist/7d9MccoSxC0ZCbiUPGj191) | [Hot! \(They Don't Know\)](https://open.spotify.com/album/4NHR86xdtPqRGkG4jVFMwD) | 3:58 |
-| 164 | [I'm Betting You Know That](https://open.spotify.com/track/2cXWF03NCgkldzcCU8w1r1) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14) | [I'm Betting You Know That](https://open.spotify.com/album/0AYv0O9ComqsSo9ozs2ilp) | 5:53 |
-| 165 | [suckmyteeth](https://open.spotify.com/track/3KhEA496Ku2Yz9FAntNdkN) | [dontkillrose](https://open.spotify.com/artist/5hdYSDeyRcrp1uLqQJW6WV) | [suckmyteeth](https://open.spotify.com/album/3cyYG6lhDNITcnCtmuCTNn) | 2:48 |
-| 166 | [Heartthrob](https://open.spotify.com/track/0x1hEqYWNXxUgScMx4kDME) | [Victor and the Callers](https://open.spotify.com/artist/7fCavsQKfgDxxU1Iwwkz0G) | [Lucid Dream](https://open.spotify.com/album/0CCk3M8RqLB86AHAqsawBE) | 4:25 |
-| 167 | [Broken Cards](https://open.spotify.com/track/6kcE8IEcbdjVZAtQw2JV31) | [Jake Blaze](https://open.spotify.com/artist/4pOFCotYldEgrmgT5JzJ1e) | [Broken Cards](https://open.spotify.com/album/6jYQXtehAef4yvn6sAu9H4) | 3:51 |
-| 168 | [Shut Up! \- Remix](https://open.spotify.com/track/2qgRIUlMjPPs7ubALkAyJu) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Shut Up! \(Remix\)](https://open.spotify.com/album/0VumUQYv6xhVFomRhUFIyu) | 2:52 |
-| 169 | [Push Me, Pull Me](https://open.spotify.com/track/707GzgHACQlctRdcmYAZ1T) | [Ric Maye](https://open.spotify.com/artist/0LNTJdJse9NOYEciPtUZTc), [Honey B](https://open.spotify.com/artist/2zezkLZW7zP586llv3aKOV), [Ariana Celaeno](https://open.spotify.com/artist/3Igpr26HgdrjS1nf4ePyPX) | [All Sides Of Me](https://open.spotify.com/album/0fxvj3DAXf6RlL1cOAVmRH) | 2:37 |
-| 170 | [For Love and Country](https://open.spotify.com/track/7C5WlEYLeGPARdQrahxPBd) | [Craig and Anthony](https://open.spotify.com/artist/5njehTu8D3583cRcdrATiW), [The Truth Bombers](https://open.spotify.com/artist/0rmLSIFd87274EF2P8cXS0) | [For Love and Country](https://open.spotify.com/album/26DtXmIzQgj8zHcFBo03XU) | 2:11 |
-| 171 | [Expensive](https://open.spotify.com/track/2aWSZkq7uci31MYsz1bfim) | [kimaRA](https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD) | [Expensive](https://open.spotify.com/album/0jlFei1Co28C6CqPj8LkUk) | 2:51 |
-| 172 | [should've been](https://open.spotify.com/track/1ZaXOOGlaHuQ7oRTRQIcNm) | [Jocelyn Kate](https://open.spotify.com/artist/0zpTTFXqOzXiuNocF1PFDj) | [should've been](https://open.spotify.com/album/6vAGXC92IUUKzMtfcXU4aj) | 2:57 |
 
-Snapshot ID: `AAAw6YIeP3JAAYHL89uYq9Dv2EMpCKY+`
+Snapshot ID: `AAAw6ooTXt7FH/E17Xyysiu3dhFvtoK8`

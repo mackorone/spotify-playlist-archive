@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-565 songs - 1 day 6 hr 56 min
+567 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Nurse's Office](https://open.spotify.com/track/4fRzunTZ51UC0oNwoVqiKB) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:22 | 2024-02-27 |  |
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2024-02-27 |  |
 | [Only](https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:00 | 2024-02-27 |  |
+| [Only Love](https://open.spotify.com/track/3s7uJNPy4CwM3van8iTQOf) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:21 | 2025-05-25 |  |
 | [Only Time of Year](https://open.spotify.com/track/2SI7uQa7rugjxIrDM2czso) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:58 | 2024-02-27 |  |
 | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU) | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM) | 3:25 | 2024-02-27 |  |
 | [Otro Level](https://open.spotify.com/track/0QTNqESiTNtNZpakyN1sek) | [clonakz](https://open.spotify.com/artist/0ou7NMwZ7JMtAUoV0uSF8k) | [Otro Level](https://open.spotify.com/album/5L3AEt8GfYwdQ6DYF4mYau) | 1:59 | 2024-07-13 | 2024-07-18 |
@@ -386,6 +387,7 @@
 | [Outsiders](https://open.spotify.com/track/1iwQdUngDyaxhq0s2PqVUx) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Outsiders](https://open.spotify.com/album/29E3D3LWKCGqGanmEjeO5E) | 3:49 | 2024-02-27 |  |
 | [Paper Hearts](https://open.spotify.com/track/6PO0Csgktefy7BDb0zq8xU) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Night & Day \(Night Edition\)](https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf) | 3:29 | 2024-02-27 |  |
 | [PAPI](https://open.spotify.com/track/2k6oLQC0nAw99WL1euDWdG) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [PAPI](https://open.spotify.com/album/3mwb9N7rZZ9dQD75y4a8KD) | 2:30 | 2024-02-27 |  |
+| [Parachute](https://open.spotify.com/track/67ndgAWo70E6uz1vKlFZfB) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 2:58 | 2025-05-25 |  |
 | [parents](https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:51 | 2024-02-27 |  |
 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 | 2024-04-08 |  |
 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 | 2024-02-27 |  |

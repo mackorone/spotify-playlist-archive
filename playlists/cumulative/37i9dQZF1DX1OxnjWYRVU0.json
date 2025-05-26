@@ -8511,6 +8511,28 @@
     },
     {
       "album": {
+        "name": "SHOW ME LOVE",
+        "url": "https://open.spotify.com/album/4D5ubdjbYIYeXeRRJlifsr"
+      },
+      "artists": [
+        {
+          "name": "Joey Tingen",
+          "url": "https://open.spotify.com/artist/4sVAlZoshfT2fScvTaGqVx"
+        },
+        {
+          "name": "Linda Bugatti",
+          "url": "https://open.spotify.com/artist/4LabL0cr3Mywm4XkLUpgan"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212947,
+      "name": "SHOW ME LOVE",
+      "url": "https://open.spotify.com/track/2mDKBYSN8NkFMjIc7YAg0x"
+    },
+    {
+      "album": {
         "name": "Show Me the Meaning of Being Lonely",
         "url": "https://open.spotify.com/album/3VlATUP5o3qSKP7g7FAVCS"
       },

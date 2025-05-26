@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Homecoming
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,601 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,618 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 66 | [BIG ROCK](https://open.spotify.com/track/3VhhSr7c6trvZqfnPtAXwK) | [JBthaPreacher](https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6), [Secret!](https://open.spotify.com/artist/0RPQLcTuKNkYRr14KQeTcz) | [BIG ROCK](https://open.spotify.com/album/0iE5U9L7EyvmcFMgYPvr6A) | 2:15 |
 | 67 | [You](https://open.spotify.com/track/3jhlcmuz08z1eaZmH20nui) | [Jesus Loves Electro](https://open.spotify.com/artist/6OP8EQDkqXBMT6CY9Rsngp) | [You](https://open.spotify.com/album/7gbt61EFvdtJhOyNtbn6yo) | 2:34 |
 | 68 | [closer](https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [awakening](https://open.spotify.com/album/3AjLPYEKAkjxUZPKEKiXlv) | 2:07 |
-| 69 | [My Everything](https://open.spotify.com/track/2D2IKuOok6MctslCIQj0Ko) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Kairy Marquez](https://open.spotify.com/artist/4FwxCPb4GRp04ZS63pryQt), [Padre Jucinei Vilpert Natal CSJ](https://open.spotify.com/artist/1y7Bc7emB4IAej7u0o4cXL), [Charlie Dens](https://open.spotify.com/artist/0j1z86XFj06HhfO1ON53y3) | [My Everything \- Remix](https://open.spotify.com/album/5P97pHClZEPecjkaP00sQz) | 3:16 |
+| 69 | [My Everything](https://open.spotify.com/track/2D2IKuOok6MctslCIQj0Ko) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8), [Padre Jucinei Vilpert Natal CSJ](https://open.spotify.com/artist/1y7Bc7emB4IAej7u0o4cXL), [Charlie Dens](https://open.spotify.com/artist/1Hk3bBDPVBbVg2kW3uCUNI) | [My Everything \- Remix](https://open.spotify.com/album/5P97pHClZEPecjkaP00sQz) | 3:16 |
 | 70 | [Stay Low](https://open.spotify.com/track/4aq0LrPJnTB5a0uCh1OTiE) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Songs Before The Storm](https://open.spotify.com/album/02JeZYBaJTb5AGqSpZaA8P) | 3:42 |
 | 71 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
 | 72 | [Faith Is Trust](https://open.spotify.com/track/5yUelBunK1JSlewLcZaAKb) | [Of the Land](https://open.spotify.com/artist/6hg70ulbsTWaH4nl3i5S4H) | [Faith Is Trust](https://open.spotify.com/album/1CDDFkPhVXkyFIXbWqgob6) | 3:27 |

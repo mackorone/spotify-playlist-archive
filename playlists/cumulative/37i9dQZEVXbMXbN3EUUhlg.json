@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 166838,
       "name": "Aquela Pessoa - Ao Vivo",
       "url": "https://open.spotify.com/track/5asabafNzfAzjUecDvuNES"
@@ -7134,7 +7134,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 165452,
       "name": "Dama do Baralho - Ao Vivo",
       "url": "https://open.spotify.com/track/4Nj2zoYULwyYnJTU3AZf6B"
@@ -8827,6 +8827,28 @@
     },
     {
       "album": {
+        "name": "Pra Ouvir Tomando Uma, Vol. 1",
+        "url": "https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172751,
+      "name": "Dois Enganados",
+      "url": "https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U"
+    },
+    {
+      "album": {
         "name": "Cintilante (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/7lLjDECsr4tJUs0BEulGbU"
       },
@@ -8968,7 +8990,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -12066,7 +12088,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 137349,
       "name": "Filho da M\u00e3e - Ao Vivo",
       "url": "https://open.spotify.com/track/7opE9OJaqrvkQspmfJdVsS"
@@ -14696,7 +14718,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 153335,
       "name": "Kamasutra - Ao Vivo",
       "url": "https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9"
@@ -17660,7 +17682,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
@@ -18886,7 +18908,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 144923,
       "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
@@ -21508,7 +21530,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -24784,7 +24806,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 107076,
       "name": "Rabet\u00e3o De Terremoto",
       "url": "https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE"
@@ -25004,6 +25026,24 @@
       "duration_ms": 354857,
       "name": "Resenha do Arrocha",
       "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
+    },
+    {
+      "album": {
+        "name": "Magia das Estrelas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145177,
+      "name": "Resumindo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz"
     },
     {
       "album": {
@@ -26036,7 +26076,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 162461,
       "name": "Se Essa Bunda For Uma Empresa",
       "url": "https://open.spotify.com/track/3CvpnVAV75lKCcaTtUTpgW"
@@ -32446,7 +32486,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 188571,
       "name": "YES OR NO",
       "url": "https://open.spotify.com/track/7BGhllQfISbfkwYSkp5nRC"

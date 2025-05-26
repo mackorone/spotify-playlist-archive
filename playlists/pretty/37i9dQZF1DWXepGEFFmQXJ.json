@@ -1,12 +1,12 @@
 {
   "description": "The cream of today's country crop. Cover: Chris Stapleton",
-  "num_followers": 427170,
+  "num_followers": 427187,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+5FAAAAACAZQaobRjGiuKghyyUugLB",
+  "snapshot_id": "aDOk7wAAAABzrQJLsZjyKTW9w2Q/R4oX",
   "tracks": [
     {
       "added_at": "2025-05-22 23:53:56",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-05-22 23:53:56",
       "album": {
-        "name": "Lonely Won\u2019t Leave Me Alone",
-        "url": "https://open.spotify.com/album/5qJewTgyfF1zVZp3VkGw8n"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 207115,
-      "name": "Lonely Won\u2019t Leave Me Alone",
-      "url": "https://open.spotify.com/track/3GwKOYN4tbFSSCiKXqBnMZ"
-    },
-    {
-      "added_at": "2025-05-22 23:53:56",
-      "album": {
         "name": "Glass Half Empty",
         "url": "https://open.spotify.com/album/7uwwX1yRH3vlKorIlq5Fpf"
       },
@@ -155,22 +139,6 @@
     {
       "added_at": "2025-05-22 23:53:56",
       "album": {
-        "name": "Man of the Year",
-        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Man of the Year",
-      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
-    },
-    {
-      "added_at": "2025-05-22 23:53:56",
-      "album": {
         "name": "Cowboy Sh!t",
         "url": "https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz"
       },
@@ -183,6 +151,38 @@
       "duration_ms": 154438,
       "name": "Cowboy Sh!t",
       "url": "https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs"
+    },
+    {
+      "added_at": "2025-05-22 23:53:56",
+      "album": {
+        "name": "Lonely Won\u2019t Leave Me Alone",
+        "url": "https://open.spotify.com/album/5qJewTgyfF1zVZp3VkGw8n"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 207115,
+      "name": "Lonely Won\u2019t Leave Me Alone",
+      "url": "https://open.spotify.com/track/3GwKOYN4tbFSSCiKXqBnMZ"
+    },
+    {
+      "added_at": "2025-05-22 23:53:56",
+      "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Man of the Year",
+      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
     },
     {
       "added_at": "2025-05-22 23:53:56",

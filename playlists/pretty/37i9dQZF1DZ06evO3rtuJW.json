@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33890,
+  "num_followers": 33901,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+6gAAAAADPDTyLkG4f4/xV9axWQc3t",
+  "snapshot_id": "aDEMAAAAAAAUAp5CoyhZijpN5jvGDYew",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Down By The River",
-      "url": "https://open.spotify.com/track/0br04z6nvk9oZR3leH9ayg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stepping In Blood",
         "url": "https://open.spotify.com/album/6NMO2xSNS195esMlTJu3Mk"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 170184,
       "name": "Ahhh",
       "url": "https://open.spotify.com/track/1LMsoLko6U1QHS2zHi5B5T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Down By The River",
+      "url": "https://open.spotify.com/track/0br04z6nvk9oZR3leH9ayg"
     },
     {
       "added_at": null,
@@ -371,30 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead N****s (feat. Polo G & G Herbo)",
-        "url": "https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl"
-      },
-      "artists": [
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 195457,
-      "name": "Dead N****s (feat. Polo G & G Herbo)",
-      "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sessions",
         "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 175729,
       "name": "Onna Come Up (feat. G Herbo) [Remix]",
       "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dead N****s (feat. Polo G & G Herbo)",
+        "url": "https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 195457,
+      "name": "Dead N****s (feat. Polo G & G Herbo)",
+      "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Fly",
+        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 184541,
+      "name": "Swerve (with G Herbo)",
+      "url": "https://open.spotify.com/track/6Pi7DDPcJuWoZnb5GFsTUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -643,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 154195,
+      "name": "Best Rapper Alive",
+      "url": "https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Pages",
         "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
       },
@@ -659,22 +695,6 @@
       "duration_ms": 206643,
       "name": "Mine (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 154195,
-      "name": "Best Rapper Alive",
-      "url": "https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON"
     },
     {
       "added_at": null,
@@ -935,26 +955,6 @@
       "duration_ms": 243530,
       "name": "Body Count (feat. King Von & G Herbo)",
       "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Me Fly",
-        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 184541,
-      "name": "Swerve (with G Herbo)",
-      "url": "https://open.spotify.com/track/6Pi7DDPcJuWoZnb5GFsTUQ"
     },
     {
       "added_at": null,

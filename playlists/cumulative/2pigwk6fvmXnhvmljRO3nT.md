@@ -4,7 +4,7 @@
 
 > 
 
-7,226 songs - 18 day 18 hr 41 min
+7,232 songs - 18 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4992,6 +4992,7 @@
 | [Snitches & Rats \(feat\. Young Nudy\)](https://open.spotify.com/track/3WaDoMDQRqDdgtCDLxanpN) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:07 | 2024-12-05 |  |
 | [Snitching \(feat\. Quavo & Future\)](https://open.spotify.com/track/2FhEj9lvEIaJihjFprRrGt) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 4:19 | 2025-01-15 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2025-01-15 |  |
+| [Snow Fairy](https://open.spotify.com/track/2rYiDn8FjwBnBPtZDP8to3) | [FUNKIST](https://open.spotify.com/artist/5bsH582oaAKCAcPMkOP2Vu) | [Tv Anime "Fairy Tail" Op & Ed Theme Songs Vol\. 1](https://open.spotify.com/album/4lgdDGPZzQTQh33ebczu4Q) | 3:36 | 2025-05-25 |  |
 | [SNOWFLAKES](https://open.spotify.com/track/449GhrIxX2XVMTiG2GIaWd) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) | 3:26 | 2025-04-20 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2025-01-15 |  |
 | [So Alive](https://open.spotify.com/track/73pDDTXW6SKqM52N4Rdred) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug) | 1:59 | 2025-01-15 |  |
@@ -5130,7 +5131,7 @@
 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2025-03-31 |  |
 | [Stay Alive](https://open.spotify.com/track/3iRYyU6LhuBD2uXsDjEsRw) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Coexistence](https://open.spotify.com/album/2yupj6Bwjo1m6Jew5uscif) | 3:41 | 2025-01-15 |  |
 | [STAY ALIVE](https://open.spotify.com/track/3f6maqcSVtCLZZhgJrQKJW) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [HIGECORE!](https://open.spotify.com/album/6rcrV8O10BZ8L4nLmiy56g) | 4:25 | 2025-01-15 |  |
-| [Stay Alive](https://open.spotify.com/track/5seIWcsrALZcuhfrUm0lNC) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [ひげこれ! HIGEDRIVER BEST in KADOKAWA ANISON](https://open.spotify.com/album/7f6XRbYMJSYFDEuyGZdXl2) | 4:25 | 2025-01-15 |  |
+| [Stay Alive](https://open.spotify.com/track/5seIWcsrALZcuhfrUm0lNC) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [ひげこれ! HIGEDRIVER BEST in KADOKAWA ANISON](https://open.spotify.com/album/7f6XRbYMJSYFDEuyGZdXl2) | 4:25 | 2025-01-15 | 2025-05-26 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2025-02-05 |  |
 | [Stay True \(feat\. Helena\)](https://open.spotify.com/track/3o5RYmMtwJHYHU0NnZF4uS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT), [Helena](https://open.spotify.com/artist/2VXQid97MSwSzyhCzb1nUl) | [Men I Trust](https://open.spotify.com/album/4wxfSOwc8WNRg8TRLUMjMA) | 5:05 | 2025-01-04 |  |
 | [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 | 2025-03-17 |  |
@@ -5558,6 +5559,7 @@
 | [The Tears Turn To A Rainbow](https://open.spotify.com/track/28gSpOfWLZX51eabtTNmyO) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Thanksラブレター](https://open.spotify.com/album/4cenOAO0vIwvvBoJvFhHB0) | 4:24 | 2025-01-15 |  |
 | [The Thrill](https://open.spotify.com/track/4PJUy02uYGaZ4Ux1jDulHZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Between II Worlds](https://open.spotify.com/album/0UrFZ93iRqEnJwIuhzhlEy) | 3:30 | 2025-01-04 |  |
 | [The Thrill](https://open.spotify.com/track/4wqzOaLxiCRy2Et8tRyNSX) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [The Thrill](https://open.spotify.com/album/2M0nxA3m2sZ5DyDzCdzScf) | 3:54 | 2025-01-15 |  |
+| [The Thrill](https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [The Thrill \(feat\. Empire of the Sun\)](https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw) | 3:54 | 2025-05-25 |  |
 | [The time of walking on remembrance](https://open.spotify.com/track/0LSmb1eo894EJ7eIWPaAgQ) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Separation Anxiety](https://open.spotify.com/album/4qQ0t1Feq5AjdT8tw1C73h) | 5:12 | 2025-01-04 |  |
 | [The Two Of Us](https://open.spotify.com/track/1J6HOo8xHA0MeW7ZvCyVG1) | [Shade Jenifer](https://open.spotify.com/artist/0H4RQd6VmuhhYVIDYUhjDy) | [The Two Of Us](https://open.spotify.com/album/5TvZlbtmhhrPqQyA2c4w93) | 3:35 | 2025-04-19 |  |
 | [The Very Thought of You](https://open.spotify.com/track/2QqZsbnvBr2IrhwUT6nAuX) | [Oscar Neall](https://open.spotify.com/artist/43K5ZvnMFkpNC2ZmRO0HP1) | [Miss You](https://open.spotify.com/album/4Eppd05cAzgdmRl7Ww1pWA) | 4:09 | 2025-04-30 |  |
@@ -5881,6 +5883,7 @@
 | [Uuuu](https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 | 2025-02-19 |  |
 | [Ué My Friend](https://open.spotify.com/track/670OqvjZTefLplHRurajCh) | [Famiglia Cobram](https://open.spotify.com/artist/1xLJGGvfC0zCs0qIHABeXz) | [Ué My Friend](https://open.spotify.com/album/1bGdFn00aFhDWhg4umjImQ) | 5:15 | 2025-04-30 |  |
 | [Vacation](https://open.spotify.com/track/7yF0ULfXKAxBL04iMSHUxs) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 2:49 | 2025-01-15 |  |
+| [Vacay](https://open.spotify.com/track/0hFZRMipuQbyfLfXSH7EHd) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:22 | 2025-05-25 |  |
 | [Valentina](https://open.spotify.com/track/0b83L1ToHRiwlpmUAjiCHc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:34 | 2024-12-14 |  |
 | [valentine](https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [valentine](https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le) | 3:02 | 2025-04-18 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2025-04-20 |  |
@@ -6557,6 +6560,7 @@
 | [ハッピーエンド](https://open.spotify.com/track/4GqO80eGXA542oTvlYv4LS) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ハッピーエンド](https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6) | 5:14 | 2024-12-10 |  |
 | [ハルカ](https://open.spotify.com/track/6wKmxUeMJAoz2GpMrw95z5) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ハルカ](https://open.spotify.com/album/6uq5X6zI466fOyPkzwVYTH) | 4:03 | 2025-01-15 |  |
 | [ハルジオン](https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ハルジオン](https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q) | 3:18 | 2025-01-15 |  |
+| [バイマイサイド](https://open.spotify.com/track/39zRDK54BJJQqcIYydsfSy) | [Hemenway](https://open.spotify.com/artist/1aelbjRiScFc639v34vNsv) | [バイマイサイド](https://open.spotify.com/album/4oTSOH7gH3wMqngbs05Zww) | 3:27 | 2025-05-25 |  |
 | [バイマイサイド \(Album Ver.\)](https://open.spotify.com/track/2zSUMNHbKSY7ROrLjsewVe) | [Hemenway](https://open.spotify.com/artist/1aelbjRiScFc639v34vNsv) | [The Music](https://open.spotify.com/album/7okIbNcivjpzO5XzKQxnj6) | 3:25 | 2025-01-03 |  |
 | [バケモノと呼ばれて](https://open.spotify.com/track/4HKa3rbUMPQvEXFknNBgC0) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [バケモノと呼ばれて](https://open.spotify.com/album/7CUpcXtscC1Ipv4193DxCR) | 4:27 | 2024-12-14 |  |
 | [バックシート\(Alternate Version\)](https://open.spotify.com/track/50pfw4O5lmL7oAltO6FaYp) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Confidential](https://open.spotify.com/album/7APNVXBJuVVqeqkJG1CMMT) | 5:57 | 2025-01-04 |  |
@@ -6837,6 +6841,8 @@
 | [藍二乗](https://open.spotify.com/track/6BV77pE4JyUQUtaqnXeKa5) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:05 | 2025-01-15 |  |
 | [蛍案内図](https://open.spotify.com/track/2eNd5DpWZA1Q6haM9qBlA3) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [青色フィルム](https://open.spotify.com/album/3MNnaWc6SGzYMT9abpQl4X) | 3:39 | 2025-01-03 |  |
 | [蜃気楼の島へ](https://open.spotify.com/track/7nB00pmlT3Dc6Vd536ha3l) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [SEYCHELLES](https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g) | 3:38 | 2025-01-04 |  |
+| [融雪\(Subscription Version\)](https://open.spotify.com/track/2jpf9HJMNHQKnSa2IT3YJL) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [融雪\(Subscription ver.\)](https://open.spotify.com/album/2BSGcykGdheSZNd5yAI5J6) | 4:02 | 2025-05-25 |  |
+| [裏切りの夕焼け](https://open.spotify.com/track/3CmSagHUDDSpoMhn3tqvdR) | [THEATRE BROOK](https://open.spotify.com/artist/45mcHOr3FnakkF8oXLyhkr) | [裏切りの夕焼け](https://open.spotify.com/album/35hkp79Ri9SdFBUJ3zCmiL) | 3:28 | 2025-05-25 |  |
 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 | 2025-01-15 |  |
 | [言わないけどね。](https://open.spotify.com/track/13saEo7ciOYh6nUGrC79cx) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [星に名前をつけるとき](https://open.spotify.com/album/4w0N1X4kmwzMxH4umBaF6H) | 4:32 | 2025-01-15 |  |
 | [記念撮影](https://open.spotify.com/track/1pfZ0POxTGl7JbQyCdst5Q) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [aurora arc](https://open.spotify.com/album/0Jj2DO9zXQwZJIdljOX7O5) | 4:42 | 2024-12-11 |  |

@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🍹
 
-425 songs - 1 day 4 hr 40 min
+426 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [How Long Have You Been Away? \- Extended](https://open.spotify.com/track/1eZerqJzuStVYp7ZpF4n2p) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 4:47 | 2024-04-05 | 2024-05-04 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-05-03 |  |
 | [Hurt Somebody](https://open.spotify.com/track/59oLiH1CC7dmBolUZQSSRt) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Hurt Somebody](https://open.spotify.com/album/6ePXCJjApGvTuNYbufL2Xq) | 2:59 | 2021-08-05 | 2022-07-29 |
-| [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 | 2024-07-08 |  |
+| [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 | 2024-07-08 | 2025-05-26 |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-17 |  |
 | [I Don't See It That Way](https://open.spotify.com/track/5CGv6xlHJMXoFBrb2xb9FU) | [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [I Don't See It That Way](https://open.spotify.com/album/4x7pzsMZWguwMmcnUsjl9g) | 2:41 | 2025-02-28 | 2025-03-21 |
 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 | 2023-05-30 | 2023-11-05 |
@@ -240,6 +240,7 @@
 | [Mama Say \(farfetch'd Remix\)](https://open.spotify.com/track/09jTPmbrPueZItnMez0zTx) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr), [Parula](https://open.spotify.com/artist/1sFfjHfX74mGrZpgt7ErQL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Mama Say \(farfetch'd Remix\)](https://open.spotify.com/album/0XvmvBlX3WkQGeXZmYBUiL) | 2:51 | 2021-08-05 | 2022-07-29 |
 | [Mandala](https://open.spotify.com/track/2gSQxp5MPT7O25IZh8xcGO) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 3:01 | 2023-09-01 | 2023-10-22 |
 | [Manifesto \(feat\. Jungle By Night\)](https://open.spotify.com/track/0a4dravjLsr8lygvwBHNoN) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 7:23 | 2023-07-21 | 2024-05-04 |
+| [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 | 2025-05-18 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-05-30 | 2023-09-28 |
 | [Maria Maria](https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [Maria Maria](https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf) | 4:22 | 2024-12-05 |  |
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-30 | 2023-06-14 |

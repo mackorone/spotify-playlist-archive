@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 354782,
+  "num_followers": 354861,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+6gAAAAACVs9lt+yrDm654GiKmDzVt",
+  "snapshot_id": "aDEMAAAAAADyOFCO6G1sraXsDC1YvhD+",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Es el Amor Quien Llega",
-      "url": "https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Como Soy",
         "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 205933,
       "name": "Soy Como Quise Ser",
       "url": "https://open.spotify.com/track/4fbkYivlblH2hmA4ezlscp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Es el Amor Quien Llega",
+      "url": "https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huelo a Soledad",
-        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Huelo a Soledad",
-      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Un Mismo Corazon",
         "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 174373,
       "name": "Me Equivoqu\u00e9 Contigo",
       "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huelo a Soledad",
+        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Huelo a Soledad",
+      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 179106,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Como Soy",
         "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 229426,
       "name": "No a Pedir Perd\u00f3n",
       "url": "https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 23713,
+  "num_followers": 23717,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Soca Gold 2010",
-        "url": "https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1"
-      },
-      "artists": [
-        {
-          "name": "Rikki Jai",
-          "url": "https://open.spotify.com/artist/7tx0yanNumgzEBs3qd9urM"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Barman",
-      "url": "https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
         "name": "Free Like a Bird",
         "url": "https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY"
       },
@@ -212,6 +196,22 @@
       },
       "artists": [
         {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/7tx0yanNumgzEBs3qd9urM"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Barman",
+      "url": "https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "Soca Gold 2010",
+        "url": "https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1"
+      },
+      "artists": [
+        {
           "name": "Ravi B & Problem Child",
           "url": "https://open.spotify.com/artist/6cdpdaVlpkJculgkHz5WRE"
         }
@@ -219,6 +219,46 @@
       "duration_ms": 265240,
       "name": "Ah Drinka",
       "url": "https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "Chataniya",
+        "url": "https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU"
+      },
+      "artists": [
+        {
+          "name": "Savita Singh TT",
+          "url": "https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i"
+        }
+      ],
+      "duration_ms": 225576,
+      "name": "Chataniya",
+      "url": "https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "Karmageddon",
+        "url": "https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        },
+        {
+          "name": "Andy Singh",
+          "url": "https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz"
+        },
+        {
+          "name": "Hitman",
+          "url": "https://open.spotify.com/artist/7v1sbPiulgV8DjbanWz8VG"
+        }
+      ],
+      "duration_ms": 300696,
+      "name": "Tek Meh Gul (feat. Hitman & Andy Singh)",
+      "url": "https://open.spotify.com/track/76bp1DQTIHFWdWGFc9yOyz"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -239,18 +279,26 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Chataniya",
-        "url": "https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU"
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/37rSCs6ZzJegxd4645i67x"
       },
       "artists": [
         {
-          "name": "Savita Singh TT",
-          "url": "https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i"
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        },
+        {
+          "name": "DJ Puffy",
+          "url": "https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr"
         }
       ],
-      "duration_ms": 225576,
-      "name": "Chataniya",
-      "url": "https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B"
+      "duration_ms": 168960,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/0g7wbLkY6PV1or9n6oIskt"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -291,30 +339,6 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Karmageddon",
-        "url": "https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc"
-      },
-      "artists": [
-        {
-          "name": "Ravi B and Karma the Band",
-          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
-        },
-        {
-          "name": "Andy Singh",
-          "url": "https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz"
-        },
-        {
-          "name": "Hitman",
-          "url": "https://open.spotify.com/artist/7v1sbPiulgV8DjbanWz8VG"
-        }
-      ],
-      "duration_ms": 300696,
-      "name": "Tek Meh Gul (feat. Hitman & Andy Singh)",
-      "url": "https://open.spotify.com/track/76bp1DQTIHFWdWGFc9yOyz"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
         "name": "The Ultimate Sundar Popo",
         "url": "https://open.spotify.com/album/4LIBROVNLxLDZo4s32GiEC"
       },
@@ -347,30 +371,6 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/37rSCs6ZzJegxd4645i67x"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        },
-        {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
-        },
-        {
-          "name": "DJ Puffy",
-          "url": "https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/0g7wbLkY6PV1or9n6oIskt"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
         "name": "Ab Na Jaibe",
         "url": "https://open.spotify.com/album/2n5A0bEoYkn8q3wm6cc75q"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 222733,
       "name": "Ab Na Jaibe",
       "url": "https://open.spotify.com/track/42jxQLPSuH6OMrkDhPiWkE"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
-        "name": "Soca Gold 2",
-        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
-      },
-      "artists": [
-        {
-          "name": "Sonny Mann",
-          "url": "https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0"
-        }
-      ],
-      "duration_ms": 302360,
-      "name": "Lootala",
-      "url": "https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -423,6 +407,22 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
+        "name": "Soca Gold 2",
+        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
+      },
+      "artists": [
+        {
+          "name": "Sonny Mann",
+          "url": "https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Lootala",
+      "url": "https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
         "name": "Jhulai Kai Jhulaneeya",
         "url": "https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ"
       },
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
+        "name": "Dance Party King",
+        "url": "https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Caroni Gyul",
+      "url": "https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
         "name": "Bandarwah (feat. Ravi B)",
         "url": "https://open.spotify.com/album/1EpG3o1xvOD2pcmMu0Jt9q"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 265064,
       "name": "Bandarwah (feat. Ravi B)",
       "url": "https://open.spotify.com/track/3IGfrhOSd1eg1CSBzUX01w"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
-        "name": "Dance Party King",
-        "url": "https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03"
-      },
-      "artists": [
-        {
-          "name": "Sundar Popo",
-          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Caroni Gyul",
-      "url": "https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -511,78 +511,6 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Sweet Music",
-        "url": "https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa"
-      },
-      "artists": [
-        {
-          "name": "Savita Singh TT",
-          "url": "https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i"
-        }
-      ],
-      "duration_ms": 187103,
-      "name": "Sweet Music",
-      "url": "https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
-        "name": "Chutney Party Mix",
-        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Man",
-          "url": "https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6"
-        }
-      ],
-      "duration_ms": 302426,
-      "name": "Loota La",
-      "url": "https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
-        "name": "TOO MUCH PAIN",
-        "url": "https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Salick",
-          "url": "https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r"
-        }
-      ],
-      "duration_ms": 307330,
-      "name": "TOO MUCH PAIN",
-      "url": "https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
-        "name": "Chutney",
-        "url": "https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS"
-      },
-      "artists": [
-        {
-          "name": "Shelly G",
-          "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
-        },
-        {
-          "name": "Fojo",
-          "url": "https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft"
-        },
-        {
-          "name": "Fiona Singh",
-          "url": "https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf"
-        }
-      ],
-      "duration_ms": 236286,
-      "name": "Bholo Bholo",
-      "url": "https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
         "name": "License to Wine",
         "url": "https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp"
       },
@@ -608,9 +536,81 @@
           "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
         }
       ],
-      "duration_ms": 236960,
-      "name": "Chal Kechal",
-      "url": "https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz"
+      "duration_ms": 323693,
+      "name": "Naina Bandh",
+      "url": "https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "TOO MUCH PAIN",
+        "url": "https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Salick",
+          "url": "https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r"
+        }
+      ],
+      "duration_ms": 307330,
+      "name": "TOO MUCH PAIN",
+      "url": "https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Man",
+          "url": "https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6"
+        }
+      ],
+      "duration_ms": 302426,
+      "name": "Loota La",
+      "url": "https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "Sweet Music",
+        "url": "https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa"
+      },
+      "artists": [
+        {
+          "name": "Savita Singh TT",
+          "url": "https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i"
+        }
+      ],
+      "duration_ms": 187103,
+      "name": "Sweet Music",
+      "url": "https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "Chutney",
+        "url": "https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS"
+      },
+      "artists": [
+        {
+          "name": "Shelly G",
+          "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
+        },
+        {
+          "name": "Fojo",
+          "url": "https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft"
+        },
+        {
+          "name": "Fiona Singh",
+          "url": "https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf"
+        }
+      ],
+      "duration_ms": 236286,
+      "name": "Bholo Bholo",
+      "url": "https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Chutney",
-        "url": "https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS"
+        "name": "Ghunghat Gira Ke",
+        "url": "https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f"
       },
       "artists": [
         {
-          "name": "Shelly G",
-          "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
+          "name": "Kem Chanlall",
+          "url": "https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy"
         }
       ],
-      "duration_ms": 211394,
-      "name": "This Gyal Claim",
-      "url": "https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO"
+      "duration_ms": 354496,
+      "name": "Ghunghat Gira Ke",
+      "url": "https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Ghunghat Gira Ke",
-        "url": "https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f"
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
       },
       "artists": [
         {
-          "name": "Kem Chanlall",
-          "url": "https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy"
+          "name": "Boyie Basdeo",
+          "url": "https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c"
         }
       ],
-      "duration_ms": 354496,
-      "name": "Ghunghat Gira Ke",
-      "url": "https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm"
+      "duration_ms": 355800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -704,25 +704,41 @@
           "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
         }
       ],
-      "duration_ms": 323693,
-      "name": "Naina Bandh",
-      "url": "https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg"
+      "duration_ms": 236960,
+      "name": "Chal Kechal",
+      "url": "https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz"
     },
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Chutney Party Mix",
-        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+        "name": "Chutney",
+        "url": "https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS"
       },
       "artists": [
         {
-          "name": "Boyie Basdeo",
-          "url": "https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c"
+          "name": "Shelly G",
+          "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
         }
       ],
-      "duration_ms": 355800,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP"
+      "duration_ms": 211394,
+      "name": "This Gyal Claim",
+      "url": "https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
+        "name": "Explosive Moods",
+        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "duration_ms": 300386,
+      "name": "Mohan Bina Gowna",
+      "url": "https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
-        "name": "Explosive Moods",
-        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
-      },
-      "artists": [
-        {
-          "name": "Drupatee Ramgoonai",
-          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
-        }
-      ],
-      "duration_ms": 300386,
-      "name": "Mohan Bina Gowna",
-      "url": "https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
         "name": "Indian Gyal",
         "url": "https://open.spotify.com/album/2XwOXmK2KAUVSXulFIqymD"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-01-10 08:00:27",
       "album": {
+        "name": "Drupatee Ramgoonai",
+        "url": "https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Omere",
+      "url": "https://open.spotify.com/track/3tFQKzmd075MoWRYzph1pN"
+    },
+    {
+      "added_at": "2025-01-10 08:00:27",
+      "album": {
         "name": "Yard Fowl",
         "url": "https://open.spotify.com/album/66OX7dotLuIJuR5XOcrGEr"
       },
@@ -883,26 +899,6 @@
       "duration_ms": 238053,
       "name": "Yard Fowl",
       "url": "https://open.spotify.com/track/6YOozIEU54Llwp9nXczxBW"
-    },
-    {
-      "added_at": "2025-01-10 08:00:27",
-      "album": {
-        "name": "The Xtatik Experience",
-        "url": "https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Rikki Jai",
-          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Mor Tor (feat. Rikki Jai)",
-      "url": "https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg"
     }
   ],
   "unique_name": "Pass The Chutney",

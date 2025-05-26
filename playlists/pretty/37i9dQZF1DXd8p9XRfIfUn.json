@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 79559,
+  "num_followers": 79564,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "No Estoy",
         "url": "https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 113000,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -919,26 +903,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "M\u00e1s Papel",
-        "url": "https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1"
-      },
-      "artists": [
-        {
-          "name": "Axel Guerra",
-          "url": "https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo"
-        },
-        {
-          "name": "Castro Angel",
-          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "M\u00e1s Papel",
-      "url": "https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -955,6 +919,42 @@
       "duration_ms": 185988,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "M\u00e1s Papel",
+        "url": "https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1"
+      },
+      "artists": [
+        {
+          "name": "Axel Guerra",
+          "url": "https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo"
+        },
+        {
+          "name": "Castro Angel",
+          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "M\u00e1s Papel",
+      "url": "https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Que Loco Mami",
         "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
       },
@@ -1147,22 +1167,18 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+        "name": "X Ti Lo Digo",
+        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
       },
       "artists": [
         {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+      "duration_ms": 191323,
+      "name": "X Ti Lo Digo",
+      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1211,22 +1227,6 @@
       "duration_ms": 297073,
       "name": "Tanto Fronteo",
       "url": "https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "X Ti Lo Digo",
-        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 191323,
-      "name": "X Ti Lo Digo",
-      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

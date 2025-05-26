@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Model/Actriz",
-  "num_followers": 289084,
+  "num_followers": 289102,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
+        "name": "Break the Tension",
+        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Break the Tension",
+      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
+    },
+    {
+      "added_at": "2025-04-16 17:24:22",
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 224625,
       "name": "I Love My Wife",
       "url": "https://open.spotify.com/track/2ZjGheF3bEDNwHktj7WQXu"
-    },
-    {
-      "added_at": "2025-04-16 17:24:22",
-      "album": {
-        "name": "Break the Tension",
-        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Break the Tension",
-      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
     },
     {
       "added_at": "2025-04-16 17:24:22",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "Docket (feat. Bully)",
-        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Docket (feat. Bully)",
-      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-04-16 17:24:22",
-      "album": {
         "name": "Warm Storm",
         "url": "https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 188266,
       "name": "Snow Angel",
       "url": "https://open.spotify.com/track/3pLNigogHJEzbFqldwdwPK"
+    },
+    {
+      "added_at": "2025-04-16 17:24:22",
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "added_at": "2025-04-16 17:24:22",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 189531,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
-    },
-    {
-      "added_at": "2025-04-16 17:24:22",
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 244223,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf"
+    },
+    {
+      "added_at": "2025-04-16 17:24:22",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 189531,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
     },
     {
       "added_at": "2025-04-16 17:24:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 156722,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
-    },
-    {
-      "added_at": "2025-04-16 17:24:22",
-      "album": {
         "name": "Lemon On Plastic",
         "url": "https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2025-04-16 17:24:22",
       "album": {
-        "name": "Big Dogs",
-        "url": "https://open.spotify.com/album/1gC7edlkh3u9AvdG9hUfRX"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
       },
       "artists": [
         {
-          "name": "Sour Widows",
-          "url": "https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG"
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
         }
       ],
-      "duration_ms": 331689,
-      "name": "Big Dogs",
-      "url": "https://open.spotify.com/track/6kkRGWw1IlO0VboVlZPMah"
+      "duration_ms": 156722,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
+    },
+    {
+      "added_at": "2025-04-16 17:24:22",
+      "album": {
+        "name": "I Wanna Be On Your Mind",
+        "url": "https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa"
+      },
+      "artists": [
+        {
+          "name": "2nd Grade",
+          "url": "https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "I Wanna Be On Your Mind",
+      "url": "https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD"
     },
     {
       "added_at": "2025-04-16 17:24:22",

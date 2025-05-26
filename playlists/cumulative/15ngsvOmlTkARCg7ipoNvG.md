@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,977 songs - 1 day 16 hr 4 min
+1,978 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [Dawn](https://open.spotify.com/track/0LShF4AH2Zesro1MDHWmy3) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Dawn](https://open.spotify.com/album/4Ql2uzbyE8fUadqpoPKgdO) | 1:00 | 2024-08-19 |  |
 | [Dawn](https://open.spotify.com/track/2HrjMZtzxnVMYjW6MUJnyJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:09 | 2022-01-12 | 2024-01-30 |
 | [Dawn Glow](https://open.spotify.com/track/4rlat72mFEQ2XMLWLyM6X8) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Unending](https://open.spotify.com/album/0kM59KRjGYra61RlIexAjK) | 1:00 | 2024-02-02 |  |
-| [Day Of Rest Arr\. For Cello](https://open.spotify.com/track/1twSqWIZbQtpjo63k0X4kB) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Day Of Rest Arr\. For Cello](https://open.spotify.com/track/1twSqWIZbQtpjo63k0X4kB) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 |  |
 | [Day Of Rest Arr\. For Strings](https://open.spotify.com/track/0ZBMm1Wt1r4Ke0OK3yKW4L) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Day One](https://open.spotify.com/track/4W8Hn8N5cqZ9LU42tMHKpR) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:10 | 2022-01-12 |  |
 | [Daybreak](https://open.spotify.com/track/3A1FNWevfj55tBXDrTHXD8) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC), [Somniacs](https://open.spotify.com/artist/0K45rZJcsY0rnclG0fPQ8r) | [Daybreak](https://open.spotify.com/album/4orLa9QDTsG85FPrN8oExJ) | 2:10 | 2022-01-12 | 2023-04-09 |
@@ -1590,6 +1590,7 @@
 | [Sorrow Again \- Cello Version](https://open.spotify.com/track/1pRdePuP4yoStcCmOFkXAT) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Peaceful Preludes](https://open.spotify.com/album/4tIT4F5ewlUNyT7CttXaZo) | 1:17 | 2022-01-12 | 2024-01-30 |
 | [Soul Light](https://open.spotify.com/track/6Pdpvo7HMXquJp3HrrJHRG) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Soul Light](https://open.spotify.com/album/7aMPQ4UdMMei670S9HoGj0) | 1:00 | 2024-05-16 |  |
 | [Soul Space](https://open.spotify.com/track/3JJcAW8pejaKcZG0MOL4Uq) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Our Dreams](https://open.spotify.com/album/44JzdzxKFan8JqnUxK40sl) | 1:15 | 2022-01-12 |  |
+| [Soulful](https://open.spotify.com/track/0FmO4AmByklc1k0nh6mj3T) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful](https://open.spotify.com/album/5oxFCywdnS47n8jp5rVaib) | 1:00 | 2025-05-25 |  |
 | [Soulful Morning](https://open.spotify.com/track/5D1iV9YX2xxIblxN1SAQjO) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Soulful Morning](https://open.spotify.com/album/67LtPxkr0kJXyVUi0UU5BO) | 1:00 | 2024-12-19 |  |
 | [Soulful Wandering](https://open.spotify.com/track/071OP8chsJQWGLhi3kHoVy) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Peace With You](https://open.spotify.com/album/0RQJ9UQ8dHe7CxnzPODogL) | 1:01 | 2022-09-27 | 2024-01-30 |
 | [Soulful Wandering Arr\. For Cello](https://open.spotify.com/track/2gWjtXdQUd4DcVqpIX50PL) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Soulful Wandering](https://open.spotify.com/album/3p20sCYovM0ttVnpsv94OJ) | 1:00 | 2023-04-19 | 2024-02-13 |

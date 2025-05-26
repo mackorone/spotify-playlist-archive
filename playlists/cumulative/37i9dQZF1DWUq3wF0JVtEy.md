@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-529 songs - 1 day 1 hr 48 min
+530 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 |  |
 | [Champs Élysées](https://open.spotify.com/track/5gVBu5EPgBtvpdunsSCphU) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Champs Élysées](https://open.spotify.com/album/7CiBz23MJz5cZz4IPclRu5) | 2:41 | 2025-01-24 | 2025-04-30 |
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 | 2023-12-16 |
+| [Charged Up](https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Charged Up](https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30) | 2:03 | 2025-05-23 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-01-21 | 2023-12-16 |
 | [Cheque](https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Cheque](https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g) | 2:45 | 2021-10-29 | 2023-12-02 |
 | [Chit Chat](https://open.spotify.com/track/78BxIcKiPHrAHTKW74Pnw1) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Chit Chat](https://open.spotify.com/album/6Whrzsfp9mpfZR7cdovjpp) | 3:21 | 2024-01-26 | 2024-03-16 |
@@ -212,7 +213,7 @@
 | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6) | 2:50 | 2023-03-03 | 2023-09-23 |
 | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR) | 2:50 | 2021-10-29 | 2023-02-25 |
 | [Heartbeat](https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [Heartbeat](https://open.spotify.com/album/0MVgMaCm6Mw31VnAoliGiY) | 2:50 | 2021-10-29 | 2022-03-21 |
-| [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 | 2023-07-07 |  |
+| [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 | 2023-07-07 | 2025-05-26 |
 | [High](https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [High](https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ) | 3:12 | 2022-02-18 | 2023-02-26 |
 | [HIGH AGAIN](https://open.spotify.com/track/3EwmYpKAiJP0fNtUPBCdTQ) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5ZKIzX3mYYmiqZk6Izi3ZT) | 3:05 | 2023-12-08 | 2023-12-10 |
 | [HIGH AGAIN](https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46) | 3:05 | 2023-12-08 | 2024-04-19 |

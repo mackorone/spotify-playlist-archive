@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz & Shakira, Karol G, Mora, Feid, Myke Towers y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,264 likes - 89 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,329 likes - 89 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

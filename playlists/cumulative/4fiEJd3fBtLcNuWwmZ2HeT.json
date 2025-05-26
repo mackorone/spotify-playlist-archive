@@ -3857,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30eb\u30df\u30a2\u30fb\u30e9\u30c6\u30a3\u30d5\u30a9\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf"
+      },
+      "artists": [
+        {
+          "name": "neo:niruni",
+          "url": "https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235612,
+      "name": "\u30ab\u30eb\u30df\u30a2\u30fb\u30e9\u30c6\u30a3\u30d5\u30a9\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30eb\u30e1\u30f3",
         "url": "https://open.spotify.com/album/2dExwUIiMTzFb2by9bnWmY"
       },

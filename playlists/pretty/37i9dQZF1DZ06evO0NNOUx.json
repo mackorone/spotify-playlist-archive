@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 95926,
+  "num_followers": 96263,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+6gAAAAAAOORwH3lK3/07Y+RDJzvxA",
+  "snapshot_id": "aDEMAAAAAADIuIaXJKbjioDiFkdKkBY7",
   "tracks": [
     {
       "added_at": null,
@@ -178,11 +178,15 @@
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         }
       ],
-      "duration_ms": 219983,
-      "name": "LIFT MY HANDS",
-      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
+      "duration_ms": 136960,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq"
     },
     {
       "added_at": null,
@@ -246,15 +250,11 @@
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         }
       ],
-      "duration_ms": 136960,
-      "name": "UP!",
-      "url": "https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq"
+      "duration_ms": 219983,
+      "name": "LIFT MY HANDS",
+      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de AQUA VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,343 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,367 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 71 | [Silent Hill \(feat\. Flor De Rap\)](https://open.spotify.com/track/63ri7MQ6AxvUXHoBOuzccg) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:44 |
 | 72 | [To' Tu Size](https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [To' Tu Size](https://open.spotify.com/album/350YEZ7qaf4m2T887RcfW2) | 2:56 |
 | 73 | [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 |
-| 74 | [Frank Lukas \(con Big Soto\)](https://open.spotify.com/track/7BWBRZQnjKpO9gvMCpg1pW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Frank Lukas \(con Big Soto\)](https://open.spotify.com/album/2ybM3iuiHqqJYYxJGuviSr) | 3:01 |
+| 74 | [Frank Lukas](https://open.spotify.com/track/7BWBRZQnjKpO9gvMCpg1pW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Frank Lukas](https://open.spotify.com/album/2ybM3iuiHqqJYYxJGuviSr) | 3:01 |
 | 75 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 |
 | 76 | [MAGNATA](https://open.spotify.com/track/6FBcaOaJPmz1n64Y26WeI1) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [MAGNATA](https://open.spotify.com/album/5QvE1pdXnRBTnbdxVPrtrl) | 1:56 |
 | 77 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 |

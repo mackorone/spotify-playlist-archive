@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Seyi Vibez, Bhadboy OML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,291 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,410 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 50 | [RHODA](https://open.spotify.com/track/3s6QoBib2YKMvRzHdPp7VA) | [CHUMA](https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs) | [RHODA](https://open.spotify.com/album/5RZjrrhEguzshte3jSB7C5) | 3:34 |
 | 51 | [Mad World \- Spotify Singles](https://open.spotify.com/track/4MsgGn3ah2QHZ1NOvzd8BN) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Mad World \(Spotify Singles\)](https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT) | 3:25 |
 | 52 | [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 |
-| 53 | [Honest](https://open.spotify.com/track/2naTg7OjOgcTteJbbPnIpv) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Laik](https://open.spotify.com/artist/1JQejPlzxd4BiOIEgDqAZ0), [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Honest](https://open.spotify.com/album/1hTRJjduTytAbeqIY0ziOY) | 2:45 |
+| 53 | [Honest](https://open.spotify.com/track/2naTg7OjOgcTteJbbPnIpv) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Laik](https://open.spotify.com/artist/1JQejPlzxd4BiOIEgDqAZ0), [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Honest](https://open.spotify.com/album/1hTRJjduTytAbeqIY0ziOY) | 2:45 |
 | 54 | [SERERE.](https://open.spotify.com/track/67ej8vrGNA192O0ZAAOMK7) | [ajofé.](https://open.spotify.com/artist/2xDBC3wszVDoVcCZTiW2iE), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [SERERE.](https://open.spotify.com/album/0lPeL8p5WhMprYHlGy1SV6) | 3:24 |
 | 55 | [Assalamu Alaykum](https://open.spotify.com/track/5KQLPtJjRsU4R19dYTluZF) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [TitaniQ MusiQ](https://open.spotify.com/artist/4z5VcKjbmn9CZtE8nwumOk), [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm) | [Assalamu Alaykum](https://open.spotify.com/album/3Ls9yB3q949e1kCrFcggBt) | 4:53 |
 | 56 | [See Us Rise](https://open.spotify.com/track/5PjHAOyDpoLwcBZKQQFBXb) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV) | [See Us Rise](https://open.spotify.com/album/79K7q1VidnHPp66hrkDAgi) | 2:30 |

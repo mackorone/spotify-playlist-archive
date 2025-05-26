@@ -4,7 +4,7 @@
 
 > 🚨
 
-322 songs - 14 hr 8 min
+323 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 | 2023-10-19 |  |
 | [Stakken Pt\. II](https://open.spotify.com/track/3Ig8XOjygcuaYEEN2Eh6cq) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Stakken Pt\. II](https://open.spotify.com/album/3GINAyrpmoCTU81jiqn50u) | 2:41 | 2023-11-09 | 2024-01-11 |
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-09-21 | 2025-03-28 |
-| [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 |  |
+| [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 | 2025-05-26 |
 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-09-21 | 2024-07-12 |
 | [Storby Psykose](https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a) | [Kode.59](https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q) | [Storby Psykose](https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP) | 2:26 | 2025-03-27 |  |
 | [Storbyen sin lillebror](https://open.spotify.com/track/6ldkEtZoW3K1eV1pJsdJcf) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Yosef Wolde\-Mariam](https://open.spotify.com/artist/2GBlvdFVbAmRuOz0ibDtZC), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 3:14 | 2025-02-06 | 2025-04-28 |
@@ -296,6 +296,7 @@
 | [Telepati \(feat\. Tyr\)](https://open.spotify.com/track/1jKPDNzscz5gkVlSGMkHxX) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [Ys1](https://open.spotify.com/artist/5xd5dejPupUZBQxKNDfp5B), [Moe3](https://open.spotify.com/artist/0ddC4lQFkfT0qwbq6FQcSq), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Telepati \(feat\. Tyr\)](https://open.spotify.com/album/0sqAJ5XO13rhW0ygq8y7Nw) | 2:54 | 2025-03-27 | 2025-04-29 |
 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 | 2024-07-11 | 2025-03-28 |
 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 | 2024-04-25 |  |
+| [THANK GOD](https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb) | [Sa\_G](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [THANK GOD](https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM) | 2:42 | 2025-05-22 |  |
 | [Thug Lover](https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Thug Lover](https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s) | 2:42 | 2024-03-14 | 2024-06-17 |
 | [TIL DEG](https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz) | [Malik](https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [TIL DEG](https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI) | 2:37 | 2024-06-20 |  |
 | [Til Toppen](https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Til Toppen](https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo) | 2:36 | 2024-02-22 | 2024-06-07 |

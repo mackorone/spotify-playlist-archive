@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: Gyakie
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,382 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,411 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 57 | [For the Popping \(Apicki\)](https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [For the Popping \(Apicki\)](https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq) | 2:57 |
 | 58 | [Control](https://open.spotify.com/track/4urzJM1eMsfhZw1wpQEcNR) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Three Times of Peter](https://open.spotify.com/album/14bu8IbUpsWxBnQwKx4hvb) | 4:04 |
 | 59 | [WINE AND BLUES](https://open.spotify.com/track/29kG9fZa56h0jL9qXqTePM) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 3:15 |
-| 60 | [Lifestyle \(with KOJO BLAK & AlorG\)](https://open.spotify.com/track/6nKwEtcFYQNrPojlZZLZl0) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Lifestyle \(with KOJO BLAK & AlorG\)](https://open.spotify.com/album/165q8Io9bp8qwgbYuORy8j) | 3:00 |
+| 60 | [Lifestyle](https://open.spotify.com/track/6nKwEtcFYQNrPojlZZLZl0) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Lifestyle \(with KOJO BLAK & AlorG\)](https://open.spotify.com/album/165q8Io9bp8qwgbYuORy8j) | 3:00 |
 | 61 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 |
 | 62 | [Gone](https://open.spotify.com/track/0zCBuNnMKpn8G2YpTQf31e) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Gone](https://open.spotify.com/album/4k0fSGTnUkUEXlaXdkPE8v) | 2:46 |
 | 63 | [Behind \(with Joshua Baraka\)](https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [131 \(EP\)](https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Carin Leon & Maluma, KAROL G, Alejandro Sanz & Shakira and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,108 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,236 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Ojalá \(Mi Hoodie\)](https://open.spotify.com/track/6YXygjn1doxfPoBHNfOKua) | [Ryan Roy](https://open.spotify.com/artist/1AOGBBCrfDl7hJ9HUVKXwq) | [Ojalá \(Mi Hoodie\)](https://open.spotify.com/album/79uitrq8da7VQy6DRXnxO7) | 2:30 |
 | 50 | [777AM](https://open.spotify.com/track/7l1izIrR2fy3Px1GihGeMn) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [777AM](https://open.spotify.com/album/2pfnFVUJtSNbD6CtqiaQkn) | 2:34 |
 
-Snapshot ID: `AAAAAL/cE3nbTFf8yOFHYvPzL7aRFoua`
+Snapshot ID: `aDDBHgAAAAB4eN3RCfsHE0cDXruJ7Vp7`

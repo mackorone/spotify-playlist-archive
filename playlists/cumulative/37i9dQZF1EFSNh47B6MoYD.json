@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Cheap Margaritas",
+        "url": "https://open.spotify.com/album/78nQnLW83yjco3LS3mGits"
+      },
+      "artists": [
+        {
+          "name": "Ana Cristina Cash",
+          "url": "https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190018,
+      "name": "Cheap Margaritas",
+      "url": "https://open.spotify.com/track/6z7OS3P0O3yDQ05WwbQGRV"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Faltas T\u00fa",
         "url": "https://open.spotify.com/album/6KOsNhSOI1wYdUVXzzmOHX"
       },

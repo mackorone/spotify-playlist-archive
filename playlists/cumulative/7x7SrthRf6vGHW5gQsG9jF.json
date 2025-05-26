@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "\u30de\u30a4\u30ca\u30b9\u30bc\u30ed",
+        "url": "https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj"
+      },
+      "artists": [
+        {
+          "name": "Kuhakugokko",
+          "url": "https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65333,
+      "name": "go around",
+      "url": "https://open.spotify.com/track/5o59DljGcWbxLc7QFM581z"
+    },
+    {
+      "album": {
         "name": "Object",
         "url": "https://open.spotify.com/album/5MPvrs3Xzela08ir7DTHhV"
       },
@@ -4756,7 +4774,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 194480,
       "name": "Kareru",
       "url": "https://open.spotify.com/track/7F7pyDY7EDiSg51jz3tM6E"
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 251432,
       "name": "lilac slumber",
       "url": "https://open.spotify.com/track/60ggaBC67SKml2WPw1kqUj"
@@ -11305,6 +11323,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30c1\u30b0\u30e9\u30d3\u30c6\u30a3\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/0tIdmbvNuFA3NUdhI6jjBG"
+      },
+      "artists": [
+        {
+          "name": "METRO MEW",
+          "url": "https://open.spotify.com/artist/1gJXZ1gVIHK0cYqQ9krQR7"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246989,
+      "name": "\u30a2\u30f3\u30c1\u30b0\u30e9\u30d3\u30c6\u30a3\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/2pn2p3yXsfQNePjCeBw7xB"
+    },
+    {
+      "album": {
         "name": "\u591c\u5929\u9082\u9005",
         "url": "https://open.spotify.com/album/6m70zkoxFXufdB4plRY327"
       },
@@ -11642,6 +11678,24 @@
       "duration_ms": 265733,
       "name": "\u30b3\u30f3\u30bf\u30af\u30c8",
       "url": "https://open.spotify.com/track/2tKEEiuxTUJqT57KG49vUj"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30a4\u30ca\u30b9\u30bc\u30ed",
+        "url": "https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj"
+      },
+      "artists": [
+        {
+          "name": "Kuhakugokko",
+          "url": "https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "\u30b4\u30a6\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML"
     },
     {
       "album": {

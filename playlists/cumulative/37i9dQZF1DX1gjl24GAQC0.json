@@ -4642,7 +4642,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
@@ -4840,7 +4840,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 172440,
       "name": "Hello Tomorrow",
       "url": "https://open.spotify.com/track/07cmN1rIdiIlclzwP8dgWt"
@@ -5500,7 +5500,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 168026,
       "name": "If I\u2019m S, Can You Be My N?",
       "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
@@ -8653,6 +8653,24 @@
     },
     {
       "album": {
+        "name": "Poet | Artist",
+        "url": "https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Poet | Artist",
+      "url": "https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf"
+    },
+    {
+      "album": {
         "name": "POISON",
         "url": "https://open.spotify.com/album/41Ja2h7SkGQxDbzwHD7SBy"
       },
@@ -11384,7 +11402,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
@@ -12260,7 +12278,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 195133,
       "name": "YOUNG & LOUD",
       "url": "https://open.spotify.com/track/0av25wVLwvoGHmf8j3tUwN"

@@ -758,10 +758,28 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 201225,
       "name": "Confession",
       "url": "https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb"
+    },
+    {
+      "album": {
+        "name": "Confessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As"
+      },
+      "artists": [
+        {
+          "name": "Louise",
+          "url": "https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201225,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4FEgmZNndauGaHjSM4AGiH"
     },
     {
       "album": {
@@ -2607,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Confessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As"
+      },
+      "artists": [
+        {
+          "name": "Louise",
+          "url": "https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa"
+        }
+      ],
+      "date_added": "2025-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171558,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/4uAFtdyjVnQ8NCJdqHc7Z7"
+    },
+    {
+      "album": {
         "name": "Love Me More",
         "url": "https://open.spotify.com/album/06rcl5LtfkoY1MpzfOm48s"
       },
@@ -2618,7 +2654,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 171558,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/6671le3mOu7yT3oUlTVRH0"

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Valence
 
-3,311 songs - 7 day 7 hr 27 min
+3,313 songs - 7 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Abimé](https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 2:34 | 2024-03-29 | 2024-05-21 |
 | [Absent](https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Absent](https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5) | 2:59 | 2024-11-08 | 2025-02-08 |
 | [Accros au danger](https://open.spotify.com/track/3lND2zJZoRWVMGf64mlXVQ) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Accros au danger](https://open.spotify.com/album/5gJTHu8d1TKftds8XTuVMg) | 2:38 | 2024-03-29 | 2024-04-06 |
+| [ACT 7](https://open.spotify.com/track/4Zgiqd8twiWV0XelwVolqQ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [ACT 7](https://open.spotify.com/album/4dl21seQMmtemAddp1actc) | 1:52 | 2025-05-23 |  |
 | [Adam et Ève](https://open.spotify.com/track/6lIS3KKWdBTVMhgDE1uPcR) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs), [Michel Cusson](https://open.spotify.com/artist/0sr8isXfaYaHEZ5NBMWRP0) | [État de siège](https://open.spotify.com/album/1Vg7ghT9KCVbtE29gJurBE) | 5:30 | 2024-10-11 | 2024-10-19 |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 | 2023-09-30 |
 | [Addictocrate](https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Addictocrate](https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm) | 2:38 | 2023-04-21 | 2023-06-03 |
@@ -906,7 +907,7 @@
 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 | 2023-08-25 | 2023-10-08 |
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-09 |
 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 | 2025-02-28 | 2025-05-16 |
-| [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 | 2025-05-09 |  |
+| [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 | 2025-05-09 | 2025-05-26 |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-09-02 |
 | [Ensemble](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 | 2024-11-08 | 2024-12-14 |
 | [Ensemble](https://open.spotify.com/track/5OMUo67LDz7JxLmMLZc2c3) | [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1), [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Sacrifices](https://open.spotify.com/album/3vvxyLnpm3jmgFGQegkrP9) | 2:47 | 2022-02-04 | 2022-02-12 |
@@ -1192,7 +1193,7 @@
 | [Homerun](https://open.spotify.com/track/0Zgy08iUDH1qvtY4xJZUUn) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 2:48 | 2023-02-17 | 2023-02-25 |
 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 | 2022-11-11 | 2022-12-03 |
 | [Homme de pluie](https://open.spotify.com/track/0sUtLK6x9rryNtWy1bwnSb) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Homme de pluie](https://open.spotify.com/album/6viPgfyEaKsVu3QoGiJkiC) | 3:04 | 2022-07-29 | 2022-10-15 |
-| [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 | 2025-03-28 |  |
+| [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 | 2025-03-28 | 2025-05-26 |
 | [Horoscope](https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Horoscope / Cher Montréal](https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9) | 4:02 | 2023-10-06 | 2023-10-14 |
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-08 | 2022-07-23 |
 | [Hors\-piste](https://open.spotify.com/track/0OekRsbs1j7jRtJPHb9HP9) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Mauvais Joueur](https://open.spotify.com/album/4uyewdCj65RZX5mjtabls7) | 2:37 | 2023-04-14 | 2023-04-23 |
@@ -1281,6 +1282,7 @@
 | [J'ai besoin d'un ami](https://open.spotify.com/track/2MN2ntP1oiESpTGN2p6O4L) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Ginette à ma façon](https://open.spotify.com/album/2sPVS4NxuXhOcc0LFzbKFv) | 3:52 | 2022-02-11 | 2022-02-26 |
 | [J'ai besoin d'un break](https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [J'ai besoin d'un break](https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX) | 3:08 | 2023-03-31 | 2023-05-04 |
 | [J'ai brisé ma voix](https://open.spotify.com/track/21FjZvnrn7OnCBBHuIeVha) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [J'ai brisé ma voix](https://open.spotify.com/album/5sGXWNkTxInx5v23wVHnFG) | 3:30 | 2024-08-30 | 2024-09-07 |
+| [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 | 2025-05-23 |  |
 | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/track/0P2JU5kn6PpMV3iMoYFLzJ) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/album/5Ezp3SweJKbdqdZ7jn0zXM) | 1:46 | 2021-12-31 | 2022-01-22 |
 | [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 | 2024-08-09 | 2024-09-22 |
 | [J'ai le coeur chaud](https://open.spotify.com/track/4dvds4Du1WMVGcAEs5wfvH) | [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [J'ai le coeur chaud](https://open.spotify.com/album/68WsThCderiLAOdZLcBEqY) | 2:44 | 2024-09-13 | 2024-09-21 |

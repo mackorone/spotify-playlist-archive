@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: NXNNI
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,872 likes - 108 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,891 likes - 108 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

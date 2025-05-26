@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,324 songs - 3 day 16 hr 34 min
+2,325 songs - 3 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [find whats lost](https://open.spotify.com/track/2iDjJIo3TsomxvqSNd2k1i) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [find whats lost](https://open.spotify.com/album/0CXb8FVMWwuEcLZuVYTUGm) | 2:08 | 2024-11-08 |  |
 | [Findings](https://open.spotify.com/track/46dzk7cORXnFdegl7aNK3I) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Findings](https://open.spotify.com/album/5am6AqmZgScCkMkjWfoGs2) | 2:17 | 2024-01-19 | 2025-01-27 |
 | [finesse](https://open.spotify.com/track/4vHR6RgtHgcv2BvHmBMEED) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [finesse](https://open.spotify.com/album/3nDmwcQbQLrc3zCxAMFtXZ) | 2:08 | 2023-04-03 | 2024-02-09 |
+| [Finger Painting](https://open.spotify.com/track/3d0MPatL3b3jvmbjdcCFwo) | [Hillways](https://open.spotify.com/artist/4UHkYUJbceL48XowKrC4Mg) | [Finger Painting](https://open.spotify.com/album/0v85RUxCwvCBRYyiHDCxby) | 3:18 | 2025-05-23 |  |
 | [Finish Line](https://open.spotify.com/track/2TTmqCgIFJxA8nMBAaR9v7) | [Abbesses Square](https://open.spotify.com/artist/6FSygvawNhfzoREb50lmFL) | [Buskin](https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP) | 3:02 | 2022-04-15 | 2022-05-13 |
 | [Fireworks](https://open.spotify.com/track/4zpkV8jvPbAqpL1fgT3T9L) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Nook Nights](https://open.spotify.com/album/7atLOPDjMXVEJUT1719P3o) | 1:56 | 2024-10-18 |  |
 | [Fireworks \- New Beginnings](https://open.spotify.com/track/1ig7KupWNnSAWOhy0PIcH2) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Through The Seasons](https://open.spotify.com/album/0AKA4bhqvJ2nbJyoWELkGf) | 1:32 | 2023-07-13 |  |
@@ -1745,7 +1746,7 @@
 | [seedlings](https://open.spotify.com/track/4MKfOWEjeRQIkRsx9zpYih) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 2:28 | 2022-04-15 | 2022-05-27 |
 | [seek somebody](https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [seek somebody](https://open.spotify.com/album/4cj8n9qE2S3ccWglfiNzMT) | 2:44 | 2024-07-05 | 2024-08-10 |
 | [Seek Tone](https://open.spotify.com/track/7wKMJ3KgovsMKA8kvrjQxg) | [Jon Timber](https://open.spotify.com/artist/5MoN03izsyUB2uUbmqKdbU) | [Snap Shot](https://open.spotify.com/album/63k1va0BWaPvKTp0kCTjwc) | 1:41 | 2022-04-15 | 2022-06-25 |
-| [seeking warmth](https://open.spotify.com/track/4psbKVmKjJvVt8WmMyMu7k) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [seeking warmth](https://open.spotify.com/album/1i3wlmeEjz5RbmFgv9YoA5) | 2:03 | 2025-02-27 |  |
+| [seeking warmth](https://open.spotify.com/track/4psbKVmKjJvVt8WmMyMu7k) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [seeking warmth](https://open.spotify.com/album/1i3wlmeEjz5RbmFgv9YoA5) | 2:03 | 2025-02-27 | 2025-05-26 |
 | [Self Expression](https://open.spotify.com/track/5569JOKhunZw0jEjawEfx3) | [Looper Boy](https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV) | [Stories from the Ramen House](https://open.spotify.com/album/3RgRIP700F6MfcVug49OuR) | 2:52 | 2022-04-15 | 2022-07-22 |
 | [Semester](https://open.spotify.com/track/0fNNBqC28Ap2KGyjZ3fVkz) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Semester](https://open.spotify.com/album/4WvZPXhQMUz94Cf6AvTgZ9) | 2:05 | 2022-04-15 | 2022-05-27 |
 | [semi\-hollow](https://open.spotify.com/track/0WZmg03i0vltH03r3pDuex) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [semi\-hollow](https://open.spotify.com/album/4ctfPJLaYEBKhoy5E7aR3k) | 2:38 | 2024-01-12 |  |

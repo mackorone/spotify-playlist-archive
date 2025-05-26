@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-364 songs - 19 hr 28 min
+365 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 | 2025-05-04 |  |
 | [On My Mind](https://open.spotify.com/track/2REV45xgTkmZnixZyQdeCj) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [On My Mind](https://open.spotify.com/album/7d3ipgo7MFc14ktcdiM9sK) | 3:02 | 2024-02-19 | 2024-02-27 |
 | [One Day at a Time](https://open.spotify.com/track/1xt9Nzh3Gc7oFdNIIbbvJr) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [One Day at a Time](https://open.spotify.com/album/0cFFxwnLmAYZhMwHSYPAkA) | 3:12 | 2023-04-17 | 2023-04-25 |
-| [One Waking Dream](https://open.spotify.com/track/1aAiZ4TfzjmhM1iOrO3O13) | [Natt Buntita](https://open.spotify.com/artist/5WGEq3jNFjSRF4ACITjLwY) | [One Waking Dream](https://open.spotify.com/album/2pKAc510fNnEIE1KBVen4T) | 3:27 | 2025-05-18 |  |
+| [One Waking Dream](https://open.spotify.com/track/1aAiZ4TfzjmhM1iOrO3O13) | [Natt Buntita](https://open.spotify.com/artist/5WGEq3jNFjSRF4ACITjLwY) | [One Waking Dream](https://open.spotify.com/album/2pKAc510fNnEIE1KBVen4T) | 3:27 | 2025-05-18 | 2025-05-26 |
 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-11 | 2023-09-18 |
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2023-02-13 |  |
 | [Past](https://open.spotify.com/track/5mP43567lDj2gnYd7i6BDY) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Past](https://open.spotify.com/album/2jJoOuyXfPorWCpRAKyv1C) | 2:57 | 2023-01-03 | 2023-01-17 |
@@ -346,6 +346,7 @@
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-25 | 2022-11-08 |
 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-17 | 2023-07-25 |
 | [To the Moon](https://open.spotify.com/track/2stihimvRIhZHr5m7McSku) | [RYAN ANDERS](https://open.spotify.com/artist/3iYsK6Jqr2MxPcUvcFt478) | [To the Moon](https://open.spotify.com/album/3MsdARcsBo02leLqVMPxJw) | 2:50 | 2022-06-06 | 2022-07-29 |
+| [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 | 2025-05-25 |  |
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-29 | 2022-12-06 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-22 | 2024-05-19 |
 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 | 2023-06-05 | 2023-08-08 |

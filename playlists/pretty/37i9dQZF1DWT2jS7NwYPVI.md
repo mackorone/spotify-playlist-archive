@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,785 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,781 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [I Didn’t Use To](https://open.spotify.com/track/4r1CCwT9h9PNIitYde2UEd) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [INSIDE :](https://open.spotify.com/album/7fRksONg2LUzGqXbIMd140) | 4:39 |
 | 100 | [Julia's War](https://open.spotify.com/track/3BMOWnSBFfWK6iI215a7sl) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Julia's War](https://open.spotify.com/album/1in6Xa6DMOG9Q9X4P3DeJp) | 3:03 |
 
-Snapshot ID: `AAAAAMeGoEbR3XaV4cL+rfmD9CvM46LB`
+Snapshot ID: `aC/y9AAAAAB9YBwKWW1NbzpK5HK5VwQm`

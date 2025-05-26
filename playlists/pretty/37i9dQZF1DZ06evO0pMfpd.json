@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 75447,
+  "num_followers": 75460,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+6gAAAAAAr0tc4dclR3XdeSy8TWyRn",
+  "snapshot_id": "aDEMAAAAAADJ3tZbcKO5p1NrDcPskD+3",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Banda el Mexicano",
-        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 211057,
-      "name": "Qui\u00e9n Piensa En Ti",
-      "url": "https://open.spotify.com/track/4HwQuM4s5ZtsFcTo9MumnW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 179768,
       "name": "Ay\u00fadame",
       "url": "https://open.spotify.com/track/5M88dJKvpEf5Ewt2xpSw2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 211057,
+      "name": "Qui\u00e9n Piensa En Ti",
+      "url": "https://open.spotify.com/track/4HwQuM4s5ZtsFcTo9MumnW"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 186943,
-      "name": "As\u00ed Se Baila (De Caballito)",
-      "url": "https://open.spotify.com/track/5J6qthpB2SPMFhFM9zEI6Q"
+      "duration_ms": 212230,
+      "name": "La Chela",
+      "url": "https://open.spotify.com/track/2vyfYYA0JncCcrTQbAA9Q5"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 212230,
-      "name": "La Chela",
-      "url": "https://open.spotify.com/track/2vyfYYA0JncCcrTQbAA9Q5"
+      "duration_ms": 186943,
+      "name": "As\u00ed Se Baila (De Caballito)",
+      "url": "https://open.spotify.com/track/5J6qthpB2SPMFhFM9zEI6Q"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 211739,
-      "name": "Pachuco Bailar\u00edn",
-      "url": "https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Su Majestad con Ustedes",
         "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 209214,
       "name": "Mary la Orgullosa",
       "url": "https://open.spotify.com/track/2sMhuCHpYGoK3hF9dciv7F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 211739,
+      "name": "Pachuco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 160426,
-      "name": "Las Nachas",
-      "url": "https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh"
+      "duration_ms": 188940,
+      "name": "Lupe",
+      "url": "https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Banda el Mexicano",
-        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 188940,
-      "name": "Lupe",
-      "url": "https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j"
+      "duration_ms": 160426,
+      "name": "Las Nachas",
+      "url": "https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh"
     },
     {
       "added_at": null,

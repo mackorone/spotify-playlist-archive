@@ -4,7 +4,7 @@
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-166 songs - 6 hr 40 min
+167 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Breaching the Wall](https://open.spotify.com/track/5I04MBlxgkrND4xvwlAWjG) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:44 | 2023-03-01 |  |
 | [Breathless](https://open.spotify.com/track/65AutDIlqEMNVNDt5x2bzW) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:24 | 2023-01-30 | 2023-03-02 |
 | [Breathless](https://open.spotify.com/track/3nIc4GrbvKXc0M7MwObq9c) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Jake Staley](https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:32 | 2023-03-01 |  |
+| [Burden In My Hand](https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 4:50 | 2025-05-26 |  |
 | [By Any Means](https://open.spotify.com/track/64pdVDKZJbLAMy6EUEOVe3) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:53 | 2023-01-30 | 2023-03-02 |
 | [Cargo](https://open.spotify.com/track/7fAFXX20WLmkSGZVM2BDyu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Jake Staley](https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:01 | 2023-03-01 |  |
 | [Chains of Love](https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:35 | 2023-01-30 |  |

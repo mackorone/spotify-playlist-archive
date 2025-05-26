@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 264526,
+  "num_followers": 264663,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -487,38 +487,6 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Heavy Water/I'd Rather Be Sleeping",
-      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
-    },
-    {
-      "added_at": "2025-04-24 09:14:39",
-      "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
-      },
-      "artists": [
-        {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
-        }
-      ],
-      "duration_ms": 583160,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
-    },
-    {
-      "added_at": "2025-04-24 09:14:39",
-      "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
@@ -531,22 +499,6 @@
       "duration_ms": 486277,
       "name": "No One Is Ever Going to Want Me",
       "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
-    },
-    {
-      "added_at": "2025-04-24 09:14:39",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
     },
     {
       "added_at": "2025-04-24 09:14:39",
@@ -567,6 +519,54 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "duration_ms": 583160,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
+    },
+    {
+      "added_at": "2025-04-24 09:14:39",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "added_at": "2025-04-24 09:14:39",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Heavy Water/I'd Rather Be Sleeping",
+      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
+    },
+    {
+      "added_at": "2025-04-24 09:14:39",
+      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 364293,
       "name": "The Eternal - 2007 Remaster",
       "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
+    },
+    {
+      "added_at": "2025-04-24 09:14:39",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "I'm Going to Do It",
+      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
     },
     {
       "added_at": "2025-04-24 09:14:39",
@@ -631,18 +647,22 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
       "artists": [
         {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+          "name": "Tomasz Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
+        },
+        {
+          "name": "Tomasz Bednarczyk",
+          "url": "https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT"
         }
       ],
-      "duration_ms": 376000,
-      "name": "I'm Going to Do It",
-      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
+      "duration_ms": 262000,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
     },
     {
       "added_at": "2025-04-24 09:14:39",
@@ -679,26 +699,6 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
-        },
-        {
-          "name": "Tomasz Bednarczyk",
-          "url": "https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2025-04-24 09:14:39",
-      "album": {
         "name": "A Place To Sleep",
         "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 199960,
       "name": "Ataraxia",
       "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
+    },
+    {
+      "added_at": "2025-04-24 09:14:39",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
     },
     {
       "added_at": "2025-04-24 09:14:39",
@@ -767,30 +783,6 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
-        "name": "Vale Reworked",
-        "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
-      },
-      "artists": [
-        {
-          "name": "Simon Goff",
-          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
-        },
-        {
-          "name": "Sam Slater",
-          "url": "https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io"
-        },
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 437322,
-      "name": "I filled my Lungs with the Necessary Air, and yelled! - Ben Lukas Boysen Rework",
-      "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
-    },
-    {
-      "added_at": "2025-04-24 09:14:39",
-      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -811,18 +803,26 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+        "name": "Vale Reworked",
+        "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
       },
       "artists": [
         {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+          "name": "Simon Goff",
+          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+        },
+        {
+          "name": "Sam Slater",
+          "url": "https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io"
+        },
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
         }
       ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
+      "duration_ms": 437322,
+      "name": "I filled my Lungs with the Necessary Air, and yelled! - Ben Lukas Boysen Rework",
+      "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
     },
     {
       "added_at": "2025-04-24 09:14:39",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2025-04-24 09:14:39",
-      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2025-04-24 09:14:39",
+      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-24 09:14:39",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
-      },
-      "artists": [
-        {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2025-04-24 09:14:39",
-      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2025-04-24 09:14:39",
+      "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2025-04-24 09:14:39",

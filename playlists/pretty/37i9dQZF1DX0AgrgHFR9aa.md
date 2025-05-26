@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Furax Barbarossa x Scylla
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,080 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,089 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [nitro LA FIEV](https://open.spotify.com/track/4NASqPYusOEaaw5og8tJ5O) | [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg), [Hopital](https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn) | [LA FIEV](https://open.spotify.com/album/4YtctFMzVZeJbrF2pdUsJe) | 3:00 |
 | 40 | [Mentalité](https://open.spotify.com/track/0OhHpneFiQ3CYdowm3wNRD) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Rimkhana](https://open.spotify.com/artist/1nTWQ8n1lHOC69qAA6EqxY) | [MENTALIDAD](https://open.spotify.com/album/0J7Zozr2Urg0OctWT8XgqE) | 2:57 |
 
-Snapshot ID: `aC+efAAAAAB/gpTcg0XoXNPkBPmi9LZw`
+Snapshot ID: `aC+efAAAAADsqRnbWyldL7u3p27YOdfi`

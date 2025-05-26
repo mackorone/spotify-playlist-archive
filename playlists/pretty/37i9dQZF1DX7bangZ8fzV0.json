@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Snotkop",
-  "num_followers": 127202,
+  "num_followers": 127244,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Heito Potato",
         "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 217342,
       "name": "Heito Potato",
       "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Klomp Keer Lekker",
-        "url": "https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Klomp Keer Lekker",
-      "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Omdat Jy Mag",
         "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
+        "name": "Klomp Keer Lekker",
+        "url": "https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Klomp Keer Lekker",
+      "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
         "name": "Hoe Nou?",
         "url": "https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Wat Kan 'n Man Dan Doen",
-        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 164520,
-      "name": "Wat Kan 'n Man Dan Doen",
-      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Haar Naam Is Afrikaans",
         "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
+        "name": "Wat Kan 'n Man Dan Doen",
+        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 164520,
+      "name": "Wat Kan 'n Man Dan Doen",
+      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
         "name": "Die Lot",
         "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
       },
@@ -359,6 +359,42 @@
       "duration_ms": 194376,
       "name": "Bosveldterapie",
       "url": "https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Buffel Van Buffelsfontein",
+        "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "Buffel Van Buffelsfontein",
+      "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "As Ek Dalk (feat. Eloff)",
+        "url": "https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        },
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 189183,
+      "name": "As Ek Dalk (feat. Eloff)",
+      "url": "https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -395,22 +431,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Buffel Van Buffelsfontein",
-        "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "Buffel Van Buffelsfontein",
-      "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Trek Hom Plat",
         "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "As Ek Dalk (feat. Eloff)",
-        "url": "https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        },
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 189183,
-      "name": "As Ek Dalk (feat. Eloff)",
-      "url": "https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
+        "name": "Wil Jy Bly",
+        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 187391,
+      "name": "Wil Jy Bly",
+      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
         "name": "Ek Verstaan",
         "url": "https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI"
       },
@@ -519,34 +535,22 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Wil Jy Bly",
-        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
+        "name": "Boereworsgordyn",
+        "url": "https://open.spotify.com/album/0bjsKbIPpx5Y49kQqtxBZV"
       },
       "artists": [
         {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 187391,
-      "name": "Wil Jy Bly",
-      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Stoom",
-        "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
-      },
-      "artists": [
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        },
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
         }
       ],
-      "duration_ms": 178669,
-      "name": "Stoom",
-      "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
+      "duration_ms": 196779,
+      "name": "Boereworsgordyn",
+      "url": "https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -587,22 +591,18 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Boereworsgordyn",
-        "url": "https://open.spotify.com/album/0bjsKbIPpx5Y49kQqtxBZV"
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
       },
       "artists": [
         {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        },
-        {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 196779,
-      "name": "Boereworsgordyn",
-      "url": "https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q"
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Lek My Lippe Af",
         "url": "https://open.spotify.com/album/4U2E0tpYsGCAMYn9dy7lPn"
       },
@@ -651,6 +635,70 @@
       "duration_ms": 193447,
       "name": "Lek My Lippe Af",
       "url": "https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Dik Stukke",
+        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "Dik Stukke",
+      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Meisie wat kan Vasdans",
+        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 199593,
+      "name": "Meisie wat kan Vasdans",
+      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Die Mooi In Jou",
+        "url": "https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Die Mooi In Jou",
+      "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Jou Tipe Boer",
+        "url": "https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Jou Tipe Boer",
+      "url": "https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -675,86 +723,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Die Mooi In Jou",
-        "url": "https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Die Mooi In Jou",
-      "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Dik Stukke",
-        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 187611,
-      "name": "Dik Stukke",
-      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Jou Tipe Boer",
-        "url": "https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Jou Tipe Boer",
-      "url": "https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Spontaan",
-        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Keeza",
-      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Meisie wat kan Vasdans",
-        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 199593,
-      "name": "Meisie wat kan Vasdans",
-      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Ek Hou Van",
         "url": "https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD"
       },
@@ -771,22 +739,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 187094,
-      "name": "Witblits",
-      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Skud",
         "url": "https://open.spotify.com/album/014jSb56bQP2gTWdPSuKM6"
       },
@@ -799,6 +751,54 @@
       "duration_ms": 179195,
       "name": "Skud",
       "url": "https://open.spotify.com/track/20ktnkPodVMerBp5mhFYbM"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Stoom",
+        "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 178669,
+      "name": "Stoom",
+      "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "AVBOB Se Stoep",
+        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "duration_ms": 208969,
+      "name": "AVBOB Se Stoep",
+      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 187094,
+      "name": "Witblits",
+      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "AVBOB Se Stoep",
-        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
-      },
-      "artists": [
-        {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
-        }
-      ],
-      "duration_ms": 208969,
-      "name": "AVBOB Se Stoep",
-      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Impulsief",
         "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
       },
@@ -851,26 +835,6 @@
       "duration_ms": 183317,
       "name": "Impulsief",
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Naweek My Nou (feat. Loufi)",
-        "url": "https://open.spotify.com/album/4D6oXces9lMf86k9ytJahz"
-      },
-      "artists": [
-        {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        },
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Naweek My Nou (feat. Loufi)",
-      "url": "https://open.spotify.com/track/3tu4zpsCPi3ME24Y1a3T2N"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -891,18 +855,22 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Koue Kole",
-        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
+        "name": "Naweek My Nou (feat. Loufi)",
+        "url": "https://open.spotify.com/album/4D6oXces9lMf86k9ytJahz"
       },
       "artists": [
         {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
         }
       ],
-      "duration_ms": 230080,
-      "name": "Koue Kole",
-      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
+      "duration_ms": 173333,
+      "name": "Naweek My Nou (feat. Loufi)",
+      "url": "https://open.spotify.com/track/3tu4zpsCPi3ME24Y1a3T2N"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -955,18 +923,34 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "By Die Dam",
-        "url": "https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ"
+        "name": "Spontaan",
+        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
       },
       "artists": [
         {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 188357,
-      "name": "By Die Dam",
-      "url": "https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB"
+      "duration_ms": 178146,
+      "name": "Keeza",
+      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Koue Kole",
+        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "Koue Kole",
+      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -983,6 +967,22 @@
       "duration_ms": 175375,
       "name": "H2O\u00eb",
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "By Die Dam",
+        "url": "https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 188357,
+      "name": "By Die Dam",
+      "url": "https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Mooier As Mens",
-        "url": "https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L"
-      },
-      "artists": [
-        {
-          "name": "Tamlyn Wessels",
-          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
-        }
-      ],
-      "duration_ms": 211455,
-      "name": "Mooier As Mens",
-      "url": "https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Die Afrikaner Maak So",
         "url": "https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
+        "name": "Mooier As Mens",
+        "url": "https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "duration_ms": 211455,
+      "name": "Mooier As Mens",
+      "url": "https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
         "name": "Te Min, Teveel",
         "url": "https://open.spotify.com/album/11C89xnWe760siWpcJPirS"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 150228,
       "name": "Te Min, Teveel",
       "url": "https://open.spotify.com/track/7oJ22L0BCvRKu8nuOr1ZLS"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Besonders",
-        "url": "https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Besonders",
-      "url": "https://open.spotify.com/track/6vSty2JOrCagay8asSyed8"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -1119,6 +1103,22 @@
       "duration_ms": 208366,
       "name": "Kies",
       "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Besonders",
+        "url": "https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Besonders",
+      "url": "https://open.spotify.com/track/6vSty2JOrCagay8asSyed8"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Bosveld Dans",
-        "url": "https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0"
-      },
-      "artists": [
-        {
-          "name": "WG NEL",
-          "url": "https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4"
-        }
-      ],
-      "duration_ms": 194433,
-      "name": "Bosveld Dans",
-      "url": "https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Ouens Soos Ek",
         "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Lisensie",
-        "url": "https://open.spotify.com/album/2wOqcXyC7bpsZ0zeqXGwgq"
+        "name": "Bosveld Dans",
+        "url": "https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0"
       },
       "artists": [
         {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+          "name": "WG NEL",
+          "url": "https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4"
         }
       ],
-      "duration_ms": 183043,
-      "name": "Lisensie",
-      "url": "https://open.spotify.com/track/3YOQCRy81k35J5XMDovyyH"
+      "duration_ms": 194433,
+      "name": "Bosveld Dans",
+      "url": "https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -1235,6 +1219,22 @@
       "duration_ms": 162822,
       "name": "Blokfluit",
       "url": "https://open.spotify.com/track/18OT3vzdcxD569umTGxRVf"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Lisensie",
+        "url": "https://open.spotify.com/album/2wOqcXyC7bpsZ0zeqXGwgq"
+      },
+      "artists": [
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "Lisensie",
+      "url": "https://open.spotify.com/track/3YOQCRy81k35J5XMDovyyH"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Asseblief",
-        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
-      },
-      "artists": [
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "Asseblief",
-      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Wynland",
         "url": "https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS"
       },
@@ -1303,8 +1287,40 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Vyftig Rand",
-        "url": "https://open.spotify.com/album/2QXraXcwHJ7sfZx666jTjg"
+        "name": "Asseblief",
+        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "Asseblief",
+      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Diepseeduiker 17",
+        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 165149,
+      "name": "Diepseeduiker 17",
+      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Vlam In Die Wind",
+        "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
       },
       "artists": [
         {
@@ -1312,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         }
       ],
-      "duration_ms": 193388,
-      "name": "Vyftig Rand",
-      "url": "https://open.spotify.com/track/4R7OwqnCJiUcfDvX6PFJV3"
+      "duration_ms": 205237,
+      "name": "Vlam In Die Wind",
+      "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
     },
     {
       "added_at": "2025-05-22 22:00:26",
@@ -1335,22 +1351,6 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Lekkerste Lekker",
-        "url": "https://open.spotify.com/album/7bwS3hDUSdfutYkorS7sbZ"
-      },
-      "artists": [
-        {
-          "name": "Leah",
-          "url": "https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh"
-        }
-      ],
-      "duration_ms": 187265,
-      "name": "Lekkerste Lekker",
-      "url": "https://open.spotify.com/track/2OTNALTwsmkv7yXoRmvw6W"
     }
   ],
   "unique_name": "Afrikaanse Hits",

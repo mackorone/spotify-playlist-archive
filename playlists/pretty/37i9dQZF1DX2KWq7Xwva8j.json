@@ -1,6 +1,6 @@
 {
   "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: LUSILLON.",
-  "num_followers": 28395,
+  "num_followers": 28389,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
+        "name": "Pensando mucho y mal",
+        "url": "https://open.spotify.com/album/7aFyrmo4IRKqAknpJ1jFd3"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Me quiero ir",
+      "url": "https://open.spotify.com/track/6AXaVsTKOpbtVhjjk7QfH3"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
         "name": "lady madrizZz",
         "url": "https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI"
       },
@@ -111,6 +127,42 @@
       "duration_ms": 131020,
       "name": "lady madrizZz",
       "url": "https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
+        "name": "M'oblido d'oblidar-te",
+        "url": "https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2"
+      },
+      "artists": [
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "duration_ms": 170155,
+      "name": "M'oblido d'oblidar-te",
+      "url": "https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
+        "name": "Pobre Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5VR94RHabT9bOR87JEkzON"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        }
+      ],
+      "duration_ms": 162622,
+      "name": "Pobre Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4NfF3seaFD7lnt6DzkNNl6"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -131,22 +183,6 @@
       "duration_ms": 145174,
       "name": "escribiendo TKM",
       "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
-        "name": "Pensando mucho y mal",
-        "url": "https://open.spotify.com/album/7aFyrmo4IRKqAknpJ1jFd3"
-      },
-      "artists": [
-        {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Me quiero ir",
-      "url": "https://open.spotify.com/track/6AXaVsTKOpbtVhjjk7QfH3"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -175,38 +211,6 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "DE LA MA\u00d1ANA A LA NOCHE",
-        "url": "https://open.spotify.com/album/3DbWFNtuLrPUhVszto2fCz"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "UNA MINA",
-      "url": "https://open.spotify.com/track/6kvT7hk6YQ2okbUvl208iN"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
-        "name": "M'oblido d'oblidar-te",
-        "url": "https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2"
-      },
-      "artists": [
-        {
-          "name": "Julieta",
-          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
-        }
-      ],
-      "duration_ms": 170155,
-      "name": "M'oblido d'oblidar-te",
-      "url": "https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
         "name": "Yo pensaba que me hab\u00eda tocado Dios",
         "url": "https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj"
       },
@@ -227,22 +231,18 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "Pobre Ni\u00f1a",
-        "url": "https://open.spotify.com/album/5VR94RHabT9bOR87JEkzON"
+        "name": "DE LA MA\u00d1ANA A LA NOCHE",
+        "url": "https://open.spotify.com/album/3DbWFNtuLrPUhVszto2fCz"
       },
       "artists": [
         {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Chus Santana",
-          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
         }
       ],
-      "duration_ms": 162622,
-      "name": "Pobre Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4NfF3seaFD7lnt6DzkNNl6"
+      "duration_ms": 149760,
+      "name": "UNA MINA",
+      "url": "https://open.spotify.com/track/6kvT7hk6YQ2okbUvl208iN"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -259,42 +259,6 @@
       "duration_ms": 206452,
       "name": "Muero X Verte",
       "url": "https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        },
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 236138,
-      "name": "El lago de mi pena",
-      "url": "https://open.spotify.com/track/2O9Dv1K2zHwF4j6jSApQLr"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 130694,
-      "name": "Vis a Vis",
-      "url": "https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -335,6 +299,42 @@
       "duration_ms": 201074,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/1oi48eToAddcIsSL5m8CVh"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 236138,
+      "name": "El lago de mi pena",
+      "url": "https://open.spotify.com/track/2O9Dv1K2zHwF4j6jSApQLr"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 130694,
+      "name": "Vis a Vis",
+      "url": "https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA"
     },
     {
       "added_at": "2025-05-22 22:00:35",

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 19298,
+  "num_followers": 19302,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+    },
+    {
+      "added_at": "2025-05-19 02:32:47",
+      "album": {
         "name": "Even if I\u2019m dying (feat. Young K (DAY6))",
         "url": "https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 184466,
       "name": "Even if I\u2019m dying (feat. Young K (DAY6))",
       "url": "https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU"
-    },
-    {
-      "added_at": "2025-05-19 02:32:47",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
     },
     {
       "added_at": "2025-05-19 02:32:47",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
-        "name": "Winded",
-        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Winded",
-      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
-    },
-    {
-      "added_at": "2025-05-19 02:32:47",
-      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "When I stop thinking",
+      "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
+    },
+    {
+      "added_at": "2025-05-19 02:32:47",
+      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 195013,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "added_at": "2025-05-19 02:32:47",
+      "album": {
+        "name": "Winded",
+        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Winded",
+      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
     },
     {
       "added_at": "2025-05-19 02:32:47",
@@ -443,8 +459,8 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
-        "name": "When I stop thinking",
-        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+        "name": "To the other side of greed",
+        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 196093,
-      "name": "When I stop thinking",
-      "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
+      "duration_ms": 227560,
+      "name": "To the other side of greed",
+      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
     },
     {
       "added_at": "2025-05-19 02:32:47",
@@ -539,6 +555,26 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
+        "name": "Echo (feat .JUKJAE)",
+        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        },
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Echo (feat. JUKJAE)",
+      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
+    },
+    {
+      "added_at": "2025-05-19 02:32:47",
+      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
@@ -555,18 +591,18 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
-        "name": "To the other side of greed",
-        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
       },
       "artists": [
         {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
         }
       ],
-      "duration_ms": 227560,
-      "name": "To the other side of greed",
-      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "added_at": "2025-05-19 02:32:47",
@@ -619,58 +655,6 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
-        "name": "A Lovers\u2019 Waltz",
-        "url": "https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5"
-      },
-      "artists": [
-        {
-          "name": "Minna Seo",
-          "url": "https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "A Lovers\u2019 Waltz",
-      "url": "https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj"
-    },
-    {
-      "added_at": "2025-05-19 02:32:47",
-      "album": {
-        "name": "Echo (feat .JUKJAE)",
-        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        },
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Echo (feat. JUKJAE)",
-      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
-    },
-    {
-      "added_at": "2025-05-19 02:32:47",
-      "album": {
-        "name": "The Film",
-        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "The Film",
-      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
-    },
-    {
-      "added_at": "2025-05-19 02:32:47",
-      "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 183824,
       "name": "When It\u2019s Cold",
       "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2025-05-19 02:32:47",
+      "album": {
+        "name": "A Lovers\u2019 Waltz",
+        "url": "https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5"
+      },
+      "artists": [
+        {
+          "name": "Minna Seo",
+          "url": "https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "A Lovers\u2019 Waltz",
+      "url": "https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj"
     },
     {
       "added_at": "2025-05-19 02:32:47",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-05-19 02:32:47",
       "album": {
-        "name": "It just happened",
-        "url": "https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 82426,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/4xcp23aiZPvHDZzaxmlhye"
-    },
-    {
-      "added_at": "2025-05-19 02:32:47",
-      "album": {
         "name": "RE: CORD",
         "url": "https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+    },
+    {
+      "added_at": "2025-05-19 02:32:47",
+      "album": {
+        "name": "It just happened",
+        "url": "https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 82426,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/4xcp23aiZPvHDZzaxmlhye"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

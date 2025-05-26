@@ -1,12 +1,12 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21344,
+  "num_followers": 21343,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAJoKwLTINfm0Umony8ur2vnTmNgzHg",
+  "snapshot_id": "AAAJobGHAAkryNo9mIx5DK73GNhJs0sf",
   "tracks": [
     {
       "added_at": "2025-05-23 18:36:40",
@@ -607,6 +607,22 @@
       "duration_ms": 101463,
       "name": "Predia",
       "url": "https://open.spotify.com/track/6AOo1rY7KxbSjlb3NflCNB"
+    },
+    {
+      "added_at": "2025-05-26 01:11:07",
+      "album": {
+        "name": "My Anthem",
+        "url": "https://open.spotify.com/album/5Kn4lkJYAxiwwy3D9UEkR3"
+      },
+      "artists": [
+        {
+          "name": "Ghost in Real Life",
+          "url": "https://open.spotify.com/artist/1XNSNWTlirqnvsXUUEVwxb"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "My Anthem",
+      "url": "https://open.spotify.com/track/27fOZcjG9EJSU8bo6ZhnCc"
     },
     {
       "added_at": "2025-05-23 18:36:40",

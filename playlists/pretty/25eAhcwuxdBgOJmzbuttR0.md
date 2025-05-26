@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 372 songs - 1 day 1 hr 15 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 373 songs - 1 day 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -380,5 +380,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 370 | [A Little Bit Harder Now](https://open.spotify.com/track/5td7LYTivVH0MXXwin8QvE) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [Up and Down](https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu) | 2:54 |
 | 371 | [SHALLOW](https://open.spotify.com/track/7hm7YOaz4CHZYAiYBDbf4m) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [VAMP](https://open.spotify.com/album/4bk8MDVLQ78NVnVeAKpe6z) | 3:29 |
 | 372 | [Emergence](https://open.spotify.com/track/2OMjHcniFxzijWX7EaBrXE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:26 |
+| 373 | [King](https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:52 |
 
-Snapshot ID: `AAABgAcUb+6Kgudqaye49EK61tcymd/a`
+Snapshot ID: `AAABgWwloKG4TJGgtT5VSSRyzvNZDmJ9`

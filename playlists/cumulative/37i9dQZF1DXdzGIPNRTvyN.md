@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-328 songs - 15 hr 30 min
+329 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 | 2024-11-29 |
 | [Amedeo Nuevo](https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo Nuevo](https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre) | 2:15 | 2023-04-06 | 2025-04-02 |
 | [Anjali \- Sound Bath](https://open.spotify.com/track/0LBeVv1VwIG7ggMO9KnKoJ) | [Science Of Dreams](https://open.spotify.com/artist/1KKkMFJaPv6zDbGVIPsM8c) | [Anjali \(Sound Bath\)](https://open.spotify.com/album/3Z8rKbN7ZoADeJHCUTtvCF) | 2:16 | 2023-03-03 | 2025-02-11 |
-| [Aphrodite Stream](https://open.spotify.com/track/22urCikBkWkQbjH0QhEo9S) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Aphrodite Stream](https://open.spotify.com/album/6ibE6T7V1pd4EOc8rMyNLC) | 2:46 | 2025-05-21 |  |
+| [Aphrodite Stream](https://open.spotify.com/track/22urCikBkWkQbjH0QhEo9S) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Aphrodite Stream](https://open.spotify.com/album/6ibE6T7V1pd4EOc8rMyNLC) | 2:46 | 2025-05-21 | 2025-05-26 |
 | [Aqua](https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [Aqua](https://open.spotify.com/album/7eFZaIyV8l9ePXv8Jqt948) | 2:37 | 2023-03-13 | 2024-12-13 |
 | [Aras](https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 3:22 | 2023-03-13 |  |
 | [Arms Reach](https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Arms Reach](https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl) | 2:53 | 2024-03-01 | 2025-04-30 |
@@ -230,6 +230,7 @@
 | [Peaceful Rains](https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI) | [Piano Radiance](https://open.spotify.com/artist/69P4GKHbbgUhcNWn7Qaj1u) | [Music for Spa and Massage:Restful Rain and Piano](https://open.spotify.com/album/7Bd8L9jNUCE2kr7hqYguXd) | 3:36 | 2023-01-24 | 2024-07-17 |
 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 | 2024-07-16 |  |
 | [Peaceful Weal \(by a Babbling Brook\)](https://open.spotify.com/track/6XcXTrmANCkpLiZ1hj215q) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 3:42 | 2024-01-30 | 2025-04-02 |
+| [Pearls of Water](https://open.spotify.com/track/0puchkLNhOLQCxdQhFHEdY) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Pearls of Water](https://open.spotify.com/album/2Xd0IofZQritVHPthMik8i) | 2:46 | 2025-05-21 |  |
 | [pebble brook \- ambient room mix](https://open.spotify.com/track/4aE13rELUFUQCXEMDw6aF3) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:38 | 2023-01-24 | 2025-02-11 |
 | [Perfect Harmony](https://open.spotify.com/track/4j8n4QJNpbAVG2zRRBktn7) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Perfect Harmony](https://open.spotify.com/album/2b1hOdOnn3lhU1nLjh5gS0) | 3:20 | 2024-07-16 |  |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-13 |  |

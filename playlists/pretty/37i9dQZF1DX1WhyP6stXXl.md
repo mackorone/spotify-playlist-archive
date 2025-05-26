@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Nico Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,665 likes - 91 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,663 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

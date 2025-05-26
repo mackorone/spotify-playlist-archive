@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258217,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "album": {
         "name": "HWY 666/Black Eyes Blue/CMFT Must Be Stopped (Featuring Tech N9ne and Kid Bookie)",
         "url": "https://open.spotify.com/album/2PlblaXwjQDSHsXWUUBA2S"
       },

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Of Mice & Men
 
-1,238 songs - 3 day 3 hr 58 min
+1,239 songs - 3 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [For You](https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [For You](https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1) | 2:52 | 2025-04-25 |  |
 | [Forever Aligned](https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Forever Aligned](https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD) | 4:05 | 2024-11-22 |  |
 | [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-18 | 2022-12-17 |
-| [Forever Cold](https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Forever Cold](https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc) | 4:43 | 2024-11-08 |  |
+| [Forever Cold](https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Forever Cold](https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc) | 4:43 | 2024-11-08 | 2025-05-26 |
 | [Forever The Night](https://open.spotify.com/track/0WLQtuxBnuOYWB6RuQ8flr) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Forever The Night](https://open.spotify.com/album/5TqbTmXgostHmPdlVS43sI) | 4:05 | 2025-04-25 |  |
 | [Forever Yours](https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Forever Yours](https://open.spotify.com/album/6bhTmeMKYsSgqg7hAaU8KQ) | 3:10 | 2022-04-08 | 2022-07-01 |
 | [Forever Yours](https://open.spotify.com/track/7e7meNa1AtJ1PGntydHkaZ) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Between Me and The Machine](https://open.spotify.com/album/6l8CriAGZ9xzFOFazJCYSk) | 4:38 | 2021-12-17 | 2022-02-18 |
@@ -1207,6 +1207,7 @@
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2022-02-11 |
 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 | 2022-07-13 | 2022-07-23 |
 | [What If I Burn](https://open.spotify.com/track/4afrXoJM8GTpASPVzBGUYK) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [What If I Burn](https://open.spotify.com/album/6V24waGj9YEwRcoIlfSyjY) | 3:51 | 2024-11-22 | 2025-03-31 |
+| [What If...? \- WARGASM \(UK\) Remix](https://open.spotify.com/track/5lBkI4mp6nEoCJ2NPGY4RM) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [What If...? \[WARGASM \(UK\) Remix\]](https://open.spotify.com/album/0wGnVMMtHQQjhGdF6J8gGs) | 3:39 | 2025-05-23 |  |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-07-29 | 2023-01-06 |
 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 | 2022-05-27 | 2023-04-22 |
 | [When a Demon Defiles a Witch](https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [When a Demon Defiles a Witch](https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I) | 4:44 | 2022-07-13 | 2022-07-22 |

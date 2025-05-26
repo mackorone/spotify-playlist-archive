@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: EmmaOMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,664 likes - 100 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,704 likes - 100 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

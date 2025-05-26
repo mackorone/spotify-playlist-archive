@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2025 BABYMONSTER 1st WORLD TOUR 'HELLO MONSTERS' IN JAPAN』 セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,212 likes - 16 songs - 44 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 33,202 likes - 16 songs - 44 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 15 | [BATTER UP \[Remix\]](https://open.spotify.com/track/5HOqEc8PVJCe2N865YHMn3) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS), [DEE.P](https://open.spotify.com/artist/578frpgY5Upl3yUyRXxNFF) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:46 |
 | 16 | [Stuck In The Middle \(Remix\)](https://open.spotify.com/track/2fJgQ2gjt5boaD9sMqwMTw) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 3:19 |
 
-Snapshot ID: `AAAAAOjqv0zHoicZiyqHQno0giNjixYo`
+Snapshot ID: `aAYXLAAAAAD69lohnaENcZFXxhcvlMd6`

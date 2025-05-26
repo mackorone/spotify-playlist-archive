@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1141666,
+  "num_followers": 1141661,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 261868,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Petals For Armor",
-        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 212894,
-      "name": "Crystal Clear",
-      "url": "https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Petals For Armor",
+        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 212894,
+      "name": "Crystal Clear",
+      "url": "https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "The Temper Trap",
-        "url": "https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "Trembling hands",
-      "url": "https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 224343,
       "name": "Just Say When (Version 2.0)",
       "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "The Temper Trap",
+        "url": "https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "Trembling hands",
+      "url": "https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF"
     },
     {
       "added_at": "2025-02-14 15:17:16",

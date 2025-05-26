@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
+    },
+    {
+      "album": {
         "name": "A6",
         "url": "https://open.spotify.com/album/1B770BdBdTMmC0u8kUybHa"
       },
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 195192,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/0pM6sZkrM9Nas2fn2q2oCA"
@@ -5112,6 +5130,24 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/5NSibMwXnJ5cE2qIuzBlIV"
+      },
+      "artists": [
+        {
+          "name": "Kassidy",
+          "url": "https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152245,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/47VRidUiwdTanJ8GxyECT2"
     },
     {
       "album": {

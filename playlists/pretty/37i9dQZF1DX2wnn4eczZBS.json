@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: MEROL & Elmer",
-  "num_followers": 10354,
+  "num_followers": 10353,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-05-16 06:31:51",
       "album": {
-        "name": "De Tijd",
-        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
-      },
-      "artists": [
-        {
-          "name": "Flaire",
-          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
-        }
-      ],
-      "duration_ms": 213336,
-      "name": "De Tijd",
-      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
-    },
-    {
-      "added_at": "2025-05-16 06:31:51",
-      "album": {
         "name": "Mannenbaby",
         "url": "https://open.spotify.com/album/5oFYxSZlGEL5dpqLHMvDPe"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 144310,
       "name": "Mannenbaby",
       "url": "https://open.spotify.com/track/5kWFwP8DUlHKW4rCKOvU0n"
+    },
+    {
+      "added_at": "2025-05-16 06:31:51",
+      "album": {
+        "name": "De Tijd",
+        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "duration_ms": 213336,
+      "name": "De Tijd",
+      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
     },
     {
       "added_at": "2025-05-16 06:31:51",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-05-16 06:31:51",
       "album": {
-        "name": "Vrijplaats",
-        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        }
-      ],
-      "duration_ms": 233579,
-      "name": "Het Is Genoeg",
-      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
-    },
-    {
-      "added_at": "2025-05-16 06:31:51",
-      "album": {
         "name": "Mijn Haren Ruiken Naar Vuur",
         "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 165937,
       "name": "Verlaten Terrein",
       "url": "https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S"
+    },
+    {
+      "added_at": "2025-05-16 06:31:51",
+      "album": {
+        "name": "Vrijplaats",
+        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "duration_ms": 233579,
+      "name": "Het Is Genoeg",
+      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
     },
     {
       "added_at": "2025-05-16 06:31:51",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-05-16 06:31:51",
       "album": {
-        "name": "Drijfzand",
-        "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
+        "name": "Weer Verliefd",
+        "url": "https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD"
       },
       "artists": [
         {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
         }
       ],
-      "duration_ms": 178547,
-      "name": "Drijfzand",
-      "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
+      "duration_ms": 201750,
+      "name": "Weer Verliefd",
+      "url": "https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf"
     },
     {
       "added_at": "2025-05-16 06:31:51",
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-05-16 06:31:51",
       "album": {
-        "name": "Weer Verliefd",
-        "url": "https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD"
+        "name": "Drijfzand",
+        "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
       },
       "artists": [
         {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
         }
       ],
-      "duration_ms": 201750,
-      "name": "Weer Verliefd",
-      "url": "https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf"
+      "duration_ms": 178547,
+      "name": "Drijfzand",
+      "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
     },
     {
       "added_at": "2025-05-16 06:31:51",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-05-16 06:31:51",
       "album": {
+        "name": "Drijfzand",
+        "url": "https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc"
+      },
+      "artists": [
+        {
+          "name": "stay away from dante!",
+          "url": "https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Drijfzand",
+      "url": "https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo"
+    },
+    {
+      "added_at": "2025-05-16 06:31:51",
+      "album": {
         "name": "Het Outro",
         "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 118666,
       "name": "Privilege",
       "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
-    },
-    {
-      "added_at": "2025-05-16 06:31:51",
-      "album": {
-        "name": "Drijfzand",
-        "url": "https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc"
-      },
-      "artists": [
-        {
-          "name": "stay away from dante!",
-          "url": "https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Drijfzand",
-      "url": "https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo"
     },
     {
       "added_at": "2025-05-16 06:31:51",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-05-16 06:31:51",
       "album": {
-        "name": "IK MIS JE",
-        "url": "https://open.spotify.com/album/0gbNyJSEctAU96fhS7T0zj"
+        "name": "Symptomen",
+        "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
       },
       "artists": [
         {
-          "name": "Gianski",
-          "url": "https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy"
+          "name": "Johannes Is Zijn Naam",
+          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
         }
       ],
-      "duration_ms": 203225,
-      "name": "IK MIS JE",
-      "url": "https://open.spotify.com/track/1u1wKliOsyKZfku9DbZq5q"
+      "duration_ms": 222506,
+      "name": "Symptomen",
+      "url": "https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs"
     }
   ],
   "unique_name": "indie.nl",

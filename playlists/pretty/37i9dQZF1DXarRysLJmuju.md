@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Isabella Lovestory
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,968 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,942 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Without You](https://open.spotify.com/track/3d5xTPQbcJdVBc954GRE4l) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Without You](https://open.spotify.com/album/0RoqW9lQOIlK1q69WtrAtS) | 4:15 |
 | 100 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
 
-Snapshot ID: `aC/y1gAAAAC29E2w0Mmp934n5zXnqsYU`
+Snapshot ID: `AAAAAKLcLiH3eUWjJqj9Th8ADrocTY/J`

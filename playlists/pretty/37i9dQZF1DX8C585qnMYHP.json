@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of the best new music by Experimental independent artists and labels. <a href=\"spotify:artist:4EHUvmDJ3eLI7PhYyTe66f\">Amanda Mur</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 187850,
+  "num_followers": 187912,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,26 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
+        "name": "If I Had a Boat",
+        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 678676,
+      "name": "If I Had a Boat",
+      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc"
       },
@@ -311,22 +331,6 @@
       "duration_ms": 146000,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -347,22 +351,18 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "If I Had a Boat",
-        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
       },
       "artists": [
         {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
         }
       ],
-      "duration_ms": 678676,
-      "name": "If I Had a Boat",
-      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "punk cake",
-        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "14 Rue d'Abbeville",
-      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
         "name": "haunt_me???",
         "url": "https://open.spotify.com/album/1L4rsqh2pt3PtP9QGB28u8"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "punk cake",
+        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "14 Rue d'Abbeville",
+      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "shy (interlude)",
-        "url": "https://open.spotify.com/album/6tjsWKgUkWSplfj03caxOr"
-      },
-      "artists": [
-        {
-          "name": "Anysia Kym",
-          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
-        },
-        {
-          "name": "Loraine James",
-          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
-        }
-      ],
-      "duration_ms": 57600,
-      "name": "shy (interlude)",
-      "url": "https://open.spotify.com/track/3hcCMlJbGqgjIcbE7N1R9b"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
         "name": "supershapes volume 1",
         "url": "https://open.spotify.com/album/3epFHKDsBG7MvEery8bvse"
       },
@@ -703,18 +683,22 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "BORNE WORLD",
-        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+        "name": "shy (interlude)",
+        "url": "https://open.spotify.com/album/6tjsWKgUkWSplfj03caxOr"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Anysia Kym",
+          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+        },
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
         }
       ],
-      "duration_ms": 178616,
-      "name": "THIEVES",
-      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
+      "duration_ms": 57600,
+      "name": "shy (interlude)",
+      "url": "https://open.spotify.com/track/3hcCMlJbGqgjIcbE7N1R9b"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -731,6 +715,22 @@
       "duration_ms": 201853,
       "name": "Brinna ut",
       "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "BORNE WORLD",
+        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "THIEVES",
+      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "By Night",
-        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
-      },
-      "artists": [
-        {
-          "name": "Noah Praise God",
-          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
         "name": "FLOATING / 005 MAGIK",
         "url": "https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 216106,
       "name": "005 MAGIK",
       "url": "https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "Epic Wonder",
-        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
-      },
-      "artists": [
-        {
-          "name": "toechter",
-          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Me she said",
-      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "Epic Wonder",
+        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
+      },
+      "artists": [
+        {
+          "name": "toechter",
+          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Me she said",
+      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
         "name": "Hankyu Denshya",
         "url": "https://open.spotify.com/album/71K8CVaYH730CoI4CJrQLy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 226421,
       "name": "Hankyu Denshya",
       "url": "https://open.spotify.com/track/23dVWxBH8kGbkRCuAJPxwj"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "V\u00e4ter und S\u00f6hne",
-        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
-      },
-      "artists": [
-        {
-          "name": "Alex Kaminski",
-          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
-        }
-      ],
-      "duration_ms": 353250,
-      "name": "V\u00e4ter und S\u00f6hne",
-      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
         "name": "Contralepsy",
         "url": "https://open.spotify.com/album/7ki9wj2Ntk7II1ZWIc6Ys0"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 378000,
       "name": "B#G T##E S########Y 2",
       "url": "https://open.spotify.com/track/6gMUT7M1xxND6vy5tUDDkY"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "V\u00e4ter und S\u00f6hne",
+        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
+      },
+      "artists": [
+        {
+          "name": "Alex Kaminski",
+          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
+        }
+      ],
+      "duration_ms": 353250,
+      "name": "V\u00e4ter und S\u00f6hne",
+      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "Oasi Estesa",
-        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
-      },
-      "artists": [
-        {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
-        }
-      ],
-      "duration_ms": 272137,
-      "name": "GITA IN TRAM",
-      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
         "name": "TIDE/TIED",
         "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 199894,
       "name": "Echo Drift",
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "Oasi Estesa",
+        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
+      },
+      "artists": [
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "duration_ms": 272137,
+      "name": "GITA IN TRAM",
+      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1651,38 +1651,18 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "Feels Like Love (Visceral)",
-        "url": "https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN"
+        "name": "Campanelli",
+        "url": "https://open.spotify.com/album/3RmPqy5455voCtj5rI3UJd"
       },
       "artists": [
         {
-          "name": "Ghost Buttons",
-          "url": "https://open.spotify.com/artist/1xGkKuEwvLlaL7Tc0iphRY"
-        },
-        {
-          "name": "Dee R\u00fcsche",
-          "url": "https://open.spotify.com/artist/3NtFFDJqHCWvLFSC08oIlM"
+          "name": "Valentina Goncharova",
+          "url": "https://open.spotify.com/artist/5rzFg9cZH3EAHs1x0yOTGu"
         }
       ],
-      "duration_ms": 311959,
-      "name": "Feels Like Love (Visceral)",
-      "url": "https://open.spotify.com/track/41B2Q0q5QAMreQolu2wHyd"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3loPP5yrbtXrAghM6Y56eh"
-      },
-      "artists": [
-        {
-          "name": "Torba",
-          "url": "https://open.spotify.com/artist/4kG6IAQ1p9TElT4scdn4wp"
-        }
-      ],
-      "duration_ms": 250560,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/2Qqwq9w4Q5puYTaaMY4hv5"
+      "duration_ms": 424180,
+      "name": "I Am Here and Now",
+      "url": "https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1703,18 +1683,54 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
-        "name": "Campanelli",
-        "url": "https://open.spotify.com/album/3RmPqy5455voCtj5rI3UJd"
+        "name": "Feels Like Love (Visceral)",
+        "url": "https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN"
       },
       "artists": [
         {
-          "name": "Valentina Goncharova",
-          "url": "https://open.spotify.com/artist/5rzFg9cZH3EAHs1x0yOTGu"
+          "name": "Ghost Buttons",
+          "url": "https://open.spotify.com/artist/1xGkKuEwvLlaL7Tc0iphRY"
+        },
+        {
+          "name": "Dee R\u00fcsche",
+          "url": "https://open.spotify.com/artist/3NtFFDJqHCWvLFSC08oIlM"
         }
       ],
-      "duration_ms": 424180,
-      "name": "I Am Here and Now",
-      "url": "https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh"
+      "duration_ms": 311959,
+      "name": "Feels Like Love (Visceral)",
+      "url": "https://open.spotify.com/track/41B2Q0q5QAMreQolu2wHyd"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "Charged Up 2",
+        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
+      },
+      "artists": [
+        {
+          "name": "Heavee",
+          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
+        }
+      ],
+      "duration_ms": 264902,
+      "name": "Cross Road",
+      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3loPP5yrbtXrAghM6Y56eh"
+      },
+      "artists": [
+        {
+          "name": "Torba",
+          "url": "https://open.spotify.com/artist/4kG6IAQ1p9TElT4scdn4wp"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/2Qqwq9w4Q5puYTaaMY4hv5"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1771,6 +1787,22 @@
     {
       "added_at": "2025-05-22 08:50:01",
       "album": {
+        "name": "Berceuses des deux mondes",
+        "url": "https://open.spotify.com/album/13ydWl3fzWEv6tehH0fRnH"
+      },
+      "artists": [
+        {
+          "name": "Rien Virgule",
+          "url": "https://open.spotify.com/artist/56AWMLfBBbQzj3bvSmRxJT"
+        }
+      ],
+      "duration_ms": 490506,
+      "name": "Le rythme du sang",
+      "url": "https://open.spotify.com/track/313mrUKRtcm6gfq4jQDGE8"
+    },
+    {
+      "added_at": "2025-05-22 08:50:01",
+      "album": {
         "name": "AMB005",
         "url": "https://open.spotify.com/album/0jKG73qcfRcWA8pHx4ibeT"
       },
@@ -1799,22 +1831,6 @@
       "duration_ms": 429000,
       "name": "Abyss Glow",
       "url": "https://open.spotify.com/track/0W6s0iYw82X92CofYQShX5"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
-        "name": "Berceuses des deux mondes",
-        "url": "https://open.spotify.com/album/13ydWl3fzWEv6tehH0fRnH"
-      },
-      "artists": [
-        {
-          "name": "Rien Virgule",
-          "url": "https://open.spotify.com/artist/56AWMLfBBbQzj3bvSmRxJT"
-        }
-      ],
-      "duration_ms": 490506,
-      "name": "Le rythme du sang",
-      "url": "https://open.spotify.com/track/313mrUKRtcm6gfq4jQDGE8"
     },
     {
       "added_at": "2025-05-22 08:50:01",
@@ -1887,22 +1903,6 @@
       "duration_ms": 708927,
       "name": "2033",
       "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
-    },
-    {
-      "added_at": "2025-05-22 08:50:01",
-      "album": {
-        "name": "Charged Up 2",
-        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
-      },
-      "artists": [
-        {
-          "name": "Heavee",
-          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
-        }
-      ],
-      "duration_ms": 264902,
-      "name": "Cross Road",
-      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
     },
     {
       "added_at": "2025-05-22 08:50:01",

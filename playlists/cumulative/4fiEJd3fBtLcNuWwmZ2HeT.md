@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-297 songs - 16 hr 52 min
+298 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |
 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 | 2022-08-27 |  |
 | [イドラのサーカス](https://open.spotify.com/track/2FvGW1qdjJwSzyB31IeeJj) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:31 | 2022-08-18 |  |
+| [カルミア・ラティフォリア](https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL) | [neo:niruni](https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv) | [カルミア・ラティフォリア](https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf) | 3:55 | 2025-05-25 |  |
 | [カルメン](https://open.spotify.com/track/2trg5QP7LvutSwDmApo7JN) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [カルメン](https://open.spotify.com/album/2dExwUIiMTzFb2by9bnWmY) | 2:27 | 2023-09-07 |  |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-08-18 |  |
 | [キスミィ・ショット](https://open.spotify.com/track/0kK60FcUhtR2WGuR3I7k9g) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [キスミィ・ショット](https://open.spotify.com/album/18vOGU3v1TTFwJ3wb8hGpA) | 2:44 | 2024-11-18 |  |

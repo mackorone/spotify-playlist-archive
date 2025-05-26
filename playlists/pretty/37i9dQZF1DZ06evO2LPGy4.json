@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 460355,
+  "num_followers": 460381,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+6gAAAAABt5ClVOb3kkONPI7fuF4z+",
+  "snapshot_id": "aDEMAAAAAACjcKXXVdYoa8NjyKR1G3hD",
   "tracks": [
     {
       "added_at": null,
@@ -831,30 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Expediente",
-        "url": "https://open.spotify.com/album/5asYzRIL4KNTEDDXBoHC1N"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Chairez",
-          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Los 4 Ases - En Vivo",
-      "url": "https://open.spotify.com/track/0PWgsrMYk6c7grmdsW7Fx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 151253,
       "name": "S\u00f3lo Vine A Despedirme",
       "url": "https://open.spotify.com/track/6ZG2QO5LMFeIOwQGRDIKBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Globall",
+        "url": "https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "La Noche Es Tuya",
+      "url": "https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

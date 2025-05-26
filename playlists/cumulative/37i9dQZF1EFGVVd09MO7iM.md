@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-927 songs - 2 day 11 hr 5 min
+928 songs - 2 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Can't Stop Us Now](https://open.spotify.com/track/3S87Ha90GzcBmQbWuVS8Qj) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 3:22 | 2025-01-09 | 2025-04-12 |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2024-01-29 |  |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1pNvU3x12sBnp9MNh2lZyF) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [CAN'T TOUCH THIS \(Official Music Video\)](https://open.spotify.com/album/1WlrXPE879adrcANbXR8lP) | 2:32 | 2024-01-30 | 2024-02-01 |
+| [Candy](https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Candy](https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc) | 1:58 | 2025-05-25 |  |
 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 | 2024-01-29 |  |
 | [Candy \(Drippin' Like Water\)](https://open.spotify.com/track/0E1NCpOWUweGB674Hhu7sc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X), [Goldie Loc](https://open.spotify.com/artist/6kEwu0twnfzngQt3Gy8taP), [Daz](https://open.spotify.com/artist/5MQIo1YqabUyOjWBzRqPSA), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:48 | 2024-01-29 |  |
 | [Candy Paint \(feat\. Bun B\)](https://open.spotify.com/track/5Su82DCebDzhL88yWyUasx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:38 | 2024-03-26 |  |

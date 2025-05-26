@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-370 songs - 21 hr 20 min
+371 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 |  |
 | [Caught Me On A Bad Day](https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN) | 3:30 | 2024-09-06 | 2024-09-25 |
 | [Communication \- Polar Session '01](https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [The Rest Of The Best \(Vol\. 2\)](https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui) | 4:20 | 2024-09-06 | 2024-10-25 |
-| [Could've Been Us](https://open.spotify.com/track/5pOe7jQSrMJCbQ1kI6V0Fu) | [Alex Westin](https://open.spotify.com/artist/5r5BAZRjaW2u0vIeuBrRjk) | [Could've Been Us](https://open.spotify.com/album/1QaMWQ3R86lGcN9OaFm7ad) | 3:08 | 2025-05-15 |  |
+| [Could've Been Us](https://open.spotify.com/track/5pOe7jQSrMJCbQ1kI6V0Fu) | [Alex Westin](https://open.spotify.com/artist/5r5BAZRjaW2u0vIeuBrRjk) | [Could've Been Us](https://open.spotify.com/album/1QaMWQ3R86lGcN9OaFm7ad) | 3:08 | 2025-05-15 | 2025-05-26 |
 | [Country Song Came On](https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country Song Came On](https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC) | 3:54 | 2024-09-06 | 2025-04-11 |
 | [Country Tack Vare Er](https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Country Tack Vare Er](https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD) | 3:27 | 2025-04-24 |  |
 | [COWBOY](https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [COWBOY](https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t) | 3:23 | 2024-08-29 | 2024-10-11 |
@@ -114,6 +114,7 @@
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2025-01-19 |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-27 | 2024-08-09 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2025-01-27 |
+| [Forgetting To Forget You](https://open.spotify.com/track/4EIbkUEDikvoD1Qv7sdjdF) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [Forgetting To Forget You](https://open.spotify.com/album/11EYPT9zI046s68U5vgDzn) | 2:39 | 2025-05-22 |  |
 | [Forserum](https://open.spotify.com/track/4Wpt5gCGT1SgDl4pW850DI) | [KUPLETTEN](https://open.spotify.com/artist/02EKOQPSOvw98jhKYtMcQa) | [Forserum](https://open.spotify.com/album/10HNlmUS1hpbCMFeDC4vmq) | 5:14 | 2024-10-10 | 2024-10-18 |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2024-06-27 | 2025-04-04 |
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 |  |

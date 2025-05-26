@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,093 songs - 2 day 18 hr 56 min
+1,094 songs - 2 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1068,6 +1068,7 @@
 | [WHO CARES?](https://open.spotify.com/track/1SKN0qfmaLESOcr9rV9kvn) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 2:29 | 2022-04-29 |  |
 | [Who I Am](https://open.spotify.com/track/2ezewSeiABfCDeNSmV0XN7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 1:26 | 2024-10-09 |  |
 | [Who The Fuck Are Arctic Monkeys?](https://open.spotify.com/track/05FVS9qqWq2A82fYCtblkt) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 5:36 | 2020-04-16 |  |
+| [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6rBPoogiDaypPr8YrtUHCm) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/3FRmZ7sBVy7qooBD84kqTE) | 2:57 | 2025-05-25 |  |
 | [Why Did I Laugh Anyway](https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Why Did I Laugh Anyway](https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1) | 3:09 | 2024-05-10 |  |
 | [Why Won't They Talk To Me?](https://open.spotify.com/track/6IM45SqAURH6PrvziDs1RQ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:46 | 2020-10-27 |  |
 | [Why Won't You Make Up Your Mind?](https://open.spotify.com/track/5ibXqGCuO5jGcb41gLlaZe) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 3:19 | 2021-04-30 |  |

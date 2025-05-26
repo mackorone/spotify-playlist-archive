@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 293 songs - 16 hr 35 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 294 songs - 16 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,5 +301,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 291 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 |
 | 292 | [Fibber](https://open.spotify.com/track/1QuRsBr1YF54MkQqVudKef) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:02 |
 | 293 | [prayer](https://open.spotify.com/track/03MAoBUO3pCOc9uCgZalQ9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:20 |
+| 294 | [カルミア・ラティフォリア](https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL) | [neo:niruni](https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv) | [カルミア・ラティフォリア](https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf) | 3:55 |
 
-Snapshot ID: `AAAJCybAfC6Ifd2zqQYIZyw8jz7oMihr`
+Snapshot ID: `AAAJDOvcgp0ezn74KVl20IER/im8pcJJ`

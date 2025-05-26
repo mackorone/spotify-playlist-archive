@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,606,595 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,607,340 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Lunae](https://open.spotify.com/track/2fkqwhO8lxBATiFxYJD6v9) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Lunae](https://open.spotify.com/album/1BYdlw8ztE2XFi4Y2kFzGJ) | 3:58 |
 | 100 | [Gravitational Wave](https://open.spotify.com/track/6QVkUrkSC3IMWmbCEbkP7p) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Gravitational Wave EP](https://open.spotify.com/album/7EFsVyrCWzjXPfGNZ3UPql) | 5:45 |
 
-Snapshot ID: `aC+egAAAAAB7fVu7oWjUNMrYQQuNG1Hd`
+Snapshot ID: `aC+egAAAAADee2zp0AMcWwLDXP1gCZcc`

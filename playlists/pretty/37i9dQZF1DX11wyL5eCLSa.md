@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Raimundos en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,726 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,734 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [¿Hoy a qué vamos a jugar?](https://open.spotify.com/track/6zQ3sTiUg5mDHcuWdTeKJz) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [¿Hoy a qué vamos a jugar?](https://open.spotify.com/album/3yDCar8MFsuUv10nYsD0km) | 2:32 |
 | 100 | [Cientos de Bares](https://open.spotify.com/track/0DJn91o6lGVcH9yXAnkWZq) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Cientos de Bares](https://open.spotify.com/album/55MXq0bkUzU0iivvTQqNRQ) | 2:46 |
 
-Snapshot ID: `aDAPAgAAAAC8K2cXXsiuMC5fz+T96voF`
+Snapshot ID: `AAAAAKt22CVGNweOBXCauBamVfmTVTiS`

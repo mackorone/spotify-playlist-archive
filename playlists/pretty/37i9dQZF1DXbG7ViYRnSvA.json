@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 22280,
+  "num_followers": 22290,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Really Doe",
+          "url": "https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+      "duration_ms": 448000,
+      "name": "We Major",
+      "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -183,6 +191,22 @@
       "duration_ms": 232800,
       "name": "Liberian Girl - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -235,30 +259,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Really Doe",
-          "url": "https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "We Major",
-      "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 508226,
       "name": "Another Star",
       "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -383,6 +399,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -403,22 +443,6 @@
       "duration_ms": 449773,
       "name": "Maiysha (So Long) (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -535,30 +559,6 @@
       "duration_ms": 203521,
       "name": "No One in the World (New Orleans Bounce)",
       "url": "https://open.spotify.com/track/3nVH3JISreuuJqVF10qKa5"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -819,58 +819,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Hours Spent Loving You",
-        "url": "https://open.spotify.com/album/5gBmvBzVGoP96jbF4OfnKh"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "How Do You Love Me",
-      "url": "https://open.spotify.com/track/1ExAxTVymjFH7nMAFFoGG5"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Jassbusters",
-        "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
-      },
-      "artists": [
-        {
-          "name": "Connan Mockasin",
-          "url": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
-        }
-      ],
-      "duration_ms": 536254,
-      "name": "Charlotte's Thong",
-      "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Middle America",
-        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
-      },
-      "artists": [
-        {
-          "name": "Project Mayhem",
-          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
-        }
-      ],
-      "duration_ms": 230948,
-      "name": "No Room in the Limo",
-      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Catching Dreams",
         "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
       },
@@ -895,6 +843,42 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Middle America",
+        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
+      },
+      "artists": [
+        {
+          "name": "Project Mayhem",
+          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
+        }
+      ],
+      "duration_ms": 230948,
+      "name": "No Room in the Limo",
+      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Hours Spent Loving You",
+        "url": "https://open.spotify.com/album/5gBmvBzVGoP96jbF4OfnKh"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "How Do You Love Me",
+      "url": "https://open.spotify.com/track/1ExAxTVymjFH7nMAFFoGG5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 47953,
       "name": "Here Now (Intro)",
       "url": "https://open.spotify.com/track/0HChF6Z7HkPDBWQHLISGxN"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Jassbusters",
+        "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
+      },
+      "artists": [
+        {
+          "name": "Connan Mockasin",
+          "url": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
+        }
+      ],
+      "duration_ms": 536254,
+      "name": "Charlotte's Thong",
+      "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
     }
   ],
   "unique_name": "Coodie & Chike's Taste",

@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Gordo & Blessd
 
-1,172 songs - 2 day 20 hr 9 min
+1,173 songs - 2 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,11 +93,12 @@
 | [Backfire](https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Jay Colin](https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx) | [Backfire](https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK) | 3:19 | 2022-01-14 | 2022-07-26 |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-01-04 |  |
 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-16 | 2023-07-08 |
-| [BAD FOR YOU](https://open.spotify.com/track/23YknLzYKxnC0OpWu5x64Z) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [BAD FOR YOU](https://open.spotify.com/album/4pQ1YdGRDSQGkxLz9LGE8H) | 2:22 | 2025-01-10 |  |
+| [BAD FOR YOU](https://open.spotify.com/track/23YknLzYKxnC0OpWu5x64Z) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [BAD FOR YOU](https://open.spotify.com/album/4pQ1YdGRDSQGkxLz9LGE8H) | 2:22 | 2025-01-10 | 2025-05-26 |
 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 | 2025-04-04 |  |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-19 | 2025-03-22 |
 | [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 | 2025-04-25 |  |
 | [Baila \(La Banda\)](https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Baila \(La Banda\)](https://open.spotify.com/album/3rzSGcuOW6mGCGu0Sc2pzb) | 2:38 | 2023-06-23 | 2023-10-03 |
+| [Baile De Fantome](https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Baile De Fantome EP](https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx) | 4:00 | 2025-05-23 |  |
 | [Balafonerra](https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Balafonerra](https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX) | 4:11 | 2022-07-08 | 2022-08-24 |
 | [BANANAS](https://open.spotify.com/track/3u1n0tFjgVtUblCLjcmJ9N) | [PUMP!](https://open.spotify.com/artist/5Lf6UvtlHP3ZIsZwE31ZuC) | [BANANAS](https://open.spotify.com/album/0AcsHt2hJ7RFFC96y7KLTL) | 3:16 | 2024-01-26 | 2024-04-19 |
 | [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:48 | 2024-06-07 | 2025-03-22 |

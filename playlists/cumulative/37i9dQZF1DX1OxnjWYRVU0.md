@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-470 songs - 20 hr 52 min
+471 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [She Doesn't Mind](https://open.spotify.com/track/24ndefOQebzR8wOJaAZTjR) | [MEYSTA](https://open.spotify.com/artist/5t46kxwLb7v2uC1aqwqeSS), [KURY](https://open.spotify.com/artist/1WaB8hrbBPbzgFFOOMW9dH) | [She Doesn't Mind](https://open.spotify.com/album/4dYa9RyK9oJ3ImLYGg3tIh) | 2:36 | 2022-04-29 |  |
 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 | 2022-08-18 |  |
 | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB) | 2:32 | 2022-03-03 |  |
+| [SHOW ME LOVE](https://open.spotify.com/track/2mDKBYSN8NkFMjIc7YAg0x) | [Joey Tingen](https://open.spotify.com/artist/4sVAlZoshfT2fScvTaGqVx), [Linda Bugatti](https://open.spotify.com/artist/4LabL0cr3Mywm4XkLUpgan) | [SHOW ME LOVE](https://open.spotify.com/album/4D5ubdjbYIYeXeRRJlifsr) | 3:32 | 2025-05-25 |  |
 | [Show Me the Meaning of Being Lonely \- Club Edit](https://open.spotify.com/track/4nBzR5kIT7W93ru55nl3eH) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Adam Bü](https://open.spotify.com/artist/1XmQF3YXcIjv9PhNN69v8s) | [Show Me the Meaning of Being Lonely](https://open.spotify.com/album/3VlATUP5o3qSKP7g7FAVCS) | 2:12 | 2022-01-13 |  |
 | [Shut Up and Dance](https://open.spotify.com/track/5HN6hrZQJR7duXWaKCEvOh) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY), [Idetto](https://open.spotify.com/artist/1KfEELJWhaiw5NeP3jAztZ) | [Shut Up and Dance](https://open.spotify.com/album/4w8AtlVOHelgb7RNgo85uK) | 2:26 | 2022-01-13 |  |
 | [Smalltown Boy](https://open.spotify.com/track/3QuJ4TqND9JE7cqAkIrgYr) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [Smalltown Boy](https://open.spotify.com/album/22qBsT4FYEV5ZHeFrvIenK) | 2:24 | 2022-04-07 |  |

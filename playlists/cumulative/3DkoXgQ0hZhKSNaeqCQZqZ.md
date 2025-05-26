@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-346 songs - 18 hr 19 min
+347 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [I Don't Need Love](https://open.spotify.com/track/6UbEBm0sFHunsjZ7KCjTXR) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [I Don't Need Love](https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF) | 4:56 | 2023-06-14 |  |
 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 | 2024-11-18 |  |
 | [I DONT UNDERSTAND](https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [I DONT UNDERSTAND](https://open.spotify.com/album/0XZN4GHwWZGy0oIz49oVu0) | 3:08 | 2025-01-30 |  |
+| [I DONT WANNA KNOW](https://open.spotify.com/track/266Pwgq4t80Ra48KUeL3jd) | [Krow](https://open.spotify.com/artist/5zVksKQzQCWLW1R8Esuof9), [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [I DONT WANNA KNOW](https://open.spotify.com/album/0XLQ24yXx6IzZgAWTEz4bD) | 2:12 | 2025-05-26 |  |
 | [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/track/766wyP4PUBQFbDi8OUrCfM) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/album/24DMxLAjxbShCcn9PZYvpC) | 2:19 | 2025-03-07 |  |
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 |  |
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |

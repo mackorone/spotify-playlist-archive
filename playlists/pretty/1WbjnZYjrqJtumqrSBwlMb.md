@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,068 songs - 2 day 17 hr 30 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,069 songs - 2 day 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1076,5 +1076,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1066 | [Beneath The Lilypad](https://open.spotify.com/track/5a4TVULMHuxkkfSClpRpgk) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 1:20 |
 | 1067 | [The Harvest is Thoughtless](https://open.spotify.com/track/3IIcSXb4h75SaLEMypzgVu) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:07 |
 | 1068 | [You Make It Easier](https://open.spotify.com/track/2toz89nXx6wvBvfhQ6RLwi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 4:51 |
+| 1069 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6rBPoogiDaypPr8YrtUHCm) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/3FRmZ7sBVy7qooBD84kqTE) | 2:57 |
 
-Snapshot ID: `AAAI+c3Hu9axQLcVXuvSYhi4aW+ILb2G`
+Snapshot ID: `AAAI+mtzeqmbqNovoBS3ME5zydJ/ZVSl`

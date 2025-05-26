@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zoë Më
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,748 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,755 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 5 | [Villes de Papier](https://open.spotify.com/track/4rCA3iunslqVHP6T8sw9uO) | [Ilajan](https://open.spotify.com/artist/1vDYr1M3BKIBZHummKLJEX) | [Villes De Papier](https://open.spotify.com/album/6Y3mBoB3yrFVUFSw1bgYh3) | 3:35 |
 | 6 | [Umusuna](https://open.spotify.com/track/0XdJvCwy7ZdzX7tyaEdmUi) | [Flèche Love](https://open.spotify.com/artist/7kGHEZX0pDGy9ur8pPZUA6), [Rone](https://open.spotify.com/artist/5G3sT0kBijTNA0x4OgwZ2v) | [Naga, Pt.1](https://open.spotify.com/album/1QZZVczozF4NsqJmMTCkYl) | 3:04 |
 | 7 | [Träne](https://open.spotify.com/track/1hQ7CxbsRNRByWQVVUUmWB) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Träne](https://open.spotify.com/album/53plcTzxKJI8g4ilUK1IH8) | 2:38 |
-| 8 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
+| 8 | [valentino](https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [valentino](https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P) | 2:08 |
 | 9 | [Lettre à mon corps](https://open.spotify.com/track/7a45PzKA19rptD9g01LlfT) | [MAGGIE](https://open.spotify.com/artist/6uz0Y8RzYc3uiFXdBiCB4I) | [Lettre à mon corps](https://open.spotify.com/album/4mAX3qv1ykfXBWjsxHGBkx) | 4:51 |
-| 10 | [valentino](https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [valentino](https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P) | 2:08 |
+| 10 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
 | 11 | [Overdose](https://open.spotify.com/track/0muto1pJLrlp1NnK44I0vk) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Overdose](https://open.spotify.com/album/2BiHV4r6PD1c5OhAHGRz7x) | 2:49 |
 | 12 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 |
 | 13 | [Jail](https://open.spotify.com/track/1oyUbXfp7bEGVjqcsTKttC) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Grandma On The Dancefloor](https://open.spotify.com/album/6KWFefpEa1TShCfDMU2ETn) | 1:50 |

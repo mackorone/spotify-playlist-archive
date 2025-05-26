@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Myles Smith, Burna Boy ft Travis Scott, Reneé Rapp and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,922 likes - 121 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,985 likes - 121 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 120 | [cowboy pancakes](https://open.spotify.com/track/1tMFwYFD7JIWKTdWbSmHmK) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [we're having a barn dance](https://open.spotify.com/album/46fK435lj7sqvXtguiMb5F) | 1:58 |
 | 121 | [hƐ>rtburn\. x](https://open.spotify.com/track/49Tog0t1bwLZGwU6WliDNy) | [cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [hƐ>rtburn\. x](https://open.spotify.com/album/1oRzFClRfFjye6abST3M1L) | 3:21 |
 
-Snapshot ID: `aDAuMAAAAABA4peXF6/EsYgdnP5YLd0L`
+Snapshot ID: `AAAAANFkhy1XyXtlyHHfLQ5vPpXHcZdC`

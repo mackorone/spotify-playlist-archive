@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "ACT 7",
+        "url": "https://open.spotify.com/album/4dl21seQMmtemAddp1actc"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112570,
+      "name": "ACT 7",
+      "url": "https://open.spotify.com/track/4Zgiqd8twiWV0XelwVolqQ"
+    },
+    {
+      "album": {
         "name": "\u00c9tat de si\u00e8ge",
         "url": "https://open.spotify.com/album/1Vg7ghT9KCVbtE29gJurBE"
       },
@@ -17692,7 +17710,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 181500,
       "name": "Ensay",
       "url": "https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs"
@@ -23288,7 +23306,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 115693,
       "name": "Honn\u00eatement",
       "url": "https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ"
@@ -25020,6 +25038,28 @@
       "duration_ms": 210339,
       "name": "J'ai bris\u00e9 ma voix",
       "url": "https://open.spotify.com/track/21FjZvnrn7OnCBBHuIeVha"
+    },
+    {
+      "album": {
+        "name": "J'ai ce qu'il faut",
+        "url": "https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "J'ai ce qu'il faut",
+      "url": "https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS"
     },
     {
       "album": {

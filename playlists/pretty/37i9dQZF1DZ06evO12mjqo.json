@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 456807,
+  "num_followers": 456958,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+6gAAAAAAFlPda964aO8A/7X67mkUK",
+  "snapshot_id": "aDEMAAAAAACne6bEmaF1ZtKOYFm07a/5",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 340786,
-      "name": "Peacefield",
-      "url": "https://open.spotify.com/track/5LA5Qhk8UYBHBaqjwqtHDz"
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 276400,
-      "name": "Lachryma",
-      "url": "https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y"
+      "duration_ms": 340786,
+      "name": "Peacefield",
+      "url": "https://open.spotify.com/track/5LA5Qhk8UYBHBaqjwqtHDz"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Hanging Around",
-      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+      "duration_ms": 222840,
+      "name": "Missionary Man",
+      "url": "https://open.spotify.com/track/29NX2dMLjvmtD8HQek1AFQ"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Missionary Man",
-      "url": "https://open.spotify.com/track/29NX2dMLjvmtD8HQek1AFQ"
+      "duration_ms": 249626,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
     },
     {
       "added_at": null,

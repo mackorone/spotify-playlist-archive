@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=3c0OFN54STCLGyLFtRdkgg">Lebo Sekgobela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,637 likes - 100 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,789 likes - 100 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Uloyiko Lwami 2.0 \(Live\)](https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Bonfire Experience \(Live\)](https://open.spotify.com/album/4J9lZoFJ8FH5UFNrjS8owz) | 8:02 |
 | 100 | [Modisa Wa Dinku](https://open.spotify.com/track/4UnXuTOxpqvP05llekAKoD) | [IPCC YOUTH](https://open.spotify.com/artist/1mdnJbkFBtyxeqCJml77st) | [Modisa Wa Dinku](https://open.spotify.com/album/4V2QcMzsM2RWwf4eQ4NtVj) | 4:41 |
 
-Snapshot ID: `aC+64AAAAAAQHjiGoBoqJY/EYHOy1zef`
+Snapshot ID: `aDN8VQAAAAAIwzT5AcZDP/7T3stMcGKz`

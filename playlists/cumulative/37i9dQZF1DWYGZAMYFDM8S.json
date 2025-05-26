@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
+      },
+      "artists": [
+        {
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257173,
+      "name": "All My Runnin'",
+      "url": "https://open.spotify.com/track/1NqUxePjDzASB1UbSo8sNh"
+    },
+    {
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2svuCHYVIB1UbtF0oVPEvD"
       },
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-26",
       "duration_ms": 219811,
       "name": "Hearts On Fire - Acoustic",
       "url": "https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f"
