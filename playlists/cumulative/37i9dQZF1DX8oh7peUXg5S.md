@@ -2,9 +2,9 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Sívia Pérez Cruz y Salvador Sobral.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Pastor y Silvio Rodríguez.
 
-336 songs - 21 hr 31 min
+338 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Aunque tú no lo sepas](https://open.spotify.com/track/4eexdcRvhWaRDDY2D3ka5P) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/0ZX3jNV0g9ERJM3BwAiMU1) | 2:11 | 2022-06-09 | 2022-07-16 |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1) | [Enrique Urquijo y Los problemas](https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT) | [Desde Que No Nos Vemos](https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN) | 2:24 | 2022-06-09 |  |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 | 2022-08-11 |  |
+| [Aunque ya no estés](https://open.spotify.com/track/0iazekHlqaDN5x05wiXz4L) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Aunque ya no estés](https://open.spotify.com/album/3ZVfdRLce6u9UnwQGeE7Ic) | 2:56 | 2025-05-26 |  |
 | [Autorretrato](https://open.spotify.com/track/3Uz1KaJF1jegGuaBfQG3A7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Autorretrato](https://open.spotify.com/album/4fUe77nJs8dqGdzS8SO5FI) | 3:36 | 2022-09-22 | 2022-11-11 |
 | [Aves Enjauladas](https://open.spotify.com/track/7vi5ATzi8QEwPb2flP5V2J) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Aves Enjauladas](https://open.spotify.com/album/3JEIMeWN0Tc09w0sAyDHbg) | 3:33 | 2022-06-09 | 2022-07-29 |
 | [Bella Ciao](https://open.spotify.com/track/6ko4yN7ImVhM3wQHlhDhIZ) | [Marina Rossell](https://open.spotify.com/artist/4VtMHmnigTKtWyQR71len2), [Paco Ibanez](https://open.spotify.com/artist/1jClQHR1Ny69QAXeDWERq0) | [Bella Ciao](https://open.spotify.com/album/5XYJ8jQemoSY8kkGh5AW4J) | 2:03 | 2022-06-09 | 2022-07-28 |
@@ -88,7 +89,7 @@
 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 | 2024-02-15 | 2024-03-16 |
 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 | 2022-06-09 |  |
 | [Desengaño](https://open.spotify.com/track/4lPrY70fkKQy1aQRZEKsSE) | [Luis Pastor](https://open.spotify.com/artist/0GF14xtdEUhEMxLH3TFDr0) | [Extremadura Fado](https://open.spotify.com/album/3IkTQ3ZF79DuMU0q1eMWTM) | 3:39 | 2022-06-09 | 2022-07-01 |
-| [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 |  |
+| [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 | 2025-05-27 |
 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 | 2022-06-30 | 2022-07-12 |
 | [Día De Luz \- 80 Aniversario](https://open.spotify.com/track/0SJcGKI0S0iqcFyCJw8XSm) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Día De Luz \(80 Aniversario\)](https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK) | 4:11 | 2023-03-31 | 2023-05-23 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-06-09 | 2025-01-21 |
@@ -194,7 +195,7 @@
 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 | 2022-06-09 |  |
 | [Mediterráneo](https://open.spotify.com/track/4ZXldI9CyNjVkXvIL9K487) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Hijos del Mediterráneo](https://open.spotify.com/album/70ncIMgaMk8xOjKvbovSBE) | 3:26 | 2022-06-09 | 2022-07-29 |
 | [Mi Paracaídas](https://open.spotify.com/track/4J2QcplOla4PXNU4zXt3vG) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [Mi Paracaídas](https://open.spotify.com/album/4zyCM7SjQk8UedzfWVAYjT) | 3:53 | 2023-03-02 | 2023-04-14 |
-| [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 | 2022-06-09 |  |
+| [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 | 2022-06-09 | 2025-05-27 |
 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 | 2022-06-09 | 2025-05-05 |
 | [Mi Querida España](https://open.spotify.com/track/5zaur8FlCQ5GGMtSJptmDr) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Mi Querida España](https://open.spotify.com/album/7ECRSE0sXmqHYUMqy9nEvS) | 2:37 | 2022-06-09 | 2022-07-26 |
 | [Mi última canción triste \- Mov.3: Mi Jardín](https://open.spotify.com/track/0dcPQzyzN3sEFxYDok6KrK) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Toda la vida, un día](https://open.spotify.com/album/1PcfqYmzT3TMYQclrZJU0J) | 4:35 | 2023-04-20 | 2023-06-30 |
@@ -249,6 +250,7 @@
 | [Que Digan \(Según Sta\. Rocio\)](https://open.spotify.com/track/55ow5rRCIbUX1zzGuq0nek) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Que Digan \(Según Sta\. Rocio\)](https://open.spotify.com/album/2Xiy3E0gR9nRxCMSGP3otv) | 3:38 | 2025-03-27 |  |
 | [Que pasen cosas](https://open.spotify.com/track/2mAtcBJOmHHg0QCsB4S797) | [Lau Noah](https://open.spotify.com/artist/42XHWcm6PBEAgK6JvMqGlH), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [A Dos](https://open.spotify.com/album/1XDsaz0ieG13j47HGrLTIM) | 3:33 | 2024-02-15 | 2024-03-01 |
 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 | 2022-06-09 |  |
+| [Quererte](https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Quererte](https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92) | 3:01 | 2025-05-26 |  |
 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 | 2022-06-09 |  |
 | [Quería Saber](https://open.spotify.com/track/50bvIAriO4MoPhQUiUDdsR) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Quería Saber](https://open.spotify.com/album/6OxNP56RlMUykEo91pzx9y) | 4:49 | 2024-05-30 | 2024-10-04 |
 | [Quien encendió la luz](https://open.spotify.com/track/7uI0ZH9w4Fzldb0dj7gngZ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Quien encendió la luz](https://open.spotify.com/album/5195FGFR87Ixc9EjKwpbbu) | 3:26 | 2022-06-09 | 2022-10-15 |

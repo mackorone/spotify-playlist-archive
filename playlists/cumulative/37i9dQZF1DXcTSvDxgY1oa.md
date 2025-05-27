@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Bens
 
-217 songs - 11 hr 43 min
+219 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [CAPSAICINA](https://open.spotify.com/track/2eNEduHKEjdyD7uDhWGoa8) | [Eigen Risico](https://open.spotify.com/artist/11wm7DCgeKiysJPg0tpN2E) | [EIGEN RISICO 3](https://open.spotify.com/album/3elHSIIOjgCb8mYc3yZO65) | 3:12 | 2025-05-07 |  |
 | [Cemetery Caretaker](https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV) | [Mo Bedick](https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE) | [Whirligig](https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK) | 3:47 | 2024-07-01 | 2025-05-08 |
 | [Chasing The Wind \- Live At Wisseloord Studios](https://open.spotify.com/track/2BdkhNogmTSC1UUxO7VN0a) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ), [Bruno Balbi](https://open.spotify.com/artist/2Edxc92fberv14mI76DdXA) | [Chasing The Wind \(Live At Wisseloord Studios\)](https://open.spotify.com/album/71JCkAkP5XbURrUemowSTI) | 2:55 | 2024-09-16 | 2025-05-08 |
+| [Chew](https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm) | [Bad Luck Baby](https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn) | [Burn It](https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM) | 3:49 | 2025-05-26 |  |
 | [Chica Chica](https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP) | [Chica Chica](https://open.spotify.com/artist/24YYk80fvpykj3JxGIJMef) | [Chica Chica](https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS) | 3:54 | 2024-07-01 | 2025-05-08 |
 | [Christmas Song](https://open.spotify.com/track/2vd9Gcl2VTqA0pmhkLCHwd) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [English Silence](https://open.spotify.com/album/2qdOTZUPt0akgV5cW1iwqL) | 2:56 | 2024-10-21 | 2025-05-08 |
 | [CİN SODA](https://open.spotify.com/track/2GzyM29nYgdJOhfJHLA0sc) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [Partiyi Durdurun!](https://open.spotify.com/album/1HK4nensGYLHAAbUVUSX5k) | 3:25 | 2024-07-01 | 2024-10-22 |
@@ -114,7 +115,7 @@
 | [Judith Judith](https://open.spotify.com/track/6D19JQFTor3GaXKoRkQ11p) | [My Girlfriend](https://open.spotify.com/artist/2Qw9ThbCvZhVIBNSexO6I2) | [Judith Judith](https://open.spotify.com/album/0xNIOrJI537lnWQ0vXw9mj) | 3:39 | 2025-05-07 |  |
 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 | 2025-05-07 |  |
 | [Lastig](https://open.spotify.com/track/0sKlW9AFXlHAaxGSX2sfrc) | [Cataleya](https://open.spotify.com/artist/6cVGrSZhsRJZjcAY39yY38) | [Lastig](https://open.spotify.com/album/7xQYjJt2Ctibjl9lCi0Sa4) | 2:13 | 2024-07-01 | 2024-10-22 |
-| [Laura](https://open.spotify.com/track/0OY0Wl9fQzLkwhfK63CLxG) | [JUNO](https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z), [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [So Much More](https://open.spotify.com/album/3J3kXeccdDfbuSEJr2Zgft) | 3:45 | 2025-05-07 |  |
+| [Laura](https://open.spotify.com/track/0OY0Wl9fQzLkwhfK63CLxG) | [JUNO](https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z), [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [So Much More](https://open.spotify.com/album/3J3kXeccdDfbuSEJr2Zgft) | 3:45 | 2025-05-07 | 2025-05-27 |
 | [Learning To Live Without You](https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2) | [Nora Carli](https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD) | [Learning To Live Without You](https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt) | 3:23 | 2025-05-07 |  |
 | [Leave It](https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Leave It](https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04) | 4:08 | 2024-09-16 | 2025-05-08 |
 | [Liever Lui Dan Moe](https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5) | [Røyking](https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp) | [Liever Lui Dan Moe](https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU) | 2:30 | 2024-07-01 | 2025-05-08 |
@@ -127,7 +128,7 @@
 | [Mad About It](https://open.spotify.com/track/2T7nowCi5AVBsTmVU7bdJH) | [Jackie & The Facts](https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf) | [Mad About It](https://open.spotify.com/album/1cczf9zTFA283TWE5BDF9y) | 2:20 | 2025-05-07 |  |
 | [Made My Bed](https://open.spotify.com/track/61se2TEKS2myqja428hKjI) | [plonki](https://open.spotify.com/artist/34zf3havia33k7jVO7Na6g) | [Made My Bed](https://open.spotify.com/album/3rCsZcGjiyKBjsesMqtbok) | 3:30 | 2025-05-07 |  |
 | [Mama Dankjewel](https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Mama Dankjewel](https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC) | 2:50 | 2024-07-01 | 2024-10-22 |
-| [Martlet](https://open.spotify.com/track/4TcXdh7fhuBTIMrKB2s6c1) | [Bad Luck Baby](https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn) | [Martlet](https://open.spotify.com/album/07JgysGZKep4rdMuM3ojtB) | 3:29 | 2025-05-07 |  |
+| [Martlet](https://open.spotify.com/track/4TcXdh7fhuBTIMrKB2s6c1) | [Bad Luck Baby](https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn) | [Martlet](https://open.spotify.com/album/07JgysGZKep4rdMuM3ojtB) | 3:29 | 2025-05-07 | 2025-05-27 |
 | [Melanotan](https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L) | [Cardigan Inn](https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2) | [Melanotan \- Detonate](https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7) | 2:22 | 2024-07-01 | 2025-05-08 |
 | [Metaphor](https://open.spotify.com/track/0bOLYkauum1DwqHTQKyncC) | [Rockpool Dramas](https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq) | [Metaphor](https://open.spotify.com/album/6nkNsqeclDEQ5iHbyjL9j5) | 2:48 | 2025-05-07 |  |
 | [Miss Trutti Finally Found Her Gem](https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u) | [FAST DE](https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR) | [Sight Inside](https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra) | 3:36 | 2025-05-07 |  |
@@ -143,6 +144,7 @@
 | [Not Dead Yet](https://open.spotify.com/track/7sWUX5grGGuRRigr4VWeM5) | [ILÆNDER](https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z) | [Not Dead Yet](https://open.spotify.com/album/0JzGRklYd7C8nh7aTQa8m9) | 4:17 | 2025-05-07 |  |
 | [Not That Deep](https://open.spotify.com/track/3p9fESJ7NQuTymS0Qqclyc) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [Not That Deep](https://open.spotify.com/album/1i0Yk07fWVnBlOfnDmRdpn) | 3:35 | 2025-05-07 |  |
 | [O\-Ama](https://open.spotify.com/track/51UE2RCA3ocC5DAAIYL2yG) | [Esteble](https://open.spotify.com/artist/6XCUjUrPIwKX1GJWoKm5Zp), [Joram Feitsma](https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu) | [O\-Ama](https://open.spotify.com/album/71O6WEaBbQWg7ExBIAU5Ml) | 4:01 | 2025-05-07 |  |
+| [Odo](https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t) | [JUNO](https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z) | [Laura](https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ) | 4:11 | 2025-05-26 |  |
 | [Oh Baby Please](https://open.spotify.com/track/6SZlairyNEuEv03oZRdwu6) | [Laplander](https://open.spotify.com/artist/4zjkhcJpqrtUWrY71xZvk0) | [Oh Baby Please](https://open.spotify.com/album/5N5UWwnk0a1Dd6I1XpMEom) | 3:34 | 2025-05-07 |  |
 | [Old Town](https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2) | [Dreamer](https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk) | [All Is Me](https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR) | 3:14 | 2024-09-16 | 2025-05-08 |
 | [one heart](https://open.spotify.com/track/6Tda6aFGbjaTUNk0MQ5mNk) | [RÊVERIE](https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T) | [one heart](https://open.spotify.com/album/7KOy9BR0vPciTtbiWvx1M9) | 2:02 | 2024-07-01 | 2025-05-08 |

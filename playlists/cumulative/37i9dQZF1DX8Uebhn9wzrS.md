@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,325 songs - 3 day 16 hr 38 min
+2,326 songs - 3 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-04-15 | 2022-11-12 |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2023-11-17 | 2024-08-10 |
 | [Bulls Eye](https://open.spotify.com/track/5ciYeaDUtqtiLRoIKikPxV) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Bulls Eye](https://open.spotify.com/album/72Oi1D8ef7YOWtzbuNk12s) | 1:46 | 2024-03-22 |  |
+| [bummer](https://open.spotify.com/track/4hei4xNlaBpgPAEY8txn31) | [Løwkey](https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz) | [bummer](https://open.spotify.com/album/2uSMQfvDttng4fd4kpdfa4) | 2:07 | 2025-05-23 |  |
 | [Bunch Of Flowers](https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Bunch Of Flowers](https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5) | 1:52 | 2023-08-31 | 2024-10-08 |
 | [Buoyant Time](https://open.spotify.com/track/10ka1GxK5M8AJxzc21XzeW) | [Boukas](https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj), [Math\-Mic](https://open.spotify.com/artist/5ZtY0L9BEnWtTcPZyNVKV3), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Buoyant Time](https://open.spotify.com/album/2H553rKRXK4SBpXJvOxvC6) | 2:39 | 2022-07-01 | 2022-11-26 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 | 2024-08-31 |
@@ -367,7 +368,7 @@
 | [Chillin](https://open.spotify.com/track/4emXvNTk1TXMWTe2DiTl76) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Chillin](https://open.spotify.com/album/0IQf3XnXYJQOjTdDD0lRzW) | 2:09 | 2022-04-15 | 2022-10-01 |
 | [Chilling At The Coast](https://open.spotify.com/track/0ssJ7IIxKQlYmdzHaBB0J7) | [Basmati](https://open.spotify.com/artist/1OK2jT1iiO4d8D5qHnJzLB), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chilling At The Coast](https://open.spotify.com/album/3WW5usDqUd1x29TKAy2iqN) | 1:36 | 2022-07-08 | 2022-11-26 |
 | [Chillo](https://open.spotify.com/track/3upxkEVqTiQyqYo40oZOCN) | [Silk Banter](https://open.spotify.com/artist/5JeA63GyUToYLKPGI4zTKQ) | [Chillo](https://open.spotify.com/album/3e1ka7C4ojwbttA2OxV8st) | 2:31 | 2025-01-24 | 2025-03-15 |
-| [Chills](https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Chills](https://open.spotify.com/album/0UuN74Piht5BTS6wdq6UMm) | 2:13 | 2024-01-12 |  |
+| [Chills](https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Chills](https://open.spotify.com/album/0UuN74Piht5BTS6wdq6UMm) | 2:13 | 2024-01-12 | 2025-05-27 |
 | [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 | 2024-05-14 |
 | [Chino](https://open.spotify.com/track/6Xyj5BeU6yRXY0W8NOqxxQ) | [Pepe.](https://open.spotify.com/artist/1la8zkPQaD2MjeQB31y9j4), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Chino](https://open.spotify.com/album/6X8Rc9Rk6jmgJ762f5U0aN) | 3:09 | 2022-05-27 | 2022-11-12 |
 | [Cigarette Serenade](https://open.spotify.com/track/6Gw7WZdsCOhM5hr7JbTah9) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Midnight Cityscape](https://open.spotify.com/album/1uv4Aj6Lvid3x6bELOJ45h) | 1:49 | 2023-02-21 |  |

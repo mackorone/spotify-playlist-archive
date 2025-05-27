@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,251 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,257 likes - 98 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 97 | [The Best](https://open.spotify.com/track/56YAo97obzRit5RnOLQqsC) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [The Best](https://open.spotify.com/album/1tyOHGTBE9u62kfDcA9D8R) | 2:58 |
 | 98 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 
-Snapshot ID: `aC/y4AAAAACkPDx4v9957w8xw3lm1rZ7`
+Snapshot ID: `aC/y4AAAAADo7IOECaM8Rc0dyV7Lhd4L`

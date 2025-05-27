@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,203 songs - 18 day 17 hr 24 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,234 songs - 18 day 19 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7211,5 +7211,36 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7201 | [裏切りの夕焼け](https://open.spotify.com/track/3CmSagHUDDSpoMhn3tqvdR) | [THEATRE BROOK](https://open.spotify.com/artist/45mcHOr3FnakkF8oXLyhkr) | [裏切りの夕焼け](https://open.spotify.com/album/35hkp79Ri9SdFBUJ3zCmiL) | 3:28 |
 | 7202 | [Snow Fairy](https://open.spotify.com/track/2rYiDn8FjwBnBPtZDP8to3) | [FUNKIST](https://open.spotify.com/artist/5bsH582oaAKCAcPMkOP2Vu) | [Tv Anime "Fairy Tail" Op & Ed Theme Songs Vol\. 1](https://open.spotify.com/album/4lgdDGPZzQTQh33ebczu4Q) | 3:36 |
 | 7203 | [融雪\(Subscription Version\)](https://open.spotify.com/track/2jpf9HJMNHQKnSa2IT3YJL) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [融雪\(Subscription ver.\)](https://open.spotify.com/album/2BSGcykGdheSZNd5yAI5J6) | 4:02 |
+| 7204 | [Hard To Handle](https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 3:08 |
+| 7205 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
+| 7206 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
+| 7207 | [七色シンフォニー](https://open.spotify.com/track/3oJLF4CajKbrJSdxpXKXc8) | [COALAMODE.](https://open.spotify.com/artist/2BbazztW4wjJHFbtGdSzvP) | [COALAMODE．](https://open.spotify.com/album/6dQVUMfpLLmHJEiVGU8aZY) | 4:31 |
+| 7208 | [Romantic Lover](https://open.spotify.com/track/7s5VQqrjBtrBgZL4pEa46S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/04uOXDWUgZmTps35RqDBg4) | 1:26 |
+| 7209 | [Cocaine Sunday](https://open.spotify.com/track/5HzrX4aKVfb1NQCsaqf6R0) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Sensitive G](https://open.spotify.com/album/2nzPJxgiC7qfdYBBfJiHfj) | 2:48 |
+| 7210 | [Body Dysmorphia](https://open.spotify.com/track/3QVa3D6QaQy0b0foOAYDuy) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:05 |
+| 7211 | [Can I See You Tonight?](https://open.spotify.com/track/1cpmW4m6NVcAI33ZDEGwjZ) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/04uOXDWUgZmTps35RqDBg4) | 2:37 |
+| 7212 | [Fighting Gold](https://open.spotify.com/track/7mjio4U2J4q19ArbF9jI58) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [Fighting Gold](https://open.spotify.com/album/6NN3fciOweTHrNdMBYtW1g) | 4:13 |
+| 7213 | [Gone](https://open.spotify.com/track/6Aslruh5oCnzDKWTALrHOZ) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [VENA](https://open.spotify.com/album/0GC8hjVn9Jz5oEq9gFj9KV) | 4:12 |
+| 7214 | [MAYDAY \(feat\. Ryo from Crystal Lake\)](https://open.spotify.com/track/2wJJNgD6GrKoQ435VxTRv6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [Ryo](https://open.spotify.com/artist/3krgsgh3jIRarpbhVP0nUY) | [THE SIDE EFFECTS](https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e) | 3:47 |
+| 7215 | [Gohotekitobikatanosusume](https://open.spotify.com/track/0cLUVjdaZAdouPRhXMTC1h) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [INDIES COMPLETE](https://open.spotify.com/album/3SB17QmsAB1BquwIHOsaJA) | 4:00 |
+| 7216 | [のびしろ](https://open.spotify.com/track/3bbIIVIwBoLqVcLebiEJFo) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Case](https://open.spotify.com/album/0IvA5XFjp5QAxBPgfPaEYG) | 3:56 |
+| 7217 | [Joendanyusho](https://open.spotify.com/track/0xY7a4jEFVizkl6xvI8xaH) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [INDIES COMPLETE](https://open.spotify.com/album/3SB17QmsAB1BquwIHOsaJA) | 3:59 |
+| 7218 | [ばかまじめ](https://open.spotify.com/track/7FiTlLKW0Knj8rm7lMa9N7) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [アンサンブル・プレイ](https://open.spotify.com/album/0umDAVn3Zr250pR0NA9FFI) | 2:52 |
+| 7219 | [オトノケ \- Otonoke](https://open.spotify.com/track/185mDjE865QpjA4MtzAzgs) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [LEGION](https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw) | 3:06 |
+| 7220 | [ロスタイム](https://open.spotify.com/track/1O4JEMG1V06Lmkw8JQMY52) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [アンサンブル・プレイ](https://open.spotify.com/album/0umDAVn3Zr250pR0NA9FFI) | 3:39 |
+| 7221 | [パッと咲いて散って灰に](https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [パッと咲いて散って灰に](https://open.spotify.com/album/0ZLf6eXoTxUWN5iXIr0hhI) | 2:43 |
+| 7222 | [よふかしのうた](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 |
+| 7223 | [生業](https://open.spotify.com/track/58KGAtwfY66hOMKJdK51Le) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 3:52 |
+| 7224 | [Omae Wa Mou](https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf) | 1:53 |
+| 7225 | [STEP by STEP UP↑↑↑↑](https://open.spotify.com/track/7zuR4IKOOpdshNwmJyEc1u) | [fourfolium](https://open.spotify.com/artist/2RVXdOnRln5sL4z5wU6Sok) | [ひげこれ! HIGEDRIVER BEST in KADOKAWA ANISON](https://open.spotify.com/album/7f6XRbYMJSYFDEuyGZdXl2) | 4:11 |
+| 7226 | [SAKURAスキップ](https://open.spotify.com/track/6Sw8Gz8sWdb5x7OVKKHYMq) | [fourfolium](https://open.spotify.com/artist/2RVXdOnRln5sL4z5wU6Sok) | [TVアニメ「NEW GAME!」オープニングテーマ「SAKURAスキップ」](https://open.spotify.com/album/0va9B3Khr9HCgcPAp3i2uH) | 3:52 |
+| 7227 | [Ketsuro](https://open.spotify.com/track/5HOoXPkuxLmZP1HdWsffVr) | [Rina Katahira](https://open.spotify.com/artist/2e8owTBZutgOq6uUnVTURB) | [Ai no Sei](https://open.spotify.com/album/0PsZH8AbKyHuyUkPcLz2oX) | 4:45 |
+| 7228 | [Remember Summer Days](https://open.spotify.com/track/3JrTNNBIb5PDNya0idocMw) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 4:49 |
+| 7229 | [NEON 1989](https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 2:26 |
+| 7230 | [Cherries Jubiles](https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:05 |
+| 7231 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 |
+| 7232 | [NEON](https://open.spotify.com/track/5dF22XUGeNAR3GBhMgshgp) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [NEON](https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD) | 3:40 |
+| 7233 | [Lovemonth](https://open.spotify.com/track/5KnAca7g0lgwzCNA64WE9d) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Lovemonth](https://open.spotify.com/album/1aeo0A7JVTHNQtplMOORRk) | 3:33 |
+| 7234 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 |
 
-Snapshot ID: `AAAGnComTMGTGWcmJd9CjFE2Jh/IsOpd`
+Snapshot ID: `AAAG1qVu6CcgEpOcbYCXEDyW7z5/MaHB`

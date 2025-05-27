@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 247173,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196249,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4"
+    },
+    {
+      "album": {
         "name": "Favorite Things",
         "url": "https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z"
       },
@@ -2940,7 +2958,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 155091,
       "name": "kiss",
       "url": "https://open.spotify.com/track/46uCTQbtKT3k8zCYG46AdV"
@@ -4832,7 +4850,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 153831,
       "name": "Reuben",
       "url": "https://open.spotify.com/track/3Y51ddb8xmMxDKCWHZa13h"
@@ -6224,7 +6242,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
@@ -6438,7 +6456,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 171251,
       "name": "Wherever",
       "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
@@ -6478,6 +6496,24 @@
       "duration_ms": 176000,
       "name": "Why",
       "url": "https://open.spotify.com/track/7vXz27gbT8KncfeS2yjNnI"
+    },
+    {
+      "album": {
+        "name": "Why Do You",
+        "url": "https://open.spotify.com/album/15D7XrZAttyczG9A1ObIlh"
+      },
+      "artists": [
+        {
+          "name": "16",
+          "url": "https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Why Do You",
+      "url": "https://open.spotify.com/track/0jZAXYV64prJIk004FifI1"
     },
     {
       "album": {
@@ -6744,6 +6780,24 @@
       "duration_ms": 188325,
       "name": "zigzag (feat. Dawon)",
       "url": "https://open.spotify.com/track/5GYwkAqLzyLNYMIa7zyQ6B"
+    },
+    {
+      "album": {
+        "name": "\uadf8\uac8c \uadf8\ub807\uac8c \uc798\ubabb\uc778\uac00",
+        "url": "https://open.spotify.com/album/41S5fV0UKBmzD14eRHADPs"
+      },
+      "artists": [
+        {
+          "name": "Terry",
+          "url": "https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169737,
+      "name": "\uadf8\uac8c \uadf8\ub807\uac8c \uc798\ubabb\uc778\uac00",
+      "url": "https://open.spotify.com/track/42EXD9JX1ltMXQogRpkcYS"
     },
     {
       "album": {

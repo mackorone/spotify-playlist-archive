@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jenzen Guino
 
-391 songs - 1 day 0 hr 32 min
+392 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Kalul’wa](https://open.spotify.com/track/0h8VHbUeVsIaCKlPLIhYDE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Kalul’wa](https://open.spotify.com/album/7FGbcJcmn2tXjuaYaoW5BN) | 3:11 | 2025-03-28 |  |
 | [KAMEHAMEHA](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 | 2024-09-27 | 2024-12-17 |
 | [Kandarapa](https://open.spotify.com/track/6nHOthPB3o6MCXNZ0Fa6ta) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Method Adaptor](https://open.spotify.com/album/7hsFUqyMvYNWcjMLfi1oUp) | 4:15 | 2024-11-08 | 2025-02-01 |
+| [Kape](https://open.spotify.com/track/3GeVvV5HZGJh57wz9CS5ZF) | [Destiny Palisoc](https://open.spotify.com/artist/5pEHj8qSCc3G2S5mXZWoWj) | [Kape](https://open.spotify.com/album/6zxSfy6cYswUt1TpOcJ49e) | 3:19 | 2025-05-26 |  |
 | [Kape](https://open.spotify.com/track/4yaIMZ86wsyni0V9b8p52v) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Kape](https://open.spotify.com/album/3MpVBleiTg2fGZ9cvXRaRq) | 4:33 | 2025-05-05 |  |
 | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT), [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X) | 4:13 | 2024-08-16 | 2024-11-21 |
 | [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2024-07-02 | 2024-07-19 |

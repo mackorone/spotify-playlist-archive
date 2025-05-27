@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-537 songs - 1 day 6 hr 5 min
+538 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 | 2024-01-04 | 2024-04-19 |
 | [Kabhi Kabhi Zindagi](https://open.spotify.com/track/68SwtkJRPhtlZBzXaV4jrZ) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Shailendra Barve](https://open.spotify.com/artist/0sjbD7Avb0d3C74ymZA4hg), [Vijay Maurya](https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX) | [Mast Mein Rehne Ka](https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf) | 4:55 | 2023-12-15 | 2024-01-20 |
 | [Kabool](https://open.spotify.com/track/1nCYcGugNhfWztL1MTqelr) | [Jazz Thind](https://open.spotify.com/artist/7xkj57i87hLRoWTYqDiZap) | [Kabool](https://open.spotify.com/album/5oDBQrHneBQksa226QWfeS) | 3:36 | 2024-02-23 | 2024-04-03 |
+| [Kahaan Hain Hum](https://open.spotify.com/track/2cGJlZX7Z1SOHcMf1qEp6g) | [Arunansh Bhatt](https://open.spotify.com/artist/5PvSbUa901qV2eQuZAFcBG) | [Kahaan Hain Hum](https://open.spotify.com/album/324mC5qMPVhDoh3JZeSUGn) | 3:44 | 2025-05-26 |  |
 | [Kahaani](https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Kahaani](https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5) | 3:35 | 2023-05-17 | 2023-06-16 |
 | [Kahan Hai Tu](https://open.spotify.com/track/1ZQE1e66GtpKKrU5ducFwo) | [Tejas Chheda](https://open.spotify.com/artist/5qWwPZIux8vlQiQNwNxCLd), [Pratyay Mishra](https://open.spotify.com/artist/2IXMw0AoPJqaO18VtZZNVG) | [Kahan Hai Tu](https://open.spotify.com/album/29M6TBgJ42RilK3mQkB7np) | 4:06 | 2023-05-17 | 2023-05-23 |
 | [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 | 2024-02-05 | 2024-05-18 |
@@ -437,7 +438,7 @@
 | [Tabeer](https://open.spotify.com/track/3JFEpoKGheoQ5EOrNJ1nJn) | [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7), [Venoz](https://open.spotify.com/artist/6Iz3kCYTtL1cfBdwMo8gIm), [Mark Bhatia](https://open.spotify.com/artist/5EwNqXdDHTI6Z9qcW4V676) | [Tabeer](https://open.spotify.com/album/1EuCJuNXvzBsXdO1zgkVIw) | 3:54 | 2024-02-05 | 2024-03-13 |
 | [Tanhai](https://open.spotify.com/track/0sfw4y1AaYpbL2jkbi1fAu) | [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ), [Nivi](https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 4:51 | 2023-09-26 | 2023-09-27 |
 | [Tanhai](https://open.spotify.com/track/6saOfBsCPh4D4gb2dk226w) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Kiran + Nivi](https://open.spotify.com/artist/6MB38cbBCtoUoLWf8U22Ub) | [Khufiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b) | 4:51 | 2023-09-26 | 2023-11-25 |
-| [Taranay](https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Taranay](https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V) | 3:49 | 2025-02-14 |  |
+| [Taranay](https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Taranay](https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V) | 3:49 | 2025-02-14 | 2025-05-27 |
 | [Tasveer](https://open.spotify.com/track/1yXjnMoQ0efLuS9ITfLIJ1) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Tasveer](https://open.spotify.com/album/3cs4twaHMoreHZ2ci9DkmQ) | 3:14 | 2024-04-24 | 2024-08-28 |
 | [Tasweer](https://open.spotify.com/track/1DVZdAQcO55X638XYaphEr) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Tasweer](https://open.spotify.com/album/2roCoXtU0n2OKlv3Mc4wP2) | 3:10 | 2025-04-14 |  |
 | [Tauba Tauba \- Reply Version](https://open.spotify.com/track/6QuvG0gL7S0XlTVvjGLly1) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx) | [Tauba Tauba \- Reply Version](https://open.spotify.com/album/68fer3E93D3XdzbHFdq3af) | 1:47 | 2024-07-22 | 2024-08-15 |

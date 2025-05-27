@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Homecoming
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,618 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,602 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [VEGAS](https://open.spotify.com/track/3Y7vNBNQuMV2fkX7LHguW7) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [VEGAS](https://open.spotify.com/album/3WB7YTMJOYnop4wXww48Yi) | 2:08 |
 | 100 | [DON’T FRET, IT’S ALRIGHT](https://open.spotify.com/track/5rWcrNzJaUj0FXnA63EwE6) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [DON’T FRET, IT’S ALRIGHT](https://open.spotify.com/album/1CQAERogPoG7rc3wlHCfQG) | 2:45 |
 
-Snapshot ID: `aDAWbQAAAAABKijDteDX2QAmSKog8OXv`
+Snapshot ID: `AAAAAJ4rAbLh5sKHhNxhw+SVX3JQDwtA`

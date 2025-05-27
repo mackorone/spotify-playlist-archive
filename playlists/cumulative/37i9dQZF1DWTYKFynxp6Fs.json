@@ -505,6 +505,32 @@
     },
     {
       "album": {
+        "name": "Hope Song (From \"Sarkeet\")",
+        "url": "https://open.spotify.com/album/3tVFNHqPaP67LmLbxL5eXc"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Hope Song - From \"Sarkeet\"",
+      "url": "https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG"
+    },
+    {
+      "album": {
         "name": "Illuminati (From \"Aavesham\")",
         "url": "https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE"
       },
@@ -1532,7 +1558,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 179236,
       "name": "Sthuthi (From \"Bougainvillea\")",
       "url": "https://open.spotify.com/track/3ISVxEn74F0nBrO7vEnou8"

@@ -1063,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Backdoor",
+        "url": "https://open.spotify.com/album/0oTpLBc7LZFiASLq70BFGi"
+      },
+      "artists": [
+        {
+          "name": "Slowmo Friends",
+          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133141,
+      "name": "Backdoor",
+      "url": "https://open.spotify.com/track/76siJBpv5Sb2yF84wqUzuX"
+    },
+    {
+      "album": {
         "name": "Baia Del Sole",
         "url": "https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG"
       },
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 142986,
       "name": "Brief",
       "url": "https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ"
@@ -12245,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/7oOB0DclNP1X1RlB6sAg9H"
+      },
+      "artists": [
+        {
+          "name": "parrow",
+          "url": "https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/6RhodMmbSobhEnz195osWL"
+    },
+    {
+      "album": {
         "name": "Pink Soda",
         "url": "https://open.spotify.com/album/4H09JXtQEzll5guGsSP2Vt"
       },
@@ -13098,7 +13134,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 127571,
       "name": "reaching",
       "url": "https://open.spotify.com/track/2HbDUPOSjGfxSEnSqM42P2"

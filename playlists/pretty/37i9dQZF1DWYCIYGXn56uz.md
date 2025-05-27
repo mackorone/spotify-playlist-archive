@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: TrigNO
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,329 likes - 110 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,338 likes - 110 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 |
-| 2 | [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 |
-| 3 | [D'amore non si muore](https://open.spotify.com/track/2KxLV7rbtwgjaSFvCcNiBj) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [D'amore non si muore](https://open.spotify.com/album/1nhEBKzC3gg5K230u21Bae) | 2:45 |
-| 4 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 |
-| 5 | [Popolare](https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Popolare](https://open.spotify.com/album/395qqtbnGrzuSND5MwXwfa) | 2:25 |
-| 6 | [LUNA ROSSA](https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [TOCCA IL CIELO](https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv) | 2:40 |
-| 7 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
-| 8 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
+| 2 | [D'amore non si muore](https://open.spotify.com/track/2KxLV7rbtwgjaSFvCcNiBj) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [D'amore non si muore](https://open.spotify.com/album/1nhEBKzC3gg5K230u21Bae) | 2:45 |
+| 3 | [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 |
+| 4 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
+| 5 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 |
+| 6 | [Popolare](https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Popolare](https://open.spotify.com/album/395qqtbnGrzuSND5MwXwfa) | 2:25 |
+| 7 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
+| 8 | [AVARIA](https://open.spotify.com/track/3TCNn1KYzlLpqgcjPXjhEb) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [AVARIA](https://open.spotify.com/album/0oo1Iwg44QoG9DkzxfzBkF) | 2:12 |
 | 9 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
-| 10 | [Pillole & Cucchiai](https://open.spotify.com/track/2JEc68Udh2oqlE5BzLfpVU) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Pillole & Cucchiai](https://open.spotify.com/album/51gampjFBAPeeXNbIKcxXr) | 2:28 |
-| 11 | [GOOGLEAMORE](https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Le ragazze della valle](https://open.spotify.com/album/1DcCElVfBLCCdQSdqnZHcc) | 2:38 |
+| 10 | [LUNA ROSSA](https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [TOCCA IL CIELO](https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv) | 2:40 |
+| 11 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
 | 12 | [Sempre peggio](https://open.spotify.com/track/2u6cZIiXloUPhWFLPOpfOw) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Sempre peggio](https://open.spotify.com/album/4iVXGqLvOgy41ZqQu0DFzE) | 2:37 |
 | 13 | [fino all'osso](https://open.spotify.com/track/2VxBf9LFI9teQEhoStCoTW) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [fino all'osso](https://open.spotify.com/album/2KusRlqPHfelDbQLTwfaV5) | 3:06 |
-| 14 | [TOKYO NITE](https://open.spotify.com/track/5GZ9VotByQKfmDQb8vdlsA) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [TOKYO NITE](https://open.spotify.com/album/7effDZdob16NjCWTpyO4ZP) | 2:38 |
-| 15 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
-| 16 | [100 Sigarette](https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [100 Sigarette](https://open.spotify.com/album/0n8xLvt6AOl4SDppXjgBXC) | 3:01 |
-| 17 | [AVARIA](https://open.spotify.com/track/3TCNn1KYzlLpqgcjPXjhEb) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [AVARIA](https://open.spotify.com/album/0oo1Iwg44QoG9DkzxfzBkF) | 2:12 |
+| 14 | [Pillole & Cucchiai](https://open.spotify.com/track/2JEc68Udh2oqlE5BzLfpVU) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Pillole & Cucchiai](https://open.spotify.com/album/51gampjFBAPeeXNbIKcxXr) | 2:28 |
+| 15 | [GOOGLEAMORE](https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Le ragazze della valle](https://open.spotify.com/album/1DcCElVfBLCCdQSdqnZHcc) | 2:38 |
+| 16 | [TOKYO NITE](https://open.spotify.com/track/5GZ9VotByQKfmDQb8vdlsA) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [TOKYO NITE](https://open.spotify.com/album/7effDZdob16NjCWTpyO4ZP) | 2:38 |
+| 17 | [100 Sigarette](https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [100 Sigarette](https://open.spotify.com/album/0n8xLvt6AOl4SDppXjgBXC) | 3:01 |
 | 18 | [corsica](https://open.spotify.com/track/44VwGR0gB3U8hhwWYfeEg1) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [corsica](https://open.spotify.com/album/3bKmJpODyx76qlNlM34puj) | 2:30 |
 | 19 | [POSTO X ME](https://open.spotify.com/track/0g402NoPArRmfR4ASkSQNP) | [SCICCHI](https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639) | [POSTO X ME](https://open.spotify.com/album/6ea7xnQNhwbZXliBDV48dY) | 2:39 |
 | 20 | [FREE DRINK](https://open.spotify.com/track/0hB4HPrTepiK4cKruwqhgS) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [FREE DRINK](https://open.spotify.com/album/67riaCXFkbWcPtyUh1oAkS) | 2:38 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 109 | [MURAKAMI](https://open.spotify.com/track/3fLX9nZsAAuJxGj2Y2l3c3) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr) | [MURAKAMI](https://open.spotify.com/album/4cjQ6H3fonKcVG8MOri03D) | 3:11 |
 | 110 | [NISCIUN MAJE](https://open.spotify.com/track/75Kc10jLJPyHWdjH4k61rP) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [NISCIUN MAJE](https://open.spotify.com/album/1VqjRPngzUlFFtAia261PM) | 2:40 |
 
-Snapshot ID: `aC+erQAAAACteJBd6SExvBw4Ksu6jbr5`
+Snapshot ID: `aDQoygAAAABxS/zXWIETSTgdvNtEcT+p`

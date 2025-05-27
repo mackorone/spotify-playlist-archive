@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,145 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,193 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 99 | [Wind Of Change](https://open.spotify.com/track/6gcLWOfz1ycd6zpNXJPvSw) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Wind Of Change](https://open.spotify.com/album/7xDCfZ6ZV6K87kR3MJvlLE) | 3:46 |
 | 100 | [Love You Like A Love Song](https://open.spotify.com/track/0lDtYpVLkckZqbNaztMiRO) | [Anika](https://open.spotify.com/artist/0ByXP3asBR2dISiGEl2Mcx) | [Love You Like A Love Song](https://open.spotify.com/album/1cIdTmA8D8v9pVJWHyrua0) | 2:02 |
 
-Snapshot ID: `aC+eigAAAABfZwpzyBjIQbqlOQFDY6DH`
+Snapshot ID: `AAAAAH8IDgCg2uy5bQiQZUFYQFAchK0J`

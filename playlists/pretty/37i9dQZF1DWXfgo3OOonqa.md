@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,238 likes - 118 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,252 likes - 118 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [00:42](https://open.spotify.com/track/2UAPfh7Iwcz2a8P5qmXxpn) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [00:42](https://open.spotify.com/album/1FYKCczUjRwsavPxIYST4c) | 2:00 |
-| 2 | [Allt Ja Sagt](https://open.spotify.com/track/0wTMnyphTnhWvs92czXhL2) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Allt Ja Sagt](https://open.spotify.com/album/7E3onZZyusR6FhduyhiyFB) | 2:16 |
-| 3 | [Bad Bunny](https://open.spotify.com/track/5MssSbOHsF0nGCj9tttufS) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Bad Bunny](https://open.spotify.com/album/4VTI0uQI2V4w1NpMpGyZ31) | 2:56 |
-| 4 | [DÄR FÖR MIG](https://open.spotify.com/track/2M92LSUxeYDRIAD1lyphzo) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DÄR FÖR MIG](https://open.spotify.com/album/0CqUH2J0iqAYXcTAkF3hYA) | 1:52 |
-| 5 | [AMSTERDAM](https://open.spotify.com/track/1kH8GGDj8UFLx7UoDZDeEy) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [AMSTERDAM](https://open.spotify.com/album/4edAV3LleI1OX0w04NzcPF) | 2:10 |
-| 6 | [Aktiv](https://open.spotify.com/track/2QCYJLzM6FJMPwBw9JcgFp) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [Aktiv](https://open.spotify.com/album/6qLUeiPU7lubELgsJMb9ff) | 2:03 |
+| 2 | [DÄR FÖR MIG](https://open.spotify.com/track/2M92LSUxeYDRIAD1lyphzo) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DÄR FÖR MIG](https://open.spotify.com/album/0CqUH2J0iqAYXcTAkF3hYA) | 1:52 |
+| 3 | [Aktiv](https://open.spotify.com/track/2QCYJLzM6FJMPwBw9JcgFp) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [Aktiv](https://open.spotify.com/album/6qLUeiPU7lubELgsJMb9ff) | 2:03 |
+| 4 | [Allt Ja Sagt](https://open.spotify.com/track/0wTMnyphTnhWvs92czXhL2) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Allt Ja Sagt](https://open.spotify.com/album/7E3onZZyusR6FhduyhiyFB) | 2:16 |
+| 5 | [Bad Bunny](https://open.spotify.com/track/5MssSbOHsF0nGCj9tttufS) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Bad Bunny](https://open.spotify.com/album/4VTI0uQI2V4w1NpMpGyZ31) | 2:56 |
+| 6 | [AMSTERDAM](https://open.spotify.com/track/1kH8GGDj8UFLx7UoDZDeEy) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [AMSTERDAM](https://open.spotify.com/album/4edAV3LleI1OX0w04NzcPF) | 2:10 |
 | 7 | [Med oss](https://open.spotify.com/track/3t0TkJynelNUERIUw2X9qt) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Med oss](https://open.spotify.com/album/5wkrS2tvFNMCTbPVkUE6YY) | 2:04 |
-| 8 | [Falla för dig \(Tusen gånger om\)](https://open.spotify.com/track/3jM0VjJqcQSqK9pufAxd8m) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Falla för dig \(Tusen gånger om\)](https://open.spotify.com/album/6n18hD4kYV5NuCF5lVKl0D) | 2:22 |
-| 9 | [Ta Sin Tid](https://open.spotify.com/track/5Q9zmEhDEeR1XWiwQoS9mc) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H), [adreyndabeat](https://open.spotify.com/artist/6aBcwZ6WcoxAhWPVD9Nzsi) | [Ta Sin Tid](https://open.spotify.com/album/5GI9gDqtrGOmPzpDswHPI1) | 2:06 |
-| 10 | [Don't You Cry](https://open.spotify.com/track/4BZ2Gjl3ZDRMRVqF2pUAQa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 1:55 |
-| 11 | [Karaktär](https://open.spotify.com/track/4YDXrRFvVN4iuFObt40sdW) | [Monty](https://open.spotify.com/artist/7qhY3bHnn4DRjCAqJz3CSl), [S.T](https://open.spotify.com/artist/5997IALokFdMdLd1cPxzAD) | [Karaktär](https://open.spotify.com/album/7h2uLowAgr3hJqTtg8hp2U) | 2:31 |
+| 8 | [Ta Sin Tid](https://open.spotify.com/track/5Q9zmEhDEeR1XWiwQoS9mc) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H), [adreyndabeat](https://open.spotify.com/artist/6aBcwZ6WcoxAhWPVD9Nzsi) | [Ta Sin Tid](https://open.spotify.com/album/5GI9gDqtrGOmPzpDswHPI1) | 2:06 |
+| 9 | [Don't You Cry](https://open.spotify.com/track/4BZ2Gjl3ZDRMRVqF2pUAQa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 1:55 |
+| 10 | [Karaktär](https://open.spotify.com/track/4YDXrRFvVN4iuFObt40sdW) | [Monty](https://open.spotify.com/artist/7qhY3bHnn4DRjCAqJz3CSl), [S.T](https://open.spotify.com/artist/5997IALokFdMdLd1cPxzAD) | [Karaktär](https://open.spotify.com/album/7h2uLowAgr3hJqTtg8hp2U) | 2:31 |
+| 11 | [Falla för dig \(Tusen gånger om\)](https://open.spotify.com/track/3jM0VjJqcQSqK9pufAxd8m) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Falla för dig \(Tusen gånger om\)](https://open.spotify.com/album/6n18hD4kYV5NuCF5lVKl0D) | 2:22 |
 | 12 | [OBAMA](https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [OBAMA](https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp) | 2:10 |
 | 13 | [BANDOLEROS](https://open.spotify.com/track/37FSOHgXzcwqXjVB6OsxfQ) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [BANDOLEROS](https://open.spotify.com/album/02oGO5FGxNxTp915NL9j8W) | 2:26 |
 | 14 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 117 | [DETALJER](https://open.spotify.com/track/5fg3f9ojTu4CHavGWX92nH) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DETALJER](https://open.spotify.com/album/5gI0YUlhTaLOeTXh5qHcFF) | 2:13 |
 | 118 | [BPM](https://open.spotify.com/track/15sM0nXG6YhJ1G9H0AFsQY) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [BPM](https://open.spotify.com/album/4YUuZVgUjm7qNBpM6jF2hQ) | 3:03 |
 
-Snapshot ID: `aDAjdAAAAADhJm8lhkKje1s/NMjr25Y8`
+Snapshot ID: `aDQxtwAAAACCIgGTIcUVletBofmAvMiW`

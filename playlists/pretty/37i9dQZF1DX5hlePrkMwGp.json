@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 161622,
+  "num_followers": 161706,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Zero (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Uyire Un Uyirena",
+      "url": "https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 101133,
       "name": "Un Paarvayil",
       "url": "https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Zero (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Uyire Un Uyirena",
-      "url": "https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -995,26 +995,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Kaaki Sattai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4cn4bQCAZxOQSzSixRRYGb"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sivakarthikeyan",
-          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
-        }
-      ],
-      "duration_ms": 229431,
-      "name": "I'm so Cool",
-      "url": "https://open.spotify.com/track/1q5HD0cyUCbM0s4hQgbtN0"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Kaththi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 304923,
       "name": "Aathi (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Kaaki Sattai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4cn4bQCAZxOQSzSixRRYGb"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sivakarthikeyan",
+          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
+        }
+      ],
+      "duration_ms": 229431,
+      "name": "I'm so Cool",
+      "url": "https://open.spotify.com/track/1q5HD0cyUCbM0s4hQgbtN0"
     }
   ],
   "unique_name": "Romantic Anirudh",

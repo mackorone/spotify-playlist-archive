@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Frenna, LUNA, Karol G en Eefje de Visser
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,823 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,821 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [Miracle](https://open.spotify.com/track/7c10abZ9Gihc9vkJB3ltcw) | [Mufaro](https://open.spotify.com/artist/6rCjN8curntY3lqk8cLnlU) | [Miracle](https://open.spotify.com/album/75py98XUnmDtwZZCQdAfTj) | 2:49 |
 | 101 | [Stad Van Glas](https://open.spotify.com/track/7KIghh1w3H3a6W26pD5FlO) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Stad van Glas](https://open.spotify.com/album/1zMs5mM33RFD3j1GZz0UUG) | 3:08 |
 
-Snapshot ID: `aC+eigAAAABur/c9N3VzY5tx4i0kVqtB`
+Snapshot ID: `aDQeRwAAAAD+etunu0sQALqPa1m8xRFf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Burna Boy & Travis Scott, Myles Smith, Lauren Spencer Smith, KAROL G, Jutes and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,654 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,687 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

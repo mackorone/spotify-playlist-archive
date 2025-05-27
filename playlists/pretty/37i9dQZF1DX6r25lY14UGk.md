@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Teeny Tiny Stevies
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,259 likes - 142 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,306 likes - 142 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 141 | [Funky Dance Party](https://open.spotify.com/track/77A0iynk04xduAhoKlzfp9) | [Ollie Octopus](https://open.spotify.com/artist/58H7eRtIkHTl4PIzQ98cBf) | [Funky Dance Party](https://open.spotify.com/album/48hdRiMIlisq7KUtODUhLy) | 2:16 |
 | 142 | [Let's Go Fly a Kite](https://open.spotify.com/track/6INp5m6Ppde1EN22XXeZjy) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Let's Go Fly a Kite](https://open.spotify.com/album/1ECsmmVic7JtILMS6HW4Cy) | 2:35 |
 
-Snapshot ID: `aC/7VgAAAADU98hpxaT3th3VzungimyJ`
+Snapshot ID: `aC/7VgAAAACoRV4FXFwRRMP0VEyi0kF6`

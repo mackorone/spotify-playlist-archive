@@ -19506,7 +19506,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 198981,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/5pz8mfdtHwSUB2wzZakll5"
@@ -19672,7 +19672,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 146880,
       "name": "Lion's Roar (From \"Max\") (Kannada)",
       "url": "https://open.spotify.com/track/3fYtnQP9CgiaT3JRfw4PCJ"
@@ -24399,6 +24399,28 @@
     },
     {
       "album": {
+        "name": "Nam College Kalavidano (From \"College Kalaavida\")",
+        "url": "https://open.spotify.com/album/4QWaEzIOafOHqYQ9pUrG61"
+      },
+      "artists": [
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Sanjay Malavalli",
+          "url": "https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222174,
+      "name": "Nam College Kalavidano (From \"College Kalaavida\")",
+      "url": "https://open.spotify.com/track/6x8kncAWtnmlqGAYldMErd"
+    },
+    {
+      "album": {
         "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
         "url": "https://open.spotify.com/album/74KxoC4rTK2c8ELTvUoO1l"
       },
@@ -28646,6 +28668,32 @@
       "duration_ms": 280291,
       "name": "Oho Hrudaya (From \"Avanirabekittu\")",
       "url": "https://open.spotify.com/track/6G1WsITUBKOQcRtUAaGLlk"
+    },
+    {
+      "album": {
+        "name": "OK Bro (From \"Edagaiye Apaghatakke Karana\")",
+        "url": "https://open.spotify.com/album/7u0WlapWE8KxvZgjnQ8Ztb"
+      },
+      "artists": [
+        {
+          "name": "Praddyottan",
+          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Neill Braganza",
+          "url": "https://open.spotify.com/artist/2Xg8BkIIEt1ENabiCI88e8"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280800,
+      "name": "OK Bro (From \"Edagaiye Apaghatakke Karana\")",
+      "url": "https://open.spotify.com/track/1cgxPIfb6AfHbwvg91c8PT"
     },
     {
       "album": {

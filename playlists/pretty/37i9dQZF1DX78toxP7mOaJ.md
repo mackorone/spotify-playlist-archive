@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,407 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,414 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Kare Wa](https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [Kare Wa](https://open.spotify.com/album/3W2wZ6EndBoSfAjOY5EsNk) | 4:33 |
 | 100 | [Guess I Started A Band](https://open.spotify.com/track/5b6SFVo3BZnCtZS1Ny7w9V) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Guess I Started A Band](https://open.spotify.com/album/18zDQjkUhn4UiZfALGvwKe) | 2:33 |
 
-Snapshot ID: `AAAAALVQlD8iqI/58iEE1om2GBacqW0z`
+Snapshot ID: `aC1P2QAAAABMm9disxPFqV8iIMXf7Rvc`

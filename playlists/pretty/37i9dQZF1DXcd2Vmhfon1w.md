@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Foyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,702 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,690 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RAPSINCORTE 53](https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [RAPSINCORTE 53](https://open.spotify.com/album/4HK1IM9sdMFpNY7YaPr8Dh) | 2:09 |
-| 2 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
-| 3 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
-| 4 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
+| 1 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
+| 2 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
+| 3 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
+| 4 | [RAPSINCORTE 53](https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [RAPSINCORTE 53](https://open.spotify.com/album/4HK1IM9sdMFpNY7YaPr8Dh) | 2:09 |
 | 5 | [CADENAS](https://open.spotify.com/track/1ZHmlo3B4q8fxtSWoMcAum) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [CADENAS](https://open.spotify.com/album/692W4fGKUrRQ8IoiY7hZxo) | 2:53 |
-| 6 | [Fotos Pliego](https://open.spotify.com/track/3YvHXXBxW0wXf0IThx9BIy) | [Sosad](https://open.spotify.com/artist/1ozak2yMgoDrtWJrMVjXXn) | [Fotos Pliego](https://open.spotify.com/album/5oIOodjHbN7WqZN9YYbQCb) | 2:40 |
+| 6 | [Fotos Pliego](https://open.spotify.com/track/3YvHXXBxW0wXf0IThx9BIy) | [Sosad](https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w) | [Fotos Pliego](https://open.spotify.com/album/5oIOodjHbN7WqZN9YYbQCb) | 2:40 |
 | 7 | [OUTRO \(Transition\)](https://open.spotify.com/track/2IDNS1uUf0jfSAPthpRmUa) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [OUTRO \(Transition\)](https://open.spotify.com/album/5oz4vFEtuwOSzrrYOy7oV8) | 2:37 |
 | 8 | [Barzeló](https://open.spotify.com/track/0Jsgj7GfuheJ71MMAlukWn) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6) | [Barzeló](https://open.spotify.com/album/0eTSCHBqausAV2iWuk2jn0) | 2:25 |
 | 9 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [EL RÍO DE LA VIDA](https://open.spotify.com/track/6gqDDvg3P3f9wC9jcbzdiv) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [EL RÍO DE LA VIDA](https://open.spotify.com/album/1sRyGmksDBEHerCXLLEBQv) | 5:43 |
 | 50 | [Me Quieren Y Me Odian](https://open.spotify.com/track/6NoijA2nxbcQTtvnVgFDQW) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [NeURO](https://open.spotify.com/artist/1dwEsns205j4fqya0jZNq7) | [Me Quieren Y Me Odian](https://open.spotify.com/album/5R7Mggy6U4OZwT8Oy79qdg) | 2:32 |
 
-Snapshot ID: `AAAAAL6n1WV1P6qEakrrReGA4zA3MFnL`
+Snapshot ID: `aDQe2AAAAAAG8YxYoMKXh+xpKyh0OrRW`

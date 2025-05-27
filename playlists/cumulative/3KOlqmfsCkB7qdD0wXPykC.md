@@ -4,12 +4,13 @@
 
 > &quot;You&\#x27;ve got a friend downstairs &\#x2F; He howls all night&quot;
 
-15 songs - 48 min 29 sec
+16 songs - 51 min 26 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [As Many Candles As Possible](https://open.spotify.com/track/0hYaVGEWRYsH7ODLUSqp2s) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [As Many Candles As Possible](https://open.spotify.com/album/08WdRHADS1zNGge16EzlRc) | 3:24 | 2020-08-30 |  |
 | [Autoclave](https://open.spotify.com/track/2cFBGQxTs9fGssAQXxEskT) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Heretic Pride](https://open.spotify.com/album/2bkCoiEfZnOQhahtDHvzzv) | 3:34 | 2020-08-30 |  |
+| [Chinese House Flowers](https://open.spotify.com/track/6ZsvD1T2kaT8WQQN1iLJTH) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 2:57 | 2025-05-27 |  |
 | [Family Happiness](https://open.spotify.com/track/4J0g6KQHc00FYRdXnhhIS8) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/5cv0NAb6FJ2lbJYjqrEDz9) | 2:57 | 2020-08-30 |  |
 | [Going to Scotland](https://open.spotify.com/track/0vcZUPOhMVlBl5jnJLZ5ne) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nothing for Juice](https://open.spotify.com/album/21o3AFcGJBapqPnygk3AZJ) | 2:06 | 2021-10-29 |  |
 | [Grendel's Mother](https://open.spotify.com/track/4pPfbP2gMxU75ZWqb7jN61) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Zopilote Machine](https://open.spotify.com/album/05CTDTTvDlkgM4Utz5HUxy) | 2:20 | 2020-08-30 |  |

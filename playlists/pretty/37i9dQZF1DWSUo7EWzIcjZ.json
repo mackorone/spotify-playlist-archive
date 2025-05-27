@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 387972,
+  "num_followers": 387982,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Devorame Otra Vez",
-      "url": "https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 275186,
       "name": "Patac\u00f3n Pisao",
       "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Devorame Otra Vez",
+      "url": "https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Amame",
-        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 289973,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Explosivo",
         "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 243866,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Amame",
+        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 289973,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95"
-      },
-      "artists": [
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        }
-      ],
-      "duration_ms": 350360,
-      "name": "La Vida Sigue Igual",
-      "url": "https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Merengues Clasicos",
         "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 236706,
       "name": "Platano Maduro",
       "url": "https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "La Vida Sigue Igual",
+      "url": "https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Pochi Y Su Cocoband",
-        "url": "https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL"
+        "name": "Coleccion Salsa Discotheque - Vol. 1",
+        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
       },
       "artists": [
         {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+          "name": "Oro Negro",
+          "url": "https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF"
         }
       ],
-      "duration_ms": 230906,
-      "name": "La Faldita",
-      "url": "https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d"
+      "duration_ms": 266400,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Coleccion Salsa Discotheque - Vol. 1",
-        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
+        "name": "Pochi Y Su Cocoband",
+        "url": "https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL"
       },
       "artists": [
         {
-          "name": "Oro Negro",
-          "url": "https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF"
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
         }
       ],
-      "duration_ms": 266400,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
+      "duration_ms": 230906,
+      "name": "La Faldita",
+      "url": "https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Ombliguito",
-        "url": "https://open.spotify.com/album/0ZeSQmvlcMpVvM4zpaYJqh"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "El Ombliguito (Merengue Version)",
-      "url": "https://open.spotify.com/track/16cQyxcUdV9QZWIDkpQaEx"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 286026,
       "name": "Ta' Encendio",
       "url": "https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El Ombliguito",
+        "url": "https://open.spotify.com/album/0ZeSQmvlcMpVvM4zpaYJqh"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "El Ombliguito (Merengue Version)",
+      "url": "https://open.spotify.com/track/16cQyxcUdV9QZWIDkpQaEx"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Con Mucho Swing",
-        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 254145,
-      "name": "Dame Veneno",
-      "url": "https://open.spotify.com/track/5ULIW0HVQb2mqRQQXU2f9W"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 271013,
       "name": "Que Ganas De No Verte Nunca Mas",
       "url": "https://open.spotify.com/track/2FnRMLwYTrrKgUbHNRfDr7"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Con Mucho Swing",
+        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 254145,
+      "name": "Dame Veneno",
+      "url": "https://open.spotify.com/track/5ULIW0HVQb2mqRQQXU2f9W"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 253884,
-      "name": "Cobarde Cobarde",
-      "url": "https://open.spotify.com/track/0ySSrrPzYPfsbfbyYIUySD"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 233533,
       "name": "Es Cosa De El",
       "url": "https://open.spotify.com/track/2BTqbQyPEdUG62hqIa7ccc"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 253884,
+      "name": "Cobarde Cobarde",
+      "url": "https://open.spotify.com/track/0ySSrrPzYPfsbfbyYIUySD"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Miriam Collection",
-        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
-      },
-      "artists": [
-        {
-          "name": "Miriam Cruz",
-          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "Esa Loca",
-      "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "11 Exitos",
         "url": "https://open.spotify.com/album/23cQzFo14t7f6eSgzh7Smp"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 197797,
       "name": "Me Aleje Llorando",
       "url": "https://open.spotify.com/track/0lhRxdjg7xrk3eXa5jBBnK"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Miriam Collection",
+        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Esa Loca",
+      "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Miriam Collection",
-        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
+        "name": "!Ay Doctor!",
+        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
       "artists": [
         {
-          "name": "Miriam Cruz",
-          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
         }
       ],
-      "duration_ms": 226520,
-      "name": "Que Me Perdone Tu Se\u00f1ora",
-      "url": "https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI"
+      "duration_ms": 284421,
+      "name": "La Asesina",
+      "url": "https://open.spotify.com/track/6hvsoQUupq8r1JdNdwpbdU"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "!Ay Doctor!",
-        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
+        "name": "Miriam Collection",
+        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
         }
       ],
-      "duration_ms": 284421,
-      "name": "La Asesina",
-      "url": "https://open.spotify.com/track/6hvsoQUupq8r1JdNdwpbdU"
+      "duration_ms": 226520,
+      "name": "Que Me Perdone Tu Se\u00f1ora",
+      "url": "https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Raices",
-        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "Medley \"Rescate Tipico\" No.1: Pajaro Perlu / Fiesta Y Serrucho / El Diente De Oro / Abusadora",
-      "url": "https://open.spotify.com/track/3Nq4SfYlza7lTKqP5wPHl2"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Exitos De",
         "url": "https://open.spotify.com/album/2L5sR3eAnIlDTLoj2B1ljl"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 209200,
       "name": "En Bandolera",
       "url": "https://open.spotify.com/track/5eHACquDQ3PHVQnUOX8tzo"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Raices",
+        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 311800,
+      "name": "Medley \"Rescate Tipico\" No.1: Pajaro Perlu / Fiesta Y Serrucho / El Diente De Oro / Abusadora",
+      "url": "https://open.spotify.com/track/3Nq4SfYlza7lTKqP5wPHl2"
     },
     {
       "added_at": "2024-06-28 21:55:14",

@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 263915,
       "name": "Boogie de la Frontera",
       "url": "https://open.spotify.com/track/3dTK4l5ehiu9PpmvVsitEP"
@@ -430,10 +430,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 149541,
       "name": "Devuelvelo",
       "url": "https://open.spotify.com/track/5ReKWdDtrjJpNVTNbscQJB"
+    },
+    {
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156395,
+      "name": "Devuelvelo",
+      "url": "https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r"
     },
     {
       "album": {
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 58586,
       "name": "El Bailable",
       "url": "https://open.spotify.com/track/1w8DzpklmbRnIhWEiRbLOI"
@@ -704,10 +722,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 229381,
       "name": "Martin Rocka",
       "url": "https://open.spotify.com/track/2yxtbkvt9biJlHxkJpN6yM"
+    },
+    {
+      "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229381,
+      "name": "Martin Rocka",
+      "url": "https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB"
     },
     {
       "album": {
@@ -874,10 +910,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 180584,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/25zVsjcK15lfJLyII4Tl1S"
+    },
+    {
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180584,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5d0l3GHvTz5qgGAvMitN7T"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,032 songs - 1 day 15 hr 58 min
+1,034 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
 | [Azo](https://open.spotify.com/track/70RuMUwR0nlX71VHxRezkH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Azo](https://open.spotify.com/album/5IxplYWukgFd1gFxQNmwjy) | 2:01 | 2025-02-07 |  |
 | [Back in time](https://open.spotify.com/track/6qLsaWSO04sgwX6N8xid7E) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Back in time](https://open.spotify.com/album/34XEHZITd5aslpA8xYzxV2) | 2:20 | 2023-01-20 |  |
+| [Backdoor](https://open.spotify.com/track/76siJBpv5Sb2yF84wqUzuX) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Backdoor](https://open.spotify.com/album/0oTpLBc7LZFiASLq70BFGi) | 2:13 | 2025-05-23 |  |
 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 | 2022-07-29 | 2022-09-30 |
 | [Bakery](https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bakery \| A Walk In Central Park](https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX) | 2:13 | 2022-09-23 | 2023-11-17 |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
@@ -96,7 +97,7 @@
 | [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 | 2024-02-15 |
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 | 2023-11-17 |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
-| [Brief](https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Brief](https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl) | 2:22 | 2024-02-09 |  |
+| [Brief](https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Brief](https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl) | 2:22 | 2024-02-09 | 2025-05-27 |
 | [bro, I got this](https://open.spotify.com/track/0N2rxpezHCsA5GnlGJGunk) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [bro, I got this](https://open.spotify.com/album/7ziI4iKKqgzM6QwUhp5HZD) | 2:06 | 2024-03-22 |  |
 | [Buck Stop](https://open.spotify.com/track/59pbhakI7VpgKLB3J9r7gO) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Buck Stop](https://open.spotify.com/album/1wep5cvBwgCQlWZJYtqUEU) | 2:21 | 2024-03-08 |  |
 | [Buena Vista](https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Telica](https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc) | [Buena Vista](https://open.spotify.com/album/7aMySGhfU7O2JzlvjO1jXl) | 2:16 | 2022-04-15 | 2023-10-13 |
@@ -654,6 +655,7 @@
 | [Picnick](https://open.spotify.com/track/6CyYIjbUN6lMnkQUH2c0Lj) | [La Boucle](https://open.spotify.com/artist/6R14Zw9WcySCc35CvliDbV) | [Picnick](https://open.spotify.com/album/2ywLc02L8RRBeQsPlSBUFo) | 3:10 | 2023-01-13 |  |
 | [picture settings](https://open.spotify.com/track/18cvnQtuAbYBpiDKxW6BgJ) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [picture settings](https://open.spotify.com/album/1lFlQ2HEVCaw825ZMzWFjv) | 3:06 | 2022-06-10 | 2023-07-20 |
 | [piece of cake](https://open.spotify.com/track/4rwk2fkjHLRF5hnJiZRIAw) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [piece of cake](https://open.spotify.com/album/2ISl6imEYl6rHKHjzASGM2) | 2:22 | 2023-11-17 |  |
+| [Pink](https://open.spotify.com/track/6RhodMmbSobhEnz195osWL) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Pink](https://open.spotify.com/album/7oOB0DclNP1X1RlB6sAg9H) | 2:06 | 2025-05-23 |  |
 | [Pink Soda](https://open.spotify.com/track/5MSeGUnLLWatEBCxViIcGC) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Pink Soda](https://open.spotify.com/album/4H09JXtQEzll5guGsSP2Vt) | 2:42 | 2024-01-05 |  |
 | [Pink Waters](https://open.spotify.com/track/0RnUzVJENbMYhU5Eb7xbRe) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Pink Waters](https://open.spotify.com/album/6ggugqKNKHGdB96D6Ujotj) | 1:59 | 2022-04-15 | 2022-09-24 |
 | [Pjl \- 平和 正義感 フリーダム](https://open.spotify.com/track/2CqgdkFRS2HeiBp0hPvQQc) | [Lusca061](https://open.spotify.com/artist/2aLJPHGJD4D6WAPvS5mW48) | [Pjl \- 平和 正義感 フリーダム](https://open.spotify.com/album/18MpdfuMLX46cV4X6BaeSA) | 3:13 | 2022-04-15 | 2022-07-29 |
@@ -699,7 +701,7 @@
 | [Rainy Season](https://open.spotify.com/track/0yMNrxuZmx3S84uW7aRv0X) | [Downtown Owl](https://open.spotify.com/artist/3jEI56iIV3YlRCHnejQU0Y) | [Rainy Season](https://open.spotify.com/album/4kz26EreeHAcr1YicHmMkY) | 2:27 | 2022-11-25 | 2023-09-22 |
 | [Ranch Water](https://open.spotify.com/track/5zvZCnozZFaVTH5FI07In3) | [Somebody's Son](https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny) | [Ranch Water](https://open.spotify.com/album/4PpFJLAs8vQWloBgi525XC) | 1:53 | 2023-04-28 |  |
 | [Raw Takes](https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Raw Takes](https://open.spotify.com/album/6BE59ToxBekXRmNmIFj35W) | 2:01 | 2022-04-15 | 2023-07-20 |
-| [reaching](https://open.spotify.com/track/2HbDUPOSjGfxSEnSqM42P2) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [reaching](https://open.spotify.com/album/59KiuYzZGNv0AAkoHl5rLe) | 2:07 | 2024-03-01 |  |
+| [reaching](https://open.spotify.com/track/2HbDUPOSjGfxSEnSqM42P2) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [reaching](https://open.spotify.com/album/59KiuYzZGNv0AAkoHl5rLe) | 2:07 | 2024-03-01 | 2025-05-27 |
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2022-04-15 |  |
 | [Rebooting](https://open.spotify.com/track/11llCoQWwKVjuu6wJFQqmH) | [Joe Arrow](https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa) | [Rebooting](https://open.spotify.com/album/3tirHKwLLN9ZlijKxuewBL) | 2:12 | 2024-09-06 |  |
 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 | 2022-04-15 |  |

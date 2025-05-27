@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 195465,
       "name": "Bent n\u00e1lgast",
       "url": "https://open.spotify.com/track/63o8du1yboIcFNRkFvxOKX"
@@ -6536,7 +6536,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 160858,
       "name": "B\u00ed\u00f3mynd",
       "url": "https://open.spotify.com/track/0gxq2ErkNoTu1mPx9NFn1j"
@@ -11570,7 +11570,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 170444,
       "name": "Einn Dans",
       "url": "https://open.spotify.com/track/1TKHXYa0F8hhO0UbjCV7PN"
@@ -12120,7 +12120,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 157506,
       "name": "Elska",
       "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
@@ -16178,7 +16178,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 191611,
       "name": "Gemm\u00e9r",
       "url": "https://open.spotify.com/track/4X1DDGw8HCibHNI4InpK63"
@@ -30074,7 +30074,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 250000,
       "name": "Negla",
       "url": "https://open.spotify.com/track/2tzgno7JVlysas1bRKmssz"
@@ -36570,10 +36570,28 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 162857,
       "name": "R\u00d3A",
       "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
+    },
+    {
+      "album": {
+        "name": "R\u00d3A",
+        "url": "https://open.spotify.com/album/65gqP6FqcyKeqH9OOtX4F6"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162925,
+      "name": "R\u00d3A",
+      "url": "https://open.spotify.com/track/4PtgYVIiujBJrNbpWo5jzs"
     },
     {
       "album": {
@@ -42540,7 +42558,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -46308,7 +46326,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -51914,7 +51932,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 251425,
       "name": "\u00de\u00e9r er ekki bo\u00f0i\u00f0",
       "url": "https://open.spotify.com/track/6IUl9thBVE2g4VuJYqcuJo"
@@ -51986,7 +52004,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

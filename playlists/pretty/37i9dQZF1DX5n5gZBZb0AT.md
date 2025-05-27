@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,156 likes - 40 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,404 likes - 40 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 11 | [fragment \- slowed](https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu) | [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [fragment](https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw) | 1:37 |
 | 12 | [BOUNCE FUNK \- Slowed](https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k) | [SAPFIR](https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5) | [BOUNCE FUNK \(Slowed\)](https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD) | 1:37 |
 | 13 | [MATUSHKA ULTRAFUNK](https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05) | [satirin](https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO) | [MATUSHKA ULTRAFUNK](https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK) | 2:24 |
-| 14 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
+| 14 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
 | 15 | [ECOS DO ABISMO \- Super Slowed](https://open.spotify.com/track/6dq8QioUz8g692cqkUeuvW) | [Flame Runner](https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4), [ZIMXN](https://open.spotify.com/artist/579T3JNtybsWlkIdSVumAF) | [ECOS DO ABISMO](https://open.spotify.com/album/09LYff89MWEUoS9PC15YVy) | 2:06 |
 | 16 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 17 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 36 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
 | 37 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
 | 38 | [Montagem Totally Strange](https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf) | [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY), [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe), [MC BF](https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu), [DJ YUZAK](https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS) | [Montagem Totally Strange](https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn) | 2:25 |
-| 39 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
-| 40 | [CORRUPÇÃO FUNK](https://open.spotify.com/track/1t1Ko5fJw2Pbd7C65nUKbO) | [zxnc.](https://open.spotify.com/artist/0z9ZCh4EXDX3iXuw7QGiLp), [DARKANASE](https://open.spotify.com/artist/3FUCRB0hJhe9BrXW1yonDh), [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ) | [CORRUPÇÃO FUNK](https://open.spotify.com/album/1Pp1ulBgbbDiKTr2LgPiZa) | 2:14 |
+| 39 | [CORRUPÇÃO FUNK](https://open.spotify.com/track/1t1Ko5fJw2Pbd7C65nUKbO) | [zxnc.](https://open.spotify.com/artist/0z9ZCh4EXDX3iXuw7QGiLp), [DARKANASE](https://open.spotify.com/artist/3FUCRB0hJhe9BrXW1yonDh), [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ) | [CORRUPÇÃO FUNK](https://open.spotify.com/album/1Pp1ulBgbbDiKTr2LgPiZa) | 2:14 |
+| 40 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
 
 Snapshot ID: `Z+XmsAAAAAAsXY6xOLr83M7pgh9hBioQ`

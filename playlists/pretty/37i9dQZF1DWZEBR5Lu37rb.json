@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 94732,
+  "num_followers": 94833,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -639,30 +639,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
-        "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
-      },
-      "artists": [
-        {
-          "name": "Sha Sha",
-          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 444474,
-      "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "Wenhliziyo Yami",
         "url": "https://open.spotify.com/album/0MVveVP2vKqPJmFSEns1G8"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 261459,
       "name": "Wenhliziyo Yami",
       "url": "https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
+      },
+      "artists": [
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 444474,
+      "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Naninina",
+        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Ndikuthandile",
+      "url": "https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Princess of House (Easy to Love)",
         "url": "https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 269733,
       "name": "If Love Is A Crime",
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Naninina",
-        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
-      },
-      "artists": [
-        {
-          "name": "Vusi Nova",
-          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Ndikuthandile",
-      "url": "https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -895,6 +895,26 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+      },
+      "artists": [
+        {
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
-      },
-      "artists": [
-        {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
     },
     {
       "added_at": "2025-04-17 07:46:17",

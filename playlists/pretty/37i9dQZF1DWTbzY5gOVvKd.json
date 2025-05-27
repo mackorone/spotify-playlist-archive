@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1278781,
+  "num_followers": 1278870,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-05-16 14:04:41",
       "album": {
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 121039,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
+    },
+    {
+      "added_at": "2025-05-16 14:04:41",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2025-05-16 14:04:41",
-      "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 121039,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-05-16 14:04:41",
       "album": {
-        "name": "Dear Blossom,",
-        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2025-05-16 14:04:41",
-      "album": {
         "name": "True Love: A Celebration Of Cole Porter",
         "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
       },
@@ -923,22 +907,6 @@
       "duration_ms": 209040,
       "name": "Mind If I Make Love To You",
       "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
-    },
-    {
-      "added_at": "2025-05-16 14:04:41",
-      "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -959,6 +927,38 @@
       "duration_ms": 187509,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
+    },
+    {
+      "added_at": "2025-05-16 14:04:41",
+      "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
+    },
+    {
+      "added_at": "2025-05-16 14:04:41",
+      "album": {
+        "name": "Dear Blossom,",
+        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2025-05-16 14:04:41",
       "album": {
-        "name": "On Holiday",
-        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
+        "name": "L O V E",
+        "url": "https://open.spotify.com/album/0lOFOmKhB58H1PfnoCD41E"
       },
       "artists": [
         {
-          "name": "S\u00f8s Fenger",
-          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        },
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
         }
       ],
-      "duration_ms": 285866,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
+      "duration_ms": 153487,
+      "name": "L O V E",
+      "url": "https://open.spotify.com/track/2Djp8QDGUST92TqTtpYEKC"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -1055,6 +1059,22 @@
       "duration_ms": 160000,
       "name": "I Could Have Danced All Night",
       "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
+    },
+    {
+      "added_at": "2025-05-16 14:04:41",
+      "album": {
+        "name": "On Holiday",
+        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8s Fenger",
+          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -1083,26 +1103,6 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
-    },
-    {
-      "added_at": "2025-05-16 14:04:41",
-      "album": {
-        "name": "L O V E",
-        "url": "https://open.spotify.com/album/0lOFOmKhB58H1PfnoCD41E"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        },
-        {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
-        }
-      ],
-      "duration_ms": 153487,
-      "name": "L O V E",
-      "url": "https://open.spotify.com/track/2Djp8QDGUST92TqTtpYEKC"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-05-16 14:04:41",
       "album": {
-        "name": "Reflections of a Voice",
-        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
-      },
-      "artists": [
-        {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Like Someone in Love",
-      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
-    },
-    {
-      "added_at": "2025-05-16 14:04:41",
-      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+    },
+    {
+      "added_at": "2025-05-16 14:04:41",
+      "album": {
+        "name": "Reflections of a Voice",
+        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-05-16 14:04:41",
       "album": {
+        "name": "LANGUAGE OF LOVE",
+        "url": "https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "THERE YOU ARE (SECOND CHANCE)",
+      "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
+    },
+    {
+      "added_at": "2025-05-16 14:04:41",
+      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
       },
@@ -1267,42 +1283,6 @@
     {
       "added_at": "2025-05-16 14:04:41",
       "album": {
-        "name": "A New Path",
-        "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
-      },
-      "artists": [
-        {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
-        },
-        {
-          "name": "Martin Berggren",
-          "url": "https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj"
-        },
-        {
-          "name": "David Andersson",
-          "url": "https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A"
-        },
-        {
-          "name": "Andreas Baw",
-          "url": "https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI"
-        },
-        {
-          "name": "Inge Petersson-Lindb\u00e4ck",
-          "url": "https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2"
-        },
-        {
-          "name": "Bergdalakvartetten",
-          "url": "https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C"
-        }
-      ],
-      "duration_ms": 348740,
-      "name": "A New Path",
-      "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
-    },
-    {
-      "added_at": "2025-05-16 14:04:41",
-      "album": {
         "name": "Love & the Lack Thereof",
         "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
       },
@@ -1315,22 +1295,6 @@
       "duration_ms": 373946,
       "name": "Then I'll Be Tired of You",
       "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
-    },
-    {
-      "added_at": "2025-05-16 14:04:41",
-      "album": {
-        "name": "LANGUAGE OF LOVE",
-        "url": "https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "THERE YOU ARE (SECOND CHANCE)",
-      "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
     },
     {
       "added_at": "2025-05-16 14:04:41",
@@ -1379,6 +1343,42 @@
       "duration_ms": 263106,
       "name": "These Things You Are To Me",
       "url": "https://open.spotify.com/track/22rek75QknVrI85tEIUF7a"
+    },
+    {
+      "added_at": "2025-05-16 14:04:41",
+      "album": {
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        },
+        {
+          "name": "Martin Berggren",
+          "url": "https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj"
+        },
+        {
+          "name": "David Andersson",
+          "url": "https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A"
+        },
+        {
+          "name": "Andreas Baw",
+          "url": "https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI"
+        },
+        {
+          "name": "Inge Petersson-Lindb\u00e4ck",
+          "url": "https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2"
+        },
+        {
+          "name": "Bergdalakvartetten",
+          "url": "https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C"
+        }
+      ],
+      "duration_ms": 348740,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
     },
     {
       "added_at": "2025-05-16 14:04:41",

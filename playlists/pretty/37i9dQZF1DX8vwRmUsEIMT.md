@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Burna Boy, Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,694 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,643 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb) | 2:32 |
 | 80 | [Attack The Day](https://open.spotify.com/track/0HlMbPlkBCyuTHuJApOOJ3) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Attack The Day](https://open.spotify.com/album/5pWOcDNcYJXi4hX4I6FBOE) | 3:09 |
 
-Snapshot ID: `aC+sfAAAAAC384DLyDRrpEe4eTAzauKc`
+Snapshot ID: `aC+sfAAAAADBOjXlVnWgGRAOAEE/kf8c`

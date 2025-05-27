@@ -1,12 +1,12 @@
 {
   "description": "What&#x27;s gonna be the song of the Summer 2025!? ",
-  "num_followers": 131642,
+  "num_followers": 131648,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAw6ooTXt7FH/E17Xyysiu3dhFvtoK8",
+  "snapshot_id": "AAAw8AG+lYWFh6l5zQ7m3J5Xp+jIDiVB",
   "tracks": [
     {
       "added_at": "2025-05-21 14:38:06",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
     },
     {
+      "added_at": "2025-05-26 23:43:22",
+      "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/6rUFg1CI5tPxmjssdY8orf"
+      },
+      "artists": [
+        {
+          "name": "Jackson B",
+          "url": "https://open.spotify.com/artist/1a2ikqvLB5l6U1Oz4kNHHD"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/47u8oG8vaUroyPP62EhxuS"
+    },
+    {
       "added_at": "2025-05-24 14:13:43",
       "album": {
         "name": "what time is it?",
@@ -241,70 +257,6 @@
       "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
     },
     {
-      "added_at": "2025-05-23 14:36:58",
-      "album": {
-        "name": "A Woman That They Want",
-        "url": "https://open.spotify.com/album/5HGZWx7Vu6JULPDkSqRjZJ"
-      },
-      "artists": [
-        {
-          "name": "Puma June",
-          "url": "https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I"
-        }
-      ],
-      "duration_ms": 181898,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/7jxI06NlIowhfcgsAN7Pb6"
-    },
-    {
-      "added_at": "2025-05-24 13:47:09",
-      "album": {
-        "name": "JAZZ FLUTE",
-        "url": "https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ"
-      },
-      "artists": [
-        {
-          "name": "Scoobert Doobert",
-          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
-        }
-      ],
-      "duration_ms": 147124,
-      "name": "JAZZ FLUTE",
-      "url": "https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE"
-    },
-    {
-      "added_at": "2025-05-24 13:53:46",
-      "album": {
-        "name": "changing with the weather",
-        "url": "https://open.spotify.com/album/1sLKrNHIQhuOne9yYu0bxH"
-      },
-      "artists": [
-        {
-          "name": "Mistine",
-          "url": "https://open.spotify.com/artist/0LQT4rXbAexeMkQq8gGB6d"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "changing with the weather",
-      "url": "https://open.spotify.com/track/5j9SscBvzf9lPh3TXVIotH"
-    },
-    {
-      "added_at": "2025-05-23 14:04:45",
-      "album": {
-        "name": "Joking",
-        "url": "https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 158637,
-      "name": "Joking",
-      "url": "https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq"
-    },
-    {
       "added_at": "2025-05-07 15:56:12",
       "album": {
         "name": "Volcano",
@@ -385,6 +337,70 @@
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
     },
     {
+      "added_at": "2025-05-23 14:36:58",
+      "album": {
+        "name": "A Woman That They Want",
+        "url": "https://open.spotify.com/album/5HGZWx7Vu6JULPDkSqRjZJ"
+      },
+      "artists": [
+        {
+          "name": "Puma June",
+          "url": "https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I"
+        }
+      ],
+      "duration_ms": 181898,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7jxI06NlIowhfcgsAN7Pb6"
+    },
+    {
+      "added_at": "2025-05-24 13:47:09",
+      "album": {
+        "name": "JAZZ FLUTE",
+        "url": "https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "duration_ms": 147124,
+      "name": "JAZZ FLUTE",
+      "url": "https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE"
+    },
+    {
+      "added_at": "2025-05-24 13:53:46",
+      "album": {
+        "name": "changing with the weather",
+        "url": "https://open.spotify.com/album/1sLKrNHIQhuOne9yYu0bxH"
+      },
+      "artists": [
+        {
+          "name": "Mistine",
+          "url": "https://open.spotify.com/artist/0LQT4rXbAexeMkQq8gGB6d"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "changing with the weather",
+      "url": "https://open.spotify.com/track/5j9SscBvzf9lPh3TXVIotH"
+    },
+    {
+      "added_at": "2025-05-23 14:04:45",
+      "album": {
+        "name": "Joking",
+        "url": "https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "duration_ms": 158637,
+      "name": "Joking",
+      "url": "https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq"
+    },
+    {
       "added_at": "2025-05-22 14:37:56",
       "album": {
         "name": "fries, bb",
@@ -459,6 +475,26 @@
       "duration_ms": 250687,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/6EhiuG9MHLNTjZHA2vq9zZ"
+    },
+    {
+      "added_at": "2025-05-26 14:28:15",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/7BvZYCmXe6CGNxIPcTvndh"
+      },
+      "artists": [
+        {
+          "name": "David Morin",
+          "url": "https://open.spotify.com/artist/24kIGBNAXpwruRnnYjfN2p"
+        },
+        {
+          "name": "Infiniteblaq",
+          "url": "https://open.spotify.com/artist/7pP5RguVtZUBMsxi9hjb19"
+        }
+      ],
+      "duration_ms": 267802,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6Y9P0I20L6GaQ2nZZOkCnT"
     },
     {
       "added_at": "2025-05-23 13:24:06",
@@ -929,26 +965,6 @@
       "url": "https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8"
     },
     {
-      "added_at": "2025-05-14 13:14:52",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/7LHUWE4Kbo3HZUYUbYPTcU"
-      },
-      "artists": [
-        {
-          "name": "MarMar",
-          "url": "https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr"
-        },
-        {
-          "name": "SMOORIBA",
-          "url": "https://open.spotify.com/artist/1CMsNzudMd14qTGeFs2Uvk"
-        }
-      ],
-      "duration_ms": 166253,
-      "name": "Walking On Water",
-      "url": "https://open.spotify.com/track/4U9O7GGAGHRLwdhSYeXQkN"
-    },
-    {
       "added_at": "2025-03-10 17:13:24",
       "album": {
         "name": "GNX",
@@ -1003,22 +1019,6 @@
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
-    },
-    {
-      "added_at": "2025-05-15 13:50:20",
-      "album": {
-        "name": "2 am",
-        "url": "https://open.spotify.com/album/0yB7LI6nOfRyBxNIwPQ1Dv"
-      },
-      "artists": [
-        {
-          "name": "JAYLIN",
-          "url": "https://open.spotify.com/artist/2rdlq36px1znvfCVlNu2eL"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "2 am",
-      "url": "https://open.spotify.com/track/5suCliR2Lpo4tp8eA3EhdK"
     },
     {
       "added_at": "2024-08-12 20:19:27",
@@ -2675,22 +2675,6 @@
       "duration_ms": 150521,
       "name": "Whiskey Promises",
       "url": "https://open.spotify.com/track/5WKLnjjJz1byKHGRWY5JVh"
-    },
-    {
-      "added_at": "2025-05-16 06:04:02",
-      "album": {
-        "name": "Turn Up the Divine",
-        "url": "https://open.spotify.com/album/7CCn53IJjQnmqxa6EE99HQ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mann",
-          "url": "https://open.spotify.com/artist/4zT3ci2bvoKVi2M0XMwfj8"
-        }
-      ],
-      "duration_ms": 257678,
-      "name": "Fly, Fly Away",
-      "url": "https://open.spotify.com/track/4h69BhGzc6lGdRIBOk9WuU"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

@@ -7608,7 +7608,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 173100,
       "name": "Entit\u00e1s",
       "url": "https://open.spotify.com/track/07laYuqY1DjvMgp5HNXyF2"
@@ -13386,7 +13386,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 184100,
       "name": "KINT VAGYOK A SORON",
       "url": "https://open.spotify.com/track/61lwlMPrt7VfUsVDjTWJF2"
@@ -17689,6 +17689,28 @@
     },
     {
       "album": {
+        "name": "NAGY KIR\u00c1LY",
+        "url": "https://open.spotify.com/album/2GH2USDsNapfJthyUNtXrG"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        },
+        {
+          "name": "Blr",
+          "url": "https://open.spotify.com/artist/3kwQtTjBF5R4IlZi28hHOJ"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "NAGY KIR\u00c1LY",
+      "url": "https://open.spotify.com/track/5ciuolqyWBSRX9P5yGOlNv"
+    },
+    {
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
       },
@@ -21762,7 +21784,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 199719,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
@@ -25879,6 +25901,24 @@
     },
     {
       "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -29640,7 +29680,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 219999,
       "name": "ZHA MAJ DUR",
       "url": "https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw"

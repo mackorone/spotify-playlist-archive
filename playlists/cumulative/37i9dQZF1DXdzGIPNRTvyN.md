@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-329 songs - 15 hr 33 min
+330 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Haoma](https://open.spotify.com/track/40I2IA1fQ20M2l20WrSkO5) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Haoma](https://open.spotify.com/album/58Ng0Pu78WjQyd5pk8lXbS) | 2:37 | 2024-11-28 |  |
 | [Harmony Haven](https://open.spotify.com/track/1QTkKOIRpvU66GAeE1q0MX) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Harmony Haven](https://open.spotify.com/album/4zVgIsyQUUA5amABecQCRv) | 2:51 | 2024-06-03 | 2024-12-05 |
 | [Hava Aur Paanee](https://open.spotify.com/track/1PMf9J4BekOynzWkslvhFc) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Hava Aur Paanee](https://open.spotify.com/album/3prgvvFJ2vdBjujj1zL5Yp) | 2:43 | 2023-12-18 |  |
+| [Haven](https://open.spotify.com/track/5nl4NkxVOc3CAx3LpqYH99) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Haven](https://open.spotify.com/album/3xu9wEhSha08FjONSEUbjR) | 2:40 | 2025-05-21 |  |
 | [Healing Stream \(432 Hz\)](https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Healing Stream \(432 Hz\)](https://open.spotify.com/album/1YL9uNSBY8dLqbVHXzS9ZI) | 3:25 | 2023-05-19 |  |
 | [Healing Winds \(Nature\)](https://open.spotify.com/track/6eZvMOonscNh15H00jJeKX) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds \(Nature\)](https://open.spotify.com/album/2CdswrRTCsE83LvoZYNV3h) | 3:02 | 2024-04-01 |  |
 | [Heartfulness](https://open.spotify.com/track/4osN7Zl3miJmSdPZmKVoXm) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Heartfulness](https://open.spotify.com/album/6PLL0DyPG8yLOUCnvXn5ZY) | 2:47 | 2023-02-22 | 2024-01-19 |
@@ -336,6 +337,6 @@
 | [Whispering Stream](https://open.spotify.com/track/1pmvW9hcN5WngmDjEZIOb8) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Whispering Stream](https://open.spotify.com/album/7gTsoPZiP1jy2I3CWGKpkX) | 2:49 | 2024-12-12 |  |
 | [White Light](https://open.spotify.com/track/6oGtCltZ2qtAjguWpxEXRT) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [White Light](https://open.spotify.com/album/0H3vdaaoJS6l7E8TDn49jy) | 2:58 | 2024-01-30 |  |
 | [Willamette Falls](https://open.spotify.com/track/7ksLJPOQmbSdCsHOB7ND4y) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Willamette Falls](https://open.spotify.com/album/093ls5rr0CjLaUmW4unO8i) | 2:57 | 2023-10-26 |  |
-| [Worthy](https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Worthy](https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu) | 2:15 | 2025-05-16 |  |
+| [Worthy](https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Worthy](https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu) | 2:15 | 2025-05-16 | 2025-05-27 |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

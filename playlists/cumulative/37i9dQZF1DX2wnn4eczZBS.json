@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: MEROL & Elmer",
+  "description": "indie & indiepop in het Nederlands. Cover: Eefje de Visser",
   "name": "indie.nl",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 190467,
       "name": "alle buren moeten dood",
       "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 168899,
       "name": "Bezonnen",
       "url": "https://open.spotify.com/track/5a7eT9uULHMFw5s3vL3CKr"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 209532,
       "name": "De Grens Tussen Ons",
       "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 233579,
       "name": "Het Is Genoeg",
       "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 200223,
       "name": "Het Outro",
       "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 231159,
       "name": "hou me vast",
       "url": "https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 178610,
       "name": "IK LACH MAAR IK HUIL",
       "url": "https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 203225,
       "name": "IK MIS JE",
       "url": "https://open.spotify.com/track/1u1wKliOsyKZfku9DbZq5q"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 162694,
       "name": "Mijn Haren Ruiken Naar Vuur",
       "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
@@ -2282,6 +2282,24 @@
       "duration_ms": 120000,
       "name": "Nachtblind",
       "url": "https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3"
+    },
+    {
+      "album": {
+        "name": "narcose",
+        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173816,
+      "name": "narcose",
+      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
     },
     {
       "album": {
@@ -2429,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Onomkeerbaar",
+        "url": "https://open.spotify.com/album/5Ml2XiiPL0prhJVxS6240H"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237318,
+      "name": "Onomkeerbaar",
+      "url": "https://open.spotify.com/track/3dM16edUVofGFGO0Zwb11i"
+    },
+    {
+      "album": {
         "name": "Onzichtbaar",
         "url": "https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf"
       },
@@ -2520,6 +2556,24 @@
       "duration_ms": 206590,
       "name": "platland",
       "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
+    },
+    {
+      "album": {
+        "name": "Platonisch",
+        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182929,
+      "name": "Platonisch",
+      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "album": {
@@ -2795,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Stad van Glas",
+        "url": "https://open.spotify.com/album/1zMs5mM33RFD3j1GZz0UUG"
+      },
+      "artists": [
+        {
+          "name": "puntjudith",
+          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188615,
+      "name": "Stad Van Glas",
+      "url": "https://open.spotify.com/track/7KIghh1w3H3a6W26pD5FlO"
+    },
+    {
+      "album": {
         "name": "Stapvoets",
         "url": "https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80"
       },
@@ -2896,7 +2968,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 222506,
       "name": "Symptomen",
       "url": "https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs"
@@ -3070,7 +3142,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 132727,
       "name": "Vager!",
       "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
@@ -3428,7 +3500,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 215184,
       "name": "Wind In De Zeilen",
       "url": "https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y"

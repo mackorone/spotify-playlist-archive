@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa paluun tehnyt Technicolour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,146 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,150 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Suvi](https://open.spotify.com/track/69Jd9PU57qPtisMKrORean) | [Technicolour](https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw) | [Suvi](https://open.spotify.com/album/1LiiSWqBCgtI6uedCBhVcL) | 2:50 |
 | 2 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
 | 3 | [Idänjuna](https://open.spotify.com/track/21me6KEGFTjccDhZsEjzD5) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Idänjuna](https://open.spotify.com/album/1OakXi7TIwAMRWkePOY8jY) | 4:02 |
-| 4 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
-| 5 | [Auta mua!](https://open.spotify.com/track/5dP1Zmg31Riu7IiANIVsyh) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Auta mua!](https://open.spotify.com/album/0JsU9CfFkAjd33kXaT4WAh) | 3:34 |
-| 6 | [Tänä kesänä](https://open.spotify.com/track/08ObJEPUzVtDPEePCHaF5Z) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Tänä kesänä](https://open.spotify.com/album/0si19geEbmpFebtBEIFY9k) | 2:55 |
-| 7 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
+| 4 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
+| 5 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
+| 6 | [Auta mua!](https://open.spotify.com/track/5dP1Zmg31Riu7IiANIVsyh) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Auta mua!](https://open.spotify.com/album/0JsU9CfFkAjd33kXaT4WAh) | 3:34 |
+| 7 | [Tänä kesänä](https://open.spotify.com/track/08ObJEPUzVtDPEePCHaF5Z) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Tänä kesänä](https://open.spotify.com/album/0si19geEbmpFebtBEIFY9k) | 2:55 |
 | 8 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
 | 9 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 |
 | 10 | [Kotona](https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Kotona](https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Kirveellä pöytään](https://open.spotify.com/track/4J2w7EsV5K15TnGeAMsNTn) | [Lipa Liukkonen](https://open.spotify.com/artist/5Da4s8A3uH3zRFONlLvtlG) | [Kirveellä pöytään](https://open.spotify.com/album/1SohoM5a6UTYKxDD5leK1W) | 3:49 |
 | 80 | [Yöjuna \(feat\. Marko Haavisto\)](https://open.spotify.com/track/5DjFjPK6QqzouCimLsvQnX) | [Mary Ann Hawkins](https://open.spotify.com/artist/3jfyjffOh8c7nSzKLIa64C), [Marko Haavisto](https://open.spotify.com/artist/4CNocwH4uDHbs8M1NvqARV) | [Helsinki Surf City](https://open.spotify.com/album/6qFpV8LLxpYccQDFVB3Pc4) | 3:52 |
 
-Snapshot ID: `aC+QywAAAADuBz+GTfm3r20G/EgFm9X7`
+Snapshot ID: `aDRFnAAAAAA55N3gURfjRJc+Glw4ukh2`

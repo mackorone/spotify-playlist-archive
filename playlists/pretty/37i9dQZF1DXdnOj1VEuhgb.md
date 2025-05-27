@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,362 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,376 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [55\-53](https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [55\-53](https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7) | 1:58 |
-| 2 | [BALMAIN](https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BALMAIN](https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM) | 2:03 |
-| 3 | [Introvert](https://open.spotify.com/track/5KVnzbHXkH5W1JwsjIujt4) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Introvert](https://open.spotify.com/album/1HEhCpDkBkr9BC5slicbGq) | 2:15 |
-| 4 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |
+| 1 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |
+| 2 | [55\-53](https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [55\-53](https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7) | 1:58 |
+| 3 | [BALMAIN](https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BALMAIN](https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM) | 2:03 |
+| 4 | [Introvert](https://open.spotify.com/track/5KVnzbHXkH5W1JwsjIujt4) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Introvert](https://open.spotify.com/album/1HEhCpDkBkr9BC5slicbGq) | 2:15 |
 | 5 | [Zor Değil](https://open.spotify.com/track/2IsUQV8lrmDvwCV0j0DxRN) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [Zor Değil](https://open.spotify.com/album/7kUcbLm79NcFZYuEBaA0nk) | 2:44 |
 | 6 | [Rampapam](https://open.spotify.com/track/2YvcBymuw17DtWOtSBQYuS) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Rampapam](https://open.spotify.com/album/6z7ciF1khZ4yF0U5J9SKiB) | 2:04 |
 | 7 | [serseri günlüğü](https://open.spotify.com/track/0DXpVVomqTXkP46oFwUvII) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [serseri günlüğü](https://open.spotify.com/album/56ROwQJPLeqJnm2ickGSEt) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
 | 50 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
 
-Snapshot ID: `aC+QZAAAAAC/DkiektStWX0Y2CmmYSMz`
+Snapshot ID: `aDQ8swAAAACjtMPU+z8M22ld2jPuNhiU`

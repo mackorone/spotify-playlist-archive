@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Seyi Vibez, Bhadboy OML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,410 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,496 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 66 | [Single](https://open.spotify.com/track/6VWLwERP7wzI8brmoaOkAj) | [Mophty](https://open.spotify.com/artist/6ce6iwbNe3sa0gqONeiI8Q), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/02KoJJhtOhP6tguHW7LHrH) | 2:19 |
 | 67 | [Thank You](https://open.spotify.com/track/0ddHaqvtaq7tVFiIeUo8jS) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Thank You](https://open.spotify.com/album/1EMXcQR3uuFepCADgtQYsT) | 3:10 |
 
-Snapshot ID: `aC+7AAAAAACoiyjEw01tYJhvRjoGmlNF`
+Snapshot ID: `aDRI7QAAAAA/it1D7Pcy2IpC4BLcewqb`

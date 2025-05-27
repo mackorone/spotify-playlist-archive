@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Tyler Nance, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,573 likes - 195 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,595 likes - 195 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 194 | [Forever Us](https://open.spotify.com/track/6X7Cu3tY6RAed2yTyH66KI) | [Raya](https://open.spotify.com/artist/1BJkgqWpgABRMDN5VXlSQ4) | [Forever Us](https://open.spotify.com/album/6lgjT8dvoZztnLlWZ0wvyX) | 2:56 |
 | 195 | [Drink Alone](https://open.spotify.com/track/37P30RCev9b4o0KCLqrTzf) | [Graham Trude](https://open.spotify.com/artist/5oakW2vUELPELkOw5Vzv2p) | [Drink Alone](https://open.spotify.com/album/2w2db0NnT6PMo42ZHzOHZs) | 3:39 |
 
-Snapshot ID: `AAAAALLEagqA7tSV6FkswYfiH+SjcJ4Q`
+Snapshot ID: `aC1P2QAAAAB1ufBOtHa91+ac/+Ko/6yI`

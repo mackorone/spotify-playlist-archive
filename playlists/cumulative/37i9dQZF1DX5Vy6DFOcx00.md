@@ -2,7 +2,7 @@
 
 ### [big on the internet](https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00)
 
-> that was rude
+> iykyk
 
 1,607 songs - 3 day 14 hr 12 min
 

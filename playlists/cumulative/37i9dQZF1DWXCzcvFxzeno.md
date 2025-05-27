@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-269 songs - 19 hr 37 min
+270 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-24 |  |
 | [Dam Dam Dam](https://open.spotify.com/track/2xBXLFJRja72cfOVR4o8WY) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [Dam Dam Dam](https://open.spotify.com/album/2Mm67B8tYrlGiFyOq0wzpw) | 5:48 | 2024-11-29 |  |
 | [Dance MothaF\*cka \- David Temessi Rework](https://open.spotify.com/track/3nVdemOGu6iLeDFpyS8KIf) | [Deep91](https://open.spotify.com/artist/7k4JimOV8Sn7yXbPbjbvBW), [David Temessi](https://open.spotify.com/artist/0SH8Lcl8vQXfyIDVRGSRwP) | [Dance MothaF\*cka \(David Temessi Rework\)](https://open.spotify.com/album/2plhnrhPtvomfOwjj22Aoc) | 5:15 | 2024-11-13 | 2025-02-13 |
+| [DANCE NOW](https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj), [Revive](https://open.spotify.com/artist/4KAsa231JLza8qRvBWwBeC) | [DANCE NOW](https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr) | 4:00 | 2025-05-23 |  |
 | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/track/4MD1o8JcULNAz85S6Ld57J) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/7eTVuYNi1UiN2cinZkJp56) | 3:12 | 2024-04-09 |  |
 | [Daydream](https://open.spotify.com/track/0WsROU8CJrMWBukK5IMs4y) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Warehouse Memories](https://open.spotify.com/album/3IRvcihOMBU1KNjrSX2YZh) | 7:43 | 2025-01-02 | 2025-01-10 |
 | [Definition of Hard Techno \- Lukas & Fernanda Martins Remix](https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q) | [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [Fernanda Martins](https://open.spotify.com/artist/52MgoD4ydR3spsWVir9naX), [Lukas](https://open.spotify.com/artist/41rDUBSuIZl3YscER2Fskv) | [Definition of Hard Techno](https://open.spotify.com/album/686gQUfEE4dyGJpu7SEjkv) | 6:47 | 2024-06-14 | 2024-06-19 |
@@ -267,7 +268,7 @@
 | [Welcome Back Devil](https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Welcome Back Devil](https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz) | 5:20 | 2024-04-09 |  |
 | [Welcome To London](https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Welcome To London](https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9) | 6:55 | 2024-04-09 | 2025-04-13 |
 | [Weltschmerz](https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Weltschmerz](https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3) | 6:24 | 2024-08-05 |  |
-| [When The Bass Is Too Loud](https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [When The Bass Is Too Loud EP](https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF) | 4:32 | 2024-06-18 |  |
+| [When The Bass Is Too Loud](https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [When The Bass Is Too Loud EP](https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF) | 4:32 | 2024-06-18 | 2025-05-27 |
 | [Wild West](https://open.spotify.com/track/10Y4PR7iAX4x4HeOKx8zFz) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v) | [ENTER MY SIMULATION](https://open.spotify.com/album/0DjIjay4fyIWthmdsRTqBM) | 4:13 | 2024-08-02 | 2024-11-29 |
 | [WTF?](https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [WTF?](https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5) | 3:42 | 2025-02-07 |  |
 | [XTC](https://open.spotify.com/track/5EwP2h6i4N5durNel1b5Qw) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [GLØCK](https://open.spotify.com/artist/5ogsJfXsVSStkB58OGqXPG) | [Dier van de Nacht](https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG) | 3:12 | 2024-05-22 | 2024-06-24 |

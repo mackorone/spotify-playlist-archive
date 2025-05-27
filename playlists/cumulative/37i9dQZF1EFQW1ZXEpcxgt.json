@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120253,
+      "name": "Americana",
+      "url": "https://open.spotify.com/track/1js88EFNpRfBVpn2Pd2ZwR"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -154,6 +172,24 @@
       "duration_ms": 166896,
       "name": "Belong",
       "url": "https://open.spotify.com/track/4v7NK5ekkhfsVrhnechJud"
+    },
+    {
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Beside Me",
+      "url": "https://open.spotify.com/track/3zNDVJAwnnWDNW8OvnJsqN"
     },
     {
       "album": {
@@ -359,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/0T7lSwMT9mPT8CoSxmDP5h"
+      },
+      "artists": [
+        {
+          "name": "Rise Up Children's Choir",
+          "url": "https://open.spotify.com/artist/4ubm9Rvg1vip1AhBNvnEcy"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150980,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/6bszzvS1tbQq3syTmSQo8x"
+    },
+    {
+      "album": {
         "name": "Trigga",
         "url": "https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T"
       },
@@ -534,6 +588,24 @@
       "duration_ms": 199133,
       "name": "Dangerously",
       "url": "https://open.spotify.com/track/4BLpd6QINAs4UXd1lVtdhj"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163619,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/4iK0QSCW3nmt6bsZtAjzX6"
     },
     {
       "album": {
@@ -751,6 +823,24 @@
     },
     {
       "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180810,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/3tS2dDHAc35hdy3rDIP55U"
+    },
+    {
+      "album": {
         "name": "Stars Dance (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
       },
@@ -937,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/3Fra5SMXXDTSRXVoDf8Xwd"
+    },
+    {
+      "album": {
         "name": "Gotta Luv It",
         "url": "https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z"
       },
@@ -1039,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220479,
+      "name": "Hide My Gun (Feat. HARDY)",
+      "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
+    },
+    {
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -1072,6 +1202,28 @@
       "duration_ms": 150602,
       "name": "Home",
       "url": "https://open.spotify.com/track/5GI96fTs0xkKXfgShNn975"
+    },
+    {
+      "album": {
+        "name": "HOROSCOPE (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/4GYjTuUIbdIiUYOQvUiTZy"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "HOROSCOPE (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/4tV5HtU19qU0m52jHp8WQD"
     },
     {
       "album": {
@@ -1409,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s The End Of The World But It\u2019s A Beautiful Day",
+        "url": "https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "Love These Days",
+      "url": "https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -1480,6 +1650,24 @@
       "duration_ms": 241493,
       "name": "Million Dollar Girl",
       "url": "https://open.spotify.com/track/2ML1Txlc33jMos9w8q9wVD"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141148,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7BFj9LKuwSTiBn5k73Sur3"
     },
     {
       "album": {
@@ -2304,6 +2492,24 @@
       "duration_ms": 170961,
       "name": "Ted Talk",
       "url": "https://open.spotify.com/track/0a4GWgv00qYm63fSWTau0N"
+    },
+    {
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/3kafzvowAyLtjs6TRFaRdj"
     },
     {
       "album": {

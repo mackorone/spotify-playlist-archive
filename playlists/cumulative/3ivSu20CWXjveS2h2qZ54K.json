@@ -6421,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "BABYLON",
+        "url": "https://open.spotify.com/album/5rarub38VAIQgy4BP7G4MS"
+      },
+      "artists": [
+        {
+          "name": "Admire",
+          "url": "https://open.spotify.com/artist/5oXdh0MVrWuptXDqymjW8P"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149423,
+      "name": "BABYLON",
+      "url": "https://open.spotify.com/track/0BxAZwmNBSkn7PAr8IFE7u"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3"
       },

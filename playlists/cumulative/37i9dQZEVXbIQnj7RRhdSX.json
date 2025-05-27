@@ -3248,7 +3248,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 166611,
       "name": "ANEMA E CORE",
       "url": "https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T"
@@ -6780,7 +6780,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "brutti ricordi. (con Bresh)",
       "url": "https://open.spotify.com/track/2TVcSNKvETspMwQq24K9hR"
@@ -8066,7 +8066,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 148907,
       "name": "CARTINE CORTE",
       "url": "https://open.spotify.com/track/78BKeWWuHQ8T5kmwQKoeMk"
@@ -13518,7 +13518,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 175102,
       "name": "dirti no.",
       "url": "https://open.spotify.com/track/0jd2ufQEHW0OhpfE2U6MRa"
@@ -21600,7 +21600,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 187403,
       "name": "il filo rosso",
       "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
@@ -29889,6 +29889,24 @@
     },
     {
       "album": {
+        "name": "MI AMI MI ODI",
+        "url": "https://open.spotify.com/album/2DyqXtkT9eESK7W7deh9sZ"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Mi Ami Mi Odi",
+      "url": "https://open.spotify.com/track/2wc754yvXIMU9lOE9zYtLb"
+    },
+    {
+      "album": {
         "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
       },
@@ -38114,7 +38132,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 208211,
       "name": "PIET\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
@@ -42404,7 +42422,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 178709,
       "name": "SEI PERSA",
       "url": "https://open.spotify.com/track/3smgQO8B4MQK6bbBrfHEX6"

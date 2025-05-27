@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM"
+      },
+      "artists": [
+        {
+          "name": "Bad Luck Baby",
+          "url": "https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229953,
+      "name": "Chew",
+      "url": "https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm"
+    },
+    {
+      "album": {
         "name": "Chica Chica",
         "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
       },
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 225573,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0OY0Wl9fQzLkwhfK63CLxG"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 209270,
       "name": "Martlet",
       "url": "https://open.spotify.com/track/4TcXdh7fhuBTIMrKB2s6c1"
@@ -2480,6 +2498,24 @@
       "duration_ms": 241028,
       "name": "O-Ama",
       "url": "https://open.spotify.com/track/51UE2RCA3ocC5DAAIYL2yG"
+    },
+    {
+      "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ"
+      },
+      "artists": [
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251026,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t"
     },
     {
       "album": {

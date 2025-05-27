@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена разом зі Юлею Юріною.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,819 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,820 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,24 +44,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 34 | [відображення](https://open.spotify.com/track/4Wc8Lbhccw6uGydYbmkw3D) | [YANA MORI](https://open.spotify.com/artist/0hQX9W4QSKuuN1Td8YvsuT) | [дискусія](https://open.spotify.com/album/2YMaiTg04KxQdrOdhUi1Fh) | 2:11 |
 | 35 | [сон](https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [сон](https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz) | 3:54 |
 | 36 | [ідеальна](https://open.spotify.com/track/2KMVWyw7cRbzXHQTJZIlWP) | [Хто така Ана?](https://open.spotify.com/artist/6o9BJkwFx5G8FaqNwRfSnV) | [ідеальна](https://open.spotify.com/album/2ap8GmvzgNl6P5NUVCECu5) | 3:40 |
-| 37 | [Girlfriend](https://open.spotify.com/track/0pepNfR0WxhW1yxFp6QXLj) | [Alexandra Oz.](https://open.spotify.com/artist/1bekRke740JXcCYSV9qTBS) | [Girlfriend](https://open.spotify.com/album/3Zye6c926R2oAyevx4TzAE) | 2:20 |
-| 38 | [Холостяк](https://open.spotify.com/track/7pHoYjL59NXuQHioFsgcVx) | [PROBLEMA](https://open.spotify.com/artist/4RnDiyMmHovpIRHgz5WyTn) | [Холостяк](https://open.spotify.com/album/0s7JG2HI6HahjjyH1mL0QU) | 2:11 |
-| 39 | [Романтика зникла](https://open.spotify.com/track/6zZieeqbx3B7cvL5FcNd3D) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Романтика зникла](https://open.spotify.com/album/6yRfukpFIdWOOgumCqlwYu) | 3:26 |
-| 40 | [На буй](https://open.spotify.com/track/1qS2Zo5GyOGPRWNzBbZYfH) | [TRINY T](https://open.spotify.com/artist/151WSLorWES5ccXH79H8H3) | [На буй](https://open.spotify.com/album/2twL6VRheACjuIdHafqWA2) | 2:38 |
-| 41 | [Душа моя](https://open.spotify.com/track/3KhpzGPtDDpHG2e4cXt4dS) | [kedrova](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [Душа моя](https://open.spotify.com/album/6IZjLPQot1M4HwkNi4UHvG) | 2:59 |
-| 42 | [Не пощастило](https://open.spotify.com/track/5yOBPs9JBBe9TJ08JgI8y2) | [Anastasiia Lark](https://open.spotify.com/artist/1lHS8Wtu13ZYieaBkk3xc5) | [Не пощастило](https://open.spotify.com/album/4RYQ9XGmUXujqapEw3YD6m) | 2:24 |
-| 43 | [Залежна](https://open.spotify.com/track/4OWagzAOm3OYanfBCtGIHC) | [Anastasia Scar](https://open.spotify.com/artist/27m6wTTcB1UUxD0ntEUe10) | [Залежна](https://open.spotify.com/album/15YYl6HtbFua47sV8BWc5d) | 3:02 |
-| 44 | [Місто Гріхів](https://open.spotify.com/track/6jFuKrJ85QLLMVV3DqhOm4) | [NEYROBIKA](https://open.spotify.com/artist/09C13ZZVg4LyQDwp8Plo7I) | [Місто Гріхів](https://open.spotify.com/album/6FrnLyd9QplcHvUjy7VIGJ) | 2:23 |
-| 45 | [наче квітка](https://open.spotify.com/track/5wPnHYCnroNwpSqIOTAwh4) | [Acid Mamba](https://open.spotify.com/artist/54Vho4U9TwiJLSZqB2CAEz) | [наче квітка](https://open.spotify.com/album/7HFLyBElpI9Ikj1rgMOfjc) | 3:45 |
-| 46 | [добраніч](https://open.spotify.com/track/2nNrTXsnsbBgit5rvqA68v) | [nusia](https://open.spotify.com/artist/7idvUpODaG0Y1oYFSTY1kL) | [садова колискова](https://open.spotify.com/album/7yBGqNkrzTGBTDQa6Und43) | 1:38 |
-| 47 | [Не довіряй](https://open.spotify.com/track/3TyDNH0hWTLN9vLcEYI073) | [Sofira](https://open.spotify.com/artist/6IsIXhoZSxqf4BKGKGiN88) | [Не довіряй](https://open.spotify.com/album/6OZyfeZ4lQ8SvKEnqk9tqI) | 2:30 |
-| 48 | [Мавчин Великдень](https://open.spotify.com/track/7MewkSOUlPPRK6bnuaV5ML) | [Лея](https://open.spotify.com/artist/0ByHX7o0SMk0Vad9zqQIiM) | [Мавчин Великдень](https://open.spotify.com/album/0OogiF9Z4MCguCB1DHyMps) | 2:40 |
-| 49 | [Там](https://open.spotify.com/track/2A2wuVxaZX90BL7DVDkHz4) | [SOULA](https://open.spotify.com/artist/1nBqHVgn6kQMx1PHKiVRRK) | [Там](https://open.spotify.com/album/0Jwko9yrZubymFsRAu6vUf) | 2:35 |
-| 50 | [Злива](https://open.spotify.com/track/13gMmGzqmNFxoaXL01juyw) | [Sofia Dolia](https://open.spotify.com/artist/4ef60CmS5Bqxmixv4iGBBv) | [Злива](https://open.spotify.com/album/2658MYl9szjb1IlzErLdWc) | 3:33 |
-| 51 | [Paris](https://open.spotify.com/track/0tNO6klpI91BcE65gAyOZZ) | [Kulshenka](https://open.spotify.com/artist/4kUHhXm6tx1lMi1RdqDQgu) | [Paris](https://open.spotify.com/album/3t3C3JH6df270genFNzWj0) | 4:00 |
-| 52 | [Не та](https://open.spotify.com/track/3zm3KZOck1uabB1k6Chj7h) | [TEREN](https://open.spotify.com/artist/17U58iRrZzbT9aBuvKf39H) | [Не та](https://open.spotify.com/album/4yZCMwXPOveQ94d1qLpwPj) | 3:15 |
-| 53 | [Кохатиму Так](https://open.spotify.com/track/24zC0PezJHu28IGWGKuBqi) | [Farfur](https://open.spotify.com/artist/3qyJ0PPi7iNvntTIOKTTOZ) | [Кохатиму Так](https://open.spotify.com/album/564C8Epvd5YeopqJvBy7N3) | 3:22 |
-| 54 | [Кордони](https://open.spotify.com/track/2orkaUCctzcrtc3AQ6auTi) | [KAROOKA](https://open.spotify.com/artist/1k5JMm2NvXeUWQ6YWhuDbu) | [Кордони](https://open.spotify.com/album/40dFNbh3asGKCyfJ3omeCu) | 2:55 |
-| 55 | [Помилки](https://open.spotify.com/track/3pPg3K0XW0m3sSL5pyuDsb) | [Rymma](https://open.spotify.com/artist/3tNMAuJS44PVLMfxIGVB0v) | [Помилки](https://open.spotify.com/album/2w8Zml7uo5uHxK0If17um5) | 2:46 |
+| 37 | [Холостяк](https://open.spotify.com/track/7pHoYjL59NXuQHioFsgcVx) | [PROBLEMA](https://open.spotify.com/artist/4RnDiyMmHovpIRHgz5WyTn) | [Холостяк](https://open.spotify.com/album/0s7JG2HI6HahjjyH1mL0QU) | 2:11 |
+| 38 | [Романтика зникла](https://open.spotify.com/track/6zZieeqbx3B7cvL5FcNd3D) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Романтика зникла](https://open.spotify.com/album/6yRfukpFIdWOOgumCqlwYu) | 3:26 |
+| 39 | [На буй](https://open.spotify.com/track/1qS2Zo5GyOGPRWNzBbZYfH) | [TRINY T](https://open.spotify.com/artist/151WSLorWES5ccXH79H8H3) | [На буй](https://open.spotify.com/album/2twL6VRheACjuIdHafqWA2) | 2:38 |
+| 40 | [Душа моя](https://open.spotify.com/track/3KhpzGPtDDpHG2e4cXt4dS) | [kedrova](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [Душа моя](https://open.spotify.com/album/6IZjLPQot1M4HwkNi4UHvG) | 2:59 |
+| 41 | [Не пощастило](https://open.spotify.com/track/5yOBPs9JBBe9TJ08JgI8y2) | [Anastasiia Lark](https://open.spotify.com/artist/1lHS8Wtu13ZYieaBkk3xc5) | [Не пощастило](https://open.spotify.com/album/4RYQ9XGmUXujqapEw3YD6m) | 2:24 |
+| 42 | [Залежна](https://open.spotify.com/track/4OWagzAOm3OYanfBCtGIHC) | [Anastasia Scar](https://open.spotify.com/artist/27m6wTTcB1UUxD0ntEUe10) | [Залежна](https://open.spotify.com/album/15YYl6HtbFua47sV8BWc5d) | 3:02 |
+| 43 | [Місто Гріхів](https://open.spotify.com/track/6jFuKrJ85QLLMVV3DqhOm4) | [NEYROBIKA](https://open.spotify.com/artist/09C13ZZVg4LyQDwp8Plo7I) | [Місто Гріхів](https://open.spotify.com/album/6FrnLyd9QplcHvUjy7VIGJ) | 2:23 |
+| 44 | [наче квітка](https://open.spotify.com/track/5wPnHYCnroNwpSqIOTAwh4) | [Acid Mamba](https://open.spotify.com/artist/54Vho4U9TwiJLSZqB2CAEz) | [наче квітка](https://open.spotify.com/album/7HFLyBElpI9Ikj1rgMOfjc) | 3:45 |
+| 45 | [добраніч](https://open.spotify.com/track/2nNrTXsnsbBgit5rvqA68v) | [nusia](https://open.spotify.com/artist/7idvUpODaG0Y1oYFSTY1kL) | [садова колискова](https://open.spotify.com/album/7yBGqNkrzTGBTDQa6Und43) | 1:38 |
+| 46 | [Не довіряй](https://open.spotify.com/track/3TyDNH0hWTLN9vLcEYI073) | [Sofira](https://open.spotify.com/artist/6IsIXhoZSxqf4BKGKGiN88) | [Не довіряй](https://open.spotify.com/album/6OZyfeZ4lQ8SvKEnqk9tqI) | 2:30 |
+| 47 | [Мавчин Великдень](https://open.spotify.com/track/7MewkSOUlPPRK6bnuaV5ML) | [Лея](https://open.spotify.com/artist/0ByHX7o0SMk0Vad9zqQIiM) | [Мавчин Великдень](https://open.spotify.com/album/0OogiF9Z4MCguCB1DHyMps) | 2:40 |
+| 48 | [Там](https://open.spotify.com/track/2A2wuVxaZX90BL7DVDkHz4) | [SOULA](https://open.spotify.com/artist/1nBqHVgn6kQMx1PHKiVRRK) | [Там](https://open.spotify.com/album/0Jwko9yrZubymFsRAu6vUf) | 2:35 |
+| 49 | [Злива](https://open.spotify.com/track/13gMmGzqmNFxoaXL01juyw) | [Sofia Dolia](https://open.spotify.com/artist/4ef60CmS5Bqxmixv4iGBBv) | [Злива](https://open.spotify.com/album/2658MYl9szjb1IlzErLdWc) | 3:33 |
+| 50 | [Paris](https://open.spotify.com/track/0tNO6klpI91BcE65gAyOZZ) | [Kulshenka](https://open.spotify.com/artist/4kUHhXm6tx1lMi1RdqDQgu) | [Paris](https://open.spotify.com/album/3t3C3JH6df270genFNzWj0) | 4:00 |
+| 51 | [Не та](https://open.spotify.com/track/3zm3KZOck1uabB1k6Chj7h) | [TEREN](https://open.spotify.com/artist/17U58iRrZzbT9aBuvKf39H) | [Не та](https://open.spotify.com/album/4yZCMwXPOveQ94d1qLpwPj) | 3:15 |
+| 52 | [Кохатиму Так](https://open.spotify.com/track/24zC0PezJHu28IGWGKuBqi) | [Farfur](https://open.spotify.com/artist/3qyJ0PPi7iNvntTIOKTTOZ) | [Кохатиму Так](https://open.spotify.com/album/564C8Epvd5YeopqJvBy7N3) | 3:22 |
+| 53 | [Кордони](https://open.spotify.com/track/2orkaUCctzcrtc3AQ6auTi) | [KAROOKA](https://open.spotify.com/artist/1k5JMm2NvXeUWQ6YWhuDbu) | [Кордони](https://open.spotify.com/album/40dFNbh3asGKCyfJ3omeCu) | 2:55 |
+| 54 | [Помилки](https://open.spotify.com/track/3pPg3K0XW0m3sSL5pyuDsb) | [Rymma](https://open.spotify.com/artist/3tNMAuJS44PVLMfxIGVB0v) | [Помилки](https://open.spotify.com/album/2w8Zml7uo5uHxK0If17um5) | 2:46 |
 
-Snapshot ID: `aBp4agAAAACEOFCxsuwlujaNQobvF4D/`
+Snapshot ID: `aDRGEQAAAAApCdfKmeWfy/NnHDU2BG28`

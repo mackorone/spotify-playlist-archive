@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,151 songs - 9 day 13 hr 52 min
+4,152 songs - 9 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Baby Demon](https://open.spotify.com/track/1PGXHcJVqYWVMVkMLIDGZV) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Baby Demon](https://open.spotify.com/album/0yMErHqzYaX4PyCAz4640l) | 5:11 | 2024-07-12 | 2024-07-19 |
 | [Babyface Maniacs](https://open.spotify.com/track/5jAgJyYGFg75DpIyEGxomh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Babyface Maniacs](https://open.spotify.com/album/4t9pNaVyoEp5W1eVLARj0x) | 3:41 | 2025-03-28 | 2025-04-05 |
 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-03-21 | 2025-03-29 |
+| [BABYLON](https://open.spotify.com/track/0BxAZwmNBSkn7PAr8IFE7u) | [Admire](https://open.spotify.com/artist/5oXdh0MVrWuptXDqymjW8P) | [BABYLON](https://open.spotify.com/album/5rarub38VAIQgy4BP7G4MS) | 2:29 | 2025-05-26 |  |
 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2024-10-18 | 2024-10-26 |
 | [Babystar](https://open.spotify.com/track/5OcunBpmeye3xYjpCKPxs3) | [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp), [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF), [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn) | [Babystar](https://open.spotify.com/album/0IUHZhIubBFhlt5iRZVBMI) | 5:46 | 2025-04-10 | 2025-04-26 |
 | [Bachata Sin Pijama](https://open.spotify.com/track/07JIcb9YdwPMSdMCQOR5RM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bachata Sin Pijama](https://open.spotify.com/album/2ZfhC7pNzBkMp4XKbW23Wo) | 3:15 | 2024-12-20 | 2025-01-11 |

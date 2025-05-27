@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Senndy, Alee",
-  "num_followers": 146985,
+  "num_followers": 146996,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -415,30 +415,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 158400,
       "name": "PIR\u00c2MIDE",
       "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -623,34 +623,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Mozin",
-          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
-        },
-        {
-          "name": "DiCastro",
-          "url": "https://open.spotify.com/artist/4B0PCTFMn7yjoobr2b1WKm"
-        }
-      ],
-      "duration_ms": 188423,
-      "name": "LOBO",
-      "url": "https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
@@ -675,6 +647,34 @@
       "duration_ms": 160000,
       "name": "OURO BRANCO",
       "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "DiCastro",
+          "url": "https://open.spotify.com/artist/4B0PCTFMn7yjoobr2b1WKm"
+        }
+      ],
+      "duration_ms": 188423,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
         "name": "Estrela do Blocko !",
         "url": "https://open.spotify.com/album/5NduXW5kkie5ZrLJBO3OF0"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 129733,
       "name": "Contando na Minha",
       "url": "https://open.spotify.com/track/7E3Yl950GR5DvQiAH6AJlN"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -1003,34 +1003,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "N\u00e3o Tenho Tempo",
-        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "N\u00e3o Tenho Tempo",
-      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "QMPND",
         "url": "https://open.spotify.com/album/6AVzXJNMTCUDuEH5tI5G4L"
       },
@@ -1059,6 +1031,34 @@
       "duration_ms": 160004,
       "name": "Esse Cara Sou Eu",
       "url": "https://open.spotify.com/track/1ZT7EVs6OJxUlcGCL3mFM2"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
       "added_at": "2025-05-23 03:01:28",

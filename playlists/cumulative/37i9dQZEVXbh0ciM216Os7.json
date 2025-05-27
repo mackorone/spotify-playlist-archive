@@ -26027,6 +26027,24 @@
     },
     {
       "album": {
+        "name": "Killed to Death by Piracy",
+        "url": "https://open.spotify.com/album/1k5h8H7z1qLlmA0zmi6qhU"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199704,
+      "name": "Killed to Death by Piracy",
+      "url": "https://open.spotify.com/track/6GGFETmD8LcH7zQpHhj8wm"
+    },
+    {
+      "album": {
         "name": "Killin' Time",
         "url": "https://open.spotify.com/album/5YGwvrD8FI9KmSVIK2zzzX"
       },
@@ -50150,7 +50168,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 201272,
       "name": "T\u014dzai",
       "url": "https://open.spotify.com/track/4eI5WznPcDj4RBPwOlSVVB"

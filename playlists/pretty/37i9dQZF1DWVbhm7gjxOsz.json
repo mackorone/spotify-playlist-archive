@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 111071,
+  "num_followers": 111186,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 170439,
-      "name": "Laughing Boy",
-      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 133693,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Complete Motown Singles Vol. 10: 1970",
-        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+        "name": "Looking Back 1961-1964",
+        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
       },
       "artists": [
         {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 172560,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+      "duration_ms": 177333,
+      "name": "What Love Has Joined Together - Single Version",
+      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1659,6 +1659,22 @@
       "duration_ms": 166842,
       "name": "Your Love Is Gold",
       "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Complete Motown Singles Vol. 10: 1970",
+        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1703,22 +1719,6 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Looking Back 1961-1964",
-        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "What Love Has Joined Together - Single Version",
-      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "All Time Favorites: Sunny & the Sunglows",
-        "url": "https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunglows",
-          "url": "https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Blue Eyes Crying In the Rain",
         "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 179480,
       "name": "Those Oldies But Goodies Remind Me Of You",
       "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "All Time Favorites: Sunny & the Sunglows",
+        "url": "https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunglows",
+          "url": "https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "The Love Album",
+        "url": "https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 156573,
+      "name": "You'll Lose a Good Thing (Rerecorded)",
+      "url": "https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 234593,
       "name": "Whatcha Know",
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "The Love Album",
-        "url": "https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 156573,
-      "name": "You'll Lose a Good Thing (Rerecorded)",
-      "url": "https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl"
     },
     {
       "added_at": "2025-05-23 07:54:59",

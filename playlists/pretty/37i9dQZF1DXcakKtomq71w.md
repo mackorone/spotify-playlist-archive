@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,599 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,601 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Loren](https://open.spotify.com/track/0lF8TrcPZnlqrCF0NOa7ox) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Loren](https://open.spotify.com/album/5C4oHrgT5vl8VUIZ9PmuB6) | 7:19 |
 | 50 | [Ay Amor](https://open.spotify.com/track/4pKtSOYHlfvT3lW15FHcEW) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Ay Amor](https://open.spotify.com/album/3chMLoqAgKW6UtAgSmoFhA) | 8:03 |
 
-Snapshot ID: `Z696QwAAAACg/fgVBi1XXxELeA/AAklJ`
+Snapshot ID: `Z696QwAAAACveTxFUuCoT0Z5o/6oHuBw`

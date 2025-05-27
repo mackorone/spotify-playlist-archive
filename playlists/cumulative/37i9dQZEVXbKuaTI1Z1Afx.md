@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-3,863 songs - 8 day 13 hr 38 min
+3,864 songs - 8 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1390,6 +1390,7 @@
 | [Healing](https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:54 | 2024-08-13 | 2024-08-20 |
 | [Hear Me Clearly \(feat\. Nigo\)](https://open.spotify.com/track/0fOpKW6soqAbK8lvRXjhPg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:21 | 2022-04-29 | 2022-04-30 |
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-29 | 2022-04-03 |
+| [Heart By Heart](https://open.spotify.com/track/5wGrodae5bpzjDStJQieMn) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:10 | 2025-05-26 |  |
 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-11-12 | 2024-11-19 |
 | [Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(50th Anniversary Edition\)](https://open.spotify.com/album/2LOpi63tYGh0Suy8eLJDVQ) | 3:07 | 2024-03-20 | 2024-04-05 |
 | [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-06-13 | 2023-06-27 |
@@ -2275,7 +2276,7 @@
 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/1xIibyoUvyxwoNqx8quHSz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 3:46 | 2022-12-27 | 2023-01-04 |
 | [my twenty first reason </3](https://open.spotify.com/track/1Ckfi62Br5R05IhPEZgA4e) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62) | [suburban daredevil](https://open.spotify.com/album/2HrbzfA5VoFhQtXpHsT1qQ) | 1:45 | 2025-05-10 | 2025-05-14 |
 | [my twenty first reason </3](https://open.spotify.com/track/4K475XgrOAIwfIbp0Pks2B) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:45 | 2025-05-13 | 2025-05-19 |
-| [My World](https://open.spotify.com/track/355eig0215HZpTaanTdsY5) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again](https://open.spotify.com/album/0pSIFVPHDByTEX6LztYz9M) | 2:37 | 2025-05-15 |  |
+| [My World](https://open.spotify.com/track/355eig0215HZpTaanTdsY5) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again](https://open.spotify.com/album/0pSIFVPHDByTEX6LztYz9M) | 2:37 | 2025-05-15 | 2025-05-27 |
 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 | 2025-05-13 | 2025-05-16 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-13 |  |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-30 | 2024-02-02 |

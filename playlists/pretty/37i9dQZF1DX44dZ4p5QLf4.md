@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New releases in modern soul\. Cover: JONES
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,828 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,865 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 7 | [Music Never Looked So Good](https://open.spotify.com/track/30SSROjHo9udK1ko3cRm5a) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Music Never Looked So Good](https://open.spotify.com/album/2vlaYSup5x8yLVlgQKkC60) | 3:17 |
 | 8 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 9 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
-| 10 | [A Life You Keep Denying](https://open.spotify.com/track/0EFwRqvkugzr2hsjz91nLz) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ), [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [A Life You Keep Denying](https://open.spotify.com/album/5buNtSwHjYqWxSscBQfzHA) | 3:45 |
+| 10 | [A Life You Keep Denying](https://open.spotify.com/track/0EFwRqvkugzr2hsjz91nLz) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ), [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo), [Piero Conte](https://open.spotify.com/artist/1cpO9uPVOrwgYGOqtMU8f8) | [A Life You Keep Denying](https://open.spotify.com/album/5buNtSwHjYqWxSscBQfzHA) | 3:45 |
 | 11 | [Paralyzed in Paradise](https://open.spotify.com/track/3DKepGvTJawKQo7QLWBMw3) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Paralyzed In Paradise](https://open.spotify.com/album/2Ql6T0E0WNCxgNNpD8su77) | 2:20 |
 | 12 | [DONE](https://open.spotify.com/track/0RTGPmfIv278O99DzsCNhn) | [Shaynah](https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG) | [DONE](https://open.spotify.com/album/1vxF3Tbp9xxCW4T5OMDeqF) | 3:49 |
 | 13 | [Little Miss Playa](https://open.spotify.com/track/6dfOSyPfztyvZU0xgvKIqm) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Bella Luna](https://open.spotify.com/artist/7ATn4QW2vNMQ1ASAHFZqqQ) | [Little Miss Playa](https://open.spotify.com/album/0m1oNr6LIpQbimeiX4QxUz) | 2:06 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 20 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 |
 | 21 | [Handle That](https://open.spotify.com/track/4HJX5m1Rx5HzifYizr34dt) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [KT.FM](https://open.spotify.com/album/5PoOWQThDKCdkfvx6zGthx) | 3:19 |
 | 22 | [Are U Still](https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Are U Still](https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR) | 3:50 |
-| 23 | [I'll Be Your Friend](https://open.spotify.com/track/48wmbIMECpmc4FyNtLL1VI) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ), [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D) | [I'll Be Your Friend](https://open.spotify.com/album/7o5LHcnX1sLlB8wGP9FZqp) | 4:06 |
+| 23 | [I'll Be Your Friend](https://open.spotify.com/track/48wmbIMECpmc4FyNtLL1VI) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ), [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Piero Conte](https://open.spotify.com/artist/1cpO9uPVOrwgYGOqtMU8f8) | [I'll Be Your Friend](https://open.spotify.com/album/7o5LHcnX1sLlB8wGP9FZqp) | 4:06 |
 | 24 | [Thought I Could Fly](https://open.spotify.com/track/6zzEcgCg2irJVhlx9OTQUA) | [Klyne](https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7) | [Thought I Could Fly](https://open.spotify.com/album/2kpT9JPbWt4JwRspbYuEvT) | 2:51 |
 | 25 | [Don't like it](https://open.spotify.com/track/7nEfpjyJDCsDIyLZLeNCok) | [Sacks](https://open.spotify.com/artist/2p1XtMfkxTw9w9CyytF5ac) | [Don't like it](https://open.spotify.com/album/2IMlzK8BcScpD44BF7VVZM) | 3:00 |
 | 26 | [Finity](https://open.spotify.com/track/7yh5tLunbxJYhexQdR1rvg) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [Finity](https://open.spotify.com/album/7jBSHl4xTF5cv4l8O28L8p) | 3:23 |

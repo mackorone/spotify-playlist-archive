@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Mert Demir ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,281 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,302 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 77 | [AVARAMU](https://open.spotify.com/track/7k4BO4n6UVKZ5F3913GAzJ) | [Sarkopenya](https://open.spotify.com/artist/5gWZMQPBKOuupwvDFkgbIX) | [AVARAMU](https://open.spotify.com/album/7n4ORA1p8bAMTkfK3n8s8I) | 1:39 |
 | 78 | [XL](https://open.spotify.com/track/66pHwHClSBlfcnXCpUMEAH) | [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [XL](https://open.spotify.com/album/281WWRbVDHDDWCrp3qUmH8) | 1:53 |
 | 79 | [Kusurlu Karar](https://open.spotify.com/track/1NBxakqegvNFx8MjXyWAQ6) | [Adap](https://open.spotify.com/artist/2xpPtYGxthlE6Grdbp9AmR) | [Kusurlu Karar](https://open.spotify.com/album/3ObZqVNojVYUFCMW2Gxmxj) | 4:00 |
-| 80 | [KURŞUN](https://open.spotify.com/track/4IoqAQ8tRQfr5TgaMcLVD9) | [Azap HG](https://open.spotify.com/artist/5e533hdLKXcsl4BhU7gjqv), [Meff](https://open.spotify.com/artist/5dvmafuLMyKhwMYxxex9qb) | [KURŞUN](https://open.spotify.com/album/0KjjUXiCy7itTBDw7cY2JJ) | 3:32 |
+| 80 | [KURŞUN](https://open.spotify.com/track/4IoqAQ8tRQfr5TgaMcLVD9) | [Azap HG](https://open.spotify.com/artist/5e533hdLKXcsl4BhU7gjqv), [Meff](https://open.spotify.com/artist/5dvmafuLMyKhwMYxxex9qb), [Çağıl Serbeş](https://open.spotify.com/artist/0RpvYrkdqe9mPzvxMfLf8F) | [KURŞUN](https://open.spotify.com/album/0KjjUXiCy7itTBDw7cY2JJ) | 3:32 |
 | 81 | [Güneş, gece](https://open.spotify.com/track/5UHAR4VrrPB0ulSag6dxSU) | [Bertzo](https://open.spotify.com/artist/1PlejC9Ved1LVVUnFwD91z) | [Güneş, gece](https://open.spotify.com/album/5uKcgoxvJM40hL3NgDeitP) | 2:17 |
 | 82 | [KALİTE](https://open.spotify.com/track/4eAmwSBBLFyihyjIUzk0YD) | [ROSHA](https://open.spotify.com/artist/2qKMvolFKY8CtTHhMfiU1x) | [KALİTE](https://open.spotify.com/album/3b1m4ZyiV7RTVSt3r0QveD) | 2:14 |
 | 83 | [De Haydin](https://open.spotify.com/track/0m7gA0YyjngOCtoIsQhww9) | [Yasak Helva](https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw) | [De Haydin](https://open.spotify.com/album/6rsK2pH9w75W5wxMs4G3dV) | 3:57 |

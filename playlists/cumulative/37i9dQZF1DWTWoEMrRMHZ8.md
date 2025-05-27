@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Marisa Monte, Gilberto Gil
 
-951 songs - 2 day 7 hr 24 min
+952 songs - 2 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Corpo a Corpo](https://open.spotify.com/track/2hZgZByQW2nnfYtatCsBsy) | [Ian Lasserre](https://open.spotify.com/artist/4qLHglq7jZvaVZFYwEyKWa) | [Corpo a Corpo](https://open.spotify.com/album/56jMSW9PRi6hQOUwqHrH5u) | 3:24 | 2022-12-16 | 2023-01-14 |
 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 | 2025-03-21 | 2025-05-03 |
 | [Cremosa](https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 2:40 | 2024-04-26 | 2024-06-08 |
-| [Crer\-Sendo](https://open.spotify.com/track/6UyykAis0jsDbgoJSb5UuH) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [1D10 \(Ao Vivo no Estúdio\)](https://open.spotify.com/album/6iEvRc5xZvkWzBvFDMumy4) | 3:37 | 2025-05-09 |  |
+| [Crer\-Sendo](https://open.spotify.com/track/6UyykAis0jsDbgoJSb5UuH) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [1D10 \(Ao Vivo no Estúdio\)](https://open.spotify.com/album/6iEvRc5xZvkWzBvFDMumy4) | 3:37 | 2025-05-09 | 2025-05-27 |
 | [Cuida de mim](https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Cuida de mim](https://open.spotify.com/album/4Tg4kfHPx27Xbm4CegjX2U) | 3:28 | 2024-06-14 | 2024-07-19 |
 | [Céu Azul](https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Céu Azul / Canção no Rádio](https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R) | 3:09 | 2025-02-07 |  |
 | [Céu da Boca](https://open.spotify.com/track/5Q7BuAZbulj3VezdhoPBAD) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [Tori](https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS) | [Céu da Boca](https://open.spotify.com/album/1WJrBgNXkyjJwwL5dSDwis) | 4:00 | 2025-04-28 |  |
@@ -744,6 +744,7 @@
 | [Romance](https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X) | [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4) | [PROIBIDO NÃO GOSTAR](https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu) | 3:04 | 2024-07-05 | 2024-08-10 |
 | [Romaria](https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Romaria](https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE) | 3:53 | 2023-10-13 | 2024-03-30 |
 | [Rosa Camaleão](https://open.spotify.com/track/21BP4WnSXtGLKjaePYeh8F) | [Rosa Camaleão](https://open.spotify.com/artist/6bjavZT6mu9fVAusWws0r8) | [Rosa Camaleão](https://open.spotify.com/album/4kjJCmtTYACtEVrYR3lSZu) | 3:20 | 2022-06-17 | 2022-07-16 |
+| [Rota](https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:35 | 2025-05-26 |  |
 | [Rotação](https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Acústico](https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U) | 3:30 | 2021-12-24 | 2023-09-02 |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-10-06 | 2024-01-06 |
 | [Roupa Branca](https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc) | 2:27 | 2023-11-24 | 2024-04-06 |

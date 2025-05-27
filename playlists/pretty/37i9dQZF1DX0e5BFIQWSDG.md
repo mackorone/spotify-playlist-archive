@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: SNIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,025 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,096 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Xanw Ton Elegxo](https://open.spotify.com/track/3a1lqA8O0C0Ty1W6SBvhzk) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [Ki2d](https://open.spotify.com/album/4APMq2g1qGMZxkuHrgqO6q) | 2:30 |
 | 50 | [900 HP](https://open.spotify.com/track/0hPrlXWvNoepVF8eidONY5) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [900 HP](https://open.spotify.com/album/3WZkzyUbrUBrXhNRDenwXA) | 2:46 |
 
-Snapshot ID: `AAAAAIMZXCpTILXLUcfck1LZoa65PTU2`
+Snapshot ID: `aCG/pwAAAABX4ag7ZOmByHEoK1dQ4x+k`

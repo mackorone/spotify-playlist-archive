@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50536,
+  "num_followers": 50552,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDEMAAAAAAAGKsAuhOjvz/re+uP7dwHe",
+  "snapshot_id": "aDJdgAAAAACr3cx+TGLEiwKYa1JC7yHE",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Mueran de Envidia",
-        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 214038,
-      "name": "Que Se Mueran de Envidia",
-      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 203706,
       "name": "Ap\u00e1rtame Esta Noche",
       "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Se Mueran de Envidia",
+        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Que Se Mueran de Envidia",
+      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cristaleros Michoacanos",
         "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 139075,
       "name": "Andamos Borrachos",
       "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
     },
     {
       "added_at": null,

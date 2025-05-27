@@ -3393,6 +3393,32 @@
     },
     {
       "album": {
+        "name": "Coke Water",
+        "url": "https://open.spotify.com/album/4CYUTilHveCYEczzUgtkqZ"
+      },
+      "artists": [
+        {
+          "name": "Spirit-Boyz",
+          "url": "https://open.spotify.com/artist/6AJbgTSjqsI3NP6rGcGNbh"
+        },
+        {
+          "name": "Sedii_M",
+          "url": "https://open.spotify.com/artist/2lHtmiMXL6I6WpJsFvAP8Z"
+        },
+        {
+          "name": "Malemon",
+          "url": "https://open.spotify.com/artist/6cs1bOgbQNCeY9fxkkUcRq"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345044,
+      "name": "Coke Water",
+      "url": "https://open.spotify.com/track/3ELcYge9PNSTfJQcxnCdKb"
+    },
+    {
+      "album": {
         "name": "Collide (feat. Tyga)",
         "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
       },
@@ -4916,7 +4942,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
@@ -7748,7 +7774,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 373982,
       "name": "Khuze (feat. Ney, Scotts Maphuma & CowBoii)",
       "url": "https://open.spotify.com/track/5NuVlok76CekM6zD1aHR24"
@@ -10280,6 +10306,24 @@
       "duration_ms": 153684,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
+    },
+    {
+      "album": {
+        "name": "New Vibe",
+        "url": "https://open.spotify.com/album/66lajESu3al2QMhmHKFP5B"
+      },
+      "artists": [
+        {
+          "name": "heisrema",
+          "url": "https://open.spotify.com/artist/2Ds9EsmE5VCwjSaeOl9bYX"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134395,
+      "name": "New Vibe",
+      "url": "https://open.spotify.com/track/6AJCnZRaLiFJ8JkKIaMo1L"
     },
     {
       "album": {

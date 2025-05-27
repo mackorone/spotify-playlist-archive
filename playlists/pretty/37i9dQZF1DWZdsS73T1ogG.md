@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Cris Mj
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,319 likes - 148 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,286 likes - 148 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

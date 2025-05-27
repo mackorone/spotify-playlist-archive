@@ -1,29 +1,13 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Foyone",
-  "num_followers": 541702,
+  "num_followers": 541690,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6n1WV1P6qEakrrReGA4zA3MFnL",
+  "snapshot_id": "aDQe2AAAAAAG8YxYoMKXh+xpKyh0OrRW",
   "tracks": [
-    {
-      "added_at": "2025-05-22 22:00:36",
-      "album": {
-        "name": "RAPSINCORTE 53",
-        "url": "https://open.spotify.com/album/4HK1IM9sdMFpNY7YaPr8Dh"
-      },
-      "artists": [
-        {
-          "name": "Foyone",
-          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "RAPSINCORTE 53",
-      "url": "https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1"
-    },
     {
       "added_at": "2025-05-22 22:00:36",
       "album": {
@@ -91,6 +75,22 @@
     {
       "added_at": "2025-05-22 22:00:36",
       "album": {
+        "name": "RAPSINCORTE 53",
+        "url": "https://open.spotify.com/album/4HK1IM9sdMFpNY7YaPr8Dh"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "RAPSINCORTE 53",
+      "url": "https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1"
+    },
+    {
+      "added_at": "2025-05-22 22:00:36",
+      "album": {
         "name": "CADENAS",
         "url": "https://open.spotify.com/album/692W4fGKUrRQ8IoiY7hZxo"
       },
@@ -117,7 +117,7 @@
       "artists": [
         {
           "name": "Sosad",
-          "url": "https://open.spotify.com/artist/1ozak2yMgoDrtWJrMVjXXn"
+          "url": "https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w"
         }
       ],
       "duration_ms": 160851,

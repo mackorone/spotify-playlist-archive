@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: نبيل
 
-1,477 songs - 3 day 10 hr 33 min
+1,478 songs - 3 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Malamhe](https://open.spotify.com/track/4xb4C74lJKFSr0UaD3z4K7) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Malamhe](https://open.spotify.com/album/2HABaYD6SD8pe3E8KAqTX0) | 3:46 | 2023-02-16 | 2023-04-15 |
 | [Malek Elsahar](https://open.spotify.com/track/35VD9PmXoX7nJyZVEu9C0o) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Malek Elsahar](https://open.spotify.com/album/3jBkDbiVGtA7nd2kGp9pBo) | 1:39 | 2023-07-20 | 2023-08-17 |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2021-12-23 | 2022-01-21 |
+| [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 | 2025-05-26 |  |
 | [Maleket Zamanek](https://open.spotify.com/track/6LKlJo52VWSNDdx2yeVQ9s) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Maleket Zamanek](https://open.spotify.com/album/1iVnxG8DsuG4vs9iJZKfGj) | 3:03 | 2024-09-06 | 2024-10-18 |
 | [Malena Leh](https://open.spotify.com/track/5E96Ex09RlVHskQfsZVjfo) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Malena Leh](https://open.spotify.com/album/46nBeCCXZtYYIeljz9QdJ3) | 3:31 | 2023-01-26 | 2023-01-28 |
 | [Malhash Mo3adla](https://open.spotify.com/track/5yDHyx5aRFk5oRN2nJRqcr) | [Alaa Elsherbiny](https://open.spotify.com/artist/3o74UR7VzGk5oczcaBl7xq), [Ahmed Eldouh](https://open.spotify.com/artist/4sSxgx82R6L9XAsTBWeSnS), [Abdelrahman Hesham](https://open.spotify.com/artist/2DLUoa0no5f8sVpcZwsmyr) | [Malhash Mo3adla](https://open.spotify.com/album/4XOYpbSMZcPcIpzfjXF5tM) | 4:19 | 2024-10-18 | 2024-12-13 |
@@ -1343,7 +1344,7 @@
 | [ما اتفقناش](https://open.spotify.com/track/1NgXSCMvPWPYvewx5m2Oyr) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [ما اتفقناش](https://open.spotify.com/album/59VCxKihjY3xe5zG8srH2X) | 3:41 | 2024-01-05 | 2024-02-08 |
 | [ماتيجي اعدي عليكي](https://open.spotify.com/track/4Tfdzh30bYmSPsWhAnUhYG) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:25 | 2024-07-24 | 2024-09-13 |
 | [مارتحناش](https://open.spotify.com/track/7MQEgw6m2eAxJMsy5AURlG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [مارتحناش](https://open.spotify.com/album/5TV3DdIKADbHPmMP7QyJbP) | 3:36 | 2024-02-13 | 2024-04-12 |
-| [ماشيها انا راضي](https://open.spotify.com/track/2uyzaV69yUV3shcAr9yF8f) | [Ahmed Elseweasy](https://open.spotify.com/artist/0njKUrmrzCFy6D3813NPlk) | [ماشيها انا راضي](https://open.spotify.com/album/51IbSxgZOFCrjQBNtcjMji) | 3:00 | 2025-05-01 |  |
+| [ماشيها انا راضي](https://open.spotify.com/track/2uyzaV69yUV3shcAr9yF8f) | [Ahmed Elseweasy](https://open.spotify.com/artist/0njKUrmrzCFy6D3813NPlk) | [ماشيها انا راضي](https://open.spotify.com/album/51IbSxgZOFCrjQBNtcjMji) | 3:00 | 2025-05-01 | 2025-05-27 |
 | [ماليش في القفش](https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [ماليش في القفش](https://open.spotify.com/album/7zY2CdxjCPh0WFO7BUz6ZC) | 2:27 | 2023-07-28 | 2023-08-18 |
 | [مبهتمش](https://open.spotify.com/track/4BKOtec0onTzosQFlOO9g3) | [زينة](https://open.spotify.com/artist/4xZjS8kM1HwJBnfn7IcPio) | [مبهتمش](https://open.spotify.com/album/4WFxZukuTollg6diHGcP5j) | 3:26 | 2024-05-02 | 2024-07-05 |
 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 | 2025-03-21 |  |

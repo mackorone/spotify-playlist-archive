@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,316 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,343 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Home](https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Home](https://open.spotify.com/album/2Ol1BUBqVyX0e20HgocWp8) | 3:22 |
 | 100 | [7 minutes in heaven](https://open.spotify.com/track/5v6rLrTb6JzqgXXuwGVevq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [7 minutes in heaven](https://open.spotify.com/album/5cxtSmeK3EugYV2ESKAjr0) | 4:51 |
 
-Snapshot ID: `AAAAAPzg+eGGQZNG7L+Gb0MDI5kbGUr6`
+Snapshot ID: `aDDIsgAAAAA9+ore/HkdhDBfN7a94A22`

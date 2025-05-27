@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,476 songs - 6 day 12 hr 49 min
+2,477 songs - 6 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1163,6 +1163,7 @@
 | [Kill Bill](https://open.spotify.com/track/3eo1hxQngQd5mPUfs9xBTs) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Her Thoughts](https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD) | 2:47 | 2024-03-01 | 2024-03-10 |
 | [Kill You](https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum \(Expanded Edition\)](https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1) | 3:40 | 2023-05-26 | 2023-06-18 |
 | [KILLA BEES](https://open.spotify.com/track/2x1sJyFdgcRDh9zlGSqNsa) | [8bfr](https://open.spotify.com/artist/127tw52iDXr7BvgB0IGG2x), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [James J Siburt](https://open.spotify.com/artist/0QYktf9jEBxqA2xysjlr9I) | [KILLA BEES](https://open.spotify.com/album/69TdDh2Ge0xdKPyXN4J2Dx) | 2:41 | 2024-10-04 | 2024-10-06 |
+| [Killed to Death by Piracy](https://open.spotify.com/track/6GGFETmD8LcH7zQpHhj8wm) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Killed to Death by Piracy](https://open.spotify.com/album/1k5h8H7z1qLlmA0zmi6qhU) | 3:19 | 2025-05-23 |  |
 | [Killin' Time](https://open.spotify.com/track/1HtwsvHDgGqhY00SeJxNAx) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Killin' Time](https://open.spotify.com/album/5YGwvrD8FI9KmSVIK2zzzX) | 3:24 | 2024-06-28 | 2024-07-21 |
 | [Killing Floor \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Killing Floor \(Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967\)](https://open.spotify.com/album/2WI9lpUoCz2iXHWfrv2O2q) | 3:43 | 2023-09-22 | 2023-10-14 |
 | [Killing Floor \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/1dlZtNHfWTIv4F7AHeTmbe) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967](https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP) | 4:20 | 2023-11-17 | 2023-11-24 |
@@ -2243,7 +2244,7 @@
 | [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2024-10-18 | 2024-10-25 |
 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-12-06 | 2024-12-14 |
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-02-10 | 2023-02-19 |
-| [Tōzai](https://open.spotify.com/track/4eI5WznPcDj4RBPwOlSVVB) | [KaizanBlu](https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV), [Ignacio Arrúa](https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD) | [Tōzai](https://open.spotify.com/album/4y41gtPrMRikFrGjeWwfE4) | 3:21 | 2025-05-23 |  |
+| [Tōzai](https://open.spotify.com/track/4eI5WznPcDj4RBPwOlSVVB) | [KaizanBlu](https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV), [Ignacio Arrúa](https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD) | [Tōzai](https://open.spotify.com/album/4y41gtPrMRikFrGjeWwfE4) | 3:21 | 2025-05-23 | 2025-05-27 |
 | [U.S\. Blues \- Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78](https://open.spotify.com/track/6LU2I1t7zvaHXTkqJ2MygV) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [U.S\. Blues \(Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78\)](https://open.spotify.com/album/0iX61Dfmg6WoimYQuohiCD) | 5:49 | 2024-08-02 | 2024-08-25 |
 | [U.S\. Blues \- Take 8](https://open.spotify.com/track/3T1jkscRUHZDz5c6jLhSCg) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel: The Angel's Share](https://open.spotify.com/album/0U8ec9AzCbzMNNFEAAteQY) | 4:48 | 2024-04-19 | 2024-04-20 |
 | [U.S\. Blues \- Takes 1 and 2](https://open.spotify.com/track/6038Yj83tztaf22nodgd2L) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel: The Angel's Share](https://open.spotify.com/album/0U8ec9AzCbzMNNFEAAteQY) | 5:10 | 2024-04-19 | 2024-04-21 |

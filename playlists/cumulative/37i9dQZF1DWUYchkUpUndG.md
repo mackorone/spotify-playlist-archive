@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Greatman Takit and Limoblaze
 
-5,303 songs - 16 day 4 hr 2 min
+5,304 songs - 16 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1793,6 +1793,7 @@
 | [Have Your Peace](https://open.spotify.com/track/6HIhrilGA4ckhAgUGtzjz9) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [KamiKwazi](https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw) | [Have Your Peace](https://open.spotify.com/album/58ViAJEM1JIZ1CyMtrlkWI) | 3:15 | 2024-10-25 | 2024-11-08 |
 | [Have Your Way](https://open.spotify.com/track/4VCsdspGodd6K77OtQ8EKp) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [Divine Dambo](https://open.spotify.com/artist/1O08svmPNmRwqRTwD6SBD1) | [Have Your Way](https://open.spotify.com/album/2NTibn3xfTtL4bhnA9rdvC) | 5:00 | 2024-08-30 | 2024-09-14 |
 | [Have Your Way](https://open.spotify.com/track/30JK4DzqWi4qLo4rBEYELT) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Have Your Way](https://open.spotify.com/album/0IUQLDKCdrblB6IERFLPZe) | 11:48 | 2024-08-16 | 2024-08-30 |
+| [HAVE YOUR WAY \- Acoustic](https://open.spotify.com/track/7632UEos9JCznD1UCFsLDI) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ) | [HAVE YOUR WAY \(Acoustic\)](https://open.spotify.com/album/4NnDJ5elFwPykKxpRr13ez) | 4:01 | 2025-05-26 |  |
 | [Have Your Way Lord](https://open.spotify.com/track/1MK0ELZ5CkfNdjlqGDLgFI) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Have Your Way Lord](https://open.spotify.com/album/6uiSnHpFTH6WnG5CAPE2qK) | 5:59 | 2025-05-23 |  |
 | [Have Your Will](https://open.spotify.com/track/2x11OKWn8k842gIeOpkLW7) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV), [T.Rose](https://open.spotify.com/artist/6FNNw25VPuFm9p28Y0Kz2M) | [Have Your Will](https://open.spotify.com/album/1s7EDxuSOFWIN4fuO9CeMW) | 4:32 | 2024-01-26 | 2024-02-09 |
 | [Havivah spontaneous worship](https://open.spotify.com/track/1hcO7zUk0UZBP0ubP1SFmY) | [Havivah](https://open.spotify.com/artist/2b5T53uADPIMH0TA9VghgA) | [Havivah spontaneous worship](https://open.spotify.com/album/1KgzFRPqPlPIh9XpADyH2m) | 8:30 | 2023-11-03 | 2023-11-17 |

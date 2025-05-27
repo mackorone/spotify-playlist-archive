@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: DIIV
 
-306 songs - 19 hr 54 min
+307 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Sad Eyes](https://open.spotify.com/track/5Fdomh8NNsUWjWjrdaZPgi) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Sad Eyes](https://open.spotify.com/album/3S86147AAV0UuOvWTM4sl0) | 4:08 | 2024-07-11 | 2024-10-04 |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-06-14 | 2025-03-22 |
 | [Scared Of Screaming](https://open.spotify.com/track/2P3ZRlyJxseRbrxMbMltuP) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Scared Of Screaming](https://open.spotify.com/album/5TF56mSxRuv2Tivpiem1ff) | 5:11 | 2025-05-08 |  |
+| [Shame](https://open.spotify.com/track/550fqOZMPaSRasqZhA32Kf) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [The Painful Truth](https://open.spotify.com/album/5jq8APA0WmCEaIeHoGciO3) | 4:06 | 2025-05-23 |  |
 | [Shells](https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Shells](https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL) | 3:51 | 2025-05-08 | 2025-05-24 |
 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 | 2024-06-14 | 2025-03-22 |
 | [Skin On Skin](https://open.spotify.com/track/122FrmjHy0x5IJtvo2KiVB) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Skin On Skin](https://open.spotify.com/album/6fdKohnIlpVFtyqC9TbSq4) | 3:20 | 2024-08-14 | 2024-10-07 |
@@ -270,7 +271,7 @@
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-07 |  |
 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-14 | 2025-01-19 |
 | [The Painting of the Bay](https://open.spotify.com/track/4ycRADJsEIYuhH4JUcs9jf) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [The Painting of the Bay](https://open.spotify.com/album/3h85DpIWAVUkFTq14XTBPA) | 3:20 | 2024-08-14 | 2024-10-07 |
-| [The Pleasure Trap](https://open.spotify.com/track/2mI7aWxYs50PoJWylBq9qY) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [The Pleasure Trap](https://open.spotify.com/album/1W1uBckiXC3EI2QieEvZOL) | 3:25 | 2025-05-08 |  |
+| [The Pleasure Trap](https://open.spotify.com/track/2mI7aWxYs50PoJWylBq9qY) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [The Pleasure Trap](https://open.spotify.com/album/1W1uBckiXC3EI2QieEvZOL) | 3:25 | 2025-05-08 | 2025-05-27 |
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-10-06 |  |
 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 | 2024-06-14 | 2024-08-15 |
 | [The Silence That Remains](https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [The Silence That Remains](https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95) | 5:42 | 2024-10-06 | 2025-03-23 |

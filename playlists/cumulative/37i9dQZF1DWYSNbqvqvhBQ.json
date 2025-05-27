@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 231684,
       "name": "Echo",
       "url": "https://open.spotify.com/track/0NacKxe1z1ADPT1owpC984"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 178779,
       "name": "Have A Little Faith",
       "url": "https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti"
@@ -6414,7 +6414,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 185480,
       "name": "matter",
       "url": "https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov"
@@ -8577,6 +8577,24 @@
     },
     {
       "album": {
+        "name": "Smiley Virus",
+        "url": "https://open.spotify.com/album/1qVxPJEMoM7g4ZNJup3iNZ"
+      },
+      "artists": [
+        {
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244836,
+      "name": "Smiley Virus",
+      "url": "https://open.spotify.com/track/64NdtfJDKnhkpCik9ohh3U"
+    },
+    {
+      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -8708,6 +8726,24 @@
       "duration_ms": 174000,
       "name": "somebody's daughter",
       "url": "https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261677,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4"
     },
     {
       "album": {
@@ -10036,6 +10072,24 @@
       "duration_ms": 218586,
       "name": "The World We Live In",
       "url": "https://open.spotify.com/track/42DL51J09MOKC4sfBmQJWX"
+    },
+    {
+      "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/2c1hGxNtwhCI9xjcmgJr6t"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/3tRfWnJXA557NsVIz2R2GB"
     },
     {
       "album": {

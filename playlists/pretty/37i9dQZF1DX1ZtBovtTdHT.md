@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,634 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,649 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 12 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 13 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
 | 14 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
-| 15 | [Ayla Pt\. 2](https://open.spotify.com/track/1hChLdk0hBQbapbpVUVlNa) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq) | [Nirwana](https://open.spotify.com/album/01kLROis8vImm0gixW3kq0) | 3:19 |
-| 16 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
+| 15 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
+| 16 | [Ayla Pt\. 2](https://open.spotify.com/track/1hChLdk0hBQbapbpVUVlNa) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq) | [Nirwana](https://open.spotify.com/album/01kLROis8vImm0gixW3kq0) | 3:19 |
 | 17 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
 | 18 | [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 |
 | 19 | [Because The Night \(Radio Edit\)](https://open.spotify.com/track/46T7WAIHdt9v6xsqtWU6CH) | [Jan Wayne](https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC) | [Back Again!](https://open.spotify.com/album/5JQuXobnpxRkqE1jovr1N9) | 3:33 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 53 | [Perfect World \- Richi's Single Version](https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1) | [Richi M.](https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b) | [Perfect World](https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc) | 4:09 |
 | 54 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
 | 55 | [Komodo](https://open.spotify.com/track/0KeUidAZVdvTbM553K7809) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [90s Super Hits](https://open.spotify.com/album/1aT4pCssUqFdte15MlK1nX) | 3:24 |
-| 56 | [On The Move \- Radio Edit](https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On the Move](https://open.spotify.com/album/2dyNhjsccNcbYfEr4JOxJT) | 3:36 |
-| 57 | [Café Del Mar \- Three 'N One Remix](https://open.spotify.com/track/2806zlG6vxrILY5HCiIhRK) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [A State Of Trance 650 \(Selected by Armin van Buuren, BT, Aly & Fila, Kyau & Albert and Omnia\)](https://open.spotify.com/album/6u7grtt0BlbPuW90VtiWdn) | 3:50 |
+| 56 | [Café Del Mar \- Three 'N One Remix](https://open.spotify.com/track/2806zlG6vxrILY5HCiIhRK) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [A State Of Trance 650 \(Selected by Armin van Buuren, BT, Aly & Fila, Kyau & Albert and Omnia\)](https://open.spotify.com/album/6u7grtt0BlbPuW90VtiWdn) | 3:50 |
+| 57 | [On The Move \- Radio Edit](https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On the Move](https://open.spotify.com/album/2dyNhjsccNcbYfEr4JOxJT) | 3:36 |
 | 58 | [Gouryella \- Radio Edit](https://open.spotify.com/track/1EAxDiugDns3MDRYENPjko) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/0qRJZ8hAlDxAVrnJpzqL6O) | 3:42 |
 | 59 | [Free](https://open.spotify.com/track/4UuA9Tn0QfBEkea3Rcf2q3) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:10 |
 | 60 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |

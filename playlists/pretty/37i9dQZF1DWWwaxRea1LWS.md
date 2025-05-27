@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates 10 years of Blurryface\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,320,407 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,320,242 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 39 | [I Just Wanna Run](https://open.spotify.com/track/3WLLJzllBEgPiSA0qd3BN3) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Let's Be Animals](https://open.spotify.com/album/0RwnbN9KIwtKC2iI8sjFPx) | 3:19 |
 | 40 | [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:16 |
 
-Snapshot ID: `aC6hRwAAAABWZh/orEhdMU6YDp+2MFbu`
+Snapshot ID: `AAAAAOT+WQy3HUP1eToL4VF6vy8aOrzp`

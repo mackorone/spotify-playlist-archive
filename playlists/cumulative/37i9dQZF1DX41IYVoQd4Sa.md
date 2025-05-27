@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-236 songs - 13 hr 51 min
+237 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Never Land](https://open.spotify.com/track/4AyZu1oGMkctesnFZIPgL1) | [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [I Never Land](https://open.spotify.com/album/0jYlxuuRcYQydLzceR0ZLu) | 3:12 | 2024-07-18 | 2024-08-16 |
 | [If Whiskey Was A Friend](https://open.spotify.com/track/3DFfLQlJlPDeGrNbktAmy9) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [If Whiskey Was A Friend](https://open.spotify.com/album/6MUOd5Aud7D5CfsD3DK9BQ) | 3:33 | 2024-07-18 | 2024-08-16 |
 | [In Love Again](https://open.spotify.com/track/47jC4oWp7aLnmO5SMkhfU3) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [In love Again](https://open.spotify.com/album/5ysI0lyjbTNUI0w7MoVvHA) | 3:01 | 2024-08-01 | 2024-08-20 |
+| [iPhone \- גרסה ערבית](https://open.spotify.com/track/7mof4b20syBh5TcdSi8fBT) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [iPhone \(גרסה ערבית\)](https://open.spotify.com/album/41vJ98xdJ01oLTLIiF9Lgn) | 4:19 | 2025-05-22 |  |
 | [It's Ok](https://open.spotify.com/track/1wbwAFuw1iQaYOHp3AQvmj) | [Helfer](https://open.spotify.com/artist/6ca6hQoFgRKbYyPURjPL0t), [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg), [Age Is a Box](https://open.spotify.com/artist/1O0pQLwyMDj4bq3SHtlqaQ) | [It's Ok](https://open.spotify.com/album/3g3n658KWC6touzYDjjHe3) | 2:51 | 2025-03-06 | 2025-03-21 |
 | [It’ll Probably Be Fine](https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [Heart Sauce](https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P) | [It’ll Probably Be Fine](https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP) | 2:49 | 2025-05-01 |  |
 | [Jealous](https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Bullies At Recess](https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ) | 2:50 | 2025-05-15 |  |
@@ -124,7 +125,7 @@
 | [הכי מיוחדת](https://open.spotify.com/track/5fQZD0lHFBPnvkKBhQ4SOh) | [Anat Malamud](https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ) | [יתגלה האור](https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G) | 2:34 | 2025-04-10 | 2025-05-09 |
 | [הכל מתפרק](https://open.spotify.com/track/03ydDqCWIXtqRgnEKpTG3w) | [Maya Johanna](https://open.spotify.com/artist/2pgAILWtXXJqguZ19FoDtl), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal), [Dan Zeitune](https://open.spotify.com/artist/0aRKySqyOK24OQj0cHjPq8), [קינצוגי](https://open.spotify.com/artist/3bObsA817ZJmVleSeONvk9) | [הכל מתפרק](https://open.spotify.com/album/59FNHo2IUGXrPs2cHJZfwk) | 3:20 | 2025-03-20 | 2025-05-02 |
 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 | 2024-06-27 | 2024-08-23 |
-| [הכלים השבורים](https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [הכלים השבורים](https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk) | 3:29 | 2025-01-23 |  |
+| [הכלים השבורים](https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [הכלים השבורים](https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk) | 3:29 | 2025-01-23 | 2025-05-27 |
 | [הכלים השבורים](https://open.spotify.com/track/23GTlgyW30suOUiIzOeZwS) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [הכלים השבורים](https://open.spotify.com/album/6I0Vjzr0C0aTTYX51gKmsk) | 3:27 | 2024-07-25 | 2024-09-14 |
 | [הלוך ושוב](https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [לחיות](https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL) | 4:16 | 2024-09-05 | 2024-11-29 |
 | [המחלה שלי](https://open.spotify.com/track/4KvXDIhFUlVLvyXMg1LBa2) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS) | [המחלה שלי](https://open.spotify.com/album/4uC06N3kCx2ngbZZAqDkvA) | 3:48 | 2024-09-12 | 2024-09-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Buscabulla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,372 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,336 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Donde Fuimos Libres](https://open.spotify.com/track/2J60mhQwOnYzIH9XSI52pD) | [Lady Ma Belle](https://open.spotify.com/artist/2zEaaKAloDC00e7FDTuIIN) | [Donde Fuimos Libres](https://open.spotify.com/album/5Ptya7M3cBiBcvkaIcDNu8) | 2:45 |
 | 50 | [Si llega el momento](https://open.spotify.com/track/0J2ZdtoamMNQ2134L0Llj1) | [Volavent](https://open.spotify.com/artist/6Mh7nmPPk64ydB0liVmXRb) | [Si llega el momento](https://open.spotify.com/album/1X84y5CdnGfTJMVVKZiQCp) | 3:50 |
 
-Snapshot ID: `aC/y7gAAAAC9873M0zjvr2mINT/NOTpR`
+Snapshot ID: `aC/y7gAAAAABnz/kLQxbf7xvdf6u7I9u`

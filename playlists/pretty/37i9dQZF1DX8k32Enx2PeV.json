@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 13282,
+  "num_followers": 13288,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -373,6 +373,26 @@
       "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
     },
     {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+    },
+    {
       "added_at": "2025-04-11 11:37:28",
       "album": {
         "name": "ASTROPICAL",
@@ -395,26 +415,6 @@
       "duration_ms": 176666,
       "name": "Coraz\u00f3n Adentro (Escorpio)",
       "url": "https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "ADN (Cap\u00edtulo N)",
-        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 182233,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -523,30 +523,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Coco Loco",
-        "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
-      },
-      "artists": [
-        {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
-        },
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Coco Loco",
-      "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "B\u00faho",
         "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 191141,
       "name": "Caribe\u00f1a",
       "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 256847,
       "name": "Quiromancia (feat. Vic Mirallas)",
       "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "XOD\u00d3",
+        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
+      },
+      "artists": [
+        {
+          "name": "JBot & Tuti",
+          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "XOD\u00d3",
+      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Emocional",
         "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 200769,
       "name": "Calor",
       "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "XOD\u00d3",
-        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
-      },
-      "artists": [
-        {
-          "name": "JBot & Tuti",
-          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "XOD\u00d3",
-      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
     },
     {
       "added_at": "2024-08-09 04:23:31",

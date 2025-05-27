@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Anggi Marito, Reneé Rapp, Elliot James Reay, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,575 likes - 121 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,580 likes - 121 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 17 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
 | 18 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 |
 | 19 | [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 |
-| 20 | [Aku Ada](https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4) | [Zaki Yamani](https://open.spotify.com/artist/50Or8lcMSe9UF559vd963e), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Aku Ada](https://open.spotify.com/album/7qIpOc3Ild13s6iDAapo5R) | 4:22 |
+| 20 | [Aku Ada](https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Aku Ada](https://open.spotify.com/album/7qIpOc3Ild13s6iDAapo5R) | 4:22 |
 | 21 | [Lebih Baik Sendiri](https://open.spotify.com/track/7qEr1Q8iW53TU6iKC6ASaW) | [Atmosfera](https://open.spotify.com/artist/2pXyE80rHLNcLvx6doOfDA) | [Lebih Baik Sendiri](https://open.spotify.com/album/1wqqwv4xejla9W8Lqm4Uq0) | 3:15 |
 | 22 | [Cak Cak Cekuk](https://open.spotify.com/track/5ynphprbUJNGcYMGCo9L2z) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Cak Cak Cekuk](https://open.spotify.com/album/5VcZD9boBUwkyS3qf6FiW6) | 2:44 |
 | 23 | [just a girl](https://open.spotify.com/track/0A53ixVdk0LYKSJKPQzm9q) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [just a girl](https://open.spotify.com/album/0H5hmZbrMRlTS7UmOVJcSf) | 2:49 |

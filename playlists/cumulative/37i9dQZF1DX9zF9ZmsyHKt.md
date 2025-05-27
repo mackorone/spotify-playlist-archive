@@ -2,7 +2,7 @@
 
 ### [Melodys Marcantes](https://open.spotify.com/playlist/37i9dQZF1DX9zF9ZmsyHKt)
 
-> O melhor do Tecnobrega, Melody e Brega do norte!
+> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
 298 songs - 17 hr 33 min
 

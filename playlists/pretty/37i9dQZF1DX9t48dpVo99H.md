@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,034 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,115 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 59 | [Chakra Crystal Bowl](https://open.spotify.com/track/3CuBUJAF5DoX7EQ9L4KcOd) | [Shakti Kaur](https://open.spotify.com/artist/38wLc5Qs3tOzu6PKDRh4yl) | [Sleep Crystal Bowl](https://open.spotify.com/album/3IIxIGhR9JEP48Aq6UZIGP) | 3:36 |
 | 60 | [Dark Waves](https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Brown Noise](https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2) | 2:20 |
 
-Snapshot ID: `aBoFPQAAAAC1luFpjBImKRUjoXWFWDKT`
+Snapshot ID: `aBoFPQAAAACR2/rYeT02CYpEpGtsdqy8`

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-470 songs - 1 day 3 hr 29 min
+472 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [I Got Love](https://open.spotify.com/track/4KUvir7HcUGWZNNCjUckI5) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [I Got Love / Stay Behind](https://open.spotify.com/album/291rt10ZQsv8QnAhS5e115) | 2:52 | 2021-03-06 | 2022-03-18 |
 | [I Got You](https://open.spotify.com/track/1vpXogmIQSjEa4zDIBjTto) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [I Got You](https://open.spotify.com/album/6RVUJqWsijWixBw4BbYYUI) | 3:52 | 2020-11-13 | 2022-03-18 |
 | [I Love Us](https://open.spotify.com/track/0KOSSMQDkpHulm08iO00mF) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [I Love Us](https://open.spotify.com/album/3IBmX0kudqBXygh2Q9IApI) | 3:10 | 2020-10-10\* | 2021-05-13 |
+| [I Love You](https://open.spotify.com/track/1Jhe9I2Vo5OlpnrsWUIDGi) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/7Hks9ICeDsvo3LP6gGRJhR) | 5:05 | 2025-05-27 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2021-10-27 |  |
 | [I Missed Out](https://open.spotify.com/track/4DQVTfZfLYIf88tZJsVsXx) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [I Missed Out](https://open.spotify.com/album/0xpUbobig8qJeW38JgJbow) | 3:33 | 2020-10-10\* | 2021-02-25 |
 | [I Need Some of That](https://open.spotify.com/track/1fDFIckfX373VPKvpIzFAl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz) | 3:19 | 2021-05-08 | 2022-03-18 |
@@ -232,7 +233,7 @@
 | [Little Demons](https://open.spotify.com/track/68GgyKHv3CTtdYgKxKTkdu) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Little Demons](https://open.spotify.com/album/5lsG2cfL2jOjRVpEVosSvB) | 4:01 | 2021-07-31 |  |
 | [Living Less](https://open.spotify.com/track/3pJ49gTiEDhoOCOHsJuICg) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Living Less](https://open.spotify.com/album/3rVXlK56UyRhBP042AdMrw) | 2:43 | 2024-09-20 |  |
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2020-10-10\* | 2021-02-25 |
-| [Local God](https://open.spotify.com/track/3XADz7YwWlGDErHwv5F093) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Local God](https://open.spotify.com/album/50uQ50fSsmddC5xAHLb49w) | 3:00 | 2022-08-05 |  |
+| [Local God](https://open.spotify.com/track/3XADz7YwWlGDErHwv5F093) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Local God](https://open.spotify.com/album/50uQ50fSsmddC5xAHLb49w) | 3:00 | 2022-08-05 | 2025-05-27 |
 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 | 2020-10-10\* | 2021-02-25 |
 | [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 | 2023-11-03 |  |
 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 | 2022-04-01 |  |
@@ -327,6 +328,7 @@
 | [Remote Control](https://open.spotify.com/track/5IsB2kShsBfmHZcXqcFB7Y) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Remote Control](https://open.spotify.com/album/4DuPTIodLTC82Llh8k3Cwg) | 2:41 | 2021-02-26 | 2022-03-18 |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-02-25 | 2022-03-18 |
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-07 |  |
+| [Roman Holiday](https://open.spotify.com/track/31DbMrPKt8Ij7gzTQFX9Io) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/7Hks9ICeDsvo3LP6gGRJhR) | 4:28 | 2025-05-27 |  |
 | [Runner](https://open.spotify.com/track/0aMKaYfkzcwh14WfpoPy48) | [Raintalker](https://open.spotify.com/artist/4F1DTiHCQnuKW8PDPSNzOC) | [Runner](https://open.spotify.com/album/7A0r7W56B7rgoE0xmAoBhr) | 3:47 | 2024-11-22 |  |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-10 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 |  |

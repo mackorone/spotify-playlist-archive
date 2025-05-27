@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 440,924 likes - 49 songs - 2 hr 42 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 440,883 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 10 | [Hip Hop Is What Made Me \(feat\. DJ ACE NYC & Larissa Lambert\)](https://open.spotify.com/track/7iSwN7wyIDX4QpnhyxjYGv) | [Def Manic](https://open.spotify.com/artist/5plJ0ZhN706lDAG4o8w56S) | [Hip Hop Is What Made Me \(feat\. DJ ACE NYC & Larissa Lambert\)](https://open.spotify.com/album/0rF7WiRHOcPDhzFZpeeHFR) | 3:51 |
 | 11 | [Adaptive](https://open.spotify.com/track/0JMyB8P3aHQKHwzXsml7lU) | [Legend33](https://open.spotify.com/artist/6oZpjOA0Sv7It0aJnA7lEO) | [Adaptive](https://open.spotify.com/album/54bpXOxrI7ekgQxYZXnXWc) | 2:59 |
 | 12 | [I.A.T.B](https://open.spotify.com/track/7mRhxxvVfL2GsRbimnpFG1) | [Lost Contact](https://open.spotify.com/artist/19HMZIaaucDNyTOpgdsGC6) | [Artful Thesis](https://open.spotify.com/album/2PpMQNwq42ynykXh3QgUvH) | 3:38 |
-| 13 | [Third Base](https://open.spotify.com/track/2TD0v4GilM4ZB15GtU2AoC) | [D\. Horton](https://open.spotify.com/artist/7odZ53xYf4DUUhJ0Prwckd), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC), [KtGotBeats](https://open.spotify.com/artist/5mHX51YaPkhRv0OTpgAh25) | [The Sessions 2](https://open.spotify.com/album/4De2xn1mtPCoS9EsvIGrhL) | 3:38 |
+| 13 | [Third Base](https://open.spotify.com/track/2TD0v4GilM4ZB15GtU2AoC) | [D\. Horton](https://open.spotify.com/artist/7odZ53xYf4DUUhJ0Prwckd), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [The Sessions 2](https://open.spotify.com/album/4De2xn1mtPCoS9EsvIGrhL) | 3:38 |
 | 14 | [Ticket Master](https://open.spotify.com/track/2m8p6xUOGmMxG59eRFrNXs) | [DJ Ronde](https://open.spotify.com/artist/3NbC1LduU5G5iPJ3rL8V0a) | [Ticket Master](https://open.spotify.com/album/65uIyzDFYvmjBcsn8wzstG) | 5:21 |
 | 15 | [Jazziturno](https://open.spotify.com/track/4GDPNkubo9q5UJIgYtixoR) | [Kid Killa](https://open.spotify.com/artist/27JhTMXCAZ92bfmlsuke0C) | [En Vivo Desde Moria](https://open.spotify.com/album/4AKSc8Pa5otTjBEXdgmnGt) | 4:22 |
 | 16 | [AKs](https://open.spotify.com/track/5epDzCepHFrKp6q8jhSEf5) | [Christbearer](https://open.spotify.com/artist/7uCj3mRZZhaYDgYmcQtvok) | [Jesus Christ Bearer Superstar](https://open.spotify.com/album/7KUV3WFVIlapxtV09KBYOp) | 2:45 |

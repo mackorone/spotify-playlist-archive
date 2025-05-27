@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,924 songs - 6 day 14 hr 7 min
+2,925 songs - 6 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Amour plastique](https://open.spotify.com/track/269XSeQhDrWEotMALJaACW) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:45 | 2023-10-06 | 2023-10-13 |
 | [Amour plastique](https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:47 | 2023-10-02 | 2023-10-07 |
 | [Amé](https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amé](https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY) | 3:26 | 2025-04-29 | 2025-05-14 |
+| [Amé](https://open.spotify.com/track/38RZ5LhwLwC6SW6fRHsmEC) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [¿Quién + Como Yo?](https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded) | 3:26 | 2025-05-26 |  |
 | [Anda sola \- Remix](https://open.spotify.com/track/7sETGc6JqtbQxz7rF1D0AX) | [DJ RUGG](https://open.spotify.com/artist/6K7PNZlKTdxYSYPVbgt52p) | [Anda sola \(Remix\)](https://open.spotify.com/album/4VC0zUN0ZzTZbD26s8gNSI) | 3:09 | 2023-07-11 | 2023-07-18 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-03-21 | 2022-03-25 |
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2023-12-02 | 2024-01-31 |
@@ -2913,7 +2914,7 @@
 | [Ángeles Fuimos](https://open.spotify.com/track/16rIILwXsRYk8TfCaPp8z6) | [Adrian Barba](https://open.spotify.com/artist/5KK1FO30lzYPqnPYyS9bu5) | [Somos uno y lo mismo](https://open.spotify.com/album/7EKKJ9YE2jrskhrZaSZZGT) | 4:02 | 2024-03-10 | 2024-03-17 |
 | [Él No Es Tuyo](https://open.spotify.com/track/1Ob7BoZlmwL5itaJAScc1I) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Él No Es Tuyo](https://open.spotify.com/album/0baLGh3enDgF1Ley0q8NtG) | 3:36 | 2025-04-02 | 2025-04-18 |
 | [Érase una Bestia](https://open.spotify.com/track/270VediAPndHQJHQzJW9dw) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Sarajevo](https://open.spotify.com/album/4StNU0zMhfFYHum9gbm93l) | 4:13 | 2024-09-30 | 2024-10-06 |
-| [Ñero Session 16](https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Ñero Session 16](https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1) | 2:17 | 2025-03-11 |  |
+| [Ñero Session 16](https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Ñero Session 16](https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1) | 2:17 | 2025-03-11 | 2025-05-27 |
 | [Ñero Session 23](https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Ñero Session 23](https://open.spotify.com/album/6qN493Dqvx508buRITESb6) | 2:44 | 2024-07-30 | 2024-08-14 |
 | [Ñero Session 5](https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [Ñero Session 5](https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n) | 2:27 | 2023-08-08 | 2023-10-04 |
 | [Капибара](https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm) | [Сто\-Личный Она\-Нас](https://open.spotify.com/artist/2gcrsPrJGDnAgpOJ0EkToD) | [Капибара](https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk) | 2:04 | 2023-03-07 | 2023-03-29 |

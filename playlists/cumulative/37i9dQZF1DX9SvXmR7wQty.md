@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Valence
 
-3,313 songs - 7 day 7 hr 32 min
+3,314 songs - 7 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [COMMERCE](https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w) | [Stavo](https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Il était une fois](https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL) | 2:05 | 2024-05-03 | 2024-06-15 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
 | [Complémentaires](https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Complémentaires](https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde) | 3:12 | 2024-08-30 | 2024-10-26 |
-| [Confession](https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Confession](https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw) | 2:46 | 2025-05-15 |  |
+| [Confession](https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Confession](https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw) | 2:46 | 2025-05-15 | 2025-05-27 |
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
 | [confettis \(hey ho hey\)](https://open.spotify.com/track/6XqNQEPsnrRESrG75HJgDt) | [Fovelle](https://open.spotify.com/artist/6LoMfV6BitdhcaKkme41PS), [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [confettis \(hey ho hey\)](https://open.spotify.com/album/0Iil8DzHWziaanaWishAv5) | 2:16 | 2024-06-07 | 2024-06-15 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 | 2024-07-06 |
@@ -1548,6 +1548,7 @@
 | [La Masia](https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [La Masia](https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS) | 2:22 | 2023-03-24 | 2023-04-22 |
 | [La mauvaise question](https://open.spotify.com/track/6KYNFAa4z1GJYnAkDf9Gyw) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Si l'essentiel c'est d'être aimé / La mauvaise question](https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu) | 3:49 | 2025-01-17 | 2025-01-25 |
 | [La Maxance](https://open.spotify.com/track/6yP8ZNACztmI2UfAfw9sQO) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La Maxance](https://open.spotify.com/album/3EdRFF6vufkL9fjyoZWqFu) | 2:31 | 2022-05-20 | 2022-06-04 |
+| [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 | 2025-05-23 |  |
 | [La Meilleure](https://open.spotify.com/track/5fEC4YAZALInwKuqwHytir) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [La Meilleure](https://open.spotify.com/album/3J0wjJ5gzCsWdCtWXm9xUK) | 2:45 | 2022-03-25 | 2022-04-09 |
 | [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 | 2025-02-22 |
 | [La missive](https://open.spotify.com/track/1gyz0BM3BISwLNfyviZGpz) | [Paradox](https://open.spotify.com/artist/6A3k4n3B2NbltmxGZ1SW4y), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [La missive](https://open.spotify.com/album/2E6aVszzBEf0ewHrcmgEAy) | 3:23 | 2023-03-24 | 2023-04-16 |

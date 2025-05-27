@@ -4223,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Kahaan Hain Hum",
+        "url": "https://open.spotify.com/album/324mC5qMPVhDoh3JZeSUGn"
+      },
+      "artists": [
+        {
+          "name": "Arunansh Bhatt",
+          "url": "https://open.spotify.com/artist/5PvSbUa901qV2eQuZAFcBG"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224100,
+      "name": "Kahaan Hain Hum",
+      "url": "https://open.spotify.com/track/2cGJlZX7Z1SOHcMf1qEp6g"
+    },
+    {
+      "album": {
         "name": "Kahaani",
         "url": "https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5"
       },
@@ -8850,7 +8868,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 229830,
       "name": "Taranay",
       "url": "https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr"

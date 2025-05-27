@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: La Paloma.
 
-384 songs - 19 hr 38 min
+385 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Pastillas](https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Pastillas](https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs) | 2:30 | 2024-08-29 | 2025-03-09 |
 | [patito](https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [patito](https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ) | 2:54 | 2024-06-27 | 2024-12-13 |
 | [Patrón de las causas imposibles](https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4) | [María Jesús Y Su Hijo](https://open.spotify.com/artist/6u6tjnHJ5CGecNVi2Wfwx9) | [Patrón de las causas imposibles](https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN) | 5:29 | 2024-06-27 | 2024-12-06 |
+| [Pedro Bicicletas](https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Pedro Bicicletas](https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj) | 3:39 | 2025-05-22 |  |
 | [Pelo De Foca](https://open.spotify.com/track/3TnX1o4P2mCyM0to89CXkY) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Pelo De Foca](https://open.spotify.com/album/1x3ua8H7j6q4lQMf5porQw) | 3:32 | 2024-11-07 |  |
 | [Perdiendo el tiempo](https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Perdiendo el tiempo](https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c) | 2:46 | 2024-09-19 | 2025-02-28 |
 | [Perdí los Galeones](https://open.spotify.com/track/2ZNQgbErHYNYUvMKyDAWyS) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Perdí los Galeones](https://open.spotify.com/album/7miU2Pq1UdOCofZdftORYV) | 2:47 | 2024-06-27 |  |
@@ -293,7 +294,7 @@
 | [Regla y purpurina](https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Aún no sé nada del amor](https://open.spotify.com/album/5t7rzhHnSjbEtTQeBGKQHb) | 3:14 | 2025-05-22 |  |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 | 2024-07-27 |
 | [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 | 2024-08-29 |  |
-| [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 | 2024-09-26 |  |
+| [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 | 2024-09-26 | 2025-05-27 |
 | [ROMANTICÓMANA](https://open.spotify.com/track/4u27In1Np7ZXGK6XL7nRfE) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [ROMANTICÓMANA](https://open.spotify.com/album/0BfL4OgoGJ19ZCZYJqD3F9) | 2:13 | 2025-03-13 | 2025-04-04 |
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 | 2024-08-02 |
 | [Ruido Blanco](https://open.spotify.com/track/3EraDTviXLjFiv4lCqqVR5) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [Ruido Blanco](https://open.spotify.com/album/6vHK4Aw6Do2slwN7DXtGSz) | 2:18 | 2024-10-17 | 2024-10-25 |

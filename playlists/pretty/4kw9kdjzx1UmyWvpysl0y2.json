@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125301,
+  "num_followers": 125298,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUH+uYyR0DPO2dg46oWWHwmKh0z1nX",
+  "snapshot_id": "AAAUID89KBdim9sGNo1bJQOAkMwBAW/v",
   "tracks": [
+    {
+      "added_at": "2025-05-26 14:21:42",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/6Hj33Lfj7HLFAPlSz3VsnR"
+      },
+      "artists": [
+        {
+          "name": "Merage",
+          "url": "https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK"
+        },
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1Bg04k5dLQQODib8Xyl0X5"
+    },
     {
       "added_at": "2025-05-23 14:02:13",
       "album": {

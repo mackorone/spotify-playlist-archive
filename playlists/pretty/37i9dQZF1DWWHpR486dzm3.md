@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,692 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,695 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 2 | [Jos tää on unta](https://open.spotify.com/track/2uzW0yZiuqmQ8uSDKuT6yN) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Jos tää on unta](https://open.spotify.com/album/1g15gTR07JOQvmr4wfQxMR) | 3:29 |
 | 3 | [Peppuni kanssa](https://open.spotify.com/track/6fzlPRKNiaUAbagxf7JSTy) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Peppuni kanssa](https://open.spotify.com/album/559fEcHB5OjEn2y4nfKeY7) | 3:55 |
 | 4 | [Maybe It's Time](https://open.spotify.com/track/0W8zQQJb8i7EZ6HUlJ9qlv) | [Oliver Bentley](https://open.spotify.com/artist/7pHfsCiXrweMrhWcW3jxoM) | [Maybe It's Time](https://open.spotify.com/album/5UcGWbRSw4nh3WMhlHzf9u) | 3:27 |
-| 5 | [Kuuma ja cool](https://open.spotify.com/track/0xjFqyWMU6XxETKmM4YJ0J) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Kuuma ja cool](https://open.spotify.com/album/5VEnhmraasGluxVLcHvWk1) | 3:03 |
-| 6 | [Tähdenlentoja](https://open.spotify.com/track/4a4HXRYVZZbzWdmXq1gMCX) | [Elsa Brotherus](https://open.spotify.com/artist/0FnNzf5hFFCBd8aqmIqLOG) | [Tähdenlentoja](https://open.spotify.com/album/2koJibPUlF8Yj3IpKDPu5h) | 2:47 |
+| 5 | [Tähdenlentoja](https://open.spotify.com/track/4a4HXRYVZZbzWdmXq1gMCX) | [Elsa Brotherus](https://open.spotify.com/artist/0FnNzf5hFFCBd8aqmIqLOG) | [Tähdenlentoja](https://open.spotify.com/album/2koJibPUlF8Yj3IpKDPu5h) | 2:47 |
+| 6 | [Kuuma ja cool](https://open.spotify.com/track/0xjFqyWMU6XxETKmM4YJ0J) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Kuuma ja cool](https://open.spotify.com/album/5VEnhmraasGluxVLcHvWk1) | 3:03 |
 | 7 | [kiiltokuvaenkeli](https://open.spotify.com/track/2RcKKpzToHrZMc0xUFMggk) | [hannaeerika](https://open.spotify.com/artist/3xgPlTTFoGnbXyNRJ2Tbst) | [kiiltokuvaenkeli](https://open.spotify.com/album/2KzYA54CAWTWBS7rwkUTKF) | 2:29 |
 | 8 | [Oi dai, dai!](https://open.spotify.com/track/5fdc5iT6PTvF9etEHomUeJ) | [Pekko Käppi](https://open.spotify.com/artist/0UMDxlQeIQO1ObwZ2cHrWd), [K:H:H:L](https://open.spotify.com/artist/4pDr5fZXLO5mlYWHa20tUN) | [Oi dai, dai!](https://open.spotify.com/album/3BX73yS3dDnFlyGAPnYCQd) | 2:23 |
 | 9 | [Pussailen tyttöjen kaa](https://open.spotify.com/track/2eq3QZaSggqDpiWhYXCnT1) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Pussailen tyttöjen kaa](https://open.spotify.com/album/6U8gffgnU4I1rbVnge2oCU) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Liikkuva Linna](https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Liikkuva Linna](https://open.spotify.com/album/0e1h1kTCHOPrIqKyP8Ryaf) | 3:11 |
 | 80 | [If I Were You](https://open.spotify.com/track/1eJdFgLpiZIFeLvdmBDL1T) | [Emmy June](https://open.spotify.com/artist/1S76Iyppbkq6drUAnaBtDD) | [If I Were You](https://open.spotify.com/album/1rMb70VBaLIzSQU7g8rpZP) | 4:26 |
 
-Snapshot ID: `aC+QqgAAAADG3e6kdlu1xFW2VGFsyx9E`
+Snapshot ID: `aDRs/wAAAAC1doqidRrihtBACHA4pAhf`

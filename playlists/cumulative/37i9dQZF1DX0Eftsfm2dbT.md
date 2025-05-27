@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> いよいよPOP YOURS開催! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 唾奇, Kohjiya
+> いよいよPOP YOURS開催! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Elle Teresa, swetty
 
 1,649 songs - 3 day 12 hr 10 min
 

@@ -1,6 +1,6 @@
 {
   "description": "punchline (def): algo impactante, inesperado, usado de forma inteligente. ok, entendi...\n",
-  "num_followers": 1406049,
+  "num_followers": 1406105,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,30 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
+        "name": "USD, \u00e9 USD!",
+        "url": "https://open.spotify.com/album/5leihKxCDkW9o25unr3j6S"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Mzl Ori",
+          "url": "https://open.spotify.com/artist/7b2orftrm2hU49EZKOD2Tz"
+        }
+      ],
+      "duration_ms": 181629,
+      "name": "USD, \u00e9 USD!",
+      "url": "https://open.spotify.com/track/0JPpScEAtvRvWQ38nifwO9"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -307,30 +331,6 @@
       "duration_ms": 145812,
       "name": "CONFISS\u00d5ES PT2",
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
-        "name": "USD, \u00e9 USD!",
-        "url": "https://open.spotify.com/album/5leihKxCDkW9o25unr3j6S"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "DJ Mzl Ori",
-          "url": "https://open.spotify.com/artist/7b2orftrm2hU49EZKOD2Tz"
-        }
-      ],
-      "duration_ms": 181629,
-      "name": "USD, \u00e9 USD!",
-      "url": "https://open.spotify.com/track/0JPpScEAtvRvWQ38nifwO9"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Sem Tempo Pra Fofoca",
-        "url": "https://open.spotify.com/album/1kOekmmNItSKpxIVfVk1Tf"
-      },
-      "artists": [
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Sem Tempo Pra Fofoca",
-      "url": "https://open.spotify.com/track/3MAt1i2suotwxyd7t3R5X5"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "E A\u00ed Como Que T\u00e1 ?",
         "url": "https://open.spotify.com/album/5BRiXvVnDXU9lMuLKG4Msd"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 134000,
       "name": "E A\u00ed Como Que T\u00e1 ?",
       "url": "https://open.spotify.com/track/32L3KPUr7J2qIVGZpaFjsJ"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Sem Tempo Pra Fofoca",
+        "url": "https://open.spotify.com/album/1kOekmmNItSKpxIVfVk1Tf"
+      },
+      "artists": [
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Sem Tempo Pra Fofoca",
+      "url": "https://open.spotify.com/track/3MAt1i2suotwxyd7t3R5X5"
     },
     {
       "added_at": "2025-05-23 03:01:28",

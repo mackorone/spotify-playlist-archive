@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: S\u00edvia P\u00e9rez Cruz y Salvador Sobral.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Pastor y Silvio Rodr\u00edguez.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -652,6 +652,24 @@
       "duration_ms": 242586,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv"
+    },
+    {
+      "album": {
+        "name": "Aunque ya no est\u00e9s",
+        "url": "https://open.spotify.com/album/3ZVfdRLce6u9UnwQGeE7Ic"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Aunque ya no est\u00e9s",
+      "url": "https://open.spotify.com/track/0iazekHlqaDN5x05wiXz4L"
     },
     {
       "album": {
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 214881,
       "name": "Deseos de cosas imposibles",
       "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
@@ -4792,6 +4810,28 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
+    },
+    {
+      "album": {
+        "name": "Quererte",
+        "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181825,
+      "name": "Quererte",
+      "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 26915,
+  "num_followers": 26921,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDEMAAAAAACFj+tm1le8p4BYD/lzjziP",
+  "snapshot_id": "aDJdgAAAAABw53ehRLin8BC5sI8pO47Z",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 243120,
-      "name": "State of Emergency",
-      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volume",
         "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 244769,
       "name": "Under Attack",
       "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 243120,
+      "name": "State of Emergency",
+      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Corrupted",
-      "url": "https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH"
+      "duration_ms": 213960,
+      "name": "Calling All Stations",
+      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 213960,
-      "name": "Calling All Stations",
-      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
+      "duration_ms": 216413,
+      "name": "Corrupted",
+      "url": "https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH"
     },
     {
       "added_at": null,

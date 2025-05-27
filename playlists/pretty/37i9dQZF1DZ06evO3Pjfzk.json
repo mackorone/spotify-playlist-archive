@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 91358,
+  "num_followers": 91437,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDEMAAAAAACTbqKbGefbeLWfxVmu5zNk",
+  "snapshot_id": "aDJdgAAAAAC+9No7AVgA1vfVxAF5Ms4Z",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Almost Home",
-        "url": "https://open.spotify.com/album/0oSRAV11bGT9ymZKpcwUK0"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
       },
       "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 221135,
-      "name": "Before You Leave (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/7hxMp3wuYWiNzC8ZKn7ztX"
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": null,
@@ -763,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+        "name": "Almost Home",
+        "url": "https://open.spotify.com/album/0oSRAV11bGT9ymZKpcwUK0"
       },
       "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+      "duration_ms": 221135,
+      "name": "Before You Leave (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/7hxMp3wuYWiNzC8ZKn7ztX"
     },
     {
       "added_at": null,

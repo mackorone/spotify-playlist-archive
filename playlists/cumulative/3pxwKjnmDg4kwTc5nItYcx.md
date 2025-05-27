@@ -4,10 +4,11 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-836 songs - 1 day 20 hr 51 min
+837 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [09](https://open.spotify.com/track/1YHK7lD9tjm2IXRnO5WZkM) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [09](https://open.spotify.com/album/7LCNII9sfgoy7wcagY7GUa) | 3:15 | 2025-05-27 |  |
 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 | 2020-10-02 |  |
 | [10,000 Hours \(feat\. Mason Dane\)](https://open.spotify.com/track/6Aj8TG8jFUan8u3465iWh8) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [10,000 Hours \(feat\. Mason Dane\)](https://open.spotify.com/album/6wQrsLW7ccSKjvTCPFSxk7) | 2:16 | 2022-04-22 |  |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2019-10-04 | 2020-02-12 |

@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 | 16 | [Burn \(Spotify OUTSIDE Version\) \- Live from Nashville](https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [OUTSIDE](https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz) | 3:25 |
 | 17 | [Still In Shocc \(Spotify OUTSIDE Version\) \- Live from Watts, CA](https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/0RG860dF0cxd5ODJOYJlOX) | 2:35 |
 
-Snapshot ID: `Z66xHAAAAADblbYjuhXlhknnJTFTahys`
+Snapshot ID: `Z66xHAAAAAAY4+Z2seXcFpeEfOnrPTAM`

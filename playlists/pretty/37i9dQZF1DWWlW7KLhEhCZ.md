@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: N.A.N.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,612 likes - 74 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,609 likes - 74 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 6 | [Saudade](https://open.spotify.com/track/7c0uOOnaG0jbeG8YkdNOfp) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Saudade](https://open.spotify.com/album/0E6T2hpzvXKts6R93vEWOm) | 1:37 |
 | 7 | [PIRÂMIDE](https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:38 |
 | 8 | [Não me entrego](https://open.spotify.com/track/7dvGKMnDyxEY2wmKRrCoGM) | [SNIF](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw), [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [Não me entrego \(versões\)](https://open.spotify.com/album/0UoF88LEAyel6YE4fjaQqf) | 3:13 |
-| 9 | [Meia Volta](https://open.spotify.com/track/72xAgfV9Suj970c4zzg5b5) | [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [Meia Volta](https://open.spotify.com/album/2rrtMJ3IW8sDQIckIgeXIz) | 2:34 |
+| 9 | [Meia Volta](https://open.spotify.com/track/72xAgfV9Suj970c4zzg5b5) | [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ferreira](https://open.spotify.com/artist/5LPrt6Yb6PnetV8iQuVe2J) | [Meia Volta](https://open.spotify.com/album/2rrtMJ3IW8sDQIckIgeXIz) | 2:34 |
 | 10 | [Sucesso do Gueto](https://open.spotify.com/track/2rSOQCND0WK7NwMusqqSCh) | [KOVY](https://open.spotify.com/artist/0i0cvYipeELJcNl9l8jLLK), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Sucesso do Gueto](https://open.spotify.com/album/1g33eUZQGw6fgzAjYI8reS) | 2:18 |
 | 11 | [Club](https://open.spotify.com/track/7aUbV4k1quxoJS5AubhEqL) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Club](https://open.spotify.com/album/4NBMzkzwB16Cojyp2hHGrp) | 2:25 |
 | 12 | [zaza](https://open.spotify.com/track/6Asc5kP4mYUpUXaAqYJV3x) | [offshino](https://open.spotify.com/artist/4N4kqyYIGUt0KAQQFpanfK), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Tuti](https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM), [NovaChance](https://open.spotify.com/artist/7gQSUv8yp5lKdxra1Dvk9L) | [zaza](https://open.spotify.com/album/5sUfmDmImKYdl78AbCODyj) | 2:12 |

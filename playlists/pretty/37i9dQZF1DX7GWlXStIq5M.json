@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Lou Garcia",
-  "num_followers": 371530,
+  "num_followers": 371516,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -99,30 +99,6 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
-    },
-    {
-      "added_at": "2025-05-23 03:00:11",
-      "album": {
         "name": "Tout g\u00e2cher",
         "url": "https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv"
       },
@@ -143,6 +119,30 @@
       "duration_ms": 126191,
       "name": "Tout g\u00e2cher",
       "url": "https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok"
+    },
+    {
+      "added_at": "2025-05-23 03:00:11",
+      "album": {
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -427,18 +427,30 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
         }
       ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
+      "duration_ms": 181714,
+      "name": "Vis\u00e3o",
+      "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -479,46 +491,18 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
       },
       "artists": [
         {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Vis\u00e3o",
-      "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
-    },
-    {
-      "added_at": "2025-05-23 03:00:11",
-      "album": {
-        "name": "Falo Demais",
-        "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 171951,
-      "name": "Falo Demais",
-      "url": "https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ"
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -539,6 +523,22 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
+    },
+    {
+      "added_at": "2025-05-23 03:00:11",
+      "album": {
+        "name": "Falo Demais",
+        "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 171951,
+      "name": "Falo Demais",
+      "url": "https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "Esse \u00c9 Meu Mundo",
-        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+        "name": "PARECE OUTRA VIDA",
+        "url": "https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Kaike",
-          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
         }
       ],
-      "duration_ms": 201792,
-      "name": "\u00c1gua de Coco",
-      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
+      "duration_ms": 161754,
+      "name": "PARECE OUTRA VIDA",
+      "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -1103,6 +1099,26 @@
       "duration_ms": 147015,
       "name": "N\u00e3o Posso",
       "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
+    },
+    {
+      "added_at": "2025-05-23 03:00:11",
+      "album": {
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        }
+      ],
+      "duration_ms": 201792,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "PARECE OUTRA VIDA",
-        "url": "https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM"
-      },
-      "artists": [
-        {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
-        }
-      ],
-      "duration_ms": 161754,
-      "name": "PARECE OUTRA VIDA",
-      "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
-    },
-    {
-      "added_at": "2025-05-23 03:00:11",
-      "album": {
         "name": "Veste a Camisa",
         "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 151389,
       "name": "Veste a Camisa",
       "url": "https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI"
+    },
+    {
+      "added_at": "2025-05-23 03:00:11",
+      "album": {
+        "name": "POR QUE VOC\u00ca FOI EMBORA?",
+        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
+      },
+      "artists": [
+        {
+          "name": "Nanasai",
+          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
+        }
+      ],
+      "duration_ms": 219567,
+      "name": "POR QUE VOC\u00ca FOI EMBORA?",
+      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -1227,22 +1243,6 @@
       "duration_ms": 179256,
       "name": "Rota",
       "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
-    },
-    {
-      "added_at": "2025-05-23 03:00:11",
-      "album": {
-        "name": "POR QUE VOC\u00ca FOI EMBORA?",
-        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
-      },
-      "artists": [
-        {
-          "name": "Nanasai",
-          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
-        }
-      ],
-      "duration_ms": 219567,
-      "name": "POR QUE VOC\u00ca FOI EMBORA?",
-      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "\u00c1GUA DE COCO",
-        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
-        }
-      ],
-      "duration_ms": 134705,
-      "name": "\u00c1GUA DE COCO",
-      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
-    },
-    {
-      "added_at": "2025-05-23 03:00:11",
-      "album": {
         "name": "F.O.D.A.",
         "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 179954,
       "name": "F.O.D.A.",
       "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
+    },
+    {
+      "added_at": "2025-05-23 03:00:11",
+      "album": {
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+        }
+      ],
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "Fanfic de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Fanfic de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
-    },
-    {
-      "added_at": "2025-05-23 03:00:11",
-      "album": {
         "name": "Cena 1",
         "url": "https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
+        "name": "Fanfic de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
       },
       "artists": [
         {
-          "name": "Angela Destro",
-          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
         }
       ],
-      "duration_ms": 167076,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
+      "duration_ms": 160000,
+      "name": "Fanfic de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
     },
     {
       "added_at": "2025-05-23 03:00:11",
@@ -1695,6 +1679,22 @@
       "duration_ms": 210450,
       "name": "Incerto",
       "url": "https://open.spotify.com/track/3W5b5HNjXOhyJYElO9ItQL"
+    },
+    {
+      "added_at": "2025-05-23 03:00:11",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
+      },
+      "artists": [
+        {
+          "name": "Angela Destro",
+          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
     }
   ],
   "unique_name": "Palco POP",

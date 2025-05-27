@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-402 songs - 21 hr 50 min
+403 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Rakata](https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR) | [Rakata](https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA) | 2:39 | 2024-03-15 | 2024-11-02 |
 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 | 2023-11-10 |  |
 | [Resistencia](https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Blow \(ITA\)](https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq) | [Resistencia](https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E) | 2:43 | 2024-02-16 | 2024-05-03 |
+| [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-05-23 |  |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2021-10-08 | 2023-10-01 |
 | [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 | 2021-10-08 | 2024-04-19 |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2021-10-08 | 2022-07-29 |
@@ -337,7 +338,7 @@
 | [Sola Nací](https://open.spotify.com/track/39CaT6KwQi81Oc8EHhuL7w) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0), [MORENITA](https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71) | [Sola Nací](https://open.spotify.com/album/5bYUJsr4Pfr9UXhGptxFzf) | 2:46 | 2025-05-02 |  |
 | [Solo Se Vive Una Vez](https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi) | [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Solo Se Vive Una Vez](https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u) | 2:27 | 2024-09-06 | 2025-02-22 |
 | [Sombras](https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Sombras](https://open.spotify.com/album/5eqIgU8H7RVxr5HHnmoodF) | 5:51 | 2024-11-04 | 2025-01-13 |
-| [Sombrerito Blanco](https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Sombrerito Blanco](https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu) | 2:07 | 2024-04-05 |  |
+| [Sombrerito Blanco](https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Sombrerito Blanco](https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu) | 2:07 | 2024-04-05 | 2025-05-27 |
 | [Somos Libres](https://open.spotify.com/track/206DRsL52r4kSdbuDmrkDh) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Somos Libres](https://open.spotify.com/album/4pIOINBVEbIBFLMMTWK3QV) | 3:10 | 2024-05-24 | 2024-07-12 |
 | [Sopa De Caracol](https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc) | [Sopa De Caracol](https://open.spotify.com/album/171b6SxgLjbKiJMfeJ0120) | 2:34 | 2024-09-30 | 2025-01-11 |
 | [Soy Candela](https://open.spotify.com/track/5G2LYJ2GDHfOZKekpAbIMh) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Soy Candela](https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y) | 2:39 | 2024-03-15 | 2024-05-05 |

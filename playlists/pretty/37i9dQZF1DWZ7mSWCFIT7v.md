@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,770 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,805 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,17 +63,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 53 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
 | 54 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 |
 | 55 | [Everything](https://open.spotify.com/track/2VuTl07AKztRIzYuA5iJVj) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Everything](https://open.spotify.com/album/1mf6phipthmQ7n0e3eur7J) | 2:49 |
-| 56 | [Seize](https://open.spotify.com/track/47wrcnRcVBcMhnlWs7h7km) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Seize](https://open.spotify.com/album/2UYwsc4MZ7ZjMxQxoWBEiv) | 4:45 |
-| 57 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 |
+| 56 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 |
+| 57 | [Seize](https://open.spotify.com/track/47wrcnRcVBcMhnlWs7h7km) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Seize](https://open.spotify.com/album/2UYwsc4MZ7ZjMxQxoWBEiv) | 4:45 |
 | 58 | [As X Is Y](https://open.spotify.com/track/3YYrDHL8ZTxBoNE7MqyN34) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Squared Roots](https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4) | 7:08 |
 | 59 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
 | 60 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 |
-| 61 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 |
-| 62 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
-| 63 | [Hidden Hass](https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Hidden Hass](https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn) | 2:07 |
-| 64 | [Other Means](https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Other Means](https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl) | 4:24 |
+| 61 | [Need U](https://open.spotify.com/track/6W9OSgRWeBqulK20rvWqDp) | [Out of\_](https://open.spotify.com/artist/5jJictcua4HAXhz2voFh2C) | [Need U](https://open.spotify.com/album/5Fkn7LxxVhbKKqrYKYdbQa) | 4:04 |
+| 62 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 |
+| 63 | [Other Means](https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Other Means](https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl) | 4:24 |
+| 64 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
 | 65 | [Echoes](https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Echoes](https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN) | 5:31 |
-| 66 | [Need U](https://open.spotify.com/track/6W9OSgRWeBqulK20rvWqDp) | [Out of\_](https://open.spotify.com/artist/5jJictcua4HAXhz2voFh2C) | [Need U](https://open.spotify.com/album/5Fkn7LxxVhbKKqrYKYdbQa) | 4:04 |
+| 66 | [Hidden Hass](https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Hidden Hass](https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn) | 2:07 |
 | 67 | [Vegetal Passivity](https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Vegetal Passivity](https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW) | 3:58 |
 | 68 | [Riot on the Hush \- K\-LONE Remix](https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Hailu Remixes](https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ) | 5:34 |
 | 69 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 85 | [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 |
 | 86 | [Summer Lawns](https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Summering \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4) | 1:28 |
 | 87 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 |
-| 88 | [A2](https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 11:27 |
-| 89 | [Ramada](https://open.spotify.com/track/10xeUT88nJPcCKlBz9vvH1) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Maija Awi](https://open.spotify.com/album/6zPL6drQiQXKRHiIdsZR2t) | 2:52 |
+| 88 | [Ramada](https://open.spotify.com/track/10xeUT88nJPcCKlBz9vvH1) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Maija Awi](https://open.spotify.com/album/6zPL6drQiQXKRHiIdsZR2t) | 2:52 |
+| 89 | [A2](https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 11:27 |
 | 90 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 91 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 |
 | 92 | [Common Land](https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Common Land](https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr) | 5:21 |
 | 93 | [I Exist Inside This Machine](https://open.spotify.com/track/4H3bAliffBEGwr1tKkHheR) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Aneek Thapar](https://open.spotify.com/artist/7ib2ZAqoKc68C2Uks3aN24) | [I Exist Inside This Machine](https://open.spotify.com/album/73Id9hBvdlVdQnftlULeDn) | 5:02 |
 | 94 | [Nutrition](https://open.spotify.com/track/2dT232m3tJqiGxhTQOWlKk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 4:25 |
 | 95 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
-| 96 | [Storm](https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 3:18 |
-| 97 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 |
+| 96 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 |
+| 97 | [Storm](https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 3:18 |
 | 98 | [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 |
 | 99 | [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 |
 | 100 | [Seele III](https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Seelen](https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3) | 4:35 |

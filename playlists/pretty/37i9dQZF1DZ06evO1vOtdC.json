@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 468405,
+  "num_followers": 468438,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDEMAAAAAAB/SMDIhGTnxnR2R9a+X1lG",
+  "snapshot_id": "aDJdgAAAAAD9NOTcv3ZGzYy0UBfVzmoO",
   "tracks": [
     {
       "added_at": null,
@@ -451,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "J.Lo",
-        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+        "name": "Chegaste",
+        "url": "https://open.spotify.com/album/6Hu8uwwicNW49TbvTyZnPO"
       },
       "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        },
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Ain't It Funny",
-      "url": "https://open.spotify.com/track/6J8vBmsokURohC3UygqYOH"
+      "duration_ms": 236057,
+      "name": "Chegaste",
+      "url": "https://open.spotify.com/track/4qQCkzpkOPvbgbcy3fHwxK"
     },
     {
       "added_at": null,
@@ -483,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chegaste",
-        "url": "https://open.spotify.com/album/6Hu8uwwicNW49TbvTyZnPO"
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
       "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        },
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 236057,
-      "name": "Chegaste",
-      "url": "https://open.spotify.com/track/4qQCkzpkOPvbgbcy3fHwxK"
+      "duration_ms": 245360,
+      "name": "Ain't It Funny",
+      "url": "https://open.spotify.com/track/6J8vBmsokURohC3UygqYOH"
     },
     {
       "added_at": null,

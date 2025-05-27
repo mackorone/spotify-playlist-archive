@@ -4,11 +4,12 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-326 songs - 14 hr 26 min
+327 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Moment Of Peace \(Rainy Green Noise\)](https://open.spotify.com/track/6fFR0PmP2feAJubtu2iG0s) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:42 | 2023-05-05 |  |
+| [Alp Creek \(Green Noise\)](https://open.spotify.com/track/6ApZ6n6vifS99HLfVUc4ql) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Alp Creek \(Green Noise\)](https://open.spotify.com/album/0TFXPNIcNxIPCrCRK5gUgi) | 2:19 | 2025-05-26 |  |
 | [Ambient Green Noise with Waves](https://open.spotify.com/track/4dFj5rAfLmDPgpGXn8uIrC) | [Relaxation Labs](https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB) | [Green Noise for Sleep and Stress Relief](https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC) | 3:00 | 2023-03-24 |  |
 | [Ambient Waves \(Green Noise\)](https://open.spotify.com/track/0XHDwwGxM46ao9RpbEQ6gN) | [Oxford Deluxe Noise](https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG) | [Deluxe Green Noise](https://open.spotify.com/album/1PL6IGsV9kxngAVFhoSJdu) | 2:05 | 2023-03-10 |  |
 | [Aquatic Ambiance](https://open.spotify.com/track/2UOtHeQGoHUFiHuz2ltGQA) | [Hill Of Noise](https://open.spotify.com/artist/5Kb33lObrpsXohW3VqcjHU) | [Paradise Noise](https://open.spotify.com/album/44ADZZ3ukpWzUel2lt151f) | 2:31 | 2023-05-05 | 2023-10-06 |
@@ -244,7 +245,7 @@
 | [Oceanic Green Noise](https://open.spotify.com/track/0Hg9UYsQyKaoKvqP8EW48x) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Soundmaking Green Noise](https://open.spotify.com/album/0i3JlQlReHhDlag6OsdeJM) | 2:31 | 2022-12-09 |  |
 | [Olas Verdes Tormentosas](https://open.spotify.com/track/1oJYcgZ4nN3Dz0V90O4C73) | [Audiozze](https://open.spotify.com/artist/4yCJwlN0FB8m09Qfxff2Jt) | [Un Mar Verde de Ruido](https://open.spotify.com/album/0srzhUAOtJkYdfMf6urehL) | 1:53 | 2023-02-03 | 2023-06-17 |
 | [Olive Oasis \- Green Noise](https://open.spotify.com/track/2AMfC7zqbdxJbLWDap3UqQ) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mossy Meditation Green Noise Soundscapes](https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k) | 3:36 | 2023-06-16 |  |
-| [Peaceful Green Noise](https://open.spotify.com/track/56efnPtt1KZTSI7DcTgzOz) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Green Noise](https://open.spotify.com/album/3UjglpBRCskptI5Wpczwts) | 2:38 | 2023-03-24 |  |
+| [Peaceful Green Noise](https://open.spotify.com/track/56efnPtt1KZTSI7DcTgzOz) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Green Noise](https://open.spotify.com/album/3UjglpBRCskptI5Wpczwts) | 2:38 | 2023-03-24 | 2025-05-27 |
 | [Peaceful Respite \- Green Noise](https://open.spotify.com/track/1r7ya0gJFaSZ3ZzrFYutgW) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Enchanted Forest \(Green Noise\)](https://open.spotify.com/album/7DC17asyOzOXwiBpzjsBlD) | 14:58 | 2023-11-24 |  |
 | [Perfect Rainy Green Noise](https://open.spotify.com/track/7vfumRcj1Ga69SEulVaFQJ) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:38 | 2023-03-10 |  |
 | [Planetary Green Noise](https://open.spotify.com/track/6ju7ZpO02Za1jF1qrRKHct) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Green Earth Noise](https://open.spotify.com/album/4JIdhcvmRtzxvyFznmU3Lq) | 3:18 | 2023-06-16 |  |

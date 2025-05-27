@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,327 likes - 130 songs - 6 hr 27 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,327 likes - 137 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,12 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 128 | [I'm So Excited](https://open.spotify.com/track/5nlgFD2K0muydoLGUqfHR1) | [Alex Ferry](https://open.spotify.com/artist/7hqxrg2x1arsI6c72ZlVwW), [Luke DB](https://open.spotify.com/artist/4chLPXLSly4IZblITuG4g6) | [I'm So Excited](https://open.spotify.com/album/6za9sxdYDQajROPlCGGyKC) | 2:41 |
 | 129 | [I Don't Wanna Wait](https://open.spotify.com/track/0TKDgI3Luxd8Sge4IaEBE3) | [Trendos & Virali](https://open.spotify.com/artist/3TdrlsOkbCFmTcE0JgjqvN) | [I Don't Wanna Wait](https://open.spotify.com/album/6TKJhwGUQC3KB6q3gxTqc6) | 2:39 |
 | 130 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 |
+| 131 | [Hit My Heart \- TR3NACRIA Remix](https://open.spotify.com/track/3vA9oqlBuVvrzdy2PoSmpR) | [Benassi Bros.](https://open.spotify.com/artist/0yrjYlutW9HgmJlnX479Mx), [Dhany](https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Hit My Heart \(TR3NACRIA Remix\)](https://open.spotify.com/album/3LrdwAZoEyzBDxEnbGyj8w) | 3:54 |
+| 132 | [i wanna be your girlfriend](https://open.spotify.com/track/0w2tCHAkBU5SEIQ4HSlYDo) | [Hyper Hamster](https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM), [Techno Cats](https://open.spotify.com/artist/4uMWA9vlZvYaMf19OoQ0Lh), [ASHTRONAUT](https://open.spotify.com/artist/3zqB4vBQmAvMJnVhCQer8K) | [i wanna be your girlfriend](https://open.spotify.com/album/4fv6aWkild2ZswboOOeiwN) | 2:16 |
+| 133 | [Live Your Life](https://open.spotify.com/track/3JpmjR8eRNhJ7NMCNDF9jV) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [Federico Scavo](https://open.spotify.com/artist/0sPG1Yn8sWnhwDHsUbrU0F), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Live Your Life](https://open.spotify.com/album/3R4vxHnl0qXDOaYLnUE51k) | 3:25 |
+| 134 | [Be Yo](https://open.spotify.com/track/7dUaz9gzdDo3tBxJgua3SI) | [Loz Seka](https://open.spotify.com/artist/4VFvWNZM0BKFz8F9S5OYHL), [HARRT](https://open.spotify.com/artist/19g3CrD386pnE2o5rnzRin) | [Be Yo](https://open.spotify.com/album/5vpkMsbWw6CQyoJcEl6r08) | 2:50 |
+| 135 | [Pizza Margherita](https://open.spotify.com/track/4RkxvbA3b5hvxnwI84oDVn) | [Alex Belloni](https://open.spotify.com/artist/6tensSOupKwJsl3LxagvjF), [Luke DB](https://open.spotify.com/artist/4chLPXLSly4IZblITuG4g6) | [Pizza Margherita](https://open.spotify.com/album/4NDUoTpqAGTQnlJJh3UfLG) | 2:39 |
+| 136 | [Push Up](https://open.spotify.com/track/6CqfT2mBl9VLQhtqoyhOOh) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Push Up](https://open.spotify.com/album/6PvoR8c8d5WymGZdY4roxw) | 2:42 |
+| 137 | [The Moment](https://open.spotify.com/track/0POaQOUC3UylJONLtU3LSL) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t), [Broken Hill](https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ) | [The Moment / 2 Tha Beat](https://open.spotify.com/album/7ap8fp6IHdGZxVsjWqczVD) | 3:39 |
 
-Snapshot ID: `AAAKVDO+z9ZO2fMOy32jhtNtw8FEi42w`
+Snapshot ID: `AAAKW//9dsCZ8eq3ElnmbvmiJ/0jdL1f`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, Murillo e LT no Beat, Felipe Araújo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091,403 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091,725 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 5 | [Chama Ela Aí \- Ao Vivo](https://open.spotify.com/track/5A6Tv6vy1JiCqeOInPCPAl) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Nossa Cara \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2yUnlito8lmh50Kgx6DKbW) | 2:31 |
 | 6 | [Me Ama Consciente \- Ao Vivo](https://open.spotify.com/track/1ETqfJSAMaoPPGyfalDP2A) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Me Ama Consciente \(Ao Vivo\)](https://open.spotify.com/album/1GbYNRIodaFh0kpQ8CQarC) | 3:05 |
 | 7 | [Vaqueirona](https://open.spotify.com/track/6FKtIEP8R7KhuotSR89nWU) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Que Pancada de Mulher](https://open.spotify.com/album/1cXV0uVJkbPedCDV0JYBTJ) | 2:41 |
-| 8 | [Fundamento das Ruas](https://open.spotify.com/track/0A0G28101ZyH5aOUF8hGHP) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Fundamento das Ruas](https://open.spotify.com/album/5aWEPmQBIjmD02r0nIl96t) | 3:02 |
+| 8 | [Fundamento das Ruas](https://open.spotify.com/track/0A0G28101ZyH5aOUF8hGHP) | [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Fundamento das Ruas](https://open.spotify.com/album/5aWEPmQBIjmD02r0nIl96t) | 3:02 |
 | 9 | [Odisseia](https://open.spotify.com/track/6zk2KqmVIvyKRbF50hXP5Q) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Odisseia](https://open.spotify.com/album/7boBqgtZPsVLsh2JUIMoyT) | 2:17 |
 | 10 | [indecisão](https://open.spotify.com/track/597tlwDitK5TI2LMG2YsEI) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [brigas de inverno](https://open.spotify.com/album/6gnvPIrsqd1nIo3B2869KP) | 3:07 |
 | 11 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |

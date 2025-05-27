@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 61533,
+  "num_followers": 61541,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
-        "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Why Try to Change Me Now",
-      "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
         "name": "This Guy's In Love",
         "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 223066,
       "name": "This Guy's In Love With You",
       "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
+        "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Why Try to Change Me Now",
+      "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "In the Air",
-        "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
-      },
-      "artists": [
-        {
-          "name": "James Farrelli",
-          "url": "https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg"
-        }
-      ],
-      "duration_ms": 285400,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 176720,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "In the Air",
+        "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
+      },
+      "artists": [
+        {
+          "name": "James Farrelli",
+          "url": "https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
-      },
-      "artists": [
-        {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+      },
+      "artists": [
+        {
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -639,22 +639,6 @@
       "duration_ms": 296586,
       "name": "That\u2019s My Desire",
       "url": "https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
-        "name": "Young & Na\u00efve",
-        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
-      },
-      "artists": [
-        {
-          "name": "Heather Rigdon",
-          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "To Have & To Hold",
-      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -687,6 +671,22 @@
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "Young & Na\u00efve",
+        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
+      },
+      "artists": [
+        {
+          "name": "Heather Rigdon",
+          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "To Have & To Hold",
+      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "I Miss You So",
-        "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
         "name": "Jazz and Essentials",
         "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 312293,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "I Miss You So",
+        "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
         "name": "12th Avenue",
         "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
@@ -883,22 +867,34 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
       },
       "artists": [
         {
-          "name": "OVN",
-          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
-        },
-        {
-          "name": "chrln",
-          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
         }
       ],
-      "duration_ms": 121385,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/0hSKVSo0eF62Ok7vBIfjzZ"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/2i3B9uckEYX5rgLuqCatlQ"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -919,18 +915,22 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/0hSKVSo0eF62Ok7vBIfjzZ"
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
       "artists": [
         {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+          "name": "OVN",
+          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
+        },
+        {
+          "name": "chrln",
+          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
         }
       ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/2i3B9uckEYX5rgLuqCatlQ"
+      "duration_ms": 121385,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "Bossa & Co.",
-        "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
-      },
-      "artists": [
-        {
-          "name": "Bossa Nostra",
-          "url": "https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv"
-        }
-      ],
-      "duration_ms": 260874,
-      "name": "Me Dediqu\u00e9 a Perderte",
-      "url": "https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
         "name": "You Should Have Told Me",
         "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 212680,
       "name": "I Get Along Without You Very Well",
       "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "Bossa & Co.",
+        "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nostra",
+          "url": "https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv"
+        }
+      ],
+      "duration_ms": 260874,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "I Want To Talk About You",
-        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "I Want To Talk About You",
-      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1151,50 +1135,34 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "Stairway to the Stars",
-        "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
+        "name": "I Want To Talk About You",
+        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
       },
       "artists": [
         {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
         }
       ],
-      "duration_ms": 318857,
-      "name": "Stairway to the Stars",
-      "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
+      "duration_ms": 273266,
+      "name": "I Want To Talk About You",
+      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
     },
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
       "artists": [
         {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
         }
       ],
-      "duration_ms": 477973,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
-    },
-    {
-      "added_at": "2025-05-19 02:25:36",
-      "album": {
-        "name": "But I Don't Mind",
-        "url": "https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB"
-      },
-      "artists": [
-        {
-          "name": "Kyl Aries",
-          "url": "https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S"
-        }
-      ],
-      "duration_ms": 255726,
-      "name": "But I Don't Mind",
-      "url": "https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx"
+      "duration_ms": 357013,
+      "name": "What Are You Doing The Rest Of Your Life",
+      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -1215,18 +1183,34 @@
     {
       "added_at": "2025-05-19 02:25:36",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+        "name": "But I Don't Mind",
+        "url": "https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB"
       },
       "artists": [
         {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+          "name": "Kyl Aries",
+          "url": "https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S"
         }
       ],
-      "duration_ms": 357013,
-      "name": "What Are You Doing The Rest Of Your Life",
-      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
+      "duration_ms": 255726,
+      "name": "But I Don't Mind",
+      "url": "https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 477973,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
     },
     {
       "added_at": "2025-05-19 02:25:36",
@@ -1255,6 +1239,22 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
+    },
+    {
+      "added_at": "2025-05-19 02:25:36",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

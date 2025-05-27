@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-617 songs - 1 day 6 hr 2 min
+618 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Casal Saideira \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/0jIUmGGT3XvwWpJBq5U2LT) | [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Rolê Diferente 2.0 \(Ao Vivo Em Goiânia / 2019 / Vol\. 1\)](https://open.spotify.com/album/5Ht4vnpUfmGzDdZCAtsq4T) | 2:45 | 2023-12-30 |  |
 | [Casinha \- Ao Vivo, Em Cuiabá](https://open.spotify.com/track/7ytEGsuaL6knJXwwGxepSa) | [Sambaxé](https://open.spotify.com/artist/2Wxox3AX2F25unFIFFInDS) | [Casinha \(Ao Vivo, Em Cuiabá\)](https://open.spotify.com/album/7Lq9scyGhoNDGI9cYtNHGc) | 2:41 | 2023-12-30 |  |
 | [Casquinha da Ferida](https://open.spotify.com/track/5tDEE0xISZ8mCKCHDdZYxg) | [Rodrigo Freitas](https://open.spotify.com/artist/3wB9jAUYvJVcOHJLda8twf) | [Mentirosa](https://open.spotify.com/album/2nBG37oTmypMFRDO59TITw) | 3:27 | 2023-12-30 |  |
+| [Caí, Chapei, Não Te Liguei \- Ao Vivo](https://open.spotify.com/track/2xk8VmAc6d29jaGQSH96td) | [Neto e JR](https://open.spotify.com/artist/6g4wXTe4ysRslkpa3z6F7C), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Caí, Chapei, Não Te Liguei \(Ao Vivo\)](https://open.spotify.com/album/6mxnQwJDLDtn3915Y4f1zX) | 2:24 | 2025-05-26 |  |
 | [Cerveja Salgada \- Ao Vivo](https://open.spotify.com/track/4keRjwsjQNgx0pqQqI3KTy) | [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy) | [Luau do Israel \(Ao Vivo\)](https://open.spotify.com/album/4jVBOCHVKA40lTYKYYSAgJ) | 2:34 | 2023-12-30 |  |
 | [Cha na Na \- Ao Vivo](https://open.spotify.com/track/5ZYJcTYsVLMaIbOJRss06Q) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Tayrone: Ao Vivo 2019](https://open.spotify.com/album/5e0QpR9TQYiTzH2cIFKwUX) | 3:10 | 2023-12-30 |  |
 | [Chave de Choro](https://open.spotify.com/track/7EMxCYKxcJ0tk8t8fBTzCw) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK) | [Até o Último Gole](https://open.spotify.com/album/3xwZXcQBm8IniR48ZXDhy1) | 2:59 | 2023-12-30 |  |

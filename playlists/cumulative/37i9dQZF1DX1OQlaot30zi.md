@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Marte, Rkomi, Simba, Fibra e Tredici Pietro, Carla Hero e tanti altri 🔥
 
-5,507 songs - 10 day 5 hr 36 min
+5,508 songs - 10 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2186,6 +2186,7 @@
 | [Hobby](https://open.spotify.com/track/6qjdgIfEAfN5t5SSn6aFHl) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Hobby](https://open.spotify.com/album/1WF9yeyNbA47SM7hmXuMdP) | 2:02 | 2023-01-19 | 2023-01-27 |
 | [Hoe \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:17 | 2023-06-01 | 2023-06-30 |
 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 | 2023-03-03 | 2023-04-07 |
+| [HOGAN](https://open.spotify.com/track/2vzLSKhmEXkfz99J5Ymg0p) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [HOGAN](https://open.spotify.com/album/2JKq6PfbsLa3TVwegGUEKL) | 3:05 | 2025-05-26 |  |
 | [HOLA](https://open.spotify.com/track/1ORbOadvMHNqKlS1xnJdsQ) | [GRIZZLY](https://open.spotify.com/artist/16Y59NBjDPuHryezTmuwhV), [NoSaintz](https://open.spotify.com/artist/3odBaKXT6SGHGqjFUBeXkY) | [HOLA](https://open.spotify.com/album/0BJGDsEgUw0aHaIT7tcqYq) | 2:15 | 2022-05-12 | 2022-05-27 |
 | [Hola Hola](https://open.spotify.com/track/6mhnXODn4ontcZIww43iFw) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs) | [Hola Hola](https://open.spotify.com/album/6wGtjskcgIevEAeU4qgE8Z) | 2:39 | 2022-06-30 | 2022-07-08 |
 | [HOLD ME](https://open.spotify.com/track/28koVpexWwtqSsqngzGOvU) | [NMP Finesse](https://open.spotify.com/artist/7DPXH0d5qZb6Y49UduvWQa) | [HOLD ME](https://open.spotify.com/album/0ER5k0V2vQYWuaRCdpYRm7) | 2:43 | 2024-04-25 | 2024-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,061 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,033 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 49 | [Who Am I](https://open.spotify.com/track/74KwjCkAAb7eL1CPt86mux) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Who Am I](https://open.spotify.com/album/72CV1DFqBoUQL4acaFuN2R) | 3:27 |
 | 50 | [These are the Days](https://open.spotify.com/track/3fBuoCGice8hZng7rWbHed) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:51 |
 
-Snapshot ID: `AAAAAFHAvOmYzZEJWGUB+Fu5c9/JLUbL`
+Snapshot ID: `aB3EQgAAAABajfD3ixQrYgZOoVLlsfSK`

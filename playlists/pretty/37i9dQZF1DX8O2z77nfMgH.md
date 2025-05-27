@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Feid con Tony Hawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,010 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,832 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [La Belleza](https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [La Belleza](https://open.spotify.com/album/5KO5GWklzKhPl37V7UXq2B) | 3:19 |
 | 55 | [Mi nena](https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi nena](https://open.spotify.com/album/0y0uxUtH57bWINrULxDZdu) | 2:44 |
 
-Snapshot ID: `aC/y3wAAAAD0JeLVwKH3oRL6bLchcwpG`
+Snapshot ID: `AAAAAIbZp/02ti0bouYQ8eFMc/i9LqKe`

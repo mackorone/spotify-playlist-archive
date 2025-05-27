@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-506 songs - 1 day 4 hr 17 min
+507 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Devathe](https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Devathe](https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p) | 2:43 | 2024-02-14 | 2024-02-17 |
 | [Dinavella](https://open.spotify.com/track/1hfpybsNfra73ShRLBTVpk) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1YP89I84s7rdeJvRYNTo9h) | 3:12 | 2023-11-24 | 2024-04-19 |
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 | 2024-04-30 |
+| [Dingar Baby](https://open.spotify.com/track/6ArGFVvFW0XwVY1Mut8vBB) | [Nikhil Bld](https://open.spotify.com/artist/4sFuFMCA0jKBbnFYhIjwj0) | [Dingar Baby](https://open.spotify.com/album/5i41nXyuPD6MqHHhCXeUNi) | 4:07 | 2025-05-26 |  |
 | [Don't Care \- Female Version](https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Don't Care \(Female Version\)](https://open.spotify.com/album/1EWSD1tTU4iixNYQjCEYIc) | 3:24 | 2024-03-08 | 2024-08-03 |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 | 2024-01-18 |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
@@ -473,7 +474,7 @@
 | [Taayi](https://open.spotify.com/track/0tqrpeWvarPFl78oJrsuNF) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Taayi](https://open.spotify.com/album/6lqNjsuD4cM4be2aXziu6j) | 3:54 | 2023-05-15 | 2023-06-08 |
 | [Tandanaa](https://open.spotify.com/track/58RaH4opeDLaPRzxARGzfA) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Tandanaa](https://open.spotify.com/album/08geveRHblH8RA5NoLq0q6) | 2:32 | 2025-04-23 |  |
 | [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 | 2024-02-21 | 2024-03-18 |
-| [Teenage](https://open.spotify.com/track/2eYpZS1wc2bO4VGuoxE9P1) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N) | [Teenage](https://open.spotify.com/album/5PyPcBY1PzlJaF3s683n6P) | 3:22 | 2025-01-15 |  |
+| [Teenage](https://open.spotify.com/track/2eYpZS1wc2bO4VGuoxE9P1) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N) | [Teenage](https://open.spotify.com/album/5PyPcBY1PzlJaF3s683n6P) | 3:22 | 2025-01-15 | 2025-05-27 |
 | [Test drive \(featuring Swastik\)](https://open.spotify.com/track/2duEvDFatZxlBpSRBXIawO) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Swastik](https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ) | [Test drive \(featuring Swastik\)](https://open.spotify.com/album/0GSfdkGxOimIL0krZlateY) | 2:57 | 2023-01-17 | 2023-08-30 |
 | [THALME](https://open.spotify.com/track/4uxzKIzkC0kOlqBxbHs3xK) | [VishwxsMUZiK](https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y), [Young shabdkaar](https://open.spotify.com/artist/2DatcyY5RlN0N7kaxEMrCa) | [THALME](https://open.spotify.com/album/67xBEBvKYH3JY9dBc74twn) | 3:43 | 2025-03-27 |  |
 | [Thamma Kel](https://open.spotify.com/track/5mgMrUnTtrs3RdHM5aV7EO) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Thamma Kel](https://open.spotify.com/album/0ZZ33eV5ntxd5aLYtWRyar) | 3:10 | 2025-01-27 | 2025-05-03 |

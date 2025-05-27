@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "My blue wavy room",
+        "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229854,
+      "name": "Blue rain",
+      "url": "https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd"
+    },
+    {
+      "album": {
         "name": "natural high",
         "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
@@ -624,7 +642,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 208746,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
@@ -922,6 +940,24 @@
       "duration_ms": 244000,
       "name": "D - \uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/3rWvseGXGmmOsg4hRm7jUl"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1eBhe8GqafMuk92WjrXohW"
+      },
+      "artists": [
+        {
+          "name": "SeoulWooya",
+          "url": "https://open.spotify.com/artist/1hvcJ9KvdceMOdqRCZ1zsd"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5IodxbrD7uFzlxc4cpL4Uh"
     },
     {
       "album": {
@@ -2796,10 +2832,28 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 240800,
       "name": "One Snowy Day (Feat. SOLE)",
       "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
+    },
+    {
+      "album": {
+        "name": "Fishtank",
+        "url": "https://open.spotify.com/album/5G3wdVrYfbkdIi6C0PkVtt"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Our FIlm",
+      "url": "https://open.spotify.com/track/0YcrevMPRQzfxX0I0Q9efv"
     },
     {
       "album": {
@@ -4202,7 +4256,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 198698,
       "name": "Will spring come?",
       "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"

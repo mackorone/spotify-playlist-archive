@@ -4,12 +4,13 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-930 songs - 1 day 22 hr 42 min
+931 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-26 | 2023-11-18 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-02 | 2023-10-06 |
+| [00:42](https://open.spotify.com/track/2UAPfh7Iwcz2a8P5qmXxpn) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [00:42](https://open.spotify.com/album/1FYKCczUjRwsavPxIYST4c) | 2:00 | 2025-05-26 |  |
 | [070\-xxxx xxx](https://open.spotify.com/track/4O3yim026F1AwaPevgl9xs) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Höghusdrömmar/070\-xxxx xxx](https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb) | 4:00 | 2022-03-18 | 2022-04-01 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-03 | 2023-04-07 |
 | [17](https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [17](https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi) | 2:31 | 2023-05-04 | 2023-07-26 |
@@ -192,7 +193,7 @@
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-24 | 2023-04-13 |
 | [Den sista sången](https://open.spotify.com/track/5KHO2Rsilm7Nq9Wr8TxmnN) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [En annan jag](https://open.spotify.com/album/5IScUyxaPLwT91UoEm4aXn) | 2:45 | 2023-09-14 | 2024-01-05 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-02-06 | 2025-02-12 |
-| [Det Går Snabbt](https://open.spotify.com/track/0FMOF5JuOaVLOsjzTQIGYE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 2:55 | 2025-05-15 |  |
+| [Det Går Snabbt](https://open.spotify.com/track/0FMOF5JuOaVLOsjzTQIGYE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 2:55 | 2025-05-15 | 2025-05-27 |
 | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 | 2023-10-19 | 2024-02-14 |
 | [Det mesta regnar bort](https://open.spotify.com/track/7coCwMI4TaMaF08vJPZuce) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Det mesta regnar bort](https://open.spotify.com/album/3Uq12qpAnhRiAWhcoFVKJH) | 2:56 | 2023-01-19 | 2023-04-21 |
 | [Det sista jag behöver](https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Det sista jag behöver](https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M) | 2:54 | 2025-01-09 | 2025-02-19 |

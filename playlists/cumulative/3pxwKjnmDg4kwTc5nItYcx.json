@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "09",
+        "url": "https://open.spotify.com/album/7LCNII9sfgoy7wcagY7GUa"
+      },
+      "artists": [
+        {
+          "name": "Neptune",
+          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195128,
+      "name": "09",
+      "url": "https://open.spotify.com/track/1YHK7lD9tjm2IXRnO5WZkM"
+    },
+    {
+      "album": {
         "name": "1,000,000 X Better",
         "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },

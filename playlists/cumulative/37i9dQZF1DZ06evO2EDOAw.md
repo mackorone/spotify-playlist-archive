@@ -4,7 +4,7 @@
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-92 songs - 7 hr 23 min
+93 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [We Need You](https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:58 | 2023-03-04 |  |
 | [What Matters \(feat\. Mali Music\)](https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:47 | 2023-03-04 |  |
 | [Why Me?](https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 3:26 | 2023-03-04 |  |
-| [Worth It \(feat\. Kierra Sheard & Jawan Harris\)](https://open.spotify.com/track/3qa9CI4W8SQf85VZzi7GIQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Jawan Harris](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 4:54 | 2023-03-04 |  |
+| [Worth It](https://open.spotify.com/track/74w1s9d3VuQYAcGXRqxmkm) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Jawan Harris](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 4:54 | 2025-05-27 |  |
+| [Worth It \(feat\. Kierra Sheard & Jawan Harris\)](https://open.spotify.com/track/3qa9CI4W8SQf85VZzi7GIQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Jawan Harris](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 4:54 | 2023-03-04 | 2025-05-27 |
 | [You](https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 2:49 | 2023-03-04 | 2024-11-26 |
 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/6VQHvDhuHcI3af5GHI6t6G) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 3:45 | 2023-03-05 | 2023-03-20 |
 | [You Are \- Live](https://open.spotify.com/track/0dLIGgBWUiq1Kiz8faf7KR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 6:16 | 2023-03-04 | 2023-09-26 |

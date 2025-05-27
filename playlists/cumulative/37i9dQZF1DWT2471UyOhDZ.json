@@ -4205,6 +4205,24 @@
     },
     {
       "album": {
+        "name": "The Painful Truth",
+        "url": "https://open.spotify.com/album/5jq8APA0WmCEaIeHoGciO3"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246757,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/550fqOZMPaSRasqZhA32Kf"
+    },
+    {
+      "album": {
         "name": "Shells",
         "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
       },
@@ -4852,7 +4870,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 205984,
       "name": "The Pleasure Trap",
       "url": "https://open.spotify.com/track/2mI7aWxYs50PoJWylBq9qY"

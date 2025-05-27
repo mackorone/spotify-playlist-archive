@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Raim Laode, Benson Boone, hingga Ernie Zakrie dan Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,567 likes - 117 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,633 likes - 117 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 68 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 |
 | 69 | [Still love you](https://open.spotify.com/track/0KcX5Xeu72Kwg90mRU0Xw9) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Second Shot at Love, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/2IP0HcIpAzKw2aEhJWAhY8) | 4:00 |
 | 70 | [Hysteric Glamour](https://open.spotify.com/track/6N6qFybzXW3ntTLo4vlaG9) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Hysteric Glamour](https://open.spotify.com/album/6noSYDigj8HJ3e3bfvkunE) | 2:54 |
-| 71 | [Aku Ada](https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4) | [Zaki Yamani](https://open.spotify.com/artist/50Or8lcMSe9UF559vd963e), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Aku Ada](https://open.spotify.com/album/7qIpOc3Ild13s6iDAapo5R) | 4:22 |
+| 71 | [Aku Ada](https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Aku Ada](https://open.spotify.com/album/7qIpOc3Ild13s6iDAapo5R) | 4:22 |
 | 72 | [Sendiri Aku OK](https://open.spotify.com/track/5wym2oJkl1AK3UnTO9dhIx) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Sendiri Aku OK](https://open.spotify.com/album/52uK4bk73lylAkUjxL7jxa) | 3:12 |
 | 73 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
 | 74 | [Penjuara](https://open.spotify.com/track/5wCgAMzw2tyi16DmbdLBqJ) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Penjuara](https://open.spotify.com/album/7oIUnZx5u15hRjp1y0lFuC) | 3:50 |

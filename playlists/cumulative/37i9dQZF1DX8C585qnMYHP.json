@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
+      },
+      "artists": [
+        {
+          "name": "Zutzut",
+          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216287,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
+    },
+    {
+      "album": {
         "name": "Laniakea",
         "url": "https://open.spotify.com/album/4DabfAUYqOkf592Dx9l2UP"
       },
@@ -21776,7 +21794,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 171028,
       "name": "MURiTO",
       "url": "https://open.spotify.com/track/5oZSaNIU19yFAulFgbjeQj"

@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: AratheJay and Bella Shmurda
 
-265 songs - 16 hr 56 min
+266 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [3:30](https://open.spotify.com/track/3oPg26PoYh2LriJ4aUUVYt) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [3:30](https://open.spotify.com/album/4UZrOGejXG1MBO4wFbLDjz) | 3:41 | 2024-06-07 | 2024-10-26 |
 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 | 2024-10-18 |  |
 | [9:45 \(feat\. Lasmid & Ladipoe\)](https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:46 | 2024-06-14 | 2025-03-15 |
-| [Aban Kaba](https://open.spotify.com/track/18ohSiDMM8ZNiEDYTKvIYs) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Aban Kaba](https://open.spotify.com/album/2q4nudXObn26z4FbfCSrMJ) | 3:32 | 2025-04-18 |  |
+| [Aban Kaba](https://open.spotify.com/track/18ohSiDMM8ZNiEDYTKvIYs) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Aban Kaba](https://open.spotify.com/album/2q4nudXObn26z4FbfCSrMJ) | 3:32 | 2025-04-18 | 2025-05-27 |
 | [Abasakom](https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc) | [NS Tino](https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI), [Mickey Lux](https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Abasakom](https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r) | 2:59 | 2024-03-15 | 2024-04-19 |
 | [Abasakoom](https://open.spotify.com/track/1nwny3zV6GwX1qIESCROJI) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Abasakoom](https://open.spotify.com/album/3DOEGSS6s8EGMaS0W6PgMm) | 2:36 | 2025-03-21 | 2025-03-29 |
 | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/track/51uFHphBfV17Bw6v1D0X20) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/album/6JtzGphkHwXPTV9GnGp4g1) | 3:54 | 2024-06-21 | 2024-07-19 |
@@ -216,6 +216,7 @@
 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 | 2024-03-04 | 2024-05-17 |
 | [SA NE EBA](https://open.spotify.com/track/2HYxWFGhOFr5yjzKpOW3xg) | [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW), [NII M](https://open.spotify.com/artist/0cJqdK1W9EH93dQ32KUWCj), [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [SA NE EBA](https://open.spotify.com/album/3yv2V8jlvSZ9aEpdIVCGWz) | 3:21 | 2024-10-25 | 2024-11-09 |
 | [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 | 2025-04-04 |  |
+| [Sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 | 2025-05-26 |  |
 | [Shordy](https://open.spotify.com/track/5OA0sGzIl33nCEf2unAn5o) | [Praye](https://open.spotify.com/artist/3QCB2l3PswjIcNRWgTCq2L) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:46 | 2020-02-20 | 2022-07-28 |
 | [Sika](https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Sika](https://open.spotify.com/album/6zSbBDmwWajDb3VFjqthNi) | 2:55 | 2024-09-06 | 2024-10-26 |
 | [Sika Asem](https://open.spotify.com/track/6l8spDeNJS8fprHYTzDmgn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Sika Asem](https://open.spotify.com/album/2VVT040jhEx79V7XB7rP04) | 2:41 | 2024-10-25 | 2024-11-23 |

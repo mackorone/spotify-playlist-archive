@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 231425,
+  "num_followers": 231526,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 248973,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/09OpntwPHuNICsyEt1ETpE"
+      "duration_ms": 334866,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "I'm Your Man",
-        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 334866,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
+      "duration_ms": 248973,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/09OpntwPHuNICsyEt1ETpE"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The B-52's",
-        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 277640,
-      "name": "Planet Claire",
-      "url": "https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Very Best Of Sting And The Police",
         "url": "https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 266466,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The B-52's",
+        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 277640,
+      "name": "Planet Claire",
+      "url": "https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1173,6 +1173,38 @@
       "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
     },
     {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Symphonicities",
+        "url": "https://open.spotify.com/album/1dpyonY9ev2z5a7rwfERZh"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/6AyMKzLmlnAfsti79lLwth"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "War (Remastered)",
+        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 335613,
+      "name": "New Year's Day - Remastered 2008",
+      "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
+    },
+    {
       "added_at": "2024-07-12 13:30:25",
       "album": {
         "name": "Greatest Hits",
@@ -1195,38 +1227,6 @@
       "duration_ms": 255706,
       "name": "When Tomorrow Comes",
       "url": "https://open.spotify.com/track/6UmFGunWzNoe7gSS3JW90v"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "War (Remastered)",
-        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 335613,
-      "name": "New Year's Day - Remastered 2008",
-      "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Carved In Sand",
-        "url": "https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC"
-      },
-      "artists": [
-        {
-          "name": "The Mission",
-          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
-        }
-      ],
-      "duration_ms": 340800,
-      "name": "Butterfly On A Wheel",
-      "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
     }
   ],
   "unique_name": "Oscuros 80",

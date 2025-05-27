@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,616 songs - 5 day 17 hr 45 min
+2,617 songs - 5 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1893,7 +1893,8 @@
 | [RUSSIAN WOMAN](https://open.spotify.com/track/6Dz383ZHSKzWh5ZTL7aRra) | [Manizha](https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1) | [RUSSIAN WOMAN](https://open.spotify.com/album/6e5G83EOP9tEfklabpOhRp) | 2:56 | 2021-05-25 | 2021-05-29 |
 | [Räjäytä mun mieli \(Vain elämää kausi 12\)](https://open.spotify.com/track/3OwOUcP1ApbnGbkPBmlQDX) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Räjäytä mun mieli \(Vain elämää kausi 12\)](https://open.spotify.com/album/2H3T3riJCjpM07ldS5RJus) | 3:34 | 2021-10-11 | 2021-10-14 |
 | [Räsypokka](https://open.spotify.com/track/6ebDehEKNwVlkxJz8QH0dP) | [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Räsypokka](https://open.spotify.com/album/6DHUSA8k1sN5cFJsDLYfUe) | 3:09 | 2025-05-10 | 2025-05-18 |
-| [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-05-17 |  |
+| [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-05-17 | 2025-05-27 |
+| [RÓA](https://open.spotify.com/track/4PtgYVIiujBJrNbpWo5jzs) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/65gqP6FqcyKeqH9OOtX4F6) | 2:42 | 2025-05-26 |  |
 | [Saanko mä luvan](https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Saanko mä luvan](https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf) | 2:59 | 2024-08-03 | 2024-08-25 |
 | [Saappaat](https://open.spotify.com/track/2ZkpSLweVJypeqIjNZpHnA) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 4:03 | 2021-09-26 | 2021-09-29 |
 | [Saat mut syttyy](https://open.spotify.com/track/4rzRKGcbQ5faVnrMX494iS) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Saat mut syttyy](https://open.spotify.com/album/6addjV4pmfiesTAAiksaKo) | 2:59 | 2024-08-24 | 2024-08-30 |
@@ -2115,7 +2116,7 @@
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 | 2022-08-14 |
 | [Susi](https://open.spotify.com/track/7hKsScZ91gpahaBaumXHu7) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Susi](https://open.spotify.com/album/5Bon0eRp7MdAkLaM6Jn9sm) | 3:22 | 2023-05-06 | 2023-05-08 |
 | [Susta tulee tähti](https://open.spotify.com/track/6nG0mV3RUeWHG96a99aZRp) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Susta tulee tähti](https://open.spotify.com/album/5StNFA9kGwUOd8Ojxf7Xok) | 2:41 | 2023-05-06 | 2023-05-12 |
-| [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 | 2025-04-26 |  |
+| [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 | 2025-04-26 | 2025-05-27 |
 | [Suuren päivän ilta](https://open.spotify.com/track/1ghHTdU7j5padafxYTf1qr) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pisara meressä](https://open.spotify.com/album/3fTUkVNp5a3EgCh9Q4NpXA) | 3:11 | 2024-04-20 | 2024-05-02 |
 | [Suuria tarinoita](https://open.spotify.com/track/4ZPgBmWL0HQ87T1E8dHoHk) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Suuria tarinoita](https://open.spotify.com/album/26XMsvBWYRJzSv8VBt1dw3) | 3:06 | 2025-01-18 | 2025-01-23 |
 | [Suutari](https://open.spotify.com/track/6JT14ClOdCYWL3LgyROqAI) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Suutari](https://open.spotify.com/album/6QNA9ZipDiYdZIeBgiLs8i) | 3:52 | 2024-02-24 | 2024-03-24 |
@@ -2479,7 +2480,7 @@
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-31 |
 | [Vituiks Män](https://open.spotify.com/track/6Rc4Z7Gu5BkzJsfPieCJqD) | [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Vituiks Män](https://open.spotify.com/album/1YAvzSeSWxrqs5NszHfoga) | 2:58 | 2022-12-31 | 2023-01-22 |
 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 | 2024-08-17 | 2024-09-01 |
-| [Vitun hyvin](https://open.spotify.com/track/71hoYrgo1nxzWp9hfhu0Fi) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 3:00 | 2024-08-31 | 2025-05-25 |
+| [Vitun hyvin](https://open.spotify.com/track/71hoYrgo1nxzWp9hfhu0Fi) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 3:00 | 2024-08-31 |  |
 | [VITUTTAA](https://open.spotify.com/track/74kXpzg7rPtJkrJ7B3Nwmh) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto) | [VITUTTAA](https://open.spotify.com/album/0VvLZoQiIRxYjAHxOcEibF) | 3:03 | 2022-04-09 | 2022-04-24 |
 | [Viulunkieli](https://open.spotify.com/track/1Mr8Qi5WHGYp5nzqoyKl9X) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Fantastista](https://open.spotify.com/album/4AvgPb37Z7XSRNEZk6MsCs) | 3:08 | 2023-05-15 | 2023-05-31 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-21 | 2024-08-25 |

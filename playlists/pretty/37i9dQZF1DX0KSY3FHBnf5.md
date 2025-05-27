@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,267 likes - 119 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,380 likes - 119 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 76 | [i'll be your reason](https://open.spotify.com/track/7oVUzvfAjQ632YRsR9J9xe) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [i'll be your reason](https://open.spotify.com/album/6GI2zJqoJD83iIwM65GtGm) | 2:18 |
 | 77 | [Faber Sanctum](https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 4:49 |
 | 78 | [twilight](https://open.spotify.com/track/4rHxTr32PrcGxFuvWHdqE4) | [ghxsted.](https://open.spotify.com/artist/7GKvkS5THM5r8VuBEdns1r) | [twilight](https://open.spotify.com/album/2d8lPwf4BY48egKSiTz3E2) | 2:46 |
-| 79 | [i'm looking for you](https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v) | [Asteriøn](https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr), [exhibit](https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q), [vibe](https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0) | [i'm looking for you](https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ) | 1:56 |
+| 79 | [i'm looking for you](https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v) | [Asteriøn](https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr), [exhibit](https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q), [vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [i'm looking for you](https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ) | 1:56 |
 | 80 | [testament](https://open.spotify.com/track/4ZmE4F5tX3aeRGRvFHJkM8) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [a field with no edges](https://open.spotify.com/album/5gxI7Mc3AD7XHCWZWb7xyF) | 2:28 |
 | 81 | [non feelings](https://open.spotify.com/track/71EwDM2NV8FVGhsmp4rmUi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [non feelings](https://open.spotify.com/album/5qrLDx3SZlTqILarWrh6wk) | 2:46 |
 | 82 | [dreams, but it's ambient](https://open.spotify.com/track/4EWPO9rKRv0orDRlYLnn4J) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [dreams, but it's ambient](https://open.spotify.com/album/7xstTDk2XRfOtrsxJ6MDsq) | 1:59 |

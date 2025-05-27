@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > yung kai handpicks first 20 tracks that resonate and fuel his creative journey alongside fresh indie cuts from Asia and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,084 likes - 72 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,122 likes - 72 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 71 | [molly](https://open.spotify.com/track/5btWut4N0AEKhj0y9q6Hxm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 1:29 |
 | 72 | [Elizabeth](https://open.spotify.com/track/3HalgO3TsAqw4odHjaMCGX) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Elizabeth](https://open.spotify.com/album/3cHIlhYROR8OyzS8YfUsSr) | 2:52 |
 
-Snapshot ID: `AAAAAFvcQWLMOk2x+IX33AWDsHKovvH4`
+Snapshot ID: `aC/3nAAAAACEjrl3aMTnWwSUhUvbCrUu`

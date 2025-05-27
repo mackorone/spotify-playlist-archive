@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 505998,
+  "num_followers": 506047,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 199573,
       "name": "Sister Golden Hair",
       "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "And Then There Were Three",
         "url": "https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 240991,
       "name": "Follow You Follow Me - Remastered 2007",
       "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Even In The Quietest Moments (Remastered)",
-        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
+      "duration_ms": 281226,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "All Things Must Pass (Remastered)",
-        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
+        "name": "Even In The Quietest Moments (Remastered)",
+        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 281226,
-      "name": "My Sweet Lord",
-      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "I Got A Name",
         "url": "https://open.spotify.com/album/6QVn3X0VlX6XynvzgQVPi0"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 242840,
       "name": "Golden Years",
       "url": "https://open.spotify.com/track/0gOx4r5a1KkRTZ4uZDilrb"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K"
     },
     {
       "added_at": "2024-06-03 14:45:23",

@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Comastatic
 
-484 songs - 1 day 3 hr 40 min
+485 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Rusty Rose](https://open.spotify.com/track/0kILLfeKtwUP8WXlTEzYHd) | [Gotthard](https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ) | [Rusty Rose](https://open.spotify.com/album/7gc8LyWN2uKaalRobm9cgI) | 4:14 | 2025-02-20 | 2025-02-28 |
 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 | 2024-06-27 | 2025-01-31 |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-06 |  |
+| [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-22 |  |
 | [Scar on My Guitar](https://open.spotify.com/track/3WXhf9KacGRycnFS4XmNYx) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Scar on My Guitar](https://open.spotify.com/album/7GefG4OL4QBUtnRHszGejq) | 3:56 | 2025-05-08 | 2025-05-16 |
 | [Searching for Tomorrow](https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Searching for Tomorrow](https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK) | 3:33 | 2024-11-21 | 2025-01-17 |
 | [Self Sabotage](https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Down And Out](https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH) | [Self Sabotage](https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K) | 2:47 | 2024-11-07 | 2024-11-15 |

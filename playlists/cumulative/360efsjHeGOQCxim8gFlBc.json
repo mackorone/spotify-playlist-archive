@@ -7909,6 +7909,24 @@
     },
     {
       "album": {
+        "name": "sweet dreams",
+        "url": "https://open.spotify.com/album/3LKbDhpcXAcirXnC6EmuHm"
+      },
+      "artists": [
+        {
+          "name": "silentsoul",
+          "url": "https://open.spotify.com/artist/59EsiJImULPYPQiqnGCbXM"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100357,
+      "name": "night poem",
+      "url": "https://open.spotify.com/track/4Uyarc9a0atehzbhrnzuf4"
+    },
+    {
+      "album": {
         "name": "Night Rain",
         "url": "https://open.spotify.com/album/1wTT3z4kv97S3au8iS4thQ"
       },
@@ -7919,7 +7937,7 @@
         },
         {
           "name": "vibe",
-          "url": "https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0"
+          "url": "https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr"
         }
       ],
       "date_added": "2024-11-15",
@@ -8413,7 +8431,7 @@
         },
         {
           "name": "vibe",
-          "url": "https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0"
+          "url": "https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr"
         }
       ],
       "date_added": "2024-10-23",
@@ -9745,7 +9763,7 @@
         },
         {
           "name": "vibe",
-          "url": "https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0"
+          "url": "https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr"
         }
       ],
       "date_added": "2025-02-28",
@@ -10550,6 +10568,24 @@
       "duration_ms": 61047,
       "name": "Soft Nights",
       "url": "https://open.spotify.com/track/7IwbvEftAucC4OTlI6ghyM"
+    },
+    {
+      "album": {
+        "name": "sweet dreams",
+        "url": "https://open.spotify.com/album/3LKbDhpcXAcirXnC6EmuHm"
+      },
+      "artists": [
+        {
+          "name": "silentsoul",
+          "url": "https://open.spotify.com/artist/59EsiJImULPYPQiqnGCbXM"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93839,
+      "name": "soft sheets",
+      "url": "https://open.spotify.com/track/2EKmk8zjS7dpa5T7zTbRsX"
     },
     {
       "album": {
@@ -11844,7 +11880,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 186854,
       "name": "The Phoenix Waltz",
       "url": "https://open.spotify.com/track/0e5eGRSzfvQIQLyxzDIvlp"
@@ -11862,7 +11898,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 186854,
       "name": "The Phoenix Waltz",
       "url": "https://open.spotify.com/track/5ag0pbyLpbAtMW2FZgP5Q6"
@@ -12060,7 +12096,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 100749,
       "name": "this is not the end",
       "url": "https://open.spotify.com/track/1CHg1GfkNDq3dGtYTm1iRA"
@@ -12790,7 +12826,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 124303,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/3UsdF972Nd4nj3uwRAc9jQ"

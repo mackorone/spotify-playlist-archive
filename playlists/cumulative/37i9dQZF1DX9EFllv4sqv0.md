@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Asake
 
-153 songs - 8 hr 11 min
+155 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2024-10-21 | 2025-03-15 |
 | [NOW I KNOW](https://open.spotify.com/track/4Q1kTtOhw3SosBs43un1bu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:36 | 2024-10-21 |  |
 | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0) | 4:17 | 2024-10-21 | 2025-03-15 |
+| [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 | 2025-05-26 |  |
 | [Oblee \(Remix\)](https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Oblee \(Remix\)](https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC) | 2:40 | 2025-01-09 | 2025-03-15 |
 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-10-21 |  |
 | [Ogo Ni](https://open.spotify.com/track/7i7DkX6VtGE7UnXqNiXrZs) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Ogo Ni](https://open.spotify.com/album/1HwYp4lUbD8vs4XlEnARWO) | 2:51 | 2024-10-21 | 2025-01-10 |
@@ -143,6 +144,7 @@
 | [Soundgasm](https://open.spotify.com/track/3FNj8xmImiSh0oEMBzSDL7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5cxI5fdlh6VrZjNuNXHn5Y) | 3:24 | 2024-10-21 |  |
 | [Suru \(feat\. Stormzy\)](https://open.spotify.com/track/25KjMlA0KAwRKS9JuT1NSq) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:40 | 2024-10-21 | 2024-12-04 |
 | [Take Me Away \(feat\. Ayanfe and Bien\)](https://open.spotify.com/track/5O5iEfPDhM3XKYDLMqkg6Z) | [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe), [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Take Me Away \(feat\. Ayanfe and Bien\)](https://open.spotify.com/album/0Z1nq2NQ3ipRrcEYSS1rtc) | 4:04 | 2024-10-21 | 2025-03-15 |
+| [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-05-26 |  |
 | [TBH!](https://open.spotify.com/track/0zgqOEBPOAvU5vch5URzlt) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [TBH!](https://open.spotify.com/album/1KB4yswp0hKkKERpHPTNou) | 1:33 | 2024-10-21 | 2025-03-15 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-10-21 | 2025-03-15 |
 | [Too Correct](https://open.spotify.com/track/3jZ6HPh1hWZJCuKJKS6Ey0) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Twelve A.M](https://open.spotify.com/album/6ZOAzx00nKsqJYRTW3wknJ) | 3:28 | 2024-10-21 |  |

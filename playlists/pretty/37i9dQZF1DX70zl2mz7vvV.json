@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 62058,
+  "num_followers": 62079,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Two Sevens Clash (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6"
+      },
+      "artists": [
+        {
+          "name": "Culture",
+          "url": "https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Two Sevens Clash",
+      "url": "https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Stop That Train",
         "url": "https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 310173,
       "name": "Stop That Train",
       "url": "https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Two Sevens Clash (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6"
-      },
-      "artists": [
-        {
-          "name": "Culture",
-          "url": "https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Two Sevens Clash",
-      "url": "https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -740,13 +740,13 @@
       },
       "artists": [
         {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 201794,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ"
+      "duration_ms": 232781,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -756,13 +756,13 @@
       },
       "artists": [
         {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
         }
       ],
-      "duration_ms": 232781,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
+      "duration_ms": 201794,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ"
     },
     {
       "added_at": "2020-10-19 09:02:25",

@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Shine a Little Love",
-      "url": "https://open.spotify.com/track/5X6HkkTe8mUwkHo3Lccr6E"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Free",
         "url": "https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 334000,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Shine a Little Love",
+      "url": "https://open.spotify.com/track/5X6HkkTe8mUwkHo3Lccr6E"
     },
     {
       "added_at": "2024-07-12 14:53:15",

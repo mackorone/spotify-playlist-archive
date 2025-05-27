@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-586 songs - 1 day 9 hr 50 min
+588 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Knocking \(At Your Door\)](https://open.spotify.com/track/7oy8qkcgc94q1O5Afq8ltH) | [Rusty Williams](https://open.spotify.com/artist/0FBKOaB9FKXochr33ln8VY) | [Grand Man](https://open.spotify.com/album/3wm4witKWRXc2nhFMCuwwN) | 3:29 | 2025-02-26 | 2025-02-28 |
 | [Know by Heart](https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:53 | 2024-04-12 | 2024-05-16 |
 | [Komodo](https://open.spotify.com/track/2gDGX6ANP3GF9uMwuA4GMy) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Reestablishing Connection \[2020\]](https://open.spotify.com/album/31zWxMVZtTzjqIKYlx4YNB) | 2:06 | 2024-09-07 | 2024-11-14 |
+| [L'Etang](https://open.spotify.com/track/5lWEFSgLu51Og9y7pmghzZ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 2:24 | 2025-05-27 |  |
 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 | 2024-07-29 | 2024-09-08 |
 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 | 2024-05-20 | 2024-07-12 |
 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 | 2024-08-08 | 2024-09-08 |
@@ -453,6 +454,7 @@
 | [Serenade](https://open.spotify.com/track/2lQPJWfiPr1v3Yy9y8EfQK) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 2:58 | 2024-07-25 | 2024-09-08 |
 | [Shaded Tree](https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shaded Tree](https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo) | 3:23 | 2024-09-30 | 2024-11-14 |
 | [She Is Staggering](https://open.spotify.com/track/6hFaRjM7c0QizkgMkZsdwg) | [Polaris](https://open.spotify.com/artist/1ZOKm4ZfrMPjTynDt99aCp) | [Music From The Adventures Of Pete & Pete](https://open.spotify.com/album/1cqCEa8ldM7nwcEINzz8MA) | 3:08 | 2024-10-24 | 2024-11-14 |
+| [She Was My Sweet Heart](https://open.spotify.com/track/0gKJKfxo0ZMAcAx0U4yfbz) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [She's The Queen](https://open.spotify.com/album/3lTZWruVnyOamstEzuVCZH) | 3:48 | 2025-05-27 |  |
 | [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 | 2024-06-25 | 2024-07-12 |
 | [She's the One](https://open.spotify.com/track/4inw6roamzcaRD8v15Y0bu) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 3:09 | 2024-05-30 | 2024-07-12 |
 | [Shikako Maru Ten](https://open.spotify.com/track/3NCzYu2GXu4iJE286d7x6T) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Shikako Maru Ten](https://open.spotify.com/album/5Y0rxm6JM2RAqm1k5aam2Y) | 3:18 | 2024-01-31 | 2024-03-10 |

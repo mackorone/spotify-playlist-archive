@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3KOlqmfsCkB7qdD0wXPykC.md) - [plain]
 
 > &quot;You&\#x27;ve got a friend downstairs &\#x2F; He howls all night&quot;
 
-[Sarah 💖](https://open.spotify.com/user/12158684120) - 56 likes - 15 songs - 48 min 29 sec
+[Sarah 💖](https://open.spotify.com/user/12158684120) - 56 likes - 16 songs - 51 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,6 @@ pretty - [cumulative](/playlists/cumulative/3KOlqmfsCkB7qdD0wXPykC.md) - [plain]
 | 13 | [Song for Ted Sallis](https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw) | 3:30 |
 | 14 | [Resonant Bell World](https://open.spotify.com/track/2xkusgD5mDOEzzVcrDJqZd) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beautiful Rat Sunset](https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf) | 2:36 |
 | 15 | [When a Powerful Animal Comes](https://open.spotify.com/track/6Yhv2dngI4I4h9O9jsBZpU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dark in Here](https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4) | 5:26 |
+| 16 | [Chinese House Flowers](https://open.spotify.com/track/6ZsvD1T2kaT8WQQN1iLJTH) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 2:57 |
 
-Snapshot ID: `AAAAFTqXd1TVA9tXQhTHri8bXVXxRCaB`
+Snapshot ID: `AAAAFgU4Z3qAhUDslh4KAAvRlyprVXQV`

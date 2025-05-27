@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,992 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,957 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [American Pie](https://open.spotify.com/track/6VodFirewlk4n1ReAm5iBd) | [Sierra Spirit](https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR) | [American Pie](https://open.spotify.com/album/4pAfzOeUju1UQKP85LOoy3) | 2:50 |
 | 50 | [MORRO MAÑOSO](https://open.spotify.com/track/2tNSQeKEVtrsMhRYixazni) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [MORRO MAÑOSO](https://open.spotify.com/album/2XuDTR0qbeS2GgbypCY2Pp) | 2:47 |
 
-Snapshot ID: `AAAAAH27JtM1o7WMxh3Y9+Uzv1N1UdU2`
+Snapshot ID: `aBOqtAAAAABMuCPxiiwLRrobgxJgsZkv`

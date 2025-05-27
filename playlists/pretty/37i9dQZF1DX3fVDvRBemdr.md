@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Quido van de Graaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,240 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,245 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 |
 | 2 | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/track/4Thwkrx5Qf6sCskcEy4ucF) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/album/1f4OPOd7un2KA8WPLccIXe) | 3:09 |
-| 3 | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/track/0zAvWNPP6MAc9HpuMBimFN) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/album/7EY00eVW29RWAnSYG7dg32) | 3:27 |
-| 4 | [Ik Wil Met Je Dansen](https://open.spotify.com/track/50Ys1vOJElD0OKI3qGpJks) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Ik Wil Met Je Dansen](https://open.spotify.com/album/6TZqKE8GNYpIWZRxhPSPf6) | 2:54 |
-| 5 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
-| 6 | [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/track/6OAdOFNze8XTDckoLu5vT5) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/album/6xJd2kw2n7YmqgQ8TP1ZAu) | 2:19 |
+| 3 | [Ik Wil Met Je Dansen](https://open.spotify.com/track/50Ys1vOJElD0OKI3qGpJks) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Ik Wil Met Je Dansen](https://open.spotify.com/album/6TZqKE8GNYpIWZRxhPSPf6) | 2:54 |
+| 4 | [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/track/6OAdOFNze8XTDckoLu5vT5) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Kleine Wasjes, Snelle Wasjes](https://open.spotify.com/album/6xJd2kw2n7YmqgQ8TP1ZAu) | 2:19 |
+| 5 | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/track/0zAvWNPP6MAc9HpuMBimFN) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/album/7EY00eVW29RWAnSYG7dg32) | 3:27 |
+| 6 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
 | 7 | [Señorita, Meisje van de nacht](https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Señorita, Meisje van de nacht](https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj) | 2:56 |
 | 8 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 |
 | 9 | [En Dan Komt Ze Binnen \- 2.0](https://open.spotify.com/track/77WraiGA4Ed5RAKtPnarZm) | [Donny van der Roest](https://open.spotify.com/artist/70k0rR9ADWe5KQn5dDRZjq) | [En Dan Komt Ze Binnen \(2.0\)](https://open.spotify.com/album/6T05SmHVekRwXCe6dWG7mJ) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 74 | [We Gaan Weer Uit Ons Bol](https://open.spotify.com/track/4gLJDKJKLOuX8bSrpMu2NS) | [Zonzo Basily](https://open.spotify.com/artist/3R7xFnUWgnhQVRai7mQ0Fs) | [We Gaan Weer Uit Ons Bol](https://open.spotify.com/album/6iVGbz9Fu7rej7qSwJYU5q) | 2:42 |
 | 75 | [Door Tot De Kater Komt](https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Door Tot De Kater Komt](https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM) | 2:57 |
 
-Snapshot ID: `aC+ejAAAAAA8UJkf6l86ZwrRC3Gmn/8w`
+Snapshot ID: `aDRfIwAAAADsoEi3RPAFKHF94l9VnsSR`

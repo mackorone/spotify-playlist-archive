@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 322477,
+  "num_followers": 322494,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDEMAAAAAAC+tli7RYGkcDG1aZaeRU5a",
+  "snapshot_id": "aDJdgAAAAAB4RtqNLAS5kYxT/0/Z4fx/",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 126640,
-      "name": "Surfin' Safari - Mono/Remastered 2001",
-      "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1967 - Sunshine Tomorrow",
         "url": "https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 60466,
       "name": "A Thing Or Two - Track & Backing Vocals",
       "url": "https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 126640,
+      "name": "Surfin' Safari - Mono/Remastered 2001",
+      "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 114333,
-      "name": "Little Honda (Stereo)",
-      "url": "https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You (Remastered)",
         "url": "https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 58533,
       "name": "Ding Dang - Remastered 2000",
       "url": "https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 114333,
+      "name": "Little Honda (Stereo)",
+      "url": "https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD"
     },
     {
       "added_at": null,

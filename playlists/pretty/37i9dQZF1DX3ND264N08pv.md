@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,043 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,072 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 2 | [Breek De Tent Af](https://open.spotify.com/track/4otCJXGClFWNBzycWSJ4xH) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Breek De Tent Af](https://open.spotify.com/album/4jfLY2qnulc9iaAVTPDUKO) | 2:57 |
 | 3 | [Pennywise \- Deadly Guns Remix](https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Pennywise \(Deadly Guns Remix\)](https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb) | 2:32 |
 | 4 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
-| 5 | [Like A Boss](https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Like A Boss](https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD) | 2:47 |
-| 6 | [BEAT THE DRUM](https://open.spotify.com/track/34ZYnA1IYZgY2wQfwRpFkm) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [BEAT THE DRUM](https://open.spotify.com/album/1r8qDaeUBVt3SgcfmTplrp) | 3:12 |
+| 5 | [BEAT THE DRUM](https://open.spotify.com/track/34ZYnA1IYZgY2wQfwRpFkm) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [BEAT THE DRUM](https://open.spotify.com/album/1r8qDaeUBVt3SgcfmTplrp) | 3:12 |
+| 6 | [Like A Boss](https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Like A Boss](https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD) | 2:47 |
 | 7 | [Dynamite \- 2025 OST](https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Dynamite \(2025 OST\)](https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ) | 2:53 |
 | 8 | [Danse Macabre](https://open.spotify.com/track/4hZYHWCGvKPR74DgPK8jZ9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Mr\. Ivex](https://open.spotify.com/artist/4rjpzgu5YnVodi62T50yjV) | [Danse Macabre](https://open.spotify.com/album/4dzIrm27bFhZw4rTEagMKJ) | 2:28 |
 | 9 | [Burn](https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Burn](https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN) | 2:36 |

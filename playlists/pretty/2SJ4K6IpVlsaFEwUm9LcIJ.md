@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,043 likes - 27 songs - 1 hr 38 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,044 likes - 29 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 25 | [Life & Soul](https://open.spotify.com/track/06bQjjfW8ajdj6hTRcdbvk) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 2:37 |
 | 26 | [Feisty](https://open.spotify.com/track/5b3yINi6jbTdURfGU4nKoC) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:40 |
 | 27 | [Easy](https://open.spotify.com/track/7ljOUUgZGtG5euoSjAwBKU) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 3:15 |
+| 28 | [L'Etang](https://open.spotify.com/track/5lWEFSgLu51Og9y7pmghzZ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 2:24 |
+| 29 | [She Was My Sweet Heart](https://open.spotify.com/track/0gKJKfxo0ZMAcAx0U4yfbz) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [She's The Queen](https://open.spotify.com/album/3lTZWruVnyOamstEzuVCZH) | 3:48 |
 
-Snapshot ID: `AAAMe6GAgiOWn3LstblLf3k5M0NXrkQm`
+Snapshot ID: `AAAMfa4x2wlItWQA0Wz9JPPqAoJ4xkq5`

@@ -1,6 +1,6 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky?si=Yy9urTgNTSC0T0EIIvXA8g\">DopeNation</a>",
-  "num_followers": 19630,
+  "num_followers": 19631,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
+        "name": "Zero Panic, Vol. 2",
+        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "7.5G",
+      "url": "https://open.spotify.com/track/4cfJumsxrjjRSUUSDk0VK0"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
         "name": "Piki Piki",
         "url": "https://open.spotify.com/album/02h0OPWKVn1Rm0777wYapn"
       },
@@ -635,42 +651,6 @@
     {
       "added_at": "2025-05-22 22:00:26",
       "album": {
-        "name": "Zero Panic, Vol. 2",
-        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "7.5G",
-      "url": "https://open.spotify.com/track/4cfJumsxrjjRSUUSDk0VK0"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
-        "name": "Billions",
-        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 224003,
-      "name": "Billions",
-      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
-    },
-    {
-      "added_at": "2025-05-22 22:00:26",
-      "album": {
         "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
         "url": "https://open.spotify.com/album/4XnS3gO1nmWPgS8u4VqOM8"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 328519,
       "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
       "url": "https://open.spotify.com/track/0Cjt0yz3YXwAEcwWksi4nr"
+    },
+    {
+      "added_at": "2025-05-22 22:00:26",
+      "album": {
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 224003,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
     },
     {
       "added_at": "2025-05-22 22:00:26",

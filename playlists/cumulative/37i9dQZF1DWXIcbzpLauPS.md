@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Of Mice & Men
 
-1,239 songs - 3 day 4 hr 1 min
+1,240 songs - 3 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,7 +934,7 @@
 | [Serenity](https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk) | [Viscaya](https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE) | [Serenity](https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA) | 2:39 | 2021-12-17 | 2022-04-02 |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2022-07-13 | 2022-07-23 |
 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 | 2022-12-03 |
-| [Sex More Than Therapy](https://open.spotify.com/track/27QvYCWc3arAFPZ57QXsyS) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc), [Nick Thurl Mavromatis](https://open.spotify.com/artist/5uihSWYEGNiEzjV5h43VW9) | [Sex More Than Therapy](https://open.spotify.com/album/1Nd4DTOUbnQE8GH2szVbIh) | 3:48 | 2025-05-02 |  |
+| [Sex More Than Therapy](https://open.spotify.com/track/27QvYCWc3arAFPZ57QXsyS) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc), [Nick Thurl Mavromatis](https://open.spotify.com/artist/5uihSWYEGNiEzjV5h43VW9) | [Sex More Than Therapy](https://open.spotify.com/album/1Nd4DTOUbnQE8GH2szVbIh) | 3:48 | 2025-05-02 | 2025-05-27 |
 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 | 2022-07-01 | 2023-03-25 |
 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 | 2022-02-11 | 2022-04-23 |
 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 | 2022-08-05 | 2022-11-23 |
@@ -1205,6 +1205,7 @@
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-22 | 2024-08-26 |
 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 | 2023-02-17 | 2023-04-22 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2022-02-11 |
+| [What A Time](https://open.spotify.com/track/2mwccIl24NkxUzUyGJJbxA) | [Major Moment](https://open.spotify.com/artist/4PRHkf31ZSxZ5tbYe8xMZm) | [What A Time](https://open.spotify.com/album/75Bi81kROqit0yvgCRXsLE) | 3:53 | 2025-05-23 |  |
 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 | 2022-07-13 | 2022-07-23 |
 | [What If I Burn](https://open.spotify.com/track/4afrXoJM8GTpASPVzBGUYK) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [What If I Burn](https://open.spotify.com/album/6V24waGj9YEwRcoIlfSyjY) | 3:51 | 2024-11-22 | 2025-03-31 |
 | [What If...? \- WARGASM \(UK\) Remix](https://open.spotify.com/track/5lBkI4mp6nEoCJ2NPGY4RM) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [What If...? \[WARGASM \(UK\) Remix\]](https://open.spotify.com/album/0wGnVMMtHQQjhGdF6J8gGs) | 3:39 | 2025-05-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en volks. Cover: Quido van de Graaf",
-  "num_followers": 151240,
+  "num_followers": 151245,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+ejAAAAAA8UJkf6l86ZwrRC3Gmn/8w",
+  "snapshot_id": "aDRfIwAAAADsoEi3RPAFKHF94l9VnsSR",
   "tracks": [
     {
       "added_at": "2025-05-22 22:00:44",
@@ -43,26 +43,6 @@
     {
       "added_at": "2025-05-22 22:00:44",
       "album": {
-        "name": "Je Gaat Maar \u00c9\u00e9n Keer Dood",
-        "url": "https://open.spotify.com/album/7EY00eVW29RWAnSYG7dg32"
-      },
-      "artists": [
-        {
-          "name": "Frank Van Etten",
-          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 207082,
-      "name": "Je Gaat Maar \u00c9\u00e9n Keer Dood",
-      "url": "https://open.spotify.com/track/0zAvWNPP6MAc9HpuMBimFN"
-    },
-    {
-      "added_at": "2025-05-22 22:00:44",
-      "album": {
         "name": "Ik Wil Met Je Dansen",
         "url": "https://open.spotify.com/album/6TZqKE8GNYpIWZRxhPSPf6"
       },
@@ -83,22 +63,6 @@
     {
       "added_at": "2025-05-22 22:00:44",
       "album": {
-        "name": "Voor Altijd",
-        "url": "https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 169791,
-      "name": "Is Dit Het Begin",
-      "url": "https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl"
-    },
-    {
-      "added_at": "2025-05-22 22:00:44",
-      "album": {
         "name": "Kleine Wasjes, Snelle Wasjes",
         "url": "https://open.spotify.com/album/6xJd2kw2n7YmqgQ8TP1ZAu"
       },
@@ -115,6 +79,42 @@
       "duration_ms": 139701,
       "name": "Kleine Wasjes, Snelle Wasjes",
       "url": "https://open.spotify.com/track/6OAdOFNze8XTDckoLu5vT5"
+    },
+    {
+      "added_at": "2025-05-22 22:00:44",
+      "album": {
+        "name": "Je Gaat Maar \u00c9\u00e9n Keer Dood",
+        "url": "https://open.spotify.com/album/7EY00eVW29RWAnSYG7dg32"
+      },
+      "artists": [
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 207082,
+      "name": "Je Gaat Maar \u00c9\u00e9n Keer Dood",
+      "url": "https://open.spotify.com/track/0zAvWNPP6MAc9HpuMBimFN"
+    },
+    {
+      "added_at": "2025-05-22 22:00:44",
+      "album": {
+        "name": "Voor Altijd",
+        "url": "https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 169791,
+      "name": "Is Dit Het Begin",
+      "url": "https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl"
     },
     {
       "added_at": "2025-05-22 22:00:44",

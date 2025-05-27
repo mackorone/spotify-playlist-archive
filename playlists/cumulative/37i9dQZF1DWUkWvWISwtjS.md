@@ -4,10 +4,11 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-160 songs - 8 hr 1 min
+161 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Dor Desse Amor / Segundo Sol \- Ensaio Aberto Sertanejo \#03](https://open.spotify.com/track/2M7xj1TgEVMwgLEsbfnAyh) | [F2V Hits](https://open.spotify.com/artist/7mNZhwmHCGu28Ct9KGpJsZ), [Guto Ferreira](https://open.spotify.com/artist/6Kc6ZoYipesoUruoqxadUI) | [A Dor Desse Amor / Segundo Sol \(Ensaio Aberto Sertanejo \#03\)](https://open.spotify.com/album/6lcoWYCGm7OxCNnIt3HrL9) | 2:36 | 2025-05-23 |  |
 | [A Gente Continua \- Ao Vivo](https://open.spotify.com/track/53TSKwq0ZmtT3UYUHZF9Vh) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:16 | 2023-10-13 |  |
 | [A Mala É Falsa \- Ao Vivo](https://open.spotify.com/track/3dyN3yQuMi2UWKRfRY0ISt) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [1 Dois 3 \(Ao Vivo\)](https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi) | 3:03 | 2023-10-13 | 2024-04-19 |
 | [A Rosa E O Beija\-Flor \- Na Praia / Ao Vivo](https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e) | 2:50 | 2023-10-13 |  |
@@ -46,7 +47,7 @@
 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 | 2023-10-13 |  |
 | [Coladinha Em Mim \- Ao Vivo](https://open.spotify.com/track/3JagAY5Y8YzEJDXNPcR5gZ) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 2:50 | 2023-10-13 | 2024-04-19 |
 | [Coleção de Ex \- Ao Vivo](https://open.spotify.com/track/3W1L27vGEjo0yvhgOIJ8hO) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 3:45 | 2023-10-13 |  |
-| [Compartilhando Mágoa](https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Compartilhando Mágoa](https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji) | 2:50 | 2023-10-13 |  |
+| [Compartilhando Mágoa](https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Compartilhando Mágoa](https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji) | 2:50 | 2023-10-13 | 2025-05-27 |
 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 | 2023-10-13 | 2024-04-19 |
 | [Contrário](https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Ep do Esticado](https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG) | 2:56 | 2025-04-04 | 2025-05-09 |
 | [Coração Calejado \- Ao Vivo](https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:46 | 2023-10-13 |  |

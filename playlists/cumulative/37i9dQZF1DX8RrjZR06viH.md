@@ -2,7 +2,7 @@
 
 ### [kjære sommer](https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH)
 
-> Sommeren er her!☀️
+> Sommeren er her!🍹
 
 210 songs - 10 hr 59 min
 

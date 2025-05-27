@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Oblee",
+        "url": "https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp"
+      },
+      "artists": [
+        {
+          "name": "Tolibian",
+          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157263,
+      "name": "Oblee",
+      "url": "https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr"
+    },
+    {
+      "album": {
         "name": "Oblee (Remix)",
         "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
       },
@@ -2816,6 +2834,28 @@
       "duration_ms": 244285,
       "name": "Take Me Away (feat. Ayanfe and Bien)",
       "url": "https://open.spotify.com/track/5O5iEfPDhM3XKYDLMqkg6Z"
+    },
+    {
+      "album": {
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
       "album": {

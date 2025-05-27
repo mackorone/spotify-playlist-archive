@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-360 songs - 1 day 0 hr 54 min
+361 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Perspective](https://open.spotify.com/track/6uQtYVw18pUAukkRrszpS3) | [Beth McKenna](https://open.spotify.com/artist/4AFD1lRT0iwhbrWVc5XL2X) | [Beyond Here](https://open.spotify.com/album/0o6wddWdwxT4goQj122S26) | 6:19 | 2025-04-15 |  |
 | [Perspective \(Peace and Love\)](https://open.spotify.com/track/2TvTi1D6s3YtO6yKgHIk7X) | [Isaiah Collier & the Chosen Few](https://open.spotify.com/artist/0iHdGHHoK1clHPuBmfstH2) | [The Almighty](https://open.spotify.com/album/0DucTRALVpidCnE04dmhQe) | 7:00 | 2025-04-15 |  |
 | [Pet Rock](https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 2:45 | 2024-04-16 | 2025-04-16 |
-| [Phua Kao](https://open.spotify.com/track/3bfiMgVhb4iKEb0ttIqsjK) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [II](https://open.spotify.com/album/1HwNDe1zLNCs1Vx6elox85) | 3:52 | 2025-04-15 |  |
+| [Phua Kao](https://open.spotify.com/track/3bfiMgVhb4iKEb0ttIqsjK) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [II](https://open.spotify.com/album/1HwNDe1zLNCs1Vx6elox85) | 3:52 | 2025-04-15 | 2025-05-27 |
 | [Picture](https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Picture](https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj) | 2:36 | 2024-05-29 | 2025-04-16 |
 | [Pieteron](https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Pieteron](https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG) | 3:22 | 2025-04-15 |  |
 | [Pilsen](https://open.spotify.com/track/3LhJ7qztSLjHBkN0HpoAVd) | [Hanging Hearts](https://open.spotify.com/artist/108sUN2SJbRcM4qzwu9iFY) | [Into a Myth](https://open.spotify.com/album/1fhhT0pBYa676zG9ZrsoOO) | 6:33 | 2025-04-15 |  |
@@ -278,11 +278,12 @@
 | [sahara](https://open.spotify.com/track/5EVMyFfLF7kvrKSS9kQj7f) | [Julien Fillion](https://open.spotify.com/artist/41meYWkE4vtiq0GELl6UVo) | [sahara](https://open.spotify.com/album/5D6IdiSx8IvZRFYaotTJ6B) | 4:24 | 2025-04-15 |  |
 | [School Days](https://open.spotify.com/track/3bD0v2Jhj7pyXTiOqrJZ4c) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Essential Stanley Clarke](https://open.spotify.com/album/4658fdGxRPiSvcWb464SyS) | 7:48 | 2024-04-16 | 2025-04-16 |
 | [SCIENTISTS & ENGINEERS \(feat\. Future & Eryn Allen Kane\)](https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:13 | 2024-04-16 | 2025-04-16 |
-| [Scout's Odyssey](https://open.spotify.com/track/736Ps8g21FBt9JZcnSyL8L) | [Brekky Boy](https://open.spotify.com/artist/4VpFUNEQxKGW2BSHf7dndI) | [Scout's Odyssey](https://open.spotify.com/album/1adf7qi5Z88Tx4TfXRXIXA) | 3:05 | 2025-04-15 |  |
+| [Scout's Odyssey](https://open.spotify.com/track/736Ps8g21FBt9JZcnSyL8L) | [Brekky Boy](https://open.spotify.com/artist/4VpFUNEQxKGW2BSHf7dndI) | [Scout's Odyssey](https://open.spotify.com/album/1adf7qi5Z88Tx4TfXRXIXA) | 3:05 | 2025-04-15 | 2025-05-27 |
 | [Scuba](https://open.spotify.com/track/2Cd4myUzScBxXRBq3Q9M9r) | [TUKAN](https://open.spotify.com/artist/3Sb4jk6AELF08kyBaLrRii) | [Atoll](https://open.spotify.com/album/6bKU3wLRzHglWkkywfE257) | 4:44 | 2024-05-29 | 2025-04-16 |
 | [Seems Like](https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/2tap8Qg9edttnopPumKebe) | 3:14 | 2024-04-16 | 2025-04-16 |
 | [Selva Negra](https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chimborazo](https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB) | 3:28 | 2024-04-16 | 2025-04-16 |
 | [She's Back](https://open.spotify.com/track/2zmOnCKGA0hT4WuWU8O2nR) | [PyPy](https://open.spotify.com/artist/4IlYVbge5vopwlp5yI82Bz) | [Sacred Times](https://open.spotify.com/album/0GN0y9AMGziSAdR6jEIytd) | 2:51 | 2025-04-15 |  |
+| [Sherk](https://open.spotify.com/track/0cUYEHEXFNFELqIup3ri8T) | [Brekky Boy](https://open.spotify.com/artist/4VpFUNEQxKGW2BSHf7dndI) | [Sherk](https://open.spotify.com/album/5UHL8ylmt4B5Cr60t5cBWk) | 3:15 | 2025-05-27 |  |
 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 | 2025-04-15 |  |
 | [Shook Up](https://open.spotify.com/track/0l7QSV8CtMuYobqQHXL08Q) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [I've Never Been Here Before](https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB) | 2:33 | 2024-04-16 | 2025-04-16 |
 | [Si Chomphu](https://open.spotify.com/track/2QQNiRNEuO2fajKJDAK8Lw) | [Salin](https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3) | [Rammana](https://open.spotify.com/album/1IaAUTHxdkp1agbRcscr9U) | 2:57 | 2025-04-15 |  |

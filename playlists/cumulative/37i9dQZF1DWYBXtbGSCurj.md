@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Klisman
 
-1,632 songs - 3 day 8 hr 26 min
+1,633 songs - 3 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Dominicana](https://open.spotify.com/track/3tP6kXipQVvUvM8zB0n3Gk) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [Dominicana](https://open.spotify.com/album/0ZA9eQxKwHA2tSWQYPIgfA) | 2:46 | 2024-06-21 | 2024-07-19 |
 | [Dona Aranha](https://open.spotify.com/track/64tlXhiaRCF2lWkmStM8Ip) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Dona Aranha](https://open.spotify.com/album/0SpVHd7qfYDefoS1kleJ8j) | 2:19 | 2024-09-27 | 2024-10-05 |
 | [Dona do Tempo](https://open.spotify.com/track/1TQFhTNIdEP8TLM5etch8W) | [oliveirazxx](https://open.spotify.com/artist/7hWXUvyp78hMxTICxrWSKL), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Dona do Tempo](https://open.spotify.com/album/7F1y0JwqxLnhsQbQwuUVtn) | 2:29 | 2022-02-25 | 2022-03-26 |
+| [Dona Estela](https://open.spotify.com/track/6WrdGOCsPxBsXR4UQ9SWfX) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [QMPND](https://open.spotify.com/album/6AVzXJNMTCUDuEH5tI5G4L) | 2:09 | 2025-05-26 |  |
 | [Dono Do Morro](https://open.spotify.com/track/6FkrWmDwc4w3YwMG3tWYTh) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Dono Do Morro](https://open.spotify.com/album/1e2ZjrdomPu2tBGXVyT2K2) | 2:29 | 2024-04-19 | 2024-04-27 |
 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 | 2022-11-18 | 2023-01-21 |
 | [Dose de Ilusão](https://open.spotify.com/track/78KtTCaTfN19BRudn918wS) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Dose de Ilusão](https://open.spotify.com/album/2V8JVFuL0FKkoC6ZLEcfKY) | 2:31 | 2022-10-28 | 2022-11-12 |

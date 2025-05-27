@@ -4,7 +4,7 @@
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-166 songs - 8 hr 17 min
+168 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Llamas en el cielo](https://open.spotify.com/track/552jr5jIQTESjFUTlMawOU) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Llamas en el cielo](https://open.spotify.com/album/1WcQK9WDCOKfWkAmvkGmjz) | 2:42 | 2024-04-28 | 2024-09-09 |
 | [Loka](https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Loka](https://open.spotify.com/album/3JXHAfYFUBuIANrq1CE5Cp) | 3:01 | 2023-12-03 | 2024-04-15 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-01-28 | 2024-11-11 |
+| [M'ENAMORA](https://open.spotify.com/track/4Lz9pLX0FcM6t1exbt84oo) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz) | [TOT TORNA](https://open.spotify.com/album/5YhuekNPoX2Zfwrp4endor) | 2:45 | 2025-05-26 |  |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-08 | 2025-03-31 |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-08 | 2024-06-03 |
 | [Malèfica](https://open.spotify.com/track/5AgyV3dRa5xJetCw5ciOsJ) | [Lal'Ba](https://open.spotify.com/artist/1wlYowWXP2lahrXGn5opzG) | [Malèfica](https://open.spotify.com/album/1OTlOo1pni9yNH9ySQsATT) | 2:31 | 2024-10-20 | 2025-03-18 |
@@ -106,6 +107,7 @@
 | [Menys mal que ja és Nadal](https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Menys mal que ja és Nadal](https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf) | 2:39 | 2024-12-15 | 2025-01-13 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-19 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-03 | 2025-02-10 |
+| [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-26 |  |
 | [Mòbil, claus i cartera](https://open.spotify.com/track/6IAHliI122x980aplpGvie) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Joc de nens](https://open.spotify.com/album/5SoJX0KUIsSEv97sVVfn9P) | 2:48 | 2025-04-07 |  |
 | [NEXO 04\. Tu cuerpo en braille](https://open.spotify.com/track/06qH2muOjme474WL3YKcBe) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 04\. Tu cuerpo en braille](https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd) | 2:45 | 2025-05-19 |  |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-24 |  |
@@ -127,7 +129,7 @@
 | [Que Vinguis](https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Que vinguis](https://open.spotify.com/album/3RHC4G8vajwORQM6WWxVAT) | 2:31 | 2024-06-02 | 2024-10-21 |
 | [REBOBINAR](https://open.spotify.com/track/45r6wchHonMxHst9NwAnze) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [REBOBINAR](https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ) | 2:54 | 2024-12-15 | 2025-03-31 |
 | [Rikiti](https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rikiti](https://open.spotify.com/album/1suSSaPoQLN8CufLXvEdVF) | 2:26 | 2023-09-10 | 2024-04-29 |
-| [Rumba catalana](https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Rumba catalana](https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e) | 3:19 | 2024-10-27 |  |
+| [Rumba catalana](https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Rumba catalana](https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e) | 3:19 | 2024-10-27 | 2025-05-27 |
 | [Sant Tornem\-hi](https://open.spotify.com/track/2AhzvqNMSylniVhlQVIwcF) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Only Hits](https://open.spotify.com/album/0sN55ZViQjKnC1VnAd9rHQ) | 2:35 | 2024-09-22 | 2025-02-25 |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-02-02 |  |
 | [Serem més forts](https://open.spotify.com/track/33hasXzBCCcUDHNT7DqlE6) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Serem més forts](https://open.spotify.com/album/2LRjn2zuOsnDYtGglgKPEI) | 2:46 | 2024-11-03 | 2025-02-18 |
@@ -136,7 +138,7 @@
 | [Si ho deixéssim tot](https://open.spotify.com/track/2TzGyJSmcxF3qHRmstH5tJ) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Cafè pels més cafeteros](https://open.spotify.com/album/0tFOdwJIPhSkiHilK2lmb7) | 2:28 | 2025-04-28 |  |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-10-13 | 2025-05-13 |
 | [SOLUCIONS i NO PROBLEMES](https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA CALÇOTADA](https://open.spotify.com/album/6HSvBc3euvGwa5kCDcfAkF) | 2:20 | 2024-05-05 | 2024-11-04 |
-| [SORT DE TU](https://open.spotify.com/track/054BhpaxELmhu24ECqU8un) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 2:47 | 2024-10-13 |  |
+| [SORT DE TU](https://open.spotify.com/track/054BhpaxELmhu24ECqU8un) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 2:47 | 2024-10-13 | 2025-05-27 |
 | [Stargazing](https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing \(Moonlight Version\)](https://open.spotify.com/album/5995013HazvYze8wmylSzw) | 2:52 | 2024-08-04 | 2025-04-23 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-05-05 | 2025-02-18 |
 | [Sushi Poke](https://open.spotify.com/track/4oGvBNpgLClPi0hsvIFyFK) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Sushi Poke](https://open.spotify.com/album/0QhKmDHcAZxkV1kRCCl122) | 2:22 | 2025-01-06 | 2025-05-06 |

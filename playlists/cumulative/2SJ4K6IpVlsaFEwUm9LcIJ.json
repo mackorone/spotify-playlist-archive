@@ -5327,6 +5327,24 @@
     },
     {
       "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144120,
+      "name": "L'Etang",
+      "url": "https://open.spotify.com/track/5lWEFSgLu51Og9y7pmghzZ"
+    },
+    {
+      "album": {
         "name": "Oxido En El Espejo",
         "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
       },
@@ -8212,6 +8230,24 @@
       "duration_ms": 188120,
       "name": "She Is Staggering",
       "url": "https://open.spotify.com/track/6hFaRjM7c0QizkgMkZsdwg"
+    },
+    {
+      "album": {
+        "name": "She's The Queen",
+        "url": "https://open.spotify.com/album/3lTZWruVnyOamstEzuVCZH"
+      },
+      "artists": [
+        {
+          "name": "Starflyer 59",
+          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "She Was My Sweet Heart",
+      "url": "https://open.spotify.com/track/0gKJKfxo0ZMAcAx0U4yfbz"
     },
     {
       "album": {

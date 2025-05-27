@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zoë Më
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,755 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,765 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Träne](https://open.spotify.com/track/1hQ7CxbsRNRByWQVVUUmWB) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Träne](https://open.spotify.com/album/53plcTzxKJI8g4ilUK1IH8) | 2:38 |
 | 8 | [valentino](https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [valentino](https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P) | 2:08 |
 | 9 | [Lettre à mon corps](https://open.spotify.com/track/7a45PzKA19rptD9g01LlfT) | [MAGGIE](https://open.spotify.com/artist/6uz0Y8RzYc3uiFXdBiCB4I) | [Lettre à mon corps](https://open.spotify.com/album/4mAX3qv1ykfXBWjsxHGBkx) | 4:51 |
-| 10 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
+| 10 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 |
 | 11 | [Overdose](https://open.spotify.com/track/0muto1pJLrlp1NnK44I0vk) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Overdose](https://open.spotify.com/album/2BiHV4r6PD1c5OhAHGRz7x) | 2:49 |
-| 12 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 |
+| 12 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
 | 13 | [Jail](https://open.spotify.com/track/1oyUbXfp7bEGVjqcsTKttC) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Grandma On The Dancefloor](https://open.spotify.com/album/6KWFefpEa1TShCfDMU2ETn) | 1:50 |
 | 14 | [BADDIES](https://open.spotify.com/track/51Ox6fgfEHhw7eSRozu3cg) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [BADDIES](https://open.spotify.com/album/2qpNEpMn7uoBNUUnmci7jM) | 2:08 |
 | 15 | [Danke sagen](https://open.spotify.com/track/2RwL8OQf3RgdEIjjWOjnTK) | [Alina](https://open.spotify.com/artist/6hPlslLYRFnaIswJ5pn0rw) | [Ungefiltert](https://open.spotify.com/album/2Fjj1esqsdGzLopD2iICcJ) | 3:35 |

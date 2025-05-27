@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,651 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,646 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 99 | [\#5 Go Bang! \(Francois K Mix\)](https://open.spotify.com/track/1WaeKhR5bpdmymEXM0yN1f) | [Dinosaur L](https://open.spotify.com/artist/0IebXswqiI5BInWTUqaSBw) | [24\-24 Music: The Definitive Arthur Russell Sleeping Bag Recordings](https://open.spotify.com/album/0Oq6ZorGIvnUdQKEMYYsY2) | 7:34 |
 | 100 | [Love Hangover](https://open.spotify.com/track/4poc2NX2Ap8MnZjOtoiGir) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross](https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk) | 7:48 |
 
-Snapshot ID: `AAAAAEU/wQA6/6Ujl/FzeK28zLsmHITb`
+Snapshot ID: `ZIsTogAAAAAqfYWvzFl89iLrhMxsqS6f`

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: JJ
+> Songs from LGBTQIA+ artists\. Cover: iolanda
 
 1,523 songs - 3 day 10 hr 25 min
 
@@ -893,7 +893,7 @@
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-03-12 | 2024-04-10 |
 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 | 2023-07-25 | 2023-08-09 |
 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 | 2023-01-24 | 2023-03-08 |
-| [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:50 | 2025-01-14 | 2025-03-12 |
+| [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:50 | 2025-01-14 |  |
 | [Moving On](https://open.spotify.com/track/0otmZZpZfGiA4tH3O09zQ1) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Age of Adonxs](https://open.spotify.com/album/6oVOGdv3UUEQMtln8UehQd) | 3:05 | 2023-01-24 | 2023-03-08 |
 | [Mrs Thomas](https://open.spotify.com/track/53RGmdd994Q2B65CphWwQC) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Mrs Thomas](https://open.spotify.com/album/0ubE6U59PiQM4fgehn5cp4) | 3:08 | 2025-05-06 |  |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-08 | 2023-11-14 |

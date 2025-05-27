@@ -2,9 +2,9 @@
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe alternative & rock releases\. Cover: The Amazons
+> Nieuwe alternative & rock releases\. Cover: White Lies
 
-430 songs - 1 day 0 hr 55 min
+437 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 | 2024-11-07 | 2025-01-24 |
 | [American Flag](https://open.spotify.com/track/0FN074VoLCxggsr1DCsyZG) | [Naive Set](https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh) | [American Flag](https://open.spotify.com/album/0tiY4A7HVKZLCnsMXjNbnw) | 2:32 | 2024-10-22 | 2025-01-17 |
 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-12-02 | 2025-02-04 |
+| [Anaesthesia](https://open.spotify.com/track/7it4FUbUltbcMW52HF70Es) | [Flying Horseman](https://open.spotify.com/artist/27ZqgAuCnyX8PjNb9CHJP4) | [Anaesthesia](https://open.spotify.com/album/7iGKea5FnE5HpWQlhdihQk) | 4:38 | 2025-05-26 |  |
 | [Angels](https://open.spotify.com/track/0CqjLU4uRDEYxfTKkjIITm) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [Angels](https://open.spotify.com/album/2auMidULDDfxIu5nbvao5q) | 3:56 | 2025-04-11 |  |
 | [Another Woman](https://open.spotify.com/track/6t8Ut4zs1TEeSO9I746fiJ) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Another Woman](https://open.spotify.com/album/18wep4YHWC50cGFSz8oLC0) | 4:24 | 2025-05-09 |  |
 | [Anyone, Anything](https://open.spotify.com/track/3sKOFIxANNUQvScMAuZrjz) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Anyone, Anything](https://open.spotify.com/album/2le1dcsSTG2r8wSh3vsHhB) | 2:29 | 2024-08-01 | 2024-11-08 |
@@ -60,6 +61,7 @@
 | [Big Stepper](https://open.spotify.com/track/47x33fckrWvLk82Hc4cJfK) | [Real Farmer](https://open.spotify.com/artist/19lSZSwxm5y6ihi5mODLaK) | [Big Stepper](https://open.spotify.com/album/5cT2fT6DwOXIY0hgrBWhr6) | 2:38 | 2025-05-09 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-24 | 2024-09-06 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 | 2025-04-18 |
+| [Black Page](https://open.spotify.com/track/5jYl4Qn9n6YKz1JscgSQPd) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Black Page](https://open.spotify.com/album/2TPz2PqQ5MvsKupQWXUWng) | 3:21 | 2025-05-26 |  |
 | [Bloodline](https://open.spotify.com/track/4j4rbZs658sxsDefOzq5Gu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [MIXED EMOTIONS](https://open.spotify.com/album/2fbZbR42v9wRJ8aojApy5Z) | 3:11 | 2025-05-09 |  |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-16 |  |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-09-13 | 2024-11-23 |
@@ -230,7 +232,9 @@
 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 | 2024-10-10 | 2025-01-07 |
 | [LONDON](https://open.spotify.com/track/5wYKZtxuznUf9h53BcRzSI) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [LONDON](https://open.spotify.com/album/08EsNvipHUdPcyeQAC4Z09) | 2:28 | 2024-06-24 | 2024-07-10 |
 | [Lonsdale Slipons](https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Lonsdale Slipons](https://open.spotify.com/album/6O5pX1TqnuDbXLHQOpwaoS) | 2:13 | 2024-07-11 | 2024-09-25 |
+| [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-05-26 |  |
 | [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 | 2025-03-06 |  |
+| [Lose The Baby](https://open.spotify.com/track/3fjr8yTtRDrPErnZCXMgwG) | [Youri Lentjes](https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE) | [Lose The Baby](https://open.spotify.com/album/300GhmjTIOVDDpOKRwwmbV) | 4:06 | 2025-05-26 |  |
 | [Loser](https://open.spotify.com/track/5MBaUQGYX5oK3kpukAZRDj) | [Dutch Mustard](https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP) | [Loser](https://open.spotify.com/album/2mlLbBlwrR0YgPf484jcJH) | 3:03 | 2024-07-26 | 2024-10-23 |
 | [Loser](https://open.spotify.com/track/7p7D2nrK1QXkTlVBFuprGD) | [VALS ALARM](https://open.spotify.com/artist/3q1SvFNWA77vrDRqEpgjbS) | [VALS ALARM](https://open.spotify.com/album/2rtsUA18FEo098lcJocgOk) | 2:26 | 2024-06-24 | 2024-09-06 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-06-24 | 2024-08-02 |
@@ -277,6 +281,7 @@
 | [Nom Nom Nom](https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Nom Nom Nom / Cat Burglar](https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx) | 3:30 | 2024-12-02 | 2025-02-18 |
 | [Not All Is in Vain](https://open.spotify.com/track/4XcmKf5TE7R6NCsG7PTU6H) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Not All Is in Vain](https://open.spotify.com/album/14jt7XaL3XqNegGQQMN1F9) | 5:18 | 2025-01-16 | 2025-02-28 |
 | [Nothing](https://open.spotify.com/track/1ybPhPFDBLiWZiDbtUufH9) | [Geraldines](https://open.spotify.com/artist/6jav9D62Wpo8iaStvzqpWM) | [Nothing](https://open.spotify.com/album/60fqRyu5oxkvMGBPlDqpH5) | 2:27 | 2024-11-22 | 2024-12-03 |
+| [Nothing On Me](https://open.spotify.com/track/0Javk02TRcIDmL6aYv7VAj) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Nothing On Me](https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM) | 2:44 | 2025-05-26 |  |
 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 | 2024-06-24 | 2024-08-31 |
 | [Older](https://open.spotify.com/track/6uTB06YRl5gDO8ua7t4jEE) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [Older](https://open.spotify.com/album/1esrwMzV3jEz0760LlIFU6) | 3:57 | 2025-03-28 | 2025-04-12 |
 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-06-24 | 2024-08-02 |
@@ -360,9 +365,11 @@
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-07 | 2025-04-18 |
 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 | 2025-03-13 |  |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-24 | 2024-10-18 |
+| [Sweet Fame](https://open.spotify.com/track/2FeJTYfPRpZw3ekoXSVa0r) | [Oproer](https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2) | [Sweet Fame](https://open.spotify.com/album/3XAtF4x4O83uJGnDOaBjBN) | 3:07 | 2025-05-26 |  |
 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-22 | 2025-01-17 |
 | [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-16 | 2025-02-18 |
 | [T&A](https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw) | 3:45 | 2025-01-09 | 2025-02-28 |
+| [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 | 2025-05-26 |  |
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-26 | 2024-10-23 |
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-13 | 2025-03-29 |
 | [Tata's Lie](https://open.spotify.com/track/6KEbPvohiPRqky2TcYFwQG) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Tata's Lie](https://open.spotify.com/album/0u0r2SIoz7i5dgD5Ctw9LF) | 4:20 | 2024-06-24 | 2024-07-12 |

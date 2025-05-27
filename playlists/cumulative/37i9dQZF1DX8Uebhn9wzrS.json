@@ -5239,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "bummer",
+        "url": "https://open.spotify.com/album/2uSMQfvDttng4fd4kpdfa4"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8wkey",
+          "url": "https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127528,
+      "name": "bummer",
+      "url": "https://open.spotify.com/track/4hei4xNlaBpgPAEY8txn31"
+    },
+    {
+      "album": {
         "name": "Bunch Of Flowers",
         "url": "https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5"
       },
@@ -6866,7 +6884,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-27",
       "duration_ms": 133028,
       "name": "Chills",
       "url": "https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r"

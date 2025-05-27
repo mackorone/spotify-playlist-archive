@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Anendlessocean
 
-496 songs - 1 day 3 hr 58 min
+497 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Hallelu Hallelujah](https://open.spotify.com/track/2mPIzJSLLL4d5ajTuYllS9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [Hallelu Hallelujah](https://open.spotify.com/album/0kxg3gS1PKVhEgg6zTuXJi) | 2:40 | 2024-11-15 | 2025-02-28 |
 | [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 | 2024-04-26 | 2025-01-10 |
 | [Hallelujah](https://open.spotify.com/track/6gtinjZhX2L8Pk5YYqxXC4) | [Mosaiic](https://open.spotify.com/artist/0giflqW1wVuWRJRASOgcvM), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Hallelujah](https://open.spotify.com/album/3nnStCOqjsfIip1srG25Li) | 3:02 | 2025-02-07 | 2025-04-04 |
+| [HAVE YOUR WAY \- Acoustic](https://open.spotify.com/track/7632UEos9JCznD1UCFsLDI) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ) | [HAVE YOUR WAY \(Acoustic\)](https://open.spotify.com/album/4NnDJ5elFwPykKxpRr13ez) | 4:01 | 2025-05-26 |  |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-10-20 |  |
 | [Healer](https://open.spotify.com/track/54CGIAeSJL9cO7Lu0DW0FY) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Healer](https://open.spotify.com/album/4CnpfAL2P5gKv9myxRwH24) | 4:45 | 2025-01-31 | 2025-03-28 |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-21 |  |
