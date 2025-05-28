@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Smerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,223 likes - 137 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,307 likes - 137 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

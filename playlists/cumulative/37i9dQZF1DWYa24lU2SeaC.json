@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous vos titres Disney pr\u00e9f\u00e9r\u00e9s incluant la musique de Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!",
+  "description": "Tous vos titres Disney pr\u00e9f\u00e9r\u00e9s incluant la musique de  Lilo & Stitch, Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!",
   "name": "Disney Hits France",
   "tracks": [
     {
@@ -166,6 +166,28 @@
       "duration_ms": 147946,
       "name": "Bienvenue \u00e0 Rosas",
       "url": "https://open.spotify.com/track/0CwGlaXuoqz1fgYJfr67sR"
+    },
+    {
+      "album": {
+        "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
+      },
+      "artists": [
+        {
+          "name": "Nyjah Music & Zyah Rhythm",
+          "url": "https://open.spotify.com/artist/4aEDhgmmxsxsZDzl3FTxEh"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7tg6qrdwIo0qKL5tgNWYh0"
     },
     {
       "album": {
@@ -603,6 +625,32 @@
     },
     {
       "album": {
+        "name": "Hawaiian Roller Coaster Ride (From \"Lilo & Stitch\")",
+        "url": "https://open.spotify.com/album/39qk7h3gj7wtNHSzWIDd33"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"",
+      "url": "https://open.spotify.com/track/4SMyFD1nz2HFIlARsP8jyK"
+    },
+    {
+      "album": {
         "name": "Disney Summer Songs",
         "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
@@ -622,6 +670,32 @@
       "duration_ms": 207826,
       "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7J2SpEpsLlEZDxi8WhS4ET"
+    },
+    {
+      "album": {
+        "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
+      },
+      "artists": [
+        {
+          "name": "Mark Keali'i Ho'omalu",
+          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "He Lei P\u0101pahi No Lilo a me Stitch",
+      "url": "https://open.spotify.com/track/6dAn3QBtsg5to62lkaWT7M"
     },
     {
       "album": {

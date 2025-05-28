@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 246920,
       "name": "Agua De Papaya",
       "url": "https://open.spotify.com/track/1bGZfq8JYklMC8yT0BcpWz"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 218733,
       "name": "Cindy Don't Know",
       "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 169737,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4vDu0mEddDoqHpn6f6lMyh"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 184066,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/1W35GFblfAKr7TpHPXfSjk"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 206213,
       "name": "Dias de Ayer",
       "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
@@ -748,6 +748,24 @@
       "duration_ms": 464466,
       "name": "Disco Medley - Live From Astrodome",
       "url": "https://open.spotify.com/track/6p3FDqyALPpkVptF8q5bRw"
+    },
+    {
+      "album": {
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "Don Luis El Tejano",
+      "url": "https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT"
     },
     {
       "album": {
@@ -954,7 +972,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 253610,
       "name": "El Mariachi Loco",
       "url": "https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 281186,
       "name": "I Could Fall In Love",
       "url": "https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 190906,
       "name": "Las Cadenas",
       "url": "https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q"
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 170426,
       "name": "Me Derrito",
       "url": "https://open.spotify.com/track/69XkXUWR0XOXNXdR5qYDRQ"
@@ -2003,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225932,
+      "name": "Paloma Sin Nidal",
+      "url": "https://open.spotify.com/track/5phyOuyAYmqiYwRemC9qS8"
+    },
+    {
+      "album": {
         "name": "FOREVER MAZZ",
         "url": "https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA"
       },
@@ -2122,7 +2158,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 248271,
       "name": "Porque Todav\u00eda Te Quiero",
       "url": "https://open.spotify.com/track/6cDh2RUe0AFbt2XJZd3R0J"
@@ -2212,7 +2248,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 236293,
       "name": "Que Me Lleven Canciones",
       "url": "https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7"
@@ -2248,7 +2284,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 193573,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/3C8NVyNQfAhxCfRyCEti5j"
@@ -2320,7 +2356,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 141706,
       "name": "Quiero Ser",
       "url": "https://open.spotify.com/track/1y4RgBiBb7VvQUQ2EuGQuZ"
@@ -2734,7 +2770,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 226226,
       "name": "Techno Cumbia",
       "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
@@ -2920,10 +2956,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 228040,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/6uwFq7V0QQEENpFHFpYX4z"
+    },
+    {
+      "album": {
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "Tus Celos",
+      "url": "https://open.spotify.com/track/5Q7Y5AjAWzVw8DPDcJtlUv"
     },
     {
       "album": {
@@ -3086,7 +3140,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 146720,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57"
@@ -3140,7 +3194,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 255013,
       "name": "Vuelvo",
       "url": "https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG"
@@ -3248,7 +3302,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 217426,
       "name": "Yo No Tengo La Culpa",
       "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"
@@ -3302,7 +3356,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 219600,
       "name": "\u00bfQu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/2Jgu37m4rGRGhmaS0W9JMv"

@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-252 songs - 15 hr 17 min
+253 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Paraíba Não É Chicago](https://open.spotify.com/track/1YL6kqPu1Pde4zb5u93x9t) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4) | [A Paraíba Não É Chicago](https://open.spotify.com/album/1g4IpOiQIki2xR1198ntds) | 2:53 | 2022-02-04 | 2022-07-15 |
 | [A parte que falta](https://open.spotify.com/track/0NUu7f2wLfBrdNgiLmyVBz) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz) | [A parte que falta](https://open.spotify.com/album/5LSpRZX5Bm6rQ9ye5ACNra) | 4:46 | 2022-02-04 | 2022-07-23 |
 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 | 2022-03-22 | 2025-04-07 |
-| [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 | 2022-02-04 |  |
+| [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 | 2022-02-04 | 2025-05-28 |
 | [Ainda É Tempo pra Ser Feliz](https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 4:16 | 2025-04-04 |  |
 | [Alfazema](https://open.spotify.com/track/7hzIyUaBEYn75POSXlwjuR) | [Rafael Mike](https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Alfazema](https://open.spotify.com/album/37HpuPIwVs7PJ1q6sVPA6R) | 3:21 | 2022-02-04 | 2022-07-28 |
 | [Alma Bonita](https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU) | [Alma Bonita](https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9) | 3:07 | 2022-02-04 | 2022-07-18 |
@@ -119,6 +119,7 @@
 | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0) | 4:54 | 2022-11-04 | 2025-02-15 |
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-02-04 | 2022-07-25 |
 | [Fullgás](https://open.spotify.com/track/1f9HisfpJAutD6WgOY1sPP) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Qinho Canta Marina](https://open.spotify.com/album/0Dlkq4Ecn8e0UOUhDm9RFm) | 4:27 | 2022-02-04 | 2022-07-26 |
+| [Gamboa](https://open.spotify.com/track/0ZaAT8SdM8LYoLPSaITLWt) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:42 | 2025-05-26 |  |
 | [Gamela](https://open.spotify.com/track/3Dj1bQdB6swcsWkQRtnevp) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK) | [Gamela](https://open.spotify.com/album/4dIM1zU22GCBCH6bzPwV6Q) | 3:42 | 2022-03-22 | 2022-04-13 |
 | [Gente Boa se Atrai](https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Peu Meurray](https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 3:25 | 2025-02-22 |  |
 | [Gentilmente](https://open.spotify.com/track/3u9LN72UqsGVYgEJVrtVah) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Gentilmente](https://open.spotify.com/album/0XbYJg3dz9T5z1qdOmIg6d) | 4:12 | 2022-02-04 | 2022-07-29 |

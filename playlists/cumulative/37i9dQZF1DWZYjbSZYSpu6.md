@@ -4,7 +4,7 @@
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: JEONG EUN JI, Seo In Guk\(정은지, 서인국\)\)
 
-256 songs - 15 hr 13 min
+257 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 | 2022-04-21 | 2024-08-03 |
 | [Page 0](https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Page 0](https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg) | 3:07 | 2022-05-11 | 2022-07-14 |
 | [Palette \(feat\. G\-DRAGON\)](https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:37 | 2022-04-21 |  |
+| [Pastel Luv \(with JU\-NE\)](https://open.spotify.com/track/1JkEVGYDgq9KNTmPAZXPpt) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [JU\-NE](https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX) | [Pastel Luv \(with JU\-NE\)](https://open.spotify.com/album/0ceGXj4gOnIwVKkPwCbJaw) | 2:38 | 2025-05-27 |  |
 | [Perhaps Love](https://open.spotify.com/track/7Mfb2IwRNP8Qi7Ojtpmi37) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Your BGM Vol.1](https://open.spotify.com/album/7buYKdXbAntzuYkJj2oY2G) | 3:59 | 2022-03-24 | 2022-07-29 |
 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 | 2022-07-25 | 2024-04-19 |
 | [PLAY](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [PLAY](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) | 3:19 | 2022-03-24 | 2022-04-21 |
@@ -260,7 +261,7 @@
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2022-03-24 |  |
 | [오늘은 집에 가지말고 나랑 얘기좀 해](https://open.spotify.com/track/2wOuGFwm6WKzfCEoQKfEyK) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U), [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs) | [Seoul Vibes, Pt​\. 11](https://open.spotify.com/album/2jBJSRXEiwyoIkH64vTNhh) | 3:14 | 2022-03-24 | 2022-04-21 |
 | [우리 만나볼래요](https://open.spotify.com/track/4IFid2K7jKJ1Nc6nEX1GDT) | [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [아직 널 사랑하는데](https://open.spotify.com/album/5tmSa6Du8XMokLAmFCusSJ) | 2:44 | 2022-03-24 | 2022-04-20 |
-| [임재범 30주년 기념 앨범 Project 1\-사랑보다 깊은 상처](https://open.spotify.com/track/587hjCTuwNiXOrYZIiVz83) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범 30주년 기념 앨범 Project 1\-사랑보다 깊은 상처](https://open.spotify.com/album/78UBfvxzUNlnqIpmcaONul) | 4:32 | 2024-02-20 |  |
+| [임재범 30주년 기념 앨범 Project 1\-사랑보다 깊은 상처](https://open.spotify.com/track/587hjCTuwNiXOrYZIiVz83) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범 30주년 기념 앨범 Project 1\-사랑보다 깊은 상처](https://open.spotify.com/album/78UBfvxzUNlnqIpmcaONul) | 4:32 | 2024-02-20 | 2025-05-28 |
 | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\)](https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\) \- Single](https://open.spotify.com/album/4laMaViU0DAsIz0iNdXxcI) | 3:39 | 2022-03-24 | 2022-07-29 |
 | [커피를 마시고 Coffee \- Reprise](https://open.spotify.com/track/3PX5Hkkhh4da6Sntk3LwYo) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:48 | 2022-03-24 | 2022-07-29 |
 | [하나부터 열까지](https://open.spotify.com/track/1RWAXrVCKvdYLs7hq1cyn4) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO), [MOOK](https://open.spotify.com/artist/5Sqk710FhqXdb9YNDjM66Y) | [\#좋맛탱 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/0EeFn8bOMVLNdCRcLCKdRV) | 3:36 | 2022-06-09 | 2022-06-14 |

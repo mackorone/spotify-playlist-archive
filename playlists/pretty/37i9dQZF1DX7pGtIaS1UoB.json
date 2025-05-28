@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 98798,
+  "num_followers": 98825,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,26 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
+        "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
+        "url": "https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX"
+      },
+      "artists": [
+        {
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        },
+        {
+          "name": "\u8d75\u9732\u601d Rosy",
+          "url": "https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
+      "url": "https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU"
+    },
+    {
+      "added_at": "2025-05-22 16:00:30",
+      "album": {
         "name": "\u4f60\u5728\u7169\u60f1\u4ec0\u9ebc",
         "url": "https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa"
       },
@@ -127,26 +147,6 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
-        "name": "Six Degrees",
-        "url": "https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu"
-      },
-      "artists": [
-        {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        },
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 194838,
-      "name": "Six Degrees",
-      "url": "https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq"
-    },
-    {
-      "added_at": "2025-05-22 16:00:30",
-      "album": {
         "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
         "url": "https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm"
       },
@@ -171,22 +171,22 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
-        "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
-        "url": "https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX"
+        "name": "Six Degrees",
+        "url": "https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu"
       },
       "artists": [
         {
-          "name": "Silence Wang",
-          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
         },
         {
-          "name": "\u8d75\u9732\u601d Rosy",
-          "url": "https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 194423,
-      "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
-      "url": "https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU"
+      "duration_ms": 194838,
+      "name": "Six Degrees",
+      "url": "https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq"
     },
     {
       "added_at": "2025-05-22 16:00:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
-        "name": "SHERO",
-        "url": "https://open.spotify.com/album/4RsL9KnUAYttjxJxBll6pJ"
-      },
-      "artists": [
-        {
-          "name": "S.H.E",
-          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "\u611b\u4e0a\u4f60",
-      "url": "https://open.spotify.com/track/5foAX3vs1tKvzU2Lhv1a9u"
-    },
-    {
-      "added_at": "2025-05-22 16:00:30",
-      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 172968,
       "name": "\u8166\u516c",
       "url": "https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8"
+    },
+    {
+      "added_at": "2025-05-22 16:00:30",
+      "album": {
+        "name": "SHERO",
+        "url": "https://open.spotify.com/album/4RsL9KnUAYttjxJxBll6pJ"
+      },
+      "artists": [
+        {
+          "name": "S.H.E",
+          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "\u611b\u4e0a\u4f60",
+      "url": "https://open.spotify.com/track/5foAX3vs1tKvzU2Lhv1a9u"
     },
     {
       "added_at": "2025-05-22 16:00:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
-        "name": "\u9019\u6a23\u5c31\u5f88\u597d",
-        "url": "https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Lee",
-          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "\u9019\u6a23\u5c31\u5f88\u597d",
-      "url": "https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL"
-    },
-    {
-      "added_at": "2025-05-22 16:00:30",
-      "album": {
         "name": "\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60 \u96fb\u8996\u539f\u8072\u5e36",
         "url": "https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 255097,
       "name": "\u5fc3\u9858\u4fbf\u5229\u8cbc - \u53f0\u8996\u3001\u4e09\u7acb\u300a\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv"
+    },
+    {
+      "added_at": "2025-05-22 16:00:30",
+      "album": {
+        "name": "\u9019\u6a23\u5c31\u5f88\u597d",
+        "url": "https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Lee",
+          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "\u9019\u6a23\u5c31\u5f88\u597d",
+      "url": "https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL"
     },
     {
       "added_at": "2025-05-22 16:00:30",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 185008,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
+    },
+    {
+      "added_at": "2025-05-22 16:00:30",
+      "album": {
         "name": "\u4f60\u9084\u4e0d\u77e5\u9053\uff1f",
         "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 177391,
       "name": "\u518d\u4e00\u6b21",
       "url": "https://open.spotify.com/track/2nlf9fB6ENWqw6XGhi0E07"
-    },
-    {
-      "added_at": "2025-05-22 16:00:30",
-      "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 185008,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
     },
     {
       "added_at": "2025-05-22 16:00:30",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
+        "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
+        "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
+      },
+      "artists": [
+        {
+          "name": "Jerry Yan",
+          "url": "https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "\u6211\u6703\u5f88\u611b\u59b3",
+      "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
+    },
+    {
+      "added_at": "2025-05-22 16:00:30",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 167013,
       "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
       "url": "https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq"
-    },
-    {
-      "added_at": "2025-05-22 16:00:30",
-      "album": {
-        "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
-        "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
-      },
-      "artists": [
-        {
-          "name": "Jerry Yan",
-          "url": "https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "\u6211\u6703\u5f88\u611b\u59b3",
-      "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
     },
     {
       "added_at": "2025-05-22 16:00:30",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-05-22 16:00:30",
       "album": {
-        "name": "\u60f3\u8981\u548c\u4f60",
-        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
-      },
-      "artists": [
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        },
-        {
-          "name": "MAD",
-          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "\u60f3\u8981\u548c\u4f60",
-      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
-    },
-    {
-      "added_at": "2025-05-22 16:00:30",
-      "album": {
         "name": "\u6eab\u6cc9",
         "url": "https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 283360,
       "name": "\u6eab\u6cc9",
       "url": "https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS"
+    },
+    {
+      "added_at": "2025-05-22 16:00:30",
+      "album": {
+        "name": "\u60f3\u8981\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        },
+        {
+          "name": "MAD",
+          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u60f3\u8981\u548c\u4f60",
+      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
     },
     {
       "added_at": "2025-05-22 16:00:30",

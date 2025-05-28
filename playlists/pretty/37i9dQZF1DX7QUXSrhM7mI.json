@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 89248,
+  "num_followers": 89251,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y4gAAAADmBUh4JRsIQv1/yM77LRLM",
+  "snapshot_id": "AAAAAP7OSO5aJJCVxOzOpwsKOvWX6jUw",
   "tracks": [
     {
       "added_at": "2025-05-23 04:00:34",
@@ -91,6 +91,26 @@
       "duration_ms": 221103,
       "name": "Old Recliners",
       "url": "https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ"
+    },
+    {
+      "added_at": "2025-05-27 13:49:30",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/6u9PxN0qHWuiZriAO7sBA9"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 219687,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4tkhaf3uFTKtgIhJunlkM5"
     },
     {
       "added_at": "2025-04-17 17:59:00",
@@ -527,22 +547,6 @@
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2024-10-11 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 68200,
+  "num_followers": 68226,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Allefez",
+          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Gaveta/Onironauta",
+      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
         "name": "N\u00e3o para N\u00e3o",
         "url": "https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS"
       },
@@ -175,22 +195,18 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+        "name": "Na Sua Rua",
+        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Allefez",
-          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
         }
       ],
-      "duration_ms": 225230,
-      "name": "Gaveta/Onironauta",
-      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
+      "duration_ms": 208000,
+      "name": "Na Sua Rua",
+      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -211,22 +227,6 @@
       "duration_ms": 176285,
       "name": "E EU?",
       "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
-        "name": "Na Sua Rua",
-        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Na Sua Rua",
-      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -687,18 +687,22 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
         }
       ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -755,22 +759,18 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
       },
       "artists": [
         {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
     },
     {
       "added_at": "2025-05-16 03:01:14",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-05-16 03:01:14",
       "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
-      },
-      "artists": [
-        {
-          "name": "DROKI",
-          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
-        }
-      ],
-      "duration_ms": 154958,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
-    },
-    {
-      "added_at": "2025-05-16 03:01:14",
-      "album": {
         "name": "Esse \u00c9 Meu Mundo",
         "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 206426,
       "name": "98'",
       "url": "https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR"
+    },
+    {
+      "added_at": "2025-05-16 03:01:14",
+      "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
+      },
+      "artists": [
+        {
+          "name": "DROKI",
+          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
+        }
+      ],
+      "duration_ms": 154958,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
     },
     {
       "added_at": "2025-05-16 03:01:14",

@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  GOOKU, JOKER 390P, AZWIN
 
-324 songs - 16 hr 38 min
+326 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ente Kaalam](https://open.spotify.com/track/1XpVCD9Pk2ODY5F4mYyQqY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ente Kaalam](https://open.spotify.com/album/2j6KT1OUYbkQQDPSKRupDq) | 3:02 | 2022-06-23 | 2023-07-24 |
 | [Enthannuvecha Aykko](https://open.spotify.com/track/3ZoVs4zumz4WcLbCtr7TPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Enthannuvecha Aykko](https://open.spotify.com/album/095KgHug3ANYEGex1MJw5V) | 2:23 | 2024-01-15 | 2024-02-13 |
 | [Evide Maranam](https://open.spotify.com/track/0eVNMJId5QJJ1DGejNORq6) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [CJ J](https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Evide Maranam](https://open.spotify.com/album/1E6vVJHjZNzz7BR2KUJt2l) | 5:55 | 2025-01-09 | 2025-03-29 |
+| [EXPEN$VE](https://open.spotify.com/track/4fCg3xLGon9zfOHOzR27uM) | [Deon](https://open.spotify.com/artist/4w5cn6TMLnK4dCyfcp0lbO), [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl), [Bando B](https://open.spotify.com/artist/4i5TbrwjfzY1IclZa3Peae), [MSAI](https://open.spotify.com/artist/1aGzTpfUipTGG19Bi4ckIe) | [EXPEN$VE](https://open.spotify.com/album/5ZSeXjO5jn2QTMWRZ7sxju) | 4:07 | 2025-05-27 |  |
 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 | 2024-09-09 | 2024-11-13 |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-07-13 | 2023-07-24 |
 | [Fly](https://open.spotify.com/track/0iSVHgbveiiQ3KWD2JGsRB) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL) | 4:06 | 2024-02-13 | 2024-04-23 |
@@ -177,6 +178,7 @@
 | [Marpapa \(From "Marco"\)](https://open.spotify.com/track/3wy1CWZIb89ajMdd2SiFM3) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Saeed Abbas](https://open.spotify.com/artist/3r3BIxNm1kAWHIAc2Gg36h), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Marpapa \(From "Marco"\)](https://open.spotify.com/album/1zy7mSPHWA8o9XJQG5em9D) | 2:50 | 2025-01-07 |  |
 | [MARULOKAM](https://open.spotify.com/track/42eQSipA74ggJbV0SrGxVE) | [46FLOW](https://open.spotify.com/artist/3zQt5tn7i7l07bJ5AplrtB), [AK](https://open.spotify.com/artist/2fM6JdDJYYFKerp0aftbIu) | [MARULOKAM](https://open.spotify.com/album/3MgVhZPdUiPBIxynX6Ax5N) | 2:45 | 2025-03-07 | 2025-04-12 |
 | [Marutha](https://open.spotify.com/track/5Rs7ZYzWcwQR8l9VVIOca4) | [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Methi, Pt\. 1](https://open.spotify.com/album/44bdtCuOHWHzTDojk6EGJm) | 4:03 | 2025-01-09 | 2025-03-22 |
+| [Mathanga \- Original Mix](https://open.spotify.com/track/1DuB0C95pWmF2IAWPSb6CN) | [Kuttippa](https://open.spotify.com/artist/4xS2zvc8jaoQwhzBgiQTvL) | [Mathanga](https://open.spotify.com/album/6jNFjZxH2GlnbVmM8lyLfT) | 3:06 | 2025-05-27 |  |
 | [Mathapithakkale \- From "Aavesham"](https://open.spotify.com/track/4WaCnPpbycUQQiXBDxH7zx) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [Mathapithakkale \(From "Aavesham"\)](https://open.spotify.com/album/0iTW4gBhHqRbN5ins6Nhkf) | 3:29 | 2024-04-16 |  |
 | [MAUNA LOA](https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [MAUNA LOA](https://open.spotify.com/album/4ERE2IVowRMYYtNFnlAeBV) | 2:27 | 2025-04-30 |  |
 | [Minnal Pinar \- Red Bull 64 Bars](https://open.spotify.com/track/7MKITouwx3C8lS8bWqEJTr) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Minnal Pinar \(Red Bull 64 Bars\)](https://open.spotify.com/album/212I9yWYp3ytaW7hN3Zl2b) | 3:07 | 2025-01-09 | 2025-03-29 |

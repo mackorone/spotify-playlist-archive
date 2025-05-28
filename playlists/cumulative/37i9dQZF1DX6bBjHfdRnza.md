@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring Matsu\. Artwork by Rewina Beshue.
 
-2,879 songs - 7 day 23 hr 0 min
+2,880 songs - 7 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1154,6 +1154,7 @@
 | [Highs and Lows](https://open.spotify.com/track/0PcnJsn1uvofOmM4U2rtBm) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [Highs and Lows](https://open.spotify.com/album/4ZQooS9fZGzdDnjzf717vh) | 2:45 | 2023-06-07 | 2023-07-13 |
 | [Hip Hop \- Radio Edit](https://open.spotify.com/track/3Cik8tw5FI1DvsxLm2U51k) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Hip Hop](https://open.spotify.com/album/3urlJ2BqyoCqWpbf0Z50UA) | 3:37 | 2024-02-07 | 2024-02-29 |
 | [Hit Me](https://open.spotify.com/track/6X23ZjqPL5rfGlbzxN5oBJ) | [Jay Farina](https://open.spotify.com/artist/4YiWn0iLCpkn46sM9NiYz8), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [Hit Me](https://open.spotify.com/album/0BU8a6tRVNBYcFecyZ1zQi) | 2:36 | 2024-07-05 | 2024-08-17 |
+| [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 | 2025-05-27 |  |
 | [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 | 2025-05-14 |  |
 | [Hive](https://open.spotify.com/track/72y2OPKwT8q0k0lXySHAkt) | [Eternal Entropy](https://open.spotify.com/artist/3xSMqrU40AOjt6i5vkfEes) | [Hive](https://open.spotify.com/album/1RY0wiB6x5ZOCChQ3Qlz6r) | 2:18 | 2024-09-26 | 2024-11-07 |
 | [Hold](https://open.spotify.com/track/30TWgLQhlAOlacJWemobEB) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Give Me Monaco](https://open.spotify.com/artist/3bb7Zscs7LiGtqtzVJ7pYy), [Emily Marks](https://open.spotify.com/artist/1sMMH7GkHrs33QBYdh8D64) | [Parenthesis](https://open.spotify.com/album/1agEynHCgqeMdMBAq97Fkb) | 4:39 | 2023-03-01 | 2023-04-06 |
@@ -1836,7 +1837,7 @@
 | [Ologramma](https://open.spotify.com/track/6xEVd4IJ4iVwAZoLBAkCmn) | [Blue Mora](https://open.spotify.com/artist/31kQwvaTauJPYSdvVBvxD1) | [Ologramma](https://open.spotify.com/album/406U3PFNmgo1XhedUsypeF) | 4:25 | 2022-01-26 | 2022-03-17 |
 | [Olvido](https://open.spotify.com/track/42v3sjO6HNsN6bITSsK1FE) | [Rafa Barrios](https://open.spotify.com/artist/6nl0PkJi7Xog1gon9f6WIl) | [Olvido](https://open.spotify.com/album/7fq9J9FsHSlliMKadHGqgK) | 5:55 | 2023-01-18 | 2023-03-02 |
 | [On & On](https://open.spotify.com/track/2fSiiXDRQRSTKWTKqXF9z4) | [Berzingue](https://open.spotify.com/artist/1fxHgs4EJ0MS52b2u8bjKa) | [On & On](https://open.spotify.com/album/57Yd6MNMvRHKd3JVxupqb9) | 6:10 | 2023-05-17 | 2023-06-15 |
-| [On & On](https://open.spotify.com/track/5bi4MdCBwPDPYMPU7ono7H) | [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc) | [On & On](https://open.spotify.com/album/7ku0qOHRNI8zkc9RlRLK3a) | 3:23 | 2025-04-30 |  |
+| [On & On](https://open.spotify.com/track/5bi4MdCBwPDPYMPU7ono7H) | [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc) | [On & On](https://open.spotify.com/album/7ku0qOHRNI8zkc9RlRLK3a) | 3:23 | 2025-04-30 | 2025-05-28 |
 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 | 2024-08-07 | 2025-01-16 |
 | [On Embers](https://open.spotify.com/track/6NGuBUDtlmPak65c4V2uyC) | [Evian Christ](https://open.spotify.com/artist/75BN2bMrpeLl89blBiaFuv) | [Revanchist](https://open.spotify.com/album/2e5dgajfEhTCWniWQ8ZNHH) | 5:05 | 2023-10-25 | 2023-11-30 |
 | [On Greed](https://open.spotify.com/track/2TgfrolQ5cDBDwJe9Bzmpk) | [Space Food](https://open.spotify.com/artist/26N57YIjcZ0h3GDamTf9qn) | [Cycle Twice](https://open.spotify.com/album/29hIcfWWiY26O084yE2iAr) | 6:59 | 2022-04-27 | 2022-06-09 |

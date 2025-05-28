@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "\u3044\u3088\u3044\u3088POP YOURS\u958b\u50ac! // Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ziproom",
+  "description": "\u3044\u3088\u3044\u3088POP YOURS\u958b\u50ac! // Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 7",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 102600,
       "name": "2025 Freestyle",
       "url": "https://open.spotify.com/track/4ZOps6xTaAjxdkFMYR5rwm"
@@ -3797,6 +3797,32 @@
     },
     {
       "album": {
+        "name": "DEAD HEAT",
+        "url": "https://open.spotify.com/album/0OPZXNR6Q4NMXVyPnJtKFX"
+      },
+      "artists": [
+        {
+          "name": "oviik/99broadway",
+          "url": "https://open.spotify.com/artist/3a7dk25boRXys5CRVUxj8n"
+        },
+        {
+          "name": "SUB",
+          "url": "https://open.spotify.com/artist/0rrFgWq67q3Kb7rl41O2Ji"
+        },
+        {
+          "name": "Charley",
+          "url": "https://open.spotify.com/artist/4uOcuPxQU8N0eMZLVDB8V0"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "DEAD HEAT",
+      "url": "https://open.spotify.com/track/3oPSRhgowhS0NfbjXjBIvm"
+    },
+    {
+      "album": {
         "name": "Dear v3geboy",
         "url": "https://open.spotify.com/album/6vaEKXWZjQZHdAJLSFPzZc"
       },
@@ -4837,6 +4863,28 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5PzCF3OPzjVNznjMyFChrZ"
+      },
+      "artists": [
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        },
+        {
+          "name": "Namani",
+          "url": "https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172467,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4QAj2kwTjqOaVe5IETiOQ6"
+    },
+    {
+      "album": {
         "name": "SHEER",
         "url": "https://open.spotify.com/album/3pX7zTM682TCIfaL187sjB"
       },
@@ -5248,6 +5296,28 @@
       "duration_ms": 167884,
       "name": "ESSENCE",
       "url": "https://open.spotify.com/track/3qI6HnTfnfpZngUH3HOS3J"
+    },
+    {
+      "album": {
+        "name": "ESTIMA",
+        "url": "https://open.spotify.com/album/3YmIaKc0W4LoItQvRhDwkg"
+      },
+      "artists": [
+        {
+          "name": "Daz",
+          "url": "https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE"
+        },
+        {
+          "name": "Sakepnk",
+          "url": "https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148726,
+      "name": "ESTIMA",
+      "url": "https://open.spotify.com/track/5d4llxWHFBLQZ88mg4Jy9R"
     },
     {
       "album": {
@@ -6033,6 +6103,28 @@
     },
     {
       "album": {
+        "name": "Flyday",
+        "url": "https://open.spotify.com/album/0cHBXVpZgq82y9LyDk7A0C"
+      },
+      "artists": [
+        {
+          "name": "nana",
+          "url": "https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211328,
+      "name": "Flyday",
+      "url": "https://open.spotify.com/track/23d5U1HHfI5DiIQwuTytJc"
+    },
+    {
+      "album": {
         "name": "19.5",
         "url": "https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ"
       },
@@ -6730,7 +6822,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 135680,
       "name": "Girls Don't Cry",
       "url": "https://open.spotify.com/track/0ElITOt1EJo4yc6bZvS0PI"
@@ -7902,7 +7994,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 152571,
       "name": "I know I am",
       "url": "https://open.spotify.com/track/7C2q4ZrXwiTNMxsflZp8wh"
@@ -8012,7 +8104,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 123853,
       "name": "ICOCA",
       "url": "https://open.spotify.com/track/5fdaLga4W1xSJf3tmjmuIY"
@@ -9570,7 +9662,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 154592,
       "name": "LIFESTYLE",
       "url": "https://open.spotify.com/track/57bU8myNELXiONkdskMLXo"
@@ -12825,6 +12917,24 @@
     },
     {
       "album": {
+        "name": "Ai",
+        "url": "https://open.spotify.com/album/64apWbYgJzRmBDWMlJWMvs"
+      },
+      "artists": [
+        {
+          "name": "whimsyboy",
+          "url": "https://open.spotify.com/artist/2CX0MgEcYXDiBTBWjPnFp8"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/4mvuZoG7TfLOBdBMx2ya3j"
+    },
+    {
+      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/5KOB4tRtyOSc28OLBTURTp"
       },
@@ -14772,7 +14882,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 135000,
       "name": "shining garbage (feat.Kyle Unjour)",
       "url": "https://open.spotify.com/track/1JOzqajclzg8IkrWJt5mHn"
@@ -15368,7 +15478,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 186352,
       "name": "Step In To The Pure Life",
       "url": "https://open.spotify.com/track/4kv4cjJMaFO6dsFagTlvup"
@@ -16870,7 +16980,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 199998,
       "name": "Urban Freestyle",
       "url": "https://open.spotify.com/track/33C0s3VSn2VisEN2zBbdiK"
@@ -16966,7 +17076,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 244414,
       "name": "Vanilla (feat. FLA$H, Kidwing & Fuzzy)",
       "url": "https://open.spotify.com/track/0pgMhzPyVYqbaff94GVadB"

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Normal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4roW7Xpb9oeKUyqnwpQDMj"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
+        {
+          "name": "Emel",
+          "url": "https://open.spotify.com/artist/7DtDbNT3ZUqIY8BCbcLVz1"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254986,
+      "name": "Alles scho mal gh\u00f6rt",
+      "url": "https://open.spotify.com/track/16gkGhNGF3ovqylGoKDqdY"
+    },
+    {
+      "album": {
         "name": "Zwei F\u00fcr Eine",
         "url": "https://open.spotify.com/album/0HMygdLJEwpl0atJOshRwN"
       },
@@ -108,7 +130,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 220013,
       "name": "Die Grundregeln",
       "url": "https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui"
@@ -210,7 +232,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 193768,
       "name": "Extra",
       "url": "https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m"
@@ -668,7 +690,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 222173,
       "name": "Relaxtra",
       "url": "https://open.spotify.com/track/18in07peN7I1KRfrOKpyPn"

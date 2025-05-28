@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: schafter",
-  "num_followers": 19089,
+  "num_followers": 19087,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "tempelhof",
+        "url": "https://open.spotify.com/album/23WBOzHYHQmXfydfkvl2ix"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "tempelhof",
+      "url": "https://open.spotify.com/track/4lc2cq5pBsrms3JY6CS9l8"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "Missouri",
         "url": "https://open.spotify.com/album/7Hwn7u60OG2lY1ZCfESi0Q"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "tempelhof",
-        "url": "https://open.spotify.com/album/23WBOzHYHQmXfydfkvl2ix"
-      },
-      "artists": [
-        {
-          "name": "Hubert.",
-          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "tempelhof",
-      "url": "https://open.spotify.com/track/4lc2cq5pBsrms3JY6CS9l8"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW"
       },
@@ -467,6 +467,30 @@
       "duration_ms": 364984,
       "name": "\u015aniadanie",
       "url": "https://open.spotify.com/track/6npDq7nTTopezkstqTeQbQ"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "NOWY WOKAL",
+        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
+      },
+      "artists": [
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "NOWY WOKAL",
+      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -515,30 +539,6 @@
       "duration_ms": 149093,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/6q71ueOim8LDoQtg5iZLZd"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "NOWY WOKAL",
-        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
-      },
-      "artists": [
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "NOWY WOKAL",
-      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -755,26 +755,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Jeszcze Rok",
-        "url": "https://open.spotify.com/album/0KgI1wweuOaaZv9vzu2Gvz"
+        "name": "TRYB SPORTH",
+        "url": "https://open.spotify.com/album/6lAuXrWaQ9L6yw5mr725Lz"
       },
       "artists": [
         {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
         },
         {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        },
-        {
-          "name": "DJ PERC",
-          "url": "https://open.spotify.com/artist/3J3cUQgFXEzdLL7qWKC3y4"
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
         }
       ],
-      "duration_ms": 177152,
-      "name": "Jeszcze Rok",
-      "url": "https://open.spotify.com/track/70JbxZnC7N7mNFEBoXGotj"
+      "duration_ms": 168750,
+      "name": "Loth",
+      "url": "https://open.spotify.com/track/01jQGw3iWmLOpAgpDxwqo8"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -799,22 +795,26 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "TRYB SPORTH",
-        "url": "https://open.spotify.com/album/6lAuXrWaQ9L6yw5mr725Lz"
+        "name": "Jeszcze Rok",
+        "url": "https://open.spotify.com/album/0KgI1wweuOaaZv9vzu2Gvz"
       },
       "artists": [
         {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
         },
         {
-          "name": "PlanBe",
-          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        },
+        {
+          "name": "DJ PERC",
+          "url": "https://open.spotify.com/artist/3J3cUQgFXEzdLL7qWKC3y4"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Loth",
-      "url": "https://open.spotify.com/track/01jQGw3iWmLOpAgpDxwqo8"
+      "duration_ms": 177152,
+      "name": "Jeszcze Rok",
+      "url": "https://open.spotify.com/track/70JbxZnC7N7mNFEBoXGotj"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -987,38 +987,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Lata",
-        "url": "https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN"
+        "name": "GREENPOINT / szybkistorytelling",
+        "url": "https://open.spotify.com/album/7dGGzhq4DbPDASw3jwfwSJ"
       },
       "artists": [
         {
-          "name": "Bisz",
-          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
         },
         {
-          "name": "KOSA",
-          "url": "https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4"
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
         }
       ],
-      "duration_ms": 181901,
-      "name": "Jeszcze raz",
-      "url": "https://open.spotify.com/track/1ZMh9rqOQBmsKN9SIYDUQX"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "MUSZ\u0118 ZAWIJA\u0106",
-        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 136630,
-      "name": "MUSZ\u0118 ZAWIJA\u0106",
-      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
+      "duration_ms": 145500,
+      "name": "GREENPOINT",
+      "url": "https://open.spotify.com/track/4AJY30GNQ7Q6InDWXev2a0"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1055,6 +1039,62 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "Lata",
+        "url": "https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN"
+      },
+      "artists": [
+        {
+          "name": "Bisz",
+          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
+        },
+        {
+          "name": "KOSA",
+          "url": "https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4"
+        }
+      ],
+      "duration_ms": 181901,
+      "name": "Jeszcze raz",
+      "url": "https://open.spotify.com/track/1ZMh9rqOQBmsKN9SIYDUQX"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "MUSZ\u0118 ZAWIJA\u0106",
+        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 136630,
+      "name": "MUSZ\u0118 ZAWIJA\u0106",
+      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Zawsze",
+        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 173379,
+      "name": "Zawsze",
+      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "TEQUILA I BILARD",
         "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
       },
@@ -1067,26 +1107,6 @@
       "duration_ms": 200111,
       "name": "TEQUILA I BILARD",
       "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "GREENPOINT / szybkistorytelling",
-        "url": "https://open.spotify.com/album/7dGGzhq4DbPDASw3jwfwSJ"
-      },
-      "artists": [
-        {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
-        },
-        {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "GREENPOINT",
-      "url": "https://open.spotify.com/track/4AJY30GNQ7Q6InDWXev2a0"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1167,42 +1187,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Kanon",
-        "url": "https://open.spotify.com/album/3kYfkdTfrCId614Ft11MWJ"
+        "name": "Pami\u0119tniki Pigmej\u00f3w",
+        "url": "https://open.spotify.com/album/5s8JXLzi2eonyRh9nyiP1D"
       },
       "artists": [
         {
-          "name": "Expo 2000",
-          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
         },
         {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
         }
       ],
-      "duration_ms": 162785,
-      "name": "Kanon",
-      "url": "https://open.spotify.com/track/4jA6P8erbj08Ei8uqw1H2s"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "Zawsze",
-        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
-      },
-      "artists": [
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
-        }
-      ],
-      "duration_ms": 173379,
-      "name": "Zawsze",
-      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
+      "duration_ms": 193635,
+      "name": "Pami\u0119tniki Pigmej\u00f3w",
+      "url": "https://open.spotify.com/track/1mHOrCM9vUbvBKhGQHy4Wi"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1227,6 +1227,46 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Kanon",
+        "url": "https://open.spotify.com/album/3kYfkdTfrCId614Ft11MWJ"
+      },
+      "artists": [
+        {
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+        },
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        }
+      ],
+      "duration_ms": 162785,
+      "name": "Kanon",
+      "url": "https://open.spotify.com/track/4jA6P8erbj08Ei8uqw1H2s"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1263,6 +1303,26 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "PU\u0141AP",
+        "url": "https://open.spotify.com/album/5dNwOn0L4ucFcomLVeI9rC"
+      },
+      "artists": [
+        {
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "PU\u0141AP",
+      "url": "https://open.spotify.com/track/7zhCaspWo9A8O12kPhlsoz"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
         "url": "https://open.spotify.com/album/3Da3R3T5AzWHvnNZp3D7SE"
       },
@@ -1279,26 +1339,6 @@
       "duration_ms": 226303,
       "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
       "url": "https://open.spotify.com/track/2TrCHAIp8m2JrQMKd4P3GU"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "Pami\u0119tniki Pigmej\u00f3w",
-        "url": "https://open.spotify.com/album/5s8JXLzi2eonyRh9nyiP1D"
-      },
-      "artists": [
-        {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
-        },
-        {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
-        }
-      ],
-      "duration_ms": 193635,
-      "name": "Pami\u0119tniki Pigmej\u00f3w",
-      "url": "https://open.spotify.com/track/1mHOrCM9vUbvBKhGQHy4Wi"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1339,6 +1379,86 @@
       "duration_ms": 158890,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "WE ALL ARE FCKED UP",
+        "url": "https://open.spotify.com/album/1aROBOCJ6LtbTorlXG0oJd"
+      },
+      "artists": [
+        {
+          "name": "NATURA2000",
+          "url": "https://open.spotify.com/artist/3k3TQmcrNdWe117e3B0dbp"
+        },
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        },
+        {
+          "name": "saburrakap",
+          "url": "https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm"
+        },
+        {
+          "name": "Kminiu",
+          "url": "https://open.spotify.com/artist/3F1lGrSOChrx2YjgPP8H8o"
+        },
+        {
+          "name": "Bartii",
+          "url": "https://open.spotify.com/artist/6J9BfoqzZEMBLmAMeGmpuP"
+        },
+        {
+          "name": "AZ-YL",
+          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
+        },
+        {
+          "name": "Henio",
+          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
+        }
+      ],
+      "duration_ms": 135857,
+      "name": "WE ALL ARE FCKED UP",
+      "url": "https://open.spotify.com/track/3yK3nm8J37ICtkVnZHq4Qf"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "FALA MIXTAPE vol. 3",
+        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
+      },
+      "artists": [
+        {
+          "name": "KOLEKTYW FALA",
+          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        },
+        {
+          "name": "tyloch",
+          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Mike Senshi",
+          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Sto lat",
+      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1431,106 +1551,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
-      },
-      "artists": [
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "WE ALL ARE FCKED UP",
-        "url": "https://open.spotify.com/album/1aROBOCJ6LtbTorlXG0oJd"
-      },
-      "artists": [
-        {
-          "name": "NATURA2000",
-          "url": "https://open.spotify.com/artist/3k3TQmcrNdWe117e3B0dbp"
-        },
-        {
-          "name": "Krzaquu",
-          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
-        },
-        {
-          "name": "saburrakap",
-          "url": "https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm"
-        },
-        {
-          "name": "Kminiu",
-          "url": "https://open.spotify.com/artist/3F1lGrSOChrx2YjgPP8H8o"
-        },
-        {
-          "name": "Bartii",
-          "url": "https://open.spotify.com/artist/6J9BfoqzZEMBLmAMeGmpuP"
-        },
-        {
-          "name": "AZ-YL",
-          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
-        },
-        {
-          "name": "Henio",
-          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
-        }
-      ],
-      "duration_ms": 135857,
-      "name": "WE ALL ARE FCKED UP",
-      "url": "https://open.spotify.com/track/3yK3nm8J37ICtkVnZHq4Qf"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "FALA MIXTAPE vol. 3",
-        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
-      },
-      "artists": [
-        {
-          "name": "KOLEKTYW FALA",
-          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
-        },
-        {
-          "name": "Szymi Szyms",
-          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        },
-        {
-          "name": "tyloch",
-          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
-        },
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Mike Senshi",
-          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Sto lat",
-      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "PERSPEKTYWY",
         "url": "https://open.spotify.com/album/65unSo2DJtcMUpfezO3YSi"
       },
@@ -1547,6 +1567,26 @@
       "duration_ms": 186631,
       "name": "PERSPEKTYWY",
       "url": "https://open.spotify.com/track/6rQUbKwsQ08aloKo5hEQZf"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Wspania\u0142y \u015bwiat",
+        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 157098,
+      "name": "Wspania\u0142y \u015bwiat",
+      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1579,42 +1619,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Cze\u015b\u0107, powiedzie\u0107",
-        "url": "https://open.spotify.com/album/0AcRTNjyKs2z0rHjCCLaTR"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Cze\u015b\u0107, powiedzie\u0107",
-      "url": "https://open.spotify.com/track/2kqFsOcmCgj6sheXRDLD77"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "PU\u0141AP",
-        "url": "https://open.spotify.com/album/5dNwOn0L4ucFcomLVeI9rC"
-      },
-      "artists": [
-        {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
-        },
-        {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PU\u0141AP",
-      "url": "https://open.spotify.com/track/7zhCaspWo9A8O12kPhlsoz"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1631,42 +1635,18 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Wspania\u0142y \u015bwiat",
-        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
+        "name": "Cze\u015b\u0107, powiedzie\u0107",
+        "url": "https://open.spotify.com/album/0AcRTNjyKs2z0rHjCCLaTR"
       },
       "artists": [
         {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
         }
       ],
-      "duration_ms": 157098,
-      "name": "Wspania\u0142y \u015bwiat",
-      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1fc9SsybfeKZtA802PLKv3"
-      },
-      "artists": [
-        {
-          "name": "asthma",
-          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
-        },
-        {
-          "name": "Wuja HZG",
-          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
-        }
-      ],
-      "duration_ms": 145238,
-      "name": "AURA",
-      "url": "https://open.spotify.com/track/7FLuRe3FYGPXdSFJGjli6N"
+      "duration_ms": 210526,
+      "name": "Cze\u015b\u0107, powiedzie\u0107",
+      "url": "https://open.spotify.com/track/2kqFsOcmCgj6sheXRDLD77"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1711,6 +1691,62 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1fc9SsybfeKZtA802PLKv3"
+      },
+      "artists": [
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        },
+        {
+          "name": "Wuja HZG",
+          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
+        }
+      ],
+      "duration_ms": 145238,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/7FLuRe3FYGPXdSFJGjli6N"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "AEIOUY",
+        "url": "https://open.spotify.com/album/3Ce4FIXmAUvAo2DtwwTdEA"
+      },
+      "artists": [
+        {
+          "name": "KiNi",
+          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
+        }
+      ],
+      "duration_ms": 124665,
+      "name": "AEIOUY",
+      "url": "https://open.spotify.com/track/48O8c0hzKbZp1fQ87Ga4Mm"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "Vege Meat Junk Szama",
         "url": "https://open.spotify.com/album/1f1zKnYtxF2BY2rGNFix6P"
       },
@@ -1731,22 +1767,6 @@
       "duration_ms": 179349,
       "name": "Vege Meat Junk Szama",
       "url": "https://open.spotify.com/track/6niFWNEKrg9t1dEUSLAlJv"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "AEIOUY",
-        "url": "https://open.spotify.com/album/3Ce4FIXmAUvAo2DtwwTdEA"
-      },
-      "artists": [
-        {
-          "name": "KiNi",
-          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
-        }
-      ],
-      "duration_ms": 124665,
-      "name": "AEIOUY",
-      "url": "https://open.spotify.com/track/48O8c0hzKbZp1fQ87Ga4Mm"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1815,42 +1835,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "W\u0105glik",
-        "url": "https://open.spotify.com/album/1L9OMCjXR7q8ZHNHygYTjr"
-      },
-      "artists": [
-        {
-          "name": "Echo37",
-          "url": "https://open.spotify.com/artist/4qifB4zeruOMkx5FaiNyge"
-        }
-      ],
-      "duration_ms": 164284,
-      "name": "W\u0105glik",
-      "url": "https://open.spotify.com/track/2ugIS3FKm9lQyKMTNEG1RA"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "Z\u0142ote \u0142ezki",
-        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Z\u0142ote \u0142ezki",
-      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "PIEK\u0141O DLA DJ\u00d3W",
         "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 141714,
       "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
       "url": "https://open.spotify.com/track/6P0v4ZJY1E2OxNZ89S6juF"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "W\u0105glik",
+        "url": "https://open.spotify.com/album/1L9OMCjXR7q8ZHNHygYTjr"
+      },
+      "artists": [
+        {
+          "name": "Echo37",
+          "url": "https://open.spotify.com/artist/4qifB4zeruOMkx5FaiNyge"
+        }
+      ],
+      "duration_ms": 164284,
+      "name": "W\u0105glik",
+      "url": "https://open.spotify.com/track/2ugIS3FKm9lQyKMTNEG1RA"
     },
     {
       "added_at": "2025-05-16 10:59:11",

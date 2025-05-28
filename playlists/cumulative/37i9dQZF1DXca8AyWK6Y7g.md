@@ -4,7 +4,7 @@
 
 > All the girlies have got ABBA Gold on loop and we love it\. Cover: Grace Davies
 
-2,388 songs - 5 day 0 hr 5 min
+2,390 songs - 5 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,7 +1019,7 @@
 | [I Just Miss You](https://open.spotify.com/track/07GTTFn5x5fCvyKdoZOdIA) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [I Just Miss You](https://open.spotify.com/album/0hJqKEBsmlInZYcINXmXAX) | 2:34 | 2024-05-31 | 2024-06-08 |
 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 | 2023-05-19 | 2023-06-17 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-09-24 |
-| [i kissed my friend last night](https://open.spotify.com/track/4ngucJ4vXlWNhmC8ExZztg) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [i kissed my friend last night](https://open.spotify.com/album/4mGdPd1vwZ2eQDX45Qo5wi) | 2:32 | 2025-02-14 |  |
+| [i kissed my friend last night](https://open.spotify.com/track/4ngucJ4vXlWNhmC8ExZztg) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [i kissed my friend last night](https://open.spotify.com/album/4mGdPd1vwZ2eQDX45Qo5wi) | 2:32 | 2025-02-14 | 2025-05-28 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-09 | 2024-11-16 |
 | [I Like You Better](https://open.spotify.com/track/5Q8GpY56OWmPs7H7At4tNY) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [I Like You Better](https://open.spotify.com/album/33tX95q6w1a0jPgUDj4vDh) | 2:16 | 2022-09-02 | 2022-10-15 |
 | [I Love Making Bad Boys Cry](https://open.spotify.com/track/5LxrXfUFQV3JfWJLcCrH29) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [I Love Making Bad Boys Cry](https://open.spotify.com/album/46Gq9avMetlmFdWLXbLy9n) | 2:21 | 2023-11-10 | 2023-11-18 |
@@ -1110,6 +1110,7 @@
 | [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-17 | 2024-08-13 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-02-18 | 2022-03-26 |
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-12-01 | 2024-01-05 |
+| [ISSUE](https://open.spotify.com/track/14XAip5CLUhA0xtAwXwXGN) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [friends, vol\. 2](https://open.spotify.com/album/4fAtA6cyPkXVjoiP4XmfI0) | 2:35 | 2025-05-27 |  |
 | [It All Ends When You Do](https://open.spotify.com/track/5E6oAn3hG8ApewrlevSSsJ) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [It All Ends When You Do](https://open.spotify.com/album/1VOOrUjzSugtgQ3STDHnvH) | 3:40 | 2021-07-20 | 2021-11-20 |
 | [It Gets Better](https://open.spotify.com/track/4o6noN1jZoACW3rlpKaDla) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [It Gets Better](https://open.spotify.com/album/1s18tfIyRyk8fQRk52R9Mx) | 1:58 | 2020-06-12 | 2021-10-16 |
 | [It Gets Dark](https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [It Gets Dark](https://open.spotify.com/album/4jEjxmfyDepTh4ObH2qJtr) | 3:23 | 2022-03-11 | 2022-12-24 |
@@ -1258,7 +1259,7 @@
 | [Little Omens](https://open.spotify.com/track/4odmvpPZ34WahZ7XDQdf2X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens](https://open.spotify.com/album/0ss7qXUWf8vgd4GmDy3725) | 3:12 | 2023-06-30 | 2023-07-15 |
 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-07-12 | 2024-08-17 |
 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 | 2023-10-06 | 2024-01-05 |
-| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-04-18 |  |
+| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-04-18 | 2025-05-28 |
 | [Living](https://open.spotify.com/track/7zJxChdtfJFwVCCnF2YWvS) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Living](https://open.spotify.com/album/71WzlDb4sKJlvbakA9qRcR) | 3:58 | 2021-02-23 | 2021-10-12 |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-05-11 | 2021-10-14 |
 | [LMK](https://open.spotify.com/track/0efL46uAuNEfukXQYsbPlX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [LMK](https://open.spotify.com/album/7J4rvxMkuQ2JZSVEdK4iTq) | 3:08 | 2020-06-12 | 2020-09-25 |
@@ -1805,6 +1806,7 @@
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-19 | 2024-09-14 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2021-02-22 | 2021-08-20 |
 | [Seasons](https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Seasons](https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI) | 2:43 | 2022-05-13 | 2022-07-05 |
+| [SEB](https://open.spotify.com/track/1hJdqSJ6wAC8KnzGDyZyFL) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 3:01 | 2025-05-27 |  |
 | [Second Chance](https://open.spotify.com/track/61z5IlpXUMY0mOzmSXkxiH) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [Second Chance](https://open.spotify.com/album/5vWJxW1OBxRuFlPHFkMY56) | 2:33 | 2021-02-25 | 2021-10-16 |
 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 | 2021-03-16 | 2021-11-14 |
 | [Secret \(feat\. Vince Staples\)](https://open.spotify.com/track/2ozAOPkM0rYqQweAhuXMry) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Secret \(feat\. Vince Staples\)](https://open.spotify.com/album/2ZaWk8rzV26F4oPfbgHIff) | 3:22 | 2022-01-28 | 2022-03-17 |

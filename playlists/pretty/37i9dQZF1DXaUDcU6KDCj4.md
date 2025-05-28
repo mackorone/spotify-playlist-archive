@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Amble
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,557 likes - 151 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,554 likes - 151 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [I’d Do Anything](https://open.spotify.com/track/5YszV5GQ7s4iYTQmueVL95) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [I’d Do Anything](https://open.spotify.com/album/6GBlHKYYlAMN8PfFZateaP) | 3:14 |
 | 151 | [Wild Eyed Blue \- Living Room Version](https://open.spotify.com/track/2Jq7kGcbHnaZaM6QOLYbYA) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Wild Eyed Blue \(Living Room Version\)](https://open.spotify.com/album/6BMMZlriwfq43V0PFqP90K) | 3:21 |
 
-Snapshot ID: `AAAAAL2WU77qfa4vAw3n1P056X99uoST`
+Snapshot ID: `aC/y7gAAAAB4cSevy0jRniIusQTvL48g`

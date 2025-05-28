@@ -4,7 +4,7 @@
 
 > you're having a cozy, slow night in listening to the rain dripping on the windows\.  🌧️
 
-61 songs - 2 hr 57 min
+67 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Celestial](https://open.spotify.com/track/6vw2NGeLeogwHB8um5pI0r) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Celestial](https://open.spotify.com/album/5Yv0KKHG2ORKPbVneO0gzM) | 2:40 | 2025-05-20 |  |
 | [Celestial Whispers](https://open.spotify.com/track/1qxFr0cglsK0YXcddvelRI) | [Mindtune](https://open.spotify.com/artist/64cUzjeD1956oUEGopu6J9) | [Celestial Whispers](https://open.spotify.com/album/5Sab4t1gLoVFybyYZYcBVf) | 3:55 | 2025-05-20 |  |
 | [Close to Home](https://open.spotify.com/track/1XSYAFfnNohvcbOVaRx2DG) | [Alembra](https://open.spotify.com/artist/38jPUOLDVZiVbciCNSiSQx) | [Close to Home](https://open.spotify.com/album/5fx5pxs1jDgjFEBefS9yNv) | 3:15 | 2025-05-20 |  |
+| [Continuum](https://open.spotify.com/track/0aH3DBsvklrw7GWvZQb6ED) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Continuum](https://open.spotify.com/album/6GwnwfIySfSbVDlrboTxxe) | 2:06 | 2025-05-27 |  |
 | [Crystals](https://open.spotify.com/track/51UHW41sb8FJaakZJWdoKZ) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Crystals](https://open.spotify.com/album/11k0bErmwSfT3O7p3Xz2tE) | 3:05 | 2025-05-20 |  |
 | [Deep In The Forest](https://open.spotify.com/track/2YYqrJs7lgjmEkgO5PGd35) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Deep In The Forest](https://open.spotify.com/album/457UHmDwuJrq5MWDoPYjBN) | 3:31 | 2025-05-20 |  |
 | [Del cielo a la tierra](https://open.spotify.com/track/40UVfaUCAui7JpAL7PDftO) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Del cielo a la tierra](https://open.spotify.com/album/4qOUVYeHLcq7jegaLDL3KM) | 2:44 | 2025-05-20 |  |
@@ -39,11 +40,14 @@
 | [Light Body](https://open.spotify.com/track/1c4Gijj3NEtEklSgIY3fSL) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Light Body](https://open.spotify.com/album/3nbjHgF5CtnpLgv5z13ag6) | 3:36 | 2025-05-20 |  |
 | [Luz](https://open.spotify.com/track/6s6tEgpWqPk9TCHBi7PVNB) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Luz](https://open.spotify.com/album/6dEv7sPhcLdZviBOJykGR4) | 2:33 | 2025-05-20 |  |
 | [Midnight Flow](https://open.spotify.com/track/5GMNDEnwram6JObgGGsEkr) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Midnight Flow](https://open.spotify.com/album/1uoFmTYsQ3Ri24sfeF7hmf) | 3:02 | 2025-05-20 |  |
+| [Mind of the forest](https://open.spotify.com/track/6MUjvzieL0T8E4u09hHNet) | [Waterbank](https://open.spotify.com/artist/3t3TG0tFaugTkBnweCFfYj) | [Mind of the forest](https://open.spotify.com/album/5Rcz88npxdTN5ftt2Dz9lC) | 2:45 | 2025-05-27 |  |
 | [Misty Layers](https://open.spotify.com/track/7bo3B5lk2re57MKON3jx9G) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Misty Layers](https://open.spotify.com/album/4tWrjwbnRLEpWT8PfjXTUa) | 3:36 | 2025-05-20 |  |
 | [Moments](https://open.spotify.com/track/2UV3XeunSN2CY0lUKe467X) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Moments](https://open.spotify.com/album/7DIKW9j1P4TGJOeRvyp0sj) | 2:50 | 2025-05-20 |  |
 | [Natural Spirit](https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:48 | 2025-05-20 |  |
 | [New Force](https://open.spotify.com/track/6kVYw6szdMMK7jcZKhQzQd) | [Ashami Mantras](https://open.spotify.com/artist/2GRKiHcYCBni3lSujepe79) | [New Force](https://open.spotify.com/album/0lwbr5oIOR3CFgSC8lt4Fm) | 2:51 | 2025-05-20 |  |
 | [Night Bloom](https://open.spotify.com/track/7FqOChH7ADU5uyhKoQFYlx) | [Mindtune](https://open.spotify.com/artist/64cUzjeD1956oUEGopu6J9) | [Night Bloom](https://open.spotify.com/album/5XF3aa4a5j9PKmPOcZcNO9) | 4:35 | 2025-05-20 |  |
+| [Night\-Time](https://open.spotify.com/track/4NsJR1w9CrphTTkPxfzXHN) | [Deep Enormo](https://open.spotify.com/artist/5WPDgFz2Kcisbx0Esczaf5) | [Night\-Time](https://open.spotify.com/album/5iUTFrSlTBeThdmsHDJtpG) | 2:34 | 2025-05-27 |  |
+| [Nocturne No\. 20 in C\-Sharp Minor](https://open.spotify.com/track/3UNcDYpLbdu7OmXiFOcyU0) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Pio Palumbo](https://open.spotify.com/artist/5CTZmCLcJqfHWcR1Y06Hrk) | [Nocturne No\. 20 in C\-Sharp Minor](https://open.spotify.com/album/2sTWjlApsVUlmD6sXpZXKH) | 4:02 | 2025-05-27 |  |
 | [Nord](https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Sin](https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i) | 2:01 | 2025-05-20 |  |
 | [Peace](https://open.spotify.com/track/2TWXbfh28wZfeD7tvdysd9) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Peace](https://open.spotify.com/album/3qfYDbvue5LJxdajzGfPCK) | 2:58 | 2025-05-20 |  |
 | [Perennial life of two bodies](https://open.spotify.com/track/3WI2vVzkFBiBkJEqDIh1du) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Perennial life of two bodies](https://open.spotify.com/album/2ylWcYn7ude3fQpvqOUyv9) | 3:44 | 2025-05-20 |  |
@@ -54,6 +58,7 @@
 | [Rain Prayer](https://open.spotify.com/track/0KDGpRp7Zl1OEEmmwyxjbU) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Rain Prayer](https://open.spotify.com/album/3CRIJMs11ENdGlDDCIgZof) | 2:42 | 2025-05-20 |  |
 | [rainfall \(slowed & reverb\)](https://open.spotify.com/track/7DltIJiAn9mSabuT5crzFJ) | [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH), [Blu Velvet](https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8) | [rainfall](https://open.spotify.com/album/0uP6srv1yoOUONPJAFWBIm) | 2:29 | 2025-05-20 |  |
 | [Reaching Beyond](https://open.spotify.com/track/0WqWMpK8DVmCyXNzzA0d7R) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Reaching Beyond](https://open.spotify.com/album/2yKjFEP2jW7T18RNefqFv5) | 2:09 | 2025-05-20 |  |
+| [Seldom Seen](https://open.spotify.com/track/7b3jxCnh97bvqeuHA5HV1h) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Seldom Seen](https://open.spotify.com/album/4oydjvFOfxrQQU6LuKxuwr) | 2:40 | 2025-05-27 |  |
 | [Serenity in Motion](https://open.spotify.com/track/6iYWXRp4igIlgtb3dn9HF2) | [Ella Elysium](https://open.spotify.com/artist/2n3JzcQyc7IwryKsZDGZey) | [Serenity in Motion](https://open.spotify.com/album/0wfewm3lAGrxMLUlpcKU6O) | 2:45 | 2025-05-20 |  |
 | [Singing Stream](https://open.spotify.com/track/2iHVKekOKEZBDA0WECORoI) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [Singing Stream](https://open.spotify.com/album/3dkfpktTr2cCBKnPl18YqW) | 2:37 | 2025-05-20 |  |
 | [Soft Descent](https://open.spotify.com/track/3YAHjXdtr3TEl7O5APB9Ax) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Soft Descent](https://open.spotify.com/album/5vgiRkO88snE6vCW1dozdm) | 2:54 | 2025-05-20 |  |
@@ -68,6 +73,7 @@
 | [what if](https://open.spotify.com/track/0bQresnZ8lWfJpANoJJRkw) | [abril 37](https://open.spotify.com/artist/5PwtM5realdQeKJRP9fVAp) | [what if](https://open.spotify.com/album/4Cjp7u20XaCmYllBoasGjd) | 3:12 | 2025-05-20 |  |
 | [Where The Sky Sleeps](https://open.spotify.com/track/2mNqIixaPXatfqQyC3fLBp) | [dreamveil](https://open.spotify.com/artist/0FKnupHwlwGAF9bhlRFMLP) | [Starshroud](https://open.spotify.com/album/6ha6t4uQQmmPGUZx8y4YaE) | 2:38 | 2025-05-20 |  |
 | [Whispers of Rain](https://open.spotify.com/track/5WgaR1qSKGfrO2NNuz6oZo) | [Thalia Serenade](https://open.spotify.com/artist/6YkjH01SsrvM7Tv8oZjWz7) | [Whispers of Rain](https://open.spotify.com/album/626X0FUcTf72WAo9LK7ViA) | 3:05 | 2025-05-20 |  |
+| [Wichita Mountains](https://open.spotify.com/track/67fVPmujVatZQlXCSWhtPG) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Wichita Mountains](https://open.spotify.com/album/3N4j0oJHO52kbWtY2pthj3) | 2:50 | 2025-05-27 |  |
 | [With Every Memory](https://open.spotify.com/track/7og1229RD2zgayEx0OZJzS) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [With Every Memory](https://open.spotify.com/album/26FIVa4NPodwRyXiNE8Nvz) | 3:52 | 2025-05-20 |  |
 
 \*This playlist was first scraped on 2025-05-24. Prior content cannot be recovered.

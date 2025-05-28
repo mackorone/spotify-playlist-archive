@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-152 songs - 8 hr 53 min
+155 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,10 @@
 | [All for my sake](https://open.spotify.com/track/6lAxb7FbIr5yxto0NiFE38) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 3:37 | 2022-12-13 | 2023-03-19 |
 | [All for my sake](https://open.spotify.com/track/7IfFGv9pkiwxNZWrLI50ko) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 3:37 | 2023-03-14 | 2024-04-19 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-10 | 2024-04-19 |
+| [C.H.E.E.R](https://open.spotify.com/track/1INJywlOiasLDzrYeGw8Kh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CCチアリーダーズ](https://open.spotify.com/artist/0PtynPDi6xGA1p3H2N0tLM) | [C.H.E.E.R](https://open.spotify.com/album/6xdzWqFCYDoRfedbjTrnLG) | 1:19 | 2025-05-27 |  |
 | [Cassie](https://open.spotify.com/track/4E8vaLzUNdpZJopd0Nxyzt) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 2:49 | 2024-07-07 |  |
+| [Chris takes the world by storm](https://open.spotify.com/track/30sI2fCouCG9RMnDicqpqj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CC鳴羽田漢気応援団](https://open.spotify.com/artist/1j2RJIb2DyBKbssxMjyqUl) | [Chris takes the world by storm](https://open.spotify.com/album/2bTnTBLJbXFHcjykhk8Bcr) | 1:25 | 2025-05-27 |  |
+| [Coast to Coast](https://open.spotify.com/track/57glf24AnERvt2SqXeLaSH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Nicholas Aquilino](https://open.spotify.com/artist/19W88XiqODfaExksbWpU86), [Shayne Holland](https://open.spotify.com/artist/31boEXN1loQ6XgSoCiiGa4) | [Coast to Coast](https://open.spotify.com/album/4QYGe28cbzf7IgQb8wDBmB) | 1:37 | 2025-05-27 |  |
 | [Dabi Dance](https://open.spotify.com/track/1R565ZgWul3hkL4OQ6mE05) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:48 | 2023-03-14 | 2024-04-19 |
 | [Dabi Dance](https://open.spotify.com/track/1ac0rW28wbCz5W5QRaKAln) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:48 | 2022-12-13 | 2023-03-18 |
 | [Dabi Dance](https://open.spotify.com/track/5OVgHlddceyy8GuPX0jgjy) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 2:48 | 2023-03-14 |  |

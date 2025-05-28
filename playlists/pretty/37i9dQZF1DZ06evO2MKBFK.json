@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 634361,
+  "num_followers": 634403,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDJdgAAAAAADDET1yVsHlhLhBsCdC/vi",
+  "snapshot_id": "aDOvAAAAAACNfi7C/1KsxQ9dHMzQnD6D",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BEST OF BIGBANG 2006-2014",
         "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 233400,
       "name": "Baby Baby - Japanese Version",
       "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,419 likes - 200 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,433 likes - 200 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

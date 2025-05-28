@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Tyler Nance, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,595 likes - 195 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,610 likes - 195 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

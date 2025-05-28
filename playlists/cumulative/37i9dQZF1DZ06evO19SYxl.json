@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 263915,
       "name": "Boogie de la Frontera",
       "url": "https://open.spotify.com/track/3dTK4l5ehiu9PpmvVsitEP"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 182204,
       "name": "Corrido",
       "url": "https://open.spotify.com/track/22HcucvbbhjvvLocbmaHUE"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 58586,
       "name": "El Bailable",
       "url": "https://open.spotify.com/track/1w8DzpklmbRnIhWEiRbLOI"
@@ -632,10 +632,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 317252,
       "name": "La Calle 16",
       "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
+    },
+    {
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321776,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI"
     },
     {
       "album": {
@@ -892,10 +910,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 186174,
       "name": "Paredes",
       "url": "https://open.spotify.com/track/0EUHQu4kk8uis9dp7YC7nF"
+    },
+    {
+      "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186174,
+      "name": "Paredes",
+      "url": "https://open.spotify.com/track/2UFT8lz00XGCHwLG6okHMP"
     },
     {
       "album": {
@@ -1272,7 +1308,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 102217,
       "name": "Vacas",
       "url": "https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc"

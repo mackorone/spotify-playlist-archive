@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuracak \u015fark\u0131lar. Kapak: Hande Yener",
-  "num_followers": 256538,
+  "num_followers": 256526,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-05-22 21:00:18",
       "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 123519,
+      "name": "Sezen Aksu",
+      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
+    },
+    {
+      "added_at": "2025-05-22 21:00:18",
+      "album": {
         "name": "BAYBAY",
         "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 181874,
       "name": "ILTIMAS X SUBMARINER",
       "url": "https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M"
-    },
-    {
-      "added_at": "2025-05-22 21:00:18",
-      "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 123519,
-      "name": "Sezen Aksu",
-      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
     },
     {
       "added_at": "2025-05-22 21:00:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-05-22 21:00:18",
       "album": {
-        "name": "Kuantum 51",
-        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 194926,
-      "name": "\u015eerbetli",
-      "url": "https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL"
-    },
-    {
-      "added_at": "2025-05-22 21:00:18",
-      "album": {
         "name": "AFFETMEM",
         "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 182117,
       "name": "AFFETMEM",
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
+    },
+    {
+      "added_at": "2025-05-22 21:00:18",
+      "album": {
+        "name": "Kuantum 51",
+        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 194926,
+      "name": "\u015eerbetli",
+      "url": "https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL"
     },
     {
       "added_at": "2025-05-22 21:00:18",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-05-22 21:00:18",
       "album": {
+        "name": "ESC*BAR",
+        "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 136039,
+      "name": "ESC*BAR",
+      "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
+    },
+    {
+      "added_at": "2025-05-22 21:00:18",
+      "album": {
         "name": "Ben Senin Delinim",
         "url": "https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2025-05-22 21:00:18",
       "album": {
-        "name": "ESC*BAR",
-        "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 136039,
-      "name": "ESC*BAR",
-      "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
-    },
-    {
-      "added_at": "2025-05-22 21:00:18",
-      "album": {
         "name": "SAGOLUYORUM (BIG TERORISTA)",
         "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 95540,
       "name": "SAGOLUYORUM (BIG TERORISTA)",
       "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
+    },
+    {
+      "added_at": "2025-05-22 21:00:18",
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
     },
     {
       "added_at": "2025-05-22 21:00:18",
@@ -875,26 +895,6 @@
       "duration_ms": 134049,
       "name": "Sa\u011flam Kal\u00e7a",
       "url": "https://open.spotify.com/track/1l9xKokVvCLP6QfzyTcThP"
-    },
-    {
-      "added_at": "2025-05-22 21:00:18",
-      "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
     }
   ],
   "unique_name": "Yaz Hitleri 2025",

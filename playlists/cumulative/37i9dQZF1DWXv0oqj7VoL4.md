@@ -4,7 +4,7 @@
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-59 songs - 3 hr 26 min
+60 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [One Small Step \- EP24 Mix](https://open.spotify.com/track/28bbfgQVUgNFELnAyKTHQ1) | [リリアン・ワインバーグ\(Song Performed by Laura Pitt\-Pulford\)](https://open.spotify.com/artist/1JyA4TFld3mybh8Viy3Nmc), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 3:19 | 2023-09-28 |  |
 | [Operation Treasure Island \- YUKI KANESAKA](https://open.spotify.com/track/34H6BJU1y9ijMDjSSFPgAf) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0), [Paranom](https://open.spotify.com/artist/0ktM7PMneJlD9FdEX9SSpZ), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 2:55 | 2023-09-28 |  |
 | [People Under The Tree](https://open.spotify.com/track/5GBZ3NIxRsHPwLaggiUBCN) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 1:47 | 2023-09-28 |  |
+| [Q](https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Q](https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI) | 3:35 | 2025-05-27 |  |
 | [Rolling Stone](https://open.spotify.com/track/1mQWgJxQZOO1ifq4QJ3x4s) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [Rolling Stone](https://open.spotify.com/album/5nWdcQx3A75Z9E8BLPd1WY) | 3:24 | 2025-01-09 |  |
 | [Senku and Ryusui \- 加藤達也](https://open.spotify.com/track/2E0yEt3BctYu7iPUIhkXjI) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 3:09 | 2023-09-28 |  |
 | [Senku's Story](https://open.spotify.com/track/4onIZsZS9gEONQGSobmfiX) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』オリジナル・サウンドトラック 3](https://open.spotify.com/album/0RhXuxpS9QBdLWzsgspYyB) | 4:34 | 2023-09-28 | 2024-04-19 |

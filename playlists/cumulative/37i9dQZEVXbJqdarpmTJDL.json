@@ -14092,7 +14092,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 175398,
       "name": "FANATICO",
       "url": "https://open.spotify.com/track/4dJi5sRGP9r4lTmoQhS6gg"
@@ -30044,7 +30044,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 172800,
       "name": "Normal",
       "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
@@ -40926,7 +40926,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 303333,
       "name": "THE DEAL",
       "url": "https://open.spotify.com/track/28ooJkbDOGToXhO1NRoBhQ"
@@ -44359,6 +44359,28 @@
     },
     {
       "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/3Hbv9NtB6uzoJJojhYLw7m"
+      },
+      "artists": [
+        {
+          "name": "YT K",
+          "url": "https://open.spotify.com/artist/24YLsxaeE17GVfcqwEQLpH"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/2So7VmrmwHpOcskRUFxEyS"
+    },
+    {
+      "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
       },
@@ -44388,7 +44410,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 164998,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
@@ -45216,7 +45238,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 218647,
       "name": "Xeiroteri Genia",
       "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"

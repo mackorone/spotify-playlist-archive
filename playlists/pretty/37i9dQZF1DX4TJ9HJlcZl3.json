@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 18242,
+  "num_followers": 18245,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9ZgAAAAAp7FYRj2eKX3K/QSKVbQEI",
+  "snapshot_id": "aDYAcQAAAADdFmR1M9gM3U02ExuD4gEu",
   "tracks": [
+    {
+      "added_at": "2025-05-27 18:12:01",
+      "album": {
+        "name": "Take Back Goodbye / Can't Be Alone Tonight",
+        "url": "https://open.spotify.com/album/60TeXojlfTM83z0pNunvTQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+        }
+      ],
+      "duration_ms": 198136,
+      "name": "Take Back Goodbye",
+      "url": "https://open.spotify.com/track/3vxmsAct5YAGQz4PCZR2rs"
+    },
     {
       "added_at": "2025-03-07 05:00:22",
       "album": {
@@ -871,22 +887,6 @@
       "duration_ms": 204453,
       "name": "Trick To Happy",
       "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "15th Floor",
-        "url": "https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h"
-      },
-      "artists": [
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        }
-      ],
-      "duration_ms": 270868,
-      "name": "15th Floor",
-      "url": "https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B"
     }
   ],
   "unique_name": "Yacht Rock Revival",

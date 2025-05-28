@@ -4,7 +4,7 @@
 
 > Agnes is having a main pop girl emergency 🆘
 
-1,301 songs - 2 day 17 hr 10 min
+1,302 songs - 2 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [Fever](https://open.spotify.com/track/7aIqS1ulAFezQjAlQDn0hd) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Fever](https://open.spotify.com/album/0lTVQwPiUOS7ut4U01nl1Y) | 3:48 | 2023-02-24 | 2023-03-25 |
 | [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 | 2024-01-27 |
 | [Filter](https://open.spotify.com/track/104KjF0t9EnlFOoxGLxiSQ) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:31 | 2025-03-07 |  |
-| [Find Xanadu](https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Find Xanadu](https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC) | 3:09 | 2025-05-02 |  |
+| [Find Xanadu](https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Find Xanadu](https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC) | 3:09 | 2025-05-02 | 2025-05-28 |
 | [First Be a Woman \- New Version 2K22 Edit](https://open.spotify.com/track/11CeRIRp41m2HPaYqeckLo) | [Zetaphunk](https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx), [Joseph Sinatra](https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn), [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [First Be a Woman \(New Version 2K22\)](https://open.spotify.com/album/3c9OEZKe5jAHm2acC12qna) | 3:33 | 2022-10-28 | 2022-11-12 |
 | [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 | 2024-06-14 | 2024-06-29 |
 | [FOCUS ON ME](https://open.spotify.com/track/1LpodNyRjXIxWKFC9GOSFF) | [ENILA](https://open.spotify.com/artist/67PhsrPljsn5Y8qffgXjml) | [FOCUS ON ME](https://open.spotify.com/album/6vybXpLwgbPxm2bzKcGyLr) | 2:58 | 2025-01-03 | 2025-02-08 |
@@ -958,6 +958,7 @@
 | [Renaissance \(Main Title Theme\) \- \[Extended Version\] \[from “The White Lotus: Season 2”\]](https://open.spotify.com/track/5UsRZKlfGJV8jSaPrvFEUH) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 4:23 | 2022-12-23 | 2023-03-04 |
 | [Rent](https://open.spotify.com/track/4lp9yNrGTAK9UMITAX1E4U) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M) | [Rent](https://open.spotify.com/album/2FiSxjTRJ6L9dIfXliUGfm) | 5:37 | 2023-09-15 | 2024-02-10 |
 | [Revelation](https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY) | 4:13 | 2025-01-31 |  |
+| [Reverberotic \- Edit](https://open.spotify.com/track/047E83iJCGmU3Sq3kabk7G) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Reverberotic](https://open.spotify.com/album/2XZoRIiKg8DWTWOpDG6yMN) | 3:19 | 2025-05-27 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-28 |  |
 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 | 2024-10-04 | 2024-11-09 |
 | [Rhiannon](https://open.spotify.com/track/6ZesoJSuyvKskuAH63UBH9) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Rhiannon](https://open.spotify.com/album/6WMQodMSRyoGCHs9DN7yKV) | 4:21 | 2025-02-07 |  |

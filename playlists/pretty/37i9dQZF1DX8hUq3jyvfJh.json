@@ -123,22 +123,18 @@
     {
       "added_at": "2025-04-02 18:05:28",
       "album": {
-        "name": "Reza",
-        "url": "https://open.spotify.com/album/1jG9jgOO0eKFgYMc3aed98"
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 146123,
-      "name": "Reza",
-      "url": "https://open.spotify.com/track/6ieSJJ8nVZO6V45Bm9GiYV"
+      "duration_ms": 296567,
+      "name": "Ouro de Tolo",
+      "url": "https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg"
     },
     {
       "added_at": "2025-04-02 18:05:28",
@@ -163,6 +159,26 @@
     {
       "added_at": "2025-04-02 18:05:28",
       "album": {
+        "name": "Reza",
+        "url": "https://open.spotify.com/album/1jG9jgOO0eKFgYMc3aed98"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 146123,
+      "name": "Reza",
+      "url": "https://open.spotify.com/track/6ieSJJ8nVZO6V45Bm9GiYV"
+    },
+    {
+      "added_at": "2025-04-02 18:05:28",
+      "album": {
         "name": "Maria Rita",
         "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 282293,
       "name": "Cara valente",
       "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
-    },
-    {
-      "added_at": "2025-04-02 18:05:28",
-      "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 296567,
-      "name": "Ouro de Tolo",
-      "url": "https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg"
     },
     {
       "added_at": "2025-04-02 18:05:28",
@@ -319,26 +319,6 @@
     {
       "added_at": "2025-04-02 18:05:28",
       "album": {
-        "name": "Desfruta",
-        "url": "https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB"
-      },
-      "artists": [
-        {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Desfruta",
-      "url": "https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO"
-    },
-    {
-      "added_at": "2025-04-02 18:05:28",
-      "album": {
         "name": "C\u00c9U DA BOCA, a parte I",
         "url": "https://open.spotify.com/album/0l6qJ5iOm9jkYx6VEcRndN"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 174915,
       "name": "s\u00f3 dessa vez",
       "url": "https://open.spotify.com/track/5vf3QAfhpDhAGWvQQYFVHl"
+    },
+    {
+      "added_at": "2025-04-02 18:05:28",
+      "album": {
+        "name": "Desfruta",
+        "url": "https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Desfruta",
+      "url": "https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO"
     },
     {
       "added_at": "2025-04-02 18:05:28",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-04-02 18:05:28",
       "album": {
+        "name": "Jaguatirica Print",
+        "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa e os Alquimistas",
+          "url": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
+        }
+      ],
+      "duration_ms": 239050,
+      "name": "Furtacor",
+      "url": "https://open.spotify.com/track/0xxFNQDRu4E79cgbbJCKrB"
+    },
+    {
+      "added_at": "2025-04-02 18:05:28",
+      "album": {
         "name": "Corredeiras / Sobre N\u00f3s",
         "url": "https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 246874,
       "name": "SOU FERA",
       "url": "https://open.spotify.com/track/3l5Ys6krsdYhq49He7RLH2"
-    },
-    {
-      "added_at": "2025-04-02 18:05:28",
-      "album": {
-        "name": "Jaguatirica Print",
-        "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa e os Alquimistas",
-          "url": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
-        }
-      ],
-      "duration_ms": 239050,
-      "name": "Furtacor",
-      "url": "https://open.spotify.com/track/0xxFNQDRu4E79cgbbJCKrB"
     },
     {
       "added_at": "2025-04-02 18:05:28",

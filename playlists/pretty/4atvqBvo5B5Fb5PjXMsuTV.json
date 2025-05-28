@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 May 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 May 03:03 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAASHetXCdQYuD8o7LuEeHUrKCRH1ULt",
+  "snapshot_id": "AAASI8UwOq+Jo0eXjN4zCxY3Tikd30gW",
   "tracks": [
+    {
+      "added_at": "2025-05-27 18:04:23",
+      "album": {
+        "name": "Save The Cat",
+        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 172404,
+      "name": "Save The Cat",
+      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
+    },
+    {
+      "added_at": "2025-05-28 03:03:47",
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 170337,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
+    },
     {
       "added_at": "2025-05-25 08:03:28",
       "album": {
@@ -449,6 +481,22 @@
       "url": "https://open.spotify.com/track/53eWhjwyZPq46XwFPyy7Lx"
     },
     {
+      "added_at": "2025-05-27 22:03:50",
+      "album": {
+        "name": "Nothing On Me",
+        "url": "https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/0Javk02TRcIDmL6aYv7VAj"
+    },
+    {
       "added_at": "2025-05-21 18:04:03",
       "album": {
         "name": "grails",
@@ -803,54 +851,6 @@
       "duration_ms": 208311,
       "name": "In Sunder",
       "url": "https://open.spotify.com/track/7iLbhuxhHmw9EhlyHkCsno"
-    },
-    {
-      "added_at": "2025-05-17 13:03:51",
-      "album": {
-        "name": "I Saw The Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 264664,
-      "name": "I Saw The Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
-    },
-    {
-      "added_at": "2025-05-16 08:04:19",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
-      "added_at": "2025-05-16 08:04:19",
-      "album": {
-        "name": "Don't Hold The Fire",
-        "url": "https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        }
-      ],
-      "duration_ms": 147018,
-      "name": "Don't Hold The Fire",
-      "url": "https://open.spotify.com/track/02CUgLutqmue2cayDgmn53"
     }
   ],
   "unique_name": "New Singles Now",

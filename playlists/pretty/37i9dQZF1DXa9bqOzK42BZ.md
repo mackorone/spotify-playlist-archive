@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,605 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,649 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [TEMBEA](https://open.spotify.com/track/0JqowWHMog6xDZ9JnECyGg) | [Koppa Gekon](https://open.spotify.com/artist/7cQJ5T9nc2H2ccc57x9WwH) | [TEMBEA](https://open.spotify.com/album/59b7qV0UrKkmT6mvLzL5Tw) | 3:26 |
 | 100 | [Wananiuliza \(feat\. Guardian Angel & Eko Dydda\) \[Remix\]](https://open.spotify.com/track/0zZ7A2D0630Khn1XjK97Ei) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Eko Dydda](https://open.spotify.com/artist/0F0AWv6Giki7xrNkzI27hs) | [Wananiuliza \(feat\. Guardian Angel & Eko Dydda\) \[Remix\]](https://open.spotify.com/album/2vjaKH7kynbPkkJsz5z414) | 3:21 |
 
-Snapshot ID: `aDRoqgAAAACD5cl7rvBpQYpKktdWeYWN`
+Snapshot ID: `AAAAAJKDR3aZbHY8p1jhRs8s6H4+vjWx`

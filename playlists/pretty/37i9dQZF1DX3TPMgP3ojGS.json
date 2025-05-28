@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 459022,
+  "num_followers": 459094,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 147098,
       "name": "Le Recueillement",
       "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "For A Moment",
-        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
-      },
-      "artists": [
-        {
-          "name": "Haley Morrison",
-          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "For A Moment",
-      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 173520,
       "name": "Diaphanous",
       "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
+      },
+      "artists": [
+        {
+          "name": "Haley Morrison",
+          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Songs Of Sundown",
-        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
+        "name": "A Time Long Ago",
+        "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
       "artists": [
         {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
         }
       ],
-      "duration_ms": 140625,
-      "name": "One More Story",
-      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
+      "duration_ms": 135105,
+      "name": "A Time Long Ago",
+      "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -787,34 +787,18 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "A Time Long Ago",
-        "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
+        "name": "Songs Of Sundown",
+        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
       },
       "artists": [
         {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
         }
       ],
-      "duration_ms": 135105,
-      "name": "A Time Long Ago",
-      "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
+      "duration_ms": 140625,
+      "name": "One More Story",
+      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -835,18 +819,18 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
       "artists": [
         {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
         }
       ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Eridani",
-        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Eridani",
-      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -963,22 +947,6 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "doyoubinoyume",
-        "url": "https://open.spotify.com/album/4H5jI3XpaEHmViBx2vaN8J"
-      },
-      "artists": [
-        {
-          "name": "OKADA PISUS",
-          "url": "https://open.spotify.com/artist/2mUBpfT13TbmoGlUB4rmZg"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "harunikaeru",
-      "url": "https://open.spotify.com/track/4QjdyUdTjTsZes5sHV8rxh"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
         "name": "Grand Canyon",
         "url": "https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ"
       },
@@ -995,6 +963,22 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
+        "name": "doyoubinoyume",
+        "url": "https://open.spotify.com/album/4H5jI3XpaEHmViBx2vaN8J"
+      },
+      "artists": [
+        {
+          "name": "OKADA PISUS",
+          "url": "https://open.spotify.com/artist/2mUBpfT13TbmoGlUB4rmZg"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "harunikaeru",
+      "url": "https://open.spotify.com/track/4QjdyUdTjTsZes5sHV8rxh"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
         "name": "Sonnet 1",
         "url": "https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 131451,
       "name": "Sonnet 1",
       "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
+        "name": "Eridani",
+        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Eridani",
+      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Glance Out A Casement Window",
-        "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
-      },
-      "artists": [
-        {
-          "name": "Janet Redger",
-          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
-        }
-      ],
-      "duration_ms": 130164,
-      "name": "Glance Out A Casement Window",
-      "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
         "name": "A Place To Hide",
         "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
+        "name": "Glance Out A Casement Window",
+        "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
+      },
+      "artists": [
+        {
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+        }
+      ],
+      "duration_ms": 130164,
+      "name": "Glance Out A Casement Window",
+      "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
         "name": "Take care",
         "url": "https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 128931,
       "name": "Take care",
       "url": "https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
-        "name": "Elysian",
-        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
-      },
-      "artists": [
-        {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
-        }
-      ],
-      "duration_ms": 139375,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -1279,6 +1263,22 @@
       "duration_ms": 127500,
       "name": "Gently falling rain",
       "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "duration_ms": 139375,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
         "name": "D\u00e9sir",
         "url": "https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 163479,
       "name": "D\u00e9sir",
       "url": "https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Liminal ride",
-        "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
-      },
-      "artists": [
-        {
-          "name": "Luna Bauer",
-          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
-        }
-      ],
-      "duration_ms": 156705,
-      "name": "Liminal ride",
-      "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
         "name": "Hearts of Desire",
         "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Aspres",
-        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+        "name": "Liminal ride",
+        "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
       },
       "artists": [
         {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
         }
       ],
-      "duration_ms": 199119,
-      "name": "Aspres",
-      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
+      "duration_ms": 156705,
+      "name": "Liminal ride",
+      "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -1455,6 +1439,22 @@
       "duration_ms": 154311,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
+        "name": "Aspres",
+        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 199119,
+      "name": "Aspres",
+      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
     },
     {
       "added_at": "2025-05-22 15:00:24",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Handmade",
-        "url": "https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu"
-      },
-      "artists": [
-        {
-          "name": "Bodi Lukasz",
-          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Handmade",
-      "url": "https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30"
-    },
-    {
-      "added_at": "2025-05-22 15:00:24",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
       },
@@ -1603,18 +1587,34 @@
     {
       "added_at": "2025-05-22 15:00:24",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X"
+        "name": "En t'attendant",
+        "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
       },
       "artists": [
         {
-          "name": "Cinthya Garcia",
-          "url": "https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv"
+          "name": "M\u00e9lanie Laurent",
+          "url": "https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN"
         }
       ],
-      "duration_ms": 121750,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW"
+      "duration_ms": 160066,
+      "name": "D\u00e9but",
+      "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
+    },
+    {
+      "added_at": "2025-05-22 15:00:24",
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu"
+      },
+      "artists": [
+        {
+          "name": "Bodi Lukasz",
+          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Handmade",
+      "url": "https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30"
     }
   ],
   "unique_name": "Coffee and Piano",

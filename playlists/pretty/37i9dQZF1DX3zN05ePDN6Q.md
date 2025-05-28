@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Djonga
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,702 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,724 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Mandamento$ Malokeiro$](https://open.spotify.com/track/6c4euWNEt5BEyVHv7B1UGp) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 3:43 |
 | 75 | [Reflexo \#10 \- Inestimável](https://open.spotify.com/track/4pKeqCqPF4JkqJi3Lq6nZZ) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [SARTØR](https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4) | [Reflexo \#10 \- Inestimável](https://open.spotify.com/album/0gGjGKzagGb1tn0E0UI7tR) | 2:12 |
 
-Snapshot ID: `AAAAAFnerMuy3+zKmByrS10tMvrhG482`
+Snapshot ID: `aDTP9AAAAADtEHPCFYY9KiQ4Rxmz2qjm`

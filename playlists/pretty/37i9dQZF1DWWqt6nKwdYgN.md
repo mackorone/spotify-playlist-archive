@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! DannyLux en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,513 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,514 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 23 | [Adios Ps](https://open.spotify.com/track/3q8MaDtBfAJeBWfBzA5MZ1) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo) | [Adios Ps](https://open.spotify.com/album/1yfKjEDoHvsbquHV0jVsRy) | 3:21 |
 | 24 | [Ey Ma](https://open.spotify.com/track/2vKune9jI212qwJqTQ6VzV) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Ruido, El Silencio y Yo II](https://open.spotify.com/album/6SY20pHwJzrcFcqJHwFLVd) | 2:35 |
 | 25 | [Somos El Tiempo](https://open.spotify.com/track/24chs8chNDnWqxTXTK7BLF) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [César López](https://open.spotify.com/artist/1wWRF7ePPn4Wm0XBlkZnqE) | [Somos El Tiempo](https://open.spotify.com/album/58ykyhiCnsnysNF99kTNxg) | 3:30 |
-| 26 | [Cream Gang](https://open.spotify.com/track/6o7D7sZO7hyDfSPuijpaom) | [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [Cream Gang](https://open.spotify.com/album/4TsM7p9sjJ7hfdW0FbJQwt) | 3:10 |
+| 26 | [Cream Gang](https://open.spotify.com/track/6o7D7sZO7hyDfSPuijpaom) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Dj Jotakao](https://open.spotify.com/artist/3Hk4tl2exeutcaIkvdymN1), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Cream Gang](https://open.spotify.com/album/4TsM7p9sjJ7hfdW0FbJQwt) | 3:10 |
 | 27 | [La Receta](https://open.spotify.com/track/13NPr8gjyMxro5FQgYIVX4) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf) | [La Receta](https://open.spotify.com/album/6KvjcTfytpH5WmiAQdZOTG) | 3:08 |
 | 28 | [Guiso](https://open.spotify.com/track/6ubVIQi3XGOAlKZTCsrsid) | [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k), [El Kalvo](https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [Guiso](https://open.spotify.com/album/2nV1T1CmWCGrQuxeFVUnXz) | 3:44 |
 | 29 | [MAÑUM](https://open.spotify.com/track/5ZWlDpwrw4Pa4g61PKOvVt) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [MAÑUM](https://open.spotify.com/album/79rBmDSjEDnHA0nPCx6Xdh) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [Amole](https://open.spotify.com/track/6mBVqBGbWoOxoWrv4iMeyW) | [Nitro Goyri](https://open.spotify.com/artist/6GepbWxBVP643J6R0rb9tE), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Amole](https://open.spotify.com/album/3y1OVGGuxTEPldi1tm1lCy) | 2:38 |
 | 50 | [Rubaiyat](https://open.spotify.com/track/2pKna1QpEpKTss92GnhsSn) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3), [Titó](https://open.spotify.com/artist/0sHxrLxSTgcgReYfT3MvYO) | [Rubaiyat](https://open.spotify.com/album/5Q798rmzhAbFNcE5MTsVmH) | 4:00 |
 
-Snapshot ID: `aDAPAgAAAACs7Bs4Dx1jiB2HaevtxNti`
+Snapshot ID: `aDAPAgAAAACEUXAY8GI+mlIrXm92bA7b`

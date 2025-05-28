@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-885 songs - 1 day 19 hr 51 min
+886 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Never Say Ever](https://open.spotify.com/track/13mpwlabsVcm39rZTaHDjq) | [Seimar](https://open.spotify.com/artist/26ltXarnsl29uRNla9nD4P) | [Never Say Ever](https://open.spotify.com/album/475FsBoHOqmFDKQQVtNUTs) | 2:40 | 2022-09-22 | 2025-01-08 |
 | [New Beginning](https://open.spotify.com/track/2LCJEUpAFLETtWCCcA4VKv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:50 | 2021-12-21 | 2022-10-16 |
 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 | 2021-12-21 | 2022-09-23 |
+| [New Life \(Ambient Sleep\)](https://open.spotify.com/track/2li5sVtJJ622EiOFjGryYj) | [Gløwlight](https://open.spotify.com/artist/2yDoxETP17TJozaloeq5kW) | [New Life \(Ambient Sleep\)](https://open.spotify.com/album/6fPdLT3jrZT2n2xyotAM4x) | 2:30 | 2025-05-27 |  |
 | [New Stars](https://open.spotify.com/track/00VGEglw1DyTGaoWiULmXW) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [New Stars](https://open.spotify.com/album/5n6azA3gbMLKU8st8jznpS) | 2:43 | 2025-01-29 |  |
 | [Niebla](https://open.spotify.com/track/6SM7xwEN26ps6UmGaYOncB) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Niebla](https://open.spotify.com/album/5tJKaiUQdeG6YZPnWkedHj) | 2:33 | 2022-11-25 | 2024-09-19 |
 | [Nieve](https://open.spotify.com/track/6VXtIz60EI6GUYQRsFWxNe) | [Jademaia](https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo) | [Invierno](https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD) | 2:34 | 2022-11-25 | 2025-01-08 |

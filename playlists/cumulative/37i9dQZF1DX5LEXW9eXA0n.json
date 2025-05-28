@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uc724\ubbfc\uc218 & \uc774\uc608\uc900) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: IU(\uc544\uc774\uc720)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -582,6 +582,24 @@
       "duration_ms": 295040,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7"
+    },
+    {
+      "album": {
+        "name": "Second Shot at Love, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Qogl8QWCZhN3E4BYtvosl"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "A Thousand Reasons",
+      "url": "https://open.spotify.com/track/0reriCJCzwM8GBFN6HM3gv"
     },
     {
       "album": {
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 216094,
       "name": "Couple",
       "url": "https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL"
@@ -15797,6 +15815,24 @@
     },
     {
       "album": {
+        "name": "A flower bookmark, Pt. 3",
+        "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "Never Ending Story",
+      "url": "https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK"
+    },
+    {
+      "album": {
         "name": "Never let you go",
         "url": "https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc"
       },
@@ -17464,7 +17500,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 252466,
       "name": "Play for me",
       "url": "https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow"

@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-396 songs - 19 hr 35 min
+399 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Constellation](https://open.spotify.com/track/4nxiVXO8GJcHZMIb0UJMxv) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Chapter One](https://open.spotify.com/album/165sSNwDCf4EhbZ9fuSxWJ) | 3:42 | 2022-07-15 | 2023-11-25 |
 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 | 2024-07-12 |  |
 | [Conundrum](https://open.spotify.com/track/1W3tR9DeKt9m4nEZXsdO3b) | [Revivo Wide](https://open.spotify.com/artist/43IhMvQXxJBfmuxfYsVBCD) | [Conundrum](https://open.spotify.com/album/5XIFGUD7AjJMsHYyad3qXt) | 3:15 | 2025-05-07 |  |
+| [Corteza](https://open.spotify.com/track/6vp33wEX0zDZbBAENobz5m) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Corteza](https://open.spotify.com/album/3LlTM3Ygm5XB3pNyssqT95) | 3:17 | 2025-05-27 |  |
 | [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 | 2023-04-28 |  |
 | [Crepuscular Light](https://open.spotify.com/track/22Gxnq14IyFZgPcoohx5qQ) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Crepuscular Light](https://open.spotify.com/album/0XmxSLDO7hmFDkQNt6DLer) | 2:39 | 2022-11-11 | 2025-05-14 |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-07-15 | 2025-02-15 |
@@ -281,6 +282,7 @@
 | [Place of Peace \(ambient sleep\)](https://open.spotify.com/track/6WnhFHiLsn48BoGqj6dV8W) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [Place of Peace \(ambient sleep\)](https://open.spotify.com/album/3WmFZVNqHu1bUrrGwr85ck) | 2:40 | 2025-04-23 |  |
 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-22 |  |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-07-15 | 2024-12-20 |
+| [Poise](https://open.spotify.com/track/7sxcPWT2ZnLNNw2N2N91U9) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Poise](https://open.spotify.com/album/3sUm2AUufQCWDLjscQ5jQi) | 2:30 | 2025-05-27 |  |
 | [Position in Space](https://open.spotify.com/track/40q3EcvFwkNetw7L3zf6hJ) | [NK\-67](https://open.spotify.com/artist/11TxJf8mz0gmLUK050PyGU) | [Position in Space](https://open.spotify.com/album/26QJ2b0QWpLh07sIgee9pt) | 2:44 | 2025-01-28 | 2025-05-14 |
 | [Prashansaneey](https://open.spotify.com/track/3Setdymx44HIU2wb7sW5s6) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Prashansaneey](https://open.spotify.com/album/6dMnLGBlZrlHj2CrGuZPMn) | 3:41 | 2022-07-15 | 2025-05-14 |
 | [Prepere for Landing](https://open.spotify.com/track/19kFQ1yaNQcULBHwYqGN5o) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Prepere for Landing](https://open.spotify.com/album/3SIZp0hM0SQGhyP353a72A) | 2:41 | 2025-03-26 |  |
@@ -357,6 +359,7 @@
 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 | 2022-09-13 | 2025-04-10 |
 | [Stellae](https://open.spotify.com/track/5WGj3rd2ZMFuLqymp4wUBv) | [Milli Hughes](https://open.spotify.com/artist/5qq6C4dNld3AWHbh2WaNAR) | [Stellae](https://open.spotify.com/album/456nVp0Q8e92jjKXklZN6k) | 3:06 | 2024-07-12 | 2025-05-14 |
 | [Still Vibration](https://open.spotify.com/track/3usPDceltMPk3YY86BNbxp) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Still Vibration](https://open.spotify.com/album/3O0pgjKTKZbeCyywOcISXD) | 3:12 | 2024-06-10 |  |
+| [Stillness, Blooming](https://open.spotify.com/track/7tv6eKSO4oz9BI2xYMLpy8) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Stillness, Blooming](https://open.spotify.com/album/0uvvVQln771gS90Xtaz07c) | 2:27 | 2025-05-27 |  |
 | [Stillsamhet](https://open.spotify.com/track/5j8DTevAnvUUon9rwhndi1) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:27 | 2023-02-25 | 2025-05-14 |
 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 | 2022-07-15 | 2025-02-27 |
 | [Summer Days](https://open.spotify.com/track/0aJ4N55aJRLvrk0PsWmFgn) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Summer Days](https://open.spotify.com/album/7o7evvjRZ6uAzmuOoV7YYx) | 2:22 | 2025-01-28 | 2025-03-27 |

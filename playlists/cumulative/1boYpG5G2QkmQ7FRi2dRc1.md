@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,345 songs - 6 day 0 hr 13 min
+2,346 songs - 6 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,6 +1283,7 @@
 | [Lēt It Go](https://open.spotify.com/track/1Xgyx4LF58DLDLQrqM9U7j) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Lēt It Go](https://open.spotify.com/album/3SxIZ9RNGFcFW0ATXNKxVw) | 3:41 | 2024-02-10 | 2024-02-17 |
 | [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 | 2023-11-18 |
 | [Mad](https://open.spotify.com/track/0hFvEBke46QQR9Tz0t5GgV) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Pitched](https://open.spotify.com/album/2H6k7lpjx4f64j6B67BcGQ) | 3:58 | 2023-09-29 | 2023-10-16 |
+| [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-05-27 |  |
 | [Mad Motion](https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Mad Motion](https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ) | 2:40 | 2024-09-21 | 2024-10-06 |
 | [MADNESS \- Fire Cut](https://open.spotify.com/track/0lj738cI03cYcReO5lVNRT) | [Certified Groover](https://open.spotify.com/artist/2Ot1WkVkrCAzEjyhRE9LWq) | [MADNESS \(Fire Cut\)](https://open.spotify.com/album/5RoEsgZVTFDBfnUO3nesV8) | 4:18 | 2023-06-01 | 2023-06-25 |
 | [Maelstrom \- Mixed](https://open.spotify.com/track/6OIixjOA7MEaGofUVrBmyz) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [25 Years Of Anjuna Mixed By Luttrell](https://open.spotify.com/album/5KfRVnphBPvOfLuNS0Ak5i) | 5:58 | 2025-03-22 | 2025-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,343 likes - 200 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,340 likes - 200 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 199 | [bullseye](https://open.spotify.com/track/6q3CI8MZAGYymLWIG87Lkn) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [Collector](https://open.spotify.com/album/10mER6YXYYRKTrZnYYffPm) | 2:49 |
 | 200 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
 
-Snapshot ID: `aC39WwAAAAB2XHek781MvA/ioxtFWUm5`
+Snapshot ID: `aC39WwAAAADu1Ey6Ysr/0reYE2VGkqzk`

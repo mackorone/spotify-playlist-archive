@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,548 likes - 82 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,547 likes - 82 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 2 | [Gnawa \(feat\. The Atlas Collective\)](https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv) | [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Gnawa EP](https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG) | 3:39 |
 | 3 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
 | 4 | [Kaga Bole Mera \- Turbotito & Ragz Rework](https://open.spotify.com/track/5TZpfuDzrxy0wehfZrWakN) | [Arundhati Bhaumik](https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Ragz](https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn) | [Pi Pi \(Turbotito & Ragz Rework Radio Edit\)](https://open.spotify.com/album/7qe7sOPs1nRTgxjrhbvfQq) | 5:41 |
-| 5 | [Labyrinth \- Extended Mix](https://open.spotify.com/track/6wlKmivkywKW0E0eVG50mS) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [](https://open.spotify.com/album/null) | 6:16 |
+| 5 | [Labyrinth \- Extended Mix](https://open.spotify.com/track/6wlKmivkywKW0E0eVG50mS) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/6UoyUTZR9qfPCHcVlOGu6v) | 6:16 |
 | 6 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 7 | [Alegría \- Yuksek Remix](https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Alegría \(Yuksek Remix\) \- Single](https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH) | 4:18 |
 | 8 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 |

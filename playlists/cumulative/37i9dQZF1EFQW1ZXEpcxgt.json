@@ -406,10 +406,28 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 150980,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6bszzvS1tbQq3syTmSQo8x"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126444,
+      "name": "Celebrate!",
+      "url": "https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-315 songs - 15 hr 17 min
+316 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [On Repeat](https://open.spotify.com/track/6CqFn8q3zeVuK61IO07nZZ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 3:10 | 2023-11-03 | 2024-04-13 |
 | [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 | 2024-01-22 |  |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-11-03 | 2024-04-20 |
+| [One More Night \(feat\. LELLE.\)](https://open.spotify.com/track/0eVaE3YtRG3dMPoDBXgHAC) | [Gabriel Dancer](https://open.spotify.com/artist/6rR3PZN1NaisqHkIwwrR8N), [LELLE.](https://open.spotify.com/artist/1THlnlnE6klj20SpjnxATO) | [One More Night \(feat\. LELLE.\)](https://open.spotify.com/album/3Pw8SMjonOj9x5nPYVeZ2h) | 3:09 | 2025-05-27 |  |
 | [One, Two, & 3](https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [One, Two, & 3](https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn) | 3:26 | 2024-02-16 | 2024-07-06 |
 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-06-10 | 2024-06-15 |
 | [Out Of My Mind](https://open.spotify.com/track/33Xli0CAclZaH5tIhvHOi3) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Out Of My Mind](https://open.spotify.com/album/49gy07qeAjcFvAhM1VSD5K) | 3:26 | 2023-11-03 | 2024-02-03 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Hamilton De Holanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,226 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,204 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
+| 1 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
 | 2 | [Kaleidoscopes](https://open.spotify.com/track/2V5TR2NkI29foggEFzgNvd) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Edmar Castañeda](https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [BEATrio](https://open.spotify.com/album/4qZ6AQOEGQVpyI3iyEhFQB) | 5:35 |
 | 3 | [Get Deep](https://open.spotify.com/track/4TdW6NTxwtGSFj0wHTG6sZ) | [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Get Deep](https://open.spotify.com/album/7siqN6LqKZ0EOrrOMfgtdo) | 4:40 |
 | 4 | [Reflection Eternal](https://open.spotify.com/track/7wLH62MhVqsqbLxdYUkctr) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Reflection Eternal](https://open.spotify.com/album/7flx6vvh3i9bDRUYwRf11Z) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Emmet’s Blues](https://open.spotify.com/track/4oewd0Mm4mvlHHA2hLY4td) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Emmet's Blues](https://open.spotify.com/album/36MVRpKXE5ecXxwOqxKADG) | 3:20 |
 | 100 | [Ofafrii](https://open.spotify.com/track/2FpbV6zmzihAGz5JepkYoX) | [Out Of/Into](https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU) | [Motion I](https://open.spotify.com/album/4lT8g8vcE3uQEVX5yNLeCd) | 7:47 |
 
-Snapshot ID: `aC/y1QAAAABPn06EdpxitmpY+j3FWOc7`
+Snapshot ID: `aC/y1QAAAADtwX5Z92XC0vIcqA1PzlpQ`

@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195984,
+  "num_followers": 195987,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,26 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
+        "name": "Konfetti",
+        "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 194425,
+      "name": "Konfetti",
+      "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
         "name": "Inte bra i grupp",
         "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
       },
@@ -287,26 +307,6 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Konfetti",
-        "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 194425,
-      "name": "Konfetti",
-      "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/5iRT4669x6nim2INHF7wyI"
       },
@@ -319,38 +319,6 @@
       "duration_ms": 192593,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "ett minne i taget",
-        "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "ett minne i taget",
-      "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "Alla Ska D\u00f6",
-        "url": "https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 166234,
-      "name": "Alla Ska D\u00f6",
-      "url": "https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -371,18 +339,34 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Uno II",
-        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
+        "name": "Alla Ska D\u00f6",
+        "url": "https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 135831,
-      "name": "Uno II",
-      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
+      "duration_ms": 166234,
+      "name": "Alla Ska D\u00f6",
+      "url": "https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "ett minne i taget",
+        "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "ett minne i taget",
+      "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -403,6 +387,22 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
+        "name": "Uno II",
+        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Uno II",
+      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
         "name": "Somna om",
         "url": "https://open.spotify.com/album/2rOd0yYNFEh06vjjMFmBd6"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Jag har h\u00f6rt (hahaha)",
-        "url": "https://open.spotify.com/album/7c0z1WRR2XXs2C6DWZLbD6"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Jag har h\u00f6rt (hahaha)",
-      "url": "https://open.spotify.com/track/5o1xTXO39jqeXhieh98rPa"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
         "name": "Okej att d\u00f6",
         "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 144360,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Jag har h\u00f6rt (hahaha)",
+        "url": "https://open.spotify.com/album/7c0z1WRR2XXs2C6DWZLbD6"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Jag har h\u00f6rt (hahaha)",
+      "url": "https://open.spotify.com/track/5o1xTXO39jqeXhieh98rPa"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "The Bog Body",
-        "url": "https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP"
+        "name": "Asfalt & nikotin",
+        "url": "https://open.spotify.com/album/1vTvWoiNkKShlx4fZXo8BT"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
         }
       ],
-      "duration_ms": 173310,
-      "name": "The Bog Body",
-      "url": "https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI"
+      "duration_ms": 172708,
+      "name": "Asfalt & nikotin",
+      "url": "https://open.spotify.com/track/4MNsh1rqaRAZUhNm6ATAbR"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Asfalt & nikotin",
-        "url": "https://open.spotify.com/album/1vTvWoiNkKShlx4fZXo8BT"
+        "name": "The Bog Body",
+        "url": "https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP"
       },
       "artists": [
         {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 172708,
-      "name": "Asfalt & nikotin",
-      "url": "https://open.spotify.com/track/4MNsh1rqaRAZUhNm6ATAbR"
+      "duration_ms": 173310,
+      "name": "The Bog Body",
+      "url": "https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -627,6 +627,22 @@
       "duration_ms": 204000,
       "name": "I'm So Sick",
       "url": "https://open.spotify.com/track/5qCVolVLPIb57Jhqhzurfk"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Take It! Take It!",
+        "url": "https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Take It! Take It!",
+      "url": "https://open.spotify.com/track/11Uoi1YLyhhhf8BgEpQ4dh"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -683,22 +699,6 @@
       "duration_ms": 129090,
       "name": "Gr\u00e4set p\u00e5 andra sidan (feat. Newkid & ORKID)",
       "url": "https://open.spotify.com/track/3rA5UCOnHSnwWwPYSz9e7r"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "Take It! Take It!",
-        "url": "https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Take It! Take It!",
-      "url": "https://open.spotify.com/track/11Uoi1YLyhhhf8BgEpQ4dh"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "The Butterfly Affect",
-        "url": "https://open.spotify.com/album/44qafZ7hAevN0dMQi7lOFG"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Burning Down The House",
-      "url": "https://open.spotify.com/track/0lWvOH0oBozezE9yAu41gD"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
         "name": "EDEN",
         "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "I Believed",
-        "url": "https://open.spotify.com/album/60yZlBnmsGBEW2YG9QTeYe"
+        "name": "The Butterfly Affect",
+        "url": "https://open.spotify.com/album/44qafZ7hAevN0dMQi7lOFG"
       },
       "artists": [
         {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 179266,
-      "name": "I Believed",
-      "url": "https://open.spotify.com/track/2f1UuqZvtbNHRxEIzFXRf4"
+      "duration_ms": 152562,
+      "name": "Burning Down The House",
+      "url": "https://open.spotify.com/track/0lWvOH0oBozezE9yAu41gD"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -835,54 +819,18 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Innan kronan blir f\u00f6r tung",
-        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
+        "name": "I Believed",
+        "url": "https://open.spotify.com/album/60yZlBnmsGBEW2YG9QTeYe"
       },
       "artists": [
         {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
         }
       ],
-      "duration_ms": 233726,
-      "name": "Djungeltelegrafen",
-      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "Varningsklocka",
-        "url": "https://open.spotify.com/album/2VXZBVElPKvqrtO9Urh7CP"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Varningsklocka",
-      "url": "https://open.spotify.com/track/2pUjzh95Vc8GBCD5cRn3lb"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "Trappa till himlen",
-        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
-      },
-      "artists": [
-        {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        },
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Trappa till himlen",
-      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
+      "duration_ms": 179266,
+      "name": "I Believed",
+      "url": "https://open.spotify.com/track/2f1UuqZvtbNHRxEIzFXRf4"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -903,6 +851,58 @@
       "duration_ms": 270874,
       "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
       "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Varningsklocka",
+        "url": "https://open.spotify.com/album/2VXZBVElPKvqrtO9Urh7CP"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Varningsklocka",
+      "url": "https://open.spotify.com/track/2pUjzh95Vc8GBCD5cRn3lb"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Innan kronan blir f\u00f6r tung",
+        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 233726,
+      "name": "Djungeltelegrafen",
+      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Trappa till himlen",
+        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        },
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Trappa till himlen",
+      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
+        "name": "lemons",
+        "url": "https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2"
+      },
+      "artists": [
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+        }
+      ],
+      "duration_ms": 194303,
+      "name": "lemons",
+      "url": "https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
         "name": "Shame on Me / Grow Old",
         "url": "https://open.spotify.com/album/2SIqhxXQm4qYsCKd4mXKXQ"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "lemons",
-        "url": "https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2"
+        "name": "Andarna",
+        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
       "artists": [
         {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
         }
       ],
-      "duration_ms": 194303,
-      "name": "lemons",
-      "url": "https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn"
+      "duration_ms": 226124,
+      "name": "Andarna",
+      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1015,22 +1031,6 @@
       "duration_ms": 176052,
       "name": "T\u00e4nker p\u00e5 dig (men bara ibland)",
       "url": "https://open.spotify.com/track/0iVXGPDVUsurN9OpzKBHCD"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "Andarna",
-        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 226124,
-      "name": "Andarna",
-      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Din egen sol",
-        "url": "https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 231642,
-      "name": "Din egen sol",
-      "url": "https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
         "name": "tagesanbruch",
         "url": "https://open.spotify.com/album/6nyOnLizny7SotOf76OwpB"
       },
@@ -1307,6 +1291,42 @@
       "duration_ms": 197215,
       "name": "tagesanbruch",
       "url": "https://open.spotify.com/track/0lKQ8gAUZxOvcifiyC9lFO"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Din egen sol",
+        "url": "https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 231642,
+      "name": "Din egen sol",
+      "url": "https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Yeah Yeah",
+        "url": "https://open.spotify.com/album/3ysBtzKs10TrCGdbAVB0GR"
+      },
+      "artists": [
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        }
+      ],
+      "duration_ms": 145674,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/5HUZUWq22164INQ0CXnEBu"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1343,22 +1363,34 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Yeah Yeah",
-        "url": "https://open.spotify.com/album/3ysBtzKs10TrCGdbAVB0GR"
+        "name": "Nordic Machine",
+        "url": "https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI"
       },
       "artists": [
         {
-          "name": "Albin Johns\u00e9n",
-          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
-        },
-        {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
         }
       ],
-      "duration_ms": 145674,
-      "name": "Yeah Yeah",
-      "url": "https://open.spotify.com/track/5HUZUWq22164INQ0CXnEBu"
+      "duration_ms": 178146,
+      "name": "Lago Maggiore",
+      "url": "https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1379,22 +1411,6 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Nordic Machine",
-        "url": "https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Lago Maggiore",
-      "url": "https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
         "name": "EN D\u00d6ENDE PLANET",
         "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 243529,
       "name": "EN D\u00d6ENDE PLANET",
       "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "SPACEBOY",
-        "url": "https://open.spotify.com/album/0klNLXWxb8FA4wknzVRr2J"
-      },
-      "artists": [
-        {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
-        }
-      ],
-      "duration_ms": 187627,
-      "name": "SPACEBOY",
-      "url": "https://open.spotify.com/track/0340AFk1HE5Za7urTUwk18"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1443,18 +1443,34 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
+        "name": "Mitt vackraste felsteg",
+        "url": "https://open.spotify.com/album/4qq53wdKELAFTfM8t5C6Zb"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
         }
       ],
-      "duration_ms": 209610,
-      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+      "duration_ms": 237000,
+      "name": "Mitt vackraste felsteg",
+      "url": "https://open.spotify.com/track/6cO9yPqaCClf1zhObaLJh6"
+    },
+    {
+      "added_at": "2025-05-23 07:54:06",
+      "album": {
+        "name": "SPACEBOY",
+        "url": "https://open.spotify.com/album/0klNLXWxb8FA4wknzVRr2J"
+      },
+      "artists": [
+        {
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+        }
+      ],
+      "duration_ms": 187627,
+      "name": "SPACEBOY",
+      "url": "https://open.spotify.com/track/0340AFk1HE5Za7urTUwk18"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1491,22 +1507,6 @@
       "duration_ms": 174246,
       "name": "Orange Lemonade",
       "url": "https://open.spotify.com/track/6vIiQXppIWFcsgROMY8TGb"
-    },
-    {
-      "added_at": "2025-05-23 07:54:06",
-      "album": {
-        "name": "Mitt vackraste felsteg",
-        "url": "https://open.spotify.com/album/4qq53wdKELAFTfM8t5C6Zb"
-      },
-      "artists": [
-        {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Mitt vackraste felsteg",
-      "url": "https://open.spotify.com/track/6cO9yPqaCClf1zhObaLJh6"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "PAUS",
-        "url": "https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2"
+        "name": "FEST",
+        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
       },
       "artists": [
         {
@@ -1584,29 +1584,25 @@
           "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
         }
       ],
-      "duration_ms": 154971,
-      "name": "PAUS",
-      "url": "https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4"
+      "duration_ms": 173040,
+      "name": "FEST",
+      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
     },
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Peace Reign",
-        "url": "https://open.spotify.com/album/0pTNyJZT9TsdWpw1x7cdg7"
+        "name": "Can't Find Love",
+        "url": "https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H"
       },
       "artists": [
         {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
         }
       ],
-      "duration_ms": 155512,
-      "name": "Peace Reign",
-      "url": "https://open.spotify.com/track/37AnElQAdOqGpCwahotyce"
+      "duration_ms": 200313,
+      "name": "Can't Find Love",
+      "url": "https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1627,18 +1623,22 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "Can't Find Love",
-        "url": "https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H"
+        "name": "Peace Reign",
+        "url": "https://open.spotify.com/album/0pTNyJZT9TsdWpw1x7cdg7"
       },
       "artists": [
         {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 200313,
-      "name": "Can't Find Love",
-      "url": "https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg"
+      "duration_ms": 155512,
+      "name": "Peace Reign",
+      "url": "https://open.spotify.com/track/37AnElQAdOqGpCwahotyce"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1727,8 +1727,8 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "FEST",
-        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
+        "name": "PAUS",
+        "url": "https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2"
       },
       "artists": [
         {
@@ -1736,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
         }
       ],
-      "duration_ms": 173040,
-      "name": "FEST",
-      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
+      "duration_ms": 154971,
+      "name": "PAUS",
+      "url": "https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4"
     },
     {
       "added_at": "2025-05-23 07:54:06",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2025-05-23 07:54:06",
       "album": {
-        "name": "It's a love cult!",
-        "url": "https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi"
+        "name": "Toys",
+        "url": "https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB"
       },
       "artists": [
         {
-          "name": "Friska Viljor",
-          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
         }
       ],
-      "duration_ms": 174400,
-      "name": "It's a love cult!",
-      "url": "https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6"
+      "duration_ms": 266994,
+      "name": "Toys",
+      "url": "https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o"
     }
   ],
   "unique_name": "Made in Sweden",

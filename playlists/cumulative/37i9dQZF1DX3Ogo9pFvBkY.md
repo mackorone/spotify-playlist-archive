@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-967 songs - 2 day 1 hr 37 min
+969 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,8 +797,10 @@
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-05-26\* | 2021-09-14 |
 | [Spirals](https://open.spotify.com/track/2V44hSJNBbay5Xsxm5isjy) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Spirals](https://open.spotify.com/album/6mNT1NjK9v4rtENleh3QPO) | 4:02 | 2020-01-03 | 2022-08-24 |
 | [Spiritual Awakening](https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 3:54 | 2019-05-26\* | 2022-10-01 |
+| [Starry Rest](https://open.spotify.com/track/5PAfG7dyyvecnHIoovwR0C) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Starry Rest](https://open.spotify.com/album/1cgN1H7DPLbaogPQrp4vwe) | 2:55 | 2025-05-27 |  |
 | [Stars Above](https://open.spotify.com/track/6SXJvDRDaChdN07Q5msQKE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nightfall](https://open.spotify.com/album/502yvPzDKhv4PoENfTdhHo) | 3:23 | 2020-09-16 | 2023-06-10 |
 | [Starseed](https://open.spotify.com/track/4OuwecJMuYfwqEzfdXLdzs) | [Lucien Mørk](https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn) | [Starseed](https://open.spotify.com/album/55QNsBnHK6tXjtl5k8UgvZ) | 2:54 | 2020-12-11 | 2021-06-16 |
+| [Starseer](https://open.spotify.com/track/4MwsRX4y2FMLSgxp8ZP7UF) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Starseer](https://open.spotify.com/album/0ZucB3KfvckpySyn5CUCmC) | 3:05 | 2025-05-27 |  |
 | [Start Again](https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP) | [Iselinn](https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV) | [Through it All](https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt) | 3:06 | 2020-10-08 | 2023-05-03 |
 | [Steam](https://open.spotify.com/track/6KxVP7rd6sKv3wcFLxAjtM) | [Anas discors](https://open.spotify.com/artist/1btt73BhuA2lFZD05peAWD) | [Steam](https://open.spotify.com/album/2CGaRfO1xKwKEXE657fTBV) | 3:16 | 2024-12-12 |  |
 | [Stellar Constellations](https://open.spotify.com/track/2XFQQ4XE7VsyBrNyIJ6DII) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Stellar Constellations](https://open.spotify.com/album/04y0wZm5tHFsrpZqymRDkN) | 3:12 | 2022-01-28 | 2024-10-19 |

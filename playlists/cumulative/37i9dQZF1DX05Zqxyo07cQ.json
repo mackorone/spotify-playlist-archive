@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Deeper Dreams",
+        "url": "https://open.spotify.com/album/6LYvnSzOn3XMF52VZ44BIz"
+      },
+      "artists": [
+        {
+          "name": "Vadodara",
+          "url": "https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Deeper Dreams",
+      "url": "https://open.spotify.com/track/4puWEgTbQFHu98cYmzEpqL"
+    },
+    {
+      "album": {
         "name": "Definite",
         "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
       },
@@ -6374,7 +6392,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 160000,
       "name": "Joys",
       "url": "https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez"
@@ -8145,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "Nocturna",
+        "url": "https://open.spotify.com/album/6KDdmMfLSq8z3vhCbQrZ7d"
+      },
+      "artists": [
+        {
+          "name": "Dormironauts",
+          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147681,
+      "name": "Nocturna",
+      "url": "https://open.spotify.com/track/0uiyVJTRC7N6rsFNwK33D9"
+    },
+    {
+      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/3f79qX2LFjGmuHeXklYUpf"
       },
@@ -9258,7 +9294,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 185000,
       "name": "Quiet",
       "url": "https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7"

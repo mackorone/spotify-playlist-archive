@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd_waLOSAXrA\">Panda Bear</a>",
-  "num_followers": 66206,
+  "num_followers": 66176,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQp43Y44U1m1pfJLy7b5UckYPUSzLf",
+  "snapshot_id": "AAAQqcpvzyHK7sH8bmDwtq5bKgONxt2b",
   "tracks": [
+    {
+      "added_at": "2025-05-27 17:54:35",
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 170337,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
+    },
     {
       "added_at": "2025-05-21 13:40:24",
       "album": {

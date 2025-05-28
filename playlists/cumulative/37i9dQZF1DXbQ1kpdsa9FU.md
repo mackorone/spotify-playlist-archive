@@ -4,7 +4,7 @@
 
 > Classic Contemporary Christian songs you can always count on! Cover: Chris Tomkin
 
-360 songs - 1 day 2 hr 50 min
+361 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:32 | 2024-12-11 |  |
 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 | 2020-08-26 | 2024-06-23 |
 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 | 2020-08-26 |  |
+| [Great I Am](https://open.spotify.com/track/2e6Tbu1hiYjUR7kgMIZpkO) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/4z2Reu5ayiiP2izF4w3znO) | 4:29 | 2025-05-09 |  |
 | [Great Is The Lord](https://open.spotify.com/track/22bkzEa4BFafq0KrxqOTCG) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Project](https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg) | 2:54 | 2024-12-11 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:41 | 2020-08-26 |  |
 | [Great Is Thy Faithfulness \(Beginning to End\) \[feat\. Mike Weaver\] \(feat\. Mike Weaver\)](https://open.spotify.com/track/1W5mifA8dmXAkeich4GPFK) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Mike Weaver](https://open.spotify.com/artist/33j78Z72E74iBDS7e2dFiV) | [Great Is Thy Faithfulness \(Beginning to End\) \[feat\. Mike Weaver\] \(feat\. Mike Weaver\)](https://open.spotify.com/album/4cmrl2U9KdiH2Cz458B8QS) | 4:10 | 2020-08-26 | 2022-07-27 |
@@ -173,7 +174,7 @@
 | [In Awe](https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:38 | 2020-08-26 | 2024-12-12 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2020-08-26 | 2024-12-12 |
 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/0vmtDdaIEU2lOG7cwsgSNm) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:42 | 2024-06-23 | 2024-12-12 |
-| [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T) | 3:42 | 2024-12-11 |  |
+| [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T) | 3:42 | 2024-12-11 | 2025-05-28 |
 | [Into The Deep \- Live](https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Into The Deep \(Live\)](https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB) | 6:28 | 2020-08-26 | 2024-04-19 |
 | [Isn't He \(This Jesus\) \[feat\. Natalie Grant\]](https://open.spotify.com/track/0AiQLGevpr9XOc9kIRjyuB) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\) \[feat\. Natalie Grant\]](https://open.spotify.com/album/0wNGfoY7amKt82BKThdeKt) | 9:50 | 2020-08-26 | 2022-02-23 |
 | [It Is Well \(Live\)](https://open.spotify.com/track/5t0izTLPeWYLiIfHPJbORJ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/6wuUosaTZizPH4t085tNVg) | 6:25 | 2020-08-26 | 2022-07-29 |

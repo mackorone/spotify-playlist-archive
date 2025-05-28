@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "Echoes In The Wind",
+        "url": "https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0"
+      },
+      "artists": [
+        {
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+        },
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137556,
+      "name": "Echoes In The Wind",
+      "url": "https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS"
+    },
+    {
+      "album": {
         "name": "Empires Luck",
         "url": "https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO"
       },
@@ -1744,7 +1766,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 179181,
       "name": "Taciturn",
       "url": "https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1"

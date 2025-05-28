@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 371786,
+  "num_followers": 371893,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Different Story",
+        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
+      },
+      "artists": [
+        {
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 317000,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Different Story",
-        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
-      },
-      "artists": [
-        {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Kingdoms",
+        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
+      },
+      "artists": [
+        {
+          "name": "Enterline",
+          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
+        }
+      ],
+      "duration_ms": 207135,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Not in a Hurry (Reimagined)",
         "url": "https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 254118,
       "name": "Not in a Hurry - Reimagined",
       "url": "https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Kingdoms",
-        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
-      },
-      "artists": [
-        {
-          "name": "Enterline",
-          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
-        }
-      ],
-      "duration_ms": 207135,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Teach Us That One Song",
-        "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "King of Eternity",
         "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 408430,
       "name": "King of Eternity",
       "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Teach Us That One Song",
+        "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Who May Ascend",
-        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
-      },
-      "artists": [
-        {
-          "name": "Cross Church Worship",
-          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Who May Ascend",
-      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Better Plan",
         "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 238152,
       "name": "Better Plan",
       "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Who May Ascend",
+        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
+      },
+      "artists": [
+        {
+          "name": "Cross Church Worship",
+          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Who May Ascend",
+      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Wrong",
-        "url": "https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85"
-      },
-      "artists": [
-        {
-          "name": "Jordan Brown",
-          "url": "https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN"
-        }
-      ],
-      "duration_ms": 301658,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 261886,
       "name": "Before You",
       "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85"
+      },
+      "artists": [
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN"
+        }
+      ],
+      "duration_ms": 301658,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY"
     },
     {
       "added_at": "2024-08-03 00:38:12",

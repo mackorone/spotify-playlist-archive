@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: BG, Gamadinho, Yan, Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,406 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,454 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Quem / Deixa Rolar / Homem Perfeito \- Ao Vivo](https://open.spotify.com/track/28Uap5Z1ln3bzEd61lbZGH) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ), [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Na Pagodeira, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7InArBmaRfYqVlY7oBPvph) | 8:00 |
 | 75 | [Um só sentimento / Na Madrugada / Aqui pra você \- Ao Vivo](https://open.spotify.com/track/2yKkLb5HsVxoCDyoJH2mU5) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Thiago Soares](https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D) | [20 anos da Roda de Samba no Largo da Prainha \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/6njvtcFrFaD1gp7BteB0mN) | 4:29 |
 
-Snapshot ID: `aC/lBQAAAADlwIo7EqsfFguG/eo9lsRY`
+Snapshot ID: `aC/lBQAAAACmddKvdWFyNTIbgwLe1T38`

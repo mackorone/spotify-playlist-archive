@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Anggi Marito, Reneé Rapp, Elliot James Reay, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,580 likes - 121 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,584 likes - 121 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 43 | [Frisco](https://open.spotify.com/track/5cgAh7vXzSLenjobNszFqB) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOD\_i](https://open.spotify.com/album/5H6luqWnHTkwrl30T8D8GD) | 2:50 |
 | 44 | [Jaga Alam](https://open.spotify.com/track/19ZnOMvcfkJ8AoEcVUWJNl) | [Alena Murang](https://open.spotify.com/artist/7fxEcgl9ozJhSXTQf0Y9vq) | [Jaga Alam](https://open.spotify.com/album/4NW92XcfT4yRVvnbxbFIHe) | 3:01 |
 | 45 | [Here](https://open.spotify.com/track/3CY82bx4vWzF7YUe5ZGDTY) | [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [Here](https://open.spotify.com/album/4YEfQZbJgvPyvMoF7Ps3g6) | 2:23 |
-| 46 | [擦肩而过](https://open.spotify.com/track/43KcKOxOeWuUSwHTp00aaF) | [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib), [林心茹](https://open.spotify.com/artist/0IezgwDH0jBW9Ec1gSHJkP) | [擦肩而过](https://open.spotify.com/album/4f4MPico4CyG0UcIgnXpjR) | 4:26 |
+| 46 | [擦肩而过](https://open.spotify.com/track/43KcKOxOeWuUSwHTp00aaF) | [SET](https://open.spotify.com/artist/6Uiw7xfnLYceFEpm5EbU5S), [林心茹](https://open.spotify.com/artist/0IezgwDH0jBW9Ec1gSHJkP) | [擦肩而过](https://open.spotify.com/album/4f4MPico4CyG0UcIgnXpjR) | 4:26 |
 | 47 | [有一盏灯等着我回家](https://open.spotify.com/track/5QOrBXBwepw22K5ZNZSMng) | [蔡瀞萱](https://open.spotify.com/artist/5Wdp9Ri5mJcc7rkK6CgEpP) | [有一盏灯等着我回家](https://open.spotify.com/album/3il3jgl9CZYQmvqtk6b2c6) | 3:27 |
 | 48 | [Left On Read](https://open.spotify.com/track/4aGdf99LAg5zphsfTk1Mp8) | [Hyrul Anuar](https://open.spotify.com/artist/0x293FNzw6n8ecS86MP4ku) | [Left On Read](https://open.spotify.com/album/5M9MJun0Blu5sr7QrJgHPQ) | 3:48 |
 | 49 | [afterglow](https://open.spotify.com/track/2nM7MHQDub8jbRVmORzdoj) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [CODE SWITCH](https://open.spotify.com/album/7a4UjXZdPWfW5c16bj0LRl) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 406 songs - 21 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 406 songs - 21 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -298,8 +298,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 288 | [They All Fall In Love](https://open.spotify.com/track/6NxRD1GOmyufJt65h7Sj20) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Noel d'Amato](https://open.spotify.com/artist/2KfYkNKU4GpQoGLnx96UEo), [Jack Hylton](https://open.spotify.com/artist/4uhvChO03V0DFbltw2UQLf), [Pat O'Malley](https://open.spotify.com/artist/7yQb47ErWeeAwDFbaRqLBf), [Jack Hylton Orchestra](https://open.spotify.com/artist/165lKdYQI3Qa02K9HVRjws) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 3:10 |
 | 289 | [Primitive Man](https://open.spotify.com/track/4mKLfhEp4chd7ZajVR3v68) | [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944) | [Lady With The Torch..\. Still Burning](https://open.spotify.com/album/3hJakDQQBY6moLXfWLVsZa) | 2:47 |
 | 290 | [She's Got That Thing Performed By Uncle Willie](https://open.spotify.com/track/1sWUsrYbmriB1CBgIQguJO) | [John Mcmartin](https://open.spotify.com/artist/6lpPLbDpXX20IEZyluDqxY) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 2:24 |
-| 291 | [Throwing A Ball Tonight Performed By Margaret Lord](https://open.spotify.com/track/5xyh0ZMywaBToAcVXHZIOk) | [Lisa Banes](https://open.spotify.com/artist/0zZeVtohXBLMAqao1y4AeM) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 2:22 |
-| 292 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 |
+| 291 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 |
+| 292 | [Throwing A Ball Tonight Performed By Margaret Lord](https://open.spotify.com/track/5xyh0ZMywaBToAcVXHZIOk) | [Lisa Banes](https://open.spotify.com/artist/0zZeVtohXBLMAqao1y4AeM) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 2:22 |
 | 293 | [The King\-king Bird On The Divi\-divi Tree](https://open.spotify.com/track/7AWtBjITpQ8wu6hxe9ocNj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:44 |
 | 294 | [Sunday Morning Breakfast Time](https://open.spotify.com/track/59v86y4EBb3vlEDkJZBQW9) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:02 |
 | 295 | [Träume heißen du \- I Concentrate on You \- Remastered](https://open.spotify.com/track/5NWgSeLUcp4jDlj2wWMlDO) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Hildegard Knef singt Cole Porter \(Remastered\)](https://open.spotify.com/album/33AGapq36esdBwQwgbFFoL) | 3:28 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 405 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 406 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `AbyegAAAAAA+/VfFShahaICB0fYKM+U4`
+Snapshot ID: `AbykIAAAAABmKGjYM7wa22gtERrs0+Od`

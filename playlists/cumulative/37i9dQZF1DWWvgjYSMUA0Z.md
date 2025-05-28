@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-337 songs - 17 hr 44 min
+340 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,8 @@
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2021-12-22 | 2025-02-19 |
 | [Drishti](https://open.spotify.com/track/1rv5kg8rscXfJppwwXW2oe) | [Indigo](https://open.spotify.com/artist/0fYIsfdNUC9BUwy2XycilE) | [Drishti](https://open.spotify.com/album/47R5a1mzc9h1lsRnaqkhua) | 2:41 | 2024-07-13 |  |
 | [Dynasty](https://open.spotify.com/track/5Ie3qzaZXpR7MLeCN5k2ph) | [Reflowed](https://open.spotify.com/artist/2kYcrynI6pCgHgYdFE4oMK) | [Dynasty](https://open.spotify.com/album/1UnntuIvY26T6Wj7F82W4C) | 3:16 | 2022-07-08 |  |
+| [Earthbound Stillness](https://open.spotify.com/track/6aASNjiUlpPPj9bu9F4p5L) | [Roots Connection](https://open.spotify.com/artist/2x8Ba8WcnKZDy364S3MIcb) | [Earthbound Stillness](https://open.spotify.com/album/2MZOwji5OG2AaSlrbosM0u) | 2:48 | 2025-05-27 |  |
+| [Echoform](https://open.spotify.com/track/2CvWu19xux6LJEpYzahiX8) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Echoform](https://open.spotify.com/album/5xcp2Z5zgn9uX45NSQpsvy) | 3:08 | 2025-05-27 |  |
 | [Emotional Healing](https://open.spotify.com/track/73r7Bj4SU8ZLdjMbtDlkjy) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Emotional Healing](https://open.spotify.com/album/4oigpI299VEBlzpSkSzHN8) | 2:31 | 2022-10-14 | 2023-08-05 |
 | [Emotional Music \(Chakra Balancing\)](https://open.spotify.com/track/4nOyZYW1lFwMeiwF23sB3O) | [Reiki Music](https://open.spotify.com/artist/1MKdS4gCWclRAcVydpTv9T) | [Reiki Music \- Vital Energy Nature Zen Music for Reiki, Qi Gong, Tai Chi, Yoga and Mindfulness Meditation](https://open.spotify.com/album/5JEA9dSY3SccUqniOKsqjz) | 6:42 | 2021-12-22 | 2022-09-15 |
 | [Empty Slate](https://open.spotify.com/track/4WFD4BI69FAqVnc1m7AWX5) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Empty Slate](https://open.spotify.com/album/365tS4BxAZwZinvGaxUJp3) | 2:38 | 2025-02-05 |  |
@@ -134,7 +136,7 @@
 | [Healing Dream 432Hz](https://open.spotify.com/track/4osLFzeuSXFmv0Z1B019bA) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Healing Dream 432Hz](https://open.spotify.com/album/4hinamVXJjHVoQ996xyaO5) | 3:29 | 2024-06-11 | 2025-01-15 |
 | [Healing Energy](https://open.spotify.com/track/4MpPa7WiJ2dXx7uMenOZdU) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Healing Energy](https://open.spotify.com/album/2YOYGhBR5a84AzCYA39cKF) | 3:20 | 2023-03-17 |  |
 | [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 | 2022-09-30 | 2023-07-15 |
-| [Hearing the Harvest](https://open.spotify.com/track/5wReVVGFR9CyeJqVHGjFjV) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 4:02 | 2022-09-20 |  |
+| [Hearing the Harvest](https://open.spotify.com/track/5wReVVGFR9CyeJqVHGjFjV) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 4:02 | 2022-09-20 | 2025-05-28 |
 | [Herbal](https://open.spotify.com/track/4fTcPTKiukkkS8VGX2UwkZ) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Herbal Restore](https://open.spotify.com/album/0ENwRgeuFGF57Txl2bYOWP) | 2:53 | 2024-07-13 |  |
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2021-12-22 | 2025-01-15 |
 | [Hope](https://open.spotify.com/track/65jM7hkw0Nm0fJMiVMYw5b) | [Inner Soundscape](https://open.spotify.com/artist/4kzC9vZGmg6KYDHlI7f3ce), [Jonas Sjöblom](https://open.spotify.com/artist/3jglZKe9rgIy3nielm7ORi) | [Hope](https://open.spotify.com/album/1szdQT7PlIeZaZQ06MkKP8) | 3:48 | 2024-07-13 | 2024-12-20 |
@@ -150,7 +152,7 @@
 | [Inner Sanctuary](https://open.spotify.com/track/2JeWYGes9TZw0kpdbAryUi) | [Emerald Echoes](https://open.spotify.com/artist/5CUinaptB4WfiCrpv5WVpP) | [Inner Sanctuary](https://open.spotify.com/album/56j9lBApRqvFSJXTQdMCex) | 3:12 | 2024-05-11 |  |
 | [Inner Space for Peace](https://open.spotify.com/track/7mkaRgpeYYcimZrMYie43t) | [Celeste](https://open.spotify.com/artist/0q2mtwyZHFIRvwqiWpqSc8) | [Inner Space for Peace](https://open.spotify.com/album/52Gm03JmQ4l0XoIjkiJy2x) | 3:08 | 2024-04-07 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-02-04 | 2024-08-22 |
-| [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 |  |
+| [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 | 2025-05-28 |
 | [Interlock](https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Interlock](https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m) | 2:36 | 2024-12-19 |  |
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 | 2024-05-11 |
 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 | 2023-01-13 | 2023-04-14 |
@@ -177,10 +179,10 @@
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2021-12-22 | 2025-02-06 |
 | [Midnight Dreams](https://open.spotify.com/track/7HJ63Qn9DkGH7EbtgnvAIJ) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Midnight Dreams](https://open.spotify.com/album/0CFgufSpMBSyNGF337JT6c) | 2:51 | 2024-08-21 |  |
 | [Moons of Jupiter](https://open.spotify.com/track/69cl70j4te3QGwUp9BWutl) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Moons of Jupiter](https://open.spotify.com/album/5Cufy9sV3AqzNe5uEwafsc) | 2:53 | 2024-05-11 |  |
-| [Morning Heart in F](https://open.spotify.com/track/2xDF4VTiiJMwFqJiv73aSk) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Morning Heart in F](https://open.spotify.com/album/7jMHT5uFsBmg9dOcNfhpkw) | 3:37 | 2024-05-11 |  |
+| [Morning Heart in F](https://open.spotify.com/track/2xDF4VTiiJMwFqJiv73aSk) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Morning Heart in F](https://open.spotify.com/album/7jMHT5uFsBmg9dOcNfhpkw) | 3:37 | 2024-05-11 | 2025-05-28 |
 | [Moving waves](https://open.spotify.com/track/2TCPFJrTCyLOzJpHCTVjC8) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Moving waves](https://open.spotify.com/album/3tIKxI8o0LKha4oquMr93K) | 2:04 | 2024-05-11 |  |
 | [My Life](https://open.spotify.com/track/75ovDWR2daEUvICb8585dy) | [Kenio Fuke](https://open.spotify.com/artist/7uE6tFEp50CS9YaQVKkVGh) | [Stillness](https://open.spotify.com/album/3W1ghlO1UtrBU4l7jGFhSw) | 5:03 | 2024-05-11 |  |
-| [Mystique Garden](https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Mystique Garden](https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL) | 3:08 | 2022-07-08 |  |
+| [Mystique Garden](https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Mystique Garden](https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL) | 3:08 | 2022-07-08 | 2025-05-28 |
 | [Nada Más](https://open.spotify.com/track/7w9Lh7UjwwcF5H3lkIEQg0) | [Abel de Paula](https://open.spotify.com/artist/0D7gbspnUTEMXhKGUz6jJ7) | [Nada Más](https://open.spotify.com/album/7sGTpsv4C3LsSFrPk8LiY2) | 2:43 | 2024-01-30 |  |
 | [Naigma](https://open.spotify.com/track/1tdmIgIyr5HJwHljh0WccJ) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Naigma](https://open.spotify.com/album/0Kr4QJ5RDIXB2r07xjdPst) | 3:22 | 2025-03-19 |  |
 | [Namaste](https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Namaste](https://open.spotify.com/album/2HBModmTCfZew2Z2UYxiQ9) | 2:57 | 2021-12-22 | 2025-02-19 |
@@ -330,6 +332,7 @@
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2021-12-22 | 2023-07-29 |
 | [Upacāra](https://open.spotify.com/track/3a3t7X0PgYf1VHRWLz5dRx) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Upacāra](https://open.spotify.com/album/2dJJS3ttvs73KgJOb1NBLz) | 3:08 | 2024-05-11 |  |
 | [Variable Star](https://open.spotify.com/track/5Gx0ZadnGMAsFsw1QCtfAF) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Variable Star](https://open.spotify.com/album/7jjuZCgfQX4jlwoRkMtYmu) | 2:12 | 2025-02-05 |  |
+| [Veil of Dreams](https://open.spotify.com/track/2muQcn1dfdJMx8TC37GO3H) | [Matsyendrasana](https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m) | [Veil of Dreams](https://open.spotify.com/album/1QEvrpHQB9ZjQBKG280C9h) | 3:07 | 2025-05-27 |  |
 | [Velvetine](https://open.spotify.com/track/4840LfK9NqJAwfFTxJIrz2) | [Goran Solkjær](https://open.spotify.com/artist/4TS76DvkB16Zk3uoOTgByQ) | [Velvetine](https://open.spotify.com/album/1BD35jazKq9rYZlKhoM7xM) | 3:45 | 2021-12-22 | 2024-09-06 |
 | [Victory Peace](https://open.spotify.com/track/3RvdGK2bdBKwZYDTt1wt76) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Victory Peace](https://open.spotify.com/album/2PHtUyBkvg98qYKlDtfpAK) | 2:41 | 2024-07-13 | 2024-10-19 |
 | [Vision](https://open.spotify.com/track/1t9XNkE62Ofl1yfvEBh7JP) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Vision](https://open.spotify.com/album/4gPtTnoqsprT6JfaMP4Dnu) | 2:46 | 2024-05-11 | 2025-03-08 |

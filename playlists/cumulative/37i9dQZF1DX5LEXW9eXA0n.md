@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 윤민수 & 이예준\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: IU\(아이유\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,481 songs - 3 day 23 hr 56 min
+1,483 songs - 4 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [A Shining Day](https://open.spotify.com/track/7K5uJR4gWSUuC6fjiuQfCr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Shining Day](https://open.spotify.com/album/3KXP1SNW4ZHn9LNy4hyBBF) | 2:58 | 2023-05-29 | 2023-10-20 |
 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-27 | 2023-03-28 |
 | [A Song For You](https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [A Song For You](https://open.spotify.com/album/7JA7N27T4oTQpFbaHCmZow) | 4:55 | 2024-12-09 | 2025-05-14 |
+| [A Thousand Reasons](https://open.spotify.com/track/0reriCJCzwM8GBFN6HM3gv) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Second Shot at Love, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4Qogl8QWCZhN3E4BYtvosl) | 3:39 | 2025-05-27 |  |
 | [A very personal story](https://open.spotify.com/track/3PWyWdzpWOfBmH7R5moC8O) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A very personal story](https://open.spotify.com/album/3oO0sPdkc17C9QsrvsUrxR) | 3:23 | 2023-11-15 | 2024-05-18 |
 | [A Way To Forget](https://open.spotify.com/track/19DyfJxGbf8iFTHnx4RtfW) | [Giryeon](https://open.spotify.com/artist/019xuaJPwSE0VLLJzcO8K6) | [Our Last Day](https://open.spotify.com/album/0NXk8DUNdmuF1AiEgQAV4X) | 3:38 | 2023-10-20 | 2023-11-16 |
 | [About all love](https://open.spotify.com/track/0x6X6hV1taDYGOhkBLuoqS) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [About all love](https://open.spotify.com/album/1IV3TxNNJgcnE6nlZycxx6) | 3:45 | 2023-10-20 | 2023-12-14 |
@@ -229,7 +230,7 @@
 | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/track/1tQ7LxGCwvAYFKsZZhBRZd) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/album/1QzfVa9kZIc6PFvpIwtxFS) | 3:16 | 2023-11-02 | 2024-02-02 |
 | [Counting Days](https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Counting Days](https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc) | 3:56 | 2024-06-14 | 2025-03-13 |
 | [Counting Our Kisses](https://open.spotify.com/track/0P5KS6WhrZFEMeCkDMQ4Cb) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Counting Our Kisses](https://open.spotify.com/album/1SFd94O7cyapLA9CUKPhn4) | 4:24 | 2025-04-22 |  |
-| [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-03-26 |  |
+| [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-03-26 | 2025-05-28 |
 | [Coward](https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Coward](https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1) | 4:18 | 2025-03-13 |  |
 | [Crush on you](https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Crush on you](https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw) | 2:55 | 2023-09-14 | 2023-11-03 |
 | [Curiosity](https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Curiosity](https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt) | 3:24 | 2023-12-21 | 2024-02-16 |
@@ -864,6 +865,7 @@
 | [Nameless](https://open.spotify.com/track/43DGpdzL6un8gtOVbyRsld) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [Jang Hye\-Jin](https://open.spotify.com/artist/2vG3ydmgAksU2M1qIE89Bo) | [Nameless](https://open.spotify.com/album/6fA8MmZ0GQO8RP0zsX85gb) | 4:43 | 2024-10-14 | 2025-03-05 |
 | [Natural Sorrow](https://open.spotify.com/track/5ADgSqZx39JVjG0siBRncL) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [After\. 1st](https://open.spotify.com/album/1zDXYgsyupkTZQj3W9GFQP) | 4:15 | 2022-03-31 | 2022-04-09 |
 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-14 | 2023-08-25 |
+| [Never Ending Story](https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:44 | 2025-05-27 |  |
 | [Never let you go](https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Never let you go](https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc) | 4:04 | 2021-12-20 | 2022-07-02 |
 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-26 |  |
 | [Night and Day](https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 | 2023-11-15 | 2024-03-16 |
@@ -952,7 +954,7 @@
 | [Phantom Pain](https://open.spotify.com/track/2DFxgbXJzTe8P7DJ5wjDeD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:38 | 2022-03-29 | 2022-04-14 |
 | [Pieces of You](https://open.spotify.com/track/2JAK4EVBo5hkj7u9Ed1JuX) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [\[Pieces of \_\]](https://open.spotify.com/album/1Q7d6j21ErInY0s4guwJUx) | 3:42 | 2022-11-16 | 2023-01-21 |
 | [Plant](https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb) | 3:27 | 2021-12-23 | 2022-07-04 |
-| [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 |  |
+| [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-05-28 |
 | [Please](https://open.spotify.com/track/4YVTnGm2zKcfeQQg5K5N45) | [Fil](https://open.spotify.com/artist/7m8uiaaNYL1PY7zRCfnLgU) | [Please](https://open.spotify.com/album/50lF4DUf7JS2r3Vq10m4BW) | 3:53 | 2023-11-02 | 2024-02-02 |
 | [Please](https://open.spotify.com/track/4HQfCVd0qzkFhk5pVVaau3) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Behind you touch OST Part 7](https://open.spotify.com/album/0IIYULQmzQs1sNIPTH1Y3h) | 3:56 | 2023-10-20 | 2023-11-16 |
 | [Please Don't Cry](https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5) | 3:55 | 2021-12-23 | 2022-07-08 |

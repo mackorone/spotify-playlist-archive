@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Daira,  Arya Salvi and other exciting artists.<br/>Cover : Daira
 
-1,057 songs - 2 day 9 hr 41 min
+1,058 songs - 2 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Noor](https://open.spotify.com/track/0og6yQkdya4bsYnhshXVvV) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Noor](https://open.spotify.com/album/2AjN4gjLFrNFmPMys0ZjDC) | 2:34 | 2023-11-10 | 2023-12-09 |
 | [Noor](https://open.spotify.com/track/1Q36B0rYq3m2CEqESn5Q0D) | [Deepali Sathe](https://open.spotify.com/artist/3cGXRvJBjBJ2Uz01Tzh8kI), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Noor](https://open.spotify.com/album/0k6lT1WZYNjnFwxQIaxXq8) | 2:52 | 2024-03-15 | 2024-04-27 |
 | [O Baalam](https://open.spotify.com/track/6mmysz9VDxzdzjZhFhxGMK) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Vedang Gaikwad](https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi), [Himalayan Harmonies](https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS) | [Harvest](https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI) | 3:09 | 2024-10-11 | 2024-11-23 |
+| [O Maaa](https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L) | [Vinit Katariya](https://open.spotify.com/artist/23uaAA0nW31ZgSWg7DhctP), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sarthak Hichkad](https://open.spotify.com/artist/59GrJmVi5YwyLJQIV0Cabl) | [O Maaa](https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ) | 3:00 | 2025-05-23 |  |
 | [O Meri Premika](https://open.spotify.com/track/1JOpVE7sWTH9JcgzXmakQf) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [O Meri Premika](https://open.spotify.com/album/59pyLJfCpjq1PdIB1USX8F) | 4:53 | 2023-09-29 | 2023-10-29 |
 | [O Piya](https://open.spotify.com/track/1KkRWq9CYNSiE6bRlmlHFB) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [O Piya](https://open.spotify.com/album/3BG5oKUAYWvOY9PxS1B9WS) | 2:52 | 2023-11-10 | 2024-01-06 |
 | [O Re Saavan](https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [O Re Saavan](https://open.spotify.com/album/6PjAaPH6Fg68TjnSvCHK9I) | 2:38 | 2024-02-23 | 2024-07-27 |
@@ -872,7 +873,7 @@
 | [Shukr Hai](https://open.spotify.com/track/0SuPG5pH4OTjfypkrZPc6C) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T), [Rishi Pathak](https://open.spotify.com/artist/70ay8w6FiSddbDt3g8yFxM) | [Shukr Hai](https://open.spotify.com/album/3fGqNmbwXz0C9BGPrFc8P1) | 3:38 | 2024-05-10 | 2024-06-22 |
 | [Sidra](https://open.spotify.com/track/5fUqfhpLXTgop4RItQTJBI) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Sidra](https://open.spotify.com/album/3DYn2E7wgjcYeIYA47Q6mH) | 2:57 | 2024-11-29 | 2024-12-21 |
 | [Silvatein](https://open.spotify.com/track/5OeYzvWGIBIVDImJkgooY3) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [SarpDansh](https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN) | [Silvatein](https://open.spotify.com/album/7q6vl20OYi24v8aOwCJKee) | 3:00 | 2023-11-17 | 2023-12-16 |
-| [Simti](https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Simti](https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3) | 2:45 | 2025-03-07 |  |
+| [Simti](https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Simti](https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3) | 2:45 | 2025-03-07 | 2025-05-28 |
 | [Sirfira](https://open.spotify.com/track/4EtsQ4vcaGs13NFFLNS6yK) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Sirfira](https://open.spotify.com/album/4tH5BHPomSPEGxjxKTPY8C) | 2:44 | 2023-08-18 | 2023-09-16 |
 | [Small Victories](https://open.spotify.com/track/0Bd7yruY4r7ndEcPkgkVgp) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Small Victories](https://open.spotify.com/album/2b1zLoAlI0DBKQSHh1OGBn) | 3:48 | 2024-11-08 | 2024-11-30 |
 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 | 2023-04-14 | 2023-06-30 |

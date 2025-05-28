@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 212454,
       "name": "EL INCA",
       "url": "https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7"
@@ -1615,6 +1615,28 @@
     },
     {
       "album": {
+        "name": "Malo H (Remix)",
+        "url": "https://open.spotify.com/album/5Z7a7ImvcLHz61suUaIQkJ"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Leandro Santos",
+          "url": "https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Malo H - Remix",
+      "url": "https://open.spotify.com/track/4tAxviSnEboFWHkvIyRo88"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e"
       },
@@ -1890,6 +1912,28 @@
       "duration_ms": 195574,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/6ggVSxqawOpYsjsyOYKtGC"
+    },
+    {
+      "album": {
+        "name": "Parche Tranqui",
+        "url": "https://open.spotify.com/album/62pPVP5bcY133KxtFPw8zx"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221090,
+      "name": "Parche Tranqui",
+      "url": "https://open.spotify.com/track/2ROj8GoI45RQouYomaLDTm"
     },
     {
       "album": {
@@ -2402,7 +2446,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 175480,
       "name": "Tyqc",
       "url": "https://open.spotify.com/track/4IX9LPTkilIwaVKhCjRofn"

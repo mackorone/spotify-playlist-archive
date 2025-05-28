@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI"
+      },
+      "artists": [
+        {
+          "name": "majiko",
+          "url": "https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215633,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e"
+    },
+    {
+      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/5nWdcQx3A75Z9E8BLPd1WY"
       },

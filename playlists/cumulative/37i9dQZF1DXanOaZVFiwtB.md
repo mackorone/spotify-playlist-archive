@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-88 songs - 6 hr 14 min
+89 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 | 2022-04-10 |  |
 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 | 2022-04-10 |  |
 | [コジコジ銀座](https://open.spotify.com/track/01zzfKPpN3CnJy4jNtsPQm) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [JAILHOUSE HITS](https://open.spotify.com/album/3SuGZOwkctOdagWobz29SA) | 4:56 | 2022-04-10 |  |
+| [バリバリ最強No.1](https://open.spotify.com/track/13AxywtjydRCxwtfY0pmua) | [FEEL SO BAD](https://open.spotify.com/artist/7cNhLqaTq5hsTHLlbGnbhW) | [FEEL SO BEST](https://open.spotify.com/album/0sTnywAkkmX1HT4ZfOOcsk) | 5:15 | 2025-05-22 |  |
 | [ブルーウォーター](https://open.spotify.com/track/1F04e0KDJw0MjCotiTsrNJ) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [森川美穂ベストコレクション Be Free](https://open.spotify.com/album/2GsqsWkdHJWNvz3kkM4CRC) | 4:30 | 2022-05-27 | 2024-04-19 |
 | [ブルーウォーター](https://open.spotify.com/track/6V9J5JmJC5kki2m7e2X9HG) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [森川美穂ベストコレクション Be Free](https://open.spotify.com/album/32v1HLUwrJvtWeHqXa3PhZ) | 4:30 | 2022-04-10 |  |
 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 | 2022-04-10 |  |

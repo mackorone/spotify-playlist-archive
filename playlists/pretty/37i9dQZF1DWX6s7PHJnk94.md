@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,489 likes - 40 songs - 53 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,489 likes - 39 songs - 51 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 | 35 | [Väva vadmal](https://open.spotify.com/track/52uvtsxNp3esKd5NKflkMh) | [Egon Kjerrman med kör och orkester](https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD) | [Midsommardanser & lekar](https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom) | 0:52 |
 | 36 | [Du tycker du är vacker](https://open.spotify.com/track/62ZDZdL7ahEuczC4j117zU) | [Egon Kjerrman med kör och orkester](https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD) | [Midsommardanser & lekar](https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom) | 0:33 |
 | 37 | [Klara solen på himmelen den lyser](https://open.spotify.com/track/1WRCHXGxLEqhUfxN6gk2sF) | [Egon Kjerrman med kör och orkester](https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD) | [Midsommardanser & lekar](https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom) | 1:02 |
-| 38 | [Klappa händerna](https://open.spotify.com/track/3Nz2BvdkZn7dcXoqgxWy1P) | [Favorit musikanterna](https://open.spotify.com/artist/77vt7OCAVQIqyWYar0FR1x) | [Midsommardans kring stången](https://open.spotify.com/album/38HzvxbaNLvKQTU3qPwrEu) | 1:52 |
-| 39 | [Gossen skulle aka](https://open.spotify.com/track/3KQ8Beh0QbZ28fJoWYocKa) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:43 |
-| 40 | [Viljen i veta och viljen i förstå](https://open.spotify.com/track/5xq6twDsCl77iS6h9K7NKM) | [Egon Kjerrman med kör och orkester](https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD) | [Midsommardanser & lekar](https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom) | 1:18 |
+| 38 | [Gossen skulle aka](https://open.spotify.com/track/3KQ8Beh0QbZ28fJoWYocKa) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:43 |
+| 39 | [Viljen i veta och viljen i förstå](https://open.spotify.com/track/5xq6twDsCl77iS6h9K7NKM) | [Egon Kjerrman med kör och orkester](https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD) | [Midsommardanser & lekar](https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom) | 1:18 |
 
 Snapshot ID: `ZgF1ZwAAAACiBk4jwLc+x8eTF9V9KCsq`

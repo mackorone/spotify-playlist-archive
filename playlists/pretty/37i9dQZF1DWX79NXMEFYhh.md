@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > Salamat sa inyo, A’TIN, nakalaya na si Stell mula sa pagiging bato!
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,606 likes - 61 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,673 likes - 61 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

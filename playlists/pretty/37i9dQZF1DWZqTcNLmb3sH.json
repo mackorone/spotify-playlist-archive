@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sarala Subbarao",
-  "num_followers": 62994,
+  "num_followers": 62998,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDQEMwAAAAAppsWlWXfjYhgOIYMMW0hH",
+  "snapshot_id": "aDW2cgAAAACbhsHdsx4Jc53YImertgU1",
   "tracks": [
     {
       "added_at": "2025-05-20 08:58:55",
@@ -83,6 +83,30 @@
       "duration_ms": 258834,
       "name": "Husharo Ley (From \"FireFly\")",
       "url": "https://open.spotify.com/track/1ymiLd7gLx8DoWWLOHZYqA"
+    },
+    {
+      "added_at": "2025-05-27 12:56:18",
+      "album": {
+        "name": "Aavarisu (From \"Maayavi\")",
+        "url": "https://open.spotify.com/album/5jhS8CwWwPc3ihc0qHSYMo"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Agsthya Santhosh",
+          "url": "https://open.spotify.com/artist/01llkKtpYeJvgiKlsIRKA6"
+        },
+        {
+          "name": "Anand Kmsaagara",
+          "url": "https://open.spotify.com/artist/5IrEnqLSW76SqmnH3n2GKL"
+        }
+      ],
+      "duration_ms": 224657,
+      "name": "Aavarisu (From \"Maayavi\")",
+      "url": "https://open.spotify.com/track/2o6YKrhAGW6Hyqvu8r59qI"
     },
     {
       "added_at": "2025-05-20 09:09:13",
@@ -1799,30 +1823,6 @@
       "duration_ms": 220933,
       "name": "Mungaru Maleyalli - From \"Andondittu Kaala\"",
       "url": "https://open.spotify.com/track/5jXdW5vBjwKr76oBprssJQ"
-    },
-    {
-      "added_at": "2025-02-17 07:32:54",
-      "album": {
-        "name": "Nee Bandu Ninthey (From \"Yuddhakaanda\")",
-        "url": "https://open.spotify.com/album/1XcQ5Fjs9VrTc1pkqnNex2"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Pavan Bhat",
-          "url": "https://open.spotify.com/artist/5LrMAdiDw5Z1vv0J8Ik42T"
-        },
-        {
-          "name": "K B Praveen",
-          "url": "https://open.spotify.com/artist/5l9ab0LqM6TZXAxqUXQgur"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nee Bandu Ninthey - From \"Yuddhakaanda\"",
-      "url": "https://open.spotify.com/track/7pKWwuy0Gb2xIH6Pw4JCxF"
     },
     {
       "added_at": "2025-01-31 09:27:52",

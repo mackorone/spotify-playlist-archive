@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-899 songs - 2 day 11 hr 17 min
+900 songs - 2 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [ASH feat\. Vaundy](https://open.spotify.com/track/0BOr48Q9eVUuOKIQ5oZzqO) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [NEW GRAVITY](https://open.spotify.com/album/79QtwEuQ7BEfRENGdwej2I) | 3:48 | 2023-11-14 | 2024-01-15 |
 | [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 | 2022-07-27 | 2022-09-28 |
 | [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 | 2022-07-27 | 2022-07-30 |
-| [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 | 2022-05-24 |  |
+| [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 | 2022-05-24 | 2025-05-28 |
 | [Awesome Day](https://open.spotify.com/track/0qqmOwDSPhH1PNHv72al3N) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Awesome Day](https://open.spotify.com/album/6gcG7112FkoCEeCN6ljP6T) | 3:18 | 2023-02-28 | 2023-03-25 |
 | [Awesome Day](https://open.spotify.com/track/5XNEnGFGKjeWgaVRvP4wq8) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Awesome Day](https://open.spotify.com/album/0YiAhoEt7KwUWIwUkVqkWT) | 3:18 | 2023-02-28 | 2023-03-02 |
 | [Awesome Day](https://open.spotify.com/track/7hK9M2S32FvClNYNxKU3YP) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Junction Pop](https://open.spotify.com/album/6Fm1I5GiQwoxjYTXPZS4f9) | 3:18 | 2023-03-21 | 2023-04-05 |
@@ -175,7 +175,7 @@
 | [Feel Your Body](https://open.spotify.com/track/0lLsV3rbSYZFFdWklgSRgF) | [NITE RIDERS](https://open.spotify.com/artist/23uVl1SWaq5w1mpnj9vFsB) | [Feel Your Body](https://open.spotify.com/album/3Svnrhpm8IKiaw5eDdttgz) | 4:24 | 2022-12-27 | 2023-01-11 |
 | [FLACTAL](https://open.spotify.com/track/0OxtwA0COQaKppo54YwFn5) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Let's Go! DSDC!](https://open.spotify.com/album/4TzvYfWz8YKSKBMK82XScS) | 3:23 | 2022-05-24 | 2022-09-28 |
 | [Flannel](https://open.spotify.com/track/6NIpHfEzWU9MGQddGBNGq1) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [Flannel](https://open.spotify.com/album/52DpZlVpQrktxXRlM3X7f1) | 3:31 | 2022-07-14 | 2022-07-17 |
-| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 |  |
+| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 | 2025-05-28 |
 | [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 | 2023-08-01 | 2023-08-16 |
 | [FLOWERS](https://open.spotify.com/track/2EiA587apVmlS9wbch4vti) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [FLOWERS](https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC) | 3:47 | 2022-05-28 | 2023-04-05 |
 | [Fly By Day](https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:33 | 2023-07-18 |  |
@@ -780,7 +780,7 @@
 | [夏のクラクション](https://open.spotify.com/track/7LtRFZe9aaqynkfGJrKhSX) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [夏のクラクション](https://open.spotify.com/album/2AwdfBODfo1V9CI5ueRG3d) | 3:39 | 2022-12-06 | 2023-02-09 |
 | [夏のクラクション feat\. 比屋定篤子](https://open.spotify.com/track/39wTz92UaUNta2Qd3xFLbP) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [比屋定篤子](https://open.spotify.com/artist/6OQ8tHKQiFg8bxXzOJhhjg) | [CITY POP AVENUE](https://open.spotify.com/album/6DgXT3OBGEWSWUAPOAKunj) | 4:18 | 2023-06-20 | 2023-06-28 |
 | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/album/43QPrf7HouyvP7W1Aw7XCD) | 4:14 | 2023-04-25 | 2023-04-27 |
-| [夏夜のマジック](https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME TOWN ～Cover Songs～](https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi) | 5:04 | 2022-05-24 | 2025-05-27 |
+| [夏夜のマジック](https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME TOWN ～Cover Songs～](https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi) | 5:04 | 2022-05-24 |  |
 | [夕凪通信 \- 2023 Remix](https://open.spotify.com/track/7ArA09LFsVi9Mcfs43XJQW) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [夕凪通信 2023 Remix](https://open.spotify.com/album/4DnhmAGIgwpv8NaX1FGlKe) | 4:39 | 2023-09-19 | 2023-09-21 |
 | [夕暮れ](https://open.spotify.com/track/1H0e4AwymSv4yRalyovdI0) | [The Sunnys](https://open.spotify.com/artist/1VISQcJOpNyWydQfERSjJ2) | [夕暮れ](https://open.spotify.com/album/4irtZ5UbGFW8WkU8TvfPGf) | 4:17 | 2022-08-23 | 2022-08-31 |
 | [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 | 2023-05-17 |
@@ -861,6 +861,7 @@
 | [白無垢](https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [白無垢](https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB) | 3:26 | 2023-11-10 |  |
 | [真夏のスキャット \- 2022version](https://open.spotify.com/track/05ua1KAx7AcW7NUNd3F9He) | [Gomes The Hitman](https://open.spotify.com/artist/3PBXjLwd5K3SfNgKcX1I2X) | [slo\-mo replay](https://open.spotify.com/album/5xLIXu1M862sXdSj3VI0ny) | 3:29 | 2022-07-26 | 2022-07-28 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-09 | 2025-02-20 |
+| [真夏の瞬間](https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [真夏の瞬間](https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d) | 3:53 | 2025-05-27 |  |
 | [真夜中のジョーク \(feat\. Natsu Summer\)](https://open.spotify.com/track/3vfjbn4TTW4DZGKbw8r1rz) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [真夜中のジョーク \(feat\. Natsu Summer\)](https://open.spotify.com/album/1XXvF6LdZHlwRxk4XPqiTH) | 4:54 | 2024-07-30 | 2025-03-03 |
 | [真夜中のドア\~stay with me \- 2023 mix](https://open.spotify.com/track/1sfhFHNgn4R4Lxqlkup47k) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 mix\)](https://open.spotify.com/album/3fA5gpK2BflSMg7pMjzAFM) | 5:10 | 2023-06-20 | 2023-06-22 |
 | [真珠のピアス](https://open.spotify.com/track/5hkG4VCXTufcT05JSZqyRg) | [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 5:36 | 2023-12-19 | 2024-04-26 |

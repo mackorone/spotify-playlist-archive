@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-216 songs - 9 hr 47 min
+217 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2024-08-01 | 2024-08-13 |
 | [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 |  |
 | [Bei Nacht](https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Bei Nacht](https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B) | 2:54 | 2024-06-28 | 2025-05-22 |
-| [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 |  |
+| [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 | 2025-05-28 |
 | [Beverly Hills](https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Beverly Hills](https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL) | 2:07 | 2024-06-28 |  |
 | [Bis ins Grab](https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [Bis ins Grab](https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP) | 2:26 | 2024-06-28 | 2024-10-25 |
 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 | 2024-06-28 | 2024-11-26 |
@@ -102,6 +102,7 @@
 | [Irgendwas klopft](https://open.spotify.com/track/4IjCVfzb1JQJ8KKkhXllVl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Irgendwas klopft](https://open.spotify.com/album/3sFYYuRzNlpUH3Q6ZcZZhD) | 2:06 | 2024-06-28 | 2024-10-25 |
 | [Jasmin](https://open.spotify.com/track/6rjpIgtN4FOujp5DbZZnCh) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Jasmin](https://open.spotify.com/album/7KWdJbywMgQKrRiMq4YCAm) | 2:37 | 2025-02-03 |  |
 | [KAPUTTE NIKES](https://open.spotify.com/track/0PRn0wppJozInSVkjEpK8Z) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [KAPUTTE NIKES](https://open.spotify.com/album/57tkUG6UbznOuHYz4GukL2) | 2:48 | 2024-06-28 | 2024-08-29 |
+| [Kein Auge zu](https://open.spotify.com/track/16J16IGdl3TJrIibIUdM91) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Kein Auge zu](https://open.spotify.com/album/72B7l6QPzUkbS5vRpks9Mg) | 2:31 | 2025-05-27 |  |
 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 | 2024-06-28 |  |
 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 | 2025-01-16 | 2025-03-21 |
 | [Kind](https://open.spotify.com/track/4kiW0MeoisXxwQ4przGEF1) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Kind](https://open.spotify.com/album/7HB6s9e5ZXDu0LXbgliSXl) | 2:25 | 2025-01-20 | 2025-02-21 |

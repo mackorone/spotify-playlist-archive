@@ -2,7 +2,7 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Israel & New Breed
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Marcos Witt
 
 753 songs - 2 day 11 hr 14 min
 

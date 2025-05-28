@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/2OBeOZJ1BHtIj1JEPC88dW"
+      },
+      "artists": [
+        {
+          "name": "rshand",
+          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/1vukPZMZWg6BcdT3xShfmY"
+    },
+    {
+      "album": {
         "name": "AF1",
         "url": "https://open.spotify.com/album/6gRSAPkjUctZmxPlG6LN7F"
       },

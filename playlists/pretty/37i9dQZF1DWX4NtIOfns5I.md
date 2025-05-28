@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Brenn! on the cover ❊
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,699 likes - 126 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,723 likes - 126 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

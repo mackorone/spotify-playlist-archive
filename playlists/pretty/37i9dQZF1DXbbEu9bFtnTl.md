@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 AKRILA en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,627 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,638 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 56 | [NIÑA MEDUSA](https://open.spotify.com/track/2yKDtRgT2tyuYJC8Ym4zpI) | [W.A.H.](https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN), [2002 MOBB](https://open.spotify.com/artist/7INKwGoZZHSsLAq9sQjVrP) | [NIÑA MEDUSA](https://open.spotify.com/album/3eHxEknCRZvV2jOeTejTFr) | 3:12 |
 | 57 | [DRAMATIKA!](https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [DRAMATIKA!](https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg) | 1:47 |
 | 58 | [narcisista artificial](https://open.spotify.com/track/5zYvn7bjZvqXg64t6c1XYI) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [narcisista artificial](https://open.spotify.com/album/4Ik4Aoa2UgBoRPTY5SdfyE) | 1:36 |
-| 59 | [aunque digas que lo sientes \(og\)](https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Yakashi X](https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ) | [aunque digas que lo sientes \(og\)](https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML) | 1:55 |
+| 59 | [aunque digas que lo sientes \(og\)](https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [yakashi](https://open.spotify.com/artist/5dpxMhY3sbmbJmFsLKCTND) | [aunque digas que lo sientes \(og\)](https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML) | 1:55 |
 | 60 | [Trampa](https://open.spotify.com/track/0nPfUqitTzEsgSOG5Y0l3m) | [Rufus Kluge](https://open.spotify.com/artist/5jsbg1J3E1AETPgaCDuLWH), [Cross MX](https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN), [YG Greed](https://open.spotify.com/artist/5Gvfq6ZtxvvVG35S1N5Stn) | [Trampa](https://open.spotify.com/album/623bhHJ2Car37LNluqQZxb) | 3:58 |
 | 61 | [LokO d amOor](https://open.spotify.com/track/4brP3sMu279Ym4gwSgilWn) | [Jota Ce](https://open.spotify.com/artist/2pCTP41trGs1HpF3HdyKxW), [Miko.666](https://open.spotify.com/artist/7wun6kOabfdY0WjXVm6aZY) | [LokO d amOor](https://open.spotify.com/album/1Nmrwk4EMuvBw2vPGGNQEv) | 2:36 |
 | 62 | [CIELO](https://open.spotify.com/track/0OKlLkNL565cpOdogA0ZuM) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [CIELO](https://open.spotify.com/album/6LI2QWSO7ZhHgCcL655vDX) | 2:54 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 80 | [lover!](https://open.spotify.com/track/1z9NbBvShbkgCeUKYmG1mI) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [lover!](https://open.spotify.com/album/42pHzOW5y6NWnyjYGj6yii) | 1:18 |
 | 81 | [Zaza](https://open.spotify.com/track/4fJcFwMHdHtPs56ggoVaBQ) | [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Zaza](https://open.spotify.com/album/68WYXqf83hIkd2HupofMfI) | 1:50 |
 | 82 | [2 Love Samurai](https://open.spotify.com/track/1z2fgaDhNZsLjPAtegWyk8) | [bbonsai!!!](https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj), [Rxven](https://open.spotify.com/artist/6Trdbxtu1FvtzRXgs6rqed), [Carzé](https://open.spotify.com/artist/7aW32KH3dAEo6QW6IrcdPP) | [2 Love Samurai](https://open.spotify.com/album/5r5wR34gyvCCANQJVon3hl) | 2:58 |
-| 83 | [scum's wish, Pt\. 2](https://open.spotify.com/track/5eQOeqAM9Lj4BBjkavMRcu) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Yakashi X](https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ) | [scum's wish, Pt\. 2](https://open.spotify.com/album/7MjIbahB0MZhn2NmTQMB5Q) | 2:56 |
+| 83 | [scum's wish, Pt\. 2](https://open.spotify.com/track/5eQOeqAM9Lj4BBjkavMRcu) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [yakashi](https://open.spotify.com/artist/5dpxMhY3sbmbJmFsLKCTND) | [scum's wish, Pt\. 2](https://open.spotify.com/album/7MjIbahB0MZhn2NmTQMB5Q) | 2:56 |
 | 84 | [No Me Mires](https://open.spotify.com/track/4PJCsKfx7lSzecuwT4fl65) | [\_bip0lar2.0](https://open.spotify.com/artist/4QXpTzTGClxGluyJA8Y74j), [Borax](https://open.spotify.com/artist/1isabqoV59MJaC3GyQ1Pdx), [Yopo](https://open.spotify.com/artist/0us8rw02qYWVQ4x5oY7qTr) | [No Me Mires](https://open.spotify.com/album/6wngNB2FwoKhriuFBm27LV) | 2:42 |
 | 85 | [Re4](https://open.spotify.com/track/0SFV1XlBrBtiCXFi9WkXhD) | [Young Aleexx](https://open.spotify.com/artist/0EJnKc0HF9dtK9u9n5n5tL), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [LBD1V](https://open.spotify.com/album/54wXKvjgv8aebtvrDVipE6) | 2:57 |
 | 86 | [fantasy!](https://open.spotify.com/track/3NCciVm2Qkn9vBXkFIGN06) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [fantasy!](https://open.spotify.com/album/2oriJlKWQ8QAUD60Iehmhy) | 1:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 99 | [Muero de Fiesta Este Finde](https://open.spotify.com/track/7vUZ4l9XWZLlYdkaRw5kXh) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:13 |
 | 100 | [Más Feliz](https://open.spotify.com/track/4WzZeR4d8mhRsaiNQVXHnt) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Heráldica](https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr) | 2:59 |
 
-Snapshot ID: `AAAAALXT7amzj3R863pX7k/Sd+EjliIs`
+Snapshot ID: `aCbUbQAAAACtQPoBcQgKQjEkmuuMYGHR`

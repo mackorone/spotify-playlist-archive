@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Crush\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-259 songs - 18 hr 14 min
+261 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Here I am](https://open.spotify.com/track/1ly3Lsq7Kn8Pj14ldHeNSE) | [김혜지](https://open.spotify.com/artist/6z0DShdQxwbWSmB3FLHTE7) | [김혜지의 15번째 싱글앨범](https://open.spotify.com/album/7I1R6zEVfYmWuOzjPN8ATO) | 5:03 | 2022-11-11 | 2023-02-08 |
 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann Kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 | 2022-05-18 | 2024-09-20 |
 | [Honeymoon](https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg) | [ZXQ](https://open.spotify.com/artist/7x9SoabYD4wuOML2PQ6onB) | [Honeymoon](https://open.spotify.com/album/6SFC5vD6tvizIL3ghFJOQe) | 2:24 | 2023-02-07 | 2024-11-07 |
+| [How do i fall in love with you](https://open.spotify.com/track/6xYYN4ttq1SxwEdNMNgME8) | [Jeong young ji](https://open.spotify.com/artist/5l16AiioJMUHIhC65zPLDh) | [How do i fall in love with you](https://open.spotify.com/album/4t6jNHHCEgkgtQPmK24qEw) | 2:51 | 2025-05-27 |  |
 | [I Will Never Fall In Love](https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [I Will Never Fall In Love](https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb) | 3:02 | 2023-12-12 | 2024-08-11 |
 | [I Wished On The Moon](https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:15 | 2023-10-11 | 2024-11-07 |
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-26 | 2023-02-08 |
@@ -116,7 +117,7 @@
 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 | 2024-09-20 |
 | [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 | 2023-07-24 | 2024-04-19 |
 | [let it flow](https://open.spotify.com/track/4tiw4EJUBYiyaCRZBeWNPd) | [Sunji Lee](https://open.spotify.com/artist/6JBv1lNpxPnxf2f4AxImDM) | [Oscillations](https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv) | 6:12 | 2022-05-03 | 2022-05-19 |
-| [Letter](https://open.spotify.com/track/1pZqS2Juur0Nf0BNNhkzKW) | [MINHA KIM](https://open.spotify.com/artist/4uo8oZ3O0bUE6ZNZi92kam) | [Letter](https://open.spotify.com/album/1xBRgLBCMSBTaME0h4ohHt) | 3:45 | 2024-10-09 |  |
+| [Letter](https://open.spotify.com/track/1pZqS2Juur0Nf0BNNhkzKW) | [MINHA KIM](https://open.spotify.com/artist/4uo8oZ3O0bUE6ZNZi92kam) | [Letter](https://open.spotify.com/album/1xBRgLBCMSBTaME0h4ohHt) | 3:45 | 2024-10-09 | 2025-05-28 |
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2023-10-16 | 2024-11-07 |
 | [Like It](https://open.spotify.com/track/1KK7fQbTsWKeexy76WlvC4) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Like It](https://open.spotify.com/album/1lIsEk6v9PK15vOosHHvXr) | 3:32 | 2022-11-11 | 2024-04-19 |
 | [Little Prince](https://open.spotify.com/track/0pLPPAKpFImzbAwvsSSjhU) | [Slowtea](https://open.spotify.com/artist/2yr3o06a0BFPfZxAqF4beo) | [Little Prince](https://open.spotify.com/album/0bwHRCiwhnjPoxpQtAe6KT) | 3:28 | 2022-05-03 | 2023-02-08 |
@@ -166,7 +167,7 @@
 | [Prison of Heart](https://open.spotify.com/track/0XQi48bPn6kIddXudP1t22) | [Song Yong Chang](https://open.spotify.com/artist/5lbGnf9x8fvOQHcSVhKnCS) | [Prison of Heart](https://open.spotify.com/album/1BNrGJf8nhsKFCcS9Kz9BG) | 6:22 | 2023-04-10 | 2024-11-07 |
 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 | 2024-10-10 |
 | [Pronounce the Benediction + Messengers](https://open.spotify.com/track/45kvtggm9KeRXjovIvDLbS) | [Kim Seong Hwa Quartet](https://open.spotify.com/artist/5UvwNchXt1PcNIK7nKSe0Y) | [Individual Space Vol.4](https://open.spotify.com/album/3E5HGHHIDP8MC2oBDZrgft) | 14:01 | 2022-05-03 | 2022-05-19 |
-| [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 | 2024-08-29 |  |
+| [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 | 2024-08-29 | 2025-05-28 |
 | [Puddle](https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Way Back Home](https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag) | 6:57 | 2024-09-04 |  |
 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [1LEEY](https://open.spotify.com/artist/4Csb024B5ugIYGJViz9oOF) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 | 2022-05-03 | 2024-08-11 |
 | [Rainy Thursday](https://open.spotify.com/track/6wjvmsgigf8lESXxCXmTNB) | [Moon haewon](https://open.spotify.com/artist/51qFLjDgO3UGzJgTyjqhhW) | [Rainy Thursday](https://open.spotify.com/album/0qZxEhG5MfWUsy9FNFhfNr) | 4:13 | 2025-04-03 |  |
@@ -206,6 +207,7 @@
 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 | 2022-05-03 | 2023-02-08 |
 | [Sunny Morning](https://open.spotify.com/track/5oh2EYgsruCFgv3CkJxxzG) | [DOO](https://open.spotify.com/artist/6oVkbN2mniaq9HGsM0gLxW) | [NONOL VOL 55\. DOO ' Sunny Morning '](https://open.spotify.com/album/2BTLKLtYye3Qwk9x7gEz5v) | 3:31 | 2025-02-18 |  |
 | [Sunshine](https://open.spotify.com/track/1diaSeNj5bvc48mTGrabJQ) | [SERENE](https://open.spotify.com/artist/1lasMrJRy7xZ7xjxNwDTgs) | [Sunshine](https://open.spotify.com/album/4HYMYaXJfzGhBHS6pPkdui) | 3:05 | 2024-09-19 | 2025-05-08 |
+| [Sunshine Anywhere](https://open.spotify.com/track/7oYBZgop71FpNDWjIEChl6) | [Jieun Park](https://open.spotify.com/artist/1D2HmWMeOkEbIgGBcC80I0) | [Sunshine Anywhere](https://open.spotify.com/album/4Y47kiCfO1BGqKhN2NTsu8) | 3:20 | 2025-05-27 |  |
 | [Supernova \- Jazz Version](https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Supernova \(Jazz Version\)](https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7) | 3:18 | 2024-09-04 |  |
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-02-14 | 2024-08-11 |
 | [Take a Break](https://open.spotify.com/track/5fjY9RhBP29AYMPaWLcq1V) | [OURBEATZ](https://open.spotify.com/artist/5CHL5eSlK4Ghwe9KrZdf0x) | [Take a Break](https://open.spotify.com/album/0aEMu0UemoafzHBLiRHX96) | 2:34 | 2024-08-10 | 2025-04-04 |

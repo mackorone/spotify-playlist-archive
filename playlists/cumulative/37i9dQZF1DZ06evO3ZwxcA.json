@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 258959,
       "name": "Babylon The Murderer",
       "url": "https://open.spotify.com/track/7MozRmzIvmvsoxLjjOoG9O"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 129293,
       "name": "DEAD RIGHT",
       "url": "https://open.spotify.com/track/1aNa1VHE2phCAb5CfFKFUw"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 160836,
       "name": "I WON'T BOW DOWN",
       "url": "https://open.spotify.com/track/7KjvtZOhareZF6phDFdHsm"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 163071,
       "name": "I WON\u2019T BOW DOWN (feat. Andr\u00e9s Gim\u00e9nez from A.N.I.M.A.L.)",
       "url": "https://open.spotify.com/track/60v42pjlxbc23kDrJxQuYP"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 186666,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/5Ck9bUuqyDKK5zsRP89PNO"
@@ -858,6 +858,24 @@
       "duration_ms": 247253,
       "name": "Southtown",
       "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
+    },
+    {
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Strength of My Life",
+      "url": "https://open.spotify.com/track/331cE2eoGXUJpnlSlJqGg3"
     },
     {
       "album": {

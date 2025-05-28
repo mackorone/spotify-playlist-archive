@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-154 songs - 10 hr 52 min
+155 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Dimples](https://open.spotify.com/track/53ri7XzOM6KHb7SZnHxEMU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Saga Blues: From Detroit to Chicago 1954\-1958](https://open.spotify.com/album/43tIzDymZjL8eFUfUAmQGj) | 2:11 | 2024-06-18 | 2024-10-23 |
 | [Dimples](https://open.spotify.com/track/69sTZUnybfPzxEvdkOySX8) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 2:12 | 2022-12-27 | 2024-01-05 |
 | [Dimples](https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [John Lee Hooker \- On Vee\-Jay 1955\-1958](https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx) | 2:13 | 2022-08-18 |  |
-| [Doin' The Shout](https://open.spotify.com/track/6sgj7whEOErJDDmb5uEou1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Best Of John Lee Hooker 1965 To 1974](https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI) | 3:30 | 2024-02-21 |  |
+| [Doin' The Shout](https://open.spotify.com/track/6sgj7whEOErJDDmb5uEou1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Best Of John Lee Hooker 1965 To 1974](https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI) | 3:30 | 2024-02-21 | 2025-05-28 |
 | [Don't Look Back](https://open.spotify.com/track/33aN8gQjmqzR674A0bEwBn) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE) | 6:42 | 2022-08-05 | 2024-02-08 |
 | [Don't Look Back \(feat\. Van Morrison\)](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 | 2024-02-07 |  |
 | [Don’t Want Nobody Else](https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [On The Waterfront](https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ) | 2:24 | 2023-11-10 | 2024-07-30 |
@@ -49,6 +49,7 @@
 | [Dusty Road](https://open.spotify.com/track/6iwOhsDbWO0JrCquRZNYQ5) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:18 | 2024-03-30 | 2024-04-01 |
 | [Five Long Years](https://open.spotify.com/track/7lZx7uEkjjPgiwitVGwKc5) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Free Beer And Chicken](https://open.spotify.com/album/1MIaKSLBaOAHsPliPEcnut) | 6:02 | 2022-12-20 | 2023-01-20 |
 | [Frisco Blues](https://open.spotify.com/track/4taFApmkTGwcjwQIfZOPVO) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:45 | 2024-01-28 | 2024-01-30 |
+| [Go Back to School](https://open.spotify.com/track/4GfP2HGYvsq7yl9G1kO1Up) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [LIVE IN HOUSTON 1979](https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87) | 5:23 | 2025-05-28 |  |
 | [Ground Hog Blues \- Single Version](https://open.spotify.com/track/2zwnpN2MCs6hCxaXhFZJK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [House Of The Blues](https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3) | 2:55 | 2025-05-22 | 2025-05-23 |
 | [Harry Sets Up Sutton \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/2pTxrXOyM67gig7tEShTR9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 1:44 | 2023-04-04 | 2023-10-05 |
 | [Hobo Blues](https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 | 2022-08-06 | 2024-02-03 |

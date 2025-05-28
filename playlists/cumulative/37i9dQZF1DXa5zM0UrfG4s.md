@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["32"](https://open.spotify.com/track/0mxqqL8RFNa2Od8y0AqHVi) | [Dakota](https://open.spotify.com/artist/3HkYkCQ0SVfSEfTh7paRXx) | [På Rett Spor](https://open.spotify.com/album/44gD07rd0G5GR0yED7CPS2) | 3:26 | 2021-12-16 |  |
+| ["32"](https://open.spotify.com/track/0mxqqL8RFNa2Od8y0AqHVi) | [Dakota](https://open.spotify.com/artist/3HkYkCQ0SVfSEfTh7paRXx) | [På Rett Spor](https://open.spotify.com/album/44gD07rd0G5GR0yED7CPS2) | 3:26 | 2021-12-16 | 2025-05-28 |
 | [\(æ e ikke\) SJALU](https://open.spotify.com/track/3hmwE4yviUq9py4ZHRK0Wm) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [\(æ e ikke\) SJALU](https://open.spotify.com/album/4V50aXW3FPigFcpPa8dweQ) | 2:17 | 2022-04-21 | 2022-07-29 |
 | [1](https://open.spotify.com/track/5TCC2ctiNpiwiFtrM4MxZq) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [1](https://open.spotify.com/album/6ZLiI489DlkvFa423lSMKh) | 1:52 | 2023-03-30 | 2023-05-05 |
 | [100 & Hælvette](https://open.spotify.com/track/7cE9NtgfMubgyMzOWdDhzL) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [100 & Hælvette](https://open.spotify.com/album/3t9inyYHcg2rASNvxSrdG1) | 2:33 | 2025-01-23 | 2025-03-28 |
@@ -42,7 +42,7 @@
 | [Bare så du vett det](https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Bare så du vett det](https://open.spotify.com/album/6vutuz8BvdPdSq7gy2xWgw) | 3:31 | 2021-12-16 | 2022-07-29 |
 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 | 2021-12-16 |  |
 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 | 2021-12-16 |  |
-| [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 | 2023-03-01 | 2025-05-26 |
+| [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 | 2023-03-01 |  |
 | [Bjudar på](https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bjudar på](https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw) | 2:43 | 2021-12-16 |  |
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-05 | 2022-07-29 |
 | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe) | 2:21 | 2023-02-16 | 2023-04-12 |

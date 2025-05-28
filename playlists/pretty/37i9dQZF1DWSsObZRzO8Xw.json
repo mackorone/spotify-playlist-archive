@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 199132,
+  "num_followers": 199175,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "13.0.0.0.0",
-        "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 293986,
-      "name": "Cat Fantastic",
-      "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "TNT",
         "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 284666,
       "name": "Ten-Day Interval",
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "13.0.0.0.0",
+        "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 293986,
+      "name": "Cat Fantastic",
+      "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "World Class Listening Problem",
+        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+      },
+      "artists": [
+        {
+          "name": "Don Caballero",
+          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+        }
+      ],
+      "duration_ms": 316213,
+      "name": "Railroad Cancellation",
+      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Centro De Dispersi\u00f3n",
         "url": "https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde"
       },
@@ -547,6 +563,22 @@
       "duration_ms": 377493,
       "name": "Futura",
       "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Los Bajos Fondos",
+      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -599,38 +631,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "World Class Listening Problem",
-        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
-      },
-      "artists": [
-        {
-          "name": "Don Caballero",
-          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
-        }
-      ],
-      "duration_ms": 316213,
-      "name": "Railroad Cancellation",
-      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Los Bajos Fondos",
-      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Stegosauro",
         "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "X'ed Out",
-        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
-      },
-      "artists": [
-        {
-          "name": "Tera Melos",
-          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Weird Circles",
-      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Route One or Die",
         "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 298760,
       "name": "Cramm",
       "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "X'ed Out",
+        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
+      },
+      "artists": [
+        {
+          "name": "Tera Melos",
+          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Weird Circles",
+      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -747,6 +763,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Valerio Benustelli",
         "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
       },
@@ -759,22 +791,6 @@
       "duration_ms": 206007,
       "name": "Valerio Benustelli",
       "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -859,34 +875,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+        "name": "Canis Allegro",
+        "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
       },
       "artists": [
         {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+          "name": "DJ Perro",
+          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
         }
       ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "ARUKAS",
-        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 341613,
-      "name": "ARUKAS",
-      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
+      "duration_ms": 302869,
+      "name": "Jazztas",
+      "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Canis Allegro",
-        "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
+        "name": "ARUKAS",
+        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
       },
       "artists": [
         {
-          "name": "DJ Perro",
-          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
         }
       ],
-      "duration_ms": 302869,
-      "name": "Jazztas",
-      "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
+      "duration_ms": 341613,
+      "name": "ARUKAS",
+      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Sorrow EP",
-        "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
-      },
-      "artists": [
-        {
-          "name": "Oh No! Yoko",
-          "url": "https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr"
-        }
-      ],
-      "duration_ms": 138891,
-      "name": "Mimi Ashi",
-      "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 221686,
       "name": "GRVD",
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Sorrow EP",
+        "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
+      },
+      "artists": [
+        {
+          "name": "Oh No! Yoko",
+          "url": "https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr"
+        }
+      ],
+      "duration_ms": 138891,
+      "name": "Mimi Ashi",
+      "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Retcon",
-        "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
+        "name": "M. Rueff",
+        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
       },
       "artists": [
         {
@@ -1108,25 +1108,9 @@
           "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
         }
       ],
-      "duration_ms": 256629,
-      "name": "Hungover Tehran",
-      "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Nevermind The Tempo",
-        "url": "https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr"
-      },
-      "artists": [
-        {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
-        }
-      ],
-      "duration_ms": 148116,
-      "name": "Italiapaura",
-      "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
+      "duration_ms": 163412,
+      "name": "It's Not",
+      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 277300,
       "name": "Alexander Supertramp",
       "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Nevermind The Tempo",
+        "url": "https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "duration_ms": 148116,
+      "name": "Italiapaura",
+      "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "M. Rueff",
-        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+        "name": "Retcon",
+        "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
         }
       ],
-      "duration_ms": 163412,
-      "name": "It's Not",
-      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
+      "duration_ms": 256629,
+      "name": "Hungover Tehran",
+      "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
     },
     {
       "added_at": "2024-09-20 00:01:00",

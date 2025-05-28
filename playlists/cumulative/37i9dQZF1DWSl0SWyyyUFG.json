@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 318373,
       "name": "Asi Fue",
       "url": "https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 163066,
       "name": "Creo Estar Sona\u00f1do",
       "url": "https://open.spotify.com/track/27PgKTLK5fZovvx4qR43MS"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 182040,
       "name": "Cu\u00e1nto Me Cuesta",
       "url": "https://open.spotify.com/track/006f4XC6oHnIKCYvlI5gbD"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 173560,
       "name": "El Baile Nuevo",
       "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 176889,
       "name": "El Teterete",
       "url": "https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 226733,
       "name": "Entr\u00e9game Tu Amor",
       "url": "https://open.spotify.com/track/2wzMk91znotFiJhsSUsPvl"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 172199,
       "name": "Esta Cobardia",
       "url": "https://open.spotify.com/track/2BMWP4MEcaxK7WDRkNeEvn"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 202786,
       "name": "Juanita-flor De Walamo-",
       "url": "https://open.spotify.com/track/1kQkOkoyoZXVYmKun8zwky"
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 174453,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
@@ -2546,6 +2546,24 @@
       "duration_ms": 245693,
       "name": "La Otra Cara De La Moneda",
       "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
+    },
+    {
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176269,
+      "name": "La Peligrosa",
+      "url": "https://open.spotify.com/track/4qJylr6M0smswsVjpPQvTs"
     },
     {
       "album": {
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 168026,
       "name": "Los Tres Gallos",
       "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
@@ -2938,7 +2956,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 280666,
       "name": "Mis Recuerdos",
       "url": "https://open.spotify.com/track/1ULtstKTT3ARXBF1cRFIL1"
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 197358,
       "name": "Mu\u00f1equita",
       "url": "https://open.spotify.com/track/6j3zBqx4xjag5pKLyzT3PV"
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 215829,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/0safZ6wr41CsyV6FFEFzpr"
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 142773,
       "name": "Ojitos Verdes",
       "url": "https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q"
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 207737,
       "name": "Orgullosa Maria",
       "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 178607,
       "name": "Peque\u00f1a Orgullosa",
       "url": "https://open.spotify.com/track/50dy8CznSlDJnHaYba7xT4"
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"
@@ -4156,7 +4174,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 188893,
       "name": "Se Me Canso El Corazon",
       "url": "https://open.spotify.com/track/29qY2kVjH6wtaoD5cj09q7"
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 229626,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1aiTVvxEdbXXtVReLcPOmp"
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 182090,
       "name": "Torera",
       "url": "https://open.spotify.com/track/3MNo6kYOYyNpeALfNX9v2L"
@@ -4696,7 +4714,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 172613,
       "name": "Tu Castigo",
       "url": "https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs"
@@ -5164,7 +5182,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 185388,
       "name": "Ya No Me Mires Asi",
       "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
@@ -5218,7 +5236,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 207186,
       "name": "\u00bfQu\u00e9 Me Vas a Dar?",
       "url": "https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5"

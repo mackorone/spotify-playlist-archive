@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133158,
+  "num_followers": 133154,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDJdgAAAAAAQOovGYueeeFtas2g9en2X",
+  "snapshot_id": "aDOvAAAAAABqNP5QauyBinO/XBQZq563",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Identidade",
+        "url": "https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 267168,
+      "name": "Identidade",
+      "url": "https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Identidade",
-        "url": "https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 267168,
-      "name": "Identidade",
-      "url": "https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA"
     },
     {
       "added_at": null,

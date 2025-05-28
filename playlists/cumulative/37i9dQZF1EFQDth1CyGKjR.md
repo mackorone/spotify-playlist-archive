@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-461 songs - 1 day 5 hr 55 min
+463 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,8 @@
 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 | 2024-01-29 |  |
 | [Keep It Movin' \(feat\. Serayah & Yazz\)](https://open.spotify.com/track/3gNVgxCFETeK0PtOSxkk9W) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Yazz](https://open.spotify.com/artist/1K8bWL1GnTW0b51YZOEANS) | [Original Soundtrack from Season 1 of Empire \(Deluxe\)](https://open.spotify.com/album/65nrMZ7EnJgYKeasDhRXTy) | 3:24 | 2024-01-29 |  |
 | [Keep Your Money \(feat\. Jussie Smollett\)](https://open.spotify.com/track/5GTTck4sucr4ymUJPFxHGo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Original Soundtrack from Season 1 of Empire \(Deluxe\)](https://open.spotify.com/album/65nrMZ7EnJgYKeasDhRXTy) | 2:29 | 2024-01-29 |  |
+| [Kent's Bounce, Pt\. 1](https://open.spotify.com/track/3OafkuhehZHN4MMJQWo5zT) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TIMBO PROGRESSION](https://open.spotify.com/album/70u6cm5Wp983688TTctIGW) | 2:25 | 2025-05-27 |  |
+| [Kent's Bounce, Pt\. 2](https://open.spotify.com/track/0yieQ544nkkQrc4rFZvWel) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TIMBO PROGRESSION](https://open.spotify.com/album/70u6cm5Wp983688TTctIGW) | 1:56 | 2025-05-27 |  |
 | [Kill Yourself](https://open.spotify.com/track/6ox46xYfWlTJiRo8DpqEJ0) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Sebastian](https://open.spotify.com/artist/1WuzD4NNAFNuhhIsiWdZke), [Attitude](https://open.spotify.com/artist/6HhwIU8DwwfVVNWO8Yso5b) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 4:06 | 2024-01-29 |  |
 | [Kim Porter](https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 7:17 | 2024-02-16 |  |
 | [Know Bout Me](https://open.spotify.com/track/0mcrxVVgQd6jUpLArEB4k6) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Know Bout Me](https://open.spotify.com/album/6Fhf7ARPmlq8lRGnVEdrhC) | 4:23 | 2024-01-29 |  |

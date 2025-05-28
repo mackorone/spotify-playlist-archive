@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAtuET7SF/dOU75E/A06foU",
+  "snapshot_id": "AAAAAAAAAADyYpufjfd0lJVJZEFajGJj",
   "tracks": [
     {
       "added_at": "2025-05-23 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
+        "name": "Mot\u00f6rhead (The Manticore Tapes)",
+        "url": "https://open.spotify.com/album/28rdvbkzj08VuBfLDr45LQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Mot\u00f6rhead - The Manticore Tapes",
+      "url": "https://open.spotify.com/track/6XdjmNTpTFvkaRJYh2YPKV"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
         "name": "From Zero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Mot\u00f6rhead (The Manticore Tapes)",
-        "url": "https://open.spotify.com/album/28rdvbkzj08VuBfLDr45LQ"
+        "name": "Witchhunter",
+        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
       },
       "artists": [
         {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 189680,
-      "name": "Mot\u00f6rhead - The Manticore Tapes",
-      "url": "https://open.spotify.com/track/6XdjmNTpTFvkaRJYh2YPKV"
+      "duration_ms": 193345,
+      "name": "Witchhunter",
+      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -431,34 +447,18 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Apologies",
-        "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
         }
       ],
-      "duration_ms": 186906,
-      "name": "Apologies",
-      "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Witchhunter",
-        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Witchhunter",
-      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
+      "duration_ms": 250397,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM"
+        "name": "Apologies",
+        "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
       },
       "artists": [
         {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 250397,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc"
+      "duration_ms": 186906,
+      "name": "Apologies",
+      "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -547,22 +547,18 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Young & Dumb (feat. Simple Plan)",
-        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 166776,
-      "name": "Young & Dumb (feat. Simple Plan)",
-      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+      "duration_ms": 190000,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -587,18 +583,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
+        "name": "Young & Dumb (feat. Simple Plan)",
+        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+      "duration_ms": 166776,
+      "name": "Young & Dumb (feat. Simple Plan)",
+      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
+        "name": "Radio Free Europe 2025",
+        "url": "https://open.spotify.com/album/3WUyr8kiPJQ8c7fYnDkm86"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 113601,
+      "name": "Wh. Tornado",
+      "url": "https://open.spotify.com/track/2jTHveFQNV94t1ozAGCyZA"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
         "name": "Souls Devoured",
         "url": "https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr"
       },
@@ -631,6 +647,38 @@
       "duration_ms": 255880,
       "name": "Souls Devoured",
       "url": "https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
+        "name": "Repo Man",
+        "url": "https://open.spotify.com/album/2dlVw20ada4YRodv07jKQL"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Repo Man",
+      "url": "https://open.spotify.com/track/7vI08htFEStbX7PkVhZC7a"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
+        "name": "Irrealidad",
+        "url": "https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 233188,
+      "name": "Luces De Neon",
+      "url": "https://open.spotify.com/track/0rO6xSQy33ri48VWlqdxru"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -655,70 +703,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Radio Free Europe 2025",
-        "url": "https://open.spotify.com/album/3WUyr8kiPJQ8c7fYnDkm86"
+        "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
+        "url": "https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 113601,
-      "name": "Wh. Tornado",
-      "url": "https://open.spotify.com/track/2jTHveFQNV94t1ozAGCyZA"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Irrealidad",
-        "url": "https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 233188,
-      "name": "Luces De Neon",
-      "url": "https://open.spotify.com/track/0rO6xSQy33ri48VWlqdxru"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Repo Man",
-        "url": "https://open.spotify.com/album/2dlVw20ada4YRodv07jKQL"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Repo Man",
-      "url": "https://open.spotify.com/track/7vI08htFEStbX7PkVhZC7a"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Priceless (feat. LISA)",
-        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
         },
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
         }
       ],
-      "duration_ms": 163352,
-      "name": "Priceless (feat. LISA)",
-      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
+      "duration_ms": 223906,
+      "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
+      "url": "https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -771,22 +771,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
-        "url": "https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV"
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
       },
       "artists": [
         {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 223906,
-      "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
-      "url": "https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7"
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
+        "name": "Never Ever Let You Go",
+        "url": "https://open.spotify.com/album/2DhiSOvQ5VZ5HsUjMr3AuL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Never Ever Let You Go",
+      "url": "https://open.spotify.com/track/4yr2XZ9ujDpZXwvqDZQ8wk"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
         "name": "Avicii Forever",
         "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 173217,
       "name": "Let's Ride Away",
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Never Ever Let You Go",
-        "url": "https://open.spotify.com/album/2DhiSOvQ5VZ5HsUjMr3AuL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Never Ever Let You Go",
-      "url": "https://open.spotify.com/track/4yr2XZ9ujDpZXwvqDZQ8wk"
     },
     {
       "added_at": "2025-05-23 04:00:00",
@@ -951,30 +951,6 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Kingmaker",
-        "url": "https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "For The Love (ft. Ice Cube & Lorine Chia)",
-      "url": "https://open.spotify.com/track/05s3dwoFQHi7WFNSnmEBir"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
         "name": "Top Hits, Ballads, etc...",
         "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
       },
@@ -1023,6 +999,22 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
+        "name": "Kingmaker",
+        "url": "https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "For The Love (ft. Ice Cube & Lorine Chia)",
+      "url": "https://open.spotify.com/track/05s3dwoFQHi7WFNSnmEBir"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
         "name": "Secreto de Luna",
         "url": "https://open.spotify.com/album/6ucxqvmJXsJOIEn1v9PyFM"
       },
@@ -1067,46 +1059,6 @@
     {
       "added_at": "2025-05-23 04:00:00",
       "album": {
-        "name": "Limitless (Arcando Remix)",
-        "url": "https://open.spotify.com/album/0YDIJKZcaJupUFdt2vay2K"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 125843,
-      "name": "Limitless - Arcando Remix",
-      "url": "https://open.spotify.com/track/6p4Kp6ZpzuuIhoJIsvQXzU"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
-        "name": "Pela Hao",
-        "url": "https://open.spotify.com/album/7GZ1nADYMVs587sGMWxV5S"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 281835,
-      "name": "Pela Hao",
-      "url": "https://open.spotify.com/track/7o8qGYW9QYQXZaPpKNL0gm"
-    },
-    {
-      "added_at": "2025-05-23 04:00:00",
-      "album": {
         "name": "Caudal (Versi\u00f3n 2)",
         "url": "https://open.spotify.com/album/1QoTnqmp2223x0vqpmnIlh"
       },
@@ -1127,6 +1079,30 @@
       "duration_ms": 177348,
       "name": "Caudal (Versi\u00f3n 2)",
       "url": "https://open.spotify.com/track/1RpFwwYNgQ2bPtISJ5vMiK"
+    },
+    {
+      "added_at": "2025-05-23 04:00:00",
+      "album": {
+        "name": "Limitless (Arcando Remix)",
+        "url": "https://open.spotify.com/album/0YDIJKZcaJupUFdt2vay2K"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 125843,
+      "name": "Limitless - Arcando Remix",
+      "url": "https://open.spotify.com/track/6p4Kp6ZpzuuIhoJIsvQXzU"
     },
     {
       "added_at": "2025-05-23 04:00:00",

@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-189 songs - 9 hr 52 min
+191 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,13 @@
 | [Confused](https://open.spotify.com/track/0wrlZhUHqHlLLvdodEqv4W) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/6m34pI3gdhPPJ6YnBDQeQM) | 3:06 | 2022-10-11 | 2022-11-09 |
 | [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 | 2022-10-11 | 2023-09-27 |
 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 | 2022-10-11 |  |
+| [cycling break](https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [cycling break](https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP) | 5:06 | 2025-05-28 |  |
 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 | 2023-02-14 |  |
 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 | 2022-10-11 | 2024-04-19 |
 | [Day Trip](https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Day Trip](https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W) | 2:17 | 2024-03-05 |  |
 | [Daybreak](https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ) | 3:28 | 2024-03-05 | 2025-01-29 |
 | [Daybreak](https://open.spotify.com/track/5PMMr9QcrnOWf6ZHxYwMrt) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/3KoIxalt9ie7Kmfy2aFK0K) | 3:28 | 2022-10-11 | 2024-04-19 |
-| [Daylight Blows into One Door](https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Daylight Blows into One Door](https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6) | 3:28 | 2024-03-05 |  |
+| [Daylight Blows into One Door](https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Daylight Blows into One Door](https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6) | 3:28 | 2024-03-05 | 2025-05-28 |
 | [Daylight Blows into One Door](https://open.spotify.com/track/4UUK97XIT1y1TyBLgVi6Xc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:28 | 2022-10-11 | 2024-04-19 |
 | [Dragon Collection](https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt) | [Four Face](https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko) | [Dragon Collection](https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh) | 3:42 | 2024-01-11 |  |
 | [Elevate](https://open.spotify.com/track/2EBcFkIyG1gnCnlKqHaeYl) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Tel Père Tel Fils](https://open.spotify.com/album/7obwq0u0uJtALHkkC5gjaa) | 2:19 | 2024-03-05 |  |
@@ -57,7 +58,7 @@
 | [Flowers](https://open.spotify.com/track/5DZQlseBlIL18VLqFklHLC) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/5YFn9uTuVwi7jvsXaMkYVM) | 3:02 | 2024-03-05 |  |
 | [Flowers](https://open.spotify.com/track/6pYLdl855Ul8ckKKWzCrig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/3OJMNgLFpxJLgTPw3YmNTx) | 3:02 | 2022-10-11 | 2024-04-19 |
 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 | 2023-09-26 |  |
-| [Frontin' Me](https://open.spotify.com/track/6HwA2kWbv4EAZPs8iLNJgP) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Frontin' Me](https://open.spotify.com/album/02yLoxWto2ItmAvBHg8ACV) | 3:29 | 2024-03-05 |  |
+| [Frontin' Me](https://open.spotify.com/track/6HwA2kWbv4EAZPs8iLNJgP) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Frontin' Me](https://open.spotify.com/album/02yLoxWto2ItmAvBHg8ACV) | 3:29 | 2024-03-05 | 2025-05-28 |
 | [Frontin' Me](https://open.spotify.com/track/6VqYMjfZsbHrN9BCuW7FXm) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Frontin' Me](https://open.spotify.com/album/0TD7IObbIeL05ZCzp1yza0) | 3:29 | 2022-10-11 | 2024-04-19 |
 | [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 | 2022-10-11 | 2024-02-21 |
 | [Generic](https://open.spotify.com/track/5ljunHfdK4WvqK4eQo5MI9) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [Generic](https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS) | 3:11 | 2025-02-12 |  |
@@ -84,6 +85,7 @@
 | [I'll Come Find You](https://open.spotify.com/track/6i0uNcIhVZRMKahUtkBqQH) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated EP](https://open.spotify.com/album/1wmHZvsUm09GfGvIIRQ3SZ) | 3:34 | 2022-10-11 |  |
 | [idk2](https://open.spotify.com/track/3xcUlIlxuFJg9ULn2xppI3) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/4NrdkPiWR2viihNRry16pZ) | 2:06 | 2022-10-11 |  |
 | [idk2](https://open.spotify.com/track/65i5oP0YKXtWDj7Fqtvdak) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/0FrLx9txKT7cBIwVkbtri2) | 2:06 | 2023-06-28 | 2024-04-19 |
+| [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 | 2025-05-28 |  |
 | [In Your Arms](https://open.spotify.com/track/24tlBs7UEBwNIPB3hFwkjH) | [Mattheus Fedorova](https://open.spotify.com/artist/5fynz3YRv7vghPyLm3gTTE) | [In Your Arms](https://open.spotify.com/album/393FqXTdXkw5pQwpnOuhfo) | 4:40 | 2023-03-07 | 2023-05-06 |
 | [in your arms](https://open.spotify.com/track/0CNKS52qyUU9124pyENtbl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/4z9wqJmSFcV7mwDEfm40KT) | 4:37 | 2024-03-05 |  |
 | [in your arms](https://open.spotify.com/track/14yTQbKnhRnr4EcXGqszvB) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Escape Everything](https://open.spotify.com/album/32fmXtwTmYZMpKhDD8JYQK) | 4:37 | 2022-10-11 | 2022-11-13 |

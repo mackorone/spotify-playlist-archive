@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!?
 
-4,963 songs - 11 day 13 hr 58 min
+4,966 songs - 11 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [All I See Is You](https://open.spotify.com/track/2tE6D71ioWfyT4InadK3jS) | [Rick Lee Vinson Group](https://open.spotify.com/artist/3ud8WUBCxWNSmXLqT1YJyq) | [All I See Is You](https://open.spotify.com/album/3nt6Ml2mxZtW2sZn7FT1XQ) | 3:06 | 2023-06-23 | 2023-07-14 |
 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 | 2020-08-20 | 2023-08-28 |
 | [All In My Mind](https://open.spotify.com/track/1uWwD2VaIVyOOi2MCCWhs6) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [All In My Mind](https://open.spotify.com/album/0y5ffPTtVu0NDkhgu5QjyR) | 2:28 | 2022-02-16 | 2022-03-05 |
+| [All In Your Head](https://open.spotify.com/track/539pyEsRKAMkxrkrJsYbUl) | [Floral Couches](https://open.spotify.com/artist/3HiT8riBEhEKIuP2fyUOr6) | [All In Your Head](https://open.spotify.com/album/5YsYBYZONLobPu4lfBxWhH) | 3:37 | 2025-05-27 |  |
 | [All My Friends Live on the Internet](https://open.spotify.com/track/5R5AqwSE7juUd0t6xCI6Ep) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [All My Friends Live on the Internet](https://open.spotify.com/album/4qpvGMUIwtsVJadepPSKHQ) | 3:14 | 2022-06-11 | 2022-07-07 |
 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 | 2021-07-12 | 2021-11-19 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-06-15 | 2023-07-21 |
@@ -2263,6 +2264,7 @@
 | [Joseph \- 2024 Remaster](https://open.spotify.com/track/2NzB3ANAxYDksMOzT5JGV8) | [BEET](https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH) | [Joseph \(2024 Remaster\)](https://open.spotify.com/album/0S9lxAj5D2JS2j5rz5Ea79) | 5:11 | 2024-12-19 | 2024-12-31 |
 | [Journey \- NATIIVE Remix](https://open.spotify.com/track/4eAz7FR6w46Rsw39olHz4O) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg), [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0) | [Journey \(NATIIVE Remix\)](https://open.spotify.com/album/41EleVdaS6RgnFPNZKIYY8) | 3:33 | 2020-11-05 | 2020-11-20 |
 | [Journeyman's Ballet](https://open.spotify.com/track/3UHTv8qja5Zxb1eSWqwdwc) | [Sam Rappaport](https://open.spotify.com/artist/0ti38V9eAENmKwZ9D9ghlN) | [Journeyman's Ballet](https://open.spotify.com/album/6HA1iMV7JpX4Dg9Dr54gsW) | 4:30 | 2021-11-11 | 2021-12-05 |
+| [JOY](https://open.spotify.com/track/5IwgfxMsJtsV3iKMTSGzMS) | [Tony Moss](https://open.spotify.com/artist/1k9xtSxFDRv8GVfxC0dVIp), [Bird Tribe](https://open.spotify.com/artist/3TXlzdvGPfqcdclaUSFBDd) | [JOY](https://open.spotify.com/album/2oQclYi9SkLoTAs6IUwp9r) | 3:35 | 2025-05-27 |  |
 | [Joyce](https://open.spotify.com/track/6HbaRX0JyF1vinGfCFV8Cx) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Joyce](https://open.spotify.com/album/3pt68E8P61O0iGT372c1Mg) | 2:56 | 2022-06-24 | 2022-07-16 |
 | [Joyride](https://open.spotify.com/track/2sqMlEDqZ7tHyVjmtrWnvZ) | [FloraNova](https://open.spotify.com/artist/7qZYc6XcppdOPH7pNIeMOP) | [Joyride](https://open.spotify.com/album/4vaUr3BZrF7xEvC6a2ZZFL) | 3:01 | 2023-04-28 | 2023-05-16 |
 | [Judging Me](https://open.spotify.com/track/5EBw1WTXe9yeETXLl0Eo37) | [Brandon Lewis](https://open.spotify.com/artist/6cwMy4Skkaqwtx7LeUe3lb) | [Judging Me](https://open.spotify.com/album/2h0ubpAJjOl6an2hBuMDba) | 2:59 | 2025-03-12 | 2025-04-28 |
@@ -2996,6 +2998,7 @@
 | [NMT \(not much time\)](https://open.spotify.com/track/4bRGPgP1HVCeFY4MvGPdI3) | [BrakaBeats](https://open.spotify.com/artist/3P3dfmAlq6T6UCcSRzsKje) | [NMT \(not much time\)](https://open.spotify.com/album/6Vdw1RnuuknAZKLaSVtzaH) | 3:44 | 2024-07-15 | 2024-07-27 |
 | [No Chains On Me!](https://open.spotify.com/track/3ofLldiRXnoBlcapLzYyjY) | [Called 2 Repentance](https://open.spotify.com/artist/2CMx1UNRExoZrpCndgvP7U) | [No Chains On Me!](https://open.spotify.com/album/6X05JUmvmkqN6ieyJt4u4p) | 2:30 | 2024-05-31 | 2024-06-11 |
 | [No Contact](https://open.spotify.com/track/7M4kKZNFtLmAwZHoeqWznK) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [No Contact](https://open.spotify.com/album/5ujZ7d10TY5nwJmVw6cBSZ) | 2:51 | 2024-09-07 | 2024-09-19 |
+| [No Destination](https://open.spotify.com/track/458mhCgYlbmTQrsQc8zUpw) | [Horror Disco](https://open.spotify.com/artist/3GyTVsCcUAIbtVXzxvWOFO) | [No Destination](https://open.spotify.com/album/0au1ZNzuqe0HD1c7C3lI8C) | 3:00 | 2025-05-27 |  |
 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 | 2024-08-12 |  |
 | [no doubt](https://open.spotify.com/track/3hm1vdAOy3t2nvFfXRlo0Y) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [no doubt](https://open.spotify.com/album/2sYahxXmv97Nc7mfq1Lt7N) | 3:08 | 2021-03-06 | 2021-03-20 |
 | [No Excuses](https://open.spotify.com/track/0jyTOoAx7dNLQEQje9Qex5) | [Mimis Kitchen](https://open.spotify.com/artist/7mJcAuOns8lI6MkVYAVEtE) | [No Excuses](https://open.spotify.com/album/5hizZrYbuDIlV41Fcjj2rg) | 2:46 | 2024-02-20 | 2024-02-28 |

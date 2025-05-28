@@ -2,7 +2,7 @@
 
 ### [New Kids Music](https://open.spotify.com/playlist/37i9dQZF1DX6r25lY14UGk)
 
-> New releases for the kids\. Cover: Teeny Tiny Stevies
+> New releases for the kids\. Cover: Peppa Pig
 
 800 songs - 1 day 9 hr 18 min
 

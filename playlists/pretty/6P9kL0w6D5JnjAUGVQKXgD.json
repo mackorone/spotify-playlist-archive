@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47307,
+  "num_followers": 47304,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAH89Lyvb0ca6S7JDlcVVTMuEfNZBt4",
+  "snapshot_id": "AAAH9EW5mTUO7RZWqtRo9yVFCViCwiFK",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5h6gjwZYluJ0h4miC4Re5K"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Harley Bird",
+          "url": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3PEOQwIjl63hKEc67hyYSY"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1215,26 +1235,6 @@
       "duration_ms": 141951,
       "name": "Comes Down",
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/5h6gjwZYluJ0h4miC4Re5K"
-      },
-      "artists": [
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        },
-        {
-          "name": "Harley Bird",
-          "url": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3PEOQwIjl63hKEc67hyYSY"
     },
     {
       "added_at": "2024-07-26 00:41:03",

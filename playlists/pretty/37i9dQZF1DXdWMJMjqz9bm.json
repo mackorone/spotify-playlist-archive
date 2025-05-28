@@ -1,13 +1,29 @@
 {
-  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: nate sib",
-  "num_followers": 219299,
+  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: mgk",
+  "num_followers": 219311,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4SwAAAACS3DSLlykJe2UdJNy6xnfX",
+  "snapshot_id": "aDXUQQAAAADEtY8bZeEX96xUom7AZREx",
   "tracks": [
+    {
+      "added_at": "2025-05-27 15:03:29",
+      "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
+    },
     {
       "added_at": "2025-05-16 04:00:11",
       "album": {
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/2qORdVolXx9UlNfCUD5aHd"
     },
     {
+      "added_at": "2025-05-27 15:03:29",
+      "album": {
+        "name": "This One's For Me",
+        "url": "https://open.spotify.com/album/4pWkaZGyFyeWLH1OGHmcj1"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "duration_ms": 226530,
+      "name": "This One's For Me",
+      "url": "https://open.spotify.com/track/3wMJXZsHdcRRW5GuM0k4Rp"
+    },
+    {
+      "added_at": "2025-05-27 15:03:29",
+      "album": {
+        "name": "Finest",
+        "url": "https://open.spotify.com/album/6EIzf0WuxDzRbYmEWV0wXj"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 201481,
+      "name": "Finest",
+      "url": "https://open.spotify.com/track/2YPAdqWqaT5fb6iE8BEZHT"
+    },
+    {
       "added_at": "2025-05-16 04:00:11",
       "album": {
         "name": "hara-kiri (Deluxe)",
@@ -71,6 +119,22 @@
       "duration_ms": 147692,
       "name": "NO L's",
       "url": "https://open.spotify.com/track/17bCx9UXmnmts0ly7dO1y7"
+    },
+    {
+      "added_at": "2025-05-27 15:03:29",
+      "album": {
+        "name": "Ricky Bobby (White Trash Freestyle)",
+        "url": "https://open.spotify.com/album/0r7R3jeUunqkp9RyRH6LsG"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 132653,
+      "name": "Ricky Bobby",
+      "url": "https://open.spotify.com/track/6mDhojEqX05l1fhelRS4zW"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -107,30 +171,6 @@
     {
       "added_at": "2025-05-02 04:00:39",
       "album": {
-        "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-        "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 209051,
-      "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-      "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
-    },
-    {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
         "name": "boom",
         "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
       },
@@ -143,6 +183,22 @@
       "duration_ms": 163000,
       "name": "boom",
       "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
+    },
+    {
+      "added_at": "2025-05-27 15:03:29",
+      "album": {
+        "name": "NAUSEOUS",
+        "url": "https://open.spotify.com/album/61ZmBqFS4wXTwky1qojCvC"
+      },
+      "artists": [
+        {
+          "name": "PERRIS",
+          "url": "https://open.spotify.com/artist/28g5e8S0umbeXJOxmRZFMw"
+        }
+      ],
+      "duration_ms": 150821,
+      "name": "NAUSEOUS",
+      "url": "https://open.spotify.com/track/4L5ATobsBdlUoHgVG5LdKa"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -177,6 +233,22 @@
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
+      "added_at": "2025-05-27 15:03:29",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205256,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/1N8dX8FWPUzVuSlKJA25FK"
+    },
+    {
       "added_at": "2025-04-14 20:24:22",
       "album": {
         "name": "hara-kiri",
@@ -195,6 +267,22 @@
       "duration_ms": 235853,
       "name": "I\u2019d Rather Overdose",
       "url": "https://open.spotify.com/track/2UvJGqD2wNzCfOHrUsm2Pu"
+    },
+    {
+      "added_at": "2025-05-27 15:03:29",
+      "album": {
+        "name": "Camo and Chrome (Deluxe)",
+        "url": "https://open.spotify.com/album/5ctv3ZWr9UkIqOgrZ7pw59"
+      },
+      "artists": [
+        {
+          "name": "501Bryze",
+          "url": "https://open.spotify.com/artist/0C07HpMBzSy9NWj98eod3R"
+        }
+      ],
+      "duration_ms": 165825,
+      "name": "Camo and Chrome",
+      "url": "https://open.spotify.com/track/2JLxvAaBUHeje9WzilAmZ6"
     },
     {
       "added_at": "2025-04-04 07:42:47",
@@ -311,22 +399,6 @@
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 151698,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
     },
     {
       "added_at": "2025-04-29 15:38:07",
@@ -553,54 +625,6 @@
       "url": "https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen"
     },
     {
-      "added_at": "2025-03-24 00:01:00",
-      "album": {
-        "name": "Make Me Forget",
-        "url": "https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf"
-    },
-    {
-      "added_at": "2024-11-25 21:22:11",
-      "album": {
-        "name": "song for when the bar closes",
-        "url": "https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 104897,
-      "name": "song for when the bar closes",
-      "url": "https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO"
-    },
-    {
-      "added_at": "2025-04-29 15:38:07",
-      "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 230923,
-      "name": "Blakk Rokkstar",
-      "url": "https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO"
-    },
-    {
       "added_at": "2025-04-15 22:06:32",
       "album": {
         "name": "Too Easy",
@@ -697,46 +721,6 @@
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
     },
     {
-      "added_at": "2025-02-24 18:40:31",
-      "album": {
-        "name": "Miss Sunshine",
-        "url": "https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 203087,
-      "name": "Miss Sunshine",
-      "url": "https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1"
-    },
-    {
-      "added_at": "2024-11-25 21:22:11",
-      "album": {
-        "name": "SLOW IT DOWN",
-        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 142935,
-      "name": "SLOW IT DOWN",
-      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
-    },
-    {
       "added_at": "2024-05-31 16:56:00",
       "album": {
         "name": "Best Friend",
@@ -775,26 +759,6 @@
       "duration_ms": 191622,
       "name": "IOU",
       "url": "https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell"
-    },
-    {
-      "added_at": "2024-05-31 16:56:00",
-      "album": {
-        "name": "Deja Vu (feat. DJ Drama)",
-        "url": "https://open.spotify.com/album/2UoHIfIrdKTAsbS9dcB72k"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 201796,
-      "name": "Deja Vu (feat. DJ Drama)",
-      "url": "https://open.spotify.com/track/1hDtQHr9OveHVpE4RlvM9G"
     },
     {
       "added_at": "2024-10-18 19:47:48",

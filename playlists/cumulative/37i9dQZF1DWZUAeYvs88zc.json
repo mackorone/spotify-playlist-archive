@@ -146,7 +146,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 177322,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 165833,
       "name": "all-american bitch",
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 196458,
       "name": "because i liked a boy",
       "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 191462,
       "name": "Bitch (I Said It)",
       "url": "https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C"
@@ -2098,6 +2098,24 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
+    },
+    {
+      "album": {
+        "name": "Drop Dead",
+        "url": "https://open.spotify.com/album/7FizCLR1TgCRilxzEgoqEi"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161389,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/4Ms82sYhimBer12aieJDmJ"
     },
     {
       "album": {
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 197266,
       "name": "I Blame The World",
       "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
@@ -4208,6 +4226,24 @@
       "duration_ms": 272047,
       "name": "I'm a Ruin",
       "url": "https://open.spotify.com/track/6fODVIVjNDHTSzlEHSsCQt"
+    },
+    {
+      "album": {
+        "name": "i'm in the corner, alone",
+        "url": "https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140862,
+      "name": "i'm in the corner, alone",
+      "url": "https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh"
     },
     {
       "album": {
@@ -8161,6 +8197,28 @@
     },
     {
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201371,
+      "name": "Snap My Finger (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/5LyKocU0lhUBlXrFKDxbBO"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf"
       },
@@ -9287,6 +9345,24 @@
     },
     {
       "album": {
+        "name": "The Hearse",
+        "url": "https://open.spotify.com/album/1PbZ0tNaFtl4DVWgiK5OVg"
+      },
+      "artists": [
+        {
+          "name": "Lydia Night",
+          "url": "https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175587,
+      "name": "The Hearse",
+      "url": "https://open.spotify.com/track/65P2y7TYBecd8FEcuBUeDr"
+    },
+    {
+      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/6iJ4cxaqYj7IOVjEKWZMWD"
       },
@@ -9682,10 +9758,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 204179,
       "name": "Tornado Warnings",
       "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
+    },
+    {
+      "album": {
+        "name": "Tough Luck",
+        "url": "https://open.spotify.com/album/4OYDfYtehc25QPb3ft8YoI"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Tough Luck",
+      "url": "https://open.spotify.com/track/6PLXJetycVoEZOr1f81XKI"
     },
     {
       "album": {
@@ -10110,6 +10204,24 @@
     {
       "album": {
         "name": "What A Waste",
+        "url": "https://open.spotify.com/album/0bXYmiK8ZbpqPmXAbj7lmO"
+      },
+      "artists": [
+        {
+          "name": "Elsie Bay",
+          "url": "https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159282,
+      "name": "What A Waste",
+      "url": "https://open.spotify.com/track/51PlFhgkrZ4JKJzd1iz0aE"
+    },
+    {
+      "album": {
+        "name": "What A Waste",
         "url": "https://open.spotify.com/album/4ydBNpc9b94VSX2VizYfRW"
       },
       "artists": [
@@ -10196,6 +10308,24 @@
       "duration_ms": 168079,
       "name": "What If I Told You (Original Music from The L Word: Generation Q)",
       "url": "https://open.spotify.com/track/3qDLLnU3pQBCkb7Pctum3O"
+    },
+    {
+      "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "album": {

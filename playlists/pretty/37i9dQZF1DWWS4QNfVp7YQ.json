@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 90286,
+  "num_followers": 90316,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "Zoh2tQAAAADCa9ERTd/zlK6Z3DkKOmUC",
   "tracks": [
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Que Se Cuide",
+        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Que Se Cuide",
+      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
@@ -27,26 +51,6 @@
       "duration_ms": 198836,
       "name": "Siento",
       "url": "https://open.spotify.com/track/3YKPuIxSWF3wwBXpyezDW7"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
-      },
-      "artists": [
-        {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
-        }
-      ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -75,26 +79,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Que Se Cuide",
-        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
         },
         {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
         }
       ],
-      "duration_ms": 155624,
-      "name": "Que Se Cuide",
-      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -239,22 +239,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Mi Trompeta",
-        "url": "https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI"
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
       },
       "artists": [
         {
-          "name": "Dj Rocka",
-          "url": "https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         },
         {
-          "name": "Yer Cortez",
-          "url": "https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw"
+          "name": "CID MX",
+          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
         }
       ],
-      "duration_ms": 238168,
-      "name": "Mi Trompeta",
-      "url": "https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t"
+      "duration_ms": 157142,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -283,18 +287,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
+        "name": "Mi Trompeta",
+        "url": "https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI"
       },
       "artists": [
         {
-          "name": "Dj Moys",
-          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
+          "name": "Dj Rocka",
+          "url": "https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ"
+        },
+        {
+          "name": "Yer Cortez",
+          "url": "https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw"
         }
       ],
-      "duration_ms": 90292,
-      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
+      "duration_ms": 238168,
+      "name": "Mi Trompeta",
+      "url": "https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -315,26 +323,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
+        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "CID MX",
-          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+          "name": "Dj Moys",
+          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
         }
       ],
-      "duration_ms": 157142,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
+      "duration_ms": 90292,
+      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Pompi Cadera",
-        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
       },
       "artists": [
         {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         }
       ],
-      "duration_ms": 140720,
-      "name": "Pompi Cadera",
-      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -383,6 +383,42 @@
       "duration_ms": 203303,
       "name": "Chiquetere vs Rockstar Tribal Mix",
       "url": "https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Pompi Cadera",
+        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 140720,
+      "name": "Pompi Cadera",
+      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Luego Luegito [Electro Huapango]",
+        "url": "https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k"
+      },
+      "artists": [
+        {
+          "name": "Dj Gecko",
+          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
+        },
+        {
+          "name": "Chunti",
+          "url": "https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Luego Luegito [Electro Huapango]",
+      "url": "https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -407,26 +443,6 @@
       "duration_ms": 175652,
       "name": "Ya Se Tardaron",
       "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Luego Luegito [Electro Huapango]",
-        "url": "https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k"
-      },
-      "artists": [
-        {
-          "name": "Dj Gecko",
-          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
-        },
-        {
-          "name": "Chunti",
-          "url": "https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Luego Luegito [Electro Huapango]",
-      "url": "https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -463,18 +479,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+        "name": "Meneando Cadera",
+        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+      "duration_ms": 131320,
+      "name": "Meneando Cadera",
+      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -491,22 +507,6 @@
       "duration_ms": 142514,
       "name": "El Tabano",
       "url": "https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Meneando Cadera",
-        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Meneando Cadera",
-      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -635,42 +635,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "La Guarachita",
-        "url": "https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG"
-      },
-      "artists": [
-        {
-          "name": "Clap Freckles",
-          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
-        }
-      ],
-      "duration_ms": 179261,
-      "name": "La Guarachita",
-      "url": "https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "La Ni\u00f1a (Remixes)",
-        "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
-      },
-      "artists": [
-        {
-          "name": "Meketrefe",
-          "url": "https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874"
-        },
-        {
-          "name": "Priscila",
-          "url": "https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj"
-        }
-      ],
-      "duration_ms": 264005,
-      "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
-      "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Brindemos Por Ellas",
         "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
       },
@@ -691,6 +655,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "La Guarachita",
+        "url": "https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG"
+      },
+      "artists": [
+        {
+          "name": "Clap Freckles",
+          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
+        }
+      ],
+      "duration_ms": 179261,
+      "name": "La Guarachita",
+      "url": "https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 185227,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "La Ni\u00f1a (Remixes)",
+        "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
+      },
+      "artists": [
+        {
+          "name": "Meketrefe",
+          "url": "https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874"
+        },
+        {
+          "name": "Priscila",
+          "url": "https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj"
+        }
+      ],
+      "duration_ms": 264005,
+      "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
+      "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dale Candela Dale Sabor",
-        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
-      },
-      "artists": [
-        {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
-        }
-      ],
-      "duration_ms": 155599,
-      "name": "Dale Candela Dale Sabor",
-      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -795,6 +779,58 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "\u00c1frica",
+        "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
+      },
+      "artists": [
+        {
+          "name": "Clap Freckles",
+          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
+        }
+      ],
+      "duration_ms": 191115,
+      "name": "\u00c1frica",
+      "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Dale Candela Dale Sabor",
+        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
+      },
+      "artists": [
+        {
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+        }
+      ],
+      "duration_ms": 155599,
+      "name": "Dale Candela Dale Sabor",
+      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Teneloa Kuikayotl",
+        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
+      },
+      "artists": [
+        {
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        },
+        {
+          "name": "Klpuyi",
+          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
+        }
+      ],
+      "duration_ms": 174423,
+      "name": "Teneloa Kuikayotl",
+      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Aborigen",
         "url": "https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy"
       },
@@ -811,18 +847,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "\u00c1frica",
-        "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
+        "name": "Tu-Ku-Tu-Tu-Ku",
+        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
       "artists": [
         {
-          "name": "Clap Freckles",
-          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
         }
       ],
-      "duration_ms": 191115,
-      "name": "\u00c1frica",
-      "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
+      "duration_ms": 190000,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/6U7Nvpt2KXYvTBzlRU2BHI"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -875,26 +915,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Teneloa Kuikayotl",
-        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
-      },
-      "artists": [
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        },
-        {
-          "name": "Klpuyi",
-          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
-        }
-      ],
-      "duration_ms": 174423,
-      "name": "Teneloa Kuikayotl",
-      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "The Virus (Alan Rosales Remix)",
         "url": "https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 271259,
       "name": "The Virus - Alan Rosales Remix",
       "url": "https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Tu-Ku-Tu-Tu-Ku",
-        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
-      },
-      "artists": [
-        {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
-        },
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/6U7Nvpt2KXYvTBzlRU2BHI"
     }
   ],
   "unique_name": "Fiesta Tribal",

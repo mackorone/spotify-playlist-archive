@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Alex Warren x Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,956 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,953 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [Rolling Stone](https://open.spotify.com/track/5QeIil3lPsoVSZE6goUJNB) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [1994 \(Deluxe Edition\)](https://open.spotify.com/album/1C43j8NF2jdWi5W5gItDoE) | 2:41 |
 | 50 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 
-Snapshot ID: `AAAAABHSNRb3/PtmZCb4GM/aHIuCYWlc`
+Snapshot ID: `aC+egAAAAAAwi8ndtYaIMG/5F7UekTXL`

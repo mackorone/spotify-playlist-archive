@@ -146,10 +146,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 136 | [Vulnerable](https://open.spotify.com/track/0OEH8OEUisGGQYP40y02cz) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 4:02 |
 | 137 | [Efecto Secundario](https://open.spotify.com/track/1lr19xYTvsSH5Vf819bMAG) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 3:33 |
 | 138 | [Talénpro](https://open.spotify.com/track/5ihcx6z4ZOqsyIMy7oyACN) | [Generación Talénpro](https://open.spotify.com/artist/3QzJj9SjDd5TtDih8VtNK0) | [Talénpro](https://open.spotify.com/album/1MYfmwWbISTPsCMHjZCNFI) | 1:42 |
-| 139 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 |
-| 140 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
-| 141 | [Cheap Margaritas](https://open.spotify.com/track/6z7OS3P0O3yDQ05WwbQGRV) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [Cheap Margaritas](https://open.spotify.com/album/78nQnLW83yjco3LS3mGits) | 3:10 |
+| 139 | [Cheap Margaritas](https://open.spotify.com/track/6z7OS3P0O3yDQ05WwbQGRV) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [Cheap Margaritas](https://open.spotify.com/album/78nQnLW83yjco3LS3mGits) | 3:10 |
+| 140 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 |
+| 141 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
 | 142 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbyegAAAAADrateKy8ZP26EF0M2uLSBQ`
+Snapshot ID: `AbykUgAAAABpFt7RnxSAt+J6R7plduVX`

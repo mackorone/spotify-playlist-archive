@@ -198,7 +198,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 181465,
       "name": "Ansia Marimba",
       "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 139853,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/1BDQIqtflr6e00qXSUqpW0"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 162446,
       "name": "Cumbia en Sax",
       "url": "https://open.spotify.com/track/15lVvlhv9DXaHykIQsZDXH"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 189492,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/1IKp6a5zX6cZ9MgqyxWpOg"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 134291,
       "name": "La Cucaracha",
       "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 143440,
       "name": "La Ni\u00f1a Popoff",
       "url": "https://open.spotify.com/track/2qlryAB5I1brraqiCVBuBF"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 192069,
       "name": "Lamento Borincano",
       "url": "https://open.spotify.com/track/5AGoOm9irt6qisnTatIRaf"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 97894,
       "name": "Las Ma\u00f1anitas",
       "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 199786,
       "name": "Mambo en Marimba",
       "url": "https://open.spotify.com/track/6ZBedssrUgegt6uxTD3ZaW"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 160565,
       "name": "Mambo Veracruz",
       "url": "https://open.spotify.com/track/54drfrLN4Q1yDGtb7wqYe2"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 169000,
       "name": "Mananitas Oaxaquenas",
       "url": "https://open.spotify.com/track/0SZwZCgUqiJCaXvaZwKetM"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 85090,
       "name": "Mi Villahermosa",
       "url": "https://open.spotify.com/track/1i0PwVXUZAC94ljaKtAyVy"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 221346,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/6kLqRQBIJiJVLSdNWYyy1A"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 138386,
       "name": "Mujer Oaxaquena",
       "url": "https://open.spotify.com/track/01Nn2e2EznC1QWz0VYkGXG"
@@ -2141,24 +2141,6 @@
     },
     {
       "album": {
-        "name": "Nuestro Mexico",
-        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
-      },
-      "artists": [
-        {
-          "name": "Marimba Alma de Chiapas de Juan Palacios",
-          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
-        }
-      ],
-      "date_added": "2021-12-29",
-      "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
-      "duration_ms": 342933,
-      "name": "Musica De Mi Tierra-Mexico Lindo Y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa-Mexico Lindo Y Querido",
-      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
-    },
-    {
-      "album": {
         "name": "Marimba Alma de Chiapas de Juan Palacios",
         "url": "https://open.spotify.com/album/4kVXVvfWMUzSiYQtTnv3BB"
       },
@@ -2174,6 +2156,24 @@
       "duration_ms": 367613,
       "name": "M\u00fasica de Mi Tierra Chiapaneca: La Tortuga del Arenal, El Rascapetate, Chiapas, Las Chiapanecas, Los Parachicos, Aunque me Lleve el Diablo, El Sapo",
       "url": "https://open.spotify.com/track/0t2eoNUaPirQWmcVNyUsOz"
+    },
+    {
+      "album": {
+        "name": "Nuestro M\u00e9xico",
+        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
+      },
+      "artists": [
+        {
+          "name": "Marimba Alma de Chiapas de Juan Palacios",
+          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342933,
+      "name": "M\u00fasica de Mi Tierra: M\u00e9xico Lindo y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa",
+      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
     },
     {
       "album": {
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 187628,
       "name": "Nereidas -",
       "url": "https://open.spotify.com/track/4Rm8tkoYkbXg4be52I20El"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 151179,
       "name": "Que Chula Es Puebla",
       "url": "https://open.spotify.com/track/02dlKZUYW3J15TToUOMohv"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 136720,
       "name": "Salon M\u00e9xico",
       "url": "https://open.spotify.com/track/05IXBPn68Yh3EAVXwzXi8j"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 167624,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/0PVJxs7cCzQo5BBeBMolJE"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 181446,
       "name": "Son Tus Perjumenes Mujer",
       "url": "https://open.spotify.com/track/0HPCtDhSxDHaU8Y5RnqRTG"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 465946,
       "name": "Sones de Mariachi",
       "url": "https://open.spotify.com/track/6VOsbeMYt72TIJg0ANdqzE"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 239853,
       "name": "Tel\u00e9fono A Larga Distancia",
       "url": "https://open.spotify.com/track/72qJDkryV2JZIGY5QPYSO9"
@@ -2807,7 +2807,7 @@
     },
     {
       "album": {
-        "name": "Nuestro Mexico",
+        "name": "Nuestro M\u00e9xico",
         "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
       },
       "artists": [
@@ -2818,9 +2818,9 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 231693,
-      "name": "Vamos A Guerrero-Por Los Caminos Del Sur-La San Marque\u00f1a-Pinotepa Nacional",
+      "name": "Vamos a Guerrero; Por Los Caminos del Sur-La San Marque\u00f1a-Pinotepa Nacional",
       "url": "https://open.spotify.com/track/3thvvHwTN1ri3jtARSckSS"
     },
     {
@@ -2898,9 +2898,9 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 202440,
-      "name": "\u00bfPor qu\u00e9 ser\u00e1?",
+      "name": "\u00bfPor qu\u00e9 ser\u00e1? (Why Would That Be?)",
       "url": "https://open.spotify.com/track/5B33FDtAtAkCbeWQg3D4u2"
     }
   ],

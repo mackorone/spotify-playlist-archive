@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 153417,
       "name": "100K",
       "url": "https://open.spotify.com/track/7eG0GWinCxj5w1SA7MRXxQ"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 278474,
       "name": "Assumptions - slowed down version",
       "url": "https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift"
@@ -5134,7 +5134,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 143349,
       "name": "Bailalo Rocky",
       "url": "https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf"
@@ -5298,6 +5298,28 @@
       "duration_ms": 159493,
       "name": "Baller",
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
+    },
+    {
+      "album": {
+        "name": "Bitters\u00fc\u00df (Baller Deluxe)",
+        "url": "https://open.spotify.com/album/78Wcqh7ygPyANYSd8kn5PG"
+      },
+      "artists": [
+        {
+          "name": "Abor & Tynna",
+          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Baller - nowifi Remix",
+      "url": "https://open.spotify.com/track/1v7J9ZAxKqbuLpvMciORtw"
     },
     {
       "album": {
@@ -11332,7 +11354,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 151823,
       "name": "COUSINS",
       "url": "https://open.spotify.com/track/20fYUtTl5xpG8xXPZkU0yT"
@@ -21562,7 +21584,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/3RYraCZjOLm1jXudyvtPVe"
@@ -23068,7 +23090,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
@@ -28246,7 +28268,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 176668,
       "name": "Kiss Kiss Goodbye",
       "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
@@ -32075,6 +32097,24 @@
     },
     {
       "album": {
+        "name": "made in oblivion",
+        "url": "https://open.spotify.com/album/1giqLKAhVQ2YWq9LcsDpLb"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "made in oblivion",
+      "url": "https://open.spotify.com/track/3nRhny385HNUZVF7A73r1q"
+    },
+    {
+      "album": {
         "name": "Sapte trandafiri",
         "url": "https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh"
       },
@@ -34318,7 +34358,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 172383,
       "name": "Milkshake Man",
       "url": "https://open.spotify.com/track/1kvxvVdeauiXc5ue0Z3HoS"
@@ -34402,6 +34442,24 @@
       "duration_ms": 150158,
       "name": "milliondollarface",
       "url": "https://open.spotify.com/track/7vdlK2Ipdj8ygKtfxkfEFE"
+    },
+    {
+      "album": {
+        "name": "Miluju riskovat",
+        "url": "https://open.spotify.com/album/0keORQotjHhzH7MhMAvCE8"
+      },
+      "artists": [
+        {
+          "name": "Chawo",
+          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Miluju riskovat",
+      "url": "https://open.spotify.com/track/5BZHuyNtiTcakfufIm1yG9"
     },
     {
       "album": {
@@ -50090,7 +50148,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 97846,
       "name": "Sigma Girl",
       "url": "https://open.spotify.com/track/7bkk3wK1vAKuF07oDwzDLV"
@@ -55635,6 +55693,24 @@
     },
     {
       "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -56684,7 +56760,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 163641,
       "name": "Tolik pravdy",
       "url": "https://open.spotify.com/track/5ah0mPYK4eajT0qycgTyXM"
@@ -58986,6 +59062,24 @@
       "duration_ms": 120827,
       "name": "Valeriya",
       "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
+    },
+    {
+      "album": {
+        "name": "Val\u010d\u00edk",
+        "url": "https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx"
+      },
+      "artists": [
+        {
+          "name": "Neny",
+          "url": "https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175172,
+      "name": "Val\u010d\u00edk",
+      "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
     },
     {
       "album": {
@@ -62810,7 +62904,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"

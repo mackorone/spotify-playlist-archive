@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "MARALIM",
+        "url": "https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142333,
+      "name": "MARALIM",
+      "url": "https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb"
+    },
+    {
+      "album": {
         "name": "Kelimeler Yetse",
         "url": "https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR"
       },
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 247733,
       "name": "Silinmez",
       "url": "https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad"

@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-520 songs - 1 day 1 hr 58 min
+521 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 | 2022-11-11 | 2025-04-16 |
 | [Spirito](https://open.spotify.com/track/7t8ODF7MgfkJzRRkpNb4DP) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 4:38 | 2022-05-25 | 2022-09-28 |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-25 | 2023-01-14 |
+| [Starsong](https://open.spotify.com/track/1FAHzP5a3YOq2WSTDRVrFk) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Starsong](https://open.spotify.com/album/1bBJrUWxyKaJb1EamuudKP) | 2:17 | 2025-05-27 |  |
 | [Stella](https://open.spotify.com/track/307xoWpOJypO6nvS1dx7YR) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Stella](https://open.spotify.com/album/52JcE8PUN2E7x1rtjEHHmL) | 2:36 | 2024-11-18 |  |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-09-27 | 2024-12-20 |
 | [Still](https://open.spotify.com/track/2VGYSiY8wnT9YLR8BjcJEF) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Still](https://open.spotify.com/album/7H8cwQxzzwOFGiKWNiEo9S) | 2:42 | 2024-10-11 | 2025-04-16 |

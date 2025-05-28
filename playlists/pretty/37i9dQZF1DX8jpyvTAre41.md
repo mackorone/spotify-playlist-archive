@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,656 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,654 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Forget Yer Name](https://open.spotify.com/track/6J8zAJNk5DZXORHLDt6xB4) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Forget Yer Name](https://open.spotify.com/album/2QR0efpsZf7mtAV9uOZ4iZ) | 3:32 |
 | 100 | [Erase Me](https://open.spotify.com/track/0PcJ2m0cg6F00BB7mNnZva) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Erase Me](https://open.spotify.com/album/6UlqctfJ9XGSKCV97wlPtz) | 3:00 |
 
-Snapshot ID: `aC/y3QAAAACIKaalznefEH7BaB+GiJZM`
+Snapshot ID: `AAAAADbiUbcQ9cx5NbEvcmQAYBWqkwMh`

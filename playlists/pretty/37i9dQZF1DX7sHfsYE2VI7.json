@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 66027,
+  "num_followers": 66045,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
-        "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
       },
       "artists": [
         {
-          "name": "LMC",
-          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
-      "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
+      "duration_ms": 283066,
+      "name": "Loud Places",
+      "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
+        "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
+      },
+      "artists": [
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
+      "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/6jLeSCEqT7sAo0un1aOpSh"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 212400,
       "name": "Make Luv - Live",
       "url": "https://open.spotify.com/track/3UZK9yD18Mtzb6MgYBmuLW"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Loud Places",
-      "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Destroy Rock & Roll",
+        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
+      },
+      "artists": [
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Drop The Pressure",
+      "url": "https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/1k6jh0c0c0mMCXPGT5D8LY"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/5MhdCkaa1vj51vaFTc3qia"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Season High",
-        "url": "https://open.spotify.com/album/5WQJ8sVhjbhhQ0ReiilyO2"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 256973,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3D049Sbjbtn5PjKFSlcv2R"
     }
   ],
   "unique_name": "Chill Dance Classics",

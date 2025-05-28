@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Khaki",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: First Love is Never Returned",
   "name": "Edge!",
   "tracks": [
     {
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 219226,
       "name": "Am I afraid of dying?",
       "url": "https://open.spotify.com/track/4XeVCwO7EKs2zSddgM9RqI"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 218526,
       "name": "Clover",
       "url": "https://open.spotify.com/track/5ygTRRVgfZ6b5agLCxNiGa"
@@ -6194,6 +6194,24 @@
       "duration_ms": 124133,
       "name": "Drag",
       "url": "https://open.spotify.com/track/5CCfTQOsOulGNmvmziUChn"
+    },
+    {
+      "album": {
+        "name": "Where They Dwell",
+        "url": "https://open.spotify.com/album/14O5YDNG8hFL27azFEQAPI"
+      },
+      "artists": [
+        {
+          "name": "TAMTAM",
+          "url": "https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247775,
+      "name": "Dragon in the Lagoon",
+      "url": "https://open.spotify.com/track/57wYaeSHIt4uz6AcGSTdDM"
     },
     {
       "album": {
@@ -8914,7 +8932,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 327066,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N"
@@ -12843,6 +12861,28 @@
     },
     {
       "album": {
+        "name": "kooreru / michi no yurei",
+        "url": "https://open.spotify.com/album/0boyJVq34Bj5mZPJIUewNX"
+      },
+      "artists": [
+        {
+          "name": "oono yuuki band",
+          "url": "https://open.spotify.com/artist/2XInO3WAEo5MkPxdRkM0tS"
+        },
+        {
+          "name": "buoy",
+          "url": "https://open.spotify.com/artist/0SoIfZImEkbzedoaM9AsPv"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302779,
+      "name": "kooreru (feat. buoy)",
+      "url": "https://open.spotify.com/track/6OA1zuvVqJ1aQDUetvMy9a"
+    },
+    {
+      "album": {
         "name": "Kosansengen",
         "url": "https://open.spotify.com/album/3fXd87nD0hfPevWspy3w0G"
       },
@@ -13630,6 +13670,24 @@
       "duration_ms": 264364,
       "name": "little grey",
       "url": "https://open.spotify.com/track/7sHX1Fo3pI5VB69KLIyxBW"
+    },
+    {
+      "album": {
+        "name": "Live On (Minami-Aoyama Samba MIX)",
+        "url": "https://open.spotify.com/album/7gZysicndCOUnzJOmxyRTt"
+      },
+      "artists": [
+        {
+          "name": "End Must Be",
+          "url": "https://open.spotify.com/artist/4CxLpjaaR43KdGIS7nEeI8"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197704,
+      "name": "Live On - Minami-Aoyama Samba MIX",
+      "url": "https://open.spotify.com/track/7psPyOry3ZqLnFzdkUo1Ck"
     },
     {
       "album": {
@@ -18181,6 +18239,24 @@
     },
     {
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/7e3FNDScShWLDhOCrKmXfp"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204527,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/74hpmY5xZhbD0ZjAogiBOB"
+    },
+    {
+      "album": {
         "name": "Mah\u014dgakk\u014d",
         "url": "https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj"
       },
@@ -20341,6 +20417,24 @@
     },
     {
       "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/6oS0jrdtG8AGqS6edYPwZ9"
+      },
+      "artists": [
+        {
+          "name": "SuiseiNoboAz",
+          "url": "https://open.spotify.com/artist/09rAbsqza6GM0611tmVX2J"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276031,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/1iw71RYEVpU30ClK6BOZbZ"
+    },
+    {
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/12ai0thg6KejuhKhzYX3cn"
       },
@@ -20876,7 +20970,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 137500,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ki6ZG4KxmaZNA8vq1Oag2"
@@ -23969,6 +24063,24 @@
     },
     {
       "album": {
+        "name": "Super Shine",
+        "url": "https://open.spotify.com/album/6PF8NX9Z37bL24a1bJgsAt"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192028,
+      "name": "Super Shine",
+      "url": "https://open.spotify.com/track/6EjifPIQSrnhYgv9t19tVn"
+    },
+    {
+      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub"
       },
@@ -24560,7 +24672,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 222000,
       "name": "tale chasing - feat. \u6625\u306d\u3080\u308a",
       "url": "https://open.spotify.com/track/2VFb816VS7kX3DiSjvVLoy"
@@ -25686,7 +25798,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 179680,
       "name": "this town is yours",
       "url": "https://open.spotify.com/track/6HCZMlnBZ5p4O9eB7ZdQCz"
@@ -26686,7 +26798,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 107818,
       "name": "Unconsiously",
       "url": "https://open.spotify.com/track/2n7oP8zYvxfceZyOuETQ7S"
@@ -28358,10 +28470,28 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 297457,
       "name": "Yanenonaihoshi",
       "url": "https://open.spotify.com/track/4s7ZGVJU8qJX1XBJmkQRNs"
+    },
+    {
+      "album": {
+        "name": "Yankees Brew (One Shot Live Session)",
+        "url": "https://open.spotify.com/album/1UwPG8dmq60iADWylKgvvH"
+      },
+      "artists": [
+        {
+          "name": "Half Mile Beach Club",
+          "url": "https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Yankees Brew (One Shot Live Session)",
+      "url": "https://open.spotify.com/track/7Ay3wUH83YdsI1jL2teQH8"
     },
     {
       "album": {
@@ -31816,7 +31946,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 216977,
       "name": "\u3082\u3057\u3082\u307e\u305f\u96c6\u307e\u308c\u308c\u3070",
       "url": "https://open.spotify.com/track/046AC9qQPulAogS72hGCNj"
@@ -33320,6 +33450,24 @@
       "duration_ms": 237994,
       "name": "\u30b5\u30f3\u30bb\u30c3\u30c8\u30a8\u30b9\u30b1\u30fc\u30d7",
       "url": "https://open.spotify.com/track/2AznAEBQ0nfURKhzp0xTWW"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30f3\u30c0\u30eb",
+        "url": "https://open.spotify.com/album/5kt21vnqezeXOYVYTLydbS"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u60f3\u3044",
+          "url": "https://open.spotify.com/artist/74nDyelvbniQaGrB5D9QuQ"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212143,
+      "name": "\u30b5\u30f3\u30c0\u30eb",
+      "url": "https://open.spotify.com/track/3LFJNwEvZ1wZmaTXOByCT8"
     },
     {
       "album": {
@@ -40934,7 +41082,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 283600,
       "name": "\u685c\u6e90\u90f7",
       "url": "https://open.spotify.com/track/3U4xv0PPyGXjOW4J5oe1M9"

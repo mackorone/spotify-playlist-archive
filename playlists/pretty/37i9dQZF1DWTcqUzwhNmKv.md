@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Linkin Park are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,986 likes - 79 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,572,518 likes - 79 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 78 | [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 |
 | 79 | [Pig](https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Pig](https://open.spotify.com/album/7M8qLO0UvEJfgiJ8lqXwVo) | 3:45 |
 
-Snapshot ID: `aDQOmwAAAADeoBWBpz/Dc5RhXTQi2XHM`
+Snapshot ID: `aDQOmwAAAACQycB96MzFwTJ9GP0WddHA`

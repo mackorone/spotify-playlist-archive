@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: faccianuvola
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,490 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,494 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,19 +18,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 8 | [COME VOLEVI TU](https://open.spotify.com/track/4RiMq7eFBrGkUwCLJXDZwg) | [LALA](https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt) | [SSM](https://open.spotify.com/album/7gEG2RFuW2AApVAeC4bVEu) | 2:43 |
 | 9 | [dove sei?](https://open.spotify.com/track/2MqjNlfYZQcR5kf2jkPh4m) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [dove sei?](https://open.spotify.com/album/4X248CxumS9wGej2da24JP) | 2:47 |
 | 10 | [Acchiappasogni](https://open.spotify.com/track/36kcfoEvbYcHHevbpSflhP) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [Acchiappasogni](https://open.spotify.com/album/3ghi5q2aPokmadPQdiIKL7) | 2:55 |
-| 11 | [Fragile](https://open.spotify.com/track/1IFQnOb4MpxDG7NVUNJCWQ) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [Fragile](https://open.spotify.com/album/3nZVgun3VRjzuyaj7X2DAJ) | 3:15 |
-| 12 | [Pizza cuore](https://open.spotify.com/track/0kO3U0QtKUdIjsQH2OZu3C) | [Calafati](https://open.spotify.com/artist/4iDEiKWxsFdRpj4fenoiPt) | [Pizza cuore](https://open.spotify.com/album/0eYOBlbH89cp8txiK3QJ4N) | 4:25 |
-| 13 | [il cielo è così terso](https://open.spotify.com/track/6rfBdgPdwHSXhqcGrQDHkA) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Ortensie Comete](https://open.spotify.com/album/7AWANKuqSdNSYro8EbisWz) | 4:26 |
-| 14 | [Solamente qualche volta](https://open.spotify.com/track/3jepM84GHXo58AafyJbnzV) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ), [Max D'Ambra](https://open.spotify.com/artist/3DLt4nX7NHxSoL50l5l3re) | [Solamente qualche volta](https://open.spotify.com/album/1tvoRLJq3umfMZT8DexSz3) | 3:36 |
-| 15 | [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 |
+| 11 | [Una cosa da raccogliere](https://open.spotify.com/track/0MWzXFDDsOZHDQ4VLqEyjz) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Dei giorni passati a guardare](https://open.spotify.com/album/2BkI2sT5TwQqPe9CONUDtc) | 2:24 |
+| 12 | [La Tua Amica Più Cara](https://open.spotify.com/track/2JHbvtRvFkl6ptw57o5QCW) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [La Tua Amica Più Cara](https://open.spotify.com/album/5k9YwWkCXdNRYSwIcVtg3V) | 3:01 |
+| 13 | [Luna di Lupo](https://open.spotify.com/track/7BaXogv1saFbLbwFFXroPS) | [Margherita Zerbini](https://open.spotify.com/artist/2RMXndYAzhBJd4IcgECmsY) | [Luna di Lupo](https://open.spotify.com/album/0vogFiZZi5YNyZeh6lKt9Y) | 3:08 |
+| 14 | [Pizza cuore](https://open.spotify.com/track/0kO3U0QtKUdIjsQH2OZu3C) | [Calafati](https://open.spotify.com/artist/4iDEiKWxsFdRpj4fenoiPt) | [Pizza cuore](https://open.spotify.com/album/0eYOBlbH89cp8txiK3QJ4N) | 4:25 |
+| 15 | [Fragile](https://open.spotify.com/track/1IFQnOb4MpxDG7NVUNJCWQ) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [Fragile](https://open.spotify.com/album/3nZVgun3VRjzuyaj7X2DAJ) | 3:15 |
 | 16 | [Vaffanculo](https://open.spotify.com/track/0mVu1xIle6hpIE24TzTys0) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [La Crisi dell'Uomo \(Deluxe\)](https://open.spotify.com/album/3cYCSMiEqkFxbwjengeS6z) | 2:57 |
 | 17 | [rondine / angelica](https://open.spotify.com/track/1Tr2NJr6gIZU7olFv5K8IW) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 3:22 |
-| 18 | [COLLISIONE](https://open.spotify.com/track/3E1TuHUDzlbquMmvkzbSqS) | [CARRESE](https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL) | [CRISALIDE](https://open.spotify.com/album/37XoPU9JXgqWCR2pW0utiP) | 3:34 |
-| 19 | [Luna di Lupo](https://open.spotify.com/track/7BaXogv1saFbLbwFFXroPS) | [Margherita Zerbini](https://open.spotify.com/artist/2RMXndYAzhBJd4IcgECmsY) | [Luna di Lupo](https://open.spotify.com/album/0vogFiZZi5YNyZeh6lKt9Y) | 3:08 |
-| 20 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
-| 21 | [Onitsuka Brown](https://open.spotify.com/track/6fX5AQ32hJ19TzExdeKSYi) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Onitsuka Brown](https://open.spotify.com/album/6e3kHhcWsFiZ61D4Ik1vvw) | 2:53 |
-| 22 | [La Tua Amica Più Cara](https://open.spotify.com/track/2JHbvtRvFkl6ptw57o5QCW) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [La Tua Amica Più Cara](https://open.spotify.com/album/5k9YwWkCXdNRYSwIcVtg3V) | 3:01 |
-| 23 | [Una cosa da raccogliere](https://open.spotify.com/track/0MWzXFDDsOZHDQ4VLqEyjz) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Dei giorni passati a guardare](https://open.spotify.com/album/2BkI2sT5TwQqPe9CONUDtc) | 2:24 |
+| 18 | [il cielo è così terso](https://open.spotify.com/track/6rfBdgPdwHSXhqcGrQDHkA) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Ortensie Comete](https://open.spotify.com/album/7AWANKuqSdNSYro8EbisWz) | 4:26 |
+| 19 | [Solamente qualche volta](https://open.spotify.com/track/3jepM84GHXo58AafyJbnzV) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ), [Max D'Ambra](https://open.spotify.com/artist/3DLt4nX7NHxSoL50l5l3re) | [Solamente qualche volta](https://open.spotify.com/album/1tvoRLJq3umfMZT8DexSz3) | 3:36 |
+| 20 | [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 |
+| 21 | [COLLISIONE](https://open.spotify.com/track/3E1TuHUDzlbquMmvkzbSqS) | [CARRESE](https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL) | [CRISALIDE](https://open.spotify.com/album/37XoPU9JXgqWCR2pW0utiP) | 3:34 |
+| 22 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 23 | [Onitsuka Brown](https://open.spotify.com/track/6fX5AQ32hJ19TzExdeKSYi) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Onitsuka Brown](https://open.spotify.com/album/6e3kHhcWsFiZ61D4Ik1vvw) | 2:53 |
 | 24 | [Martedì](https://open.spotify.com/track/72f8rrWu5ZyTkowUCUs1y9) | [HAMBURGO](https://open.spotify.com/artist/7rEBJhnCtbpVOXacgihVdd) | [Martedì](https://open.spotify.com/album/7g29SAK7M8QbO52uWqIpbi) | 3:19 |
 | 25 | [Vorrei Odiarti](https://open.spotify.com/track/4CNeWnXtVJ1cgNQ4msUoPE) | [Florinda](https://open.spotify.com/artist/4MbtMtKmurOvjSw5i4u0LU) | [Vorrei Odiarti](https://open.spotify.com/album/5xBD9md5eMvoeK4u0aYSwJ) | 2:50 |
 | 26 | [Beverly Hills](https://open.spotify.com/track/7qanHZthVAAE5EK1Zqe53l) | [ALICE](https://open.spotify.com/artist/0ToaPtnbi9jzYRkSgnUoEp) | [Beverly Hills](https://open.spotify.com/album/0WJfkFS9vX47nMgy8JyePF) | 2:30 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 104 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 | 105 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
 
-Snapshot ID: `aDQiFAAAAACAZsMryKwkhFoak9nv1ZJ4`
+Snapshot ID: `aDW7rwAAAADCjr4ssb3cnJMBeKB/UWIX`

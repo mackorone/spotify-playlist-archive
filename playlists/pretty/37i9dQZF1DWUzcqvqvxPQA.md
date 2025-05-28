@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Spring is here! Check out these fresh tracks to keep your faith blooming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,982 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,991 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 59 | [Hand It To Jesus](https://open.spotify.com/track/4EyCv6grVlsZoraot8LTGJ) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Hand It To Jesus](https://open.spotify.com/album/76iEI6HptDGdJAsxp5jF2y) | 3:40 |
 | 60 | [Heartbeat \- Live](https://open.spotify.com/track/5901lRKYg3yE8TSikghLsO) | [Gateway ALL IN](https://open.spotify.com/artist/4UBVmZZCusAPfH11kGImxO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Heartbeat \(Live\)](https://open.spotify.com/album/3e4yorS3h0tIJ93uvOcVK4) | 3:35 |
 
-Snapshot ID: `AAAAAANKWJ+VpFlxNQUcrOqEqfY+pbkZ`
+Snapshot ID: `Z+9ZSgAAAAAbwUzhamKirLXZWAXhX7Yi`

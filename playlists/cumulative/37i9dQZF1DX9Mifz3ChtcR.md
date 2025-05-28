@@ -4,13 +4,14 @@
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-148 songs - 6 hr 58 min
+158 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Above Us](https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Above Us](https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP) | 2:58 | 2025-05-13 |  |
 | [Aetheris](https://open.spotify.com/track/0j1qiClBRZdGFjJkkCqCLS) | [Eunephele](https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm) | [Aetheris](https://open.spotify.com/album/0Ed5HgEcEVO8FQXhtdEibT) | 3:13 | 2025-05-13 |  |
 | [Affections](https://open.spotify.com/track/1RN8RzzOQMgPuLbyUMYrj7) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Affections](https://open.spotify.com/album/6MMTdk9uojOlZgNZzrT8Fk) | 2:44 | 2025-05-13 |  |
+| [Alami Calma](https://open.spotify.com/track/38M52H0WHEnyySoxLObqGy) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Alami Calma](https://open.spotify.com/album/2epmnJevgjT3B70SISwT0t) | 2:45 | 2025-05-27 |  |
 | [Alice the Flower](https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Alice the Flower](https://open.spotify.com/album/74RgcJ4hG1XLutWvM51Ssf) | 3:13 | 2025-05-13 |  |
 | [All the stars](https://open.spotify.com/track/3bKCh1q0CTDRZJ0a7OtwkR) | [Arya Shae](https://open.spotify.com/artist/5jTigCDuv898J4oTRvco0w) | [All the stars](https://open.spotify.com/album/37arZEnvnYlXMMxkiRI8Fy) | 3:06 | 2025-05-13 |  |
 | [Alone Hours](https://open.spotify.com/track/4eQStNR5mG3bIfo0ncssep) | [Palaestrio](https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4) | [Alone Hours](https://open.spotify.com/album/2JjSANGaR0NVdiWzJfRopy) | 2:38 | 2025-05-13 |  |
@@ -30,6 +31,7 @@
 | [Bare](https://open.spotify.com/track/2PWkjTnM1UiuLMBiBdwimc) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Bare](https://open.spotify.com/album/2AIXNyefzl7rb661tgI5YE) | 2:48 | 2025-05-13 |  |
 | [Beyond The Night](https://open.spotify.com/track/1Fo0FKfErhy0Yssl77j6Bm) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Beyond The Night](https://open.spotify.com/album/3YiNdLe3th4173nt65W3G6) | 2:21 | 2025-05-13 |  |
 | [Beyond the Sunset](https://open.spotify.com/track/6skst5G69hmm0SegfHK3h6) | [Viola Aura](https://open.spotify.com/artist/62tzMge45KuVH6CarRyacb) | [Beyond the Sunset](https://open.spotify.com/album/5DoE9xqd55SyKROdRgRRIt) | 3:12 | 2025-05-13 |  |
+| [beyond what we know](https://open.spotify.com/track/5WSbS8CVxxOQ2DyVl0BHeL) | [in my daydreams](https://open.spotify.com/artist/5Twl9Txd7gP1DmkE89hpz3) | [beyond what we know](https://open.spotify.com/album/1a6OZkObXu9RifpHZs8wyI) | 2:32 | 2025-05-27 |  |
 | [Blissful](https://open.spotify.com/track/2WcFKnRJEwZH8FxcGUQmur) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Blissful](https://open.spotify.com/album/7mGHEAdufxs8VXlJ8PqW7i) | 2:50 | 2025-05-13 |  |
 | [Blue Sky](https://open.spotify.com/track/7cHTGcZRWWoRjW7LjWZPgc) | [NIGHTSKY](https://open.spotify.com/artist/1jgSsbIMXQHeNqOQD1DsVF) | [Blue Sky](https://open.spotify.com/album/6fAa19zCR8YNRZj8GFR5pk) | 2:34 | 2025-05-13 |  |
 | [Blunda](https://open.spotify.com/track/3J8TT5OCUvSLaBZPVA35UE) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Blunda](https://open.spotify.com/album/2vfAbPvEyKx0W5eirDOe7i) | 2:40 | 2025-05-13 |  |
@@ -39,6 +41,7 @@
 | [Cenotes](https://open.spotify.com/track/5Z88C3CZtuBsvQGby7k173) | [Suevite](https://open.spotify.com/artist/2aiIFnAcGlUnGaWCZfirBp) | [Cenotes](https://open.spotify.com/album/4lRcxA5hMjd7mgS47IZ16k) | 2:49 | 2025-05-13 |  |
 | [Coastline](https://open.spotify.com/track/3bTIrATW4lqsYtOasWHHNq) | [Drew Morrison](https://open.spotify.com/artist/31YMTuzX6SccnRYcWrQVJe) | [Coastline](https://open.spotify.com/album/169F874BHCrBzYYordSZAe) | 2:51 | 2025-05-13 |  |
 | [Comprehension](https://open.spotify.com/track/5yQpaTprgLIriEeewGvdGy) | [Bøyer](https://open.spotify.com/artist/6fpFvWUTUVJzShiuVCYE03) | [Comprehension](https://open.spotify.com/album/46Y5J09KKiRE84fNy4GixD) | 2:53 | 2025-05-13 |  |
+| [Congenial](https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Congenial](https://open.spotify.com/album/4h368obuwJlxZQjhEVihKM) | 2:42 | 2025-05-27 |  |
 | [Cosmic Clouds](https://open.spotify.com/track/0UZwHCbLDEjyqFQBQ5QLw0) | [La Luce](https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz) | [Cosmic Clouds](https://open.spotify.com/album/6Pnvwb1hRk3waTWBDDbGXy) | 2:26 | 2025-05-13 |  |
 | [Cosmos Estelar](https://open.spotify.com/track/1i0H50iTqumUIecrvZmYfY) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Cosmos Estelar](https://open.spotify.com/album/1wMcXb5Eyv2H9sIPwBNIvK) | 3:04 | 2025-05-13 |  |
 | [Cotton For Ears](https://open.spotify.com/track/2cDOGBsHJH3PU2NMFGKr7q) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Cotton For Ears](https://open.spotify.com/album/1gUh1zfbBUZx419i20VQue) | 2:42 | 2025-05-13 |  |
@@ -67,9 +70,11 @@
 | [Gentle](https://open.spotify.com/track/4NhNqADCVHtinzGQkZrRkO) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Gentle](https://open.spotify.com/album/5QlJDob0lzv0Q6QsGUz2pW) | 2:53 | 2025-05-13 |  |
 | [Gentle Breeze](https://open.spotify.com/track/06SiO72LbLmswjSfIAvv2u) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Gentle Breeze](https://open.spotify.com/album/6RKESqDqgHpOD7CYFvm9e4) | 2:32 | 2025-05-13 |  |
 | [Glowing Spheres](https://open.spotify.com/track/28pX8p0TvmU6jqcZSI4FRY) | [Rika Linn](https://open.spotify.com/artist/3fqx8RiPwj5t3AiBvNcbib) | [Glowing Spheres](https://open.spotify.com/album/0Bkfgn4aFVWiCsucuhSWtU) | 2:36 | 2025-05-13 |  |
+| [Glowing Twilight](https://open.spotify.com/track/0T9BjjGWgYgk7xG0fco0zq) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [Glowing Twilight](https://open.spotify.com/album/1kK8d3MaFbhIpOOP8DRw6c) | 2:28 | 2025-05-27 |  |
 | [Golden](https://open.spotify.com/track/02keVBPnt5mlGBBfnZN9MG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Golden](https://open.spotify.com/album/3N7LnWIIy69P55Y4Vzkhz7) | 3:01 | 2025-05-13 |  |
 | [Grounding](https://open.spotify.com/track/0lR3KWoaXzVNZqSz4tbJ5R) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Grounding](https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6) | 2:48 | 2025-05-13 |  |
 | [Haga](https://open.spotify.com/track/3cn0l0j6gErAtcLxDy6H2u) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Haga](https://open.spotify.com/album/7dB6nJBt99ReX6nrK47TGI) | 2:38 | 2025-05-13 |  |
+| [Hypnos](https://open.spotify.com/track/1SxUWVO00afAlDxOm49fsN) | [XYROS](https://open.spotify.com/artist/2cXeNr7EjrnlwnWWfxFV2y) | [Hypnos](https://open.spotify.com/album/6WSMun0cHfujKnOvs0Rg8P) | 2:38 | 2025-05-27 |  |
 | [Hypnotic Distance](https://open.spotify.com/track/3XCLJE6SZ9wQ9r1CE7GcqY) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Hypnotic Distance](https://open.spotify.com/album/2uHqhY7Z8R1VlLwTAZJBAo) | 2:15 | 2025-05-13 |  |
 | [Imagination](https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Imagination](https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK) | 2:29 | 2025-05-13 |  |
 | [In Ether](https://open.spotify.com/track/08JyiystzBP00f3boEYPKS) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [In Ether](https://open.spotify.com/album/7xFS9jgV4AwJsDSZTCjLrA) | 2:46 | 2025-05-13 |  |
@@ -94,6 +99,7 @@
 | [Morpheus](https://open.spotify.com/track/72T19csQhfZSmIPfIxn9Hu) | [Slumber Boy](https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n) | [Morpheus](https://open.spotify.com/album/1BQgjIdPw0NcCJrVZzmMN4) | 2:40 | 2025-05-13 |  |
 | [Novela](https://open.spotify.com/track/5niLpTfr4mjTpRZZReAuSZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Novela](https://open.spotify.com/album/45XWRStH7Eg4CJc8GZQgNS) | 3:54 | 2025-05-13 |  |
 | [Oblivion](https://open.spotify.com/track/3pFhD604t0QhjNzhOeF4Yz) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Oblivion](https://open.spotify.com/album/5XWGjfCh2V4j1CufytahFw) | 3:07 | 2025-05-13 |  |
+| [Ocean Glow](https://open.spotify.com/track/5FOqxOqWOL4EbK4kjoqkYh) | [Rawiri Te Awa](https://open.spotify.com/artist/7N2I8FaKX2fyQSVIOEzFRP) | [Ocean Glow](https://open.spotify.com/album/0L0LkAa1ysATbfqptmtzrC) | 3:02 | 2025-05-27 |  |
 | [Opal Mirage](https://open.spotify.com/track/4uSFlgIdhWIe1zi6lfKcpQ) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Opal Mirage](https://open.spotify.com/album/1m5g6dYfogaOgXBAENGdv5) | 3:08 | 2025-05-13 |  |
 | [Oscuro](https://open.spotify.com/track/1OY6RiCUDSvHOYMoMks0vP) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Oscuro](https://open.spotify.com/album/2z7oYeXSY1lrLmQq7MhwYX) | 2:50 | 2025-05-13 |  |
 | [Pangaea](https://open.spotify.com/track/1eWQWzggVkmtzEH4sU6FMH) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Pangaea](https://open.spotify.com/album/5LdR17Y6pym1QGv4N8zHVP) | 3:06 | 2025-05-13 |  |
@@ -128,6 +134,7 @@
 | [Soothe](https://open.spotify.com/track/78g1EvC6Uv76bTnMaL0l35) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Soothe](https://open.spotify.com/album/4SZHjPjuBPNkqXWSpsTWke) | 2:42 | 2025-05-13 |  |
 | [Soothe Away Delta 70\-74hz](https://open.spotify.com/track/2Sh6YjOXu5yQuLEFFIZ6ff) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Soothe Away Delta](https://open.spotify.com/album/0rYDjfWkZl6YiUhVquIGw8) | 2:33 | 2025-05-13 |  |
 | [Sova](https://open.spotify.com/track/0aRsStJ9thnpiSPL4cHazY) | [Oak Signum](https://open.spotify.com/artist/778Jcgt9K46ugLXd2DgsKy) | [Sova](https://open.spotify.com/album/5SMakHDUPZnxnQEcCrJquj) | 2:47 | 2025-05-13 |  |
+| [Sparrow Delta 68 Hz \- 71 Hz](https://open.spotify.com/track/4saUdtxUbXP06VC71JW0ef) | [Apaxx](https://open.spotify.com/artist/2myI6PZzbUdW5T4TXdmYU0) | [Sparrow Delta 68 Hz \- 71 Hz](https://open.spotify.com/album/47pIsTgpuxa2xZamadYuG9) | 2:58 | 2025-05-27 |  |
 | [Spirits of Azure](https://open.spotify.com/track/4Yp7BY1uAR2YmNH8aR0CMO) | [Rikkas](https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us) | [Spirits of Azure](https://open.spotify.com/album/3TwvJuJtfXw7s3y0Sjc6DC) | 2:42 | 2025-05-13 |  |
 | [Stardust Swimmer](https://open.spotify.com/track/3mUSKhO1qRrCrdem0VAYh2) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Stardust Swimmer](https://open.spotify.com/album/6qm6n44iypDFcspqF5Q9T8) | 2:44 | 2025-05-13 |  |
 | [Starswept Silence](https://open.spotify.com/track/1wZpqXXgn6Gc6kew22aB7x) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Starswept Silence](https://open.spotify.com/album/4pdUfy4vbS8Az7ImMzrFXq) | 2:57 | 2025-05-13 |  |
@@ -149,11 +156,14 @@
 | [Ultraviolet](https://open.spotify.com/track/7FPnysT9XlsLvs5iXA7Dc3) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Ultraviolet](https://open.spotify.com/album/3vrQ8sKGLN2GwJGyt0mGs0) | 2:21 | 2025-05-13 |  |
 | [Unified](https://open.spotify.com/track/4hWR306ytZ2nAQp70GNvhU) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Unified](https://open.spotify.com/album/6ynNLysScJPUeXLVLrBsDK) | 2:40 | 2025-05-13 |  |
 | [Unsorrow](https://open.spotify.com/track/5TiBe90Hq1gTj3AKeL6ncQ) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Unsorrow](https://open.spotify.com/album/20Hhsx60Y90L6C36UssUHz) | 3:06 | 2025-05-13 |  |
+| [Veil of Dreams](https://open.spotify.com/track/2muQcn1dfdJMx8TC37GO3H) | [Matsyendrasana](https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m) | [Veil of Dreams](https://open.spotify.com/album/1QEvrpHQB9ZjQBKG280C9h) | 3:07 | 2025-05-27 |  |
+| [Vestige](https://open.spotify.com/track/3IuvEcP7B3FCHNG07fTkNi) | [Aurelia Drift](https://open.spotify.com/artist/1yIF1xY9YyuJmbmIBtGuAT) | [Vestige](https://open.spotify.com/album/7wIMDhhrTK4egNZV9BbH7S) | 3:30 | 2025-05-27 |  |
 | [Visuals](https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Visuals](https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi) | 2:58 | 2025-05-13 |  |
 | [Wandering Mind Delta D Sinus 71\-75hz](https://open.spotify.com/track/3qT0OfT3N48RVPhosh9XO4) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Wandering Mind Delta D Sinus 71\-75hz](https://open.spotify.com/album/5nhEOo2XprVT5MCs3GPQ3x) | 2:36 | 2025-05-13 |  |
 | [Water](https://open.spotify.com/track/6IvWIeu3tg9pJW8Iedx7vN) | [Deep Seek](https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy) | [Water](https://open.spotify.com/album/049cPHHoWqg4dKgqX3ER3W) | 3:22 | 2025-05-13 |  |
 | [Waves of Serenity](https://open.spotify.com/track/04wDZI7XuCjGicazG046t9) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Waves of Serenity](https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf) | 2:21 | 2025-05-13 |  |
 | [When Dreams Come True](https://open.spotify.com/track/2eBbbpIhX9RUpadLxW6O0f) | [Aster alpinus](https://open.spotify.com/artist/5GncNXKJrJiIAEbkWtyTJC) | [When Dreams Come True](https://open.spotify.com/album/3K8dvzs8jd0qbmSgphmRa6) | 2:32 | 2025-05-13 |  |
+| [Whispering Sunrise](https://open.spotify.com/track/690o9EEmRjcpa4C1xGTZhK) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Whispering Sunrise](https://open.spotify.com/album/0AHouvD5huNwiK7xjj0sec) | 2:28 | 2025-05-27 |  |
 | [Wisdom vibrations](https://open.spotify.com/track/5878golZbd2AomVbWph91I) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Wisdom vibrations](https://open.spotify.com/album/3xTdVnPUkrKoYlzujWXwwO) | 2:30 | 2025-05-13 |  |
 | [Zorite](https://open.spotify.com/track/60XnrwhCwVVa2qblI9swFF) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Zorite](https://open.spotify.com/album/3i4IS2Op65DF9jmLCwMDAv) | 2:53 | 2025-05-13 |  |
 

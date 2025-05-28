@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: LX, Abbot",
-  "num_followers": 133088,
+  "num_followers": 133075,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,42 @@
     {
       "added_at": "2025-05-23 03:01:27",
       "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 177144,
+      "name": "MANDRAKA DO MOMENTO",
+      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -243,94 +279,6 @@
     {
       "added_at": "2025-05-23 03:01:27",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 177144,
-      "name": "MANDRAKA DO MOMENTO",
-      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "Mistura de Sotaque",
-        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Mistura de Sotaque",
-      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 177877,
-      "name": "Dose de Gin",
-      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -367,6 +315,78 @@
     {
       "added_at": "2025-05-23 03:01:27",
       "album": {
+        "name": "Mistura de Sotaque",
+        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Mistura de Sotaque",
+      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
+        "name": "Vil\u00e3o da M\u00eddia!",
+        "url": "https://open.spotify.com/album/4Rzf5vUSLRMgsR6z0jew6Z"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Vil\u00e3o da M\u00eddia!",
+      "url": "https://open.spotify.com/track/1QruZLnz4JAyCf06OjxHvK"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 177877,
+      "name": "Dose de Gin",
+      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
         "name": "Cop\u00e3o",
         "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
       },
@@ -383,6 +403,86 @@
       "duration_ms": 157850,
       "name": "Cop\u00e3o",
       "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
+        "name": "TZ da Coronel and Lc da 100 On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/1QAuPyBNiR1X54QF4vWQly"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Lc da 100",
+          "url": "https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 160818,
+      "name": "TZ da Coronel and Lc da 100 On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/4bIbtHOh4b4rZN9A4ztqH1"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "RANDANDAN",
+      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
     },
     {
       "added_at": "2025-05-23 03:01:27",
@@ -419,30 +519,6 @@
       "duration_ms": 228571,
       "name": "MAL INTENCIONADA (J\u00c1 FOI, J\u00c1 ERA)",
       "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "TZ da Coronel and Lc da 100 On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/1QAuPyBNiR1X54QF4vWQly"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Lc da 100",
-          "url": "https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 160818,
-      "name": "TZ da Coronel and Lc da 100 On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/4bIbtHOh4b4rZN9A4ztqH1"
     },
     {
       "added_at": "2025-05-23 03:01:27",
@@ -515,58 +591,6 @@
       "duration_ms": 208241,
       "name": "Novos Ricos - Ao Vivo",
       "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "2023",
-      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "Vil\u00e3o da M\u00eddia!",
-        "url": "https://open.spotify.com/album/4Rzf5vUSLRMgsR6z0jew6Z"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Vil\u00e3o da M\u00eddia!",
-      "url": "https://open.spotify.com/track/1QruZLnz4JAyCf06OjxHvK"
     },
     {
       "added_at": "2025-05-23 03:01:27",
@@ -739,30 +763,6 @@
     {
       "added_at": "2025-05-23 03:01:27",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "RANDANDAN",
-      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
         "name": "Busco Romance Love Show",
         "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
       },
@@ -847,6 +847,50 @@
     {
       "added_at": "2025-05-23 03:01:27",
       "album": {
+        "name": "Final De Semana Na Quebra",
+        "url": "https://open.spotify.com/album/6T4sCgPZddIzuOsh7dv0Ab"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Bradockdan",
+          "url": "https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        }
+      ],
+      "duration_ms": 143283,
+      "name": "Final De Semana Na Quebra",
+      "url": "https://open.spotify.com/track/4mUkMS6mG5FNFIBn0FMfGt"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
+        "name": "INTENSIDADE",
+        "url": "https://open.spotify.com/album/5Ce2UXmZhzQWrIX5K2XcMR"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 127433,
+      "name": "INTENSIDADE",
+      "url": "https://open.spotify.com/track/1sErxEqsi3lrCVBAqzWMEZ"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
         "name": "Pr\u00f3ximo Milion\u00e1rio",
         "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
       },
@@ -895,50 +939,6 @@
       "duration_ms": 151384,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "INTENSIDADE",
-        "url": "https://open.spotify.com/album/5Ce2UXmZhzQWrIX5K2XcMR"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 127433,
-      "name": "INTENSIDADE",
-      "url": "https://open.spotify.com/track/1sErxEqsi3lrCVBAqzWMEZ"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "Final De Semana Na Quebra",
-        "url": "https://open.spotify.com/album/6T4sCgPZddIzuOsh7dv0Ab"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Bradockdan",
-          "url": "https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ"
-        },
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "Final De Semana Na Quebra",
-      "url": "https://open.spotify.com/track/4mUkMS6mG5FNFIBn0FMfGt"
     },
     {
       "added_at": "2025-05-23 03:01:27",
@@ -1011,6 +1011,34 @@
     {
       "added_at": "2025-05-23 03:01:27",
       "album": {
+        "name": "OTAFITA",
+        "url": "https://open.spotify.com/album/5G5V9ggklYsLSVfg4bfVnT"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Jg\u00ea",
+          "url": "https://open.spotify.com/artist/5AVOd85ksSiI2QULxv0gM2"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "PLACO",
+      "url": "https://open.spotify.com/track/3klLSvaW7alyLWJyhcthga"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
         "name": "Hiphop X Funk",
         "url": "https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8"
       },
@@ -1071,34 +1099,6 @@
       "duration_ms": 108648,
       "name": "BAGD\u00c1",
       "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
-        "name": "OTAFITA",
-        "url": "https://open.spotify.com/album/5G5V9ggklYsLSVfg4bfVnT"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Jg\u00ea",
-          "url": "https://open.spotify.com/artist/5AVOd85ksSiI2QULxv0gM2"
-        },
-        {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "PLACO",
-      "url": "https://open.spotify.com/track/3klLSvaW7alyLWJyhcthga"
     },
     {
       "added_at": "2025-05-23 03:01:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Young Miko is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,853 likes - 20 songs - 59 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,984 likes - 20 songs - 59 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [Veni](https://open.spotify.com/track/3CEuOJ1OkVZNWCQNFNrO78) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Veni](https://open.spotify.com/album/4S0upP5YofqumjCdc5qTsj) | 1:57 |
 | 20 | [CHICA ATRACTIVA](https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [YTSQS](https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1) | 2:45 |
 
-Snapshot ID: `AAAAAM0MPxk829I5pEQU/aMzR1ErhfcK`
+Snapshot ID: `aC6hRwAAAAC1KPRCvKtCgTV6ONodWqhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,130 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293,149 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Just Anyone](https://open.spotify.com/track/14wjXdXyutV6oR9JujBKcJ) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Just Anyone](https://open.spotify.com/album/3qTmwN86cihU4EIXZnLYw1) | 2:45 |
 | 50 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
 
-Snapshot ID: `aDPL5QAAAADGmo8hAhB1ZNZNFf8iL9fR`
+Snapshot ID: `aDPL5QAAAADC95nnUZGgEuGYYpfMYjGX`

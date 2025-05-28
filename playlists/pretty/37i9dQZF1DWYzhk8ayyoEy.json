@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 45748,
+  "num_followers": 45766,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA+J2gAAAAB1egklkWHlP9K8pRBKXdwC",
+  "snapshot_id": "aDXL8AAAAABUwC7TH2M1xKS8i8yxzgZi",
   "tracks": [
     {
       "added_at": "2024-10-11 13:41:50",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
-      "added_at": "2025-02-07 05:00:27",
+      "added_at": "2025-05-27 14:28:00",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
       "artists": [
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -55,6 +59,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2025-05-27 14:28:00",
+      "album": {
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 179244,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
     },
     {
       "added_at": "2025-04-28 13:59:54",
@@ -105,6 +125,22 @@
       "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
     },
     {
+      "added_at": "2025-05-27 14:28:00",
+      "album": {
+        "name": "Who Knows",
+        "url": "https://open.spotify.com/album/1yFSk5BGw4B2fDnwJ7hulw"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 171124,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n"
+    },
+    {
       "added_at": "2025-03-14 04:00:02",
       "album": {
         "name": "Lift Me Up",
@@ -121,22 +157,6 @@
       "url": "https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4"
     },
     {
-      "added_at": "2025-03-07 05:00:20",
-      "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX"
-      },
-      "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM"
-    },
-    {
       "added_at": "2024-10-11 13:41:50",
       "album": {
         "name": "GOOD DAY",
@@ -151,6 +171,22 @@
       "duration_ms": 170521,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2025-02-07 05:00:27",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-02-21 05:00:16",
@@ -375,22 +411,6 @@
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/1sERYSzi32APhDRjLAAm7r"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 162728,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/2ARGyDTsorNJG3vclTCzwq"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -775,22 +795,6 @@
       "duration_ms": 341800,
       "name": "A New Day Has Come",
       "url": "https://open.spotify.com/track/6LefIBy3hzTN6Yd1m81gpC"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
     },
     {
       "added_at": "2024-10-11 13:41:50",

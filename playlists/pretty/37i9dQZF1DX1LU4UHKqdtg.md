@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: i\-dle
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,853 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,842 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 10 | [Shining day](https://open.spotify.com/track/1HQkuWiu6utLEsMPWqUdY0) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [LOVE LINE \-Japanese ver.\- ／ Shining day](https://open.spotify.com/album/6LGxKd95jIDxbuakyVb3aP) | 3:30 |
 | 11 | [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 |
 | 12 | [Sugar Free Venom feat\. Kesha](https://open.spotify.com/track/5f89Fv9EdAoSeH0BH6oC7q) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [SEQUENCE 01](https://open.spotify.com/album/2dsk3MlHRNOqWqrUZoqI0K) | 2:48 |
-| 13 | [Starstruck](https://open.spotify.com/track/1w9BOhEgghk4gcbsFT1Meh) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [EXTREME DIAMOND](https://open.spotify.com/album/3Auh0B0oqJaWAllf8OrztY) | 2:42 |
-| 14 | [ONE SPARK \- Japanese ver.](https://open.spotify.com/track/1vY45c20uSTeGq7ZTfJtzT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE5 \(Japanese ver.\)](https://open.spotify.com/album/7H559hhWLuJbRWRJlQTFRG) | 3:03 |
-| 15 | [The Savior \- Japanese Version](https://open.spotify.com/track/2hwQPHjiYR5JqV588OXaFS) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [The Savior \(Dead Mansion X Billlie\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1HyefET1X1jT3DJM9E3prL) | 3:22 |
-| 16 | [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 |
-| 17 | [TEA](https://open.spotify.com/track/2qYsC9SS321xSGXJe7TQME) | [VVS](https://open.spotify.com/artist/48I72itlO50Fhw7BImZ1XJ) | [TEA](https://open.spotify.com/album/6YlnFfeSTnmOAANOF19QA7) | 2:41 |
-| 18 | [Perfect Crime](https://open.spotify.com/track/0XVbVHwZWkWutuBkSK78s9) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:16 |
-| 19 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
+| 13 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
+| 14 | [Starstruck](https://open.spotify.com/track/1w9BOhEgghk4gcbsFT1Meh) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [EXTREME DIAMOND](https://open.spotify.com/album/3Auh0B0oqJaWAllf8OrztY) | 2:42 |
+| 15 | [ONE SPARK \- Japanese ver.](https://open.spotify.com/track/1vY45c20uSTeGq7ZTfJtzT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE5 \(Japanese ver.\)](https://open.spotify.com/album/7H559hhWLuJbRWRJlQTFRG) | 3:03 |
+| 16 | [The Savior \- Japanese Version](https://open.spotify.com/track/2hwQPHjiYR5JqV588OXaFS) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [The Savior \(Dead Mansion X Billlie\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1HyefET1X1jT3DJM9E3prL) | 3:22 |
+| 17 | [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 |
+| 18 | [TEA](https://open.spotify.com/track/2qYsC9SS321xSGXJe7TQME) | [VVS](https://open.spotify.com/artist/48I72itlO50Fhw7BImZ1XJ) | [TEA](https://open.spotify.com/album/6YlnFfeSTnmOAANOF19QA7) | 2:41 |
+| 19 | [Perfect Crime](https://open.spotify.com/track/0XVbVHwZWkWutuBkSK78s9) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:16 |
 | 20 | [DARE ME](https://open.spotify.com/track/7c81kigUIwDoQqz5EXmsZy) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [DARE ME](https://open.spotify.com/album/4odWFnjGSf2eYUqBea9f7q) | 2:43 |
 | 21 | [Live, Love, Laugh](https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS ROAD](https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee) | 3:30 |
 | 22 | [Message](https://open.spotify.com/track/7zcxUs7fDG2YPyYmbVDQlO) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Message](https://open.spotify.com/album/46CtRn5cgpV5xkTQ7xIb5u) | 4:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 | 80 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
 
-Snapshot ID: `aDPD4QAAAADJ4wAV3An7e87I2kNKaj6U`
+Snapshot ID: `aDYBZQAAAAAm3BtSsUd9FxR80eKMz4iR`

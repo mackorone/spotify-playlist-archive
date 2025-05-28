@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-536 songs - 1 day 21 hr 5 min
+537 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Life](https://open.spotify.com/track/2y0dS7cGPbca27XTvsE1oK) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7), [SevenEver](https://open.spotify.com/artist/4Y6akvUaVTWw81IWcBNyDl) | [Life](https://open.spotify.com/album/0F5E6VkUdTKU1AVAONghnY) | 7:50 | 2024-04-18 | 2024-04-26 |
 | [Life \- GHEIST Remix](https://open.spotify.com/track/3sFZpkPuNL0NIxBWof3WdN) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/490CaV6FfZRzeKKjJzF0uT) | 6:02 | 2022-04-15 | 2022-11-26 |
 | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 | 2024-09-02 | 2024-12-18 |
+| [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-05-27 |  |
 | [Limani](https://open.spotify.com/track/0csUvIP8fzcdTBZhesU1rU) | [Mikah](https://open.spotify.com/artist/3jPTUhclHgDcj0RdPcWaqJ), [ELV/RA](https://open.spotify.com/artist/1Do0fKZCstKYzQrwqHupSl) | [Triation, Vol\. V](https://open.spotify.com/album/4WdjFSOirv2bXUXWBFxe4N) | 6:16 | 2023-02-03 | 2023-02-18 |
 | [Lioness \- Argy Remix](https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Lioness \(Argy Remix\)](https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr) | 3:07 | 2024-12-16 |  |
 | [Liquid](https://open.spotify.com/track/757JuM40p8TmQhT41WVLsS) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Liquid](https://open.spotify.com/album/0D0KEIsdwXgjZ1E28zICq9) | 3:36 | 2022-04-15 | 2022-06-25 |
@@ -542,7 +543,7 @@
 | [Yours](https://open.spotify.com/track/5kNv1Du0DqYgKkFgXiBRu3) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Yours](https://open.spotify.com/album/4nx4lWkeRVuqVTIr0RBFH7) | 4:17 | 2022-04-15 | 2022-09-03 |
 | [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2022-11-25 | 2023-02-19 |
 | [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 | 2023-02-17 | 2024-04-19 |
-| [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2024-01-22 |  |
+| [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2024-01-22 | 2025-05-28 |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-22 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

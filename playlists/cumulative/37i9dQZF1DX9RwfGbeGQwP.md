@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,572 songs - 2 day 11 hr 5 min
+1,573 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Bulls](https://open.spotify.com/track/3hzGguJ3xIzOWoSFZBOV4x) | [New Gate](https://open.spotify.com/artist/1zLR47Dgv8ab7NZyoPi2ay) | [Bulls](https://open.spotify.com/album/3koh0TI5LLhJ2bkD0smZ3f) | 2:34 | 2022-01-27 | 2022-07-15 |
 | [Buoyant Mood](https://open.spotify.com/track/7k6qKm5mhfkzjVuvMEUuVe) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Buoyant Mood](https://open.spotify.com/album/498d4L9mZNgKbjuXrNDpQC) | 2:01 | 2022-11-25 | 2023-03-09 |
 | [Bushwick Garage](https://open.spotify.com/track/1f7AROTmLIHlt0Xuia9pIf) | [Fade Boggz](https://open.spotify.com/artist/540xW8Zj0jKsxRi39virc5) | [Bushwick Garage](https://open.spotify.com/album/4Ia4TfhX7YVgHimtmu6xMy) | 2:13 | 2024-08-30 | 2025-03-05 |
+| [butterflies](https://open.spotify.com/track/2rSvj3ijnLX9hQh7yfN5QN) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [butterflies](https://open.spotify.com/album/3w2hAC4HRNyIXW6slXuFBl) | 2:24 | 2025-05-23 |  |
 | [butterflies in my head](https://open.spotify.com/track/0ycyOQwmsZWgiTRNN1MDFk) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [butterflies in my head](https://open.spotify.com/album/425IDUiunzsWmbNdzo7uom) | 1:44 | 2025-04-11 |  |
 | [BUYING TIME](https://open.spotify.com/track/42ONWs84CDvyidcjFTPAdq) | [LiLucifer](https://open.spotify.com/artist/6Lr60FHZF0k8lGTQVQoBSO) | [THROWAWAY VOL\. 4: LAVENDER & LILAC](https://open.spotify.com/album/6lhvBh2ftiVNoDXajbHWL4) | 3:15 | 2022-04-08 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [By Your Side](https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg) | 2:00 | 2023-03-24 |  |
@@ -219,7 +220,7 @@
 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 | 2022-04-08 | 2022-10-15 |
 | [Chilling by the lake](https://open.spotify.com/track/3ZtI3F9EqlIfgDmtdlVJXb) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Chilling by the lake](https://open.spotify.com/album/57vXUREWBWEtyRkhDX17SV) | 2:08 | 2022-10-08 | 2023-09-22 |
 | [Chillpill](https://open.spotify.com/track/4WAL1RcMM1MUlSxLntpHjF) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Pysig](https://open.spotify.com/album/0dQVTWnBsV7WJLDQhKow4d) | 2:42 | 2022-12-16 | 2023-11-17 |
-| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 |  |
+| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 | 2025-05-28 |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-01-27 | 2022-07-08 |
 | [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-03 | 2024-11-21 |
 | [Chocolate Cosmos](https://open.spotify.com/track/0sl6nQZO7BNqSLcKBVgKJp) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Summer Dusk](https://open.spotify.com/album/3WfgziQVxnrHbwQtFEsqey) | 2:10 | 2024-08-30 | 2024-10-26 |

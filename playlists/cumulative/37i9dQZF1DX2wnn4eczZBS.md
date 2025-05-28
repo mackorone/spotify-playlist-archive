@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Eefje de Visser
 
-203 songs - 10 hr 37 min
+204 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Ik Zet De Toon](https://open.spotify.com/track/474F96iGzUsZnx5KcWfR1U) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [Ik Zet De Toon](https://open.spotify.com/album/77wFpa6zVyGbMFDcJesvmF) | 3:27 | 2024-06-26 | 2024-09-13 |
 | [In Dit Huis](https://open.spotify.com/track/03oSvQ8rmgc8ex4iFZZDOq) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [In Dit Huis](https://open.spotify.com/album/5wbhjYGbfNoXI36vX7MYkX) | 3:18 | 2024-06-26 | 2024-11-15 |
 | [Interessant](https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Interessant](https://open.spotify.com/album/05KQqX6QcSxntWgHpfYG6d) | 2:16 | 2024-06-26 | 2024-09-13 |
+| [Is dit echt](https://open.spotify.com/track/3qQcJi8WU1MS5xukw61j8j) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Is dit echt](https://open.spotify.com/album/4eLuerkEYnJ6z69SYvBhVi) | 2:55 | 2025-05-26 |  |
 | [Je Geeft Me Niets](https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Je Geeft Me Niets](https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE) | 2:33 | 2024-09-12 | 2025-02-04 |
 | [Joanne](https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Joanne](https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr) | 3:27 | 2025-03-13 |  |
 | [Jouw Stem](https://open.spotify.com/track/3GcUzRNG5LrUYktawq8PzU) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Jouw Stem](https://open.spotify.com/album/1SDL0q28t1zlBaD4Pc7QeU) | 2:49 | 2024-08-01 | 2025-01-11 |
@@ -130,7 +131,7 @@
 | [MooiMooiMooi](https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [MooiMooiMooi](https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T) | 2:25 | 2024-11-14 | 2025-01-12 |
 | [Naakt Op Het Plein](https://open.spotify.com/track/1L7FnIPHrVXjt49m7Dr36Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:24 | 2024-06-26 | 2024-11-15 |
 | [Naar de Stad](https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Naar de Stad](https://open.spotify.com/album/1UK8ZH7gSxr6qEPH0HMh9O) | 2:59 | 2025-02-03 | 2025-04-01 |
-| [Nacht Apotheker](https://open.spotify.com/track/2kxmQtPX7XccmrRsnXBTTd) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nacht Apotheker](https://open.spotify.com/album/2VoxUYuf8QQ9a8QZVGjtd0) | 2:55 | 2025-04-24 |  |
+| [Nacht Apotheker](https://open.spotify.com/track/2kxmQtPX7XccmrRsnXBTTd) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nacht Apotheker](https://open.spotify.com/album/2VoxUYuf8QQ9a8QZVGjtd0) | 2:55 | 2025-04-24 | 2025-05-28 |
 | [Nachtblind](https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40) | 2:00 | 2024-10-22 | 2025-02-21 |
 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 | 2025-05-26 |  |
 | [NEEM ER EEN BIJ MEID](https://open.spotify.com/track/6vdctqis5ixBZewv7oC08f) | [Boter bij de Vis](https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy) | [MAR & AR VAN BOTER BIJ DE VIS](https://open.spotify.com/album/7bAO1sGEqCU6iIj0xRpJdM) | 2:50 | 2024-06-27 | 2024-07-27 |

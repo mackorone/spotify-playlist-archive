@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374243,
+      "name": "Ecstasy (feat. Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE"
+    },
+    {
+      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
@@ -1856,7 +1878,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 167066,
       "name": "The Path (A New Beginning)",
       "url": "https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u"
@@ -1878,7 +1900,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 134855,
       "name": "The Path - from \"The Last of Us: Season 2\"",
       "url": "https://open.spotify.com/track/1hiPuKUeHw5j2pBuRu04ja"
@@ -2052,7 +2074,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 126053,
       "name": "Vanishing Grace",
       "url": "https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP"

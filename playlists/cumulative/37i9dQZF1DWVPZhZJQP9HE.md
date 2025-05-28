@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-664 songs - 1 day 15 hr 2 min
+665 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Chillamma](https://open.spotify.com/track/6mlbSetAfxt50bqQyX7hMY) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3) | [Chillamma](https://open.spotify.com/album/2Nj1UHK73NCPQH3JDr7Dqw) | 1:04 | 2022-12-19 | 2023-03-07 |
 | [Chinna Paiyan](https://open.spotify.com/track/1s9tOQi4m09oUYrFe4NHq7) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chinna Paiyan](https://open.spotify.com/album/2qM9ehonwr9k0gp3P9pd1N) | 3:22 | 2022-08-15 | 2023-02-24 |
 | [Chippi Kooptan](https://open.spotify.com/track/2axEkmBxTImc565wMJqw58) | [DJ Rishi](https://open.spotify.com/artist/3wJ0LKMmTtsQ6NYJvs1KhB), [Priya Foxie](https://open.spotify.com/artist/0rxSQ5raFS4rleg7MrwjnH), [Miba](https://open.spotify.com/artist/3WxC1wIA5ZOhZs9a1MWwaW) | [Chippi Kooptan](https://open.spotify.com/album/2IH9QWV8YToJW4NBXAgRP9) | 4:46 | 2022-05-27 | 2022-07-15 |
+| [Cleopatra](https://open.spotify.com/track/0VgLYPcGto5VKNYMsZGzP0) | [Sri B](https://open.spotify.com/artist/31MRqDAo9jHsr5g7yIGeuk), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Pooja Venkat](https://open.spotify.com/artist/5jGXTrnlZ7GcwvQl9faKjh), [Sharath S Matthew](https://open.spotify.com/artist/1o888GHVTkLVKv5xnly2D4), [Vikram Vc](https://open.spotify.com/artist/7cZw2GkrNp0JdDQFbNtQjP), [Na\. Idhaya](https://open.spotify.com/artist/4TJq4TWwUeUyfR0HCD8aaH) | [Cleopatra](https://open.spotify.com/album/5oDaOysXEsOoJIhY6vnfoE) | 4:47 | 2025-05-27 |  |
 | [College Road](https://open.spotify.com/track/51E2M4ceHkkb7LVFBKUtrW) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Arvind Raj](https://open.spotify.com/artist/0vzDjdm45mIwLCeginxzIY), [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO), [Asal Kolar](https://open.spotify.com/artist/4uN7BZV1gttGLJL2YXtxxi), [Tactmatic](https://open.spotify.com/artist/2dbt0WnE1cGq4RgSgiATb3), [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2) | [College Road](https://open.spotify.com/album/0NQaJXDO3yciaeMNrN8SOK) | 3:57 | 2022-11-30 | 2023-03-08 |
 | [Colours of Kadhal \- Neethaney](https://open.spotify.com/track/7faMz2abVdPra4LyJbzLbA) | [Cheran](https://open.spotify.com/artist/12DO0YTSF7rvb0StUlUTU4) | [Colours of Kadhal \- Neethaney \- Single](https://open.spotify.com/album/3jehA3DXsmtPah42eDg1Ym) | 3:04 | 2022-10-13 | 2023-02-28 |
 | [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2022-11-25 | 2023-03-08 |

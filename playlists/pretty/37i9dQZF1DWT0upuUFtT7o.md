@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: Mother Soki
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,062 likes - 130 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,107 likes - 130 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

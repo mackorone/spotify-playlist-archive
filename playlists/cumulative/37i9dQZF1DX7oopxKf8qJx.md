@@ -4,7 +4,7 @@
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-80 songs - 4 hr 7 min
+81 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Moon River](https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Essential Henry Mancini](https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE) | 2:40 | 2023-05-09 | 2023-09-02 |
 | [Moon River \- From "Breakfast At Tiffanys"](https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [The Third Man \- Cinema Gala](https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn) | 2:40 | 2023-05-09 |  |
 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 | 2023-05-09 |  |
+| [Moonlight Serenade \- Digitally Remastered](https://open.spotify.com/track/5GLP9ZqgQOHBLNuLSWA5rV) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Touch of Henry Mancini, Vol\. 3](https://open.spotify.com/album/64psneLvhQVZvrPL7zEpiU) | 3:41 | 2024-07-17 |  |
 | [Moonlight Serenade \- Remastered](https://open.spotify.com/track/2x2cFD5A2vNYIOYHkj9Wet) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Days of Wine and Roses \(Remastered\)](https://open.spotify.com/album/6dVb74L9KFX18IZ7kI7zj4) | 3:41 | 2023-05-09 | 2023-11-12 |
 | [My Funny Valentine](https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:22 | 2023-05-09 |  |
 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 | 2023-05-09 |  |
@@ -84,7 +85,7 @@
 | [Unchained Melody](https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Dancing In Wonderland \(Remastered\)](https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI) | 2:43 | 2023-05-09 |  |
 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 | 2023-05-09 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Opiate d'Amour](https://open.spotify.com/album/5RURrxHzWj67htnWpYY1jT) | 2:22 | 2023-05-09 | 2024-04-19 |
-| [When Your Lover Has Gone](https://open.spotify.com/track/2eiOzR5oEsZ5wv5xDc0wgE) | [Jackie Gleason & His Orchestra](https://open.spotify.com/artist/6k13nx65cP0s8FLkhXmtUf) | [Opiate d'Amor](https://open.spotify.com/album/0xu34C0UdHszTGc1FbQsV2) | 2:22 | 2024-03-20 |  |
+| [When Your Lover Has Gone](https://open.spotify.com/track/2eiOzR5oEsZ5wv5xDc0wgE) | [Jackie Gleason & His Orchestra](https://open.spotify.com/artist/6k13nx65cP0s8FLkhXmtUf) | [Opiate d'Amor](https://open.spotify.com/album/0xu34C0UdHszTGc1FbQsV2) | 2:22 | 2024-03-20 | 2025-05-28 |
 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 | 2023-05-09 |  |
 | [You'll Never Know \- Instrumental](https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh) | [Hugo Winterhalter And His Orchestra](https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL) | [I Only Have Eyes for You](https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE) | 2:40 | 2023-05-09 |  |
 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 | 2023-05-09 |  |

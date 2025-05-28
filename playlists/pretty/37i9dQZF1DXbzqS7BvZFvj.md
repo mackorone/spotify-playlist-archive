@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,894 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,896 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 35 | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv) | 2:15 |
 | 36 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 |
 | 37 | [running man](https://open.spotify.com/track/1eVatzAN147H9DLVugRFA2) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jonah Love](https://open.spotify.com/artist/79GmhXdL3OTqfkx0aLRMKi) | [running man](https://open.spotify.com/album/3pwNBfAGQQ1m4AQgiH9xFg) | 1:40 |
-| 38 | [BBGIRLGOSLOW](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BBGIRLGOSLOW](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
+| 38 | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
 | 39 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |
 | 40 | [Send Help](https://open.spotify.com/track/5IDXS1drdwEeikRtT2dZAS) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Send Help](https://open.spotify.com/album/5E1bIESFwNH1KqEKozMAr3) | 3:47 |
 | 41 | [WYC4](https://open.spotify.com/track/3gZl6aBoXI8WyatJwE9aGv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [WYC4](https://open.spotify.com/album/2XPqrnrYQO4USMaC2yINKO) | 1:50 |

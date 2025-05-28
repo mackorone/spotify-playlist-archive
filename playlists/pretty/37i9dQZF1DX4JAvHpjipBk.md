@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from mgk, Alex Warren & Jelly Roll, Burna Boy & Travis Scott, Reneé Rapp, KAROL G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,378,605 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,378,260 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-693 songs - 2 day 19 hr 20 min
+694 songs - 2 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [First Contact](https://open.spotify.com/track/6FQAuZJBlF7iofBWwzK1P7) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [First Contact](https://open.spotify.com/album/7c7cSyjhbwIOsSGF6xtfL9) | 8:07 | 2020-03-25 | 2020-03-25 |
 | [Flames \(feat\. Ruel\) \- Lastlings Remix](https://open.spotify.com/track/5GSxCRwcmFUo0eYjV5UmlR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Flames \(feat\. Ruel\) \[Lastlings Remix\]](https://open.spotify.com/album/79jCjSW0TiYcTKhJLeQ9Hk) | 4:18 | 2019-08-29 | 2021-10-16 |
 | [Flight Into the Void](https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Flight Into the Void EP](https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU) | 6:46 | 2020-10-10 | 2021-01-15 |
-| [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 | 2024-11-15 |  |
+| [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 | 2024-11-15 | 2025-05-28 |
 | [Flume](https://open.spotify.com/track/01coiQuQSxlQ8ZzJbiglBR) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Two](https://open.spotify.com/album/4OrFtWFWZ2d5rJWoQNL8Td) | 7:24 | 2019-08-08 | 2020-06-09 |
 | [Flying Lizard](https://open.spotify.com/track/2oWkahh8zYXrAT4JCQNv5l) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Nico Stojan](https://open.spotify.com/artist/1SuKmGtjsRRJcGhTspfUnd) | [Flying Lizard](https://open.spotify.com/album/6IGgQ466yJMMdHUPKtMIOb) | 7:27 | 2019-08-06\* | 2020-03-21 |
 | [Focus \(Nicone Remix\)](https://open.spotify.com/track/4HW4ViRwwRTqs9aZb80Bnn) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Chris Zippel](https://open.spotify.com/artist/1AqrT183IuX4ZbUIBSEnWS), [Nicone](https://open.spotify.com/artist/3AEuzcFZ5D8H285kNr30HC) | [Letting Go \(Remixes, Pt\. 4\)](https://open.spotify.com/album/1KfdE2qt9sgPnHTDK4rA4t) | 6:18 | 2019-12-08 | 2020-02-20 |
@@ -346,6 +346,7 @@
 | [Lonesome Ghost](https://open.spotify.com/track/05h6pboyWT6WAEwB1CqbP3) | [Collective States](https://open.spotify.com/artist/2rhwvy3bJ8sOazAkbNlOEa) | [Kamino](https://open.spotify.com/album/768NEGmqF9l6Wwl29ixWqR) | 7:43 | 2020-03-02 | 2020-07-25 |
 | [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-30 | 2024-09-17 |
 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 | 2022-06-24 | 2024-05-25 |
+| [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 | 2025-05-23 |  |
 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 | 2020-04-18 | 2020-06-29 |
 | [Lost In The Stars \- Original Mix](https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU) | [ALMA \(GER\)](https://open.spotify.com/artist/6kYaUDGprOe3iZZ5bgxTgO) | [Mother](https://open.spotify.com/album/5v0f0wnZ4qYN8pjhTAZwsy) | 6:53 | 2022-01-14 | 2022-07-29 |
 | [Lotus](https://open.spotify.com/track/5B8J43hJFeVJvZEU2LdSwf) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h) | [Lotus](https://open.spotify.com/album/0KKINwa81J8iMNiEzlmocZ) | 7:13 | 2020-09-26 | 2020-11-28 |

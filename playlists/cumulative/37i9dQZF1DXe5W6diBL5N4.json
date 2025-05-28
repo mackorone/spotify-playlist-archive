@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: i-dle(\uc544\uc774\ub4e4)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: IU(\uc544\uc774\uc720)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -7720,7 +7720,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 194346,
       "name": "After 3",
       "url": "https://open.spotify.com/track/7fucJHWl7ssOzaaf5ubYiq"
@@ -13630,7 +13630,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 186720,
       "name": "Are You Alive",
       "url": "https://open.spotify.com/track/0KEgaOvobKmv9VVQg2WI0P"
@@ -15022,7 +15022,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 168827,
       "name": "Attention seeker",
       "url": "https://open.spotify.com/track/0spx4LEu1MPSZoRRcWxdmc"
@@ -19994,7 +19994,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 176210,
       "name": "Because I Do",
       "url": "https://open.spotify.com/track/4bRiJbGiyrlYFAmiDnOJfF"
@@ -22838,6 +22838,24 @@
       "duration_ms": 180120,
       "name": "Bird",
       "url": "https://open.spotify.com/track/6NpNPkpJIWMwm1cOZuOq44"
+    },
+    {
+      "album": {
+        "name": "Bird On The Edge",
+        "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "Bird On The Edge",
+      "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
     },
     {
       "album": {
@@ -33312,6 +33330,24 @@
       "duration_ms": 263080,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/17BSnnbCc5mfW7m7a3VyoS"
+    },
+    {
+      "album": {
+        "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK"
+      },
+      "artists": [
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153026,
+      "name": "CHAMPION (Prod. THE HUB)",
+      "url": "https://open.spotify.com/track/436iPWnOsW8l3JApUJFttv"
     },
     {
       "album": {
@@ -51996,7 +52032,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 146293,
       "name": "DRIFT",
       "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
@@ -98509,6 +98545,24 @@
     },
     {
       "album": {
+        "name": "INDIGO",
+        "url": "https://open.spotify.com/album/6srJKuitohfTWbegNvzDp0"
+      },
+      "artists": [
+        {
+          "name": "withus",
+          "url": "https://open.spotify.com/artist/2aWP9dfGI1dsRSOEYEU6Pb"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156356,
+      "name": "INDIGO",
+      "url": "https://open.spotify.com/track/634j6xKA6nv216gLpnrLmQ"
+    },
+    {
+      "album": {
         "name": "INEEDYOURLOVE",
         "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
       },
@@ -106820,6 +106874,24 @@
       "duration_ms": 197142,
       "name": "L FOR LOVE",
       "url": "https://open.spotify.com/track/4Ruc5qusSWMYOZfJ2DHoKn"
+    },
+    {
+      "album": {
+        "name": "PASSIONE",
+        "url": "https://open.spotify.com/album/1QCvPuhXWsttZrcmXd1nAu"
+      },
+      "artists": [
+        {
+          "name": "Libelante",
+          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241013,
+      "name": "L'amore Si Muove",
+      "url": "https://open.spotify.com/track/1duxzoL5kKueRRnpYkiUil"
     },
     {
       "album": {
@@ -120517,6 +120589,28 @@
     },
     {
       "album": {
+        "name": "[Chapter M Project] 7th Chapter 'Love...ing'",
+        "url": "https://open.spotify.com/album/0TCuMbd30KoVDlXpMiFvCl"
+      },
+      "artists": [
+        {
+          "name": "Kim Young Geun",
+          "url": "https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ"
+        },
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252985,
+      "name": "Love...ing",
+      "url": "https://open.spotify.com/track/2mMiqGCuWIDpMu5XZxbTQY"
+    },
+    {
+      "album": {
         "name": "Love..What is it",
         "url": "https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4"
       },
@@ -122728,6 +122822,24 @@
       "duration_ms": 168480,
       "name": "MAGIC (feat. Blue.D)",
       "url": "https://open.spotify.com/track/1vOuJ3hPxqh9Nr74K5JH7B"
+    },
+    {
+      "album": {
+        "name": "Magic Breeze",
+        "url": "https://open.spotify.com/album/3nRO9sUvqZBOnVi7BULWtD"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145635,
+      "name": "Magic Breeze",
+      "url": "https://open.spotify.com/track/0Sa0CeVBtqcruZn9PClXxw"
     },
     {
       "album": {
@@ -136115,6 +136227,24 @@
     },
     {
       "album": {
+        "name": "A flower bookmark, Pt. 3",
+        "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "Never Ending Story",
+      "url": "https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK"
+    },
+    {
+      "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
@@ -145708,7 +145838,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 191040,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/6qAkUuKYOfkBfuQzkxMANO"
@@ -154084,7 +154214,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 192013,
       "name": "Poster Boy",
       "url": "https://open.spotify.com/track/2cpLtx9GaFPNCsxViN8DI0"
@@ -166460,7 +166590,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 167428,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/3N6JA2WW2zHNDPwOILKbSh"
@@ -194662,7 +194792,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 227746,
       "name": "The Look In Your Eyes",
       "url": "https://open.spotify.com/track/076VrUmpXj8ehHyxTtI67o"
@@ -198452,6 +198582,24 @@
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
+    },
+    {
+      "album": {
+        "name": "Crazily, Only You (Original Webtoon Soundtrack), Pt. 21",
+        "url": "https://open.spotify.com/album/2Yw6SGBU6J6eWB8E6vKIiM"
+      },
+      "artists": [
+        {
+          "name": "Woo Hana",
+          "url": "https://open.spotify.com/artist/0kXG3bnpeqBppNUZug8rhR"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241624,
+      "name": "This night",
+      "url": "https://open.spotify.com/track/3WIiBqhhXX1pYY6tKfaYQq"
     },
     {
       "album": {
@@ -214841,6 +214989,24 @@
     },
     {
       "album": {
+        "name": "What if I",
+        "url": "https://open.spotify.com/album/6XxA3VOm3QM1MlJiCZc8QP"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "What if I",
+      "url": "https://open.spotify.com/track/5k5WQJX1UAtuiYmf1AVDQK"
+    },
+    {
+      "album": {
         "name": "What If I Told You",
         "url": "https://open.spotify.com/album/5sHNEEM4Mp5v5V3sp3JZSJ"
       },
@@ -230160,7 +230326,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 238040,
       "name": "\uadf8\ub300\ub3c4 \ub098\ucc98\ub7fc",
       "url": "https://open.spotify.com/track/427GFsFVqlktdQThIZfRjI"
@@ -232314,6 +232480,24 @@
       "duration_ms": 225013,
       "name": "\ub2e4 \uc0c1\uad00\uc5c6\ub2e4 No Matter",
       "url": "https://open.spotify.com/track/0Efdb82K81GtNDqcVafMp7"
+    },
+    {
+      "album": {
+        "name": "\ub2e4 \uc6b0\ub9ac \uc598\uae30\uc57c (This song is our story)",
+        "url": "https://open.spotify.com/album/7lMwAoDC1iCw249Fomyr8W"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "\ub2e4 \uc6b0\ub9ac \uc598\uae30\uc57c (This song is our story)",
+      "url": "https://open.spotify.com/track/4LjMrcbkwVP43qkX0Tar0I"
     },
     {
       "album": {

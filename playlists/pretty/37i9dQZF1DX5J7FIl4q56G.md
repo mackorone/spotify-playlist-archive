@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: We Came As Romans
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,279 likes - 99 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,365 likes - 99 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 98 | [Little Death](https://open.spotify.com/track/5CcdP6Gq2mH78hdAXxIVHC) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [Little Death](https://open.spotify.com/album/3Ew9Jg8AaIqSkMONOAPhKF) | 4:01 |
 | 99 | [Bloodbath](https://open.spotify.com/track/79AdYAlZd8nth7G8LQfPof) | [Vicious Rumors](https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3) | [Bloodbath](https://open.spotify.com/album/4FqK2NIyw1ux52zrK2LI26) | 3:57 |
 
-Snapshot ID: `aC/y9QAAAACeX1SKdkXdE6mUnC8jwoB2`
+Snapshot ID: `aC/y9QAAAACGIOSBVXYLmTE+bwtDSrtL`

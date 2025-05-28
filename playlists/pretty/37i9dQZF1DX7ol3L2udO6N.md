@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,259 likes - 97 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,266 likes - 97 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 12 | [イージュー★ライダー](https://open.spotify.com/track/16TRYuLeXnh4hRTjQ1pYpR) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [CAR SONGS OF THE YEARS](https://open.spotify.com/album/5kpZrqmsW4GGbCCr7qMToa) | 3:56 |
 | 13 | [SPARK](https://open.spotify.com/track/36su8TL5WpFGWlXlD4rABP) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [SPARK](https://open.spotify.com/album/0DC23W2ulsY8kU6aklzvS5) | 4:12 |
 | 14 | [これが私の生きる道](https://open.spotify.com/track/0LlveSS4FMUFxYJSu26KNR) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 3:22 |
-| 15 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
+| 15 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 16 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 17 | [情熱](https://open.spotify.com/track/2TwrieAjsEMIwTGVI6pjrp) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Illuminate～the very best songs～](https://open.spotify.com/album/6IZB1TIO4uGrQfXNzOblGn) | 4:36 |
 | 18 | [Swallowtail Butterfly～あいのうた～ \- Remastered 2015](https://open.spotify.com/track/7Mt2nP2EmZxlyGTZWaxnDg) | [YEN TOWN BAND](https://open.spotify.com/artist/17mconkVcXRH2OR3vM7uuz) | [MONTAGE \(Remastered 2015\)](https://open.spotify.com/album/6Im9cNMpL8Dbf697sdq1fh) | 4:49 |

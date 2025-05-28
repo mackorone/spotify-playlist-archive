@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Dariell Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,615 likes - 140 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,629 likes - 140 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

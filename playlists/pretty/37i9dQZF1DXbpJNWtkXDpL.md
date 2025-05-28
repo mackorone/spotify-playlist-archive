@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,964 likes - 65 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,977 likes - 65 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 41 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
 | 42 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
 | 43 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
-| 44 | [Bailar](https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Mafflab](https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH) | [Bailar](https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt) | 3:28 |
-| 45 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
+| 44 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
+| 45 | [Bailar](https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Mafflab](https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH) | [Bailar](https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt) | 3:28 |
 | 46 | [Pepper](https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP) | [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Pepper](https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm) | 3:22 |
 | 47 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
 | 48 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 53 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
 | 54 | [Vecinos](https://open.spotify.com/track/7zFT9RAdZE4ZG5EPttrm3A) | [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX), [Marcos Rigalt](https://open.spotify.com/artist/40O9UwUkJp3qnLcIsYScOl) | [Vecinos](https://open.spotify.com/album/3JouI8QedHiAixJIoJ7Ikg) | 2:32 |
 | 55 | [Tropezar](https://open.spotify.com/track/4w3byyP9z4d9jm92ngRuI1) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Ausente](https://open.spotify.com/album/3JtrimyGOgrXVjvggjZYdy) | 2:44 |
-| 56 | [Pensando En Ti](https://open.spotify.com/track/6NFWp3ScUkwyKyhPCM0QbF) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [L.A](https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2), [Mantti](https://open.spotify.com/artist/6N4EQm5JNWPqwoAzKpJEP1) | [Pensando En Ti](https://open.spotify.com/album/49XnRfC58abyNbxYDc1fO7) | 2:33 |
-| 57 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ) | [El Danny Padilla](https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg) | [Exitos Ajenos, Vol\. 1](https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw) | 3:26 |
+| 56 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ) | [El Danny Padilla](https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg) | [Exitos Ajenos, Vol\. 1](https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw) | 3:26 |
+| 57 | [Pensando En Ti](https://open.spotify.com/track/6NFWp3ScUkwyKyhPCM0QbF) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [L.A](https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2), [Mantti](https://open.spotify.com/artist/6N4EQm5JNWPqwoAzKpJEP1) | [Pensando En Ti](https://open.spotify.com/album/49XnRfC58abyNbxYDc1fO7) | 2:33 |
 | 58 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
 | 59 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 |
 | 60 | [KAWAGHI freestyle](https://open.spotify.com/track/1a0VN10KkRNWFlgZ9cQ7Ys) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [KAWAGHI freestyle](https://open.spotify.com/album/4cPlU6ILcL747MyOlXvOXm) | 1:38 |

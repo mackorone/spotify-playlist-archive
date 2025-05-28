@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Neck Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,461 likes - 115 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,471 likes - 115 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 114 | [PMDD](https://open.spotify.com/track/7cJmt2D9UKosMB4Sb2a2Yr) | [Gymshorts](https://open.spotify.com/artist/7beEZjleJaaPl01bT6S4bz) | [PMDD](https://open.spotify.com/album/2bfbriORUCT1HF8qlUwE0q) | 1:41 |
 | 115 | [Acetone](https://open.spotify.com/track/51UasWWMXHirGd73XeUTJc) | [Chinese Medicine](https://open.spotify.com/artist/70708Ha1TOffK1lqeT7XfX) | [Acetone](https://open.spotify.com/album/3XBDR0zrcMARLlQSd6hbiJ) | 3:46 |
 
-Snapshot ID: `AAAAAA54jrouQHEPe9QU293lK5b7NRmc`
+Snapshot ID: `aDBIgQAAAAAUAkKHUQA5yeo5ZENjFvNv`

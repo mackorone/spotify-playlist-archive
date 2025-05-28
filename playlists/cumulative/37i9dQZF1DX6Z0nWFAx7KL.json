@@ -5573,6 +5573,28 @@
     },
     {
       "album": {
+        "name": "Sun Is Rising",
+        "url": "https://open.spotify.com/album/22NUPu3hXxi59AC1yJpNxk"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Jack David",
+          "url": "https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119423,
+      "name": "Sun Is Rising",
+      "url": "https://open.spotify.com/track/0PoUwYvKs4n36lSbVgHqjC"
+    },
+    {
+      "album": {
         "name": "Sunday Monday",
         "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
       },
@@ -5874,7 +5896,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 164125,
       "name": "That Kinda Love",
       "url": "https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx"

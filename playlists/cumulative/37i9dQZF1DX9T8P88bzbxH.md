@@ -4,7 +4,7 @@
 
 > Lighting up Singapore with her aura\. Cover: Ernie Zakri
 
-555 songs - 1 day 8 hr 4 min
+556 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Kings And Queens](https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War \(Deluxe\)](https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL) | 5:47 | 2024-09-15 | 2024-09-22 |
 | [Kirari](https://open.spotify.com/track/7nhXN2H8h3i2PaHPXb6FO3) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:47 | 2024-10-19 | 2024-10-28 |
 | [Kiri Ga Naikara](https://open.spotify.com/track/7i5pytF8KaId51lIzatwdg) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:37 | 2024-10-19 | 2024-10-28 |
+| [Kisah Penuh Kecewa](https://open.spotify.com/track/0GiI82kfAuTows8dlKdABu) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Penuh Kecewa](https://open.spotify.com/album/2QQvBiCR66jEhRYrt3R6yc) | 3:53 | 2025-05-27 |  |
 | [Kiss Me Right](https://open.spotify.com/track/4UJmo05VYcnf9DbfQRJ1Mi) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Bonus Edition\)](https://open.spotify.com/album/7yNgDrP1zLuDNRxCzoUzG4) | 2:41 | 2025-03-19 | 2025-04-01 |
 | [Knock Me Out](https://open.spotify.com/track/51OQ4370A7tO3y63IZpPMX) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:34 | 2024-11-09 | 2024-12-16 |
 | [Korban](https://open.spotify.com/track/49Jz9XJzL5IctAO3vykUvy) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Korban](https://open.spotify.com/album/3HgUX3MyO6TRD3IzMZNEEZ) | 4:09 | 2025-05-26 |  |

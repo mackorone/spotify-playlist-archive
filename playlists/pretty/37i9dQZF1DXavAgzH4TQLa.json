@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 290837,
+  "num_followers": 290843,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
+        "name": "Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
         "name": "El Bonaerense",
         "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+        "name": "El polaco - Vuelve te lo pido",
+        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+      "duration_ms": 133866,
+      "name": "En este mundo",
+      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -447,18 +463,18 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
-        "name": "Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -475,22 +491,6 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "El polaco - Vuelve te lo pido",
-        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "En este mundo",
-      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Otra Como T\u00fa",
+      "url": "https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
         "name": "Si hay alguien en tu vida",
         "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 252211,
       "name": "Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor",
       "url": "https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Otra Como T\u00fa",
-      "url": "https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Si Hay Alguien en Tu Vida",
+      "url": "https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 62319,
       "name": "El Bombon / El Mas Popular / Perra / La Cola / Asesina / La Chola / La Suavecita - Session #3",
       "url": "https://open.spotify.com/track/0aSvTuPXvAITxgn4bIUiD7"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Si Hay Alguien en Tu Vida",
-      "url": "https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -1183,6 +1199,22 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
       },
@@ -1199,8 +1231,8 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
+        "name": "Lo mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
       },
       "artists": [
         {
@@ -1208,25 +1240,9 @@
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+      "duration_ms": 183266,
+      "name": "Una R\u00e1faga de Amor",
+      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -1247,6 +1263,22 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
         "name": "corazon de papel",
         "url": "https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4"
       },
@@ -1263,6 +1295,22 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Tan Solo Amantes",
+      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -1275,6 +1323,22 @@
       "duration_ms": 186874,
       "name": "El Polvito del Amor",
       "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
+    },
+    {
+      "added_at": "2025-03-14 21:00:34",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -1311,24 +1375,8 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
       "artists": [
         {
@@ -1336,41 +1384,9 @@
           "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 235933,
-      "name": "Tan Solo Amantes",
-      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "Lo mejor de R\u00e1faga",
-        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Una R\u00e1faga de Amor",
-      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -1467,22 +1483,6 @@
       "duration_ms": 134400,
       "name": "Alcen las Manos",
       "url": "https://open.spotify.com/track/0kV8yUTj65F1i2hQfBIlpT"
-    },
-    {
-      "added_at": "2025-03-14 21:00:34",
-      "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
-        "name": "Cachacas favoritas vol 1",
-        "url": "https://open.spotify.com/album/442PotJOVamQkCyPhagrXJ"
+        "name": "Bomb\u00f3n Asesino 2x1",
+        "url": "https://open.spotify.com/album/0AXRHei4oJG0laULFbGAMe"
       },
       "artists": [
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Pideme la luna",
-      "url": "https://open.spotify.com/track/5EaIGGp65BeF4u9rgPygfl"
+      "duration_ms": 218720,
+      "name": "Mujer Que Mal Me Pagas",
+      "url": "https://open.spotify.com/track/76nWePJSD6vm3jWimfTDSf"
     },
     {
       "added_at": "2025-03-14 21:00:34",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2025-03-14 21:00:34",
       "album": {
-        "name": "Bomb\u00f3n Asesino 2x1",
-        "url": "https://open.spotify.com/album/0AXRHei4oJG0laULFbGAMe"
+        "name": "Cachacas favoritas vol 1",
+        "url": "https://open.spotify.com/album/442PotJOVamQkCyPhagrXJ"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "duration_ms": 218720,
-      "name": "Mujer Que Mal Me Pagas",
-      "url": "https://open.spotify.com/track/76nWePJSD6vm3jWimfTDSf"
+      "duration_ms": 196000,
+      "name": "Pideme la luna",
+      "url": "https://open.spotify.com/track/5EaIGGp65BeF4u9rgPygfl"
     }
   ],
   "unique_name": "Enganchados: Cumbianchas",

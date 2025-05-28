@@ -7264,7 +7264,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 106829,
       "name": "Parcels",
       "url": "https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW"
@@ -9387,6 +9387,24 @@
     },
     {
       "album": {
+        "name": "Sweet Move",
+        "url": "https://open.spotify.com/album/11lMsLLHINuGwdV4udtWJe"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Sweet Move",
+      "url": "https://open.spotify.com/track/5XOZyGohPJf6V7bpw0SmyH"
+    },
+    {
+      "album": {
         "name": "Sweet Nothings",
         "url": "https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo"
       },
@@ -9442,7 +9460,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 140487,
       "name": "Syeeda",
       "url": "https://open.spotify.com/track/78Q8mFKENef5YDHCf01fuz"
@@ -10918,6 +10936,24 @@
       "duration_ms": 117108,
       "name": "warm oceans",
       "url": "https://open.spotify.com/track/49J1knV6TE0yZw3qFh5vdi"
+    },
+    {
+      "album": {
+        "name": "Warmth",
+        "url": "https://open.spotify.com/album/6tN1rF4AViLLKG30Iw5dve"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Warmth",
+      "url": "https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, Murillo e LT no Beat, Felipe Araújo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091,725 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092,153 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 83 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
 | 84 | [ODEIO te querer](https://open.spotify.com/track/6nwsIT3VvlprmX9QlJ6Q4C) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [ODEIO te querer](https://open.spotify.com/album/2KHLD2Kov8viRQQeIGCaic) | 2:37 |
 | 85 | [Adeus, Amélia](https://open.spotify.com/track/3s8BD9n9g7dpYP4xiOEoMn) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Adeus, Amélia](https://open.spotify.com/album/2lNU0unETTE0HbnYsuKrhX) | 3:38 |
-| 86 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
+| 86 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
 | 87 | [Samba Canção](https://open.spotify.com/track/0SVvxzr5PUmzvLpfx9JQ4O) | [Samantha Schmütz](https://open.spotify.com/artist/2d5jpxKopvlhzQ2UneuilJ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Samba Canção](https://open.spotify.com/album/1iEVNvR2SlGxB2p3D3wP4r) | 4:16 |
 | 88 | [Jão](https://open.spotify.com/track/4zLiSzfj025W8oQnJW20mZ) | [Wado](https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo), [Fábio Trummer](https://open.spotify.com/artist/0vsfomjUM96SFqmNxZwCqq) | [Jão](https://open.spotify.com/album/3hGmQRhqyAR5tFMLChUezr) | 2:44 |
 | 89 | [Foi Um Sonho](https://open.spotify.com/track/3NXFyOwt6nz5pBaQTImnbV) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Meu Samba](https://open.spotify.com/album/2NZ8uSARjnsVySdoOqTE7z) | 3:25 |

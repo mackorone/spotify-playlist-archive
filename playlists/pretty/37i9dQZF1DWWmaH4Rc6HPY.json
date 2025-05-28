@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Moenia en portada.",
-  "num_followers": 35253,
+  "num_followers": 35264,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
         "name": "Vinculo",
         "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 218781,
       "name": "Cuarenta Mil",
       "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Por Si No Te Vuelvo A Ver",
+        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 185464,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -299,42 +315,6 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
-        "name": "Ciudad Amurallada",
-        "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
-      },
-      "artists": [
-        {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 169545,
-      "name": "Ciudad Amurallada",
-      "url": "https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
-        "name": "Por Si No Te Vuelvo A Ver",
-        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 185464,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
         "name": "Nublado",
         "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
       },
@@ -347,26 +327,6 @@
       "duration_ms": 180000,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -387,6 +347,82 @@
       "duration_ms": 211590,
       "name": "Ca\u00edda Libre (feat. Robe)",
       "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Cuarto De Hotel (Canci\u00f3n Original de El Secreto Del Orfebre)",
+        "url": "https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 177188,
+      "name": "Cuarto De Hotel - Canci\u00f3n Original de El Secreto Del Orfebre",
+      "url": "https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Nada por Hecho (feat. Leiva)",
+        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 208802,
+      "name": "Nada por Hecho (feat. Leiva)",
+      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Ciudad Amurallada",
+        "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
+      },
+      "artists": [
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 169545,
+      "name": "Ciudad Amurallada",
+      "url": "https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -439,42 +475,6 @@
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
-        "name": "Cuarto De Hotel (Canci\u00f3n Original de El Secreto Del Orfebre)",
-        "url": "https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 177188,
-      "name": "Cuarto De Hotel - Canci\u00f3n Original de El Secreto Del Orfebre",
-      "url": "https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
-        "name": "Nada por Hecho (feat. Leiva)",
-        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 208802,
-      "name": "Nada por Hecho (feat. Leiva)",
-      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
         "name": "Miel de Azar",
         "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 192197,
       "name": "Como Queremos",
       "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
-        "name": "\u00bfPor qu\u00e9 no ser amigos?",
-        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Voy a pas\u00e1rmelo bien",
-      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -767,6 +747,26 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
+        "name": "\u00bfPor qu\u00e9 no ser amigos?",
+        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "Voy a pas\u00e1rmelo bien",
+      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
         "name": "A Fuego",
         "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 167538,
       "name": "A Fuego",
       "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
-        "name": "Que nadie me llore",
-        "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
-      },
-      "artists": [
-        {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
-        },
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        }
-      ],
-      "duration_ms": 210970,
-      "name": "Que nadie me llore",
-      "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -819,6 +799,26 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Que nadie me llore",
+        "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
+      },
+      "artists": [
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        }
+      ],
+      "duration_ms": 210970,
+      "name": "Que nadie me llore",
+      "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
         "name": "Nuestra postal (feat. No Te Va Gustar)",
         "url": "https://open.spotify.com/album/307Merdz0VF2RKcncEMJUM"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 212918,
       "name": "Nuestra postal (feat. No Te Va Gustar)",
       "url": "https://open.spotify.com/track/0F3mmEvyJ0fnA0PJKCLrAK"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 182841,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6JLLvMvfLjbYl8uoFfxP9B"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
         "name": "Prayer in C",
         "url": "https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 182841,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/6JLLvMvfLjbYl8uoFfxP9B"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
-        "name": "Lo Que No Quieres Saber",
-        "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 153109,
-      "name": "Lo Que No Quieres Saber",
-      "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
-    },
-    {
-      "added_at": "2025-05-16 06:00:14",
-      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 199747,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
+    },
+    {
+      "added_at": "2025-05-16 06:00:14",
+      "album": {
+        "name": "Lo Que No Quieres Saber",
+        "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 153109,
+      "name": "Lo Que No Quieres Saber",
+      "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
     },
     {
       "added_at": "2025-05-16 06:00:14",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2025-05-16 06:00:14",
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5UluKGvodUhlN9v0F5f1xg"
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
       "artists": [
         {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        },
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 275706,
-      "name": "Evoluci\u00f3n",
-      "url": "https://open.spotify.com/track/66F7l6KRwCmPPHc13FuLJO"
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     }
   ],
   "unique_name": "Pop Rock Latino",

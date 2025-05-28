@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz & Shakira, Karol G, Mora, Feid, Myke Towers y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,407 likes - 89 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,446 likes - 89 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 88 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
 | 89 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 |
 
-Snapshot ID: `aC+erQAAAAD9BChFRB1EMj7Tq9BMrJhT`
+Snapshot ID: `AAAAANs0kTRzzpbSZsG3Isr5qv2sOBTh`

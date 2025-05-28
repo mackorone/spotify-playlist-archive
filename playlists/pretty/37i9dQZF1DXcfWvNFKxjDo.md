@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,193 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,216 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 84 | [Mr\. Saxobeat](https://open.spotify.com/track/3jfN9BwqDUGUjGUH9Xzm18) | [Andre Schnura](https://open.spotify.com/artist/1kVBxbzTGmSjLrr3dPioHK), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Mr\. Saxobeat](https://open.spotify.com/album/3o0d7R3rlAlDCU2djq8tkq) | 2:02 |
 | 85 | [Addictive](https://open.spotify.com/track/1evcdngEhQCgm7c7SaKVj4) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Addictive](https://open.spotify.com/album/6qER3W1lZ2fgPxl2A2UhmJ) | 1:58 |
 | 86 | [Can We Find A Way](https://open.spotify.com/track/7q2fyV20XF8ezqWHLYSulw) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Can We Find A Way](https://open.spotify.com/album/4evON4S0J9ij696xmNgUHa) | 3:41 |
-| 87 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:34 |
+| 87 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 |
 | 88 | [lös mich auf](https://open.spotify.com/track/0fgzZJTtiyozT3Gm9oXWna) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [lös mich auf](https://open.spotify.com/album/1I2gpvKbVr5oURdIDjeTnQ) | 3:21 |
 | 89 | [Lift Off](https://open.spotify.com/track/4LGn8oQ0bzByeJ5XxUueIx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Lift Off](https://open.spotify.com/album/3IslzywfEKTs1f2MyP3H6X) | 2:36 |
 | 90 | [No Room For A Saint \(From F1® The Movie\)](https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [No Room For A Saint \(From F1® The Movie\)](https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 99 | [Wind Of Change](https://open.spotify.com/track/6gcLWOfz1ycd6zpNXJPvSw) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Wind Of Change](https://open.spotify.com/album/7xDCfZ6ZV6K87kR3MJvlLE) | 3:46 |
 | 100 | [Love You Like A Love Song](https://open.spotify.com/track/0lDtYpVLkckZqbNaztMiRO) | [Anika](https://open.spotify.com/artist/0ByXP3asBR2dISiGEl2Mcx) | [Love You Like A Love Song](https://open.spotify.com/album/1cIdTmA8D8v9pVJWHyrua0) | 2:02 |
 
-Snapshot ID: `AAAAAH8IDgCg2uy5bQiQZUFYQFAchK0J`
+Snapshot ID: `aC+eigAAAABfZwpzyBjIQbqlOQFDY6DH`

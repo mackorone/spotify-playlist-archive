@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with DJ Snake & Space Laces
 
-1,302 songs - 3 day 0 hr 25 min
+1,302 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,7 @@
 | [Ignorant](https://open.spotify.com/track/0GhXFQpQIhmHnpg7sVqSqY) | [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq) | [The Prophecy: Volume 9](https://open.spotify.com/album/4bb1xzMxWiFhEKscFigL42) | 2:57 | 2024-01-12 | 2024-03-30 |
 | [IJUSTWANNA](https://open.spotify.com/track/7a0YkuVvfsSeJm8OaYUqRQ) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [IJUSTWANNA](https://open.spotify.com/album/3zNemNKV2qjm7R50IIZRpy) | 2:59 | 2024-11-15 | 2024-12-14 |
 | [IMY](https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [IMY](https://open.spotify.com/album/3pXGgFbJZ0buvxaMQgdAjv) | 3:00 | 2024-07-12 | 2024-09-21 |
-| [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:34 | 2025-05-16 |  |
+| [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 | 2025-05-16 |  |
 | [In My Bag](https://open.spotify.com/track/20FRbatwyzUiIE2Etbf5hW) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [In My Bag](https://open.spotify.com/album/6OmT74HwEOW36xSjihFriG) | 2:47 | 2024-09-20 | 2024-10-12 |
 | [In My Bones](https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e) | [In My Bones](https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia) | 3:46 | 2024-11-08 | 2024-11-16 |
 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 | 2024-06-14 | 2024-08-31 |

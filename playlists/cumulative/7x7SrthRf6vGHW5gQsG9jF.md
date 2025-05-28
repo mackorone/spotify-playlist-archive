@@ -4,7 +4,7 @@
 
 > mostly rock
 
-902 songs - 2 day 9 hr 41 min
+904 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Shangli\-La](https://open.spotify.com/track/5AVVKnzVgzrL8pGwNK5Dci) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [Shoujyo Manga](https://open.spotify.com/album/1d2vZ53ffmyw7CdqdWOja3) | 2:47 | 2023-12-12 |  |
 | [She knows](https://open.spotify.com/track/5raBZWODW8fQRuF0hA2rXw) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [Suicide King](https://open.spotify.com/album/2GPY2ETVgdTPla5yHePnKu) | 5:04 | 2024-07-07 |  |
 | [She stood like the angel \(Fool on cool version\)](https://open.spotify.com/track/07piOqPFq7X0BtdFlodEPe) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [FLCL Progressive / Alternative \(Music from the Series\)](https://open.spotify.com/album/6U803HjuYDhefzd8suMyMg) | 3:12 | 2023-07-30 |  |
+| [Sheltered and Abandoned](https://open.spotify.com/track/7ngnlaHfPxFth0ZgIeAE3s) | [Luschka](https://open.spotify.com/artist/6Bm8Ot3hu2JLulRMUtqMuc) | [Sheltered and Abandoned](https://open.spotify.com/album/66sU4LIZmfAPKZJ7MgP7a4) | 4:33 | 2025-05-27 |  |
 | [shiduka no umi](https://open.spotify.com/track/4v84j7URVQ2lAWxGT6ChmA) | [.........](https://open.spotify.com/artist/6pwR1E7p5tJacVqGv22CFs) | [Points](https://open.spotify.com/album/2W1crAgwVRfF17ha4C7v53) | 6:44 | 2024-04-25 |  |
 | [shinkirou](https://open.spotify.com/track/5AypTCs37ZCrCTUoLR0T15) | [Blurred City Lights](https://open.spotify.com/artist/2xv5u01XrsfwP8BQ4mrJ3L) | [tenshi no inai machide](https://open.spotify.com/album/4AMlPYio0VrOCyoqdWrvzx) | 5:05 | 2024-07-04 |  |
 | [shiny blue dead fish](https://open.spotify.com/track/6T69GBVLaMfwvl2BekKMDQ) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [cage of the sun + early singles](https://open.spotify.com/album/4i00KCU2ETHWT5DWnxbtH8) | 1:57 | 2024-02-15 |  |
@@ -456,6 +457,7 @@
 | [Space Rock](https://open.spotify.com/track/7JhAoTcI7WOrIV4bHhwdEd) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [Space Rock](https://open.spotify.com/album/4XzRLWL4VNajo39b7lfRq1) | 4:29 | 2024-07-14 |  |
 | [Sparks](https://open.spotify.com/track/30yvZ1uXlhxXdEJL1RzMBt) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Luby Sparks](https://open.spotify.com/album/4zB75PAyMDdIUGpNruV6u4) | 2:14 | 2024-05-18 |  |
 | [SPECTR](https://open.spotify.com/track/5AVQblVcvz6t2jMufiZbNs) | [stargaze shelter](https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW) | [SPECTR](https://open.spotify.com/album/1iKjX30F6e78r3XWOQjs8X) | 3:10 | 2024-04-25 |  |
+| [Spica](https://open.spotify.com/track/1cek46u96NSWBTwqOTayTO) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 2:45 | 2025-05-27 |  |
 | [Spin The Words](https://open.spotify.com/track/2OyO7GySf9DytV2hU2tnK6) | [susquatch](https://open.spotify.com/artist/5MNNV4jwu51bxwel7fz9BO) | [In This World](https://open.spotify.com/album/0DKsw8XT9NGCvZdlHeCjJ5) | 3:50 | 2023-08-18 |  |
 | [Spring Fever](https://open.spotify.com/track/4sSq7lR8vlcewNGVRIQrj0) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [Spring Fever](https://open.spotify.com/album/6QWxt6EaCjAYSlUhtTxVto) | 2:04 | 2024-09-13 |  |
 | [SSK](https://open.spotify.com/track/2dQteJ40qKS67gFdO5APoQ) | [3nd](https://open.spotify.com/artist/3mZrT1scKNjGo7Flenc4nf) | [world tour](https://open.spotify.com/album/2MGwrYHFSOtbmSCmu1Cvtm) | 4:13 | 2024-05-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,036 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,073 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 44 | [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 |
 | 45 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
 | 46 | [I Want To See You Dance \- Art Of Tones Edit](https://open.spotify.com/track/2nGk7Ik2ufJMa5nLUfgo7J) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [I Want To See You Dance \(Art Of Tones Remix\)](https://open.spotify.com/album/791iuuaIDJgRHoxhtwczVN) | 3:33 |
-| 47 | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/album/0BfdHIeFgdUvuCHbFYriJ4) | 3:32 |
+| 47 | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [](https://open.spotify.com/album/null) | 3:32 |
 | 48 | [One Big Family](https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum) | [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [One Big Family](https://open.spotify.com/album/2PchYg2ROw2n04u23q9fe3) | 2:18 |
 | 49 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 |
 | 50 | [Played](https://open.spotify.com/track/4L9YxToj8Ub66xBrbVtBkF) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Played](https://open.spotify.com/album/7AgcYxLZhGK2j5R8OfXiNX) | 2:15 |

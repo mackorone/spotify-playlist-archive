@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,482 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,449 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 |
-| 2 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
-| 3 | [MAGIK](https://open.spotify.com/track/6zWdODBjSnvZF3V1i2s8lq) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [MAGIK](https://open.spotify.com/album/3Zj2GG4pPjg4ppByk5iCL5) | 2:36 |
-| 4 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |
-| 5 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
-| 6 | [One Foot Out The Door](https://open.spotify.com/track/7p1OL3zOqn0clHGWsKtHKj) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [One Foot Out The Door](https://open.spotify.com/album/0AJpmYADW6xXfmYK1I2cKs) | 2:50 |
-| 7 | [FIRST TIME](https://open.spotify.com/track/2q0SOAtujlcW1OQWYGGpyK) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [FIRST TIME](https://open.spotify.com/album/4MhPVsGhkghlW57IgpbwfK) | 3:21 |
-| 8 | [Father Time \(10am\)](https://open.spotify.com/track/1gr4SwXkiwhaHFAkFneIpA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Father Time \(10am\)](https://open.spotify.com/album/6CiNSkolG9MwDaKYidLERu) | 2:27 |
-| 9 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
-| 10 | [Can't Lose You](https://open.spotify.com/track/746mCHVj4hNNfMvKWSo26c) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [Can't Lose You / Here With Me](https://open.spotify.com/album/1WNCvqEMCcbLU2oVzQZkla) | 3:04 |
+| 1 | [Driving And Listening To Music](https://open.spotify.com/track/4uwDJZE4mbSLU4hQuuyzb3) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [Driving And Listening To Music / Run](https://open.spotify.com/album/4Ags5j4eQHQtke6ccgDcnz) | 3:27 |
+| 2 | [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 |
+| 3 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
+| 4 | [MAGIK](https://open.spotify.com/track/6zWdODBjSnvZF3V1i2s8lq) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [MAGIK](https://open.spotify.com/album/3Zj2GG4pPjg4ppByk5iCL5) | 2:36 |
+| 5 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |
+| 6 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
+| 7 | [One Foot Out The Door](https://open.spotify.com/track/7p1OL3zOqn0clHGWsKtHKj) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [One Foot Out The Door](https://open.spotify.com/album/0AJpmYADW6xXfmYK1I2cKs) | 2:50 |
+| 8 | [FIRST TIME](https://open.spotify.com/track/2q0SOAtujlcW1OQWYGGpyK) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [FIRST TIME](https://open.spotify.com/album/4MhPVsGhkghlW57IgpbwfK) | 3:21 |
+| 9 | [Father Time \(10am\)](https://open.spotify.com/track/1gr4SwXkiwhaHFAkFneIpA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Father Time \(10am\)](https://open.spotify.com/album/6CiNSkolG9MwDaKYidLERu) | 2:27 |
+| 10 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 | 11 | [Lonely Night](https://open.spotify.com/track/68a6AxmCmngZemU5zmJvmU) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/34ISREKShXsEfkYLbxExdJ) | 3:36 |
 | 12 | [Lonely Road](https://open.spotify.com/track/2LhwyenNKYLqqEscGbGT3z) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Lonely Road](https://open.spotify.com/album/4hF7ABLDR0AUUcCzhJA1Fq) | 3:11 |
 | 13 | [Running On A Feeling](https://open.spotify.com/track/3tnNVMo4lw67r6PTHM8RTT) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [Running On A Feeling](https://open.spotify.com/album/6I47GpVjl5bFXlidsWbp5G) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Somebody To You \(feat\. Cory Wong & Vincen García\)](https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 4:11 |
 | 75 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 |
 
-Snapshot ID: `aC/y1gAAAABR0m/ZgUesUNB3j0tCo8ef`
+Snapshot ID: `aDXvbwAAAADOmHtpnUwB0xtoL6DJWHrC`

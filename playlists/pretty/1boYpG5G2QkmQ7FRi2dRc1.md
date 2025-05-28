@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 288,059 likes - 39 songs - 2 hr 8 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 288,025 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Charged Up](https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Charged Up](https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30) | 2:03 |
-| 2 | [Body and Mind](https://open.spotify.com/track/6FxSYM7dXGM1gZdcgXNSYo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Silver Nova](https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3) | [Body and Mind](https://open.spotify.com/album/15IO4CZYQTVgzFxmRIfBDu) | 3:25 |
-| 3 | [Oxygen](https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Oxygen](https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi) | 2:46 |
-| 4 | [Come To Me](https://open.spotify.com/track/797ukfRPyCab6zC17qUSL2) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Spark & Come To Me](https://open.spotify.com/album/41THsQi8MvFaXqXxTaYOi5) | 3:41 |
-| 5 | [Something To Believe In](https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Something To Believe In](https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A) | 2:26 |
-| 6 | [Body and Mind](https://open.spotify.com/track/6FxSYM7dXGM1gZdcgXNSYo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Silver Nova](https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3) | [Body and Mind](https://open.spotify.com/album/15IO4CZYQTVgzFxmRIfBDu) | 3:25 |
-| 7 | [You Don't Know Me](https://open.spotify.com/track/4nDhy3ucp9LBeZ1RdAIDKO) | [Nova Blue](https://open.spotify.com/artist/64wwBeRlMZenhRspSoRSqR) | [You Don't Know Me](https://open.spotify.com/album/4IWZBXl5zFSbb2HkuugKqZ) | 2:03 |
-| 8 | [The Rhythm](https://open.spotify.com/track/56910F0njZpraFPx9VVi7d) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [The Rhythm](https://open.spotify.com/album/4ivZ02pEqqMnFy04lMynU6) | 2:15 |
-| 9 | [Angels For Each Other](https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Angels For Each Other](https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3) | 3:35 |
-| 10 | [Malikan](https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Malikan](https://open.spotify.com/album/2RRwRafJxXPBCEchkTlMFl) | 3:13 |
-| 11 | [Geht's noch?](https://open.spotify.com/track/7Ep4qBcgxQTa0QwnOrVEa9) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 6:48 |
+| 1 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
+| 2 | [Charged Up](https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Charged Up](https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30) | 2:03 |
+| 3 | [Body and Mind](https://open.spotify.com/track/6FxSYM7dXGM1gZdcgXNSYo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Silver Nova](https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3) | [Body and Mind](https://open.spotify.com/album/15IO4CZYQTVgzFxmRIfBDu) | 3:25 |
+| 4 | [Oxygen](https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Oxygen](https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi) | 2:46 |
+| 5 | [Come To Me](https://open.spotify.com/track/797ukfRPyCab6zC17qUSL2) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Spark & Come To Me](https://open.spotify.com/album/41THsQi8MvFaXqXxTaYOi5) | 3:41 |
+| 6 | [Something To Believe In](https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Something To Believe In](https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A) | 2:26 |
+| 7 | [Body and Mind](https://open.spotify.com/track/6FxSYM7dXGM1gZdcgXNSYo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Silver Nova](https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3) | [Body and Mind](https://open.spotify.com/album/15IO4CZYQTVgzFxmRIfBDu) | 3:25 |
+| 8 | [You Don't Know Me](https://open.spotify.com/track/4nDhy3ucp9LBeZ1RdAIDKO) | [Nova Blue](https://open.spotify.com/artist/64wwBeRlMZenhRspSoRSqR) | [You Don't Know Me](https://open.spotify.com/album/4IWZBXl5zFSbb2HkuugKqZ) | 2:03 |
+| 9 | [The Rhythm](https://open.spotify.com/track/56910F0njZpraFPx9VVi7d) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [The Rhythm](https://open.spotify.com/album/4ivZ02pEqqMnFy04lMynU6) | 2:15 |
+| 10 | [Angels For Each Other](https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Angels For Each Other](https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3) | 3:35 |
+| 11 | [Malikan](https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Malikan](https://open.spotify.com/album/2RRwRafJxXPBCEchkTlMFl) | 3:13 |
 | 12 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 13 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 |
 | 14 | [Nirvana](https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Nirvana](https://open.spotify.com/album/1ZohrB8KSfWMc0yNkymR93) | 3:42 |
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 37 | [Fantasy](https://open.spotify.com/track/4Ljl4W305QcrYJLnQb4iVN) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Fantasy](https://open.spotify.com/album/2d4dmwjB2t78Wa1sK0zf2m) | 7:19 |
 | 38 | [Touch My Body](https://open.spotify.com/track/7C5eDDnxOm7qWRkA1qpXme) | [Michael Grald](https://open.spotify.com/artist/6PWZqYrlDYcnz4haClAiL6) | [Touch My Body](https://open.spotify.com/album/0xmk0McN6QnUqchsoE2sMp) | 3:12 |
 | 39 | [ALL MY LIFE](https://open.spotify.com/track/1WRYowjpwsYXyJD3hdhpR6) | [tesh](https://open.spotify.com/artist/4bnUfGrlUSrYBRajJnAhDX) | [CYCLES + REPETITIONS](https://open.spotify.com/album/73Tp6CYiZJu1WX0s5eAKQA) | 2:33 |
+| 40 | [Geht's noch?](https://open.spotify.com/track/7Ep4qBcgxQTa0QwnOrVEa9) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 6:48 |
 
-Snapshot ID: `AAAIWD7DsJIIj0r3fn0HLjmyEyBNyHyX`
+Snapshot ID: `AAAIWr4Kazul2RQT8+Y9VRrxI3aeSHiS`

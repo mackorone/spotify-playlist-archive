@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-563 songs - 1 day 3 hr 12 min
+564 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Star Light](https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Atlas Of Beauty](https://open.spotify.com/album/0P5IAGKQmeAU3ZIN0IQyxf) | 2:32 | 2022-09-13 | 2025-05-07 |
 | [Star Nebula](https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Star Nebula](https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp) | 3:06 | 2024-04-04 |  |
 | [Starlight](https://open.spotify.com/track/7HjPINRbACZjEmzVLt3Tuv) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:21 | 2021-12-17 | 2024-05-12 |
+| [Starseer](https://open.spotify.com/track/4MwsRX4y2FMLSgxp8ZP7UF) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Starseer](https://open.spotify.com/album/0ZucB3KfvckpySyn5CUCmC) | 3:05 | 2025-05-27 |  |
 | [State of Grace](https://open.spotify.com/track/0GGBywhLXTT0D3dRIaEvFO) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK) | [State of Grace](https://open.spotify.com/album/5vIxjuPtAmpY26voHLTQPa) | 3:06 | 2021-12-17 | 2024-09-06 |
 | [Stateless](https://open.spotify.com/track/5lURN05HqihAYCLuP6sviZ) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Stateless](https://open.spotify.com/album/4Zix9PKfD4m4HfUu5GRRak) | 2:23 | 2025-01-29 |  |
 | [Stay A While](https://open.spotify.com/track/5MxNNBnvKIZ1D2IkwB753i) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Stay A While](https://open.spotify.com/album/0LtvCsNWrKLG8n7i3AhXqT) | 2:57 | 2021-12-17 | 2025-02-13 |

@@ -4,10 +4,11 @@
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-137 songs - 21 hr 19 min
+142 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [29 Verse \-One Mic One Spit One Kill\-](https://open.spotify.com/track/2066slyoWqL4rHtFNQVsLL) | [Paradox Live All ARTISTS](https://open.spotify.com/artist/439BVmjoc70mFAbYc77Y8V) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 5:46 | 2025-05-27 |  |
 | [4 REAL](https://open.spotify.com/track/2GApfqFmeLykh9LRz9yqQ7) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Stage Battle "PRIDE"](https://open.spotify.com/album/33w2rf2DVw9eZhBlswP4q2) | 3:32 | 2022-03-29 |  |
 | [A.K.Y.R \- 悪漢奴等 Go over da TRAP\-](https://open.spotify.com/track/5qD5nSHCBE9QfqdFrw4ZOv) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live 1st album "TRAP"](https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw) | 3:53 | 2022-03-29 |  |
 | [Ain’t No Love](https://open.spotify.com/track/3p75UqgnQ50yPCTrYc8XfJ) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live Stage Battle “LOVE"](https://open.spotify.com/album/29HhqoHBKrxYODgrc1Klk0) | 3:08 | 2022-03-29 |  |
@@ -20,6 +21,7 @@
 | [BErmud△ Tri△nglE](https://open.spotify.com/track/6eUkuZXR20HfX52EFcV1iy) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live 1st album "TRAP"](https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw) | 3:47 | 2022-03-29 |  |
 | [Better Dayz](https://open.spotify.com/track/5EGuPxc7UwMrMUQYXvnqzs) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live 2nd album "LIVE"](https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj) | 4:01 | 2022-03-29 |  |
 | [BLUE FLAME](https://open.spotify.com/track/6C0b3fttVjzyYOUc3gKHRJ) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live \-Battle of Unity\- Round2 “KARMA”](https://open.spotify.com/album/2N4UgRrRYkHqTrSiy82tCz) | 3:16 | 2025-03-26 |  |
+| [Brand New Story](https://open.spotify.com/track/1HIaEBRV4NBvrHF0qP9llv) | [team Spring](https://open.spotify.com/artist/1j7LgVxJH4oQ5G5ZmZSp35) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:49 | 2025-05-27 |  |
 | [Break Outta Here](https://open.spotify.com/track/4dZF3VFr64aMMUZUM3kXMo) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:34 | 2022-03-29 |  |
 | [But\-I\-Fly](https://open.spotify.com/track/318dqILz81UwcREljweLjO) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Before Anyone Else](https://open.spotify.com/album/5SjQDg7O32K7sWnnmQhU0S) | 3:18 | 2024-06-25 |  |
 | [CALL FOR FAMILIEZ \-悪漢奴等 is Forever\-](https://open.spotify.com/track/4NWiYbUfiHafYYng1tPbmH) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live Stage Battle "FAMILY"](https://open.spotify.com/album/6nxWApKJGlploLVAYSivXZ) | 4:18 | 2022-03-29 |  |
@@ -38,10 +40,12 @@
 | [FLY HIGH!!!](https://open.spotify.com/track/1GD8J2VAVWcWHQqpK2Ekyg) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live THE ANIMATION Opening Track「RISE UP」](https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS) | 3:44 | 2023-11-21 |  |
 | [For my Stella](https://open.spotify.com/track/44235JiVl4tVmnLu7bw9yp) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:38 | 2022-03-29 |  |
 | [FRE△KOUT](https://open.spotify.com/track/0zacDFf8WX2QZS9y9A2Kih) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Exhibition Show \-BAE\-](https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p) | 3:54 | 2022-03-29 |  |
+| [Frozen Ice](https://open.spotify.com/track/1VtkV6XZDHEqjeNIGl8eJC) | [team Winter](https://open.spotify.com/artist/5dVxkYHbEkFwB5jzsZPd5K) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:35 | 2025-05-27 |  |
 | [F△Bulous](https://open.spotify.com/track/3piRNhTT2avDb6LIMkjhmF) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Stage Battle “VIBES"](https://open.spotify.com/album/5zwNzFPeOEHHAbl4fguBIa) | 3:46 | 2022-03-29 |  |
 | [Get it](https://open.spotify.com/track/0ehowoQbxrforbcVf2a7Q7) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live Stage Battle "DESIRE"](https://open.spotify.com/album/1flWzBBYS2auFKxG9R3Qxw) | 3:05 | 2022-03-29 |  |
 | [Good Time \- feat\. SKY\-HI](https://open.spotify.com/track/6M116cTbFxwbv7tJcMiv5G) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Paradox Live Exhibition Show \-cozmez\-](https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30) | 2:48 | 2022-03-29 |  |
 | [G△L△XY∞](https://open.spotify.com/track/2Pj7rQnLezTLpEaSprP5KP) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live \-Road to Legend\- \(Round2 “WILL"\)](https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T) | 3:38 | 2023-04-25 |  |
+| [Halloween](https://open.spotify.com/track/4xoOTv2ksKmwWh7TttWtQy) | [team Autumn](https://open.spotify.com/artist/1qZuBsvj2WNcQOWEgwQFVL) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:34 | 2025-05-27 |  |
 | [Hit em up](https://open.spotify.com/track/3hIlHC3TNC3rB5Bb1duN2q) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 2:47 | 2022-08-30 |  |
 | [Jumping Into My World](https://open.spotify.com/track/6dcdGwSr1UYjTqrjqbZok7) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK), [棗リュウ](https://open.spotify.com/artist/0t6oyiG4NxLbNHKxE4U9Tp), [円山玲央](https://open.spotify.com/artist/6Nqu7vY2QyTha9ZbcdvXnc) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:32 | 2022-03-29 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/5YCuRO5C1Njp2qLviXpwo5) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Exhibition Show \-The Cat’s Whiskers\-](https://open.spotify.com/album/5mZkoKj6iJyrdr2c8Rf2wD) | 3:26 | 2022-03-29 |  |
@@ -144,6 +148,7 @@
 | [Why do you like me??](https://open.spotify.com/track/4bACB0QtfXGVoezkhd8IwI) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [伊藤紗月](https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 3:47 | 2022-03-29 |  |
 | [W△vin' FL△g](https://open.spotify.com/track/3QvISTHoFVlCgQbCtHsmt5) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 4:28 | 2022-03-29 |  |
 | [ギラギラCANDY NIGHT](https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [翠石依織](https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z), [雅邦善](https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78), [伊藤紗月](https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:51 | 2022-03-29 |  |
+| [ビーチサイドZOO](https://open.spotify.com/track/19qYkTWLZEV8VCZEL5EVGK) | [team Summer](https://open.spotify.com/artist/0n0NYX7hN26kMCBFjaqI7l) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 4:10 | 2025-05-27 |  |
 | [大火傷 \- License To Kill \-](https://open.spotify.com/track/1rIyhhyKKKxVJ59x6LqIjx) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 3:48 | 2022-08-30 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

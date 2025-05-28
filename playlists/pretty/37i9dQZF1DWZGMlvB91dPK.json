@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3152,
+  "num_followers": 3154,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Mille vies",
+        "url": "https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Mille vies",
+      "url": "https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "No Coward (Demo Version)",
         "url": "https://open.spotify.com/album/0fojk7a23aVielhlS9jGZr"
       },
@@ -135,38 +151,6 @@
       "duration_ms": 139000,
       "name": "L'INVERSE",
       "url": "https://open.spotify.com/track/0IokbCkXBM9rgGELxBaqjD"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Mille vies",
-        "url": "https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN"
-      },
-      "artists": [
-        {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Mille vies",
-      "url": "https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Nouveau Genre",
-        "url": "https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M"
-      },
-      "artists": [
-        {
-          "name": "KLON",
-          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
-        }
-      ],
-      "duration_ms": 277106,
-      "name": "West",
-      "url": "https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -219,18 +203,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Syst\u00e8me",
-        "url": "https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23"
+        "name": "Nouveau Genre",
+        "url": "https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M"
       },
       "artists": [
         {
-          "name": "Nathalie Froehlich",
-          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
         }
       ],
-      "duration_ms": 240750,
-      "name": "Tout le Monde",
-      "url": "https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd"
+      "duration_ms": 277106,
+      "name": "West",
+      "url": "https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -251,6 +235,22 @@
       "duration_ms": 154172,
       "name": "LE LARGE...",
       "url": "https://open.spotify.com/track/3hsoSVaxphYBbdzTKAOoCt"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Syst\u00e8me",
+        "url": "https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Froehlich",
+          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
+        }
+      ],
+      "duration_ms": 240750,
+      "name": "Tout le Monde",
+      "url": "https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "D\u00e9sillusion",
+        "url": "https://open.spotify.com/album/4SOGhbNxDxIybXJE4xecl3"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Froehlich",
+          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
+        }
+      ],
+      "duration_ms": 161785,
+      "name": "Bouge de l\u00e0",
+      "url": "https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "Temps vol\u00e9",
         "url": "https://open.spotify.com/album/0uYTlqOtTOW5HJ5jh1hpdJ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 194560,
       "name": "Temps vol\u00e9",
       "url": "https://open.spotify.com/track/1x26yUbCxLWuUNMj4h3k6w"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "D\u00e9sillusion",
-        "url": "https://open.spotify.com/album/4SOGhbNxDxIybXJE4xecl3"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Froehlich",
-          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
-        }
-      ],
-      "duration_ms": 161785,
-      "name": "Bouge de l\u00e0",
-      "url": "https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -395,54 +395,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Bienvenue Au Pays",
-        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
-      },
-      "artists": [
-        {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Alex",
-      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
-    },
-    {
-      "added_at": "2024-01-15 17:31:32",
-      "album": {
-        "name": "528Hz",
-        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
-      },
-      "artists": [
-        {
-          "name": "\u00c9NA\u00c9",
-          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "Don't Waste My Time",
-      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "HYPNOSE",
-        "url": "https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB"
-      },
-      "artists": [
-        {
-          "name": "VISCERAL",
-          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "HYPNOSE",
-      "url": "https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Follow No One",
         "url": "https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz"
       },
@@ -455,6 +407,22 @@
       "duration_ms": 206637,
       "name": "Follow No One",
       "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Alex",
+      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -497,6 +465,38 @@
       "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
     },
     {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "528Hz",
+        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Don't Waste My Time",
+      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "HYPNOSE",
+        "url": "https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB"
+      },
+      "artists": [
+        {
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "HYPNOSE",
+      "url": "https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC"
+    },
+    {
       "added_at": "2023-11-23 11:08:33",
       "album": {
         "name": "NO GOZO",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/4JpDToTM1LqoSreM99SRPb"
     },
     {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "ENFANT SUICIDE",
-        "url": "https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn"
-      },
-      "artists": [
-        {
-          "name": "VISCERAL",
-          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "ENFANT SUICIDE",
-      "url": "https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST"
-    },
-    {
       "added_at": "2024-01-15 17:31:32",
       "album": {
         "name": "Otak\u00e9",
@@ -575,6 +559,22 @@
       "duration_ms": 267293,
       "name": "Noise",
       "url": "https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "ENFANT SUICIDE",
+        "url": "https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn"
+      },
+      "artists": [
+        {
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "ENFANT SUICIDE",
+      "url": "https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT"
+        "name": "Ago Gazo",
+        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
       },
       "artists": [
         {
-          "name": "MALVINA",
-          "url": "https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n"
+          "name": "Ago Gazo",
+          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
         }
       ],
-      "duration_ms": 240653,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2"
+      "duration_ms": 307984,
+      "name": "Togbui Ha",
+      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Ago Gazo",
-        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT"
       },
       "artists": [
         {
-          "name": "Ago Gazo",
-          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
+          "name": "MALVINA",
+          "url": "https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n"
         }
       ],
-      "duration_ms": 307984,
-      "name": "Togbui Ha",
-      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
+      "duration_ms": 240653,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2"
     },
     {
       "added_at": "2023-11-23 11:08:33",

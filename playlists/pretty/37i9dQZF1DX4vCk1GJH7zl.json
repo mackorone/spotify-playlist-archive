@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: CATTO",
-  "num_followers": 145596,
+  "num_followers": 145612,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Lanterna Dos Afogados",
-      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
         "name": "Beijos, Blues e Poesia",
         "url": "https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 211254,
       "name": "Amor Em V\u00e3o",
       "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/50RosNb33uXibjhV94GjpN"
-      },
-      "artists": [
-        {
-          "name": "Flamha",
-          "url": "https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh"
-        }
-      ],
-      "duration_ms": 165777,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/4RfG59SGuZSvE2yUxQHwzv"
     },
     {
       "added_at": "2025-05-23 03:01:24",
@@ -327,34 +311,18 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
-        "name": "Flagra",
-        "url": "https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS"
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/50RosNb33uXibjhV94GjpN"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Flamha",
+          "url": "https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Flagra",
-      "url": "https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
-        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 254062,
-      "name": "Por Enquanto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
+      "duration_ms": 165777,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/4RfG59SGuZSvE2yUxQHwzv"
     },
     {
       "added_at": "2025-05-23 03:01:24",
@@ -375,6 +343,38 @@
       "duration_ms": 276887,
       "name": "N\u00e3o Vou Me Adaptar - Ao Vivo",
       "url": "https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
+        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 254062,
+      "name": "Por Enquanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
+        "name": "Flagra",
+        "url": "https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Flagra",
+      "url": "https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k"
     },
     {
       "added_at": "2025-05-23 03:01:24",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
+        "name": "Sonora",
+        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 213714,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
         "name": "Eu Nunca Fui Embora (Deluxe)",
         "url": "https://open.spotify.com/album/18FyBiQZ5r5T7u82r6t1N2"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
-        "name": "EU TE AMO",
-        "url": "https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV"
-      },
-      "artists": [
-        {
-          "name": "CATTO",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "duration_ms": 208959,
-      "name": "EU TE AMO",
-      "url": "https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
+        "name": "EU TE AMO",
+        "url": "https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV"
+      },
+      "artists": [
+        {
+          "name": "CATTO",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "duration_ms": 208959,
+      "name": "EU TE AMO",
+      "url": "https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4"
     },
     {
       "added_at": "2025-05-23 03:01:24",
@@ -511,22 +527,6 @@
       "duration_ms": 229785,
       "name": "Nada Sei - Apneia, Ao Vivo",
       "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
-        "name": "Sonora",
-        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 213714,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
     },
     {
       "added_at": "2025-05-23 03:01:24",
@@ -687,6 +687,26 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
+        "name": "Pra Voc\u00ea Guardei o Amor",
+        "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 299778,
+      "name": "Pra Voc\u00ea Guardei o Amor",
+      "url": "https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
         "name": "Alquimia",
         "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 226624,
       "name": "Alquimia",
       "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
-        "name": "Te procurando (Saturno)",
-        "url": "https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 169514,
-      "name": "Te procurando (Saturno)",
-      "url": "https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg"
     },
     {
       "added_at": "2025-05-23 03:01:24",
@@ -739,22 +739,22 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
-        "name": "Pra Voc\u00ea Guardei o Amor",
-        "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
+        "name": "Te procurando (Saturno)",
+        "url": "https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         },
         {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
         }
       ],
-      "duration_ms": 299778,
-      "name": "Pra Voc\u00ea Guardei o Amor",
-      "url": "https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv"
+      "duration_ms": 169514,
+      "name": "Te procurando (Saturno)",
+      "url": "https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg"
     },
     {
       "added_at": "2025-05-23 03:01:24",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        },
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 193423,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
         "name": "Birds and the Bees",
         "url": "https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 252699,
       "name": "Stonehenge - Live",
       "url": "https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        },
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
     }
   ],
   "unique_name": "Rock Leve",

@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-289 songs - 1 day 3 hr 47 min
+290 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Chants](https://open.spotify.com/track/7dSQisUTa9yUpcEpwMmNuC) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [D\-Compost](https://open.spotify.com/artist/3OFhWkc97ypgkRH8oouJZL), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Chants](https://open.spotify.com/album/3uShSOgyxYvaDDlJqPMyll) | 6:02 | 2024-08-02 |  |
 | [Cheetah](https://open.spotify.com/track/04cgYJIeOfZa9W1cgzNp4a) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Think City](https://open.spotify.com/artist/195vkxj2Nz2rY7Wq6nSA4B) | [Cheetah](https://open.spotify.com/album/4d6H9D8W3kTH4WsInTdeRi) | 7:46 | 2022-04-13 | 2023-05-19 |
 | [Cigano](https://open.spotify.com/track/1to9O59JU5BmGDzjQrzAZy) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Cigano](https://open.spotify.com/album/3RrYe0uMItWJBy2E8rW3Ta) | 6:14 | 2022-04-13 | 2022-12-17 |
-| [CIRCLES \- Cincity Space Mix](https://open.spotify.com/track/6lCZ5qh6Q9dvS82bb0urY3) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen) | [SANT JORDI 02 \- Remixes](https://open.spotify.com/album/1ohwBEow2ArSPZWepHkQ1g) | 6:26 | 2023-04-20 |  |
+| [CIRCLES \- Cincity Space Mix](https://open.spotify.com/track/6lCZ5qh6Q9dvS82bb0urY3) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen) | [SANT JORDI 02 \- Remixes](https://open.spotify.com/album/1ohwBEow2ArSPZWepHkQ1g) | 6:26 | 2023-04-20 | 2025-05-28 |
 | [Clocks](https://open.spotify.com/track/7GNYwsaMiYdFu5IRGHAZZw) | [Rancido](https://open.spotify.com/artist/0wtDZVdBWiPXM4gQt3ZNUq) | [Clocks](https://open.spotify.com/album/1ZuvhE9UsqjQnR56Lzk0Qy) | 6:02 | 2022-04-13 | 2023-04-21 |
 | [Cumbé \- Cuzco Mix](https://open.spotify.com/track/6XUrR2Es01NOJxDueRRJSC) | [Kintar](https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT), [Medusa Odyssey](https://open.spotify.com/artist/1P0GxzCg57SIrXtBnR26UO), [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B) | [Cumbé EP](https://open.spotify.com/album/4KdhLnoEFxGDQtWq4Lu2wL) | 7:26 | 2022-04-13 | 2022-09-16 |
 | [D:evotion](https://open.spotify.com/track/3gcmh7rWcT1ppvVqQNfezy) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [D:evotion](https://open.spotify.com/album/03MR8BaM8z6HZ75ZQM6ulS) | 6:11 | 2023-04-07 |  |
@@ -83,6 +83,7 @@
 | [Dodoma](https://open.spotify.com/track/1eult54nuGwQsIfPL2rZOh) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/0P4IX6KeVNUXFNz4uNgCWC) | 6:35 | 2022-07-21 | 2022-09-30 |
 | [Dodoma](https://open.spotify.com/track/4d7iVgX5u3NxBM1pa72xh3) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/7Djcq0KMBZlfMbva2PBla2) | 6:35 | 2022-04-13 | 2022-07-29 |
 | [Does It Matter \- Ajna \(BE\) Remix](https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Does It Matter \(Ajna Remix\)](https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct) | 5:40 | 2023-05-18 |  |
+| [Drowning At Midnight](https://open.spotify.com/track/18DG5bnLXD642GnoPsB0lJ) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Yaca](https://open.spotify.com/artist/1QXnCk2zoBVhzAgk6TwY2w) | [Drowning At Midnight](https://open.spotify.com/album/4k86AFohhbQ2sLxbgMo6Uu) | 4:02 | 2025-05-27 |  |
 | [Duduk](https://open.spotify.com/track/5hkEwaKH0APo8nyWO2BT6n) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Roxteel](https://open.spotify.com/artist/0xCictaICMnerRvsyLeisS) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:30 | 2022-11-18 | 2023-12-11 |
 | [Duende \- Derun Remix](https://open.spotify.com/track/0F3yxc47bdzD1pgDxLoyzp) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [UNER](https://open.spotify.com/artist/44CkOTmP33qUoft5iGVPov), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Duende \(Derun Remix\)](https://open.spotify.com/album/2UhA4Ain3n3gfsztBiqVmY) | 6:39 | 2023-03-08 |  |
 | [DüN](https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6) | [KeuS](https://open.spotify.com/artist/1DWdkfnG0twxn7hIrGb4YC) | [DüN](https://open.spotify.com/album/0hQnHGP8TLX88RnLDTx9SB) | 6:55 | 2022-04-13 | 2023-07-06 |

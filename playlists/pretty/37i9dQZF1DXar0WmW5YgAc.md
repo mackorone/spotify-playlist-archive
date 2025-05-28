@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 
 > Love songs from the movies
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,755 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,293 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 | 56 | [All For Love \- From "The Three Musketeers" Soundtrack](https://open.spotify.com/track/5h92ib6UGUe0BkUvNz8AtP) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of Me](https://open.spotify.com/album/21hEsQUnuxQw3mFKL9O35g) | 4:40 |
 | 57 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/27ncbKwESFYzgBo9RN9IXe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Essential Celine Dion](https://open.spotify.com/album/4Weiw9hd6IyxyjRyeDp3dF) | 4:40 |
 | 58 | [Love You I Do](https://open.spotify.com/track/4IjoD5u5E3Nv6ecnCpeWpy) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Dreamgirls \(Music from the Motion Picture\) \[Deluxe Edition\]](https://open.spotify.com/album/7x0K2KoVdoFy192loas5Sp) | 2:48 |
-| 59 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
+| 59 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 60 | [Supermodel](https://open.spotify.com/track/4lHaUgqumnhiqLPwoG4MND) | [Jill Sobule](https://open.spotify.com/artist/16BoY9HfrtxVodHVdgad07) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 3:07 |
 | 61 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 |
 | 62 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |

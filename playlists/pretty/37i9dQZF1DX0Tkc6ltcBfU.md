@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South: Rob49
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,024 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,070 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 43 | [Lay Down \- Remix](https://open.spotify.com/track/4MtdVcnZZ9WjssJV4whnPQ) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lay Down \(Remix\)](https://open.spotify.com/album/0iErPUXAYKozyKHkm4oAU9) | 3:33 |
 | 44 | [Red Leather](https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 6:54 |
 | 45 | [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/track/02h1SjpjOuceuRbMTvihBt) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/album/750gEj1yKmKpsgetJHUvtv) | 3:10 |
-| 46 | [BBGIRLGOSLOW](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BBGIRLGOSLOW](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
+| 46 | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
 | 47 | [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 |
 | 48 | [Ironic](https://open.spotify.com/track/36gwEZRF9Z2EeG3FYkbbmO) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Ironic](https://open.spotify.com/album/3JEizfDyZUx4Qb18AK4v1f) | 2:08 |
 | 49 | [Money Habits \(Bonus\)](https://open.spotify.com/track/60NQKbC7Lq1C6DOPAEpCCP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli: The Don](https://open.spotify.com/album/3gVuAqu4B6xxcXK8S5Mn3H) | 3:01 |

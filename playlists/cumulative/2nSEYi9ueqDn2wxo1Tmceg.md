@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,346 songs - 3 day 19 hr 55 min
+1,347 songs - 3 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Covet](https://open.spotify.com/track/5jaqtaQLqzZZPVigLPooiI) | [Tanzana](https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ) | [Covet](https://open.spotify.com/album/59SRm7QgaV7ucp9IGNiGYZ) | 3:30 | 2025-02-27 | 2025-04-10 |
 | [Coyotes](https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Coyotes](https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi) | 6:27 | 2022-09-14 | 2022-10-13 |
 | [CPR](https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [CPR](https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN) | 3:09 | 2024-01-10 | 2024-02-22 |
+| [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-27 |  |
 | [Crashing](https://open.spotify.com/track/01wbcVhScz3VGUJIVOZUF0) | [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Crashing](https://open.spotify.com/album/5b0JlVQMaHGTpLwmz7bVkD) | 3:29 | 2024-04-10 | 2024-05-16 |
 | [Crazy Blue Bells](https://open.spotify.com/track/1LeaVGUB2msQg5GSXZjEew) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Crazy Blue Bells](https://open.spotify.com/album/1zgMiLATWCMtkJIASSnfjr) | 4:28 | 2023-07-10 | 2023-09-14 |
 | [Creative Source \- A\-Trak Remix](https://open.spotify.com/track/2KLOgdrNPjzcG0nUzdfSxy) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Creative Source \(A\-Trak Remix\)](https://open.spotify.com/album/3qbugsp6yK8VsEHhNW6Qbp) | 3:41 | 2022-08-11 | 2022-09-29 |

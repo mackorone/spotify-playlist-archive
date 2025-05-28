@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with DJ Snake & Space Laces
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,873 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,892 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 12 | [Hurricane](https://open.spotify.com/track/4TGYYaUgukkUeDojVaytip) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Hurricane](https://open.spotify.com/album/0rVtUNGCE2q1b0CFaMIaLb) | 4:03 |
 | 13 | [RELIC](https://open.spotify.com/track/4IxYVV46tSKMPiLT4w76F8) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [RELIC](https://open.spotify.com/album/78TemQFA5d8qKy6MCCAp5p) | 2:48 |
 | 14 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
-| 15 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:34 |
+| 15 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 |
 | 16 | [Stars](https://open.spotify.com/track/6dHCJ5bhTbXx32URGkBFri) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [Stars](https://open.spotify.com/album/2XWNQ5Yu7DB0e2AJBlzR76) | 2:39 |
 | 17 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
 | 18 | [BLIND \(RAVE MIX\)](https://open.spotify.com/track/6zDkk2KqakCMWhLPZBDVPQ) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a), [Sur Back](https://open.spotify.com/artist/1mGtVmdBSR8eOlQfA61W8V) | [BLIND \(RAVE MIX\)](https://open.spotify.com/album/5OSrUzKnsdPWbOpmE25gXy) | 3:31 |

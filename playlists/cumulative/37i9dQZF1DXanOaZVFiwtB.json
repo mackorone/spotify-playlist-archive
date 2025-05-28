@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "FEEL SO BEST",
+        "url": "https://open.spotify.com/album/0sTnywAkkmX1HT4ZfOOcsk"
+      },
+      "artists": [
+        {
+          "name": "FEEL SO BAD",
+          "url": "https://open.spotify.com/artist/7cNhLqaTq5hsTHLlbGnbhW"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315733,
+      "name": "\u30d0\u30ea\u30d0\u30ea\u6700\u5f37No.1",
+      "url": "https://open.spotify.com/track/13AxywtjydRCxwtfY0pmua"
+    },
+    {
+      "album": {
         "name": "\u68ee\u5ddd\u7f8e\u7a42\u30d9\u30b9\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Be Free",
         "url": "https://open.spotify.com/album/2GsqsWkdHJWNvz3kkM4CRC"
       },

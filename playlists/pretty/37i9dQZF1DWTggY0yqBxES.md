@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,437 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,357 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 18 | [Weight On Me](https://open.spotify.com/track/2UyKJ6rfSlAOHNd6J4h1F1) | [Peter $un](https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Weight On Me](https://open.spotify.com/album/70aGDFO0P0wjy3LyfkEnsz) | 3:50 |
 | 19 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn) | 3:53 |
 | 20 | [Demons \(feat\. Denzel Curry\)](https://open.spotify.com/track/6EAOvJREWqTN1r87ZgW30l) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 2:16 |
-| 21 | [BBGIRLGOSLOW](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BBGIRLGOSLOW](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
+| 21 | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
 | 22 | [Young](https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Young](https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY) | 2:50 |
 | 23 | [poser](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 |
 | 24 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 |

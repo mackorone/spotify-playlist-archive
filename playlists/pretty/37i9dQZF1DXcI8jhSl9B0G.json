@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74788,
+  "num_followers": 74786,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105913,
+      "name": "Girl Like You",
+      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
       },
@@ -299,6 +315,22 @@
       "duration_ms": 203250,
       "name": "These Days",
       "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "you, all along",
+        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
+      },
+      "artists": [
+        {
+          "name": "This New Light",
+          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
+        }
+      ],
+      "duration_ms": 260049,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -363,38 +395,6 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 105913,
-      "name": "Girl Like You",
-      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "you, all along",
-        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
-      },
-      "artists": [
-        {
-          "name": "This New Light",
-          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
-        }
-      ],
-      "duration_ms": 260049,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+        }
+      ],
+      "duration_ms": 226789,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL"
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
       },
       "artists": [
         {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
         }
       ],
-      "duration_ms": 226789,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu"
+      "duration_ms": 215147,
+      "name": "Where the Light Is",
+      "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -631,22 +647,6 @@
       "duration_ms": 194884,
       "name": "Furniture",
       "url": "https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 215147,
-      "name": "Where the Light Is",
-      "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 191889,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Love Is an Open Road",
         "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
       },
@@ -735,70 +751,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Smile At The Party",
-        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
-      },
-      "artists": [
-        {
-          "name": "The Happiest Kind of Sad",
-          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
-        }
-      ],
-      "duration_ms": 266709,
-      "name": "Smile At The Party",
-      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "The Winner Takes It All",
-        "url": "https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU"
-      },
-      "artists": [
-        {
-          "name": "Didirri",
-          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
-        }
-      ],
-      "duration_ms": 319798,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 191889,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -819,6 +771,54 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Smile At The Party",
+        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
+      },
+      "artists": [
+        {
+          "name": "The Happiest Kind of Sad",
+          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
+        }
+      ],
+      "duration_ms": 266709,
+      "name": "Smile At The Party",
+      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "The Winner Takes It All",
+        "url": "https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU"
+      },
+      "artists": [
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "duration_ms": 319798,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "5am Paradise (Acoustic) [Sunrise Version]",
         "url": "https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 203300,
       "name": "5am Paradise (Acoustic) - Sunrise Version",
       "url": "https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 195512,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -867,6 +883,22 @@
       "duration_ms": 197184,
       "name": "Tell Me What You Dream About",
       "url": "https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Green Valleys",
+      "url": "https://open.spotify.com/track/5nxU2qr4jRVtd8IBEJf27E"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -919,38 +951,6 @@
       "duration_ms": 205615,
       "name": "Jackson - Cover",
       "url": "https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 195512,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Green Valleys",
-      "url": "https://open.spotify.com/track/5nxU2qr4jRVtd8IBEJf27E"
     },
     {
       "added_at": "2023-11-30 13:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Da Tweekaz & D\-Sturb
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,019 likes - 103 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,131 likes - 103 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,226 likes - 162 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,245 likes - 162 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 161 | [magic](https://open.spotify.com/track/6YRQpkfn5lyXDTJIZG60sB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [guardian & magic](https://open.spotify.com/album/4RiiB4I0Rd4W3oPX2rcCah) | 2:16 |
 | 162 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 |
 
-Snapshot ID: `aC2q1wAAAAC4nbdSOv/9WAv4iWri5zIk`
+Snapshot ID: `AAAAAM/yEt3Mv1xbmQD9eUnZOfvC3O5W`

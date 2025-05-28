@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: BNKR44
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,198 likes - 120 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,213 likes - 120 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

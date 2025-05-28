@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211470,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/6N8s1xbNJgiGXDox5laV1T"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde El Teatro Municipal De Lima",
         "url": "https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP"
       },

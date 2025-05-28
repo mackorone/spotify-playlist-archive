@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,953 songs - 6 day 16 hr 20 min
+2,954 songs - 6 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2613,6 +2613,7 @@
 | [This Is Over](https://open.spotify.com/track/0i0kga4P19eNI1dBEvk2B1) | [ZreniX](https://open.spotify.com/artist/2wPu7oLcqkelaRAb86PYpm) | [This Is Over](https://open.spotify.com/album/0fBqoUhlDTUmH0wvVBZSCK) | 3:19 | 2025-03-14 | 2025-03-29 |
 | [This Is What We Do \(Radio Edit\)](https://open.spotify.com/track/4QEJ53NZ6QMDT0ZptEbAYJ) | [The Criminal Sounds](https://open.spotify.com/artist/5jd7ABBc5LGS0ZFIzdBvLv) | [This Is What We Do \(Radio Edit\)](https://open.spotify.com/album/6zQgD4vuFdmme3dZahKhJU) | 3:22 | 2024-11-24 | 2024-11-30 |
 | [This Love](https://open.spotify.com/track/1oN0baex7YsYnLrv1WE2Pi) | [Mark Vox](https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL) | [This Love](https://open.spotify.com/album/2ezHxmPObJK1ZJAf2yJ6zK) | 2:49 | 2024-11-21 | 2024-12-06 |
+| [This Love Is Real \(Midnight Mix\)](https://open.spotify.com/track/3IfBQUB44iMIqKTgN8kvyu) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [This Love Is Real \(Midnight Mix\)](https://open.spotify.com/album/02LDw5jJd0gFAi3OYWGwZt) | 3:09 | 2025-05-27 |  |
 | [This Pain](https://open.spotify.com/track/22axRxZqMClirktRxYWLkf) | [Peetu S](https://open.spotify.com/artist/2G4Uvipvoj1FK1Fuetayle) | [This Pain](https://open.spotify.com/album/6EWPKLQKPlUHLa0R3YvOqc) | 3:59 | 2024-07-12 | 2024-07-19 |
 | [This Time](https://open.spotify.com/track/6MTvO2JpANHrxwEQe8xnNW) | [Vito V](https://open.spotify.com/artist/0xcfx1bbm3GNYmGBHT2hRg) | [This Time](https://open.spotify.com/album/4o3r3qELq1RX5Tz3g1FFoy) | 2:53 | 2024-08-16 | 2024-08-24 |
 | [This Too Shall Pass](https://open.spotify.com/track/64tjrDZ0xgaAFK7U2ia7pd) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [This Too Shall Pass](https://open.spotify.com/album/31De1EbpxSff3Pd3r6J8Id) | 2:47 | 2025-04-15 | 2025-04-25 |

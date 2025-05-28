@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Jonas Sanche, Soulnastyy & Movimiento Original
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,495 likes - 103 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,499 likes - 103 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 2 | [En la mia](https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf) | [SERPIENTE DE MADERA](https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1) | 2:55 |
 | 3 | [DPA](https://open.spotify.com/track/1IRETWWt28YMwuZvMrQ1X2) | [César Ibacache](https://open.spotify.com/artist/1KNT5gKVeL4GCA54To88sF), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Kennychops](https://open.spotify.com/artist/0usJiH7QYtSfZf5buUxOrC) | [DPA](https://open.spotify.com/album/5vYFrtRr1VMCJOcuBE9Kjb) | 4:13 |
 | 4 | [MAÑUM](https://open.spotify.com/track/5ZWlDpwrw4Pa4g61PKOvVt) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [MAÑUM](https://open.spotify.com/album/79rBmDSjEDnHA0nPCx6Xdh) | 3:32 |
-| 5 | [Cream Gang](https://open.spotify.com/track/6o7D7sZO7hyDfSPuijpaom) | [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [Cream Gang](https://open.spotify.com/album/4TsM7p9sjJ7hfdW0FbJQwt) | 3:10 |
+| 5 | [Cream Gang](https://open.spotify.com/track/6o7D7sZO7hyDfSPuijpaom) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Dj Jotakao](https://open.spotify.com/artist/3Hk4tl2exeutcaIkvdymN1), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Cream Gang](https://open.spotify.com/album/4TsM7p9sjJ7hfdW0FbJQwt) | 3:10 |
 | 6 | [Haciendo Historia](https://open.spotify.com/track/78YkL65MnKRC60cvePedyo) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Douglass](https://open.spotify.com/artist/5WR2RuBXuzsOzfFW8D8Ji6), [Rocco](https://open.spotify.com/artist/2h3vGzEnHE3ZkEDHgpLgaj) | [El Poder de la FÉ](https://open.spotify.com/album/6t9WDFn16iVwfjQfbKYgyT) | 3:20 |
 | 7 | [Brillante](https://open.spotify.com/track/0G1n934bhBPvIGOSJV4vk8) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [19Benzz](https://open.spotify.com/artist/1qQUVJLfTxXBPOzRqZNSTl) | [Brillante](https://open.spotify.com/album/00X3bycKDsgD8JwEO31wxE) | 3:04 |
 | 8 | [Don´t Stop \- En Vivo](https://open.spotify.com/track/5bTtgTUcCh38rjjhULrfe6) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [Deja Vu & Friends \(En Vivo\)](https://open.spotify.com/album/0vzARvVBH6MK2YJnq89MmR) | 3:02 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 102 | [Para Mi](https://open.spotify.com/track/1hphuK9TzPWklyDZfBKkuu) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Big Apple](https://open.spotify.com/artist/0A47yBLunNeq5dA5WYUjBe) | [Para Mi](https://open.spotify.com/album/6oc672Ni9438dEG5Jvo28m) | 2:07 |
 | 103 | [Laif Is Tu Short](https://open.spotify.com/track/45twljxHOjZ00JqdsOLbzQ) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:36 |
 
-Snapshot ID: `AAAAAFTZPU2NsDvJDzeJ1Q/2EMHRtxGi`
+Snapshot ID: `aB1vyQAAAACKn1BfCDUOBKf9kxv+xdW6`

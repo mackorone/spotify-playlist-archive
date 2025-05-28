@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 891 songs - 2 day 8 hr 54 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 893 songs - 2 day 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -899,5 +899,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 889 | [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 |
 | 890 | [go around](https://open.spotify.com/track/5o59DljGcWbxLc7QFM581z) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 1:05 |
 | 891 | [アンチグラビティーズ](https://open.spotify.com/track/2pn2p3yXsfQNePjCeBw7xB) | [METRO MEW](https://open.spotify.com/artist/1gJXZ1gVIHK0cYqQ9krQR7) | [アンチグラビティーズ](https://open.spotify.com/album/0tIdmbvNuFA3NUdhI6jjBG) | 4:06 |
+| 892 | [Spica](https://open.spotify.com/track/1cek46u96NSWBTwqOTayTO) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 2:45 |
+| 893 | [Sheltered and Abandoned](https://open.spotify.com/track/7ngnlaHfPxFth0ZgIeAE3s) | [Luschka](https://open.spotify.com/artist/6Bm8Ot3hu2JLulRMUtqMuc) | [Sheltered and Abandoned](https://open.spotify.com/album/66sU4LIZmfAPKZJ7MgP7a4) | 4:33 |
 
-Snapshot ID: `AAAFKXjpBR4aTiQuGKmD1NSOi+ilL1W6`
+Snapshot ID: `AAAFK4EHD9UB2vMPmCBEpIZseKeGknuC`

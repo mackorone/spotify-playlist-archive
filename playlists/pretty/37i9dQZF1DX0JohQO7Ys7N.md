@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Clark Keeng, Zawadi Mukami & Chris Barr
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,506 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,526 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Angel in my plane \- Raw Version](https://open.spotify.com/track/5iEEe8pDgMIpZN40d0vNMD) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Angel in my plane \(Raw Version\)](https://open.spotify.com/album/5wBS1QTqhRSl22YQy1UGTM) | 1:27 |
 | 60 | [In Love](https://open.spotify.com/track/5H8VsuRaxPKSSYxmmmuS04) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF), [Nick Agesa](https://open.spotify.com/artist/3908RRjZoX9xUohR7Sqlre) | [TAKE ONE](https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D) | 4:11 |
 
-Snapshot ID: `AAAAAOgxAHqd4047QlUFStqAZqxJGKsb`
+Snapshot ID: `aCcxZwAAAAAzPBaHDVDhn6DbjqEiP2gS`

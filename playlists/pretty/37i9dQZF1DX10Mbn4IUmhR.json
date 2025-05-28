@@ -1,6 +1,6 @@
 {
   "description": "All the South African and global pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=pEEcdvDUSQS1aoPeUcd3Mg\">Benson Boone</a>",
-  "num_followers": 3210,
+  "num_followers": 3209,
   "original_name": "i <3 pop ",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
+        "name": "Super Love Me",
+        "url": "https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa"
+      },
+      "artists": [
+        {
+          "name": "Grace Davies",
+          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+        }
+      ],
+      "duration_ms": 266500,
+      "name": "Super Love Me",
+      "url": "https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -127,6 +143,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
+        "name": "Dusty Reverie",
+        "url": "https://open.spotify.com/album/2BmWg38jnNNRqzu2KHBBzW"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/2b3OLghxHZj3CUbVmjRPwn"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Dusty Reverie",
+      "url": "https://open.spotify.com/track/3CzTr71bvzvuwS7HVO5VxW"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -143,18 +175,50 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Dusty Reverie",
-        "url": "https://open.spotify.com/album/2BmWg38jnNNRqzu2KHBBzW"
+        "name": "stole my heart",
+        "url": "https://open.spotify.com/album/0tTnCuLDQfUdNhZiY1KwT7"
       },
       "artists": [
         {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/2b3OLghxHZj3CUbVmjRPwn"
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
         }
       ],
-      "duration_ms": 185714,
-      "name": "Dusty Reverie",
-      "url": "https://open.spotify.com/track/3CzTr71bvzvuwS7HVO5VxW"
+      "duration_ms": 160000,
+      "name": "stole my heart",
+      "url": "https://open.spotify.com/track/6mTVPnnoByGL00gzy6SjPP"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Till the Sun Comes Up",
+        "url": "https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Till the Sun Comes Up",
+      "url": "https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -179,70 +243,6 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "stole my heart",
-        "url": "https://open.spotify.com/album/0tTnCuLDQfUdNhZiY1KwT7"
-      },
-      "artists": [
-        {
-          "name": "MOONGA K.",
-          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "stole my heart",
-      "url": "https://open.spotify.com/track/6mTVPnnoByGL00gzy6SjPP"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Till the Sun Comes Up",
-        "url": "https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9"
-      },
-      "artists": [
-        {
-          "name": "Sven Cilliers",
-          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Till the Sun Comes Up",
-      "url": "https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
         "name": "ARE YOU THAT SOMEBODY",
         "url": "https://open.spotify.com/album/0KddheijFBqvESiedrqn1u"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+      "duration_ms": 206880,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -291,6 +291,22 @@
       "duration_ms": 184959,
       "name": "Two World\u2019s Calling",
       "url": "https://open.spotify.com/track/15cx0SAjKNqLXr7taacDMm"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -647,18 +663,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "WHATEVERWHATEVER",
-        "url": "https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne"
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/6EetSjlBdamHHg82She66u"
       },
       "artists": [
         {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 148140,
-      "name": "WHATEVERWHATEVER",
-      "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
+      "duration_ms": 186766,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -679,18 +695,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/6EetSjlBdamHHg82She66u"
+        "name": "WHATEVERWHATEVER",
+        "url": "https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 186766,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE"
+      "duration_ms": 148140,
+      "name": "WHATEVERWHATEVER",
+      "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "a thousand years",
-      "url": "https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
         "name": "All The Rest EP",
         "url": "https://open.spotify.com/album/42fNgf84AGweDFXI7JMrpr"
       },
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "a thousand years",
+      "url": "https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 174183,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Super Love Me",
-        "url": "https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa"
-      },
-      "artists": [
-        {
-          "name": "Grace Davies",
-          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
-        }
-      ],
-      "duration_ms": 266500,
-      "name": "Super Love Me",
-      "url": "https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -843,22 +843,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Unapologetic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4HsLpiXxuq5kxvMEALLyrh"
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
         }
       ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2QTcJmSgeLRtG1c82ZYHQc"
+      "duration_ms": 196440,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -879,18 +875,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG"
+        "name": "Unapologetic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4HsLpiXxuq5kxvMEALLyrh"
       },
       "artists": [
         {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
         }
       ],
-      "duration_ms": 196440,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe"
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2QTcJmSgeLRtG1c82ZYHQc"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "I Don\u00b4t Feel",
-        "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
+        "name": "miss me (when you're gone) remixes",
+        "url": "https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I"
       },
       "artists": [
         {
-          "name": "Aggy Ally",
-          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
         }
       ],
-      "duration_ms": 208944,
-      "name": "I Don\u00b4t Feel",
-      "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
+      "duration_ms": 184915,
+      "name": "miss me (when you're gone)",
+      "url": "https://open.spotify.com/track/33eSunUHnta6mPW3EoTuRw"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -975,22 +975,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/3QP3Thp7juEUMEDAKsH1Dt"
+        "name": "I Don\u00b4t Feel",
+        "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
       },
       "artists": [
         {
-          "name": "Tokyo Project",
-          "url": "https://open.spotify.com/artist/6b6w8DXrLFEPxnG4kTqUnT"
-        },
-        {
-          "name": "TIMMS",
-          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+          "name": "Aggy Ally",
+          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2iYd12EeJxCs9Oxqk7UlHo"
+      "duration_ms": 208944,
+      "name": "I Don\u00b4t Feel",
+      "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
     },
     {
       "added_at": "2025-05-22 22:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Becky G, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,607 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,382 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
 | 50 | [POR LOS DOS](https://open.spotify.com/track/4xZljchUKqZ7H1OxgbFLqO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [POR LOS DOS](https://open.spotify.com/album/5dzt1f81snIZTttryWqhOb) | 3:07 |
 
-Snapshot ID: `aDSZjAAAAAA6t3xQi19+zOFkyKQ52NU7`
+Snapshot ID: `aDSZjAAAAACx8KJrGECyirHdopsuh/hV`

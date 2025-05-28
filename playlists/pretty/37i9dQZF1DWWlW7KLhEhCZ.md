@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: N.A.N.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,609 likes - 74 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,610 likes - 74 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

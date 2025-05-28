@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05ea\u05e8 \u05e8\u05d3\u05d0",
-  "num_followers": 31994,
+  "num_followers": 31999,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "aC+QqAAAAAChAXFvvzoKMtBUZHNBd23v",
   "tracks": [
-    {
-      "added_at": "2025-05-22 21:01:28",
-      "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 201004,
-      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
-      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
-    },
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 175500,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u"
+    },
+    {
+      "added_at": "2025-05-22 21:01:28",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 201004,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -111,6 +111,26 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
+        "name": "GODMOTHER (feat. Eden Ben Zaken)",
+        "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "duration_ms": 191516,
+      "name": "GODMOTHER (feat. Eden Ben Zaken)",
+      "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
+    },
+    {
+      "added_at": "2025-05-22 21:01:28",
+      "album": {
         "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
         "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 208706,
       "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
-    },
-    {
-      "added_at": "2025-05-22 21:01:28",
-      "album": {
-        "name": "GODMOTHER (feat. Eden Ben Zaken)",
-        "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Eden Ben Zaken",
-          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
-        }
-      ],
-      "duration_ms": 191516,
-      "name": "GODMOTHER (feat. Eden Ben Zaken)",
-      "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -343,22 +343,22 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
-        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
-        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
+        "name": "African Coast",
+        "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
       },
       "artists": [
         {
-          "name": "Girafot",
-          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+          "name": "Balkan Beat Box",
+          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
         },
         {
-          "name": "Daniel sun Krief",
-          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+          "name": "Trinidad James",
+          "url": "https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7"
         }
       ],
-      "duration_ms": 174452,
-      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
-      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+      "duration_ms": 182638,
+      "name": "African Coast",
+      "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -379,6 +379,26 @@
       "duration_ms": 169500,
       "name": "It\u2019ll Probably Be Fine",
       "url": "https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl"
+    },
+    {
+      "added_at": "2025-05-22 21:01:28",
+      "album": {
+        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
+        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
+      },
+      "artists": [
+        {
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+        }
+      ],
+      "duration_ms": 174452,
+      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
+      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -435,26 +455,6 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
-        "name": "African Coast",
-        "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
-      },
-      "artists": [
-        {
-          "name": "Balkan Beat Box",
-          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
-        },
-        {
-          "name": "Trinidad James",
-          "url": "https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7"
-        }
-      ],
-      "duration_ms": 182638,
-      "name": "African Coast",
-      "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
-    },
-    {
-      "added_at": "2025-05-22 21:01:28",
-      "album": {
         "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
         "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
-        "name": "DUMB (AATM) [Live]",
-        "url": "https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 149043,
-      "name": "DUMB (AATM) - Live",
-      "url": "https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw"
-    },
-    {
-      "added_at": "2025-05-22 21:01:28",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 167000,
       "name": "Only Love is Real",
       "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
+    },
+    {
+      "added_at": "2025-05-22 21:01:28",
+      "album": {
+        "name": "DUMB (AATM) [Live]",
+        "url": "https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 149043,
+      "name": "DUMB (AATM) - Live",
+      "url": "https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
-    },
-    {
-      "added_at": "2025-05-22 21:01:28",
-      "album": {
         "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
         "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 362108,
       "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
       "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2025-05-22 21:01:28",
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
+        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-05-22 21:01:28",
+      "album": {
         "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
         "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
-        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+        "name": "\u05d0\u05d9\u05d9\u05e4\u05d5\u05df (\u05d2\u05e8\u05e1\u05d4 \u05e2\u05d1\u05e8\u05d9\u05ea)",
+        "url": "https://open.spotify.com/album/42po7QHiTT56Vp0e2fMKKU"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Riff Cohen",
+          "url": "https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg"
         }
       ],
-      "duration_ms": 180224,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+      "duration_ms": 259200,
+      "name": "\u05d0\u05d9\u05d9\u05e4\u05d5\u05df - \u05d2\u05e8\u05e1\u05d4 \u05e2\u05d1\u05e8\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/5RCZpcNIes8bLNfsHw7q3y"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -751,22 +767,6 @@
     {
       "added_at": "2025-05-22 21:01:28",
       "album": {
-        "name": "\u05d0\u05d9\u05d9\u05e4\u05d5\u05df (\u05d2\u05e8\u05e1\u05d4 \u05e2\u05d1\u05e8\u05d9\u05ea)",
-        "url": "https://open.spotify.com/album/42po7QHiTT56Vp0e2fMKKU"
-      },
-      "artists": [
-        {
-          "name": "Riff Cohen",
-          "url": "https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "\u05d0\u05d9\u05d9\u05e4\u05d5\u05df - \u05d2\u05e8\u05e1\u05d4 \u05e2\u05d1\u05e8\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/5RCZpcNIes8bLNfsHw7q3y"
-    },
-    {
-      "added_at": "2025-05-22 21:01:28",
-      "album": {
         "name": "\u05d9\u05ea\u05d2\u05dc\u05d4 \u05d4\u05d0\u05d5\u05e8",
         "url": "https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 197566,
       "name": "\u05de\u05e9\u05d4\u05d5 \u05dc\u05ea\u05ea",
       "url": "https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi"
+    },
+    {
+      "added_at": "2025-05-22 21:01:28",
+      "album": {
+        "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 408830,
+      "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+      "url": "https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix"
     },
     {
       "added_at": "2025-05-22 21:01:28",
@@ -799,22 +815,6 @@
       "duration_ms": 149053,
       "name": "\u05dc\u05d0 \u05dc\u05d3\u05d0\u05d5\u05d2 (\u05e2\u05dd \u05d9\u05d5\u05e0\u05d9 \u05d1\u05dc\u05d5\u05da)",
       "url": "https://open.spotify.com/track/18C8YzQwEbgNPbSVg8o0Zz"
-    },
-    {
-      "added_at": "2025-05-22 21:01:28",
-      "album": {
-        "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
-        "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 408830,
-      "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
-      "url": "https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix"
     },
     {
       "added_at": "2025-05-22 21:01:28",

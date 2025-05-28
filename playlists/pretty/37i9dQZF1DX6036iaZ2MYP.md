@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Tekno
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,169 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,299 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 16 | [FATÚMATA](https://open.spotify.com/track/1qbmBZepH02Lyfc1hdo3hz) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0svMu91wf0T13Of4I0YU9v) | 2:54 |
 | 17 | [Olumbah](https://open.spotify.com/track/3u6A2V5GHKRCtc1lLdRu5U) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6) | [Olumbah](https://open.spotify.com/album/22fGnv1bvPt80kejX0zshd) | 2:57 |
 | 18 | [Pikachu](https://open.spotify.com/track/5oeJLAPg60CeNRhugx97NO) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Thérapie](https://open.spotify.com/album/7jElTv2Gm36NOpymhRrHZL) | 2:03 |
-| 19 | [Sixth Sense Ft\. AMANi](https://open.spotify.com/track/6mwss5opb48PmLi1wf9H2I) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [AMANi](https://open.spotify.com/artist/1sQLw35hDRaCMyfWODi2vl) | [Sixth Sense](https://open.spotify.com/album/6CKRtVzH77QIb6FFXPQIlb) | 3:03 |
+| 19 | [Sixth Sense](https://open.spotify.com/track/6mwss5opb48PmLi1wf9H2I) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [AMANi](https://open.spotify.com/artist/1sQLw35hDRaCMyfWODi2vl) | [Sixth Sense](https://open.spotify.com/album/6CKRtVzH77QIb6FFXPQIlb) | 3:03 |
 | 20 | [Girlfriend \(feat\. Tayc\)](https://open.spotify.com/track/2zrvFZHDSxreEJoQx4BRGm) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Girlfriend \(feat\. Tayc\)](https://open.spotify.com/album/68Gsi5EWwLNh7lj5Jw6S9V) | 2:50 |
 | 21 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 |
 | 22 | [Mauvais Djo](https://open.spotify.com/track/6rgsWk1OwhExnV1JrV7jV4) | [ARISTOT](https://open.spotify.com/artist/3zVU2fD2B9G6o2N6vB0qbH) | [Mauvais Djo](https://open.spotify.com/album/3pud1qqRIED4b35kwGbvpp) | 2:06 |

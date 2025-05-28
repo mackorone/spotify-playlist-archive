@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 205533,
       "name": "Bashfulness",
       "url": "https://open.spotify.com/track/65xSudQzn6jM0QRXcSMcXU"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 193760,
       "name": "Just a friend",
       "url": "https://open.spotify.com/track/6U2OX5cwoox9apyegYq6rF"
@@ -3866,7 +3866,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-28",
       "duration_ms": 220160,
       "name": "Story of my friend (feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/7eDvrtFJwLFfVWt63reYJZ"
@@ -4457,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/3EfqRKhTgDR7YMvWcnNXoE"
+      },
+      "artists": [
+        {
+          "name": "Milktea",
+          "url": "https://open.spotify.com/artist/0h4kh7awH9cpPslRGqbHsN"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196656,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/71ENfcrkDDnrfRTz6AolR5"
+    },
+    {
+      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -4755,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "YOU TOO?",
+        "url": "https://open.spotify.com/album/3BfzmrEtYhO9RlVkf6lIN4"
+      },
+      "artists": [
+        {
+          "name": "SNAZZY",
+          "url": "https://open.spotify.com/artist/33ZFdfByy5vw8h4VodoSzo"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194664,
+      "name": "YOU TOO?",
+      "url": "https://open.spotify.com/track/2X7IfV1hmIqvIc8koxIaph"
+    },
+    {
+      "album": {
         "name": "Eternal Moment \uc601\uc6d0\uc758 \uc21c\uac04",
         "url": "https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36"
       },
@@ -4966,6 +5002,24 @@
       "duration_ms": 205346,
       "name": "\ub3c5\uc2e0\uc8fc\uc758 (i love you)",
       "url": "https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\uc73c\ub85c (\u2665x4)",
+        "url": "https://open.spotify.com/album/6TKRDsf3AlJFPjgjf7Y06a"
+      },
+      "artists": [
+        {
+          "name": "SEOY",
+          "url": "https://open.spotify.com/artist/4NqrhuH2B9jU1aCWpXU1Yh"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177444,
+      "name": "\uc0ac\ub791\uc73c\ub85c (\u2665x4)",
+      "url": "https://open.spotify.com/track/5YKQQA2H0aHhRhPubGd9Ku"
     },
     {
       "album": {

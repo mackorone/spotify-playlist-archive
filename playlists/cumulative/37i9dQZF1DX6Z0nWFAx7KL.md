@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-316 songs - 15 hr 38 min
+317 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-11-27 | 2024-02-08 |
 | [Summer Jams](https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams](https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ) | 2:17 | 2022-09-22 | 2024-03-21 |
 | [Summer Stars](https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Summer Stars](https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3) | 2:30 | 2022-09-15 | 2024-08-02 |
+| [Sun Is Rising](https://open.spotify.com/track/0PoUwYvKs4n36lSbVgHqjC) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG) | [Sun Is Rising](https://open.spotify.com/album/22NUPu3hXxi59AC1yJpNxk) | 1:59 | 2025-05-27 |  |
 | [Sunday Monday](https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Sunday Monday](https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq) | 2:27 | 2022-12-22 | 2024-03-21 |
 | [Sunlight](https://open.spotify.com/track/595M3e9mqepEd19NGVEABi) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sunlight](https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM) | 3:49 | 2023-10-02 | 2024-09-11 |
 | [Sunset](https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Sunset](https://open.spotify.com/album/75SOVqtkavzS4o2DlS9KcG) | 2:58 | 2024-07-04 | 2024-09-27 |
@@ -279,7 +280,7 @@
 | [Tell Me How](https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Tell Me How](https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv) | 2:12 | 2022-10-30 | 2024-03-21 |
 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 | 2024-11-08 | 2025-03-21 |
 | [That Kinda Love](https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc) | 2:44 | 2024-01-11 | 2024-04-19 |
-| [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 | 2024-04-11 |  |
+| [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 | 2024-04-11 | 2025-05-28 |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-09-15 | 2024-07-05 |
 | [The Boys Of Summer](https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [The Boys Of Summer](https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E) | 2:17 | 2023-06-08 | 2024-03-21 |
 | [the key \- Tim van Werd remix](https://open.spotify.com/track/2HMZhXZhX3ErAds3UmFhem) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [the key \(Tim van Werd remix\)](https://open.spotify.com/album/42qOGIkeeyxxc2i7ZMXrJp) | 4:30 | 2024-04-11 | 2024-10-04 |
